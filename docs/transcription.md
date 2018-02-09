@@ -40,8 +40,7 @@ Here we collect `P002174` as the tablet *number*, and
 We also add the name of the corpus as a feature *corpus* to the node type
 *tablet*.
 
-Subsequent lines starting with `#` are treated as comment lines.
-See below.
+Subsequent lines starting with `#` are treated as comment lines. See below.
 
 Subsequent lines of the form
 
@@ -196,7 +195,7 @@ two *subcases*: one with number `1a`, containing lines `1a1` and `1a2`, and one
 with number `1b`, containing just line `1b`.
 
 Cases and subcases represent squares on a tablet. The deepest levels are
-degenerated squares, they have just one dimension: lines.
+degenerated squares, they have just one dimension: they are lines.
 
 Quad and subquad
 ----------------
@@ -209,8 +208,8 @@ However, a quad can be filled by more than one *sign*. So, from a textual
 perspective, a *quad* is not yet the basic level.
 
 We get quads from lines by splitting the line material (the part after the
-number) on white space. There is one complication: numerals. A numeral in
-transcription is
+number) on white space. There is one complication: numerals. An example of a
+numeral in transcription is
 
     2(N19)
 
@@ -218,8 +217,10 @@ A numeral is a *sign* that maybe connected to a quad, either before or after. In
 the transcription, the connection is marked with `,` :
 
     1.a. 3(N01) , APIN~a 3(N57) UR4~a
+    1. 2(N01) , 3(N57) 
+    1. [...] , 1(N39~a)#
 
-Here numeral `3(N01)` is connected to quad `APIN~a` .
+In the first case the numeral `3(N01)` is connected to quad `APIN~a` .
 
 Before splitting line material on white space, we remove the white space around
 `,`.
