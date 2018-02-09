@@ -1,6 +1,6 @@
 import os
-import sys
-import re
+import collections
+import pprint
 from glob import glob
 
 REPO = 'nino-cunei'
@@ -11,10 +11,16 @@ SOURCE_DIR = f'{REPO_DIR}/sources/{ORIGIN}'
 FACES = set('''
     obverse
     reverse
+    surface
+    top
+    bottom
+    left
 '''.strip().split())
 
+pp = pprint.PrettyPrinter(indent=2, width=100, compact=False)
+
+
 def readCorpora():
-    lines = []
     files = glob(f'{SOURCE_DIR}/*.txt')
     nLines = 0
     for f in files:
@@ -29,21 +35,26 @@ def readCorpora():
 
 
 def parseCorpora():
-    corpora = {}
-    thisCorpus = None
-    thisTablet = None
+    corpora = collections.OrderedDict()
+    tablets = []
+    tabletIndex = {}
+    curTablet = None
+    curFace = None
     errors = {}
+    prevCorpus = None
 
     def error(key, p):
         errors.setdefault(key, []).append('{}.{}: {}'.format(*p))
 
     for p in readCorpora():
         (corpus, ln, line) = p
-        if corpus not in corpora:
-            thisCorpus = {}
-            corpora[corpus] = thisCorpus
-            thisTablet = None
-            thisFace = None
+        if corpus != prevCorpus:
+            curTablet = None
+            curFace = None
+            if prevCorpus is not None:
+                corpora[prevCorpus]['to'] = len(tablets)
+            corpora[corpus] = {'from': len(tablets)}
+        prevCorpus = corpus
         if len(line) == 0:
             continue
         fc = line[0]
@@ -56,55 +67,68 @@ def parseCorpora():
             else:
                 tNum = comps[0].strip()
                 tName = comps[1].strip()
-            if tNum in thisCorpus:
-                prevLn = thisCorpus[tNum]['ln']
-                error(
-                    f'tablet number duplicate, see line {prevLn}',
-                    p
-                )
-            tabletData = {
+            if tNum in tabletIndex:
+                prevLn = tablets[tabletIndex[tNum]]['srcLn']
+                error(f'tablet number duplicate, see line {prevLn}', p)
+            curTablet = {
+                'num': tNum,
                 'name': tName,
-                'faces': {},
-                'ln': ln,
+                'faces': [],
+                'corpus': corpus,
+                'srcLn': ln,
             }
-            thisCorpus[tNum] = tabletData
-            thisTablet = tabletData['faces']
-            thisFace = None
+            curFace = None
+            tabletIndex[tNum] = len(tablets)
+            tablets.append(curTablet)
         elif fc == '@':
             kind = line[1:].strip()
             if kind == 'tablet':
                 pass
             elif kind in FACES:
-                if thisCorpus is None:
+                if curTablet is None:
                     error('face outside tablet', p)
                 else:
-                    thisTablet[kind] = {'columns': []}
-                    thisFace = kind
+                    curFace = kind
+                    curTablet[curFace] = {
+                        'columns': [],
+                        'srcLn': ln,
+                    }
             else:
                 comps = kind.split()
                 if comps[0] == 'column':
                     colNum = comps[1] if len(comps) > 1 else '1'
-                    if thisFace is None:
+                    if curFace is None:
                         error('column outside face', p)
                     else:
-                        thisTablet[thisFace]['columns'].append({'num': colNum})
+                        curTablet[curFace]['columns'].append({
+                            'num': colNum,
+                            'lines': [],
+                            'srcLn': ln,
+                        })
                 else:
                     error(f'Face unknown: "{kind}"', p)
+    corpora[prevCorpus]['to'] = len(tablets) - 1
 
-    printResults(corpora)
+    printResults(corpora, tablets)
     printErrors(errors)
 
 
-def printResults(corpora):
-    limit = 10
-    for (corpus, corpusData) in corpora.items():
-        print(f'Corpus {corpus} ({len(corpusData)} tablets)')
-        for (i, (tNum, tabletData)) in enumerate(corpusData.items()):
-            if i >= limit - 1:
-                break
-            print(f'\t{tNum} = {tabletData["name"]}')
-        if limit < len(corpusData):
-            print(f'\tand {len(corpusData) - limit} more')
+def printResults(corpora, tablets):
+    limit = 2
+    for (corpus, boundaries) in corpora.items():
+        start = boundaries['from']
+        end = boundaries['to']
+        rest = 0
+        if end > start + limit:
+            end = start + limit
+            rest = end - (start + limit)
+
+        print(f'CORPUS {corpus} TABLETS {start}:{end}')
+        for tabletData in tablets[start:end]:
+            print(f'TABLET {tabletData["num"]}')
+            pp.pprint(tabletData)
+        if rest:
+            print(f'AND {rest} TABLETS MORE')
 
 
 def printErrors(errors):
