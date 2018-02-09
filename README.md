@@ -29,15 +29,23 @@ In this repo we convert the following corpora to Text-Fabric:
 We have a [specification](docs/transcription.md) of the transcription format and
 how we model the text in Text-Fabric.
 
+Status
+======
+
+This is **work in progress!**
+
+*   2018-02-09 Conversion coding has just started. We only parse supra-line units.
+    We do not yet generate any Text-Fabric data. The sub-line parsing will be the
+    most work.
+
 Authors
 =======
 
 This repo is joint work of
 
-* [Justin Cale Johnson](https://www.universiteitleiden.nl/en/staffmembers/cale-johnson#tab-1)
-  at [Assyriology, University Leiden](https://www.universiteitleiden.nl/en/humanities/institute-for-area-studies/assyriology)
-  and 
-  [NINO](http://www.nino-leiden.nl) library.
-* [Dirk Roorda](https://www.linkedin.com/in/dirkroorda/)
-  at
-  [DANS](https://www.dans.knaw.nl)
+*   [Justin Cale Johnson](https://www.universiteitleiden.nl/en/staffmembers/cale-johnson#tab-1)
+    at
+    [Assyriology, University Leiden](https://www.universiteitleiden.nl/en/humanities/institute-for-area-studies/assyriology)
+    and [NINO](http://www.nino-leiden.nl) library.
+*   [Dirk Roorda](https://www.linkedin.com/in/dirkroorda/) at
+    [DANS](https://www.dans.knaw.nl)
