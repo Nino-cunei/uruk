@@ -164,11 +164,16 @@ comma separated list.
 Lines starting with `$` or `#` are comments to the current object (tablet, face,
 column, or line).
 
-    &P002718 = ATU 3, pl. 078, W 17729,cn+ #version: 0.1 #atf: lang qpc
+    &P002718 = ATU 3, pl. 078, W 17729,cn+
+    #version: 0.1
+    #atf: lang qpc
 
 and
 
-    4.  1(N01) , [...] $ rest broken @column 3 $ beginning broken
+    4.  1(N01) , [...]
+    $ rest broken
+    @column 3
+    $ beginning broken
 
 We collect them in a feature *comments*. If there are several comment lines for
 the same object, we combine them into one string, separated by a newline.
