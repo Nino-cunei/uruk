@@ -34,9 +34,10 @@ Authors
 
 This repo is joint work of
 
-* [Justin Cale Johnson](http://www.geschkult.fu-berlin.de/en/e/babmed/staff/johnson.html)
-  at
-  [NINO](http://www.nino-leiden.nl)
+* [Justin Cale Johnson](https://www.universiteitleiden.nl/en/staffmembers/cale-johnson#tab-1)
+  at [Assyriology, University Leiden](https://www.universiteitleiden.nl/en/humanities/institute-for-area-studies/assyriology)
+  and 
+  [NINO](http://www.nino-leiden.nl) library.
 * [Dirk Roorda](https://www.linkedin.com/in/dirkroorda/)
   at
   [DANS](https://www.dans.knaw.nl)

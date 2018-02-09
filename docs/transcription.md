@@ -40,9 +40,8 @@ Here we collect `P002174` as the tablet *number*, and
 We also add the name of the corpus as a feature *corpus* to the node type
 *tablet*.
 
-Subsequent lines starting with `#` are treated as comment lines. For
-completeness sake, we combine all those lines and at them as a feature *comment*
-to the tablet.
+Subsequent lines starting with `#` are treated as comment lines.
+See below.
 
 Subsequent lines of the form
 
