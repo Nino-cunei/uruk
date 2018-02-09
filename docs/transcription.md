@@ -144,25 +144,55 @@ Like the numbers of columns, line numbers may have a `'` at the end. In the
 presence of a prime, we add to the *line* a feature *countVisible* with value
 `1`.
 
+### Crossrefs ###
+
+Lines can be cross referenced with lines on other tablets (not necessarily
+within this corpus). A cross-reference consists of a line after the source line:
+
+    1.  1(N01) , |1(N57).SZUBUR|
+    >> P000014 oi2
+
+This means that line `1.` corresponds to line `oi2` in text `P000014`
+
+We collect this information in the feature *crossref* on lines, with value
+`P000014.oi2`.
+
+If there are several cross-references from the same line, we collect them in a
+comma separated list.
+
+### Comments ###
+
+Lines starting with `$` or `#` are comments to the current object (tablet, face,
+column, or line).
+
+    &P002718 = ATU 3, pl. 078, W 17729,cn+ #version: 0.1 #atf: lang qpc
+
+and
+
+    4.  1(N01) , [...] $ rest broken @column 3 $ beginning broken
+
+We collect them in a feature *comments*. If there are several comment lines for
+the same object, we combine them into one string, separated by a newline.
+
 Case and subcase
 ----------------
 
 Lines can be grouped in chunks, which we call *cases* and *subcases*.
 
-All lines in a face that start with the same number, form a *case*.
-The number itself is recorded in the feature *number* on the node type *case*.
+All lines in a face that start with the same number, form a *case*. The number
+itself is recorded in the feature *number* on the node type *case*.
 
-So lines with numbers `1a`, `1b`, and `2` form two cases: one with
-number `1`, containing lines `1a` and `1b`, and one with number `2`, containing just
-line `2`.
+So lines with numbers `1a`, `1b`, and `2` form two cases: one with number `1`,
+containing lines `1a` and `1b`, and one with number `2`, containing just line
+`2`.
 
-If the numbers show deeper hierarchy, we build *subcases*.
-Lines with numbers `1a1`, `1a2`, `1b`, and `2` form (again) two cases.
-The case with number `1` has two *subcases*: one with number `1a`, containing lines
-`1a1` and `1a2`, and one with number `1b`, containing just line `1b`.
+If the numbers show deeper hierarchy, we build *subcases*. Lines with numbers
+`1a1`, `1a2`, `1b`, and `2` form (again) two cases. The case with number `1` has
+two *subcases*: one with number `1a`, containing lines `1a1` and `1a2`, and one
+with number `1b`, containing just line `1b`.
 
-Cases and subcases represent squares on a tablet.
-The deepest levels are degenerated squares, they have just one dimension: lines.
+Cases and subcases represent squares on a tablet. The deepest levels are
+degenerated squares, they have just one dimension: lines.
 
 Quad and subquad
 ----------------
@@ -171,25 +201,26 @@ Lines are subdivided in *quads*. A quad is an atomic piece of space on a tablet
 in a geometrical sense. Lines, columns, faces, tablets are built up from quads,
 eventually.
 
-However, a quad can be filled by more than one *sign*.
-So, from a textual perspective, a *quad* is not yet the basic level.
+However, a quad can be filled by more than one *sign*. So, from a textual
+perspective, a *quad* is not yet the basic level.
 
-We get quads from lines by splitting the line material (the part after the number)
-on white space.
-There is one complication: numerals.
-A numeral in transcription is
+We get quads from lines by splitting the line material (the part after the
+number) on white space. There is one complication: numerals. A numeral in
+transcription is
 
-  2(N19)
+    2(N19)
 
-A numeral is a *sign* that maybe connected to a quad,
-either before or after.
-In the transcription, the connection is marked with ` , ` :
+A numeral is a *sign* that maybe connected to a quad, either before or after. In
+the transcription, the connection is marked with `,` :
 
-  1.a. 3(N01) , APIN~a 3(N57) UR4~a
+    1.a. 3(N01) , APIN~a 3(N57) UR4~a
 
 Here numeral `3(N01)` is connected to quad `APIN~a` .
 
-Before splitting line material on white space, we remove the white space around `,`.
+Before splitting line material on white space, we remove the white space around
+`,`.
+
+If the line starts with `,` we remove it.
 
 After the splitting, we end up with quads that may have a numeral attached
 before or after.
@@ -200,15 +231,15 @@ There are other ways to compose quads.
 
 A quad may be delimited by `| |` :
 
-  5. 1(N01) , |DUG~bx1(N57)|
+    5.  1(N01) , |DUG~bx1(N57)|
 
-The quad `|DUG~bx1(N57)|` is the composition of two *subquads* :
-`DUG~b` and `1(N57)`, composed by operator `x`.
+The quad `|DUG~bx1(N57)|` is the composition of two *subquads* : `DUG~b` and
+`1(N57)`, composed by operator `x`.
 
-There are several operators, and the composition may involve several levels.
-If that is the cases, brackets specify the construction:
+There are several operators, and the composition may involve several levels. If
+that is the cases, brackets specify the construction:
 
-  2. 4(N01) 1(N39~a) 1(N24) , |NINDA2x(HI@g~a.1(N06))|
+    2.  4(N01) 1(N39~a) 1(N24) , |NINDA2x(HI@g~a.1(N06))|
 
 The quad `|NINDA2x(HI@g~a.1(N06))|` is the composition by `x` of subquads
 `NINDA2` and `HI@g~a.1(N06)` and the latter is the composition by `.` of
@@ -216,127 +247,170 @@ subquads `HI@g~a` and `.1(N06)`.
 
 We can now state the rules a bit more precisely.
 
-If we take line material, remove spaces around the `,`, and then split on whitespace,
-we get the objects that correspond to *quads*.
+If we take line material, remove spaces around the `,`, and then split on
+whitespace, we get the objects that correspond to *quads*.
 
 Every quad is one of:
-* a single *sign*, which is either
-  * a numeral like `1(N57)`, or
-  * a string of letters, numbers, `~`, `#`
-* a composite of *subquads*, which is either
-  * a string having a `,` in it:
-    the immediate subquads are obtained by splitting on the `,`; or
-  * a string delimited by `| |`;
-    the immediate subquads are obtained by splitting on one of the
-    operators.
+
+*   a single *sign*, which is either
+    *   a numeral like `1(N57)`, or
+    *   a string of letters, numbers, possibly with variant markings (`~`), or flags
+        (`#`);
+*   a composite of *subquads*, which is either
+    *   a string having a `,` in it: the immediate subquads are obtained by
+        splitting on the `,`; or
+    *   a string delimited by `| |`; the immediate subquads are obtained by
+        splitting on one of the operators.
 
 Every subquad is one of:
-* a single *sign* (as in quad)
-* a composite of subquads, which is
-  * a string delimited by `( )`;
-    the immediate subquads are obtained by splitting on one of the
-    operators.
 
-Operators are single characters, one of `x . % / +`.
+*   a single *sign* (as in quad)
+*   a composite of subquads, which is
+    *   a string delimited by `( )`; the immediate subquads are obtained by
+        splitting on one of the operators.
+
+Operators are single characters, one of `x . % / + &`.
 
 There is no space between the operators and the subquads.
 
-### Model
+### Edges for (sub)quads ###
+
 We represent the structure of quads and subquads by means of relationships:
-* *parent* : from sign or subquad to immediate parent;
-  quads do not have a parent;
-* *child* : from (sub)quad to immediate children;
-  signs do not have children;
-* *left*: from sign or subquad to left sibling;
-* *right*: from sign or subquad to right sibling.
+
+*   *parent* : from sign or subquad to immediate parent; quads do not have a
+    parent;
+*   *child* : from (sub)quad to immediate children; signs do not have children;
+*   *left*: from sign or subquad to left sibling;
+*   *right*: from sign or subquad to right sibling.
 
 For *left* and *right* we have:
-* edges are labeled with the operator that connects the two operands;
-* quads do not have left and right edges.
 
-There is a bit of redundancy here.
-We apply it, because it will make search operations easier in the resulting dataset. 
-    
-### Flags
-Quads, subquads and signs may have *flags*.
-In transcription they show up as a special trailing character.
-Flags code for damage or confidence of sign name or correction.
+*   edges are labeled with the operator that connects the two operands;
+*   quads do not have left and right edges.
 
-#### Damage
+There is a bit of redundancy here. We apply it, because it will make search
+operations easier in the resulting dataset.
+
+### Flags ###
+
+Quads and signs may have *flags*. Subquads do not have them. In transcription
+they show up as a special trailing character. Flags code for damage or
+confidence of sign name or correction.
+
+#### Damage ####
+
 Flag `#`.
 
 Collected as *damage=1*.
 
 Example:
 
-  1. 1(N48) 7(N34) 3(N14) , BARA2~a#
+    1.  1(N48) 7(N34) 3(N14) , BARA2~a#
 
-#### Uncertain
-Flag `?`
-Unsure identification.
+#### Uncertain ####
+
+Flag `?` Unsure identification.
 
 Collected as *uncertain=1*.
 
 Example:
 
-  1. 1(N45) 8(N14)# , X SZE~a MA2?
+    1.  1(N45) 8(N14)# , X SZE~a MA2?
 
-#### Correction
+#### Correction ####
+
 Flag `!(` *written* `)`
 
 The sign has been corrected (like in Hebrew *ketiv/qere*).
 
-The sign between the brackets is what is written (ketiv),
-the sign before the `!` is the corrected form (qere).
+The sign between the brackets is what is written (ketiv), the sign before the
+`!` is the corrected form (qere).
 
 Collected as *written=written*.
 
 Example:
 
-  5. 1(N01) , NAM2 URU~a1!(GURUSZ~a)?
+    5.  1(N01) , NAM2 URU~a1!(GURUSZ~a)?
 
 Note that flags on a numeral are written within the brackets.
 
 There may be multiple flags:
 
-  1. 1(N48) 7(N34) 3(N14) , BARA2~a#
+    1.  1(N48) 7(N34) 3(N14) , BARA2~a#
 
-broken
-======
+Cluster
+-------
 
-? questionable ! \*collated and corrected (you are looking at a copy that is
-incorrect for this composite. The original is being transcribed here, please do
-not fuss over it) Flags come behind variants (see below) See this:
+Several quads may be bracketed by `( )` or by `[ ]`: together they form a
+*cluster*.
 
-5.  1(N01) , NAM2 URU~a1!(GURUSZ~a)? This is a correction of the original. The
-    original says GURUSZ~a, but questionable. The editor thinks this should be
-    URU~a1. (like ketiv/qere).
+    2.c. , (|GIR3~cxSZE3|# NUN~a# [...])a
 
-Cluster ( composites)letters: indicates proper name. The letters should always
-be 'a'. So we translate the a to a feature saying: this is a proper name.
+    3.  [...] , [MU |ZATU714xHI@g~a|]
 
-Sign (slot) Some call it glyph. The basic unit for text-fabric.
+### Proper names ###
 
-Details Numbers: numbers and the next glyph are separated by " , ". But in many
-cases lines start with " , ". Then the " , " can be ignored.
+Clusters with `( )` indicate proper names. The closing bracket is always
+followed by the letter `a`.
 
-Outside composites [ composites ] missing sing(s) [...] sings missing:
-unspecified number
+Collected in a feature *properName=1*.
 
-composite~a indicates sign variant. The modifiers could be ~, ~a, ~b, etc. Signs
-may have variants, composites as well. Part of the name of the sign. There is a
-sign list.
+### Missing signs ###
 
-Warning In order to produce transcribed text you cannot rely on features of
-slots alone. Or make an artificial suffix feature, containing all transcription
-text between the sign and the next one.
+Clusters with `[ ]` indicate that there are missing signs here.
 
-Crossrefs
+Collected in a feature *missing=1*.
 
-> > Q000002 009 Previous line corresponds to text identified by Q000002 at line
-> > 009
+Sign
+----
 
-Comments @tablet @obverse @column 1 $ beginning broken
+This is the basic unit of writing. Several signs may fill the space of a *quad*,
+the basic geometrical unit.
 
-$ lines are comments to the current object Same for # lines within transcribed
-text (not within metadata)
+In transcription, they are either numerals, see above, or strings of letters and
+digits, possibly augmented with variants and flags.
+
+**The node type *sign* is our slot type in Text-Fabric.**
+
+Signs are sometimes called glyphs.
+
+We will collect the text of a sign, without variants and flags, and store it in
+the sign feature *glyph*.
+
+### Variants ###
+
+The glyph part of a sign may be followed by a `~` and then a letter. This
+indicates that the tablet has a variant of the glyph here. For practical
+purposes it might be a completely different glyph.
+
+    1.c. , (PIRIG~b1)a
+    3.  1(N01) 1(N39~a) 1(N24) 1(N28) ,
+
+Note that a variant of a numeral is written within the brackets.
+
+We collect the variant in the sign feature *variant=letter*.
+
+### Flags ###
+
+We have encountered them for quads already, see above.
+
+Note that flags on numerals come *after* the brackets.
+
+    5.  , |NI~a.RU| GIBIL SU~a 3(N57)# GU7# [...]
+
+### Missing signs ###
+
+There are notations for missing signs.
+
+    [...]
+
+This denotes one or more missing signs. We do create a sign node for it, we put
+its *glyph* feature to `[...]`, and we add the feature *missing=1*.
+
+Warning
+=======
+
+In order to produce transcribed text you cannot rely on features of slots alone.
+Unless we make an artificial suffix feature, containing all transcription text
+between a sign and the next one. Alternatively, we could reproduce transcription
+text by walking down the quad and subquad nodes.
