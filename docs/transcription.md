@@ -157,10 +157,14 @@ within this corpus). A cross-reference consists of a line after the source line:
     1.  1(N01) , |1(N57).SZUBUR|
     >> P000014 oi2
 
+    1'. [1(N01)] , [...] 
+    >>Q000023 026 ? 
+
 This means that line `1.` corresponds to line `oi2` in text `P000014`
+and that line `1'.` corresponds to line `026` in text `Q000023`, although with uncertainty.
 
 We collect this information in the feature *crossref* on lines, with value
-`P000014.oi2`.
+`P000014.oi2` and `Q000023.026:?` respectively.
 
 If there are several cross-references from the same line, we collect them in a
 comma separated list.
@@ -208,8 +212,7 @@ Quad and subquad
 ----------------
 
 Lines are subdivided in *quads*. A quad is an atomic piece of space on a tablet
-in a geometrical sense. Lines, columns, faces, tablets are built up from quads,
-eventually.
+in a geometrical sense.
 
 However, a quad can be filled by more than one *sign*. So, from a textual
 perspective, a *quad* is not yet the basic level.
@@ -229,10 +232,9 @@ the transcription, the connection is marked with `,` :
 
 In the first case the numeral `3(N01)` is connected to quad `APIN~a` .
 
-Before splitting line material on white space, we remove the white space around
-`,`.
+If the line starts with ` , ` we remove it.
 
-If the line starts with `,` we remove it.
+The remaining commas we treat as a quad on its own, with a single sign `,` in it.
 
 After the splitting, we end up with quads that may have a numeral attached
 before or after.
@@ -353,12 +355,17 @@ There may be multiple flags:
 Cluster
 -------
 
-Several quads may be bracketed by `( )` or by `[ ]`: together they form a
+One or more quads may be bracketed by `( )` or by `[ ]` or by `< >`:
+together they form a
 *cluster*.
 
     2.c. , (|GIR3~cxSZE3|# NUN~a# [...])a
 
     3.  [...] , [MU |ZATU714xHI@g~a|]
+
+    4.b1. <7(N14) , GAN2> 
+
+Note that a cluster may contain just one quad.
 
 ### Proper names ###
 
@@ -372,6 +379,9 @@ Collected in a feature *properName=1*.
 Clusters with `[ ]` indicate that there are missing signs here.
 
 Collected in a feature *missing=1*.
+
+`[...]` denotes one or more missing signs. We do create a sign node for it, we put
+its *glyph* feature to `...`, and we add the feature *missing=1*.
 
 Sign
 ----
@@ -389,6 +399,9 @@ Signs are sometimes called glyphs.
 We will collect the text of a sign, without variants and flags, and store it in
 the sign feature *glyph*.
 
+If the sign is a numeral, we store the piece between the brackets in feature *glyph*,
+and the number before the brackets in feature *numValue*.
+
 ### Variants ###
 
 The glyph part of a sign may be followed by a `~` and then a letter. This
@@ -401,6 +414,18 @@ purposes it might be a completely different glyph.
 Note that a variant of a numeral is written within the brackets.
 
 We collect the variant in the sign feature *variant=letter*.
+
+### Variants2 ###
+
+The glyph part of a sign may be followed by a `@` and then a letter.
+This comes after the *variant*, see above.
+
+    2.a. 1(N01) , TUG2~a@g
+    7.b. , SU~a# NAB# DI |E2~ax1(N57)@t|
+
+Note that a variant2 of a numeral is written within the brackets.
+
+We collect the variant2 in the sign feature *variant2=letter*.
 
 ### Flags ###
 
@@ -415,9 +440,6 @@ Note that flags on numerals come *after* the brackets.
 There are notations for missing signs.
 
     [...]
-
-This denotes one or more missing signs. We do create a sign node for it, we put
-its *glyph* feature to `[...]`, and we add the feature *missing=1*.
 
 Warning
 =======
