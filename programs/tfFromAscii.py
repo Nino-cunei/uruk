@@ -159,6 +159,10 @@ def parseCorpora():
                             diag('column typo: "column3" => "@column 3"', p)
                             ident = '3'
                         colNum = '1' if ident is None else ident
+                        countPresent = False
+                        if "'" in colNum:
+                            countPresent = True
+                            colNum = colNum.replace("'", '')
                         if curFace is None:
                             diag(
                                 'column outside face => inserted "@obverse"', p
@@ -176,6 +180,8 @@ def parseCorpora():
                             'srcLn': line,
                             'srcLnNum': ln,
                         }
+                        if countPresent:
+                            curColumn['countPresent'] = countPresent
                         curTablet[curFace]['columns'].append(curColumn)
                     else:
                         error(f'Face unknown: "{kind}"', p)
@@ -192,13 +198,19 @@ def parseCorpora():
             if match is None:
                 error(f'Malformed line: "{line}"', p)
             else:
-                lineNumber = match.group(1).replace('.') 
+                lineNumber = match.group(1).replace('.', '')
+                countPresent = False
+                if "'" in lineNumber:
+                    countPresent = True
+                    lineNumber = lineNumber.replace("'", '')
                 lineData = {
                     'number': lineNumber,
                     'material': match.group(2),
                     'srcLn': line,
                     'srcLnNum': ln,
                 }
+                if countPresent:
+                    lineData['countPresent'] = countPresent
                 curColumn['lines'].append(lineData)
     corpora[prevCorpus]['to'] = len(tablets) - 1
 
