@@ -43,6 +43,7 @@ UPPER = set('ABCDEFGHIJKLMNOPQRSTUVWXYZ')
 
 CLUSTER_BEGIN = {'[': ']', '<': '>', '(': ')'}
 CLUSTER_END = {y: x for (x, y) in CLUSTER_BEGIN.items()}
+CLUSTER_TYPE = {'[': 'uncertain', '(': 'proper name', '<': 'group'}
 
 linePat = re.compile("([0-9a-zA-Z.'-]+)\s*(.*)")
 numPartsPat = re.compile('([0-9-]+|[a-zA-Z]+)')
@@ -383,6 +384,7 @@ def parseLine(material, p, curTablet):
                 stop = True
             else:
                 lqo = CLUSTER_END[lq]
+                cType = CLUSTER_TYPE[lqo]
                 start = startPoints.get(lqo, None)
                 if start is None:
                     msg = 'Cluster ending in'
@@ -392,7 +394,7 @@ def parseLine(material, p, curTablet):
                         curTablet or {},
                     )
                 else:
-                    clusters.append((lq, start, q))
+                    clusters.append((cType, start, q))
                     del startPoints[lqo]
             if rest == '':
                 stop = True
