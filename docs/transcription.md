@@ -146,7 +146,7 @@ letters. We strip the `.`s. The number is used to group the lines into *cases*
 and *subcases*, see below.
 
 Like the numbers of columns, line numbers may have a `'` at the end. In the
-presence of a prime, we add to the *line* a feature *countVisible* with value
+presence of a prime, we add to the *line* a feature *countPresent* with value
 `1`.
 
 ### Crossrefs ###
