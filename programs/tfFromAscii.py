@@ -1,5 +1,6 @@
 import os
 import collections
+import re
 import pprint
 from glob import glob
 
@@ -8,14 +9,26 @@ ORIGIN = 'cdli'
 REPO_DIR = os.path.expanduser(f'~/github/Dans-labs/{REPO}')
 SOURCE_DIR = f'{REPO_DIR}/sources/{ORIGIN}'
 
-FACES = set('''
+FACES = set(
+    '''
     obverse
     reverse
-    surface
     top
     bottom
     left
+    seal
+    surface
+    edge
+'''.strip().split()
+)
+
+COLUMN = set('''
+    column
+    columm
+    column3
 '''.strip().split())
+
+linePat = re.compile("([0-9a-zA-Z.'-]+)\s*(.*)")
 
 pp = pprint.PrettyPrinter(indent=2, width=100, compact=False)
 
@@ -40,17 +53,25 @@ def parseCorpora():
     tabletIndex = {}
     curTablet = None
     curFace = None
+    curFragment = None
+    curColumn = None
+    skipTablet = False
     errors = {}
+    diags = {}
     prevCorpus = None
 
     def error(key, p):
         errors.setdefault(key, []).append('{}.{}: {}'.format(*p))
+
+    def diag(key, p):
+        diags.setdefault(key, []).append('{}.{}: {}'.format(*p))
 
     for p in readCorpora():
         (corpus, ln, line) = p
         if corpus != prevCorpus:
             curTablet = None
             curFace = None
+            curColumn = None
             if prevCorpus is not None:
                 corpora[prevCorpus]['to'] = len(tablets)
             corpora[corpus] = {'from': len(tablets)}
@@ -60,6 +81,7 @@ def parseCorpora():
         fc = line[0]
         if fc == '&':
             comps = line[1:].split('=', 1)
+            skipTablet = False
             if len(comps) == 1:
                 error('tablet name malformed', p)
                 tNum = f'{corpus}.{ln}'
@@ -69,47 +91,119 @@ def parseCorpora():
                 tName = comps[1].strip()
             if tNum in tabletIndex:
                 prevLn = tablets[tabletIndex[tNum]]['srcLn']
-                error(f'tablet number duplicate, see line {prevLn}', p)
-            curTablet = {
-                'num': tNum,
-                'name': tName,
-                'faces': [],
-                'corpus': corpus,
-                'srcLn': ln,
-            }
-            curFace = None
-            tabletIndex[tNum] = len(tablets)
-            tablets.append(curTablet)
+                msg = 'skipped latter one'
+                diag(f'tablet number duplicate, see line {prevLn} => {msg}', p)
+                skipTablet = True
+            else:
+                curTablet = {
+                    'catalogId': tNum,
+                    'name': tName,
+                    'faces': [],
+                    'period': corpus,
+                    'srcLn': line,
+                    'srcLnNum': ln,
+                }
+                curFragment = None
+                curFace = None
+                curColumn = None
+                tabletIndex[tNum] = len(tablets)
+                tablets.append(curTablet)
         elif fc == '@':
+            if skipTablet:
+                continue
             kind = line[1:].strip()
             if kind == 'tablet':
                 pass
-            elif kind in FACES:
-                if curTablet is None:
-                    error('face outside tablet', p)
-                else:
-                    curFace = kind
-                    curTablet[curFace] = {
-                        'columns': [],
-                        'srcLn': ln,
-                    }
             else:
-                comps = kind.split()
-                if comps[0] == 'column':
-                    colNum = comps[1] if len(comps) > 1 else '1'
-                    if curFace is None:
-                        error('column outside face', p)
+                comps = kind.split(maxsplit=1)
+                kind = comps[0]
+                ident = comps[1] if len(comps) > 1 else None
+                if kind in FACES:
+                    if curTablet is None:
+                        error('face outside tablet', p)
                     else:
-                        curTablet[curFace]['columns'].append({
-                            'num': colNum,
-                            'lines': [],
-                            'srcLn': ln,
-                        })
+                        face = {
+                            'columns': [],
+                            'srcLn': line,
+                            'srcLnNum': ln,
+                        }
+                        if ident:
+                            face['identifier'] = ident
+                        if curFragment is not None:
+                            face['fragment'] = curFragment
+                        curFace = kind
+                        curTablet[curFace] = face
+                        curColumn = None
+                elif kind == 'object':
+                    if curTablet is None:
+                        error('object outside tablet', p)
+                    elif curFace is not None:
+                        error('object within face', p)
+                    else:
+                        prevObject = curTablet.get('object', None)
+                        newObject = (
+                            ident if prevObject is None else
+                            f'{prevObject}\\n{ident}'
+                        )
+                        curTablet['object'] = newObject
+                elif kind == 'fragment':
+                    if curTablet is None:
+                        error('fragment outside tablet', p)
+                    else:
+                        curFragment = ident
                 else:
-                    error(f'Face unknown: "{kind}"', p)
+                    if kind in COLUMN:
+                        if kind == 'columm':
+                            diag('column typo: "@columm" => "@column"', p)
+                        elif kind == 'column3':
+                            diag('column typo: "column3" => "@column 3"', p)
+                            ident = '3'
+                        colNum = '1' if ident is None else ident
+                        if curFace is None:
+                            diag(
+                                'column outside face => inserted "@obverse"', p
+                            )
+                            face = {
+                                'columns': [],
+                                'srcLn': None,
+                                'srcLnNum': ln,
+                            }
+                            curFace = 'obverse'
+                            curTablet[curFace] = face
+                        curColumn = {
+                            'number': colNum,
+                            'lines': [],
+                            'srcLn': line,
+                            'srcLnNum': ln,
+                        }
+                        curTablet[curFace]['columns'].append(curColumn)
+                    else:
+                        error(f'Face unknown: "{kind}"', p)
+        elif fc.isdigit():
+            if curColumn is None:
+                diag(f'Line outside column => inserted "@column 1"', p)
+                curColumn = {
+                    'number': '1',
+                    'lines': [],
+                    'srcLn': None,
+                    'srcLnNum': ln,
+                }
+            match = linePat.match(line)
+            if match is None:
+                error(f'Malformed line: "{line}"', p)
+            else:
+                lineNumber = match.group(1).replace('.') 
+                lineData = {
+                    'number': lineNumber,
+                    'material': match.group(2),
+                    'srcLn': line,
+                    'srcLnNum': ln,
+                }
+                curColumn['lines'].append(lineData)
     corpora[prevCorpus]['to'] = len(tablets) - 1
 
     printResults(corpora, tablets)
+    printErrors(diags, diag=True)
     printErrors(errors)
 
 
@@ -125,21 +219,24 @@ def printResults(corpora, tablets):
 
         print(f'CORPUS {corpus} TABLETS {start}:{end}')
         for tabletData in tablets[start:end]:
-            print(f'TABLET {tabletData["num"]}')
+            print(f'TABLET {tabletData["catalogId"]}')
             pp.pprint(tabletData)
         if rest:
             print(f'AND {rest} TABLETS MORE')
 
 
-def printErrors(errors):
+def printErrors(errors, diag=False):
     limit = 5
+    ErrorStr = 'Diagnostic' if diag else 'Error'
+    errorStr = 'diagnostic' if diag else 'error'
+    errorsStr = f'{errorStr}s'
     if not errors:
-        print('OK, no errors')
+        print(f'OK, no {errorsStr}')
     else:
         for (key, ps) in sorted(
             errors.items(), key=lambda x: (-len(x[1]), x[0])
         ):
-            print(f'Error {key} ({len(ps)}x)')
+            print(f'{ErrorStr} {key} ({len(ps)}x)')
             for p in ps[0:limit]:
                 print(f'\t{p}')
             if limit < len(ps):

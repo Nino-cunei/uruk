@@ -22,9 +22,13 @@ links per corpus.
 In this repo we convert the following corpora to Text-Fabric:
 
 *   Uruk III -
-    [4882 texts](https://cdli.ucla.edu/search/download_data_new.php?data_type=just_transliteration)
+    [4882 texts](https://cdli.ucla.edu/search/search_results.php?SearchMode=Text&requestFrom=Search&PrimaryPublication=&Author=&PublicationDate=&SecondaryPublication=&Collection=&AccessionNumber=&MuseumNumber=&Provenience=&ExcavationNumber=&Period=uruk+iii&DatesReferenced=&ObjectType=&ObjectRemarks=&Material=&TextSearch=&TranslationSearch=&CommentSearch=&StructureSearch=&Language=&Genre=&SubGenre=&CompositeNumber=&SealID=&ObjectID=&ATFSource=&CatalogueSource=&TranslationSource=)
 *   Uruk IV -
-    [1861 texts](https://cdli.ucla.edu/search/download_data_new.php?data_type=just_transliteration)
+    [1861 texts](https://cdli.ucla.edu/search/search_results.php?SearchMode=Text&requestFrom=Search&PrimaryPublication=&Author=&PublicationDate=&SecondaryPublication=&Collection=&AccessionNumber=&MuseumNumber=&Provenience=&ExcavationNumber=&Period=uruk+iv&DatesReferenced=&ObjectType=&ObjectRemarks=&Material=&TextSearch=&TranslationSearch=&CommentSearch=&StructureSearch=&Language=&Genre=&SubGenre=&CompositeNumber=&SealID=&ObjectID=&ATFSource=&CatalogueSource=&TranslationSource=)
+
+Note that these "corpora" are merely the results of a query by period.
+They are not corpora in the sense of an identified body of texts in which each individual
+text occupies a fixed position in the sequence.
 
 We have a [specification](docs/transcription.md) of the transcription format and
 how we model the text in Text-Fabric.

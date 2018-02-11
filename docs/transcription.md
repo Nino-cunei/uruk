@@ -27,14 +27,19 @@ Nodes of type *tablet* correspond to the transcription of a tablet.
 
 **This node type is section level 1.**
 
-In the transcriptions we see it marked as `@tablet`, although this is sometimes
-missing.
+Our corpora are just sets of tablets. The position of a particular tablet in the
+whole set is not meaningful. The main identification of tablets is by their
+catalog identifier (in this case *P number*), not by any sequence number within the
+corpus.
+
+In the transcriptions we the start of a tablet marked as `@tablet`, although
+it is sometimes missing.
 
 The surest sign of the beginning of a tablet is a line like
 
     &P002174 = ATU 6, pl. 48, W 14731,?4
 
-Here we collect `P002174` as the tablet *number*, and
+Here we collect `P002174` as the *catalogId* of the tablet, and
 `ATU 6, pl. 48, W 14731,?4` as the tablet *name*.
 
 We also add the name of the corpus as a feature *corpus* to the node type
@@ -111,10 +116,12 @@ Columns are marked by lines like
     @column number
 
 There might be a prime `'` after the number, but before the last `.` If present,
-it indicates that the number does not count physical things but visible things.
-This can happen if the tablet is broken and material has gone missing.
+it indicates that the number does not count objects on the tablet in its original
+state, but in its present state.
+If the tablet is damaged, material is missing, and the missing items are not
+numbered.
 
-In the presence of a prime, we add to the *column* a feature *countVisible* with
+In the presence of a prime, we add to the *column* a feature *countPresent* with
 value `1`.
 
 Line
@@ -217,7 +224,7 @@ A numeral is a *sign* that maybe connected to a quad, either before or after. In
 the transcription, the connection is marked with `,` :
 
     1.a. 3(N01) , APIN~a 3(N57) UR4~a
-    1. 2(N01) , 3(N57) 
+    1. 2(N01) , 3(N57)
     1. [...] , 1(N39~a)#
 
 In the first case the numeral `3(N01)` is connected to quad `APIN~a` .
