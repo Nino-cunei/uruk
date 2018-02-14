@@ -26,8 +26,8 @@ In this repo we convert the following corpora to Text-Fabric:
 *   Uruk IV -
     [1861 texts](https://cdli.ucla.edu/search/search_results.php?SearchMode=Text&requestFrom=Search&PrimaryPublication=&Author=&PublicationDate=&SecondaryPublication=&Collection=&AccessionNumber=&MuseumNumber=&Provenience=&ExcavationNumber=&Period=uruk+iv&DatesReferenced=&ObjectType=&ObjectRemarks=&Material=&TextSearch=&TranslationSearch=&CommentSearch=&StructureSearch=&Language=&Genre=&SubGenre=&CompositeNumber=&SealID=&ObjectID=&ATFSource=&CatalogueSource=&TranslationSource=)
 
-Note that these "corpora" are merely the results of a query by period.
-They are not corpora in the sense of an identified body of texts in which each individual
+Note that these "corpora" are merely the results of a query by period. They are
+not corpora in the sense of an identified body of texts in which each individual
 text occupies a fixed position in the sequence.
 
 We have a [specification](docs/transcription.md) of the transcription format and
@@ -38,9 +38,18 @@ Status
 
 This is **work in progress!**
 
+*   2018-02-14 Text-Fabric data generated, but not throughly tested. A very basic
+    [tutorial](tutorial/start.ipynb)
+    has been written.
 *   2018-02-09 Conversion coding has just started. We only parse supra-line units.
     We do not yet generate any Text-Fabric data. The sub-line parsing will be the
     most work.
+
+Gettin started
+==============
+
+Start with the
+[tutorial](tutorial/start.ipynb).
 
 Authors
 =======

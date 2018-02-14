@@ -1,8 +1,13 @@
+import sys
 import os
 import collections
 import re
+import operator
 import pprint
+from shutil import rmtree
 from glob import glob
+from functools import reduce
+from tf.fabric import Fabric
 
 REPO = 'nino-cunei'
 ORIGIN = 'cdli'
@@ -10,10 +15,88 @@ REPO_DIR = os.path.expanduser(f'~/github/Dans-labs/{REPO}')
 SOURCE_DIR = f'{REPO_DIR}/sources/{ORIGIN}'
 TEMP_DIR = f'{REPO_DIR}/_temp'
 EXPORT_FILE = f'{TEMP_DIR}/cldi_uruk.txt'
-TF_DIR = f'{REPO_DIR}/tf'
 
-for cdir in (TEMP_DIR, TF_DIR):
-    os.makedirs(cdir, exist_ok=True)
+LIMIT = -1
+
+SHOWCASES = set(
+    '''
+    P000743
+    P000736
+    P004639
+    P006284
+    P006427
+    P448701
+'''.strip().split()
+)
+
+CORPUS = 'uruk'
+VERSION = '0.1'
+TF_DIR = f'{REPO_DIR}/tf/{CORPUS}/{VERSION}'
+
+commonMetaData = dict(
+    dataset=CORPUS,
+    version=VERSION,
+    datasetName='Cuneiform tablets from the Uruk IV-III period',
+    source='CLDI',
+    sourceUrl='https://cdli.ucla.edu',
+    encoders=(
+        'CDLI (transcription),'
+        'Cale Johnson (expertise)'
+        'and Dirk Roorda (TF)'
+    ),
+    email1=(
+        'https://www.universiteitleiden.nl'
+        '/en/staffmembers/cale-johnson#tab-1'
+    ),
+    email2='dirk.roorda@dans.knaw.nl',
+)
+specificMetaData = dict(
+    catalogId=(
+        'identifier of tablet in catalog'
+        ' (http://www.flutopedia.com/tablets.htm)'
+    ),
+    name='name of tablet',
+    period='period indication of tablet',
+    comments='various kinds of comments: # lines and $ lines',
+    srcLn='transcribed line',
+    srcLnNum='line number in transcription file',
+    type='type of a face',
+    number='number of a column or line',
+    grapheme='name of a grapheme (glyph)',
+    variant='corresponds to ~x in transcription',
+    uncertain='corresponds to ?-flag in transcription',
+    damage='corresponds to #-flag in transcription',
+    modifier='corresponds to @x in transcription',
+    object='specific comments on a tablet',
+    identifier='additional information pertaining to the name of a face',
+    remarkable='corresponds to ! flag in transcription ',
+    written='corresponds to !(xxx) flag in transcription',
+    prime='indicates the presence of a prime (single quote)',
+    fragment='level between tablet and face',
+    repeat=(
+        'number indicating the number of repeats of a grapheme,'
+        'especially in numerals'
+    ),
+    op='operator connecting left to right operand',
+)
+numFeatures = set(
+    '''
+    srcLnNum
+    uncertain
+    damage
+    remarkable
+    prime
+    repeat
+'''.strip().split()
+)
+
+oText = {
+    'sectionFeatures': 'catalogId,number,number',
+    'sectionTypes': 'tablet,column,line',
+    'fmt:text-orig-full': '{grapheme}',
+    'fmt:text-trans-plain': '{srcLn}\\n',
+    'fmt:text-trans-full': '{srcLnNum}: {srcLn}\\n',
+}
 
 FACES = set(
     '''
@@ -44,7 +127,7 @@ UPPER = set('ABCDEFGHIJKLMNOPQRSTUVWXYZ')
 
 CLUSTER_BEGIN = {'[': ']', '<': '>', '(': ')'}
 CLUSTER_END = {y: x for (x, y) in CLUSTER_BEGIN.items()}
-CLUSTER_TYPE = {'[': 'uncertain', '(': 'proper name', '<': 'group'}
+CLUSTER_TYPE = {'[': 'uncertain', '(': 'properName', '<': 'supplied'}
 
 OPERATORS = set(
     '''
@@ -98,6 +181,9 @@ variantPat = re.compile('^(.*)~(.)$')
 operatorPat = re.compile(f'[{" ".join(OPERATORS)}]')
 
 pp = pprint.PrettyPrinter(indent=2, width=100, compact=False)
+
+for cdir in (TEMP_DIR, TF_DIR):
+    os.makedirs(cdir, exist_ok=True)
 
 
 def readCorpora():
@@ -188,6 +274,8 @@ def parseCorpora(export=False):
                 )
                 skipTablet = True
             else:
+                if len(tablets) == LIMIT:
+                    break
                 curTablet = {
                     'catalogId': tNum,
                     'name': tName,
@@ -276,7 +364,7 @@ def parseCorpora(export=False):
                             curFace = {
                                 'type': 'obverse',
                                 'columns': [],
-                                'srcLn': None,
+                                'srcLn': line,
                                 'srcLnNum': ln,
                             }
                             curTablet['faces'].append(curFace)
@@ -348,7 +436,7 @@ def parseCorpora(export=False):
                 curColumn = {
                     'number': '1',
                     'lines': [],
-                    'srcLn': None,
+                    'srcLn': line,
                     'srcLnNum': ln,
                 }
                 curNums = set()
@@ -390,16 +478,15 @@ def parseCorpora(export=False):
     corpora[prevCorpus]['to'] = len(tablets) - 1
 
     casify(tablets)
-    fillup(tablets)
 
-    printResults(corpora, tablets)
+    print(f'Parsed {len(tablets)} tablets')
+
     printErrors(diags, diag=True)
     printErrors(errors)
 
     if export:
-        print('printing debug info')
         exportResults(tablets)
-        print('done')
+        print('Showcases written to file')
     return tablets
 
 
@@ -466,10 +553,9 @@ def parseLine(material, p, curTablet):
                 stop = True
         (rest, quadInfo) = getPieceInfo(rest, 'quad', p, curTablet)
         newQuad = parseQuad(rest, p, curTablet)
-        newItem = {'quad': newQuad}
         if quadInfo:
-            newItem['info'] = quadInfo
-        newQuads.append(newItem)
+            newQuad['info'] = quadInfo
+        newQuads.append(newQuad)
     if startPoints:
         error(
             f'Unterminated cluster(s): {sorted(startPoints.items())}', p,
@@ -491,14 +577,14 @@ def getPieceInfo(piece, pieceName, p, curTablet, empty_ok=False):
         # modifiers
         splits = modifierPat.findall(base)
         if splits:
-            items = pieceInfo.setdefault('modifiers', {})
+            items = pieceInfo.setdefault('modifiers', set())
             (base, itemStr) = splits[0]
             if itemStr not in MODIFIERS:
                 error(f'Modifier "@{itemStr}" unknown', p, curTablet)
             else:
                 if itemStr in items:
                     error(f'Modifier "@{itemStr}" repeated', p, curTablet)
-                items[itemStr] = 1
+                items.add(itemStr)
             continue
 
         # flags
@@ -527,11 +613,11 @@ def getPieceInfo(piece, pieceName, p, curTablet, empty_ok=False):
         # variants
         splits = variantPat.findall(base)
         if splits:
-            items = pieceInfo.setdefault('variants', {})
+            items = pieceInfo.setdefault('variants', set())
             (base, itemStr) = splits[0]
             if itemStr in items:
                 diag(f'Variant "~{itemStr}" repeated', p, curTablet)
-            items[itemStr] = 1
+            items.add(itemStr)
             continue
 
         # primes
@@ -640,53 +726,57 @@ def quadStructure(string, p, curTablet):
     if errors:
         errorStr = '\n\t\t'.join(errors)
         error(f'bracket error in quad:\n\t\t{errorStr}', p, curTablet or {})
-    return transformStruct(result, p, curTablet, outer=True)
+    return transformQuad(result, p, curTablet)
 
 
-def transformStruct(structs, p, curTablet, outer=False):
-    result = [] if outer else {'quad': []}
-    dest = result if outer else result['quad']
-    for struct in structs:
-        if type(struct) is str:
-            ls = len(struct)
-            thisResult = []
+def transformQuad(quads, p, curTablet):
+    dest = []
+    for quad in quads:
+        if type(quad) is str:
+            ls = len(quad)
+            signDatas = []
             k = 0
-            graphemes = operatorPat.split(struct)
-            for (g, grapheme) in enumerate(graphemes):
+            signs = operatorPat.split(quad)
+            for (g, sign) in enumerate(signs):
                 (base, info) = getPieceInfo(
-                    grapheme,
-                    'grapheme',
+                    sign,
+                    'sign',
                     p,
                     curTablet,
                     empty_ok=True,
                 )
-                k += len(grapheme)
-                operator = struct[k] if k < ls else ''
+                k += len(sign)
+                operator = quad[k] if k < ls else ''
                 k += 1
                 if g == 0 and base == '' and info:
                     dest[-1].setdefault('info', {}).update(info)
                 else:
                     parts = numeralPat.findall(base)
-                    thisData = {}
+                    signData = {}
                     if parts:
                         (n, base) = parts[0]
-                        thisData['numValue'] = n
+                        signData['repeat'] = n
                         (base, info) = getPieceInfo(
                             base,
                             'numeral',
                             p,
                             curTablet,
                         )
-                    thisData['grapheme'] = base
+                    signData['grapheme'] = base
                     if info:
-                        thisData['info'] = info
+                        signData['info'] = info
                     if operator != '':
-                        thisData['op'] = operator
-                    thisResult.append(thisData)
-            dest.append(thisResult)
+                        signData['op'] = operator
+                    signDatas.append(signData)
+            if len(signDatas):
+                if len(signDatas) == 1:
+                    dest.append(signDatas[0])
+                else:
+                    dest.append({'quads': signDatas})
         else:
-            subStruct = transformStruct(struct, p, curTablet)
-            dest.append(subStruct)
+            subQuad = transformQuad(quad, p, curTablet)
+            dest.append(subQuad)
+    result = (dest[0] if len(dest) == 1 else {'quads': dest})
     return result
 
 
@@ -718,55 +808,14 @@ def putInCases(lines):
     return cases
 
 
-def fillup(tablets):
-    for tablet in tablets:
-        faces = tablet.get('faces', None)
-        if not faces:
-            tablet['faces'] = [{'type': 'noface'}]
-        faces = tablet['faces']
-        for face in faces:
-            columns = face.get('columns', None)
-            if not columns:
-                face['columns'] = [{'number': 0}]
-            columns = face['columns']
-            for column in columns:
-                cases = column.get('cases', None)
-                if not cases:
-                    column['cases'] = {'': {'material': ''}}
-
-
 def exportResults(tablets):
-    selection = set(
-        '''
-        P000736
-        P006284
-    '''.strip().split()
-    )
     with open(EXPORT_FILE, 'w') as fh:
         pq = pprint.PrettyPrinter(
             indent=2, width=100, compact=False, stream=fh
         )
         pq.pprint([
-            tablet for tablet in tablets if tablet['catalogId'] in selection
+            tablet for tablet in tablets if tablet['catalogId'] in SHOWCASES
         ])
-
-
-def printResults(corpora, tablets):
-    limit = 2
-    for (corpus, boundaries) in corpora.items():
-        start = boundaries['from']
-        end = boundaries['to']
-        rest = 0
-        if end > start + limit:
-            end = start + limit
-            rest = end - (start + limit)
-
-        print(f'CORPUS {corpus} TABLETS {start}:{end}')
-        for tabletData in tablets[start:end]:
-            print(f'TABLET {tabletData["catalogId"]}')
-            pp.pprint(tabletData)
-        if rest:
-            print(f'AND {rest} TABLETS MORE')
 
 
 def printErrors(errors, diag=False):
@@ -789,40 +838,18 @@ def printErrors(errors, diag=False):
 
 def makeTf(tablets):
     cur = collections.Counter()
-    features = collections.defaultdict()
+    curSlot = 0
+    context = []
+    nodeFeatures = collections.defaultdict(dict)
+    edgeFeatures = collections.defaultdict(
+        lambda: collections.defaultdict(dict)
+    )
+    oSlots = collections.defaultdict(set)
 
-    def doCases(cases):
-        for (caseNr, case) in column.get('cases', {}).items():
-            cur['case'] += 1
-            features['number'][('case', cur['case'])] = caseNr
-            if 'material' in case:
-                doLine(case)
-            else:
-                doCases(case)
-
-    def doLine(line):
-        cur['line'] += 1
-        for ft in '''
-            number
-            object
-            comments
-            srcLn
-            srcLnNum
-        '''.strip().split():
-            if ft in line:
-                features[ft][('line', cur['line'])] = line[ft]
-            material = line.get('material', {})
-            if 'quads' in material:
-                doQuads(material['quads'])
-            if 'clusters' in material:
-                doClusters(material['clusters'], material['quads'])
-
-    doQuads(quads):
-        for (q, quad)
-        cur['quad'] += 1
-
-    for tablet in tablets:
-        cur['tablet'] += 1
+    def doTablet(tablet):
+        nodeType = 'tablet'
+        cur[nodeType] += 1
+        curNode = cur[nodeType]
         for ft in '''
             catalogId
             name
@@ -833,31 +860,267 @@ def makeTf(tablets):
             srcLnNum
         '''.strip().split():
             if ft in tablet:
-                features[ft][('tablet', cur['tablet'])] = tablet[ft]
-        for face in tablet.get('faces', []):
-            cur['face'] += 1
-            for ft in '''
-                type
-                identifier
-                object
-                comments
-                srcLn
-                srcLnNum
-            '''.strip().split():
-                if ft in face:
-                    features[ft][('face', cur['face'])] = face[ft]
-            for column in face.get('columns', []):
-                cur['column'] += 1
-                for ft in '''
-                    number
-                    srcLn
-                    srcLnNum
-                '''.strip().split():
-                    if ft in column:
-                        features[ft][('column', cur['column'])] = column[ft]
-                doCases(column.get('cases', []))
+                nodeFeatures[ft][(nodeType, curNode)] = tablet[ft]
+        context.append((nodeType, curNode))
+        faces = tablet.get('faces', [])
+        for face in faces:
+            doFace(face)
+        if not faces:
+            doEmptySign()
+        context.pop()
+
+    def doFace(face):
+        nodeType = 'face'
+        cur[nodeType] += 1
+        curNode = cur[nodeType]
+
+        for ft in '''
+            type
+            identifier
+            fragment
+            comments
+            srcLn
+            srcLnNum
+        '''.strip().split():
+            if ft in face:
+                nodeFeatures[ft][(nodeType, curNode)] = face[ft]
+
+        context.append((nodeType, curNode))
+        columns = face.get('columns', [])
+        for column in columns:
+            doColumn(column)
+        if not columns:
+            doEmptySign()
+        context.pop()
+
+    def doColumn(column):
+        nodeType = 'column'
+        cur[nodeType] += 1
+        curNode = cur[nodeType]
+        for ft in '''
+            number
+            srcLn
+            srcLnNum
+        '''.strip().split():
+            if ft in column:
+                nodeFeatures[ft][(nodeType, curNode)] = column[ft]
+        context.append((nodeType, curNode))
+        cases = column.get('cases', {})
+        doCases(cases)
+        if not cases:
+            doEmptySign()
+        context.pop()
+
+    def doCases(cases):
+        nodeType = 'case'
+        for (caseNr, case) in cases.items():
+            cur[nodeType] += 1
+            curNode = cur[nodeType]
+            nodeFeatures['number'][(nodeType, curNode)] = caseNr
+            context.append((nodeType, curNode))
+            if 'material' in case:
+                doLine(case)
+            else:
+                doCases(case)
+            context.pop()
+
+    def doLine(line):
+        nodeType = 'line'
+        cur[nodeType] += 1
+        curNode = cur[nodeType]
+        for ft in '''
+            number
+            comments
+            srcLn
+            srcLnNum
+        '''.strip().split():
+            if ft in line:
+                nodeFeatures[ft][(nodeType, curNode)] = line[ft]
+        material = line.get('material', {})
+        context.append((nodeType, curNode))
+        hasQuads = doClusters(material)
+        if not material or not hasQuads:
+            doEmptySign()
+        context.pop()
+
+    def doClusters(material):
+        clusters = material.get('clusters', [])
+        startClusters = collections.defaultdict(list)
+        endClusters = collections.defaultdict(list)
+        for (kind, fromQuad, toQuad) in clusters:
+            startClusters[fromQuad].append(kind)
+            endClusters[toQuad + 1].append(kind)
+        quads = material.get('quads', [])
+        (prevQuad, prevType, prevNode) = (None, None, None)
+        nodeType = 'cluster'
+        for (q, quad) in enumerate(quads):
+            if q in endClusters:
+                for kind in endClusters[q]:
+                    context.pop()
+            if q in startClusters:
+                for kind in startClusters[q]:
+                    cur[nodeType] += 1
+                    curNode = cur[nodeType]
+                    nodeFeatures['type'][(nodeType, curNode)] = kind
+                    context.append((nodeType, curNode))
+            (prevType, prevNode) = doQuad(
+                q, quad, prevQuad, prevType, prevNode, outer=True
+            )
+            prevQuad = quad
+        q = len(quads)
+        if q in endClusters:
+            for kind in endClusters[q]:
+                context.pop()
+        return len(quads)
+
+    def doQuad(q, quad, prevQuad, prevType, prevNode, outer=False):
+        nodeType = 'quad' if outer else 'subquad'
+        cur[nodeType] += 1
+        curNode = cur[nodeType]
+        if q > 1:
+            op = prevQuad.get('op', None)
+            if op is not None:
+                edgeFeatures['op'][(prevType, prevNode)][(nodeType,
+                                                          curNode)] = op
+        doInfo(quad, curNode, nodeType)
+        context.append((nodeType, curNode))
+        if 'quads' in quad:
+            (pQuad, pType, pNode) = (None, None, None)
+            for (iq, iquad) in enumerate(quad['quads']):
+                (pType, pNode) = doQuad(iq, iquad, pQuad, pType, pNode)
+                pQuad = iquad
+        if 'grapheme' in quad:
+            doSign(quad)
+        context.pop()
+        return (nodeType, curNode)
+
+    def doSign(sign):
+        nonlocal curSlot
+        nodeType = 'sign'
+        curSlot += 1
+        ft = 'grapheme'
+        nodeFeatures[ft][(nodeType, curSlot)] = sign[ft]
+        for (nt, curNode) in context:
+            oSlots[(nt, curNode)].add(curSlot)
+
+    def doEmptySign():
+        doSign({'grapheme': ''})
+
+    def doInfo(data, node, nodeType):
+        infoData = data.get('info', {})
+        if 'prime' in infoData:
+            nodeFeatures['prime'][(nodeType, node)] = 1
+        if 'variants' in infoData:
+            nodeFeatures['variant'][(nodeType,
+                                     node)] = ','.join(infoData['variants'])
+        if 'flags' in infoData:
+            for (flag, value) in infoData['flags'].items():
+                nodeFeatures[flag][(nodeType, node)] = value
+        if 'modifiers' in infoData:
+            nodeFeatures['modifier'][(nodeType,
+                                      node)] = ','.join(infoData['modifiers'])
+
+    print('Collecting nodes, edges and features')
+    for (i, tablet) in enumerate(tablets):
+        sys.stdout.write(f'\rtablet {i+1:>5}')
+        doTablet(tablet)
+    print('')
+    if len(context):
+        print('Context:', context)
+
+    print(f'\n{curSlot:>7} x slot')
+    for (nodeType, amount) in sorted(cur.items(), key=lambda x: (x[1], x[0])):
+        print(f'{amount:>7} x {nodeType}')
+
+    nValues = reduce(
+        operator.add, (len(values) for values in nodeFeatures.values()), 0
+    )
+    print(f'{len(nodeFeatures)} node features with {nValues} values')
+    print(f'{len(oSlots)} nodes linked to slots')
+
+    print('Compiling TF data')
+    print(f'Building warp feature otype')
+    nodeOffset = {'sign': 0}
+    oType = {}
+    n = 1
+    for k in range(n, curSlot + 1):
+        oType[k] = 'sign'
+    n = curSlot + 1
+    for (nodeType, amount) in sorted(cur.items(), key=lambda x: (x[1], x[0])):
+        nodeOffset[nodeType] = n - 1
+        for k in range(n, n + amount):
+            oType[k] = nodeType
+        n = n + amount
+    print(f'{len(oType)} nodes')
+
+    print('Filling in the nodes and edges for features')
+    newNodeFeatures = collections.defaultdict(dict)
+    newEdgeFeatures = collections.defaultdict(
+        lambda: collections.defaultdict(dict)
+    )
+    for (ft, featureData) in nodeFeatures.items():
+        newFeatureData = {}
+        for ((nodeType, node), value) in featureData.items():
+            newFeatureData[nodeOffset[nodeType] + node] = value
+        newNodeFeatures[ft] = newFeatureData
+    for (ft, featureData) in edgeFeatures.items():
+        newFeatureData = {}
+        for ((nodeType, node), targets) in featureData.items():
+            for ((targetType, targetNode), value) in targets.items():
+                newFeatureData.setdefault(
+                    nodeOffset[nodeType] + node, {}
+                )[nodeOffset[targetType] + targetNode] = value
+        newEdgeFeatures[ft] = newFeatureData
+    newOslots = {}
+    for ((nodeType, node), slots) in oSlots.items():
+        newOslots[nodeOffset[nodeType] + node] = slots
+
+    nodeFeatures = newNodeFeatures
+    nodeFeatures['otype'] = oType
+    edgeFeatures = newEdgeFeatures
+    edgeFeatures['oslots'] = newOslots
+
+    print(f'Node features: {" ".join(nodeFeatures)}')
+    print(f'Edge features: {" ".join(edgeFeatures)}')
+
+    metaData = {
+        '': commonMetaData,
+        'otext': oText,
+        'oslots': dict(valueType='str'),
+    }
+    for ft in set(nodeFeatures) | set(edgeFeatures):
+        metaData.setdefault(
+            ft, {}
+        )['valueType'] = 'int' if ft in numFeatures else 'str'
+        if ft in specificMetaData:
+            metaData[ft]['description'] = specificMetaData[ft]
+
+    print(f'Remove existing TF directory')
+    rmtree(TF_DIR)
+    print(f'Save TF dataset')
+    TF = Fabric(locations=TF_DIR, silent=True)
+    TF.save(
+        nodeFeatures=nodeFeatures,
+        edgeFeatures=edgeFeatures,
+        metaData=metaData
+    )
+
+
+def loadTf():
+    print(f'Load TF dataset for the first time')
+    TF = Fabric(locations=TF_DIR, modules=[''])
+    TF.load('')
+    allFeatures = TF.explore(silent=False, show=True)
+    loadableFeatures = allFeatures['nodes'] + allFeatures['edges']
+    TF.load(loadableFeatures)
+
+    print('All done')
 
 
 def main():
     tablets = parseCorpora(export=True)
     makeTf(tablets)
+    loadTf()
+
+
+main()

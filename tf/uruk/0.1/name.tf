@@ -1,0 +1,6410 @@
+@node
+@dataset=uruk
+@datasetName=Cuneiform tablets from the Uruk IV-III period
+@description=name of tablet
+@email1=https://www.universiteitleiden.nl/en/staffmembers/cale-johnson#tab-1
+@email2=dirk.roorda@dans.knaw.nl
+@encoders=CDLI (transcription),Cale Johnson (expertise)and Dirk Roorda (TF)
+@source=CLDI
+@sourceUrl=https://cdli.ucla.edu
+@valueType=str
+@version=0.1
+@writtenBy=Text-Fabric
+@dateWritten=2018-02-14T21:07:29Z
+
+125823	HJN 0044
+HJN 0045
+www archaeo-auction 003
+www archaeo-auction 004
+www archaeo-auction 005
+Anonymous 0712
+Anonymous 482082
+Anonymous 482083
+Anonymous 499393
+Anonymous 504412
+Anonymous 504413
+AOST 109
+ATU 3, pl. 036, W 12139
+ATU 3, pl. 036, W 20497
+ATU 3, pl. 078, W 17729,cn+
+ATU 3, pl. 080, W 13948
+ATU 3, pl. 080, W 14264
+ATU 3, pl. 080, W 14337,a+
+ATU 3, pl. 080, W 19548,a+
+ATU 3, pl. 080, W 20493,26
+ATU 3, pl. 081, W 20335,3
+ATU 3, pl. 081, W 20708
+ATU 3, pl. 081, W 21002,6
+ATU 3, pl. 081, W 22119,5
+ATU 3, pl. 081, W 22136
+ATU 3, pl. 082, W 13917
+ATU 3, pl. 082, W 13982
+ATU 3, pl. 082, W 15920,b5
+ATU 3, pl. 082, W 17890,b
+ATU 3, pl. 082, W 17902,k
+ATU 3, pl. 083, W 19591,b
+ATU 3, pl. 083, W 19771,a
+ATU 3, pl. 083, W 19948,10
+ATU 3, pl. 083, W 19948,8
+ATU 3, pl. 083, W 19948,9
+ATU 3, pl. 084, W 20335,1
+ATU 3, pl. 084, W 20374
+ATU 3, pl. 084, W 21113,1
+ATU 3, pl. 084, W 21163,1
+ATU 3, pl. 084, W 21290
+ATU 3, pl. 084, W 21418,19
+ATU 3, pl. 084, W 24007,1
+ATU 3, pl. 087, W 16398
+ATU 3, pl. 088, W 17729,aq
+ATU 3, pl. 088, W 17729,bb
+ATU 3, pl. 088, W 17729,o
+ATU 3, pl. 089, W 18247,5
+ATU 3, pl. 089, W 19772,e
+ATU 3, pl. 095, W 21172
+ATU 3, pl. 097, W 21418,16
+ATU 5, pl. 001, W 2352
+ATU 5, pl. 001, W 5233,a
+ATU 5, pl. 002, W 5233,b
+ATU 5, pl. 002, W 5233,c
+ATU 5, pl. 002, W 5233,e
+ATU 5, pl. 002, W 5372
+ATU 5, pl. 003, W 6066,b
+ATU 5, pl. 003, W 6111,a
+ATU 5, pl. 005, W 6288
+ATU 5, pl. 005, W 6372
+ATU 5, pl. 008, W 6426,b
+ATU 5, pl. 009, W 6572,b
+ATU 5, pl. 009, W 6573,a
+ATU 5, pl. 009, W 6573,b
+ATU 5, pl. 010, W 6604
+ATU 5, pl. 030, W 7343,1
+ATU 5, pl. 031, W 7343,2
+ATU 5, pl. 031, W 7717
+ATU 5, pl. 031, W 7881
+ATU 5, pl. 032, W 8274
+ATU 5, pl. 033, W 8751
+ATU 5, pl. 034, W 9071,q
+ATU 5, pl. 034, W 9071,r
+ATU 5, pl. 038, W 9168,a
+ATU 5, pl. 039, W 9168,b
+ATU 5, pl. 039, W 9168,c
+ATU 5, pl. 039, W 9168,d
+ATU 5, pl. 039, W 9168,e
+ATU 5, pl. 039, W 9168,g
+ATU 5, pl. 039, W 9168,i
+ATU 5, pl. 039, W 9168,j
+ATU 5, pl. 039, W 9168,k
+ATU 5, pl. 039, W 9168,l
+ATU 5, pl. 040, W 9168,h+
+ATU 5, pl. 041, W 9168,q
+ATU 5, pl. 041, W 9168,u
+ATU 5, pl. 041, W 9168,v
+ATU 5, pl. 044, W 9169,y
+ATU 5, pl. 045, W 9169,ac2
+ATU 5, pl. 045, W 9169,ag
+ATU 5, pl. 045, W 9169,ah
+ATU 5, pl. 045, W 9169,ai
+ATU 5, pl. 045, W 9169,am
+ATU 5, pl. 045, W 9169,ao
+ATU 5, pl. 045, W 9169,ap
+ATU 5, pl. 045, W 9169,as
+ATU 5, pl. 045, W 9169,at
+ATU 5, pl. 045, W 9169,ay
+ATU 5, pl. 045, W 9169,az
+ATU 5, pl. 046, W 9169,?2
+ATU 5, pl. 046, W 9169,?3
+ATU 5, pl. 046, W 9169,cf?
+ATU 5, pl. 046, W 9169,ha?
+ATU 5, pl. 047, W 9206,?1
+ATU 5, pl. 047, W 9206,m
+ATU 5, pl. 047, W 9206,q
+ATU 5, pl. 047, W 9212
+ATU 5, pl. 047, W 9271
+ATU 5, pl. 050, W 9311,u
+ATU 5, pl. 052, W 9312,m
+ATU 5, pl. 052, W 9312,s
+ATU 5, pl. 052, W 9312,y
+ATU 5, pl. 096, W 9656,ce
+ATU 5, pl. 097, W 9656,co
+ATU 5, pl. 098, W 9656,cw
+ATU 5, pl. 100, W 9656,do
+ATU 5, pl. 117, W 9761,a
+ATU 5, pl. 118, W 10564
+ATU 5, pl. 118, W 9851
+ATU 5, pl. 119, VAT 17785
+ATU 6, pl. 1 W 2656,a
+ATU 6, pl. 1, W 10590,h
+ATU 6, pl. 1, W 2656,b
+ATU 6, pl. 1, W 9071,p
+ATU 6, pl. 3, W 10594+
+ATU 6, pl. 3, W 10597
+ATU 6, pl. 3, W 10598+
+ATU 6, pl. 4, W 10601
+ATU 6, pl. 4, W 10603
+ATU 6, pl. 4, W 10604+
+ATU 6, pl. 4, W 10608
+ATU 6, pl. 5, W 10610
+ATU 6, pl. 5, W 10611
+ATU 6, pl. 5, W 10612
+ATU 6, pl. 6, W 10616
+ATU 6, pl. 6, W 10618,a
+ATU 6, pl. 6, W 10619
+ATU 6, pl. 7, W 10621
+ATU 6, pl. 7, W 10623
+ATU 6, pl. 7, W 10624
+ATU 6, pl. 7, W 10625,a+
+ATU 6, pl. 8, W 10631
+ATU 6, pl. 9, W 10797
+ATU 6, pl. 9, W 10798
+ATU 6, pl. 10, W 10803,b+
+ATU 6, pl. 10, W 10804
+ATU 6, pl. 10, W 10929
+ATU 6, pl. 12, W 11137
+ATU 6, pl. 12, W 11137,b
+ATU 6, pl. 13, W 11167,c
+ATU 6, pl. 13, W 11167,d
+ATU 6, pl. 13, W 11167,e
+ATU 6, pl. 13, W 11167,f
+ATU 6, pl. 13, W 11167,g
+ATU 6, pl. 13, W 11167,h
+ATU 6, pl. 14, W 11793
+ATU 6, pl. 14, W 11802
+ATU 6, pl. 14, W 11804
+ATU 6, pl. 14, W 11896,a+
+ATU 6, pl. 14, W 11931,c
+ATU 6, pl. 14, W 11931,d
+ATU 6, pl. 15, W 11931,e
+ATU 6, pl. 15, W 11982
+ATU 6, pl. 15, W 11983,a+
+ATU 6, pl. 15, W 11983,d
+ATU 6, pl. 15, W 11984,a
+ATU 6, pl. 15, W 11984,b
+ATU 6, pl. 15, W 11984,c
+ATU 6, pl. 16, W 11984,e
+ATU 6, pl. 16, W 11984,h
+ATU 6, pl. 16, W 11985,a
+ATU 6, pl. 16, W 11985,b
+ATU 6, pl. 16, W 11985,c
+ATU 6, pl. 16, W 11985,d
+ATU 6, pl. 16, W 11986,b
+ATU 6, pl. 17, W 11986,d
+ATU 6, pl. 17, W 11988,c
+ATU 6, pl. 17, W 12013
+ATU 6, pl. 17, W 12016
+ATU 6, pl. 19, W 12124,c
+ATU 6, pl. 19, W 12124,d
+ATU 6, pl. 19, W 12137,?
+ATU 6, pl. 19, W 12137,a
+ATU 6, pl. 19, W 12137,b
+ATU 6, pl. 19, W 12137,c
+ATU 6, pl. 19, W 12137,d
+ATU 6, pl. 19, W 12137,h
+ATU 6, pl. 19, W 12197,?
+ATU 6, pl. 19, W 12256,?
+ATU 6, pl. 20, W 12256,b
+ATU 6, pl. 20, W 12256,d
+ATU 6, pl. 20, W 12256,h
+ATU 6, pl. 20, W 12256,m
+ATU 6, pl. 20, W 12256,p
+ATU 6, pl. 20, W 12256,r
+ATU 6, pl. 21, W 12256,s
+ATU 6, pl. 21, W 12256,t
+ATU 6, pl. 21, W 13323
+ATU 6, pl. 21, W 13579
+ATU 6, pl. 22, W 13662,a2
+ATU 6, pl. 22, W 13662,a3+
+ATU 6, pl. 22, W 13662,a4
+ATU 6, pl. 22, W 13662,b1
+ATU 6, pl. 22, W 13662,b2
+ATU 6, pl. 23, W 13662,c2
+ATU 6, pl. 23, W 13662,g1
+ATU 6, pl. 23, W 13662,g2
+ATU 6, pl. 23, W 13662,h2
+ATU 6, pl. 23, W 13662,i
+ATU 6, pl. 24, W 13662,k1
+ATU 6, pl. 24, W 13662,k3+
+ATU 6, pl. 24, W 13662,m
+ATU 6, pl. 24, W 13662,n1
+ATU 6, pl. 24, W 13662,n3
+ATU 6, pl. 25, W 13662,r
+ATU 6, pl. 25, W 13662,s2
+ATU 6, pl. 25, W 13662,t1
+ATU 6, pl. 25, W 13662,t2
+ATU 6, pl. 25, W 13662,t3
+ATU 6, pl. 26, W 13662,u
+ATU 6, pl. 26, W 13662,v3
+ATU 6, pl. 26, W 13662,w1
+ATU 6, pl. 26, W 13662,x2
+ATU 6, pl. 26, W 13675
+ATU 6, pl. 28, W 13946,e
+ATU 6, pl. 28, W 13946,f
+ATU 6, pl. 28, W 13946,g
+ATU 6, pl. 28, W 13946,h
+ATU 6, pl. 29, W 13946,i+
+ATU 6, pl. 29, W 13946,l
+ATU 6, pl. 29, W 13946,m
+ATU 6, pl. 29, W 13946,n2
+ATU 6, pl. 29, W 13946,o+
+ATU 6, pl. 30, W 13946,r
+ATU 6, pl. 31, W 13946,w
+ATU 6, pl. 31, W 13989,b
+ATU 6, pl. 32, W 13989,f
+ATU 6, pl. 32, W 14017
+ATU 6, pl. 32, W 14109
+ATU 6, pl. 32, W 14110,a+
+ATU 6, pl. 33, W 14111,a+
+ATU 6, pl. 33, W 14111,c
+ATU 6, pl. 33, W 14111,d2+
+ATU 6, pl. 33, W 14111,f
+ATU 6, pl. 33, W 14111,g
+ATU 6, pl. 33, W 14111,h
+ATU 6, pl. 34, W 14111,o
+ATU 6, pl. 34, W 14111,r
+ATU 6, pl. 34, W 14111,s
+ATU 6, pl. 35, W 14111,?1
+ATU 6, pl. 35, W 14111,aa
+ATU 6, pl. 35, W 14111,w
+ATU 6, pl. 35, W 14111,x
+ATU 6, pl. 35, W 14111,y
+ATU 6, pl. 35, W 14111,z
+ATU 6, pl. 35, W 14112,l
+ATU 6, pl. 35, W 14132
+ATU 6, pl. 36, W 14133
+ATU 6, pl. 36, W 14134,a
+ATU 6, pl. 36, W 14134,b+
+ATU 6, pl. 36, W 14263
+ATU 6, pl. 37, W 14274
+ATU 6, pl. 38, W 14275
+ATU 6, pl. 38, W 14290,a+
+ATU 6, pl. 38, W 14291,b
+ATU 6, pl. 39, W 14327
+ATU 6, pl. 39, W 14331
+ATU 6, pl. 40, W 14329,a+
+ATU 6, pl. 40, W 14332,a+
+ATU 6, pl. 40, W 14333
+ATU 6, pl. 40, W 14334,a+
+ATU 6, pl. 40, W 14334,c
+ATU 6, pl. 41, W 14334,e+
+ATU 6, pl. 41, W 14334,f
+ATU 6, pl. 41, W 14334,l
+ATU 6, pl. 41, W 14335,b
+ATU 6, pl. 41, W 14335,d
+ATU 6, pl. 41, W 14335,e
+ATU 6, pl. 41, W 14335,f
+ATU 6, pl. 41, W 14335,g
+ATU 6, pl. 41, W 14335,h
+ATU 6, pl. 41, W 14335,i
+ATU 6, pl. 42, W 14335,l1
+ATU 6, pl. 42, W 14335,l2
+ATU 6, pl. 42, W 14335,m
+ATU 6, pl. 42, W 14335,n
+ATU 6, pl. 42, W 14335,o+
+ATU 6, pl. 42, W 14335,u
+ATU 6, pl. 43, W 14335,w
+ATU 6, pl. 43, W 14335,x
+ATU 6, pl. 43, W 14338,c
+ATU 6, pl. 44, W 14353
+ATU 6, pl. 44, W 14355
+ATU 6, pl. 44, W 14357
+ATU 6, pl. 45, W 14359
+ATU 6, pl. 45, W 14360
+ATU 6, pl. 45, W 14361
+ATU 6, pl. 45, W 14362
+ATU 6, pl. 45, W 14365
+ATU 6, pl. 46, W 14367+
+ATU 6, pl. 46, W 14370
+ATU 6, pl. 46, W 14371
+ATU 6, pl. 47, W 14637
+ATU 6, pl. 47, W 14704,b
+ATU 6, pl. 48, W 14724
+ATU 6, pl. 48, W 14731,?1
+ATU 6, pl. 48, W 14731,?2
+ATU 6, pl. 48, W 14731,?3
+ATU 6, pl. 48, W 14731,?4
+ATU 6, pl. 48, W 14731,?5a
+ATU 6, pl. 48, W 14731,?5b
+ATU 6, pl. 48, W 14731,a1
+ATU 6, pl. 48, W 14731,a2
+ATU 6, pl. 48, W 14731,a3
+ATU 6, pl. 48, W 14731,a4
+ATU 6, pl. 48, W 14731,a?
+ATU 6, pl. 48, W 14731,b1
+ATU 6, pl. 48, W 14731,b2
+ATU 6, pl. 48, W 14731,c
+ATU 6, pl. 49, W 14731,d
+ATU 6, pl. 49, W 14731,e
+ATU 6, pl. 49, W 14731,f
+ATU 6, pl. 49, W 14731,g
+ATU 6, pl. 49, W 14731,i
+ATU 6, pl. 50, W 14731,k
+ATU 6, pl. 50, W 14731,l
+ATU 6, pl. 50, W 14731,m
+ATU 6, pl. 50, W 14731,n
+ATU 6, pl. 50, W 14731,o
+ATU 6, pl. 50, W 14731,p
+ATU 6, pl. 51, W 14731,ab1
+ATU 6, pl. 51, W 14731,ab2
+ATU 6, pl. 51, W 14731,af
+ATU 6, pl. 51, W 14731,ag2
+ATU 6, pl. 51, W 14731,ag1
+ATU 6, pl. 51, W 14731,r
+ATU 6, pl. 51, W 14731,s
+ATU 6, pl. 51, W 14731,t
+ATU 6, pl. 51, W 14731,u+
+ATU 6, pl. 51, W 14731,v
+ATU 6, pl. 51, W 14731,w
+ATU 6, pl. 51, W 14731,y
+ATU 6, pl. 51, W 14731,z
+ATU 6, pl. 52, W 14731,ag3
+ATU 6, pl. 52, W 14731,ag4
+ATU 6, pl. 52, W 14731,ag5
+ATU 6, pl. 52, W 14731,ag6
+ATU 6, pl. 52, W 14731,ag7
+ATU 6, pl. 52, W 14731,ag9
+ATU 6, pl. 52, W 14731,ag10
+ATU 6, pl. 52, W 14731,ag11
+ATU 6, pl. 52, W 14731,ag12
+ATU 6, pl. 52, W 14731,ag13
+ATU 6, pl. 52, W 14731,ag14
+ATU 6, pl. 52, W 14731,ag15
+ATU 6, pl. 52, W 14731,ah
+ATU 6, pl. 52, W 14731,ai2
+ATU 6, pl. 52, W 14731,ai3
+ATU 6, pl. 52, W 14731,ak
+ATU 6, pl. 52, W 14731,al1
+ATU 6, pl. 52, W 14731,al2
+ATU 6, pl. 53, W 14731,an
+ATU 6, pl. 53, W 14731,ap
+ATU 6, pl. 53, W 14731,ar
+ATU 6, pl. 53, W 14731,as
+ATU 6, pl. 53, W 14731,av
+ATU 6, pl. 53, W 14731,aw1
+ATU 6, pl. 53, W 14731,aw2
+ATU 6, pl. 54, W 14731,ax
+ATU 6, pl. 54, W 14731,ay
+ATU 6, pl. 54, W 14731,az
+ATU 6, pl. 54, W 14731,ba
+ATU 6, pl. 54, W 14731,bc
+ATU 6, pl. 54, W 14731,bd
+ATU 6, pl. 55, W 14731,bb
+ATU 6, pl. 55, W 14731,bf
+ATU 6, pl. 55, W 14731,bg
+ATU 6, pl. 55, W 14731,bi
+ATU 6, pl. 55, W 14731,bk
+ATU 6, pl. 55, W 14731,bn
+ATU 6, pl. 55, W 14731,bz
+ATU 6, pl. 55, W 14731,en
+ATU 6, pl. 56, W 14777,c
+ATU 6, pl. 56, W 14777,e+
+ATU 6, pl. 57, W 14777,g
+ATU 6, pl. 57, W 14777,h
+ATU 6, pl. 57, W 14777,i
+ATU 6, pl. 57, W 14777,l
+ATU 6, pl. 57, W 14777,n
+ATU 6, pl. 57, W 14777,q
+ATU 6, pl. 57, W 14777,r2
+ATU 6, pl. 57, W 14804,c
+ATU 6, pl. 58, W 14804,a+
+ATU 6, pl. 59, W 14851
+ATU 6, pl. 59, W 14852
+ATU 6, pl. 59, W 15194,a
+ATU 6, pl. 59, W 15194,b
+ATU 6, pl. 60, W 15194,c
+ATU 6, pl. 60, W 15195
+ATU 6, pl. 60, W 15286
+ATU 6, pl. 61, W 15692,a15
+ATU 6, pl. 61, W 15692,a18
+ATU 6, pl. 62, W 15721,m?
+ATU 6, pl. 62, W 15769,a
+ATU 6, pl. 62, W 15772,a
+ATU 6, pl. 62, W 15772,c+
+ATU 6, pl. 62, W 15772,d
+ATU 6, pl. 62, W 15772,e
+ATU 6, pl. 63, W 15772,f
+ATU 6, pl. 63, W 15772,g
+ATU 6, pl. 63, W 15772,i2
+ATU 6, pl. 63, W 15772,n
+ATU 6, pl. 64, W 15772,o
+ATU 6, pl. 64, W 15772,p
+ATU 6, pl. 64, W 15772,r
+ATU 6, pl. 64, W 15772,t
+ATU 6, pl. 64, W 15772,u
+ATU 6, pl. 64, W 15772,v
+ATU 6, pl. 64, W 15772,w
+ATU 6, pl. 65, W 15772,z
+ATU 6, pl. 65, W 15774,b
+ATU 6, pl. 65, W 15774,d
+ATU 6, pl. 65, W 15774,e
+ATU 6, pl. 66, W 15774,f
+ATU 6, pl. 66, W 15774,g
+ATU 6, pl. 66, W 15774,i
+ATU 6, pl. 66, W 15774,l
+ATU 6, pl. 66, W 15774,n
+ATU 6, pl. 66, W 15774,o
+ATU 6, pl. 66, W 15774,p
+ATU 6, pl. 66, W 15774,r
+ATU 6, pl. 67, W 15774,s
+ATU 6, pl. 67, W 15774,t
+ATU 6, pl. 67, W 15774,u
+ATU 6, pl. 67, W 15774,x
+ATU 6, pl. 67, W 15774,y
+ATU 6, pl. 67, W 15774,z
+ATU 6, pl. 67, W 15775,a
+ATU 6, pl. 68, W 15775,c
+ATU 6, pl. 68, W 15775,d
+ATU 6, pl. 68, W 15775,g
+ATU 6, pl. 68, W 15775,h
+ATU 6, pl. 69, W 15775,i
+ATU 6, pl. 69, W 15775,k
+ATU 6, pl. 69, W 15775,l
+ATU 6, pl. 69, W 15775,m
+ATU 6, pl. 70, W 15775,o+
+ATU 6, pl. 70, W 15775,p
+ATU 6, pl. 70, W 15775,q
+ATU 6, pl. 70, W 15775,r
+ATU 6, pl. 70, W 15775,s
+ATU 6, pl. 71, W 15775,ah
+ATU 6, pl. 71, W 15775,w
+ATU 6, pl. 72, W 15785,a1
+ATU 6, pl. 72, W 15785,a10
+ATU 6, pl. 72, W 15785,a2
+ATU 6, pl. 72, W 15785,a5
+ATU 6, pl. 72, W 15785,a6
+ATU 6, pl. 72, W 15785,a7
+ATU 6, pl. 72, W 15785,a9
+ATU 6, pl. 73, W 15792,a1
+ATU 6, pl. 73, W 15792,b
+ATU 6, pl. 73, W 15797,a+
+ATU 6, pl. 73, W 15860,a2
+ATU 6, pl. 74, W 15860,a4
+ATU 6, pl. 74, W 15860,a5
+ATU 6, pl. 74, W 15860,a6
+ATU 6, pl. 74, W 15860,a7
+ATU 6, pl. 74, W 15860,a8
+ATU 6, pl. 74, W 15860,a9
+ATU 6, pl. 74, W 15873,a
+ATU 6, pl. 74, W 15873,b
+ATU 6, pl. 75, W 15873,d
+ATU 6, pl. 77, W 15895,bh
+ATU 6, pl. 77, W 15895,x
+ATU 6, pl. 77, W 15895,z
+ATU 6, pl. 78, W 15897,a1
+ATU 6, pl. 78, W 15897,a2
+ATU 6, pl. 79, W 15897,a3
+ATU 6, pl. 79, W 15897,a5
+ATU 6, pl. 79, W 15897,a7
+ATU 6, pl. 79, W 15897,b1
+ATU 6, pl. 80, W 15897,b5
+ATU 6, pl. 80, W 15897,c2
+ATU 6, pl. 80, W 15897,c3
+ATU 6, pl. 80, W 15897,c4
+ATU 6, pl. 80, W 15897,c5
+ATU 6, pl. 80, W 15897,c6
+ATU 6, pl. 81, W 15897,c10
+ATU 6, pl. 81, W 15897,c11
+ATU 6, pl. 81, W 15897,c7
+ATU 6, pl. 81, W 15897,c8
+ATU 6, pl. 82, W 15897,c12
+ATU 6, pl. 82, W 15897,c15
+ATU 6, pl. 82, W 15897,c17
+ATU 6, pl. 83, W 15897,c25
+ATU 6, pl. 83, W 15897,c27
+ATU 6, pl. 83, W 15897,c29
+ATU 6, pl. 84, W 15936
+ATU 6, pl. 84, W 15966,d
+ATU 6, pl. 85, W 16016
+ATU 6, pl. 85, W 16187
+ATU 6, pl. 85, W 16465
+ATU 6, pl. 85, W 16628
+ATU 6, pl. 85, W 16731
+ATU 6, pl. 86, W 16632,e
+ATU 6, pl. 86, W 16632,g
+ATU 6, pl. 86, W 16632,h
+ATU 6, pl. 86, W 16728,14
+ATU 6, pl. 86, W 16750
+ATU 6, pl. 86, W 16979
+ATU 6, pl. 87, W 17402
+ATU 6, pl. 87, W 17445
+ATU 6, pl. 87, W 17586
+ATU 6, pl. 87, W 17645
+ATU 6, pl. 88, W 17973,f
+ATU 6, pl. 89, VAT 15288
+ATU 6, pl. 89, VAT 1700
+ATU 6, pl. 89, VAT 17697
+ATU 6, pl. 89, VAT 17724
+ATU 6, pl. 89, VAT 17754
+ATU 6, pl. 89, VAT 17763,d
+ATU 6, pl. 89, VAT 17864
+ATU 6, pl. 90, VAT 17884,a
+ATU 6, pl. 90, VAT 17884,f
+ATU 6, pl. 90, VAT 17885,b
+ATU 6, pl. 90, VAT 17885,d
+ATU 6, pl. 90, VAT 17885,e
+ATU 6, pl. 90, VAT 21512
+ATU 6, pl. 90, VAT 21513
+ATU 6, pl. 90, VAT 21514
+ATU 6, pl. 90, VAT 21515
+ATU 6, pl. 90, VAT 21516
+ATU 6, pl. 91, VAT 21519
+ATU 6, pl. 91, VAT 21520
+ATU 6, pl. 91, VAT 21521
+ATU 6, pl. 91, VAT 21522
+ATU 6, pl. 91, VAT 21523
+ATU 6, pl. 91, VAT 21524
+ATU 6, pl. 91, VAT 21525
+ATU 6, pl. 91, VAT 21526
+ATU 6, pl. 91, VAT 21527
+ATU 6, pl. 91, VAT 21528
+ATU 6, pl. 91, VAT 21529
+ATU 7, pl. 1, W 18247,1a
+ATU 7, pl. 1, W 18247,1b
+ATU 7, pl. 1, W 18247,1c
+ATU 7, pl. 1, W 18247,1d
+ATU 7, pl. 1, W 18247,4
+ATU 7, pl. 1, W 18247,4a
+ATU 7, pl. 1, W 18247,4b
+ATU 7, pl. 1, W 18330,b
+ATU 7, pl. 2, W 19163
+ATU 7, pl. 3, W 19361,22
+ATU 7, pl. 5, W 19361,38a
+ATU 7, pl. 5, W 19361,38c
+ATU 7, pl. 6, W 19361,39d
+ATU 7, pl. 18, W 19412,4
+ATU 7, pl. 18, W 19412,6
+ATU 7, pl. 19, W 19416,b
+ATU 7, pl. 20, W 19568,j
+ATU 7, pl. 21, W 19568,l
+ATU 7, pl. 21, W 19568,n
+ATU 7, pl. 23, W 19621
+ATU 7, pl. 23, W 19635,a
+ATU 7, pl. 24, W 19639,a
+ATU 7, pl. 24, W 19639,c
+ATU 7, pl. 24, W 19641
+ATU 7, pl. 24, W 19667,a
+ATU 7, pl. 24, W 19667,b
+ATU 7, pl. 24, W 19667,d
+ATU 7, pl. 24, W 19667,f
+ATU 7, pl. 24, W 19669
+ATU 7, pl. 26, W 19726,a
+ATU 7, pl. 27, W 19728,b
+ATU 7, pl. 27, W 19851,b+
+ATU 7, pl. 28, W 19948,31
+ATU 7, pl. 28, W 19948,5
+ATU 7, pl. 28, W 19948,6
+ATU 7, pl. 29, W 19948,37
+ATU 7, pl. 29, W 19948,51
+ATU 7, pl. 29, W 19948,52
+ATU 7, pl. 29, W 19948,53
+ATU 7, pl. 29, W 19948,54
+ATU 7, pl. 29, W 19948,55
+ATU 7, pl. 29, W 19948,56
+ATU 7, pl. 29, W 19948,58
+ATU 7, pl. 29, W 19948,59
+ATU 7, pl. 29, W 19948,60
+ATU 7, pl. 29, W 19948,61
+ATU 7, pl. 30, W 19948,62
+ATU 7, pl. 30, W 19948,63
+ATU 7, pl. 30, W 19948,64
+ATU 7, pl. 30, W 19948,65
+ATU 7, pl. 30, W 19948,66
+ATU 7, pl. 30, W 19948,67
+ATU 7, pl. 30, W 19948,69
+ATU 7, pl. 30, W 19948,70
+ATU 7, pl. 30, W 19948,72
+ATU 7, pl. 30, W 19948,73
+ATU 7, pl. 36, W 20044,61
+ATU 7, pl. 36, W 20050,a
+ATU 7, pl. 38, W 20214,9
+ATU 7, pl. 38, W 20223
+ATU 7, pl. 38, W 20236,1
+ATU 7, pl. 38, W 20237
+ATU 7, pl. 39, W 20238
+ATU 7, pl. 39, W 20246,2
+ATU 7, pl. 39, W 20246,3
+ATU 7, pl. 40, W 20274,12
+ATU 7, pl. 40, W 20274,13
+ATU 7, pl. 40, W 20274,14
+ATU 7, pl. 40, W 20274,15
+ATU 7, pl. 41, W 20274,20
+ATU 7, pl. 41, W 20274,21
+ATU 7, pl. 42, W 20274,24
+ATU 7, pl. 42, W 20274,25
+ATU 7, pl. 42, W 20274,30
+ATU 7, pl. 43, W 20274,36
+ATU 7, pl. 43, W 20274,37
+ATU 7, pl. 43, W 20274,38
+ATU 7, pl. 44, W 20274,40
+ATU 7, pl. 44-45, W 20274,39
+ATU 7, pl. 45, W 20274,44
+ATU 7, pl. 46, W 20274,46
+ATU 7, pl. 46, W 20274,47
+ATU 7, pl. 46, W 20274,48
+ATU 7, pl. 46, W 20274,49
+ATU 7, pl. 46, W 20274,52
+ATU 7, pl. 47, W 20274,54
+ATU 7, pl. 47, W 20274,55
+ATU 7, pl. 47, W 20274,56
+ATU 7, pl. 47, W 20274,61
+ATU 7, pl. 47, W 20274,62+
+ATU 7, pl. 48, W 20274,63
+ATU 7, pl. 48, W 20274,64
+ATU 7, pl. 48, W 20274,65
+ATU 7, pl. 48, W 20274,66
+ATU 7, pl. 48, W 20274,67
+ATU 7, pl. 48, W 20274,68
+ATU 7, pl. 49, W 20274,69
+ATU 7, pl. 49, W 20274,70
+ATU 7, pl. 49, W 20274,91
+ATU 7, pl. 49, W 20274,92
+ATU 7, pl. 49, W 20274,93
+ATU 7, pl. 50, W 20274,94
+ATU 7, pl. 50, W 20274,96
+ATU 7, pl. 50, W 20274,97
+ATU 7, pl. 50, W 20274,98
+ATU 7, pl. 51, W 20274,100
+ATU 7, pl. 51, W 20274,101
+ATU 7, pl. 51, W 20274,102
+ATU 7, pl. 51, W 20274,103
+ATU 7, pl. 51, W 20274,99
+ATU 7, pl. 52, W 20274,104
+ATU 7, pl. 52, W 20274,105
+ATU 7, pl. 52, W 20274,106
+ATU 7, pl. 52, W 20274,107
+ATU 7, pl. 52, W 20274,109
+ATU 7, pl. 52, W 20274,110
+ATU 7, pl. 53, W 20274,121
+ATU 7, pl. 53, W 20274,122
+ATU 7, pl. 53, W 20274,123
+ATU 7, pl. 53, W 20274,124
+ATU 7, pl. 53, W 20274,125
+ATU 7, pl. 54, W 20274,131
+ATU 7, pl. 54, W 20274,132
+ATU 7, pl. 54, W 20274,133
+ATU 7, pl. 54, W 20274,134
+ATU 7, pl. 54, W 20274,135
+ATU 7, pl. 54, W 20274,137
+ATU 7, pl. 54, W 20274,138
+ATU 7, pl. 55, W 20274,139
+ATU 7, pl. 55, W 20274,140
+ATU 7, pl. 55, W 20274,151
+ATU 7, pl. 55, W 20274,152
+ATU 7, pl. 55, W 20274,156
+ATU 7, pl. 56, W 20327,1
+ATU 7, pl. 57, W 20327,10
+ATU 7, pl. 57, W 20327,11
+ATU 7, pl. 57, W 20327,14
+ATU 7, pl. 57, W 20327,16
+ATU 7, pl. 57, W 20327,5
+ATU 7, pl. 57, W 20327,7
+ATU 7, pl. 57, W 20327,8
+ATU 7, pl. 57, W 20327,9
+ATU 7, pl. 58, W 20335,10
+ATU 7, pl. 58, W 20335,11
+ATU 7, pl. 58, W 20335,5
+ATU 7, pl. 58, W 20335,6
+ATU 7, pl. 59, W 20369,1
+ATU 7, pl. 59, W 20369,2
+ATU 7, pl. 60, W 20493,1
+ATU 7, pl. 60, W 20493,2
+ATU 7, pl. 60, W 20493,3
+ATU 7, pl. 61, W 20493,4
+ATU 7, pl. 61, W 20493,5
+ATU 7, pl. 61, W 20493,6+
+ATU 7, pl. 61, W 20493,7
+ATU 7, pl. 61, W 20493,8
+ATU 7, pl. 61, W 20493,9+
+ATU 7, pl. 62, W 20493,10
+ATU 7, pl. 62, W 20493,11
+ATU 7, pl. 62, W 20493,12+
+ATU 7, pl. 62, W 20493,14+
+ATU 7, pl. 62, W 20493,15
+ATU 7, pl. 63, W 20493,16
+ATU 7, pl. 63, W 20493,17
+ATU 7, pl. 63, W 20493,18
+ATU 7, pl. 63, W 20493,19
+ATU 7, pl. 63, W 20493,20
+ATU 7, pl. 63, W 20493,23
+ATU 7, pl. 64, W 20493,24
+ATU 7, pl. 64, W 20493,27
+ATU 7, pl. 64, W 20493,28
+ATU 7, pl. 64, W 20493,29+
+ATU 7, pl. 64, W 20493,30
+ATU 7, pl. 64, W 20493,31
+ATU 7, pl. 64, W 20493,33
+ATU 7, pl. 64, W 20493,34
+ATU 7, pl. 64, W 20493,37
+ATU 7, pl. 64, W 20493,38
+ATU 7, pl. 65, W 20493,39
+ATU 7, pl. 65, W 20493,40
+ATU 7, pl. 65, W 20493,41
+ATU 7, pl. 65, W 20493,42
+ATU 7, pl. 65, W 20493,43
+ATU 7, pl. 65, W 20493,44
+ATU 7, pl. 65, W 20493,45
+ATU 7, pl. 65, W 20493,46
+ATU 7, pl. 65, W 20493,47
+ATU 7, pl. 65, W 20493,48
+ATU 7, pl. 65, W 20493,49
+ATU 7, pl. 65, W 20493,50
+ATU 7, pl. 65, W 20493,51
+ATU 7, pl. 66, W 20493,52
+ATU 7, pl. 66, W 20493,53
+ATU 7, pl. 66, W 20493,54
+ATU 7, pl. 66, W 20493,55
+ATU 7, pl. 66, W 20493,56
+ATU 7, pl. 66, W 20499,2
+ATU 7, pl. 67, W 20500,a
+ATU 7, pl. 67, W 20511,4
+ATU 7, pl. 67, W 20511,5
+ATU 7, pl. 67, W 20511,6
+ATU 7, pl. 67, W 20511,7
+ATU 7, pl. 68, W 20511,10
+ATU 7, pl. 68, W 20511,11
+ATU 7, pl. 68, W 20511,12
+ATU 7, pl. 68, W 20511,14
+ATU 7, pl. 68, W 20511,15
+ATU 7, pl. 68, W 20511,8
+ATU 7, pl. 68, W 20511,9
+ATU 7, pl. 69, W 20511,16
+ATU 7, pl. 69, W 20511,17a
+ATU 7, pl. 69, W 20511,17b
+ATU 7, pl. 69, W 20511,18
+ATU 7, pl. 69, W 20511,19
+ATU 7, pl. 69, W 20511,20
+ATU 7, pl. 69, W 20511,21
+ATU 7, pl. 69, W 20511,22
+ATU 7, pl. 70, W 20511,23
+ATU 7, pl. 70, W 20511,24
+ATU 7, pl. 70, W 20511,25
+ATU 7, pl. 70, W 20511,26
+ATU 7, pl. 70, W 20511,27
+ATU 7, pl. 70, W 20511,28
+ATU 7, pl. 70, W 20511,29
+ATU 7, pl. 70, W 20511,30
+ATU 7, pl. 70, W 20511,31
+ATU 7, pl. 70, W 20511,32
+ATU 7, pl. 70, W 20513
+ATU 7, pl. 71, W 20514,1
+ATU 7, pl. 71, W 20514,2
+ATU 7, pl. 71, W 20514,5
+ATU 7, pl. 72, W 20514,6
+ATU 7, pl. 72, W 20514,8
+ATU 7, pl. 72, W 20517,1
+ATU 7, pl. 72, W 20521,2
+ATU 7, pl. 73, W 20522,6
+ATU 7, pl. 73, W 20522,7
+ATU 7, pl. 73, W 20522,8
+ATU 7, pl. 74, W 20522,12
+ATU 7, pl. 74, W 20522,13
+ATU 7, pl. 74, W 20938
+ATU 7, pl. 74, W 20940
+ATU 7, pl. 74, W 21004,14
+ATU 7, pl. 74, W 21446
+ATU 7, pl. 75, W 21537
+ATU 7, pl. 75, W 21559
+ATU 7, pl. 76, W 21570
+ATU 7, pl. 76, W 21608
+ATU 7, pl. 77, W 21671
+ATU 7, pl. 77, W 21682
+ATU 7, pl. 77, W 21696
+ATU 7, pl. 78, W 21733,1
+ATU 7, pl. 78, W 21733,2
+ATU 7, pl. 78, W 21733,7
+ATU 7, pl. 78, W 21733,8
+ATU 7, pl. 79, W 21734,2
+ATU 7, pl. 79, W 21744
+ATU 7, pl. 80, W 21771
+ATU 7, pl. 80, W 21814
+ATU 7, pl. 80, W 21842
+ATU 7, pl. 80, W 21848
+ATU 7, pl. 80, W 21864
+ATU 7, pl. 81, W 21869
+ATU 7, pl. 81, W 21878
+ATU 7, pl. 81, W 21880
+ATU 7, pl. 81, W 21902
+ATU 7, pl. 81, W 21912
+ATU 7, pl. 81, W 21914
+ATU 7, pl. 82, W 21934
+ATU 7, pl. 82, W 22090,1a
+ATU 7, pl. 82, W 22090,1b
+ATU 7, pl. 82, W 22090,1c
+ATU 7, pl. 82, W 22090,1d
+ATU 7, pl. 82, W 22090,1e
+ATU 7, pl. 82, W 22090,7
+ATU 7, pl. 82, W 22091,0
+ATU 7, pl. 83, W 22091,1+
+ATU 7, pl. 83, W 22091,4
+ATU 7, pl. 83, W 22091,5
+ATU 7, pl. 83, W 22091,7
+ATU 7, pl. 84, W 22102,0
+ATU 7, pl. 84, W 22102,3
+ATU 7, pl. 84, W 22102,5+
+ATU 7, pl. 85, W 22102,6
+ATU 7, pl. 85, W 22102,8
+ATU 7, pl. 85, W 22102,9
+ATU 7, pl. 85, W 22103,0
+ATU 7, pl. 85, W 22103,1
+ATU 7, pl. 85, W 22103,2
+ATU 7, pl. 85, W 22103,3
+ATU 7, pl. 85, W 22103,5
+ATU 7, pl. 86, W 22103,7
+ATU 7, pl. 86, W 22103,8
+ATU 7, pl. 86, W 22103,9
+ATU 7, pl. 86, W 22104,2
+ATU 7, pl. 86, W 22104,3
+ATU 7, pl. 86, W 22104,4a
+ATU 7, pl. 86, W 22104,4b
+ATU 7, pl. 86, W 22104,4c
+ATU 7, pl. 86, W 22104,4d
+ATU 7, pl. 86, W 22104,4e
+ATU 7, pl. 86, W 22104,4f
+ATU 7, pl. 86, W 22104,4g
+ATU 7, pl. 87, W 22104,4h
+ATU 7, pl. 87, W 22104,4i
+ATU 7, pl. 87, W 22104,4j
+ATU 7, pl. 87, W 22104,4k
+ATU 7, pl. 87, W 22104,4l
+ATU 7, pl. 87, W 22104,4m
+ATU 7, pl. 87, W 22112
+ATU 7, pl. 87, W 22113
+ATU 7, pl. 88, W 22116,3
+ATU 7, pl. 88, W 22116,4
+ATU 7, pl. 88, W 22116,5
+ATU 7, pl. 88, W 22116,6
+ATU 7, pl. 88, W 22116,7
+ATU 7, pl. 88, W 22117,1+
+ATU 7, pl. 88, W 22117,3
+ATU 7, pl. 89, W 22117,5b
+ATU 7, pl. 89, W 22117,5c
+ATU 7, pl. 89, W 22117,5f
+ATU 7, pl. 89, W 22118,1
+ATU 7, pl. 89, W 22118,3+
+ATU 7, pl. 90, W 22123,a
+ATU 7, pl. 90, W 22123,b
+ATU 7, pl. 90, W 22123,d
+ATU 7, pl. 90, W 22123,e
+ATU 7, pl. 90, W 22123,f
+ATU 7, pl. 90, W 22123,g
+ATU 7, pl. 90, W 22123,h
+ATU 7, pl. 91, W 22123,j
+ATU 7, pl. 91, W 22123,k
+ATU 7, pl. 91, W 22123,l
+ATU 7, pl. 91, W 22123,m
+ATU 7, pl. 91, W 22123,n
+ATU 7, pl. 91, W 22123,p
+ATU 7, pl. 91, W 22123,q
+ATU 7, pl. 91, W 22134
+ATU 7, pl. 92, HD 01
+ATU 7, pl. 92, HD 03
+ATU 7, pl. 92, HD 04
+ATU 7, pl. 92, HD 13
+ATU 7, pl. 92, HD 14
+ATU 7, pl. 92, W 22135,0
+ATU 7, pl. 92, W 22135,1
+ATU 7, pl. 93, HD 02
+ATU 7, pl. 93, HD 15
+ATU 7, pl. 93, HD 16
+ATU 7, pl. 93, HD 17
+ATU 7, pl. 93, HD 18
+ATU 7, pl. 93, HD 19
+ATU 7, pl. 93, HD 20
+ATU 7, pl. 93, HD 21
+ATU 7, pl. 93, HD 22
+AuOr 35, 085 02
+BagM 22, 57, W 23895
+BagM 22, 57, W 23948
+BagM 22, 58, W 23950
+BagM 22, 59, W 23951
+BagM 22, 59, W 23952
+BagM 22, 59, W 23968
+BagM 22, 60, W 23969,1
+BagM 22, 60, W 23969,2
+BagM 22, 60, W 23972,1
+BagM 22, 60, W 23972,2
+BagM 22, 61, W 23973,1
+BagM 22, 61, W 23973,3
+BagM 22, 62, W 23973,4
+BagM 22, 62, W 23973,5
+BagM 22, 62, W 23973,6
+BagM 22, 63, W 23973,7a
+BagM 22, 63, W 23973,7b
+BagM 22, 63, W 23973,8
+BagM 22, 64, W 23973,10a
+BagM 22, 64, W 23973,10b
+BagM 22, 64, W 23973,9a
+BagM 22, 64, W 23973,9b
+BagM 22, 65, W 23982,1
+BagM 22, 65, W 23982,2a
+BagM 22, 65, W 23982,2b
+BagM 22, 65, W 23982,3
+BagM 22, 65, W 23982,4a
+BagM 22, 65, W 23982,4b
+BagM 22, 65, W 23982,5
+BagM 22, 66, W 23983,a
+BagM 22, 66, W 23983,b
+BagM 22, 66, W 23983,c
+BagM 22, 66, W 23983,d
+BagM 22, 66, W 23983,f
+BagM 22, 67, W 23986,b
+BagM 22, 67, W 23987
+BagM 22, 68, W 23988
+BagM 22, 68, W 23990,a
+BagM 22, 68, W 23990,b
+BagM 22, 68, W 23990,c
+BagM 22, 69, W 23991,a
+BagM 22, 69, W 23991,b
+BagM 22, 70, W 23992
+BagM 22, 70, W 23993
+BagM 22, 70, W 23994
+BagM 22, 70, W 23995
+BagM 22, 71, W 23997,1
+BagM 22, 72, W 23997,3
+BagM 22, 72, W 23997,4b
+BagM 22, 72, W 23998,1a
+BagM 22, 73, W 23998,2a
+BagM 22, 73, W 23998,2b
+BagM 22, 73, W 23998,2c
+BagM 22, 73, W 23998,2d
+BagM 22, 74, W 23998,2e
+BagM 22, 74, W 23999,1
+BagM 22, 75, W 23999,2
+BagM 22, 75, W 23999,3
+BagM 22, 75, W 23999,4a
+BagM 22, 75, W 23999,4b
+BagM 22, 76, W 23999,4d
+BagM 22, 76, W 23999,4e
+BagM 22, 76, W 23999,4f
+BagM 22, 77, W 24004,2
+BagM 22, 77, W 24004,2b
+BagM 22, 78, W 24004,3b
+BagM 22, 78, W 24004,4a
+BagM 22, 78, W 24004,4c+
+BagM 22, 78, W 24004,4e
+BagM 22, 79, W 24004,4f
+BagM 22, 79, W 24004,5
+BagM 22, 79, W 24004,6
+BagM 22, 80, W 24004,7
+BagM 22, 80, W 24004,8a
+BagM 22, 80, W 24004,8b
+BagM 22, 81, W 24004,10
+BagM 22, 81, W 24004,11
+BagM 22, 82, W 24004,12
+BagM 22, 82, W 24004,13
+BagM 22, 82, W 24004,14b
+BagM 22, 82, W 24004,14d
+BagM 22, 83, W 24006,2
+BagM 22, 83, W 24006,3
+BagM 22, 83, W 24006,5
+BagM 22, 84, W 24006,6a
+BagM 22, 84, W 24006,6b
+BagM 22, 84, W 24006,7
+BagM 22, 84, W 24006,8
+BagM 22, 84, W 24006,9
+BagM 22, 85, W 24006,10
+BagM 22, 85, W 24006,11
+BagM 22, 86, W 24007,3
+BagM 22, 87, W 24007,4
+BagM 22, 87, W 24007,5
+BagM 22, 87, W 24007,6
+BagM 22, 88, W 24008,8
+BagM 22, 89, W 24008,12
+BagM 22, 90, W 24008,14
+BagM 22, 90, W 24008,15
+BagM 22, 90, W 24008,17
+BagM 22, 91, W 24008,19
+BagM 22, 91, W 24008,20
+BagM 22, 91, W 24008,21
+BagM 22, 92, W 24008,22
+BagM 22, 92, W 24008,24
+BagM 22, 92, W 24008,25
+BagM 22, 92, W 24008,26
+BagM 22, 93, W 24008,27a
+BagM 22, 93, W 24010,5
+BagM 22, 93, W 24010,6
+BagM 22, 93, W 24011,1
+BagM 22, 94, W 24011,2
+BagM 22, 94, W 24011,3
+BagM 22, 94, W 24011,4
+BagM 22, 95, W 24011,6
+BagM 22, 95, W 24011,7
+BagM 22, 95, W 24011,8
+BagM 22, 96, W 24011,9
+BagM 22, 96, W 24012,1
+BagM 22, 97, W 24012,4
+BagM 22, 97, W 24012,5
+BagM 22, 97, W 24012,6
+BagM 22, 97, W 24012,9
+BagM 22, 98, W 24012,10
+BagM 22, 98, W 24013,1
+BagM 22, 98, W 24013,2
+BagM 22, 98, W 24013,3
+BagM 22, 99, W 24013,4
+BagM 22, 99, W 24013,6
+BagM 22, 100, W 24013,10
+BagM 22, 100, W 24013,11b
+BagM 22, 100, W 24013,11c
+BagM 22, 100, W 24013,8
+BagM 22, 100, W 24013,9
+BagM 22, 101, W 24013,13
+BagM 22, 102, W 24013,16
+BagM 22, 102, W 24013,19
+BagM 22, 102, W 24013,20
+BagM 22, 103, W 24013,21
+BagM 22, 103, W 24013,22
+BagM 22, 103, W 24013,24
+BagM 22, 103, W 24014
+BagM 22, 104, W 24015,3
+BagM 22, 104, W 24015,4
+BagM 22, 104, W 24015,5
+BagM 22, 106, W 24017
+BagM 22, 107, W 24018,1
+BagM 22, 107, W 24018,2
+BagM 22, 107, W 24018,4
+BagM 22, 108, W 24018,7
+BagM 22, 108, W 24018,8
+BagM 22, 109, W 24021,1
+BagM 22, 109, W 24021,2
+BagM 22, 109, W 24021,3
+BagM 22, 109, W 24021,5
+BagM 22, 110, W 24021,6
+BagM 22, 110, W 24021,7
+BagM 22, 110, W 24021,8
+BagM 22, 110, W 24021,9
+BagM 22, 111, W 24021,10
+BagM 22, 111, W 24021,11
+BagM 22, 112, W 24021,13
+BagM 22, 112, W 24021,14
+BagM 22, 112, W 24021,15
+BagM 22, 113, W 24021,16
+BagM 22, 114, W 24021,18a
+BagM 22, 114, W 24021,18b
+BagM 22, 114, W 24021,18c
+BagM 22, 114, W 24021,18d
+BagM 22, 114, W 24021,18e
+BagM 22, 114, W 24021,18f
+BagM 22, 114, W 24022
+BagM 22, 115, W 24024,1
+BagM 22, 115, W 24024,2
+BagM 22, 115, W 24025
+BagM 22, 116, W 24026
+BagM 22, 116, W 24027
+BagM 22, 116, W 24028,1
+BagM 22, 116, W 24030
+BagM 22, 116, W 24031
+BagM 22, 117, W 24033,1
+BagM 22, 118, W 24033,2
+BagM 22, 118, W 24033,3
+BagM 22, 118, W 24033,4
+BagM 22, 119, W 24033,5
+BagM 22, 119, W 24033,6
+BagM 22, 119, W 24033,7
+BagM 22, 119, W 24033,9
+BagM 22, 120, W 24033,10
+BagM 22, 120, W 24046,1
+BagM 22, 121, W 24046,2
+BagM 22, 121, W 24046,3
+BagM 22, 122, W 24046,4
+BagM 22, 122, W 24046,5
+BagM 22, 122, W 24046,6
+BagM 22, 123, W 24046,7
+BagM 22, 123, W 24046,8
+BagM 22, 123, W 24047
+BagM 22, 123, W 24049
+BagM 22, 123, W 24050
+BagM 22, 123, W 24051
+BagM 22, 136, W 24060
+BagM 22, 136, W 24061
+BagM 22, 136, W 24062
+BagM 22, 137, W 24153
+BagM 22, 137, W 24156
+BagM 22, 138, W 24159
+BagM 22, 139, W 24160
+BagM 22, 139, W 24162
+BagM 22, 140, W 24181,a
+BagM 22, 140, W 24181,b
+BagM 22, 141, W 24181,c
+BagM 22, 141, W 24181,d
+BagM 22, 141, W 24181,e
+BagM 22, 141, W 24181,f
+BagM 22, 141, W 24182
+BagM 22, 142, W 24183
+BagM 22, 142, W 24184
+BagM 22, 142, W 24185
+BagM 22, 142, W 24186
+BagM 22, 143, W 24187
+BagM 22, 143, W 24188
+BagM 22, 143, W 24189
+BagM 22, 143, W 24190
+BagM 22, 144, W 24191
+BagM 22, 144, W 24192,a
+BagM 22, 144, W 24192,b
+BagM 22, 144, W 24193,a
+BagM 22, 145, W 24193,b
+BagM 22, 145, W 24193,c
+BagM 22, 145, W 24195
+BagM 22, 146, W 24196
+BagM 22, 146, W 24198
+BagM 22, 147, W 24199
+BagM 22, 147, W 24200
+BagM 22, 147, W 24200,a
+BagM 22, 147, W 24201,a
+BagM 22, 148, W 24202
+BagM 22, 148, W 24203,b
+BagM 22, 149, W 24204,1
+BagM 22, 149, W 24204,2
+BagM 22, 149, W 24207
+BagM 22, 150, W 24208
+BagM 22, 150, W 24211
+BagM 22, 150, W 24212,1
+BagM 22, 151, W 24212,2
+BagM 22, 151, W 24212,4
+BagM 22, 151, W 24212,5
+BagM 22, 151, W 24212,6
+BagM 22, 151, W 24212,7
+BagM 22, 152, W 24212,8
+BagM 22, 152, W 24213
+BagM 22, 152, W 24214,1
+BagM 22, 153, W 24214,3
+BagM 22, 153, W 24215
+BagM 22, 154, W 24216
+BagM 22, 154, W 24217,a
+BagM 22, 154, W 24217,c
+BagM 22, 154, W 24218
+BagM 22, 155, W 24220
+BagM 22, 155, W 24221
+BagM 22, 156, W 24224
+BagM 22, 157, W 24235
+BagM 22, 158, W 24236
+BagM 22, 158, W 24237
+BagM 22, 158, W 24238
+BagM 22, 159, W 24239
+BagM 22, 159, W 24240
+BagM 22, 160, W 24241
+BagM 22, 160, W 24242,1
+BagM 22, 160, W 24243,2
+BagM 22, 161, W 24244,1
+BagM 22, 161, W 24244,2
+BagM 22, 161, W 24244,3
+BagM 22, 162, W 24244,4
+BagM 22, 162, W 24244,5
+BagM 22, 162, W 24245
+BagM 22, 162, W 24246
+BagM 22, 162, W 24246,BIS
+BSOAS 62, 116
+CDLB 2003/4
+CDLB nn, CMAA 020-C0003
+CDLI Lexical 000002 (Archaic Lu2 A) composite
+CDLI Lexical 000002, ex. 001
+CDLI Lexical 000002, ex. 002
+CDLI Lexical 000002, ex. 003
+CDLI Lexical 000002, ex. 004
+CDLI Lexical 000002, ex. 005
+CDLI Lexical 000002, ex. 006
+CDLI Lexical 000002, ex. 007
+CDLI Lexical 000002, ex. 008
+CDLI Lexical 000002, ex. 009
+CDLI Lexical 000002, ex. 010
+CDLI Lexical 000002, ex. 011
+CDLI Lexical 000002, ex. 012
+CDLI Lexical 000002, ex. 013
+CDLI Lexical 000002, ex. 014
+CDLI Lexical 000002, ex. 015
+CDLI Lexical 000002, ex. 016
+CDLI Lexical 000002, ex. 017 & 000026, ex. 54
+CDLI Lexical 000002, ex. 018
+CDLI Lexical 000002, ex. 019
+CDLI Lexical 000002, ex. 020
+CDLI Lexical 000002, ex. 021
+CDLI Lexical 000002, ex. 022
+CDLI Lexical 000002, ex. 023
+CDLI Lexical 000002, ex. 024
+CDLI Lexical 000002, ex. 025
+CDLI Lexical 000002, ex. 026
+CDLI Lexical 000002, ex. 027
+CDLI Lexical 000002, ex. 028
+CDLI Lexical 000002, ex. 029
+CDLI Lexical 000002, ex. 030
+CDLI Lexical 000002, ex. 031
+CDLI Lexical 000002, ex. 032
+CDLI Lexical 000002, ex. 033
+CDLI Lexical 000002, ex. 034
+CDLI Lexical 000002, ex. 035
+CDLI Lexical 000002, ex. 036
+CDLI Lexical 000002, ex. 037
+CDLI Lexical 000002, ex. 038
+CDLI Lexical 000002, ex. 039
+CDLI Lexical 000002, ex. 040
+CDLI Lexical 000002, ex. 041
+CDLI Lexical 000002, ex. 042
+CDLI Lexical 000002, ex. 043
+CDLI Lexical 000002, ex. 044
+CDLI Lexical 000002, ex. 045
+CDLI Lexical 000002, ex. 046
+CDLI Lexical 000002, ex. 047
+CDLI Lexical 000002, ex. 048
+CDLI Lexical 000002, ex. 049
+CDLI Lexical 000002, ex. 050
+CDLI Lexical 000002, ex. 052
+CDLI Lexical 000002, ex. 053
+CDLI Lexical 000002, ex. 054
+CDLI Lexical 000002, ex. 055
+CDLI Lexical 000002, ex. 056
+CDLI Lexical 000002, ex. 057
+CDLI Lexical 000002, ex. 058
+CDLI Lexical 000002, ex. 059
+CDLI Lexical 000002, ex. 060
+CDLI Lexical 000002, ex. 061
+CDLI Lexical 000002, ex. 062
+CDLI Lexical 000002, ex. 063
+CDLI Lexical 000002, ex. 064
+CDLI Lexical 000002, ex. 065
+CDLI Lexical 000002, ex. 066
+CDLI Lexical 000002, ex. 067
+CDLI Lexical 000002, ex. 068
+CDLI Lexical 000002, ex. 069
+CDLI Lexical 000002, ex. 070
+CDLI Lexical 000002, ex. 071
+CDLI Lexical 000002, ex. 072
+CDLI Lexical 000002, ex. 073
+CDLI Lexical 000002, ex. 074
+CDLI Lexical 000002, ex. 075
+CDLI Lexical 000002, ex. 076
+CDLI Lexical 000002, ex. 077
+CDLI Lexical 000002, ex. 078
+CDLI Lexical 000002, ex. 079
+CDLI Lexical 000002, ex. 080
+CDLI Lexical 000002, ex. 081
+CDLI Lexical 000002, ex. 082
+CDLI Lexical 000002, ex. 083
+CDLI Lexical 000002, ex. 084
+CDLI Lexical 000002, ex. 085
+CDLI Lexical 000002, ex. 086
+CDLI Lexical 000002, ex. 087
+CDLI Lexical 000002, ex. 088
+CDLI Lexical 000002, ex. 089
+CDLI Lexical 000002, ex. 090
+CDLI Lexical 000002, ex. 091
+CDLI Lexical 000002, ex. 092
+CDLI Lexical 000002, ex. 093
+CDLI Lexical 000002, ex. 094
+CDLI Lexical 000002, ex. 095
+CDLI Lexical 000002, ex. 096
+CDLI Lexical 000002, ex. 097
+CDLI Lexical 000002, ex. 098
+CDLI Lexical 000002, ex. 099
+CDLI Lexical 000002, ex. 100
+CDLI Lexical 000002, ex. 101
+CDLI Lexical 000002, ex. 102
+CDLI Lexical 000002, ex. 103
+CDLI Lexical 000002, ex. 104
+CDLI Lexical 000002, ex. 105
+CDLI Lexical 000002, ex. 106
+CDLI Lexical 000002, ex. 107
+CDLI Lexical 000002, ex. 108
+CDLI Lexical 000002, ex. 109
+CDLI Lexical 000002, ex. 110
+CDLI Lexical 000002, ex. 111
+CDLI Lexical 000002, ex. 112
+CDLI Lexical 000002, ex. 113
+CDLI Lexical 000002, ex. 114
+CDLI Lexical 000002, ex. 115
+CDLI Lexical 000002, ex. 116
+CDLI Lexical 000002, ex. 117
+CDLI Lexical 000002, ex. 118
+CDLI Lexical 000002, ex. 119
+CDLI Lexical 000002, ex. 120
+CDLI Lexical 000002, ex. 121
+CDLI Lexical 000002, ex. 122
+CDLI Lexical 000002, ex. 123
+CDLI Lexical 000002, ex. 124
+CDLI Lexical 000002, ex. 125
+CDLI Lexical 000002, ex. 126
+CDLI Lexical 000002, ex. 127
+CDLI Lexical 000002, ex. 128
+CDLI Lexical 000002, ex. 129
+CDLI Lexical 000002, ex. 130
+CDLI Lexical 000002, ex. 131
+CDLI Lexical 000002, ex. 132
+CDLI Lexical 000002, ex. 133
+CDLI Lexical 000002, ex. 134
+CDLI Lexical 000002, ex. 135
+CDLI Lexical 000002, ex. 136
+CDLI Lexical 000002, ex. 137
+CDLI Lexical 000002, ex. 138
+CDLI Lexical 000002, ex. 139
+CDLI Lexical 000002, ex. 140
+CDLI Lexical 000002, ex. 141
+CDLI Lexical 000002, ex. 142
+CDLI Lexical 000002, ex. 143
+CDLI Lexical 000002, ex. 144
+CDLI Lexical 000002, ex. 145
+CDLI Lexical 000002, ex. 146
+CDLI Lexical 000002, ex. 147
+CDLI Lexical 000002, ex. 148
+CDLI Lexical 000002, ex. 149
+CDLI Lexical 000002, ex. 150
+CDLI Lexical 000002, ex. 151
+CDLI Lexical 000002, ex. 152
+CDLI Lexical 000002, ex. 153
+CDLI Lexical 000002, ex. 154
+CDLI Lexical 000002, ex. 155
+CDLI Lexical 000002, ex. 156
+CDLI Lexical 000002, ex. 157
+CDLI Lexical 000002, ex. 158
+CDLI Lexical 000002, ex. 159
+CDLI Lexical 000002, ex. 160
+CDLI Lexical 000002, ex. 161
+CDLI Lexical 000002, ex. 162
+CDLI Lexical 000002, ex. 163
+CDLI Lexical 000002, ex. 164
+CDLI Lexical 000002, ex. 165
+CDLI Lexical 000002, ex. 166
+CDLI Lexical 000002, ex. 167
+CDLI Lexical 000002, ex. 168
+CDLI Lexical 000002, ex. 169
+CDLI Lexical 000002, ex. 175
+CDLI Lexical 000002, ex. 176
+CDLI Lexical 000002, ex. 177
+CDLI Lexical 000002, ex. 178
+CDLI Lexical 000002, ex. 179
+CDLI Lexical 000002, ex. 180
+CDLI Lexical 000002, ex. 181
+CDLI Lexical 000002, ex. 182
+CDLI Lexical 000002, ex. 183
+CDLI Lexical 000002, ex. 184
+CDLI Lexical 000002, ex. 185
+CDLI Lexical 000002, ex. 186
+CDLI Lexical 000002, ex. 187
+CDLI Lexical 000002, ex. 188
+CDLI Lexical 000002, ex. 189
+CDLI Lexical 000002, ex. 190
+CDLI Lexical 000002, ex. 192
+CDLI Lexical 000002, ex. 193
+CDLI Lexical 000002, ex. 194
+CDLI Lexical 000007 (Archaic Officials) composite
+CDLI Lexical 000007, ex. 001
+CDLI Lexical 000007, ex. 002
+CDLI Lexical 000007, ex. 003
+CDLI Lexical 000007, ex. 004
+CDLI Lexical 000007, ex. 005
+CDLI Lexical 000007, ex. 006
+CDLI Lexical 000007, ex. 007
+CDLI Lexical 000007, ex. 008
+CDLI Lexical 000007, ex. 009
+CDLI Lexical 000007, ex. 010
+CDLI Lexical 000007, ex. 011
+CDLI Lexical 000007, ex. 012
+CDLI Lexical 000007, ex. 013
+CDLI Lexical 000007, ex. 014
+CDLI Lexical 000007, ex. 015
+CDLI Lexical 000007, ex. 016
+CDLI Lexical 000011 (Archaic Animals) composite
+CDLI Lexical 000011, ex. 01
+CDLI Lexical 000011, ex. 02
+CDLI Lexical 000011, ex. 03
+CDLI Lexical 000011, ex. 04
+CDLI Lexical 000011, ex. 05
+CDLI Lexical 000011, ex. 06
+CDLI Lexical 000011, ex. 07
+CDLI Lexical 000011, ex. 08
+CDLI Lexical 000011, ex. 09
+CDLI Lexical 000011, ex. 10
+CDLI Lexical 000011, ex. 11
+CDLI Lexical 000011, ex. 12
+CDLI Lexical 000011, ex. 13
+CDLI Lexical 000011, ex. 14
+CDLI Lexical 000011, ex. 15
+CDLI Lexical 000011, ex. 16
+CDLI Lexical 000011, ex. 17
+CDLI Lexical 000011, ex. 18
+CDLI Lexical 000011, ex. 19
+CDLI Lexical 000011, ex. 20
+CDLI Lexical 000011, ex. 21
+CDLI Lexical 000011, ex. 22
+CDLI Lexical 000011, ex. 23
+CDLI Lexical 000011, ex. 24
+CDLI Lexical 000011, ex. 25
+CDLI Lexical 000011, ex. 026
+CDLI Lexical 000013 (Archaic Fish) composite
+CDLI Lexical 000013, ex. 01
+CDLI Lexical 000013, ex. 02
+CDLI Lexical 000013, ex. 03
+CDLI Lexical 000013, ex. 04
+CDLI Lexical 000013, ex. 05
+CDLI Lexical 000013, ex. 06
+CDLI Lexical 000013, ex. 07
+CDLI Lexical 000013, ex. 08
+CDLI Lexical 000013, ex. 09
+CDLI Lexical 000013, ex. 10
+CDLI Lexical 000013, ex. 11
+CDLI Lexical 000013, ex. 12
+CDLI Lexical 000013, ex. 13
+CDLI Lexical 000013, ex. 14
+CDLI Lexical 000013, ex. 15
+CDLI Lexical 000013, ex. 16
+CDLI Lexical 000013, ex. 17
+CDLI Lexical 000013, ex. 18
+CDLI Lexical 000013, ex. 19
+CDLI Lexical 000013, ex. 20
+CDLI Lexical 000013, ex. 21
+CDLI Lexical 000013, ex. 22
+CDLI Lexical 000017 (Archaic Birds) composite
+CDLI Lexical 000017, ex. 01
+CDLI Lexical 000017, ex. 02
+CDLI Lexical 000017, ex. 03
+CDLI Lexical 000017, ex. 04
+CDLI Lexical 000017, ex. 05
+CDLI Lexical 000017, ex. 06
+CDLI Lexical 000019 (Archaic Plant) composite
+CDLI Lexical 000019, ex. 01
+CDLI Lexical 000019, ex. 02
+CDLI Lexical 000019, ex. 03
+CDLI Lexical 000019, ex. 04
+CDLI Lexical 000022 (Archaic Wood) composite
+CDLI Lexical 000022, ex. 01
+CDLI Lexical 000022, ex. 02
+CDLI Lexical 000022, ex. 03
+CDLI Lexical 000022, ex. 04
+CDLI Lexical 000022, ex. 05
+CDLI Lexical 000022, ex. 06
+CDLI Lexical 000022, ex. 07
+CDLI Lexical 000022, ex. 08
+CDLI Lexical 000022, ex. 09
+CDLI Lexical 000022, ex. 10
+CDLI Lexical 000022, ex. 11
+CDLI Lexical 000022, ex. 12
+CDLI Lexical 000022, ex. 13
+CDLI Lexical 000022, ex. 14
+CDLI Lexical 000022, ex. 15
+CDLI Lexical 000022, ex. 16
+CDLI Lexical 000022, ex. 17
+CDLI Lexical 000022, ex. 18
+CDLI Lexical 000022, ex. 19
+CDLI Lexical 000022, ex. 20
+CDLI Lexical 000022, ex. 21
+CDLI Lexical 000022, ex. 22
+CDLI Lexical 000022, ex. 23
+CDLI Lexical 000022, ex. 24
+CDLI Lexical 000022, ex. 25
+CDLI Lexical 000022, ex. 26
+CDLI Lexical 000022, ex. 27
+CDLI Lexical 000022, ex. 28
+CDLI Lexical 000022, ex. 29
+CDLI Lexical 000022, ex. 30
+CDLI Lexical 000022, ex. 31
+CDLI Lexical 000022, ex. 32
+CDLI Lexical 000023 (Archaic Vessels) composite
+CDLI Lexical 000023, ex. 001
+CDLI Lexical 000023, ex. 002
+CDLI Lexical 000023, ex. 003
+CDLI Lexical 000023, ex. 004
+CDLI Lexical 000023, ex. 005
+CDLI Lexical 000023, ex. 006
+CDLI Lexical 000023, ex. 007
+CDLI Lexical 000023, ex. 008
+CDLI Lexical 000023, ex. 009
+CDLI Lexical 000023, ex. 010
+CDLI Lexical 000023, ex. 011
+CDLI Lexical 000023, ex. 012
+CDLI Lexical 000023, ex. 013
+CDLI Lexical 000023, ex. 014
+CDLI Lexical 000023, ex. 015
+CDLI Lexical 000023, ex. 016
+CDLI Lexical 000023, ex. 017
+CDLI Lexical 000023, ex. 018
+CDLI Lexical 000023, ex. 019
+CDLI Lexical 000023, ex. 020
+CDLI Lexical 000023, ex. 021
+CDLI Lexical 000023, ex. 022
+CDLI Lexical 000023, ex. 023
+CDLI Lexical 000023, ex. 024
+CDLI Lexical 000023, ex. 025
+CDLI Lexical 000023, ex. 026
+CDLI Lexical 000023, ex. 027
+CDLI Lexical 000023, ex. 028
+CDLI Lexical 000023, ex. 029
+CDLI Lexical 000023, ex. 030
+CDLI Lexical 000023, ex. 031
+CDLI Lexical 000023, ex. 032
+CDLI Lexical 000023, ex. 033
+CDLI Lexical 000023, ex. 034
+CDLI Lexical 000023, ex. 035
+CDLI Lexical 000023, ex. 036
+CDLI Lexical 000023, ex. 037
+CDLI Lexical 000023, ex. 038
+CDLI Lexical 000023, ex. 039
+CDLI Lexical 000023, ex. 040
+CDLI Lexical 000023, ex. 041
+CDLI Lexical 000023, ex. 042
+CDLI Lexical 000023, ex. 043
+CDLI Lexical 000023, ex. 044
+CDLI Lexical 000023, ex. 045
+CDLI Lexical 000023, ex. 046
+CDLI Lexical 000023, ex. 047
+CDLI Lexical 000023, ex. 048
+CDLI Lexical 000023, ex. 049
+CDLI Lexical 000023, ex. 050
+CDLI Lexical 000023, ex. 051
+CDLI Lexical 000023, ex. 052
+CDLI Lexical 000023, ex. 053
+CDLI Lexical 000023, ex. 054
+CDLI Lexical 000023, ex. 055
+CDLI Lexical 000023, ex. 056
+CDLI Lexical 000023, ex. 057
+CDLI Lexical 000023, ex. 058
+CDLI Lexical 000023, ex. 059
+CDLI Lexical 000023, ex. 060
+CDLI Lexical 000023, ex. 061
+CDLI Lexical 000023, ex. 062
+CDLI Lexical 000023, ex. 063
+CDLI Lexical 000023, ex. 064
+CDLI Lexical 000023, ex. 065
+CDLI Lexical 000023, ex. 066
+CDLI Lexical 000023, ex. 067
+CDLI Lexical 000023, ex. 068
+CDLI Lexical 000023, ex. 069
+CDLI Lexical 000023, ex. 070
+CDLI Lexical 000023, ex. 071
+CDLI Lexical 000023, ex. 072
+CDLI Lexical 000023, ex. 073
+CDLI Lexical 000023, ex. 074
+CDLI Lexical 000023, ex. 075
+CDLI Lexical 000023, ex. 076
+CDLI Lexical 000023, ex. 077
+CDLI Lexical 000023, ex. 078
+CDLI Lexical 000023, ex. 079
+CDLI Lexical 000023, ex. 080
+CDLI Lexical 000023, ex. 081
+CDLI Lexical 000023, ex. 082
+CDLI Lexical 000023, ex. 083
+CDLI Lexical 000023, ex. 084
+CDLI Lexical 000023, ex. 085
+CDLI Lexical 000023, ex. 086
+CDLI Lexical 000023, ex. 087
+CDLI Lexical 000023, ex. 088
+CDLI Lexical 000023, ex. 089
+CDLI Lexical 000023, ex. 090
+CDLI Lexical 000023, ex. 091
+CDLI Lexical 000023, ex. 094
+CDLI Lexical 000023, ex. 095
+CDLI Lexical 000023, ex. 096
+CDLI Lexical 000023, ex. 097
+CDLI Lexical 000023, ex. 098
+CDLI Lexical 000026 (Archaic Metal) composite
+CDLI Lexical 000026, ex. 01
+CDLI Lexical 000026, ex. 02
+CDLI Lexical 000026, ex. 03
+CDLI Lexical 000026, ex. 04
+CDLI Lexical 000026, ex. 05
+CDLI Lexical 000026, ex. 06
+CDLI Lexical 000026, ex. 07
+CDLI Lexical 000026, ex. 08
+CDLI Lexical 000026, ex. 09
+CDLI Lexical 000026, ex. 10
+CDLI Lexical 000026, ex. 11
+CDLI Lexical 000026, ex. 12
+CDLI Lexical 000026, ex. 13
+CDLI Lexical 000026, ex. 14
+CDLI Lexical 000026, ex. 15
+CDLI Lexical 000026, ex. 16
+CDLI Lexical 000026, ex. 17
+CDLI Lexical 000026, ex. 18
+CDLI Lexical 000026, ex. 19
+CDLI Lexical 000026, ex. 20
+CDLI Lexical 000026, ex. 21
+CDLI Lexical 000026, ex. 22
+CDLI Lexical 000026, ex. 23
+CDLI Lexical 000026, ex. 24
+CDLI Lexical 000026, ex. 25
+CDLI Lexical 000026, ex. 26
+CDLI Lexical 000026, ex. 27
+CDLI Lexical 000026, ex. 28
+CDLI Lexical 000026, ex. 29
+CDLI Lexical 000026, ex. 30
+CDLI Lexical 000026, ex. 31
+CDLI Lexical 000026, ex. 32
+CDLI Lexical 000026, ex. 33
+CDLI Lexical 000026, ex. 34
+CDLI Lexical 000026, ex. 35
+CDLI Lexical 000026, ex. 36
+CDLI Lexical 000026, ex. 37
+CDLI Lexical 000026, ex. 38
+CDLI Lexical 000026, ex. 39
+CDLI Lexical 000026, ex. 40
+CDLI Lexical 000026, ex. 41
+CDLI Lexical 000026, ex. 42
+CDLI Lexical 000026, ex. 43
+CDLI Lexical 000026, ex. 44
+CDLI Lexical 000026, ex. 46
+CDLI Lexical 000026, ex. 47
+CDLI Lexical 000026, ex. 48
+CDLI Lexical 000026, ex. 49
+CDLI Lexical 000026, ex. 50
+CDLI Lexical 000026, ex. 51
+CDLI Lexical 000026, ex. 52
+CDLI Lexical 000026, ex. 53
+PCTSC, MS 2900/06
+CDLI Lexical 000026, ex. 56
+CDLI Lexical 000028 (Archaic Grain) composite
+CDLI Lexical 000028, ex. 01
+CDLI Lexical 000028, ex. 02
+CDLI Lexical 000028, ex. 03
+CDLI Lexical 000028, ex. 04
+CDLI Lexical 000028, ex. 05
+CDLI Lexical 000028, ex. 06
+CDLI Lexical 000028, ex. 07
+CDLI Lexical 000028, ex. 08
+CDLI Lexical 000028, ex. 09
+CDLI Lexical 000030 (Archaic Tribute) composite
+CDLI Lexical 000030, ex. 01
+CDLI Lexical 000030, ex. 02
+CDLI Lexical 000030, ex. 03
+CDLI Lexical 000030, ex. 04
+CDLI Lexical 000030, ex. 05
+CDLI Lexical 000030, ex. 06
+CDLI Lexical 000030, ex. 07
+CDLI Lexical 000030, ex. 08
+CDLI Lexical 000030, ex. 09
+CDLI Lexical 000030, ex. 10
+CDLI Lexical 000030, ex. 11
+CDLI Lexical 000030, ex. 12
+CDLI Lexical 000030, ex. 13
+CDLI Lexical 000030, ex. 14
+CDLI Lexical 000030, ex. 15
+CDLI Lexical 000030, ex. 16
+CDLI Lexical 000030, ex. 17
+CDLI Lexical 000030, ex. 18
+CDLI Lexical 000030, ex. 19
+CDLI Lexical 000030, ex. 20
+CDLI Lexical 000030, ex. 21
+CDLI Lexical 000030, ex. 22
+CDLI Lexical 000030, ex. 23
+CDLI Lexical 000030, ex. 24
+CDLI Lexical 000030, ex. 25
+CDLI Lexical 000030, ex. 26
+CDLI Lexical 000030, ex. 27
+CDLI Lexical 000030, ex. 28
+CDLI Lexical 000030, ex. 29
+CDLI Lexical 000030, ex. 30
+CDLI Lexical 000030, ex. 31
+CDLI Lexical 000030, ex. 32
+CDLI Lexical 000030, ex. 33
+CDLI Lexical 000030, ex. 34
+CDLI Lexical 000030, ex. 35
+CDLI Lexical 000030, ex. 36
+CDLI Lexical 000030, ex. 37
+CDLI Lexical 000030, ex. 38
+CDLI Lexical 000030, ex. 39
+CDLI Lexical 000030, ex. 40
+CDLI Lexical 000030, ex. 41
+CDLI Lexical 000030, ex. 42
+CDLI Lexical 000030, ex. 43
+CDLI Lexical 000030, ex. 44
+CDLI Lexical 000030, ex. 45
+CDLI Lexical 000030, ex. 46
+CDLI Lexical 000030, ex. 47
+CDLI Lexical 000030, ex. 48
+CDLI Lexical 000030, ex. 49
+CDLI Lexical 000030, ex. 50
+CDLI Lexical 000030, ex. 51
+CDLI Lexical 000030, ex. 52
+CDLI Lexical 000030, ex. 53
+CDLI Lexical 000030, ex. 54
+CDLI Lexical 000030, ex. 55
+CDLI Lexical 000030, ex. 56
+CDLI Lexical 000030, ex. 57
+CDLI Lexical 000034 (Archaic Cities) composite
+CDLI Lexical 000034, ex. 01
+CDLI Lexical 000034, ex. 02
+CDLI Lexical 000034, ex. 03
+CDLI Lexical 000034, ex. 04
+CDLI Lexical 000034, ex. 05
+CDLI Lexical 000034, ex. 06
+CDLI Lexical 000034, ex. 07
+CDLI Lexical 000034, ex. 08
+CDLI Lexical 000034, ex. 09
+CDLI Lexical 000034, ex. 10
+CDLI Lexical 000034, ex. 11
+CDLI Lexical 000034, ex. 12
+CDLI Lexical 000034, ex. 13
+CDLI Lexical 000034, ex. 14
+CDLI Lexical 000034, ex. 15
+CDLI Lexical 000034, ex. 16
+CDLI Lexical 000034, ex. 17
+CDLI Lexical 0000archun36 (Archaic Unidentified 36) composite
+CDLI Lexical 0000archun36, ex. 01
+CDLI Lexical 0000archun36, ex. 02
+ATU 3, pl. 078, W 21208,50
+ATU 3, pl. 078, W 20266,68
+ATU 3, pl. 078, W 19948,24+
+ATU 3, pl. 079, W 20266,146
+ATU 3, pl. 079, W 20266,147
+ATU 3, pl. 079, W 20266,3
+ATU 3, pl. 078, W 21185
+ATU 3, pl. 079, W 20266,80
+ATU 3, pl. 078, W 20266,149
+ATU 3, pl. 078, W 20266,148
+MS 3173
+CDLI Lexical Archaic Unidentified, ex. 001
+CDLI Lexical Archaic Unidentified, ex. 002
+CDLI Lexical Archaic Unidentified, ex. 003
+CDLI Lexical Archaic Unidentified, ex. 004
+CDLI Lexical Archaic Unidentified, ex. 005
+CDLI Lexical Archaic Unidentified, ex. 006
+CDLI Lexical Archaic Unidentified, ex. 007
+CDLI Lexical Archaic Unidentified, ex. 008
+CDLI Lexical Archaic Unidentified, ex. 009
+CDLI Lexical Archaic Unidentified, ex. 010
+CDLI Lexical Archaic Unidentified, ex. 011
+CDLI Lexical Archaic Unidentified, ex. 012
+CDLI Lexical Archaic Unidentified, ex. 013
+CDLI Lexical Archaic Unidentified, ex. 014
+CDLI Lexical Archaic Unidentified, ex. 015
+CDLI Lexical Archaic Unidentified, ex. 016
+CDLI Lexical Archaic Unidentified, ex. 017
+CDLI Lexical Archaic Unidentified, ex. 018
+CDLI Lexical Archaic Unidentified, ex. 019
+CDLI Lexical Archaic Unidentified, ex. 020
+CDLI Lexical Archaic Unidentified, ex. 021
+CDLI Lexical Archaic Unidentified, ex. 022
+CDLI Lexical Archaic Unidentified, ex. 023
+CDLI Lexical Archaic Unidentified, ex. 025
+CDLI Lexical Archaic Unidentified, ex. 026
+CDLI Lexical Archaic Unidentified, ex. 027
+CDLI Lexical Archaic Unidentified, ex. 028
+CDLI Lexical Archaic Unidentified, ex. 029
+CDLI Lexical Archaic Unidentified, ex. 030
+CDLI Lexical Archaic Unidentified, ex. 031
+CDLI Lexical Archaic Unidentified, ex. 032
+CDLI Lexical Archaic Unidentified, ex. 033
+CDLI Lexical Archaic Unidentified, ex. 034
+CDLI Lexical Archaic Unidentified, ex. 035
+CDLI Lexical Archaic Unidentified, ex. 036
+CDLI Lexical Archaic Unidentified, ex. 037
+CDLI Lexical Archaic Unidentified, ex. 038
+CDLI Lexical Archaic Unidentified, ex. 039
+CDLI Lexical Archaic Unidentified, ex. 040
+CDLI Lexical Archaic Unidentified, ex. 041
+CDLI Lexical Archaic Unidentified, ex. 042
+CDLI Lexical Archaic Unidentified, ex. 043
+CDLI Lexical Archaic Unidentified, ex. 044
+CDLI Lexical Archaic Unidentified, ex. 045
+CDLI Lexical Archaic Unidentified, ex. 046
+CDLI Lexical Archaic Unidentified, ex. 047
+CDLI Lexical Archaic Unidentified, ex. 048
+CDLI Lexical Archaic Unidentified, ex. 049
+CDLI Lexical Archaic Unidentified, ex. 050
+CDLI Lexical Archaic Unidentified, ex. 051
+CDLI Lexical Archaic Unidentified, ex. 052
+CDLI Lexical Archaic Unidentified, ex. 053
+CDLI Lexical Archaic Unidentified, ex. 054
+CDLI Lexical Archaic Unidentified, ex. 055
+CDLI Lexical Archaic Unidentified, ex. 056
+CDLI Lexical Archaic Unidentified, ex. 057
+CDLI Lexical Archaic Unidentified, ex. 058
+CDLI Lexical Archaic Unidentified, ex. 059
+CDLI Lexical Archaic Unidentified, ex. 060
+CDLI Lexical Archaic Unidentified, ex. 061
+CDLI Lexical Archaic Unidentified, ex. 062
+CDLI Lexical Archaic Unidentified, ex. 063
+CDLI Lexical Archaic Unidentified, ex. 064
+CDLI Lexical Archaic Unidentified, ex. 065
+CDLI Lexical Archaic Unidentified, ex. 066
+CDLI Lexical Archaic Unidentified, ex. 067
+CDLI Lexical Archaic Unidentified, ex. 068
+CDLI Lexical Archaic Unidentified, ex. 069
+CDLI Lexical Archaic Unidentified, ex. 070
+CDLI Lexical Archaic Unidentified, ex. 071
+CDLI Lexical Archaic Unidentified, ex. 072
+CDLI Lexical Archaic Unidentified, ex. 073
+CDLI Lexical Archaic Unidentified, ex. 074
+CDLI Lexical Archaic Unidentified, ex. 075
+CDLI Lexical Archaic Unidentified, ex. 076
+CDLI Lexical Archaic Unidentified, ex. 077
+CDLI Lexical Archaic Unidentified, ex. 078
+CDLI Lexical Archaic Unidentified, ex. 079
+CDLI Lexical Archaic Unidentified, ex. 080
+CDLI Lexical Archaic Unidentified, ex. 081
+CDLI Lexical Archaic Unidentified, ex. 082
+CDLI Lexical Archaic Unidentified, ex. 083
+CDLI Lexical Archaic Unidentified, ex. 084
+CDLI Lexical Archaic Unidentified, ex. 085
+CDLI Lexical Archaic Unidentified, ex. 086
+CDLI Lexical Archaic Unidentified, ex. 087
+CDLI Lexical Archaic Unidentified, ex. 088
+CDLI Lexical Archaic Unidentified, ex. 089
+CDLI Lexical Archaic Unidentified, ex. 090
+CDLI Lexical Archaic Unidentified, ex. 091
+CDLI Lexical Archaic Unidentified, ex. 092
+CDLI Lexical Archaic Unidentified, ex. 093
+CDLI Lexical Archaic Unidentified, ex. 094
+CDLI Lexical Archaic Unidentified, ex. 095
+CDLI Lexical Archaic Unidentified, ex. 096
+CDLI Lexical Archaic Unidentified, ex. 097
+CDLI Lexical Archaic Unidentified, ex. 098
+CDLI Lexical Archaic Unidentified, ex. 099
+CDLI Lexical Archaic Unidentified, ex. 100
+CDLI Lexical Archaic Unidentified, ex. 101
+CDLI Lexical Archaic Unidentified, ex. 102
+CDLI Lexical Archaic Unidentified, ex. 103
+CDLI Lexical Archaic Unidentified, ex. 104
+CDLI Lexical Archaic Unidentified, ex. 105
+CDLI Lexical Archaic Unidentified, ex. 106
+CDLI Lexical Archaic Unidentified, ex. 107
+CDLI Lexical Archaic Unidentified, ex. 108
+CDLI Lexical Archaic Unidentified, ex. 109
+CDLI Lexical Archaic Unidentified, ex. 110
+CDLI Lexical Archaic Unidentified, ex. 111
+CDLI Lexical Archaic Unidentified, ex. 112
+CDLI Lexical Archaic Unidentified, ex. 113
+CDLI Lexical Archaic Unidentified, ex. 114
+CDLI Lexical Archaic Unidentified, ex. 115
+CDLI Lexical Archaic Unidentified, ex. 116
+CDLI Lexical Archaic Unidentified, ex. 117
+CDLI Lexical Archaic Unidentified, ex. 118
+CDLI Lexical Archaic Unidentified, ex. 119
+CDLI Lexical Archaic Unidentified, ex. 120
+CDLI Lexical Archaic Unidentified, ex. 121
+CDLI Lexical Archaic Unidentified, ex. 122
+CDLI Lexical Archaic Unidentified, ex. 123
+CDLI Lexical Archaic Unidentified, ex. 124
+CDLI Lexical Archaic Unidentified, ex. 125
+CDLI Lexical Archaic Unidentified, ex. 126
+CDLI Lexical Archaic Unidentified, ex. 127
+CDLI Lexical Archaic Unidentified, ex. 128
+CDLI Lexical needed (Archaic Geography) composite
+CDLI Lexical 0000nn (Archaic Pigs) composite
+CDLI Seals 001379 (physical)
+CDLI Seals 001388 (physical)
+CDLI Seals 001827 (physical)
+CDLI Seals 002857 (composite)
+CDLI Seals 003473 (composite) City Seal
+CDLI Seals 003832 (physical)
+CDLI Seals 006525 (physical)
+CDLI Seals 006526 (physical)
+CDLI Seals 006527 (physical)
+CDLI Seals 006528 (physical)
+CDLI Seals 006529 (physical)
+CDLI Seals 006530 (physical)
+CDLI Seals 006531 (physical)
+CDLI Seals 006532 (physical)
+CDLI Seals 006533 (physical)
+CDLI Seals 006534 (physical)
+CDLI Seals 006535 (physical)
+CDLI Seals 006536 (physical)
+CDLI Seals 006537 (physical)
+CDLI Seals 006538 (physical)
+CDLI Seals 006539 (physical)
+CDLI Seals 006540 (physical)
+CDLI Seals 006541 (physical)
+CDLI Seals 006542 (physical)
+CDLI Seals 006543 (physical)
+CDLI Seals 006544 (physical)
+CDLI Seals 006545 (physical)
+CDLI Seals 006546 (physical)
+CDLI Seals 006547 (physical)
+CDLI Seals 006548 (physical)
+CDLI Seals 006549 (physical)
+CDLI Seals 006550 (physical)
+CDLI Seals 006551 (physical)
+CDLI Seals 006552 (physical)
+CDLI Seals 006553 (physical)
+CDLI Seals 006554 (physical)
+CDLI Seals 006555 (physical)
+CDLI Seals 006556 (physical)
+CDLI Seals 006557 (physical)
+CDLI Seals 006558 (physical)
+CDLI Seals 006559 (physical)
+CDLI Seals 006560 (physical)
+CDLI Seals 006561 (physical)
+CDLI Seals 006562 (physical)
+CDLI Seals 006563 (physical)
+CDLI Seals 006564 (physical)
+CDLI Seals 006565 (physical)
+CDLI Seals 006566 (physical)
+CDLI Seals 006567 (physical)
+CDLI Seals 006568 (physical)
+CDLI Seals 006569 (physical)
+CDLI Seals 006570 (physical)
+CDLI Seals 006571 (physical)
+CDLI Seals 006572 (physical)
+CDLI Seals 006573 (physical)
+CDLI Seals 006574 (physical)
+CDLI Seals 006575 (physical)
+CDLI Seals 006576 (physical)
+CDLI Seals 006577 (physical)
+CDLI Seals 006578 (physical)
+CDLI Seals 006579 (physical)
+CDLI Seals 006580 (physical)
+CDLI Seals 006581 (physical)
+CDLI Seals 006582 (physical)
+CDLI Seals 006583 (physical)
+CDLI Seals 006584 (physical)
+CDLI Seals 006585 (physical)
+CDLI Seals 006586 (physical)
+CDLI Seals 006587 (physical)
+CDLI Seals 006588 (physical)
+CDLI Seals 006589 (physical)
+CDLI Seals 006590 (physical)
+CDLI Seals 006591 (physical)
+CDLI Seals 006592 (physical)
+CDLI Seals 006593 (physical)
+CDLI Seals 006594 (physical)
+CDLI Seals 006595 (physical)
+CDLI Seals 006596 (physical)
+CDLI Seals 006597 (physical)
+CDLI Seals 006598 (physical)
+CDLI Seals 006599 (physical)
+CDLI Seals 006600 (physical)
+CDLI Seals 006601 (physical)
+CDLI Seals 006602 (physical)
+CDLI Seals 006603 (physical)
+CDLI Seals 006604 (physical)
+CDLI Seals 006605 (physical)
+CDLI Seals 006606 (physical)
+CDLI Seals 007124 (physical)
+CDLI Seals 007125 (physical)
+CDLI Seals 007126 (physical)
+CDLI Seals 007127 (physical)
+CDLI Seals 007128 (physical)
+CDLI Seals 007129 (physical)
+CDLI Seals 007130 (physical)
+CDLI Seals 007131 (physical)
+CDLI Seals 007132 (physical)
+CDLI Seals 007133 (physical)
+CDLI Seals 007134 (physical)
+CDLI Seals 007135 (physical)
+CDLI Seals 007136 (physical)
+CDLI Seals 007137 (physical)
+CDLI Seals 007138 (physical)
+CDLI Seals 007139 (physical)
+CDLI Seals 007140 (physical)
+CDLI Seals 007141 (physical)
+CDLI Seals 007142 (physical)
+CDLI Seals 007143 (physical)
+CDLI Seals 007144 (physical)
+CDLI Seals 007145 (physical)
+CDLI Seals 007146 (physical)
+CDLI Seals 007147 (physical)
+CDLI Seals 007148 (physical)
+CDLI Seals 007149 (physical)
+CDLI Seals 007150 (physical)
+CDLI Seals 007151 (physical)
+CDLI Seals 007152 (physical)
+CDLI Seals 007153 (physical)
+CDLI Seals 003008 (composite)
+CDLI Seals 003016 (composite)
+CDLI Seals 008610 (physical)
+CDLI Seals 003385 (composite)
+CDLI Seals 008612 (physical)
+CDLI Seals 004070 (composite)
+CDLI Seals 004085 (composite)
+CDLI Seals 004107 (composite)
+CDLI Seals 008616 (physical)
+CDLI Seals 008617 (physical)
+CDLI Seals 008618 (physical)
+CDLI Seals 008619 (physical)
+CDLI Seals 005044 (composite)
+CDLI Seals 005045 (composite)
+CDLI Seals 008622 (physical)
+CDLI Seals 008623 (physical)
+CDLI Seals 008624 (physical)
+CDLI Seals 008625 (physical)
+CDLI Seals 008626 (physical)
+CDLI Seals 008627 (physical)
+CDLI Seals 005571 (composite)
+CDLI Seals 008629 (physical)
+CDLI Seals 005639 (composite)
+CDLI Seals 005684 (composite)
+CDLI Seals 005685 (composite)
+CDLI Seals 008633 (physical)
+CDLI Seals 005724 (composite)
+CDLI Seals 008635 (physical)
+CDLI Seals 008636 (physical)
+CDLI Seals 008637 (physical)
+CDLI Seals 008638 (physical)
+CDLI Seals 006007 (composite)
+CDLI Seals 006082 (composite)
+CDLI Seals 006159 (composite)
+CDLI Seals 008643 (physical)
+CDLI Seals 008644 (physical)
+CDLI Seals 008645 (physical)
+CDLI Seals 008646 (physical)
+CDLI Seals 008647 (physical)
+CDLI Seals 008648 (physical)
+CDLI Seals 008649 (physical)
+CDLI Seals 008650 (physical)
+CDLI Seals 008651 (physical)
+CDLI Seals 008652 (physical)
+CDLI Seals 008653 (physical)
+CDLI Seals 008654 (physical)
+CDLI Seals 008655 (physical)
+CDLI Seals 008656 (physical)
+CDLI Seals 008657 (physical)
+CDLI Seals 008658 (physical)
+CDLI Seals 008659 (physical)
+CDLI Seals 008660 (physical)
+CDLI Seals 008661 (physical)
+CDLI Seals 008662 (physical)
+CDLI Seals 008663 (physical)
+CDLI Seals 008664 (physical)
+CDLI Seals 008665 (physical)
+CDLI Seals 008666 (physical)
+CDLI Seals 008667 (physical)
+CDLI Seals 008668 (physical)
+CDLI Seals 008669 (physical)
+CDLI Seals 008670 (physical)
+CDLI Seals 008671 (physical)
+CDLI Seals 008672 (physical)
+CDLI Seals 008673 (physical)
+CDLI Seals 008674 (physical)
+CDLI Seals 008675 (physical)
+CDLI Seals 008676 (physical)
+CDLI Seals 008677 (physical)
+CDLI Seals 008678 (physical)
+CDLI Seals 008679 (physical)
+CDLI Seals 008680 (physical)
+CDLI Seals 008681 (physical)
+CDLI Seals 008682 (physical)
+CDLI Seals 008683 (physical)
+CDLI Seals 008684 (physical)
+CDLI Seals 008685 (physical)
+CDLI Seals 008686 (physical)
+CDLI Seals 008687 (physical)
+CDLI Seals 008688 (physical)
+CDLI Seals 008689 (physical)
+CDLI Seals 008690 (physical)
+CDLI Seals 008691 (physical)
+CDLI Seals 008692 (physical)
+CDLI Seals 008693 (physical)
+CDLI Seals 008694 (physical)
+CDLI Seals 008695 (physical)
+CDLI Seals 008696 (physical)
+CDLI Seals 008697 (physical)
+CDLI Seals 008698 (physical)
+CDLI Seals 008699 (physical)
+CDLI Seals 008700 (physical)
+CDLI Seals 008701 (physical)
+CDLI Seals 008702 (physical)
+CDLI Seals 008703 (physical)
+CDLI Seals 008704 (physical)
+CDLI Seals 008705 (physical)
+CDLI Seals 008706 (physical)
+CDLI Seals 008707 (physical)
+CDLI Seals 008708 (physical)
+CDLI Seals 009878 (physical)
+CDLI Seals 009879 (physical)
+CDLI Seals 009880 (physical)
+CDLI Seals 009881 (physical)
+CDLI Seals 009882 (physical)
+CDLI Seals 009883 (physical)
+CDLI Seals 009884 (physical)
+CDLI Seals 009885 (physical)
+CDLI Seals 009886 (physical)
+CDLI Seals 009887 (physical)
+CDLI Seals 009888 (physical)
+CDLI Seals 009889 (physical)
+CDLI Seals 009890 (physical)
+CDLI Seals 009891 (physical)
+CDLI Seals 009892 (physical)
+CDLI Seals 009893 (physical)
+CDLI Seals 009894 (physical)
+CDLI Seals 009895 (physical)
+CDLI Seals 009896 (physical)
+CDLI Seals 009897 (physical)
+CDLI Seals 009898 (physical)
+CDLI Seals 009899 (physical)
+CDLI Seals 009900 (physical)
+CDLI Seals 009901 (physical)
+CDLI Seals 009902 (physical)
+CDLI Seals 009903 (physical)
+CDLI Seals 009904 (physical)
+CDLI Seals 009905 (physical)
+CDLI Seals 009906 (physical)
+CDLI Seals 009907 (physical)
+CDLI Seals 009908 (physical)
+CDLI Seals 009909 (physical)
+CDLI Seals 009910 (physical)
+CDLI Seals 009911 (physical)
+CDLI Seals 009912 (physical)
+CDLI Seals 009913 (physical)
+CDLI Seals 009914 (physical)
+CDLI Seals 009915 (physical)
+CDLI Seals 009916 (physical)
+CDLI Seals 009917 (physical)
+CDLI Seals 009918 (physical)
+CDLI Seals 009919 (physical)
+CDLI Seals 009920 (physical)
+CDLI Seals 009921 (physical)
+CDLI Seals 009922 (physical)
+CDLI Seals 009923 (physical)
+CDLI Seals 009924 (physical)
+CDLI Seals 009925 (physical)
+CDLI Seals 009926 (physical)
+CDLI Seals 009927 (physical)
+CDLI Seals 009928 (physical)
+CDLI Seals 010175 (physical)
+CDLI Seals 010176 (physical)
+CDLI Seals 010177 (physical)
+CDLI Seals 010178 (physical)
+CDLI Seals 010179 (physical)
+CDLI Seals 010180 (physical)
+CDLI Seals 010181 (physical)
+CDLI Seals 010182 (physical)
+CDLI Seals 010183 (physical)
+CDLI Seals 010184 (physical)
+CDLI Seals 010185 (physical)
+CDLI Seals 010186 (physical)
+CDLI Seals 010187 (physical)
+CDLI Seals 010188 (physical)
+CDLI Seals 010189 (physical)
+CDLI Seals 010190 (physical)
+CDLI Seals 010191 (physical)
+CDLI Seals 010192 (physical)
+CDLI Seals 010598 (physical)
+CDLI Seals 010599 (physical)
+CDLI Seals 010600 (physical)
+CDLI Seals 010601 (physical)
+CDLI Seals 010602 (physical)
+CDLI Seals 010603 (physical)
+CDLI Seals 010604 (physical)
+CDLI Seals 010800 (physical)
+CDLI Seals 010801 (physical)
+CDLI Seals 010802 (physical)
+CDLI Seals 010803 (physical)
+CDLI Seals 010804 (physical)
+CDLI Seals 010805 (physical)
+CDLI Seals 010806 (physical)
+CDLI Seals 010807 (physical)
+CDLI Seals 010808 (physical)
+CDLI Seals 010809 (physical)
+CDLI Seals 010810 (physical)
+CDLI Seals 010811 (physical)
+CDLI Seals 010812 (physical)
+CDLI Seals 010813 (physical)
+CDLI Seals 010814 (physical)
+CDLI Seals 010815 (physical)
+CDLI Seals 010816 (physical)
+CDLI Seals 010817 (physical)
+CDLI Seals 010818 (physical)
+CDLI Seals 010819 (physical)
+CDLI Seals 010820 (physical)
+CDLI Seals 010821 (physical)
+CDLI Seals 010822 (physical)
+CDLI Seals 010823 (physical)
+CDLI Seals 010824 (physical)
+CDLI Seals 010825 (physical)
+CDLI Seals 010826 (physical)
+CDLI Seals 010827 (physical)
+CDLI Seals 010828 (physical)
+CDLI Seals 010829 (physical)
+CDLI Seals 010830 (physical)
+CDLI Seals 010831 (physical)
+CDLI Seals 010832 (physical)
+CDLI Seals 010833 (physical)
+CDLI Seals 010834 (physical)
+CDLI Seals 010835 (physical)
+CDLI Seals 010836 (physical)
+CDLI Seals 010837 (physical)
+CDLI Seals 010838 (physical)
+CDLI Seals 010839 (physical)
+CDLI Seals 010840 (physical)
+CDLI Seals 010841 (physical)
+CDLI Seals 010842 (physical)
+CDLI Seals 010843 (physical)
+CDLI Seals 010844 (physical)
+CDLI Seals 010845 (physical)
+CDLI Seals 010846 (physical)
+CDLI Seals 010847 (physical)
+CDLI Seals 010848 (physical)
+CDLI Seals 010849 (physical)
+CDLI Seals 010850 (physical)
+CDLI Seals 011241 (physical)
+CDLI Seals 011242 (physical)
+CDLI Seals 011243 (physical)
+CDLI Seals 011244 (physical)
+CDLI Seals 011245 (physical)
+CDLI Seals 011246 (physical)
+CDLI Seals 011247 (physical)
+CDLI Seals 011248 (physical)
+CDLI Seals 011249 (physical)
+CDLI Seals 011250 (physical)
+CDLI Seals 011251 (physical)
+CDLI Seals 011252 (physical)
+CDLI Seals 011253 (physical)
+CDLI Seals 011254 (physical)
+CDLI Seals 011255 (physical)
+CDLI Seals 011256 (physical)
+CDLI Seals 011257 (physical)
+CDLI Seals 011258 (physical)
+CDLI Seals 011259 (physical)
+CDLI Seals 011260 (physical)
+CDLI Seals 011261 (physical)
+CDLI Seals 011262 (physical)
+CDLI Seals 011263 (physical)
+CDLI Seals 011264 (physical)
+CDLI Seals 011265 (physical)
+CDLI Seals 011266 (physical)
+CDLI Seals 011267 (physical)
+CDLI Seals 011268 (physical)
+CDLI Seals 011269 (physical)
+CDLI Seals 011270 (physical)
+CDLI Seals 011271 (physical)
+CDLI Seals 011272 (physical)
+CDLI Seals 011273 (physical)
+CDLI Seals 011274 (physical)
+CDLI Seals 011275 (physical)
+CDLI Seals 011276 (physical)
+CDLI Seals 011277 (physical)
+CDLI Seals 011278 (physical)
+CDLI Seals 011279 (physical)
+CDLI Seals 011280 (physical)
+CDLI Seals 011281 (physical)
+CDLI Seals 011282 (physical)
+CDLI Seals 011283 (physical)
+CDLI Seals 011284 (physical)
+CDLI Seals 011285 (physical)
+CDLI Seals 011286 (physical)
+CDLI Seals 011287 (physical)
+CDLI Seals 011288 (physical)
+CDLI Seals 011289 (physical)
+CDLI Seals 011290 (physical)
+CDLI Seals 011291 (physical)
+CDLI Seals 011292 (physical)
+CDLI Seals 011293 (physical)
+CDLI Seals 011294 (physical)
+CDLI Seals 011295 (physical)
+CDLI Seals 011296 (physical)
+CDLI Seals 011297 (physical)
+CDLI Seals 011298 (physical)
+CDLI Seals 011299 (physical)
+CDLI Seals 011300 (physical)
+CDLI Seals 012668 (physical)
+IM nn
+PCTSC, MS 3035
+CDLN 2006/2, 1
+CDLN 2006/2, 2
+CDLN 2006/2, 3
+CDLN 2015/004
+CUSAS 1, 007
+CUSAS 1, 008
+CUSAS 1, 013
+CUSAS 1, 014
+CUSAS 1, 015
+CUSAS 1, 016
+CUSAS 1, 017
+CUSAS 1, 018
+CUSAS 1, 019
+CUSAS 1, 020
+CUSAS 1, 021
+CUSAS 1, 022
+CUSAS 1, 023
+CUSAS 1, 024
+CUSAS 1, 025
+CUSAS 1, 026
+CUSAS 1, 027
+CUSAS 1, 028
+CUSAS 1, 029
+CUSAS 1, 030
+CUSAS 1, 031
+CUSAS 1, 032
+CUSAS 1, 033
+CUSAS 1, 034
+CUSAS 1, 035
+CUSAS 1, 036
+CUSAS 1, 037
+CUSAS 1, 038
+CUSAS 1, 039
+CUSAS 1, 040
+CUSAS 1, 041
+CUSAS 1, 042
+CUSAS 1, 043
+CUSAS 1, 044
+CUSAS 1, 045
+CUSAS 1, 046
+CUSAS 1, 047
+CUSAS 1, 048
+CUSAS 1, 049
+CUSAS 1, 050
+CUSAS 1, 051
+CUSAS 1, 052
+CUSAS 1, 053
+CUSAS 1, 054
+CUSAS 1, 055
+CUSAS 1, 056
+CUSAS 1, 057
+CUSAS 1, 058
+CUSAS 1, 059
+CUSAS 1, 060
+CUSAS 1, 061
+CUSAS 1, 062
+CUSAS 1, 063
+CUSAS 1, 064
+CUSAS 1, 065
+CUSAS 1, 066
+CUSAS 1, 067
+CUSAS 1, 068
+CUSAS 1, 069
+CUSAS 1, 070
+CUSAS 1, 071
+CUSAS 1, 072
+CUSAS 1, 073
+CUSAS 1, 074
+CUSAS 1, 075
+CUSAS 1, 076
+CUSAS 1, 077
+CUSAS 1, 078
+CUSAS 1, 079
+CUSAS 1, 080
+CUSAS 1, 081
+CUSAS 1, 082
+CUSAS 1, 083
+CUSAS 1, 084
+CUSAS 1, 085
+CUSAS 1, 086
+CUSAS 1, 087
+CUSAS 1, 088
+CUSAS 1, 089
+CUSAS 1, 090
+CUSAS 1, 091
+CUSAS 1, 092
+CUSAS 1, 093
+CUSAS 1, 094
+CUSAS 1, 095
+CUSAS 1, 096
+CUSAS 1, 097
+CUSAS 1, 098
+CUSAS 1, 099
+CUSAS 1, 100
+CUSAS 1, 101
+CUSAS 1, 102
+CUSAS 1, 103
+CUSAS 1, 104
+CUSAS 1, 105
+CUSAS 1, 106
+CUSAS 1, 107
+CUSAS 1, 108
+CUSAS 1, 109
+CUSAS 1, 110
+CUSAS 1, 111
+CUSAS 1, 112
+CUSAS 1, 113
+CUSAS 1, 114
+CUSAS 1, 115
+CUSAS 1, 116
+CUSAS 1, 117
+CUSAS 1, 118
+CUSAS 1, 119
+CUSAS 1, 120
+CUSAS 1, 121
+CUSAS 1, 122
+CUSAS 1, 123
+CUSAS 1, 124
+CUSAS 1, 125
+CUSAS 1, 126
+CUSAS 1, 127
+CUSAS 1, 128
+CUSAS 1, 129
+CUSAS 1, 130
+CUSAS 1, 131
+CUSAS 1, 132
+CUSAS 1, 133
+CUSAS 1, 134
+CUSAS 1, 135
+CUSAS 1, 136
+CUSAS 1, 137
+CUSAS 1, 138
+CUSAS 1, 139
+CUSAS 1, 140
+CUSAS 1, 141
+CUSAS 1, 142
+CUSAS 1, 143
+CUSAS 1, 144
+CUSAS 1, 145
+CUSAS 1, 146
+CUSAS 1, 147
+CUSAS 1, 148
+CUSAS 1, 149
+CUSAS 1, 150
+CUSAS 1, 151
+CUSAS 1, 152
+CUSAS 1, 153
+CUSAS 1, 154
+CUSAS 1, 155
+CUSAS 1, 156
+CUSAS 1, 157
+CUSAS 1, 158
+CUSAS 1, 159
+CUSAS 1, 160
+CUSAS 1, 161
+CUSAS 1, 162
+CUSAS 1, 163
+CUSAS 1, 164
+CUSAS 1, 165
+CUSAS 1, 166
+CUSAS 1, 167
+CUSAS 1, 168
+CUSAS 1, 169
+CUSAS 1, 170
+CUSAS 1, 171
+CUSAS 1, 172
+CUSAS 1, 173
+CUSAS 1, 174
+CUSAS 1, 175
+CUSAS 1, 176
+CUSAS 1, 177
+CUSAS 1, 178
+CUSAS 1, 179
+CUSAS 1, 180
+CUSAS 1, 181
+CUSAS 1, 182
+CUSAS 1, 183
+CUSAS 1, 184
+CUSAS 1, 185
+CUSAS 1, 186
+CUSAS 1, 187
+CUSAS 1, 188
+CUSAS 1, 189
+CUSAS 1, 190
+CUSAS 1, 191
+CUSAS 1, 192
+CUSAS 1, 193
+CUSAS 1, 194
+CUSAS 1, 195
+CUSAS 1, 196
+CUSAS 1, 197
+CUSAS 1, 198
+CUSAS 1, 199
+CUSAS 1, 200
+CUSAS 1, 201
+CUSAS 1, 202
+CUSAS 1, 203
+CUSAS 1, 204
+CUSAS 1, 205
+CUSAS 1, 206
+CUSAS 1, 207
+CUSAS 1, 208
+CUSAS 1, 209
+CUSAS 1, 210
+CUSAS 1, 213
+CUSAS 1, 214
+CUSAS 1, 215
+CUSAS 1, 216
+CUSAS 1, 217
+CUSAS 1, 218
+CUSAS 1, 219
+CUSAS 1, 220
+CUSAS 21, 038
+CUSAS 21, 039
+CUSAS 21, 040
+CUSAS 21, 043
+CUSAS 21, 044
+CUSAS 21, 045
+CUSAS 21, 046
+CUSAS 21, 047
+CUSAS 21, 048
+CUSAS 21, 050
+CUSAS 21, 051
+CUSAS 21, 053
+CUSAS 21, 054
+CUSAS 21, 057
+CUSAS 21, 058
+CUSAS 21, 059
+CUSAS 21, 060
+CUSAS 21, 061
+CUSAS 21, 063
+CUSAS 21, 064
+CUSAS 21, 065
+CUSAS 21, 066
+CUSAS 21, 067
+CUSAS 21, 071
+CUSAS 21, 073
+CUSAS 21, 074
+CUSAS 21, 075
+CUSAS 21, 076
+CUSAS 21, 077
+CUSAS 21, 078
+CUSAS 21, 079
+CUSAS 21, 080
+CUSAS 21, 081
+CUSAS 21, 082
+CUSAS 21, 083
+CUSAS 21, 084
+CUSAS 21, 085
+CUSAS 21, 086
+CUSAS 21, 087
+CUSAS 21, 088
+CUSAS 21, 089
+CUSAS 21, 090
+CUSAS 21, 092
+CUSAS 21, 093
+CUSAS 21, 094
+CUSAS 21, 097
+CUSAS 21, 099
+CUSAS 21, 100
+CUSAS 21, 101
+CUSAS 21, 102
+CUSAS 21, 105
+CUSAS 21, 107
+CUSAS 21, 108
+CUSAS 21, 109
+CUSAS 21, 110
+CUSAS 21, 111
+CUSAS 21, 113
+CUSAS 21, 114
+CUSAS 21, 116
+CUSAS 21, 117
+CUSAS 21, 118
+CUSAS 21, 119
+CUSAS 21, 120
+CUSAS 21, 121
+CUSAS 21, 122
+CUSAS 21, 123
+CUSAS 21, 124
+CUSAS 21, 125
+CUSAS 21, 126
+CUSAS 21, 127
+CUSAS 21, 128
+CUSAS 21, 130
+CUSAS 21, 131
+CUSAS 21, 134
+CUSAS 21, 141
+CUSAS 21, 142
+CUSAS 21, 143
+CUSAS 21, 144
+CUSAS 21, 145
+CUSAS 21, 146
+CUSAS 21, 147
+CUSAS 21, 148
+CUSAS 21, 149
+CUSAS 21, 150
+CUSAS 21, 151
+CUSAS 21, 156
+CUSAS 21, 157
+CUSAS 21, 158
+CUSAS 21, 159
+CUSAS 21, 160
+CUSAS 21, 161
+CUSAS 21, 162
+CUSAS 21, 163
+CUSAS 21, 164
+CUSAS 21, 165
+CUSAS 21, 166
+CUSAS 21, 167
+CUSAS 21, 168
+CUSAS 21, 169
+CUSAS 21, 170
+CUSAS 21, 171
+CUSAS 21, 172
+CUSAS 21, 173
+CUSAS 21, 174
+CUSAS 21, 175
+CUSAS 21, 176
+CUSAS 21, 177
+CUSAS 21, 178
+CUSAS 21, 179
+CUSAS 21, 180
+CUSAS 21, 181
+CUSAS 21, 182
+CUSAS 21, 183
+CUSAS 21, 184
+CUSAS 21, 185
+CUSAS 21, 186
+CUSAS 21, 187
+CUSAS 21, 188
+CUSAS 21, 189
+CUSAS 21, 190
+CUSAS 21, 191
+CUSAS 21, 192
+CUSAS 21, 193
+CUSAS 21, 194
+CUSAS 21, 195
+CUSAS 21, 196
+CUSAS 21, 197
+CUSAS 21, 198
+CUSAS 21, 199
+CUSAS 21, 200
+CUSAS 21, 201
+CUSAS 21, 202
+CUSAS 21, 203
+CUSAS 21, 204
+CUSAS 21, 205
+CUSAS 21, 206
+CUSAS 21, 207
+CUSAS 21, 208
+CUSAS 21, 209
+CUSAS 21, 210
+CUSAS 21, 211
+CUSAS 21, 212
+CUSAS 21, 213
+CUSAS 21, 214
+CUSAS 21, 215
+CUSAS 21, 216
+CUSAS 21, 217
+CUSAS 21, 218
+CUSAS 21, 219
+CUSAS 21, 220
+CUSAS 21, 221
+CUSAS 21, 222
+CUSAS 21, 223
+CUSAS 21, 224
+CUSAS 21, 225
+CUSAS 21, 226
+CUSAS 21, 227
+CUSAS 21, 228
+CUSAS 21, 229
+CUSAS 21, 230
+CUSAS 21, 231
+CUSAS 21, 232
+CUSAS 21, 233
+CUSAS 21, 234
+CUSAS 21, 235
+CUSAS 21, 236
+CUSAS 21, 237
+CUSAS 21, 238
+CUSAS 21, 239
+CUSAS 21, 240
+CUSAS 21, 241
+CUSAS 21, 242
+CUSAS 21, 243
+CUSAS 21, 244
+CUSAS 21, 245
+CUSAS 21, 246
+CUSAS 21, 247
+CUSAS 21, 248
+CUSAS 21, 249
+CUSAS 21, 250
+CUSAS 21, 251
+CUSAS 21, 252
+CUSAS 21, 253
+CUSAS 21, 254
+CUSAS 21, 255
+CUSAS 21, 256
+CUSAS 21, 257
+CUSAS 21, 258
+CUSAS 21, 259
+CUSAS 21, 260
+CUSAS 21, 261
+CUSAS 21, 262
+CUSAS 21, 263
+CUSAS 21, 264
+CUSAS 21, 265
+CUSAS 21, 266
+CUSAS 21, 267
+CUSAS 21, 268
+CUSAS 21, 269
+CUSAS 21, 270
+CUSAS 21, 271
+CUSAS 21, 272
+CUSAS 21, 273
+CUSAS 21, 274
+CUSAS 21, 275
+CUSAS 21, 276
+CUSAS 21, 277
+CUSAS 21, 278
+CUSAS 21, 279
+CUSAS 21, 280
+CUSAS 21, 281
+CUSAS 21, 282
+CUSAS 21, 283
+CUSAS 21, 284
+CUSAS 21, 285
+CUSAS 21, 286
+CUSAS 21, 287
+CUSAS 21, 288
+CUSAS 21, 289
+CUSAS 21, 290
+CUSAS 21, 291
+CUSAS 21, 292
+CUSAS 21, 293
+CUSAS 21, 294
+CUSAS 21, 295
+CUSAS 21, 296
+CUSAS 21, 297
+CUSAS 21, 298
+CUSAS 21, 299
+CUSAS 21, 300
+CUSAS 21, 301
+CUSAS 21, 302
+CUSAS 21, 303
+CUSAS 21, 304
+RGK 20011204p
+CUSAS 31, 004
+CUSAS 31, 005
+CUSAS 31, 007
+CUSAS 31, 008
+CUSAS 31, 009
+CUSAS 31, 010
+CUSAS 31, 011
+CUSAS 31, 012
+CUSAS 31, 013
+CUSAS 31, 014
+CUSAS 31, 015
+CUSAS 31, 016
+CUSAS 31, 017
+CUSAS 31, 018
+CUSAS 31, 019
+CUSAS 31, 020
+CUSAS 31, 021
+CUSAS 31, 022
+CUSAS 31, 023
+CUSAS 31, 024
+CUSAS 31, 025
+CUSAS 31, 026
+CUSAS 31, 027
+CUSAS 31, 028
+CUSAS 31, 029
+CUSAS 31, 030
+CUSAS 31, 031
+CUSAS 31, 032
+CUSAS 31, 033
+CUSAS 31, 034
+CUSAS 31, 035
+CUSAS 31, 036
+CUSAS 31, 037
+CUSAS 31, 038
+CUSAS 31, 039
+CUSAS 31, 040
+CUSAS 31, 041
+CUSAS 31, 042
+CUSAS 31, 043
+CUSAS 31, 044
+CUSAS 31, 045
+CUSAS 31, 046
+CUSAS 31, 047
+CUSAS 31, 048
+CUSAS 31, 049
+CUSAS 31, 050
+CUSAS 31, 051
+CUSAS 31, 052
+CUSAS 31, 053
+CUSAS 31, 054
+CUSAS 31, 055
+CUSAS 31, 056
+CUSAS 31, 057
+CUSAS 31, 058
+CUSAS 31, 059
+CUSAS 31, 060
+CUSAS 31, 061
+CUSAS 31, 062
+CUSAS 31, 063
+CUSAS 31, 064
+CUSAS 31, 065
+CUSAS 31, 066
+CUSAS 31, 067
+CUSAS 31, 068
+CUSAS 31, 069
+CUSAS 31, 070
+CUSAS 31, 071
+CUSAS 31, 072
+CUSAS 31, 073
+CUSAS 31, 074
+CUSAS 31, 075
+CUSAS 31, 076
+CUSAS 31, 077
+CUSAS 31, 078
+CUSAS 31, 079
+CUSAS 31, 080
+CUSAS 31, 081
+CUSAS 31, 082
+CUSAS 31, 083
+CUSAS 31, 084
+CUSAS 31, 085
+CUSAS 31, 086
+CUSAS 31, 087
+CUSAS 31, 088
+CUSAS 31, 089
+CUSAS 31, 090
+CUSAS 31, 091
+CUSAS 31, 092
+CUSAS 31, 093
+CUSAS 31, 094
+CUSAS 31, 095
+CUSAS 31, 096
+CUSAS 31, 097
+CUSAS 31, 098
+CUSAS 31, 099
+CUSAS 31, 100
+CUSAS 31, 101
+CUSAS 31, 102
+CUSAS 31, 103
+CUSAS 31, 104
+CUSAS 31, 105
+CUSAS 31, 106
+CUSAS 31, 107
+CUSAS 31, 108
+CUSAS 31, 109
+CUSAS 31, 110
+CUSAS 31, 111
+CUSAS 31, 112
+CUSAS 31, 113
+CUSAS 31, 114
+CUSAS 31, 115
+CUSAS 31, 116
+CUSAS 31, 117
+CUSAS 31, 118
+CUSAS 31, 119
+CUSAS 31, 120
+CUSAS 31, 121
+CUSAS 31, 122
+CUSAS 31, 123
+CUSAS 31, 124
+CUSAS 31, 125
+CUSAS 31, 126
+CUSAS 31, 127
+CUSAS 31, 128
+CUSAS 31, 129
+CUSAS 31, 130
+CUSAS 31, 131
+CUSAS 31, 132
+CUSAS 31, 133
+CUSAS 31, 134
+CUSAS 31, 135
+CUSAS 31, 136
+CUSAS 31, 137
+CUSAS 31, 138
+CUSAS 31, 139
+CUSAS 31, 140
+CUSAS 31, 141
+CUSAS 31, 142
+CUSAS 31, 143
+CUSAS 31, 144
+CUSAS 31, 145
+CUSAS 31, 146
+CUSAS 31, 147
+CUSAS 31, 148
+CUSAS 31, 149
+CUSAS 31, 150
+CUSAS 31, 151
+CUSAS 31, 152
+CUSAS 31, 153
+CUSAS 31, 154
+CUSAS 31, 155
+CUSAS 31, 156
+CUSAS 31, 157
+CUSAS 31, 158
+CUSAS 31, 159
+CUSAS 31, 160
+CUSAS 31, 161
+CUSAS 31, 162
+CUSAS 31, 163
+CUSAS 31, 164
+CUSAS 31, 165
+CUSAS 31, 166
+CUSAS 31, 167
+CUSAS 31, 168
+CUSAS 31, 169
+CUSAS 31, 170
+CUSAS 31, 171
+CUSAS 31, 172
+CUSAS 31, 173
+CUSAS 31, 174
+CUSAS 31, 175
+CUSAS 31, 176
+CUSAS 31, 177
+CUSAS 31, 178
+CUSAS 31, 179
+CUSAS 31, 180
+CUSAS 31, 181
+CUSAS 31, 182
+CUSAS 31, 183
+CUSAS 31, 184
+CUSAS 31, 185
+CUSAS 31, 186
+CUSAS 31, 187
+CUSAS 31, 188
+CUSAS 31, 189
+CUSAS 31, 190
+CUSAS 31, 191
+CUSAS 31, 192
+CUSAS 31, 193
+CUSAS 31, 194
+CUSAS 31, 195
+CUSAS 31, 196
+CUSAS 31, 197
+CUSAS 31, add198
+CUSAS 31, add199
+CDLN 2006/3
+Fünf Jahrtausende Mesopotamien fig. 19 (Uruk Vase)
+HD: W 22102,9a
+HD: W 22102,9d
+HD: W 22102,9h
+HD: W 22102,9j
+IM 023432,2
+IM 023434,a
+IM 023434,b
+IM 023434,c
+IM 023434,d
+IM 023434,e
+IM 023434,f
+IM 023434,g
+IM 023434,h
+IM 023434,j
+IM 023434,k
+IM 023434,m
+IM 023434,n
+IM 023434,o
+IM 023434,q
+IM 023434,r
+IM 023434,s
+IM 023434,t
+IM 023434,u
+IM 023434,v1
+IM 023434,v2
+IM 023434,w
+IM 023434,x
+IM 023434,z ?
+IM 023435,01
+IM 023435,02
+IM 023435,04
+IM 023435,06
+IM 023435,07
+IM 023435,09
+IM 023435,10
+IM 023435,11
+IM 023435,12
+IM 023435,13
+IM 023435,14
+IM 023435,15
+IM 023435,19
+IM 023435,20
+IM 023435,21
+IM 023435,22
+IM 023436,01
+IM 023436,02
+IM 023436,03
+IM 023436,08
+IM 023436,09
+IM 023436,10
+IM 023436,11
+IM 023436,12
+IM 023436,13
+IM 023436,16
+IM 023436,17
+IM 023436,18
+IM 023436,19
+IM 023436,20
+IM 023436,? + IM 023437,8
+IM 023437,01
+IM 023437,02
+IM 023437,03
+IM 023437,04
+IM 023437,05
+IM 023438,1
+IM 023438,2
+IM 023438,4
+IM 023438,7
+IM 023439,01
+IM 023439,02
+IM 023439,04
+IM 023439,05
+IM 023439,06
+IM 023439,09
+IM 023439,10
+IM 023440,01a ?
+IM 023440,02
+IM 023440,03
+IM 023440,04
+IM 023440,05
+IM 023440,08
+IM 023441,3
+IM 023441,4
+IM 023442
+IM 023443,3
+IM 023443,4
+IM 023444,1
+IM 023445,01a ?
+IM 023445,01b ?
+IM 023445,02
+IM 023445,02
+IM 023445,03
+IM 023445,04
+IM 023445,05+
+IM 023445,06
+IM 023445,08
+IM 023445,09
+IM 023445,10
+IM 023446,03
+IM 023446,04
+IM 023446,05
+IM 023446,06a ?
+IM 023446,07
+IM 023446,08
+IM 023446,09
+IM 023446,10
+IM 023446,11
+IM 023446,12
+IM 023446,13
+IM 023447,06
+IM 023447,07
+IM 023447,11
+IM 023447,26
+IM 023447,?1
+IM 023447,?2
+IM 023448,1
+IM 023449,1
+IM 023449,3
+IM 023450
+IM 023451,1
+IM 023451,2
+IM 023452,2
+IM 023452,5
+IM 023454,1
+IM 023454,2
+IM 023454,3
+IM 023455,2
+IM 023455,5
+IM 023458,1
+IM 0234XX,1
+IM 0234XX,3
+IM 0234XX,4
+IM 045910
+IM 045912
+IM 045940
+IM 045941
+IM 045944
+IM 045945
+IM 045974
+IM 045975
+IM 045976
+IM 045977
+IM 045978
+IM 045979
+IM 045980
+IM 045981,1 ?
+IM 045983
+IM 045984
+IM 045985
+IM 045986
+IM 045987
+IM 045988
+IM 045989
+IM 045990
+IM 045991
+IM 045992
+IM 045993
+IM 045994
+IM 045995
+IM 045996
+IM 045997
+IM 045998
+IM 045999
+IM 046000
+IM 046002
+IM 046003
+IM 046004
+IM 046005
+IM 046006
+IM 046007
+IM 046009
+IM 046010,1
+IM 046010,2
+IM 046011 + IM 046061
+IM 046012
+IM 046013
+IM 046014
+IM 046016
+IM 046017
+IM 046019
+IM 046020
+IM 046021
+IM 046022
+IM 046023
+IM 046024
+IM 046025
+IM 046026
+IM 046027
+IM 046028
+IM 046029
+IM 046030
+IM 046031
+IM 046033
+IM 046034
+IM 046035
+IM 046036
+IM 046038
+IM 046039
+IM 046040
+IM 046041
+IM 046042
+IM 046043
+IM 046044
+IM 046045
+IM 046046
+IM 046047
+IM 046048
+IM 046049
+IM 046050
+IM 046051
+IM 046052
+IM 046053
+IM 046054
+IM 046055
+IM 046056
+IM 046057
+IM 046058
+IM 046059
+IM 046060
+IM 046068
+IM 046091
+IM 046094
+IM 046095
+IM 046096
+IM 046097
+IM 046098
+IM 046099
+IM 046100
+IM 046101
+IM 046102
+IM 046103
+IM 046104
+IM 046105
+IM 046106
+IM 046107
+IM 046108
+IM 046109
+IM 046146
+IM 046147
+IM 046154
+IM 046155
+IM 046159,2
+IM 064811
+IM 064843
+IM 064890
+IM 064920
+IM 064921
+IM 064922
+IM 064923
+IM 064927
+IM 064928
+IM 064930
+IM 064931
+IM 064932
+IM 065106
+IM 067376
+IM 067381
+IM 067407
+IM 067521
+IM —
+IM 073407
+IM 073409,2
+IM 073410
+IM 073466
+IM 073467
+IM 073470
+IM 073477,2
+IM 073480
+IM 073497
+IM 074208
+IM 074216
+IM 074217
+IM 074276,1
+IM 074276,3
+IM 074281
+IM 074295
+IM 074296
+IM 074297
+IM 074298
+IM 074299
+IM 074311
+IM 074312
+IM 074319
+IM 074328
+IM 074329
+IM 074333
+IM 074345
+IM 081454
+IM 133374
+IM 133376
+IM 133377
+IM 133378
+IM 133514
+IM 133569
+IM 133598
+IM 133604
+IM 133623
+IM 133627,01
+IM 133627,02
+IM 133627,03
+IM 133627,04
+IM 133627,05
+IM 133627,06
+IM 133627,07
+IM 133627,08
+IM 133627,09
+IM 133627,10
+IM 133627,11
+IM 133627,12
+IM 133627,13
+IM 133627,14
+IM 133627,15
+IM 133627,16
+IM 133627,17
+IM 133627,18
+IM 133627,19
+IM 133627,20
+IM 133627,21
+IM 133627,22
+IM 133627,23
+IM 133627,24
+IM 133627,25
+IM 133627,26
+IM 133627,27
+IM 133627,28
+IM 133627,29
+IM 133633
+IM 133651
+IM 133659
+IM 133660
+IM 133661
+IM 133662
+IM 133663
+IM 133665
+IM 133672
+IM 133673
+IM 133677
+IM 133679
+IM 133681
+IM 133682
+IM 133683
+IM 133684
+IM 133685
+IM 133687
+IM 133688
+IM 133689
+IM 133690
+IM 133691,1
+IM 133692
+IM 133693
+IM 133694
+IM 133696
+IM 133697
+IM 133700
+IM 133702
+IM 133706
+IM 133708
+IM 133709
+IM 133710
+IM 133712
+IM 133714
+IM 133717
+IM 133719
+IM 133720
+IM 133731
+IM 133738
+IM 133740
+IM 133742
+IM 133743
+IM 133744
+IM 133839
+IM 133840
+IM 133953
+IM 134035
+IM 134070
+IM 134078
+IM 134079
+IM 134083
+IM 134084
+IM 134257
+IM 134258
+IM 134259
+IM 134281
+IM 134282
+IM 134283
+IM 134284
+IM 134285
+IM 134286
+IM 134287
+IM 134288
+IM 134289
+IM 134290
+IM 134291
+IM 134292
+IM 134293
+IM 134294
+IM 134295
+IM 134296
+IM 134297
+IM 134298
+IM 134299
+IM 134300
+IM 134301
+IM 134302
+IM 134303
+IM 134304
+IM 134305
+IM 134307
+IM 134308
+IM 134309
+IM 134310
+IM 134311
+IM 134312
+IM 134313
+IM 134314
+IM 134315
+IM 134316
+IM 134317
+IM 134318
+IM 134319
+IM 134320
+IM 134322
+IM 134325
+IM 134326
+IM 134327
+IM 134328
+IM 134329
+IM 134330
+IM 134338
+IM 134339
+IM 134340
+IM 134341
+IM 134342
+IM 134343
+IM 134344
+IM 134345
+IM 134346,1
+IM 134346,2
+IM 134346,3
+IM 134346,4
+IM 134346,5
+IM 134346,6
+IM 134347
+IM 134348
+IM 134349
+IM 134387
+IM 134388
+IM 134389
+IM 134390
+IM 134391
+IM 134392
+IM 134393
+IM 134395
+IM 134396
+IM 134397
+IM 134398
+IM 134399
+IM 134400
+IM 134401
+IM 134402
+IM 134403
+IM 134404
+IM 134405
+IM 134406
+IM 134407
+IM 134408
+IM 134409
+IM 134410
+IM 134411
+IM 134412
+IM 134413
+IM 134414
+IM 134415
+IM 134416
+IM 134417
+IM 134418
+IM 134421
+IM 134423
+IM 134424
+IM 134434
+IM 134438
+IM 134439
+IM 134440
+IM 134442
+IM 134443
+IM 134444
+IM 134448
+IM 134449
+IM 134450
+IM 134452
+IM 134453
+IM 134457
+IM 134458
+IM 134459
+IM 134460
+IM 134463
+IM 134464
+IM 134465
+IM 134466
+IM 134469
+IM 134470
+IM 134471
+IM 134475
+IM 134476
+IM 134477
+IM 134478
+IM 134479
+IM 134480
+IM 134481
+IM 134482,01
+IM 134484
+IM 134485
+IM 134488
+IM 134490
+IM 134493
+IM 134494
+IM 134496
+IM 134499
+IM 134500
+IM 134501
+IM 134512
+IM 134514
+IM 134519,1
+IM 134519,2
+IM 134521
+IM 134531
+IM 134532
+IM 134533,1
+IM 134542
+IM 134543
+IM 134546
+IM 134547
+IM 134548,1
+IM 134549
+IM 134550
+IM 134551
+IM 134552
+IM 134553
+IM 134554
+IM 134555
+IM 134556
+IM 134557
+IM 134558
+IM 134559
+IM 134560
+IM 134561
+IM 134562
+IM 134563
+IM 134564
+IM 134566
+IM 134575
+IM 134578
+IM 134579
+IM 134581
+IM 134582
+IM 134583
+IM 134584
+IM 134586
+IM 134589
+IM 134596,2
+IM 134601,1
+IM 134601,2
+IM 134603
+IM 134604
+IM 134606
+IM 134607
+IM 134613
+IM 134614
+IM 134617
+IM 134632
+IM 134669
+IM 134712
+IM 134717
+IM 134718
+IM 134721,2
+IM 134727
+IM 134730
+IM 134731
+IM 134732
+IM 134733
+IM 134734
+IM 134736
+IM 134737
+IM 134738
+IM 134742
+IM 134746
+IM 134747
+IM 134748
+IM 134749
+IM 134750
+IM 134757
+IM 134759
+IM 134760
+IM 134762
+IM 134763
+IM 134764
+IM 134765
+IM 134766
+IM 134767
+IM 134769
+IM 134770
+IM 134773
+IM 134776
+IM 134778
+IM 134779
+IM 134781
+IM 134782
+IM 134785
+IM 134842
+IM 134843
+IM 134844
+IM 134845
+IM 134846
+IM 134848
+IM 134849
+IM 134852
+IM 134853
+IM 134854
+IM 134855
+IM 134856
+IM 134857
+IM 134858
+IM 134860
+IM 134861
+IM 134862
+IM 134863
+IM 134865
+IM 134866
+IM 134867
+IM 134873
+IM 134878
+IM 134886
+IM 134887
+IM 134889
+IM 134890
+IM 134891
+IM 134892,2
+IM 134895
+IM 134899
+IM 134900
+IM 134901
+IM 134911
+IM 134912
+IM 134920
+IM 134921
+IM 134923
+IM 134925
+IM 134926
+IM 134927
+IM 134928
+IM 134929
+IM 134930
+IM 134932
+IM 134933
+IM 134935
+IM 134936
+IM 134938
+IM 134942
+IM 134943
+IM 134948
+IM 134949
+IM 134953
+IM 134954
+IM 134955
+IM 134957
+IM 134963
+IM 134964
+IM 134966
+IM 134968
+IM 134969
+IM 134971
+IM 134972
+IM 134973
+IM 134974
+IM 134975
+IM 134976
+IM 134978
+IM 134979
+IM 134980
+IM 134982
+IM 134983,2
+IM 134983,3
+IM 134983,4
+IM 134983,5
+IM 134983,6
+IM 134985
+IM 134986
+IM 134987
+IM 134988
+IM 134989
+IM 134990
+IM 134991
+IM 134992
+IM 134993
+IM 134995
+IM 134998
+IM 134999
+IM 135000
+IM 135001
+IM 135002
+IM 135003
+IM 135006
+IM 135007
+IM 135008
+IM 135009
+IM 135010
+IM 135011
+IM 135012
+IM 135013
+IM 135014
+IM 135015
+IM 135016
+IM 135017
+IM 135018
+IM 135019
+IM 135020
+IM 135021
+IM 135022
+IM 135023
+IM 135024
+IM 135025
+IM 135026
+IM 135027
+IM 135028
+IM 135029
+IM 135030
+IM 135031
+IM 135032
+IM 135033
+IM 135034
+IM 135039
+IM 135195,1
+IM 135450
+IM 135482
+IM 135483
+IM 135488
+IM 135489
+IM 135490
+IM 135497
+IM 135504
+IM 135508
+IM 135559
+IM 135560
+IM 135561
+IM 135562
+IM 135563
+IM 135595
+IM 135596
+IM 135597
+IM 135598
+IM 135599
+IM 135607
+IM 135609
+IM 135621
+IM 135624
+IM 135645
+IM 135700
+IM 135701
+IM 135709
+IM 135737
+IM nn1
+IM nn2
+IM nn3
+Talon 1
+PCTSC, MS 2350
+PCTSC, MS 2355
+PCTSC, MS 2356
+PCTSC, MS 2357
+PCTSC, MS 2358
+PCTSC, MS 2359
+PCTSC, MS 2360
+PCTSC, MS 2387
+PCTSC, MS 2388
+PCTSC, MS 2389
+PCTSC, MS 2390
+PCTSC, MS 2391
+PCTSC, MS 2392
+PCTSC, MS 2393
+PCTSC, MS 2395
+PCTSC, MS 2396
+PCTSC, MS 2397
+PCTSC, MS 2398
+PCTSC, MS 2427
+PCTSC, MS 2428
+PCTSC, MS 2430
+PCTSC, MS 2431
+PCTSC, MS 2432
+PCTSC, MS 2433
+PCTSC, MS 2434
+PCTSC, MS 2435
+PCTSC, MS 2436
+PCTSC, MS 2437
+PCTSC, MS 2438
+PCTSC, MS 2439
+PCTSC, MS 2440
+PCTSC, MS 2441
+PCTSC, MS 2442
+PCTSC, MS 2443
+PCTSC, MS 2444
+PCTSC, MS 2445
+PCTSC, MS 2446
+PCTSC, MS 2497
+PCTSC, MS 2498
+PCTSC, MS 2499
+PCTSC, MS 2500
+PCTSC, MS 2501
+PCTSC, MS 2502
+PCTSC, MS 2504
+PCTSC, MS 2505
+PCTSC, MS 2506
+PCTSC, MS 2507
+PCTSC, MS 2508
+PCTSC, MS 2509
+PCTSC, MS 2510
+PCTSC, MS 2511/1
+MS 2511/2
+PCTSC, MS 2512
+PCTSC, MS 2513
+PCTSC, MS 2514
+PCTSC, MS 2515
+PCTSC, MS 2516
+PCTSC, MS 2517
+PCTSC, MS 2518
+PCTSC, MS 2519
+PCTSC, MS 2520
+PCTSC, MS 2521
+PCTSC, MS 2671
+PCTSC, MS 2672
+PCTSC, MS 2673
+PCTSC, MS 2675
+PCTSC, MS 2676
+PCTSC, MS 2677
+PCTSC, MS 2678
+PCTSC, MS 2679
+PCTSC, MS 2680
+PCTSC, MS 2681
+PCTSC, MS 2682
+PCTSC, MS 2683
+PCTSC, MS 2684
+PCTSC, MS 2685
+PCTSC, MS 2686
+PCTSC, MS 2687
+PCTSC, MS 2688
+PCTSC, MS 2689
+PCTSC, MS 2690
+PCTSC, MS 2691
+PCTSC, MS 2692
+PCTSC, MS 2693
+PCTSC, MS 2694
+PCTSC, MS 2695
+PCTSC, MS 2696
+PCTSC, MS 2697
+PCTSC, MS 2726
+PCTSC, MS 2727
+PCTSC, MS 2782/01
+PCTSC, MS 2782/02
+PCTSC, MS 2782/03
+PCTSC, MS 2782/04
+PCTSC, MS 2782/05
+PCTSC, MS 2782/06
+PCTSC, MS 2782/07
+PCTSC, MS 2782/08
+PCTSC, MS 2782/09
+PCTSC, MS 2782/10
+PCTSC, MS 2782/11
+PCTSC, MS 2782/12
+PCTSC, MS 2782/13
+PCTSC, MS 2782/14
+PCTSC, MS 2782/15
+PCTSC, MS 2782/16
+PCTSC, MS 2782/17
+PCTSC, MS 2783
+PCTSC, MS 2839
+PCTSC, MS 2840
+PCTSC, MS 2841
+PCTSC, MS 2842
+PCTSC, MS 2843
+PCTSC, MS 2862/01
+PCTSC, MS 2862/02
+PCTSC, MS 2862/03
+PCTSC, MS 2862/05
+PCTSC, MS 2862/06
+PCTSC, MS 2862/07
+PCTSC, MS 2862/08
+PCTSC, MS 2862/09
+PCTSC, MS 2862/10
+PCTSC, MS 2862/11
+PCTSC, MS 2862/12
+PCTSC, MS 2862/13
+PCTSC, MS 2862/14
+PCTSC, MS 2862/16
+PCTSC, MS 2862/17
+PCTSC, MS 2862/18
+PCTSC, MS 2862/19
+PCTSC, MS 2862/un1
+PCTSC, MS 2862/un2
+PCTSC, MS 2862/un3
+PCTSC, MS 2862/un4
+PCTSC, MS 2862/un5
+PCTSC, MS 2862/un6
+PCTSC, MS 2862/un7
+PCTSC, MS 2863/01
+PCTSC, MS 2863/02
+PCTSC, MS 2863/03
+PCTSC, MS 2863/04
+PCTSC, MS 2863/05
+PCTSC, MS 2863/07
+PCTSC, MS 2863/08
+PCTSC, MS 2863/09
+PCTSC, MS 2863/10
+PCTSC, MS 2863/11
+PCTSC, MS 2863/12
+PCTSC, MS 2863/13
+PCTSC, MS 2863/14
+PCTSC, MS 2863/16
+PCTSC, MS 2863/17
+PCTSC, MS 2863/18
+PCTSC, MS 2863/19
+PCTSC, MS 2863/20
+PCTSC, MS 2863/21
+PCTSC, MS 2863/23
+PCTSC, MS 2863/24
+PCTSC, MS 2863/25
+PCTSC, MS 2863/26
+PCTSC, MS 2863/27
+PCTSC, MS 2863/28
+PCTSC, MS 2863/29
+PCTSC, MS 2863/30
+PCTSC, MS 2863/31
+PCTSC, MS 2868
+PCTSC, MS 2869/01
+PCTSC, MS 2869/03
+PCTSC, MS 2869/04
+PCTSC, MS 2869/05
+PCTSC, MS 2869/06
+PCTSC, MS 2869/07
+PCTSC, MS 2869/08
+PCTSC, MS 2869/09
+PCTSC, MS 2869/un1
+PCTSC, MS 2869/un2
+PCTSC, MS 2869/un3
+PCTSC, MS 2900/04
+PCTSC, MS 2900/07
+PCTSC, MS 2900/08
+PCTSC, MS 2900/10
+PCTSC, MS 2900/11
+PCTSC, MS 2900/12
+PCTSC, MS 2900/13
+PCTSC, MS 2900/14
+PCTSC, MS 2900/15
+PCTSC, MS 2900/16
+PCTSC, MS 2900/17
+PCTSC, MS 2900/18
+PCTSC, MS 2900/19
+PCTSC, MS 2900/21
+PCTSC, MS 2900/22
+PCTSC, MS 2900/23
+PCTSC, MS 2900/25
+PCTSC, MS 2900/26
+PCTSC, MS 2900/27
+PCTSC, MS 2900/28
+PCTSC, MS 2900/29
+PCTSC, MS 2900/30
+PCTSC, MS 2900/31
+PCTSC, MS 2900/32
+PCTSC, MS 2900/33
+PCTSC, MS 2900/34
+PCTSC, MS 2900/35
+PCTSC, MS 2900/36
+PCTSC, MS 2900/37
+PCTSC, MS 2900/38
+PCTSC, MS 2900/39
+PCTSC, MS 2900/40
+PCTSC, MS 2900/un1
+PCTSC, MS 2900/un2
+PCTSC, MS 2900/un3
+PCTSC, MS 2900/un4
+PCTSC, MS 2963
+PCTSC, MS 2964
+PCTSC, MS 2965
+PCTSC, MS 2966
+PCTSC, MS 2967
+PCTSC, MS 2997
+PCTSC, MS 2998
+PCTSC, MS 3002
+PCTSC, MS 3003
+PCTSC, MS 3004
+PCTSC, MS 3005
+PCTSC, MS 3006
+MS 3149
+MS 3150
+PCTSC, MS 3151
+MS 3152
+MS 3153
+MS 3154
+MS 3155
+MS 3156
+MS 3157
+MS 3158
+MS 3159
+MS 3164
+MS 3168
+MS 3169
+MS 3170
+MS 3172
+MS 3197a
+MS 3197b
+PCTSC, MS 3879
+PCTSC, MS 3880
+PCTSC, MS 3881
+PCTSC, MS 3882
+PCTSC, MS 3884
+PCTSC, MS 3885
+PCTSC, MS 3886
+PCTSC, MS 3887
+PCTSC, MS 3878
+PCTSC, MS 4459
+PCTSC, MS 4460
+PCTSC, MS 4461
+PCTSC, MS 4462
+PCTSC, MS 4463
+PCTSC, MS 4482
+PCTSC, MS 4483
+PCTSC, MS 4486
+PCTSC, MS 4487
+PCTSC, MS 4488
+PCTSC, MS 4489
+PCTSC, MS 4490
+PCTSC, MS 4491
+PCTSC, MS 4492
+PCTSC, MS 4493
+PCTSC, MS 4494
+PCTSC, MS 4495
+PCTSC, MS 4496
+PCTSC, MS 4497
+PCTSC, MS 4498
+PCTSC, MS 4499
+PCTSC, MS 4500
+PCTSC, MS 4501
+PCTSC, MS 4502
+PCTSC, MS 4503
+PCTSC, MS 4504
+PCTSC, MS 4505
+PCTSC, MS 4510
+MS 4511
+PCTSC, MS 4512
+PCTSC, MS 4513
+PCTSC, MS 4514
+PCTSC, MS 4537
+PCTSC, MS 4538
+PCTSC, MS 4539
+PCTSC, MS 4540
+PCTSC, MS 4541
+PCTSC, MS 4542
+PCTSC, MS 4543
+PCTSC, MS 4551
+PCTSC, MS 4557
+PCTSC, MS 4558
+PCTSC, MS 4559
+PCTSC, MS 4561
+PCTSC, MS 4562
+PCTSC, MS 4563
+PCTSC, MS 4564
+PCTSC, MS 4565
+PCTSC, MS 4566
+PCTSC, MS 4567
+PCTSC, MS 4568
+PCTSC, MS 4569
+PCTSC, MS 4570
+PCTSC, MS 4571
+PCTSC, MS 4572
+PCTSC, MS 4587
+MS 4588/1
+MS 4588/2
+MS 4588/3
+MS 4588/4
+MS 4588/5
+PCTSC, MS 4589
+PCTSC, MS 4590/1
+MS 4590/2
+MS 4930a
+MS 4930b
+PCTSC, MS 5053
+PCTSC, MS unnumbered 1
+PCTSC, MS unnumbered 2
+PCTSC, MS unnumbered 3
+MSVO 1, 001
+MSVO 1, 002
+MSVO 1, 003
+MSVO 1, 004
+MSVO 1, 005 + 006
+MSVO 1, 007
+MSVO 1, 008
+MSVO 1, 009
+MSVO 1, 010
+MSVO 1, 011
+MSVO 1, 012
+MSVO 1, 013
+MSVO 1, 014
+MSVO 1, 015
+MSVO 1, 016
+MSVO 1, 017
+MSVO 1, 018
+MSVO 1, 019
+MSVO 1, 020
+MSVO 1, 021
+MSVO 1, 022
+MSVO 1, 023
+MSVO 1, 024
+MSVO 1, 025
+MSVO 1, 026
+MSVO 1, 027
+MSVO 1, 028
+MSVO 1, 029
+MSVO 1, 030
+MSVO 1, 031
+MSVO 1, 032
+MSVO 1, 033
+MSVO 1, 034
+MSVO 1, 035
+MSVO 1, 036
+MSVO 1, 037
+MSVO 1, 038
+MSVO 1, 039
+MSVO 1, 040
+MSVO 1, 041
+MSVO 1, 042
+MSVO 1, 043
+MSVO 1, 044
+MSVO 1, 045
+MSVO 1, 046
+MSVO 1, 047
+MSVO 1, 048
+MSVO 1, 049
+MSVO 1, 050
+MSVO 1, 051
+MSVO 1, 052
+MSVO 1, 053
+MSVO 1, 054
+MSVO 1, 055
+MSVO 1, 056
+MSVO 1, 057
+MSVO 1, 058
+MSVO 1, 059
+MSVO 1, 060
+MSVO 1, 061
+MSVO 1, 062
+MSVO 1, 063
+MSVO 1, 064
+MSVO 1, 065
+MSVO 1, 066
+MSVO 1, 067
+MSVO 1, 068
+MSVO 1, 069
+MSVO 1, 070
+MSVO 1, 071
+MSVO 1, 072
+MSVO 1, 073
+MSVO 1, 074
+MSVO 1, 075
+MSVO 1, 076
+MSVO 1, 077
+MSVO 1, 078
+MSVO 1, 079
+MSVO 1, 080
+MSVO 1, 081
+MSVO 1, 082
+MSVO 1, 083
+MSVO 1, 084
+MSVO 1, 085
+MSVO 1, 086
+MSVO 1, 087
+MSVO 1, 088
+MSVO 1, 089
+MSVO 1, 090
+MSVO 1, 091
+MSVO 1, 092
+MSVO 1, 093
+MSVO 1, 094
+MSVO 1, 095
+MSVO 1, 096
+MSVO 1, 097
+MSVO 1, 098
+MSVO 1, 099
+MSVO 1, 100
+MSVO 1, 101
+MSVO 1, 102
+MSVO 1, 103
+MSVO 1, 104
+MSVO 1, 105
+MSVO 1, 106
+MSVO 1, 107
+MSVO 1, 108
+MSVO 1, 109
+MSVO 1, 110
+MSVO 1, 111
+MSVO 1, 112
+MSVO 1, 113
+MSVO 1, 114
+MSVO 1, 115
+MSVO 1, 116
+MSVO 1, 117
+MSVO 1, 118
+MSVO 1, 119
+MSVO 1, 120
+MSVO 1, 121
+MSVO 1, 122
+MSVO 1, 123
+MSVO 1, 125
+MSVO 1, 126
+MSVO 1, 127
+MSVO 1, 128
+MSVO 1, 129
+MSVO 1, 130
+MSVO 1, 131
+MSVO 1, 132
+MSVO 1, 133
+MSVO 1, 134
+MSVO 1, 135
+MSVO 1, 136
+MSVO 1, 137
+MSVO 1, 138
+MSVO 1, 139
+MSVO 1, 140
+MSVO 1, 141
+MSVO 1, 142
+MSVO 1, 143
+MSVO 1, 144
+MSVO 1, 145
+MSVO 1, 146
+MSVO 1, 147
+MSVO 1, 148
+MSVO 1, 149
+MSVO 1, 150
+MSVO 1, 151
+MSVO 1, 152
+MSVO 1, 153
+MSVO 1, 154
+MSVO 1, 155
+MSVO 1, 156
+MSVO 1, 157
+MSVO 1, 158
+MSVO 1, 159
+MSVO 1, 160
+MSVO 1, 161
+MSVO 1, 162
+MSVO 1, 163
+MSVO 1, 164
+MSVO 1, 165
+MSVO 1, 166
+MSVO 1, 167
+MSVO 1, 168
+MSVO 1, 169
+MSVO 1, 170
+MSVO 1, 171
+MSVO 1, 172
+MSVO 1, 173
+MSVO 1, 174
+MSVO 1, 175
+MSVO 1, 176
+MSVO 1, 177
+MSVO 1, 178
+MSVO 1, 179
+MSVO 1, 180
+MSVO 1, 181
+MSVO 1, 182
+MSVO 1, 183
+MSVO 1, 184
+MSVO 1, 185
+MSVO 1, 186
+MSVO 1, 187
+MSVO 1, 188
+MSVO 1, 189
+MSVO 1, 190
+MSVO 1, 191
+MSVO 1, 192
+MSVO 1, 193
+MSVO 1, 194
+MSVO 1, 195
+MSVO 1, 196
+MSVO 1, 197
+MSVO 1, 198
+MSVO 1, 199
+MSVO 1, 200
+MSVO 1, 201
+MSVO 1, 202
+MSVO 1, 203
+MSVO 1, 204
+MSVO 1, 205
+MSVO 1, 206
+MSVO 1, 207
+MSVO 1, 208
+MSVO 1, 209
+MSVO 1, 210
+MSVO 1, 211
+MSVO 1, 212
+MSVO 1, 213
+MSVO 1, 214
+MSVO 1, 215
+MSVO 1, 216
+MSVO 1, 217
+MSVO 1, 218
+MSVO 1, 219
+MSVO 1, 220
+MSVO 1, 221
+MSVO 1, 222
+MSVO 1, 223
+MSVO 1, 224
+MSVO 1, 225
+MSVO 1, 226
+MSVO 1, 227
+MSVO 1, 228
+MSVO 1, 229
+MSVO 1, 230
+MSVO 1, 231
+MSVO 1, 232
+MSVO 1, 233
+MSVO 1, 234
+MSVO 1, 235
+MSVO 1, 238
+MSVO 1, 239
+MSVO 1, 240
+MSVO 1, 241
+MSVO 1, 243
+MSVO 1, 244
+MSVO 3, 01
+MSVO 3, 02
+MSVO 3, 03
+MSVO 3, 04
+MSVO 3, 05
+MSVO 3, 06
+MSVO 3, 07
+MSVO 3, 08
+MSVO 3, 09
+MSVO 3, 10
+MSVO 3, 11
+MSVO 3, 12
+MSVO 3, 13
+MSVO 3, 14
+MSVO 3, 15
+MSVO 3, 16
+MSVO 3, 17
+MSVO 3, 18
+MSVO 3, 19
+MSVO 3, 20
+MSVO 3, 21
+MSVO 3, 22
+MSVO 3, 23
+MSVO 3, 24
+MSVO 3, 25
+MSVO 3, 26
+MSVO 3, 27
+MSVO 3, 28
+MSVO 3, 29
+MSVO 3, 30
+MSVO 3, 31
+MSVO 3, 32
+MSVO 3, 33
+MSVO 3, 34
+MSVO 3, 35
+MSVO 3, 36
+MSVO 3, 37
+MSVO 3, 38
+MSVO 3, 39
+MSVO 3, 40
+MSVO 3, 41
+MSVO 3, 42
+MSVO 3, 43
+MSVO 3, 44
+MSVO 3, 45
+MSVO 3, 46
+MSVO 3, 47
+MSVO 3, 48
+MSVO 3, 49
+MSVO 3, 50
+MSVO 3, 51
+MSVO 3, 52
+MSVO 3, 53
+MSVO 3, 54
+MSVO 3, 55
+MSVO 3, 56
+MSVO 3, 57
+MSVO 3, 58
+MSVO 3, 59
+MSVO 3, 60
+MSVO 3, 61
+MSVO 3, 62
+MSVO 3, 63
+MSVO 3, 64
+MSVO 3, 65
+MSVO 3, 66
+MSVO 3, 67
+MSVO 3, 68
+MSVO 3, 69
+MSVO 3, 70
+MSVO 3, 71
+MSVO 3, 72
+MSVO 3, 73
+MSVO 3, 74
+MSVO 3, 75
+MSVO 3, 76
+MSVO 3, 77
+MSVO 3, 78
+MSVO 3, 79
+MSVO 3, 80
+MSVO 3, 81
+MSVO 3, 82
+MSVO 3, 83
+MSVO 3, 84
+MSVO 3, 85
+MSVO 3, 86
+MSVO 4, 01
+MSVO 4, 02
+MSVO 4, 03
+MSVO 4, 04
+MSVO 4, 05
+MSVO 4, 06
+MSVO 4, 07
+MSVO 4, 08
+MSVO 4, 09
+MSVO 4, 10
+MSVO 4, 11
+MSVO 4, 12
+MSVO 4, 13
+MSVO 4, 14
+MSVO 4, 15
+MSVO 4, 16
+MSVO 4, 17
+MSVO 4, 18
+MSVO 4, 19
+MSVO 4, 20
+MSVO 4, 21
+MSVO 4, 22
+MSVO 4, 23
+MSVO 4, 24
+MSVO 4, 25
+MSVO 4, 26
+MSVO 4, 27
+MSVO 4, 28
+MSVO 4, 29
+MSVO 4, 30
+MSVO 4, 31
+MSVO 4, 32
+MSVO 4, 33
+MSVO 4, 34
+MSVO 4, 35
+MSVO 4, 36
+MSVO 4, 37
+MSVO 4, 38
+MSVO 4, 39
+MSVO 4, 40
+MSVO 4, 41
+MSVO 4, 42
+MSVO 4, 43
+MSVO 4, 44
+MSVO 4, 45
+MSVO 4, 46
+MSVO 4, 47
+MSVO 4, 48
+MSVO 4, 49
+MSVO 4, 50
+MSVO 4, 51
+MSVO 4, 52
+MSVO 4, 53
+MSVO 4, 54
+MSVO 4, 55
+MSVO 4, 56
+MSVO 4, 57
+MSVO 4, 58
+MSVO 4, 59
+MSVO 4, 60
+MSVO 4, 61
+MSVO 4, 62
+MSVO 4, 63
+MSVO 4, 64
+MSVO 4, 65
+MSVO 4, 66
+MSVO 4, 67
+MSVO 4, 68
+MSVO 4, 69
+MSVO 4, 70
+MSVO 4, 71
+MSVO 4, 72
+MSVO 4, 73
+MSVO 4, 74
+MSVO 4, 76
+MSVO 4, 77
+MSVO 4, 78
+MSVO 4, 79
+MSVO 4, 80
+OECT 07, 097a
+Trudy Otdela Vostoka 3 p. 27ff.:2
+IM —
+VA ?
+VA ?
+VA ?
+VA ?
+VA ?
+VA ?
+VA ?
+VA ?
+VA ?
+VA ?
+VA ?
+VA ?
+VA ?
+VA ?
+VA ?
+VA ?
+VA ?
+VA ?
+VA ?
+VA ?
+VA ?
+VAT 17671
+IM —
+IM
+IM —
+IM —
+IM —
+IM —
+IM —
+IM —
+IM —
+IM —
+IM —
+IM —
+IM —
+IM —
+IM —
+IM —
+IM —
+IM —
+IM —
+IM —
+IM —
+IM —
+IM —
+IM —
+IM —
+IM —
+IM —
+IM —
+IM —
+IM —
+IM —
+IM —
+IM —
+IM —
+IM —
+IM —
+IM —
+IM —
+IM —
+IM —
+IM —
+IM —
+IM —
+IM —
+IM —
+IM —
+IM —
+IM —
+IM —
+IM —
+IM —
+IM —
+IM —
+IM —
+IM —
+IM —
+IM —
+IM —
+IM —
+IM —
+IM —
+IM —
+IM —
+IM —
+IM —
+IM —
+IM —
+IM —
+IM —
+IM —
+IM —
+IM —
+IM —
+IM —
+IM —
+IM —
+IM —
+IM —
+IM —
+IM —
+IM —
+IM —
+IM —
+IM —
+IM —
+IM —
+IM —
+IM —
+IM —
+IM —
+IM —
+IM —
+IM —
+IM —
+IM —
+IM —
+IM —
+IM —
+IM —
+IM —
+IM —
+IM —
+IM —
+IM nn
+IM —
+IM —
+IM —
+IM —
+IM —
+IM —
+IM —
+IM —
+IM —
+IM —
+IM —
+IM —
+IM —
+IM —
+IM —
+IM —
+IM —
+IM —
+IM —
+IM —
+IM —
+IM —
+IM —
+IM —
+IM —
+IM —
+IM —
+IM —
+IM —
+IM —
+IM —
+IM —
+IM —
+IM —
+IM —
+IM —
+IM —
+IM —
+IM —
+IM —
+IM —
+IM —
+IM —
+IM —
+IM —
+IM —
+IM —
+AoF 30, 238 1
+ATU 3, pl. 081, W 9123,d
+ATU 3, pl. 082, W 10824
+ATU 3, pl. 082, W 14820
+ATU 3, pl. 082, W 17950,h
+ATU 3, pl. 082, W 19413,6
+ATU 3, pl. 083, W 20242
+ATU 3, pl. 084, W 21019,7
+ATU 5, pl. 001, W 1872,1
+ATU 5, pl. 001, W 1872,2
+ATU 5, pl. 001, W 2134
+ATU 5, pl. 002, W 5233,f
+ATU 5, pl. 002, W 5233,g
+ATU 5, pl. 002, W 5353
+ATU 5, pl. 003, W 6066,a
+ATU 5, pl. 003, W 6108
+ATU 5, pl. 003, W 6110
+ATU 5, pl. 003, W 6115
+ATU 5, pl. 003, W 6150
+ATU 5, pl. 003, W 6216,a
+ATU 5, pl. 003, W 6216,b
+ATU 5, pl. 004, W 6245,a
+ATU 5, pl. 004, W 6245,b
+ATU 5, pl. 005, W 6245,e
+ATU 5, pl. 005, W 6252
+ATU 5, pl. 005, W 6284
+ATU 5, pl. 005, W 6375,a
+ATU 5, pl. 006, W 6375,b
+ATU 5, pl. 006, W 6375,c
+ATU 5, pl. 006, W 6375,d
+ATU 5, pl. 007, W 6375,e
+ATU 5, pl. 007, W 6375,f+
+ATU 5, pl. 007, W 6375,g
+ATU 5, pl. 007, W 6426,a
+ATU 5, pl. 008, W 6502,a
+ATU 5, pl. 008, W 6502,b
+ATU 5, pl. 008, W 6502,c
+ATU 5, pl. 008, W 6502,d
+ATU 5, pl. 008, W 6502,f
+ATU 5, pl. 009, W 6502,g
+ATU 5, pl. 009, W 6572,c
+ATU 5, pl. 009, W 6572,d
+ATU 5, pl. 009, W 6572,e
+ATU 5, pl. 009, W 6572,f
+ATU 5, pl. 010, W 6573,c
+ATU 5, pl. 010, W 6584
+ATU 5, pl. 010, W 6601
+ATU 5, pl. 010, W 6611
+ATU 5, pl. 010, W 6612,a
+ATU 5, pl. 011, W 6612,b
+ATU 5, pl. 011, W 6612,c
+ATU 5, pl. 012, W 6616
+ATU 5, pl. 012, W 6705,a
+ATU 5, pl. 012, W 6705,b
+ATU 5, pl. 012, W 6705,c
+ATU 5, pl. 012, W 6705,d
+ATU 5, pl. 012, W 6705,e
+ATU 5, pl. 013, W 6705,f
+ATU 5, pl. 013, W 6705,g
+ATU 5, pl. 013, W 6705,h
+ATU 5, pl. 013, W 6708
+ATU 5, pl. 013, W 6710,a
+ATU 5, pl. 013, W 6710,b
+ATU 5, pl. 013, W 6710,c
+ATU 5, pl. 013, W 6710,d
+ATU 5, pl. 013, W 6710,e
+ATU 5, pl. 014, W 6711
+ATU 5, pl. 014, W 6737
+ATU 5, pl. 014, W 6738,a
+ATU 5, pl. 014, W 6738,b
+ATU 5, pl. 014, W 6738,c
+ATU 5, pl. 014, W 6738,d
+ATU 5, pl. 014, W 6738,e
+ATU 5, pl. 014, W 6738,f
+ATU 5, pl. 014, W 6738,g
+ATU 5, pl. 014, W 6738,h
+ATU 5, pl. 014, W 6741
+ATU 5, pl. 015, W 6746
+ATU 5, pl. 015, W 6748,a
+ATU 5, pl. 015, W 6748,b
+ATU 5, pl. 015, W 6756,c
+ATU 5, pl. 015, W 6759
+ATU 5, pl. 015, W 6760,a
+ATU 5, pl. 015, W 6760,b
+ATU 5, pl. 015, W 6760,c
+ATU 5, pl. 015, W 6760,d
+ATU 5, pl. 016, W 6760,e
+ATU 5, pl. 016, W 6760,f
+ATU 5, pl. 016, W 6786,d
+ATU 5, pl. 016, W 6820
+ATU 5, pl. 017, W 6855
+ATU 5, pl. 017, W 6860
+ATU 5, pl. 017, W 6881,c+
+ATU 5, pl. 017, W 6881,d
+ATU 5, pl. 017, W 6881,e
+ATU 5, pl. 018, W 6881,g
+ATU 5, pl. 018, W 6881,h1
+ATU 5, pl. 018, W 6881,h2
+ATU 5, pl. 018, W 6881,i
+ATU 5, pl. 018, W 6881,j
+ATU 5, pl. 018, W 6881,k
+ATU 5, pl. 018, W 6881,l
+ATU 5, pl. 018, W 6881,m
+ATU 5, pl. 018, W 6881,n
+ATU 5, pl. 018, W 6881,o1
+ATU 5, pl. 018, W 6881,o2+
+ATU 5, pl. 019, W 6882,a
+ATU 5, pl. 019, W 6882,b1
+ATU 5, pl. 019, W 6882,b2
+ATU 5, pl. 019, W 6882,c
+ATU 5, pl. 019, W 6882,d
+ATU 5, pl. 019, W 6882,e+
+ATU 5, pl. 020, W 6882,f
+ATU 5, pl. 020, W 6882,g
+ATU 5, pl. 020, W 6882,i
+ATU 5, pl. 020, W 6882,l
+ATU 5, pl. 020, W 6882,x1
+ATU 5, pl. 020, W 6882,x2
+ATU 5, pl. 020, W 6882,x3
+ATU 5, pl. 020, W 6882,x4
+ATU 5, pl. 020, W 6882,x5
+ATU 5, pl. 020, W 6882,x6
+ATU 5, pl. 020, W 6883,b
+ATU 5, pl. 021, W 6883,h
+ATU 5, pl. 021, W 6883,n
+ATU 5, pl. 021, W 6883,o1
+ATU 5, pl. 021, W 6883,o2
+ATU 5, pl. 021, W 6883,r
+ATU 5, pl. 022, W 6883,aa
+ATU 5, pl. 022, W 6883,ab
+ATU 5, pl. 022, W 6883,s
+ATU 5, pl. 022, W 6883,t1
+ATU 5, pl. 022, W 6883,v
+ATU 5, pl. 022, W 6883,y
+ATU 5, pl. 022, W 6884
+ATU 5, pl. 022, W 6940,a
+ATU 5, pl. 022, W 6940,b
+ATU 5, pl. 023, W 6940,c
+ATU 5, pl. 023, W 6966,b
+ATU 5, pl. 023, W 6984,a
+ATU 5, pl. 023, W 6984,b
+ATU 5, pl. 023, W 7000
+ATU 5, pl. 023, W 7024
+ATU 5, pl. 024, W 7067,b
+ATU 5, pl. 024, W 7067,d
+ATU 5, pl. 024, W 7067,e
+ATU 5, pl. 024, W 7067,h
+ATU 5, pl. 024, W 7067,i
+ATU 5, pl. 024, W 7068,a
+ATU 5, pl. 024, W 7068,b
+ATU 5, pl. 025, W 7092,e
+ATU 5, pl. 025, W 7092,g
+ATU 5, pl. 025, W 7092,i
+ATU 5, pl. 026, W 7092,l2
+ATU 5, pl. 026, W 7092,p
+ATU 5, pl. 026, W 7227,a
+ATU 5, pl. 026, W 7227,b
+ATU 5, pl. 027, W 7227,c
+ATU 5, pl. 027, W 7227,d
+ATU 5, pl. 027, W 7227,e
+ATU 5, pl. 027, W 7227,f
+ATU 5, pl. 028, W 7227,g
+ATU 5, pl. 028, W 7227,h
+ATU 5, pl. 028, W 7227,i
+ATU 5, pl. 028, W 7227,k
+ATU 5, pl. 028, W 7227,l
+ATU 5, pl. 028, W 7227,m
+ATU 5, pl. 029, W 7272,h
+ATU 5, pl. 030, W 7272,i
+ATU 5, pl. 030, W 7298
+ATU 5, pl. 030, W 7329,a
+ATU 5, pl. 030, W 7329,b+
+ATU 5, pl. 031, W 7406
+ATU 5, pl. 031, W 7880
+ATU 5, pl. 031, W 7883
+ATU 5, pl. 032, W 8063
+ATU 5, pl. 032, W 8273
+ATU 5, pl. 032, W 8405
+ATU 5, pl. 033, W 8406
+ATU 5, pl. 033, W 8618
+ATU 5, pl. 033, W 9070
+ATU 5, pl. 033, W 9071,a
+ATU 5, pl. 033, W 9071,b
+ATU 5, pl. 034, W 9071,c
+ATU 5, pl. 034, W 9071,d1
+ATU 5, pl. 034, W 9071,d2
+ATU 5, pl. 034, W 9071,e
+ATU 5, pl. 034, W 9071,f
+ATU 5, pl. 034, W 9071,g
+ATU 5, pl. 034, W 9071,h
+ATU 5, pl. 035, W 9123,a1
+ATU 5, pl. 035, W 9123,a2
+ATU 5, pl. 035, W 9123,b
+ATU 5, pl. 035, W 9123,c
+ATU 5, pl. 035, W 9123,e
+ATU 5, pl. 035, W 9123,f+
+ATU 5, pl. 036, W 9123,h
+ATU 5, pl. 036, W 9123,i
+ATU 5, pl. 036, W 9123,k
+ATU 5, pl. 036, W 9123,l
+ATU 5, pl. 036, W 9123,m
+ATU 5, pl. 036, W 9123,n+
+ATU 5, pl. 036, W 9123,o1
+ATU 5, pl. 036, W 9123,o2
+ATU 5, pl. 036, W 9123,p
+ATU 5, pl. 037, W 9123,q
+ATU 5, pl. 037, W 9123,t
+ATU 5, pl. 037, W 9123,u1
+ATU 5, pl. 037, W 9123,u2
+ATU 5, pl. 037, W 9123,v
+ATU 5, pl. 037, W 9123,w
+ATU 5, pl. 037, W 9123,x
+ATU 5, pl. 037, W 9123,y
+ATU 5, pl. 038, W 9123,?
+ATU 5, pl. 038, W 9123,ac
+ATU 5, pl. 038, W 9123,ad
+ATU 5, pl. 038, W 9123,ae
+ATU 5, pl. 038, W 9123,af
+ATU 5, pl. 038, W 9123,ag
+ATU 5, pl. 038, W 9123,z
+ATU 5, pl. 039, W 9168,f
+ATU 5, pl. 039, W 9168,p
+ATU 5, pl. 041, W 9168,r
+ATU 5, pl. 041, W 9168,t
+ATU 5, pl. 042, W 9169,a
+ATU 5, pl. 042, W 9169,b
+ATU 5, pl. 042, W 9169,c
+ATU 5, pl. 042, W 9169,e
+ATU 5, pl. 042, W 9169,f
+ATU 5, pl. 043, W 9169,g
+ATU 5, pl. 043, W 9169,h
+ATU 5, pl. 043, W 9169,i
+ATU 5, pl. 043, W 9169,l
+ATU 5, pl. 043, W 9169,m+
+ATU 5, pl. 043, W 9169,n
+ATU 5, pl. 043, W 9169,o
+ATU 5, pl. 044, W 9169,aa
+ATU 5, pl. 044, W 9169,ab
+ATU 5, pl. 044, W 9169,p+
+ATU 5, pl. 044, W 9169,q
+ATU 5, pl. 044, W 9169,r
+ATU 5, pl. 044, W 9169,t
+ATU 5, pl. 044, W 9169,u
+ATU 5, pl. 044, W 9169,v
+ATU 5, pl. 044, W 9169,w
+ATU 5, pl. 045, W 9169,?1
+ATU 5, pl. 045, W 9169,ac1
+ATU 5, pl. 045, W 9169,ad
+ATU 5, pl. 045, W 9169,ae
+ATU 5, pl. 045, W 9169,ak
+ATU 5, pl. 045, W 9169,al
+ATU 5, pl. 045, W 9169,au
+ATU 5, pl. 045, W 9169,av
+ATU 5, pl. 045, W 9169,ax
+ATU 5, pl. 046, W 9206,a1
+ATU 5, pl. 046, W 9206,a2
+ATU 5, pl. 046, W 9206,b
+ATU 5, pl. 046, W 9206,c
+ATU 5, pl. 046, W 9206,d
+ATU 5, pl. 046, W 9206,e
+ATU 5, pl. 046, W 9206,f
+ATU 5, pl. 046, W 9206,g
+ATU 5, pl. 046, W 9206,h
+ATU 5, pl. 047, W 9206,?2
+ATU 5, pl. 047, W 9206,l
+ATU 5, pl. 047, W 9206,p
+ATU 5, pl. 047, W 9206,r
+ATU 5, pl. 047, W 9206,s
+ATU 5, pl. 047, W 9206,t
+ATU 5, pl. 048, W 9311,a
+ATU 5, pl. 048, W 9311,b
+ATU 5, pl. 048, W 9311,c
+ATU 5, pl. 048, W 9311,d
+ATU 5, pl. 049, W 9311,e
+ATU 5, pl. 049, W 9311,f+
+ATU 5, pl. 049, W 9311,h
+ATU 5, pl. 049, W 9311,i
+ATU 5, pl. 049, W 9311,k
+ATU 5, pl. 049, W 9311,l
+ATU 5, pl. 049, W 9311,m
+ATU 5, pl. 049, W 9311,n
+ATU 5, pl. 049, W 9311,o
+ATU 5, pl. 050, W 9311,p
+ATU 5, pl. 050, W 9311,q
+ATU 5, pl. 050, W 9311,r
+ATU 5, pl. 050, W 9311,t
+ATU 5, pl. 050, W 9311,w
+ATU 5, pl. 050, W 9311,x
+ATU 5, pl. 050, W 9312,a
+ATU 5, pl. 050, W 9312,b
+ATU 5, pl. 050, W 9312,c
+ATU 5, pl. 051, W 9312,d
+ATU 5, pl. 051, W 9312,e
+ATU 5, pl. 051, W 9312,f
+ATU 5, pl. 051, W 9312,g
+ATU 5, pl. 051, W 9312,h
+ATU 5, pl. 051, W 9312,i
+ATU 5, pl. 052, W 9312,k
+ATU 5, pl. 052, W 9312,l
+ATU 5, pl. 052, W 9312,n1
+ATU 5, pl. 052, W 9312,n2+
+ATU 5, pl. 052, W 9312,o
+ATU 5, pl. 052, W 9312,t
+ATU 5, pl. 052, W 9312,x
+ATU 5, pl. 052, W 9312,z
+ATU 5, pl. 053, W 9312,aa
+ATU 5, pl. 053, W 9335,a
+ATU 5, pl. 053, W 9335,b
+ATU 5, pl. 053, W 9335,c
+ATU 5, pl. 053, W 9335,d
+ATU 5, pl. 053, W 9335,e
+ATU 5, pl. 053, W 9335,f
+ATU 5, pl. 053, W 9335,g
+ATU 5, pl. 054, W 9335,h1
+ATU 5, pl. 054, W 9335,h2
+ATU 5, pl. 054, W 9335,i
+ATU 5, pl. 054, W 9335,l
+ATU 5, pl. 054, W 9335,m
+ATU 5, pl. 054, W 9335,o
+ATU 5, pl. 054, W 9335,p
+ATU 5, pl. 054, W 9335,q
+ATU 5, pl. 055, W 9335,r
+ATU 5, pl. 055, W 9335,s
+ATU 5, pl. 055, W 9335,t
+ATU 5, pl. 055, W 9335,u
+ATU 5, pl. 055, W 9335,v
+ATU 5, pl. 056, W 9393,a
+ATU 5, pl. 056, W 9393,b
+ATU 5, pl. 056, W 9393,c
+ATU 5, pl. 057, W 9393,d
+ATU 5, pl. 057, W 9393,e
+ATU 5, pl. 057, W 9393,f
+ATU 5, pl. 058, W 9492
+ATU 5, pl. 058, W 9578,a
+ATU 5, pl. 058, W 9578,b
+ATU 5, pl. 058, W 9578,c
+ATU 5, pl. 058, W 9578,d
+ATU 5, pl. 058, W 9578,e
+ATU 5, pl. 059, W 9578,f
+ATU 5, pl. 059, W 9578,g
+ATU 5, pl. 059, W 9578,h
+ATU 5, pl. 059, W 9578,i
+ATU 5, pl. 059, W 9578,k
+ATU 5, pl. 060, W 9578,l
+ATU 5, pl. 060, W 9578,m
+ATU 5, pl. 060, W 9578,n
+ATU 5, pl. 061, W 9578,o
+ATU 5, pl. 061, W 9578,p
+ATU 5, pl. 061, W 9578,q
+ATU 5, pl. 061, W 9579,a
+ATU 5, pl. 061, W 9579,b
+ATU 5, pl. 061, W 9579,c
+ATU 5, pl. 062, W 9579,d
+ATU 5, pl. 062, W 9579,e
+ATU 5, pl. 062, W 9579,f
+ATU 5, pl. 062, W 9579,g
+ATU 5, pl. 062, W 9579,h
+ATU 5, pl. 062, W 9579,i
+ATU 5, pl. 062, W 9579,k
+ATU 5, pl. 062, W 9579,l
+ATU 5, pl. 063, W 9579,m
+ATU 5, pl. 063, W 9579,n
+ATU 5, pl. 063, W 9579,o
+ATU 5, pl. 063, W 9579,p
+ATU 5, pl. 063, W 9579,q
+ATU 5, pl. 063, W 9579,r
+ATU 5, pl. 063, W 9579,s
+ATU 5, pl. 064, W 9579,t
+ATU 5, pl. 064, W 9579,u
+ATU 5, pl. 064, W 9579,v
+ATU 5, pl. 065, W 9579,aa
+ATU 5, pl. 065, W 9579,ab
+ATU 5, pl. 065, W 9579,w
+ATU 5, pl. 065, W 9579,x
+ATU 5, pl. 065, W 9579,y
+ATU 5, pl. 065, W 9579,z
+ATU 5, pl. 066, W 9579,ac
+ATU 5, pl. 066, W 9579,ad
+ATU 5, pl. 066, W 9579,ae
+ATU 5, pl. 066, W 9579,af
+ATU 5, pl. 066, W 9579,ag
+ATU 5, pl. 066, W 9579,ah
+ATU 5, pl. 066, W 9579,ai
+ATU 5, pl. 066, W 9579,ak
+ATU 5, pl. 066, W 9579,al
+ATU 5, pl. 066, W 9579,am
+ATU 5, pl. 067, W 9579,an
+ATU 5, pl. 067, W 9579,ao
+ATU 5, pl. 067, W 9579,ap
+ATU 5, pl. 067, W 9579,aq
+ATU 5, pl. 067, W 9579,ar
+ATU 5, pl. 067, W 9579,as
+ATU 5, pl. 067, W 9579,at
+ATU 5, pl. 067, W 9579,au
+ATU 5, pl. 068, W 9579,av
+ATU 5, pl. 068, W 9579,aw
+ATU 5, pl. 068, W 9579,ax
+ATU 5, pl. 068, W 9579,ay
+ATU 5, pl. 068, W 9579,az
+ATU 5, pl. 068, W 9579,ba
+ATU 5, pl. 068, W 9579,bb
+ATU 5, pl. 068, W 9579,bc
+ATU 5, pl. 069, W 9579,bd
+ATU 5, pl. 069, W 9579,be
+ATU 5, pl. 069, W 9579,bf
+ATU 5, pl. 069, W 9579,bg
+ATU 5, pl. 069, W 9579,bh
+ATU 5, pl. 069, W 9579,bi
+ATU 5, pl. 069, W 9579,bk
+ATU 5, pl. 069, W 9579,bl
+ATU 5, pl. 070, W 9579,bm
+ATU 5, pl. 070, W 9579,bq
+ATU 5, pl. 070, W 9579,br
+ATU 5, pl. 070, W 9579,bs
+ATU 5, pl. 070, W 9579,bt
+ATU 5, pl. 070, W 9579,bu
+ATU 5, pl. 070, W 9579,bv
+ATU 5, pl. 070, W 9579,bw
+ATU 5, pl. 071, W 9579,bx
+ATU 5, pl. 071, W 9579,by1
+ATU 5, pl. 071, W 9579,by2
+ATU 5, pl. 071, W 9579,bz
+ATU 5, pl. 071, W 9579,ca
+ATU 5, pl. 071, W 9579,cb
+ATU 5, pl. 071, W 9579,cc
+ATU 5, pl. 071, W 9579,cd
+ATU 5, pl. 071, W 9579,ce
+ATU 5, pl. 072, W 9579,cf
+ATU 5, pl. 072, W 9579,cg
+ATU 5, pl. 072, W 9579,ch
+ATU 5, pl. 072, W 9579,ci
+ATU 5, pl. 072, W 9579,ck
+ATU 5, pl. 072, W 9579,cl
+ATU 5, pl. 072, W 9579,cm
+ATU 5, pl. 072, W 9579,cn
+ATU 5, pl. 073, W 9579,co
+ATU 5, pl. 073, W 9579,cp
+ATU 5, pl. 073, W 9579,cq
+ATU 5, pl. 073, W 9579,cr
+ATU 5, pl. 073, W 9579,cs
+ATU 5, pl. 073, W 9579,ct
+ATU 5, pl. 073, W 9579,cu
+ATU 5, pl. 073, W 9579,cv
+ATU 5, pl. 073, W 9579,cw
+ATU 5, pl. 074, W 9579,cx
+ATU 5, pl. 074, W 9579,cy
+ATU 5, pl. 074, W 9579,cz
+ATU 5, pl. 074, W 9579,da
+ATU 5, pl. 074, W 9579,db
+ATU 5, pl. 074, W 9579,dc
+ATU 5, pl. 074, W 9579,dd
+ATU 5, pl. 074, W 9579,de
+ATU 5, pl. 074, W 9579,df
+ATU 5, pl. 075, W 9579,dg
+ATU 5, pl. 075, W 9579,dh
+ATU 5, pl. 075, W 9579,di
+ATU 5, pl. 075, W 9579,dk
+ATU 5, pl. 075, W 9579,dl
+ATU 5, pl. 075, W 9579,dm
+ATU 5, pl. 075, W 9579,dn
+ATU 5, pl. 075, W 9579,do
+ATU 5, pl. 076, W 9579,dp
+ATU 5, pl. 076, W 9579,dq
+ATU 5, pl. 076, W 9579,dr
+ATU 5, pl. 076, W 9579,ds
+ATU 5, pl. 076, W 9579,dt
+ATU 5, pl. 076, W 9579,du
+ATU 5, pl. 077, W 9579,dv
+ATU 5, pl. 077, W 9579,dw
+ATU 5, pl. 077, W 9579,dx
+ATU 5, pl. 077, W 9579,dy
+ATU 5, pl. 078, W 9579,dz
+ATU 5, pl. 078, W 9655,a
+ATU 5, pl. 078, W 9655,b
+ATU 5, pl. 078, W 9655,c
+ATU 5, pl. 079, W 9655,d+
+ATU 5, pl. 079, W 9655,e
+ATU 5, pl. 079, W 9655,f
+ATU 5, pl. 079, W 9655,g
+ATU 5, pl. 079, W 9655,h
+ATU 5, pl. 080, W 9655,i
+ATU 5, pl. 080, W 9655,k
+ATU 5, pl. 080, W 9655,l
+ATU 5, pl. 080, W 9655,m
+ATU 5, pl. 080, W 9655,o
+ATU 5, pl. 080, W 9655,p
+ATU 5, pl. 081, W 9655,q
+ATU 5, pl. 081, W 9655,r
+ATU 5, pl. 081, W 9655,s
+ATU 5, pl. 081, W 9655,t
+ATU 5, pl. 081, W 9655,u
+ATU 5, pl. 081, W 9655,v
+ATU 5, pl. 081, W 9655,w
+ATU 5, pl. 081, W 9655,x
+ATU 5, pl. 081, W 9655,y
+ATU 5, pl. 081, W 9655,z
+ATU 5, pl. 082, W 9655,aa
+ATU 5, pl. 082, W 9655,ab
+ATU 5, pl. 082, W 9655,ac
+ATU 5, pl. 082, W 9655,ad
+ATU 5, pl. 082, W 9655,ae
+ATU 5, pl. 083, W 9655,ag
+ATU 5, pl. 083, W 9655,ah
+ATU 5, pl. 083, W 9655,ai
+ATU 5, pl. 083, W 9655,ak
+ATU 5, pl. 083, W 9655,al
+ATU 5, pl. 083, W 9655,am
+ATU 5, pl. 084, W 9655,an
+ATU 5, pl. 084, W 9655,ao
+ATU 5, pl. 084, W 9655,ap
+ATU 5, pl. 084, W 9655,aq
+ATU 5, pl. 084, W 9655,ar
+ATU 5, pl. 085, W 9655,as
+ATU 5, pl. 085, W 9655,cq
+ATU 5, pl. 085, W 9656,a1
+ATU 5, pl. 085, W 9656,a2
+ATU 5, pl. 085, W 9656,b
+ATU 5, pl. 085, W 9656,c
+ATU 5, pl. 085, W 9656,d
+ATU 5, pl. 086, W 9656,f
+ATU 5, pl. 086, W 9656,g
+ATU 5, pl. 086, W 9656,h2
+ATU 5, pl. 086, W 9656,i
+ATU 5, pl. 086, W 9656,k
+ATU 5, pl. 087, W 9656,l
+ATU 5, pl. 087, W 9656,n1
+ATU 5, pl. 087, W 9656,n2
+ATU 5, pl. 087, W 9656,o
+ATU 5, pl. 087, W 9656,p
+ATU 5, pl. 087, W 9656,q
+ATU 5, pl. 088, W 9656,r+
+ATU 5, pl. 088, W 9656,s
+ATU 5, pl. 088, W 9656,t
+ATU 5, pl. 088, W 9656,v
+ATU 5, pl. 088, W 9656,w
+ATU 5, pl. 088, W 9656,z
+ATU 5, pl. 089, W 9656,aa
+ATU 5, pl. 089, W 9656,ab
+ATU 5, pl. 089, W 9656,ac
+ATU 5, pl. 089, W 9656,ad
+ATU 5, pl. 089, W 9656,ae
+ATU 5, pl. 090, W 9656,af
+ATU 5, pl. 090, W 9656,ag
+ATU 5, pl. 090, W 9656,ah
+ATU 5, pl. 090, W 9656,ai
+ATU 5, pl. 090, W 9656,ak
+ATU 5, pl. 090, W 9656,al
+ATU 5, pl. 090, W 9656,am
+ATU 5, pl. 090, W 9656,ao
+ATU 5, pl. 091, W 9656,aq
+ATU 5, pl. 091, W 9656,ar
+ATU 5, pl. 091, W 9656,as
+ATU 5, pl. 091, W 9656,at
+ATU 5, pl. 091, W 9656,au
+ATU 5, pl. 092, W 9656,av
+ATU 5, pl. 092, W 9656,aw
+ATU 5, pl. 092, W 9656,ax
+ATU 5, pl. 092, W 9656,ay
+ATU 5, pl. 092, W 9656,az
+ATU 5, pl. 092, W 9656,ba
+ATU 5, pl. 092, W 9656,bb
+ATU 5, pl. 092, W 9656,bd
+ATU 5, pl. 092, W 9656,be
+ATU 5, pl. 093, W 9656,bf
+ATU 5, pl. 093, W 9656,bg
+ATU 5, pl. 093, W 9656,bh
+ATU 5, pl. 093, W 9656,bi
+ATU 5, pl. 093, W 9656,bk
+ATU 5, pl. 093, W 9656,bl+
+ATU 5, pl. 093, W 9656,bm
+ATU 5, pl. 094, W 9656,bn
+ATU 5, pl. 094, W 9656,bo
+ATU 5, pl. 094, W 9656,bp
+ATU 5, pl. 094, W 9656,bq
+ATU 5, pl. 094, W 9656,br
+ATU 5, pl. 094, W 9656,bs
+ATU 5, pl. 095, W 9656,bt
+ATU 5, pl. 095, W 9656,bu
+ATU 5, pl. 095, W 9656,bv
+ATU 5, pl. 095, W 9656,bw
+ATU 5, pl. 095, W 9656,bx
+ATU 5, pl. 095, W 9656,by
+ATU 5, pl. 095, W 9656,bz+
+ATU 5, pl. 096, W 9656,ca
+ATU 5, pl. 096, W 9656,cb
+ATU 5, pl. 096, W 9656,cc
+ATU 5, pl. 096, W 9656,cd
+ATU 5, pl. 096, W 9656,cf
+ATU 5, pl. 096, W 9656,cg
+ATU 5, pl. 096, W 9656,ch
+ATU 5, pl. 096, W 9656,ci
+ATU 5, pl. 096, W 9656,ck
+ATU 5, pl. 097, W 9656,cl
+ATU 5, pl. 097, W 9656,cm
+ATU 5, pl. 097, W 9656,cn
+ATU 5, pl. 097, W 9656,cp1
+ATU 5, pl. 097, W 9656,cp2
+ATU 5, pl. 097, W 9656,cq
+ATU 5, pl. 097, W 9656,cr
+ATU 5, pl. 097, W 9656,cs
+ATU 5, pl. 097, W 9656,ct
+ATU 5, pl. 098, W 9656,cu
+ATU 5, pl. 098, W 9656,cv
+ATU 5, pl. 098, W 9656,cx
+ATU 5, pl. 098, W 9656,cy
+ATU 5, pl. 098, W 9656,cz
+ATU 5, pl. 098, W 9656,da
+ATU 5, pl. 098, W 9656,db
+ATU 5, pl. 098, W 9656,dc
+ATU 5, pl. 098, W 9656,dd
+ATU 5, pl. 098, W 9656,de
+ATU 5, pl. 098, W 9656,df
+ATU 5, pl. 099, W 9656,dg1
+ATU 5, pl. 099, W 9656,dg2
+ATU 5, pl. 099, W 9656,di
+ATU 5, pl. 099, W 9656,dk
+ATU 5, pl. 099, W 9656,dl
+ATU 5, pl. 099, W 9656,dm
+ATU 5, pl. 099, W 9656,dn
+ATU 5, pl. 100, W 9656,dp
+ATU 5, pl. 100, W 9656,dq
+ATU 5, pl. 100, W 9656,dr
+ATU 5, pl. 100, W 9656,ds
+ATU 5, pl. 100, W 9656,dt
+ATU 5, pl. 100, W 9656,du
+ATU 5, pl. 101, W 9656,dw
+ATU 5, pl. 101, W 9656,dy
+ATU 5, pl. 101, W 9656,dz
+ATU 5, pl. 102, W 9656,ef
+ATU 5, pl. 102, W 9656,eg
+ATU 5, pl. 102, W 9656,eh
+ATU 5, pl. 102, W 9656,ei
+ATU 5, pl. 102, W 9656,ek
+ATU 5, pl. 103, W 9656,el
+ATU 5, pl. 103, W 9656,em
+ATU 5, pl. 103, W 9656,en1
+ATU 5, pl. 103, W 9656,en2
+ATU 5, pl. 103, W 9656,eo
+ATU 5, pl. 103, W 9656,ep
+ATU 5, pl. 104, W 9656,eq
+ATU 5, pl. 104, W 9656,er
+ATU 5, pl. 104, W 9656,es
+ATU 5, pl. 104, W 9656,et
+ATU 5, pl. 105, W 9656,eu
+ATU 5, pl. 105, W 9656,ev
+ATU 5, pl. 105, W 9656,ew
+ATU 5, pl. 106, W 9656,ex
+ATU 5, pl. 106, W 9656,ey
+ATU 5, pl. 106, W 9656,ez
+ATU 5, pl. 106, W 9656,fa
+ATU 5, pl. 106, W 9656,fb
+ATU 5, pl. 107, W 9656,fc
+ATU 5, pl. 107, W 9656,fd
+ATU 5, pl. 107, W 9656,fe
+ATU 5, pl. 107, W 9656,ff
+ATU 5, pl. 107, W 9656,fg
+ATU 5, pl. 107, W 9656,fh
+ATU 5, pl. 107, W 9656,fk
+ATU 5, pl. 108, W 9656,fm
+ATU 5, pl. 108, W 9656,fn
+ATU 5, pl. 108, W 9656,fo
+ATU 5, pl. 108, W 9656,fp
+ATU 5, pl. 108, W 9656,fq
+ATU 5, pl. 108, W 9656,fr
+ATU 5, pl. 108, W 9656,fs
+ATU 5, pl. 108, W 9656,ft
+ATU 5, pl. 109, W 9656,fu
+ATU 5, pl. 109, W 9656,fv
+ATU 5, pl. 109, W 9656,fw
+ATU 5, pl. 109, W 9656,fx
+ATU 5, pl. 109, W 9656,fy
+ATU 5, pl. 109, W 9656,fz
+ATU 5, pl. 109, W 9656,ga
+ATU 5, pl. 109, W 9656,gb
+ATU 5, pl. 110, W 9656,gc
+ATU 5, pl. 110, W 9656,gd
+ATU 5, pl. 110, W 9656,ge
+ATU 5, pl. 110, W 9656,gf
+ATU 5, pl. 110, W 9656,gg
+ATU 5, pl. 110, W 9656,gh
+ATU 5, pl. 110, W 9656,gi
+ATU 5, pl. 110, W 9656,gk
+ATU 5, pl. 111, W 9656,gl
+ATU 5, pl. 111, W 9656,gm
+ATU 5, pl. 111, W 9656,gn
+ATU 5, pl. 111, W 9656,go
+ATU 5, pl. 111, W 9656,gp
+ATU 5, pl. 111, W 9656,gq
+ATU 5, pl. 111, W 9656,gr
+ATU 5, pl. 111, W 9656,gs
+ATU 5, pl. 111, W 9656,gt
+ATU 5, pl. 111, W 9656,gu
+ATU 5, pl. 112, W 9656,gw
+ATU 5, pl. 112, W 9656,gx
+ATU 5, pl. 112, W 9656,gy
+ATU 5, pl. 112, W 9656,gz
+ATU 5, pl. 112, W 9656,ha1
+ATU 5, pl. 112, W 9656,ha2
+ATU 5, pl. 112, W 9656,hb
+ATU 5, pl. 112, W 9656,hc
+ATU 5, pl. 112, W 9656,hd
+ATU 5, pl. 112, W 9656,he
+ATU 5, pl. 112, W 9656,hf
+ATU 5, pl. 112, W 9656,hg1
+ATU 5, pl. 112, W 9656,hg2
+ATU 5, pl. 112, W 9656,hh
+ATU 5, pl. 113, W 9656,hi
+ATU 5, pl. 113, W 9656,hk
+ATU 5, pl. 113, W 9656,hl
+ATU 5, pl. 113, W 9656,hn1
+ATU 5, pl. 113, W 9656,hn2
+ATU 5, pl. 113, W 9656,ho
+ATU 5, pl. 113, W 9656,hs
+ATU 5, pl. 113, W 9656,ht
+ATU 5, pl. 113, W 9656,hv
+ATU 5, pl. 113, W 9656,hw
+ATU 5, pl. 113, W 9656,hx
+ATU 5, pl. 113, W 9656,hy
+ATU 5, pl. 113, W 9656,hz
+ATU 5, pl. 113, W 9656,ia
+ATU 5, pl. 113, W 9656,ib1
+ATU 5, pl. 113, W 9656,ib2
+ATU 5, pl. 113, W 9656,ic
+ATU 5, pl. 114, W 9656,ie1
+ATU 5, pl. 114, W 9656,ie2
+ATU 5, pl. 114, W 9656,if1
+ATU 5, pl. 114, W 9656,if2
+ATU 5, pl. 114, W 9656,ig
+ATU 5, pl. 114, W 9656,ih
+ATU 5, pl. 114, W 9656,ii
+ATU 5, pl. 114, W 9656,ik
+ATU 5, pl. 115, W 9656,il
+ATU 5, pl. 115, W 9656,im1
+ATU 5, pl. 115, W 9656,im2
+ATU 5, pl. 115, W 9656,in
+ATU 5, pl. 115, W 9656,io
+ATU 5, pl. 115, W 9656,ip
+ATU 5, pl. 115, W 9656,iq
+ATU 5, pl. 115, W 9656,ir
+ATU 5, pl. 115, W 9656,is
+ATU 5, pl. 116, W 9656,it
+ATU 5, pl. 116, W 9656,iu
+ATU 5, pl. 116, W 9656,iv
+ATU 5, pl. 116, W 9656,ix
+ATU 5, pl. 116, W 9656,iy
+ATU 5, pl. 116, W 9656,iz
+ATU 5, pl. 117, W 9656,?
+ATU 5, pl. 117, W 9656,ka
+ATU 5, pl. 117, W 9656,kb
+ATU 5, pl. 117, W 9656,kc
+ATU 5, pl. 117, W 9656,km
+ATU 5, pl. 117, W 9761,b
+ATU 5, pl. 118, W 9762
+ATU 5, pl. 118, W 9827
+ATU 5, pl. 118, W 9850
+ATU 5, pl. 119, VAT 17834
+ATU 5, pl. 119, W 10581
+ATU 5, pl. 120, W 10133,a
+ATU 5, pl. 120, W 10133,b
+ATU 5, pl. 120, W 10133,c
+ATU 5, pl. 120, W 10133,d
+ATU 5, pl. 120, W 10133,e
+ATU 5, pl. 120, W 10133,f
+ATU 5, pl. 120, W 10187,a
+ATU 5, pl. 120, W 10187,b
+ATU 5, pl. 120, W 10187,c+
+ATU 5, pl. 121, W 10187,d+
+ATU 5, pl. 121, W 16050
+ATU 5, pl. 121, W 16139,a
+ATU 5, pl. 121, W 16139,b
+ATU 5, pl. 121, W 16139,c
+ATU 5, pl. 121, W 16139,d
+ATU 5, pl. 121, W 16139,e
+ATU 5, pl. 121, W 16139,f
+ATU 5, pl. 121, W 16184
+ATU 6, pl. 2, W 10585
+ATU 6, pl. 2, W 10593
+ATU 6, pl. 3, W 10595
+ATU 6, pl. 4, W 10602
+ATU 6, pl. 4, W 10609
+ATU 6, pl. 5, W 10613,a1
+ATU 6, pl. 5, W 10613,a2
+ATU 6, pl. 5, W 10613,b2
+ATU 6, pl. 5, W 10613,c
+ATU 6, pl. 5, W 10613,d1
+ATU 6, pl. 5, W 10613,d2
+ATU 6, pl. 5, W 10613,e2
+ATU 6, pl. 6, W 10613,f
+ATU 6, pl. 6, W 10613,g
+ATU 6, pl. 6, W 10614+
+ATU 6, pl. 6, W 10617
+ATU 6, pl. 7, W 10620
+ATU 6, pl. 7, W 10622
+ATU 6, pl. 7, W 10627
+ATU 6, pl. 7, W 10629
+ATU 6, pl. 8, W 10632
+ATU 6, pl. 8, W 10731
+ATU 6, pl. 8, W 10736
+ATU 6, pl. 8, W 17973,g
+ATU 6, pl. 8, W 17981,a
+ATU 6, pl. 9, W 10753
+ATU 6, pl. 9, W 10802
+ATU 6, pl. 9, W 10803,a
+ATU 6, pl. 10, W 10825
+ATU 6, pl. 10, W 10846
+ATU 6, pl. 11, W 10931
+ATU 6, pl. 11, W 10967,a
+ATU 6, pl. 11, W 10967,b
+ATU 6, pl. 11, W 10992
+ATU 6, pl. 12, W 10993
+ATU 6, pl. 12, W 11040
+ATU 6, pl. 13, W 11791+
+ATU 6, pl. 14, W 11803
+ATU 6, pl. 14, W 11931,a
+ATU 6, pl. 17, W 12011
+ATU 6, pl. 17, W 12015
+ATU 6, pl. 17, W 12017
+ATU 6, pl. 18, W 12119,a+
+ATU 6, pl. 18, W 12120
+ATU 6, pl. 18, W 12121
+ATU 6, pl. 18, W 12122
+ATU 6, pl. 18, W 12123
+ATU 6, pl. 18, W 12124,a+
+ATU 6, pl. 19, W 12137,e
+ATU 6, pl. 19, W 12138
+ATU 6, pl. 20, W 12256,n
+ATU 6, pl. 21, W 13033
+ATU 6, pl. 22, W 13649
+ATU 6, pl. 22, W 13662,a1
+ATU 6, pl. 23, W 13662,d
+ATU 6, pl. 23, W 13662,e
+ATU 6, pl. 23, W 13662,f
+ATU 6, pl. 23, W 13662,h1
+ATU 6, pl. 24, W 13662,k2
+ATU 6, pl. 24, W 13662,l
+ATU 6, pl. 24, W 13662,n2
+ATU 6, pl. 24, W 13662,o
+ATU 6, pl. 25, W 13662,p
+ATU 6, pl. 25, W 13662,q+
+ATU 6, pl. 26, W 13662,w2
+ATU 6, pl. 26, W 13662,x1
+ATU 6, pl. 26, W 13701
+ATU 6, pl. 27, W 13946,a
+ATU 6, pl. 27, W 13946,b
+ATU 6, pl. 27, W 13946,c
+ATU 6, pl. 28, W 13946,d
+ATU 6, pl. 30, W 13946,n1
+ATU 6, pl. 30, W 13946,t
+ATU 6, pl. 31, W 13946,v
+ATU 6, pl. 31, W 13946,z
+ATU 6, pl. 31, W 13989,a
+ATU 6, pl. 31, W 13989,c
+ATU 6, pl. 32, W 13989,d
+ATU 6, pl. 32, W 14016,a
+ATU 6, pl. 34, W 14111,l
+ATU 6, pl. 34, W 14111,n
+ATU 6, pl. 34, W 14111,u
+ATU 6, pl. 35, W 14111,?2
+ATU 6, pl. 36, W 14148
+ATU 6, pl. 36, W 14210
+ATU 6, pl. 37, W 14265
+ATU 6, pl. 38, W 14289,a+
+ATU 6, pl. 38, W 14291,a
+ATU 6, pl. 39, W 14328
+ATU 6, pl. 39, W 14330
+ATU 6, pl. 42, W 14335,k
+ATU 6, pl. 43, W 14338,a+
+ATU 6, pl. 43, W 14338,d
+ATU 6, pl. 43, W 14341
+ATU 6, pl. 44, W 14354,a
+ATU 6, pl. 45, W 14358
+ATU 6, pl. 46, W 14366
+ATU 6, pl. 46, W 14384
+ATU 6, pl. 46, W 14557
+ATU 6, pl. 46, W 14568
+ATU 6, pl. 47, W 14617
+ATU 6, pl. 47, W 14704,a
+ATU 6, pl. 49, W 14731,h
+ATU 6, pl. 50, W 14731,q
+ATU 6, pl. 53, W 14731,am
+ATU 6, pl. 55, W 14758
+ATU 6, pl. 56, W 14777,a
+ATU 6, pl. 56, W 14777,d
+ATU 6, pl. 57, W 14777,k
+ATU 6, pl. 57, W 14777,m
+ATU 6, pl. 59, W 15193
+ATU 6, pl. 60, W 15658
+ATU 6, pl. 60, W 15662
+ATU 6, pl. 60, W 15692,a1
+ATU 6, pl. 60, W 15692,a3
+ATU 6, pl. 60, W 15692,a4
+ATU 6, pl. 61, W 15692,a10
+ATU 6, pl. 61, W 15692,a13
+ATU 6, pl. 61, W 15692,a17
+ATU 6, pl. 61, W 15692,a5
+ATU 6, pl. 61, W 15692,a6
+ATU 6, pl. 61, W 15692,a8
+ATU 6, pl. 63, W 15772,k
+ATU 6, pl. 63, W 15772,m
+ATU 6, pl. 65, W 15774,a
+ATU 6, pl. 65, W 15774,c
+ATU 6, pl. 66, W 15774,h
+ATU 6, pl. 66, W 15774,k
+ATU 6, pl. 66, W 15774,m
+ATU 6, pl. 68, W 15775,e
+ATU 6, pl. 71, W 15775,u
+ATU 6, pl. 71, W 15775,z
+ATU 6, pl. 72, W 15785,a4
+ATU 6, pl. 73, W 15792,a2
+ATU 6, pl. 73, W 15860,a1
+ATU 6, pl. 74, W 15860,a3
+ATU 6, pl. 75, W 15893,a
+ATU 6, pl. 75, W 15893,b
+ATU 6, pl. 75, W 15893,c
+ATU 6, pl. 75, W 15893,d
+ATU 6, pl. 75, W 15893,e
+ATU 6, pl. 75, W 15893,f
+ATU 6, pl. 76, W 15893,g
+ATU 6, pl. 76, W 15893,h
+ATU 6, pl. 76, W 15893,i
+ATU 6, pl. 76, W 15893,k
+ATU 6, pl. 76, W 15893,l
+ATU 6, pl. 76, W 15893,m
+ATU 6, pl. 76, W 15893,n
+ATU 6, pl. 76, W 15893,o
+ATU 6, pl. 77, W 15893,p
+ATU 6, pl. 77, W 15893,q
+ATU 6, pl. 77, W 15895,bg
+ATU 6, pl. 77, W 15895,bl
+ATU 6, pl. 78, W 15895,bx
+ATU 6, pl. 79, W 15897,a6
+ATU 6, pl. 79, W 15897,a8
+ATU 6, pl. 79, W 15897,a9
+ATU 6, pl. 79, W 15897,b2
+ATU 6, pl. 79, W 15897,b3
+ATU 6, pl. 80, W 15897,b4
+ATU 6, pl. 80, W 15897,c1
+ATU 6, pl. 82, W 15897,c19
+ATU 6, pl. 82, W 15897,c20
+ATU 6, pl. 83, W 15897,c21
+ATU 6, pl. 83, W 15897,c23
+ATU 6, pl. 83, W 15897,c24
+ATU 6, pl. 83, W 15897,c26
+ATU 6, pl. 83, W 15920,a3
+ATU 6, pl. 84, W 15920,a1
+ATU 6, pl. 84, W 15920,a5
+ATU 6, pl. 84, W 15920,a7
+ATU 6, pl. 84, W 15920,a8
+ATU 6, pl. 84, W 15920,a9
+ATU 6, pl. 84, W 15968
+ATU 6, pl. 85, W 16477
+ATU 6, pl. 85, W 16603,b15
+ATU 6, pl. 86, W 16632,b
+ATU 6, pl. 86, W 16632,f
+ATU 6, pl. 87, W 17049
+ATU 7, pl. 2, W 19295
+ATU 7, pl. 2, W 19361,1
+ATU 7, pl. 2, W 19361,3
+ATU 7, pl. 2, W 19361,5
+ATU 7, pl. 2, W 19361,7
+ATU 7, pl. 2, W 19361,9
+ATU 7, pl. 3, W 19361,12
+ATU 7, pl. 3, W 19361,13
+ATU 7, pl. 3, W 19361,15
+ATU 7, pl. 3, W 19361,17
+ATU 7, pl. 3, W 19361,23
+ATU 7, pl. 3, W 19361,25
+ATU 7, pl. 4, W 19361,26
+ATU 7, pl. 4, W 19361,27+
+ATU 7, pl. 4, W 19361,28
+ATU 7, pl. 4, W 19361,29
+ATU 7, pl. 4, W 19361,30
+ATU 7, pl. 4, W 19361,31
+ATU 7, pl. 4, W 19361,32
+ATU 7, pl. 4, W 19361,33
+ATU 7, pl. 4, W 19361,34
+ATU 7, pl. 4, W 19361,35
+ATU 7, pl. 5, W 19361,37
+ATU 7, pl. 5, W 19361,38b
+ATU 7, pl. 6, W 19361,39a
+ATU 7, pl. 6, W 19361,39b
+ATU 7, pl. 6, W 19361,39c
+ATU 7, pl. 6, W 19361,39e
+ATU 7, pl. 6, W 19361,39f
+ATU 7, pl. 6, W 19361,39g
+ATU 7, pl. 6, W 19361,39h
+ATU 7, pl. 6, W 19361,39i
+ATU 7, pl. 6, W 19361,41
+ATU 7, pl. 7, W 19361,42
+ATU 7, pl. 7, W 19361,43
+ATU 7, pl. 7, W 19361,44
+ATU 7, pl. 7, W 19363
+ATU 7, pl. 7, W 19408,1
+ATU 7, pl. 7, W 19408,3
+ATU 7, pl. 7, W 19408,5
+ATU 7, pl. 8, W 19408,12
+ATU 7, pl. 8, W 19408,13
+ATU 7, pl. 8, W 19408,15
+ATU 7, pl. 8, W 19408,18
+ATU 7, pl. 8, W 19408,19
+ATU 7, pl. 8, W 19408,7
+ATU 7, pl. 8, W 19408,9
+ATU 7, pl. 9, W 19408,21
+ATU 7, pl. 9, W 19408,25
+ATU 7, pl. 9, W 19408,26
+ATU 7, pl. 9, W 19408,27
+ATU 7, pl. 9, W 19408,29
+ATU 7, pl. 9, W 19408,31
+ATU 7, pl. 10, W 19408,33
+ATU 7, pl. 10, W 19408,35
+ATU 7, pl. 10, W 19408,37
+ATU 7, pl. 10, W 19408,39
+ATU 7, pl. 10, W 19408,41
+ATU 7, pl. 10, W 19408,43
+ATU 7, pl. 11, W 19408,45
+ATU 7, pl. 11, W 19408,48
+ATU 7, pl. 11, W 19408,49
+ATU 7, pl. 11, W 19408,50b
+ATU 7, pl. 11, W 19408,51
+ATU 7, pl. 12, W 19408,54
+ATU 7, pl. 12, W 19408,55
+ATU 7, pl. 13, W 19408,58
+ATU 7, pl. 13, W 19408,59
+ATU 7, pl. 13, W 19408,61
+ATU 7, pl. 13, W 19408,63a
+ATU 7, pl. 13, W 19408,63b
+ATU 7, pl. 13, W 19408,63c
+ATU 7, pl. 13, W 19408,63d
+ATU 7, pl. 13, W 19408,65
+ATU 7, pl. 14, W 19408,66
+ATU 7, pl. 14, W 19408,69
+ATU 7, pl. 14, W 19408,70a
+ATU 7, pl. 14, W 19408,70c
+ATU 7, pl. 14, W 19408,70d
+ATU 7, pl. 14, W 19408,74
+ATU 7, pl. 14, W 19408,76+
+ATU 7, pl. 15, W 19408,77a
+ATU 7, pl. 15, W 19408,81a
+ATU 7, pl. 15, W 19408,81b
+ATU 7, pl. 15, W 19408,82a
+ATU 7, pl. 15, W 19408,83
+ATU 7, pl. 15, W 19408,85
+ATU 7, pl. 15, W 19408,86
+ATU 7, pl. 16, W 19408,88
+ATU 7, pl. 16, W 19408,91
+ATU 7, pl. 16, W 19408,92
+ATU 7, pl. 16, W 19410,1
+ATU 7, pl. 16, W 19410,4
+ATU 7, pl. 16, W 19410,5
+ATU 7, pl. 17, W 19410,10
+ATU 7, pl. 17, W 19410,11
+ATU 7, pl. 17, W 19410,6
+ATU 7, pl. 17, W 19410,8a
+ATU 7, pl. 17, W 19410,8b
+ATU 7, pl. 18, W 19413,10
+ATU 7, pl. 18, W 19413,3
+ATU 7, pl. 18, W 19413,5
+ATU 7, pl. 18, W 19413,7
+ATU 7, pl. 18, W 19413,9
+ATU 7, pl. 18, W 19416,a
+ATU 7, pl. 19, W 19417,a
+ATU 7, pl. 19, W 19417,b
+ATU 7, pl. 19, W 19419
+ATU 7, pl. 19, W 19422,a
+ATU 7, pl. 19, W 19437
+ATU 7, pl. 19, W 19466,a
+ATU 7, pl. 19, W 19466,b
+ATU 7, pl. 19, W 19466,c
+ATU 7, pl. 20, W 19568,b
+ATU 7, pl. 20, W 19568,c
+ATU 7, pl. 20, W 19568,d
+ATU 7, pl. 20, W 19568,h
+ATU 7, pl. 20, W 19568,i
+ATU 7, pl. 21, W 19568,k
+ATU 7, pl. 21, W 19577,c+
+ATU 7, pl. 21, W 19577,d
+ATU 7, pl. 21, W 19577,f
+ATU 7, pl. 22, W 19577,g
+ATU 7, pl. 22, W 19584,g
+ATU 7, pl. 22, W 19584,h
+ATU 7, pl. 22, W 19584,i
+ATU 7, pl. 22, W 19592,c
+ATU 7, pl. 22, W 19592,l
+ATU 7, pl. 22, W 19592,m
+ATU 7, pl. 22, W 19592,n
+ATU 7, pl. 23, W 19592,o
+ATU 7, pl. 23, W 19592,p
+ATU 7, pl. 23, W 19592,q
+ATU 7, pl. 23, W 19592,r
+ATU 7, pl. 23, W 19592,s
+ATU 7, pl. 23, W 19635,b
+ATU 7, pl. 23, W 19637
+ATU 7, pl. 23, W 19638
+ATU 7, pl. 24, W 19639,b
+ATU 7, pl. 24, W 19667,c
+ATU 7, pl. 24, W 19667,g
+ATU 7, pl. 25, W 19685
+ATU 7, pl. 25, W 19687
+ATU 7, pl. 25, W 19688
+ATU 7, pl. 25, W 19689,a
+ATU 7, pl. 25, W 19689,b
+ATU 7, pl. 26, W 19690
+ATU 7, pl. 26, W 19725
+ATU 7, pl. 26, W 19726,d
+ATU 7, pl. 26, W 19726,e
+ATU 7, pl. 26, W 19726,f
+ATU 7, pl. 26, W 19728,a
+ATU 7, pl. 27, W 19766
+ATU 7, pl. 27, W 19781
+ATU 7, pl. 27, W 19796
+ATU 7, pl. 28, W 19948,15
+ATU 7, pl. 28, W 19948,16
+ATU 7, pl. 28, W 19948,21
+ATU 7, pl. 30, W 20034,b
+ATU 7, pl. 31, W 20044,11
+ATU 7, pl. 31, W 20044,12
+ATU 7, pl. 31, W 20044,13
+ATU 7, pl. 31, W 20044,7
+ATU 7, pl. 32, W 20044,14
+ATU 7, pl. 32, W 20044,16
+ATU 7, pl. 32, W 20044,17
+ATU 7, pl. 32, W 20044,18
+ATU 7, pl. 32, W 20044,19
+ATU 7, pl. 33, W 20044,20
+ATU 7, pl. 33, W 20044,22
+ATU 7, pl. 33, W 20044,24
+ATU 7, pl. 34, W 20044,33
+ATU 7, pl. 34, W 20044,34
+ATU 7, pl. 34, W 20044,36
+ATU 7, pl. 34, W 20044,37
+ATU 7, pl. 35, W 20044,38
+ATU 7, pl. 35, W 20044,39
+ATU 7, pl. 35, W 20044,51
+ATU 7, pl. 35, W 20044,52
+ATU 7, pl. 35, W 20044,54
+ATU 7, pl. 36, W 20044,58
+ATU 7, pl. 36, W 20044,59
+ATU 7, pl. 36, W 20044,60
+ATU 7, pl. 37, W 20214,4+
+ATU 7, pl. 38, W 20214,5
+ATU 7, pl. 38, W 20214,8
+ATU 7, pl. 38, W 20236,2
+ATU 7, pl. 39, W 20239
+ATU 7, pl. 39, W 20244
+ATU 7, pl. 58, W 20364,1+
+ATU 7, pl. 58, W 20368,1
+ATU 7, pl. 59, W 20368,2
+ATU 7, pl. 59, W 20372
+ATU 7, pl. 59, W 20385,1
+ATU 7, pl. 59, W 20385,2
+ATU 7, pl. 66, W 20498
+ATU 7, pl. 66, W 20499,1
+ATU 7, pl. 66, W 20500+
+ATU 7, pl. 72, W 20516
+ATU 7, pl. 72, W 20522,1
+ATU 7, pl. 72, W 20522,2
+ATU 7, pl. 73, W 20522,10
+ATU 7, pl. 73, W 20522,11
+ATU 7, pl. 73, W 20522,3
+ATU 7, pl. 73, W 20522,4
+ATU 7, pl. 73, W 20522,5
+ATU 7, pl. 73, W 20522,9
+ATU 7, pl. 74, W 20883
+ATU 7, pl. 74, W 21183
+ATU 7, pl. 75, W 21498
+ATU 7, pl. 75, W 21554
+ATU 7, pl. 76, W 21601
+ATU 7, pl. 76, W 21607
+ATU 7, pl. 76, W 21654,1
+ATU 7, pl. 76, W 21654,2
+ATU 7, pl. 77, W 21654,3
+ATU 7, pl. 79, W 21742
+ATU 7, pl. 80, W 21760
+ATU 7, pl. 83, W 22091,2
+ATU 7, pl. 83, W 22091,6
+ATU 7, pl. 84, W 22102,1
+ATU 7, pl. 84, W 22102,2
+ATU 7, pl. 84, W 22102,4
+ATU 7, pl. 85, W 22102,7
+ATU 7, pl. 88, W 22116,8
+ATU 7, pl. 88, W 22116,9
+ATU 7, pl. 88, W 22117,4
+ATU 7, pl. 89, W 22118,0
+ATU 7, pl. 89, W 22118,4
+ATU 7, pl. 90, W 22118,5
+ATU 7, pl. 90, W 22123,c
+ATU 7, pl. 91, W 22133
+ATU 7, pl. 92, W 22135,2+
+CDLI Lexical 000002, ex. 051
+CDLI Lexical 000002, ex. 170
+CDLI Lexical 000002, ex. 171
+CDLI Lexical 000002, ex. 172
+CDLI Lexical 000002, ex. 173
+CDLI Lexical 000002, ex. 174
+CDLI Lexical 000023, ex. 092
+CDLI Lexical 000023, ex. 093
+CDLI Lexical 000026, ex. 45
+CDLI Lexical Archaic Unidentified, ex. 024
+CDLI Seals 001410 (physical)
+CDLI Seals xxx
+CDLI Seals 008604 (physical)
+CDLI Seals 008605 (physical)
+CDLI Seals 008606 (physical)
+CDLI Seals 010597 (physical)
+CDLI Seals 010798 (physical)
+CDLI Seals 010799 (physical)
+CDLI Seals 011235 (physical)
+CDLI Seals 011236 (physical)
+CDLI Seals 011237 (physical)
+CDLI Seals 011238 (physical)
+CDLI Seals 011239 (physical)
+CDLI Seals 011240 (physical)
+CUSAS 1, 002
+CUSAS 1, 004
+CUSAS 1, 005
+CUSAS 1, 006
+CUSAS 21, 041
+CUSAS 21, 042
+CUSAS 21, 049
+CUSAS 21, 052
+CUSAS 21, 055
+CUSAS 21, 056
+CUSAS 21, 062
+CUSAS 21, 068
+CUSAS 21, 069
+CUSAS 21, 070
+CUSAS 21, 091
+CUSAS 21, 095
+CUSAS 21, 096
+CUSAS 21, 098
+CUSAS 21, 104
+CUSAS 21, 106
+CUSAS 21, 132
+CUSAS 21, 133
+CUSAS 21, 135
+CUSAS 21, 136
+CUSAS 21, 137
+CUSAS 21, 138
+CUSAS 21, 139
+CUSAS 21, 140
+CUSAS 21, 152
+CUSAS 21, 153
+CUSAS 21, 154
+CUSAS 21, 155
+CUSAS 31, 001
+HD: W 22102,9f
+IM 023432,1
+IM 023434,p
+IM 023434,y
+IM 023435,03
+IM 023435,05
+IM 023435,08
+IM 023435,16
+IM 023435,17
+IM 023435,18
+IM 023436,05
+IM 023436,07
+IM 023436,15
+IM 023437,07
+IM 023437,09
+IM 023437,10
+IM 023441,2
+IM 023443,1
+IM 023443,2
+IM 023443,5
+IM 023443,6
+IM 023444,2
+IM 023452,1
+IM 023453
+IM 025757,01
+IM 025757,02
+IM 025757,03
+IM 025757,04
+IM 025757,05
+IM 025757,06
+IM 025757,07
+IM 025757,08
+IM 025757,09
+IM 025757,10
+IM 025757,11
+IM 025757,12
+IM 025757,13
+IM 025758,2
+IM 025759,1
+IM 025759,3
+IM 025759,4
+IM 025759,5
+IM 025759,6
+IM 026830
+IM 045905
+IM 045907
+IM 045908
+IM 046001
+IM 046070
+IM 046158
+IM 046238
+IM 046618,a
+IM 046618,b
+IM 046619
+IM 064727
+IM 064796
+IM 064799
+IM 064806
+IM 064817
+IM 064830
+IM 064832
+IM 064844
+IM 064846
+IM 064849
+IM 064850
+IM 064851
+IM 064852
+IM 064854
+IM 064882
+IM 064919,b
+IM 064929
+IM 065103
+IM 065104
+IM 065105
+IM 065107
+IM 065108
+IM 065109
+IM 065110
+IM 065111
+IM 065112
+IM 065113
+IM 065114
+IM 065115
+IM 065116
+IM 065117
+IM 065118
+IM 065119
+IM 065123
+IM 067375
+IM 067534
+IM 073201
+IM 073202
+IM 073403
+IM 073404
+IM 073405
+IM 073409,1
+IM 073463
+IM 073464
+IM 073469
+IM 073472
+IM 073473
+IM 073477,1
+IM 073478
+IM 073479
+IM 073482
+IM 073483
+IM 073484
+IM 073488,1
+IM 073488,2
+IM 073490
+IM 073492
+IM 073493
+IM 073494
+IM 073495
+IM 073496
+IM 073499
+IM 073500
+IM 073561
+IM 074201
+IM 074204
+IM 074205
+IM 074206
+IM 074207
+IM 074209
+IM 074210
+IM 074211
+IM 074212
+IM 074213
+IM 074214
+IM 074218
+IM 074269
+IM 074277
+IM 074278
+IM 074279
+IM 074284,1
+IM 074284,2
+IM 074285
+IM 074287
+IM 074288
+IM 074289
+IM 074290
+IM 074291,1
+IM 074291,2
+IM 074291,3
+IM 074291,4
+IM 074292
+IM 074293
+IM 074294
+IM 074300
+IM 074314
+IM 074325
+IM 074330
+IM 074332
+IM 074343
+IM 074344
+IM 081243
+IM 081459
+IM 133515
+IM 133516
+IM 133517
+IM 133606
+IM 133607
+IM 133608
+IM 133609
+IM 133610
+IM 133611
+IM 133612
+IM 133613
+IM 133614
+IM 133615
+IM 133616
+IM 133617
+IM 133618
+IM 133619
+IM 133620
+IM 133621
+IM 133622
+IM 133624,1
+IM 133624,2
+IM 133624,3
+IM 133624,4
+IM 133624,5
+IM 133624,6
+IM 133625,01
+IM 133625,02
+IM 133625,03
+IM 133625,04
+IM 133625,05
+IM 133625,06
+IM 133625,07
+IM 133625,08
+IM 133625,09
+IM 133625,10
+IM 133635
+IM 133636
+IM 133637
+IM 133639
+IM 133640
+IM 133641
+IM 133642
+IM 133643
+IM 133644
+IM 133645
+IM 133646
+IM 133647
+IM 133648
+IM 133649
+IM 133652
+IM 133653,1
+IM 133654
+IM 133655
+IM 133656
+IM 133657
+IM 133658
+IM 133664
+IM 133666
+IM 133667
+IM 133668
+IM 133670
+IM 133671
+IM 133675
+IM 133676
+IM 133691,2
+IM 133698
+IM 133699
+IM 133701
+IM 133703
+IM 133704
+IM 133707
+IM 133950
+IM 133951
+IM 133952
+IM 133954
+IM 133955
+IM 133956
+IM 133957
+IM 133958,1
+IM 133958,2
+IM 133958,3
+IM 133958,4
+IM 133958,5
+IM 133958,6
+IM 133958,7
+IM 133958,8
+IM 133959
+IM 133960
+IM 133962
+IM 133963
+IM 134071
+IM 134072
+IM 134356
+IM 134360
+IM 134361
+IM 134419
+IM 134425
+IM 134426
+IM 134427
+IM 134428
+IM 134436
+IM 134437
+IM 134441
+IM 134445
+IM 134447
+IM 134451
+IM 134455
+IM 134456
+IM 134472
+IM 134486
+IM 134487
+IM 134495
+IM 134497
+IM 134498
+IM 134502
+IM 134503
+IM 134504
+IM 134505
+IM 134506
+IM 134507,1
+IM 134507,2
+IM 134507,3
+IM 134508
+IM 134509
+IM 134513
+IM 134516
+IM 134518
+IM 134520
+IM 134522
+IM 134523
+IM 134524,1
+IM 134524,2
+IM 134525
+IM 134526
+IM 134527
+IM 134528
+IM 134529
+IM 134530
+IM 134533,2
+IM 134534
+IM 134535
+IM 134536
+IM 134537
+IM 134538
+IM 134539
+IM 134540
+IM 134544
+IM 134545
+IM 134565
+IM 134567
+IM 134568
+IM 134569
+IM 134570
+IM 134571
+IM 134572
+IM 134574
+IM 134576
+IM 134577
+IM 134587
+IM 134590
+IM 134591
+IM 134592
+IM 134593
+IM 134594
+IM 134595
+IM 134596,1
+IM 134596,3
+IM 134597
+IM 134598
+IM 134599
+IM 134600
+IM 134602
+IM 134605
+IM 134608
+IM 134609
+IM 134610
+IM 134611
+IM 134612
+IM 134618
+IM 134619
+IM 134620
+IM 134621
+IM 134622
+IM 134623
+IM 134624
+IM 134625
+IM 134626
+IM 134627
+IM 134628
+IM 134629
+IM 134630
+IM 134631
+IM 134633
+IM 134634
+IM 134635
+IM 134636
+IM 134637
+IM 134638
+IM 134639
+IM 134641
+IM 134642
+IM 134643
+IM 134644
+IM 134645
+IM 134646
+IM 134647
+IM 134648
+IM 134650
+IM 134651
+IM 134652
+IM 134654
+IM 134655
+IM 134656
+IM 134657
+IM 134658
+IM 134659
+IM 134661
+IM 134662
+IM 134663
+IM 134664
+IM 134666
+IM 134668
+IM 134670
+IM 134671
+IM 134673
+IM 134675
+IM 134677
+IM 134678
+IM 134679
+IM 134680
+IM 134681
+IM 134683
+IM 134684
+IM 134685
+IM 134686
+IM 134687
+IM 134688
+IM 134689
+IM 134690
+IM 134692
+IM 134693
+IM 134694
+IM 134695
+IM 134696
+IM 134697
+IM 134698
+IM 134699
+IM 134700
+IM 134701
+IM 134703
+IM 134705
+IM 134706
+IM 134707
+IM 134708
+IM 134709
+IM 134710
+IM 134711
+IM 134715
+IM 134719
+IM 134720
+IM 134724
+IM 134725
+IM 134728
+IM 134729
+IM 134740
+IM 134741
+IM 134743
+IM 134744
+IM 134753
+IM 134754
+IM 134768
+IM 134832
+IM 134834
+IM 134837
+IM 134840
+IM 134841
+IM 134868
+IM 134869
+IM 134870
+IM 134871
+IM 134872
+IM 134875
+IM 134880
+IM 134881
+IM 134882
+IM 134892,1
+IM 134898
+IM 134902
+IM 134904
+IM 134907
+IM 134908
+IM 134913
+IM 134915
+IM 134916
+IM 134918
+IM 134919
+IM 134944
+IM 134945
+IM 134946
+IM 134947
+IM 134950
+IM 134951
+IM 134959
+IM 134960
+IM 134961
+IM 134965
+IM 134967
+IM 134970
+IM 134977
+IM 134996
+IM 135038
+IM 135653
+PCTSC, MS 3007
+PCTSC, MS 3008
+PCTSC, MS 3009
+PCTSC, MS 3010
+MS 3160
+PCTSC, MS 3161
+MS 3162
+MS 3163
+MS 3166
+MS 3167
+MS 3171
+PCTSC, MS 4484
+PCTSC, MS 4485
+PCTSC, MS 4530
+PCTSC, MS 4552
+MS 5052
+MSVO 4, 75
+IM —
+IM —
+IM 064798
+IM —
+IM 133638
+IM —
+VA ?
+VA ?
+VA ?
+VA ?
+VA ?
+VA ?
+VA ?
+VA ?
+VA ?
+VA ?
+IM —
+IM —
+IM —
+IM —
+IM —
+IM —
+IM —
+IM —
+IM —
+IM —
+IM —
+IM —
+IM —
+IM —
+IM —
+IM —
+IM —
+IM —
+IM —
+IM —
+IM —
+IM —
+IM —
+IM —
+IM —
+IM —
+IM —
+IM —
+IM —
+IM —
+IM —
+IM —
+IM —
+IM —
+IM —
+IM —
+IM —
+IM —
+IM —
+IM —
+IM —
+IM —
+IM —
+IM —
+IM —
+IM —
+IM —
+IM —
+IM —
+IM —
+IM —
+IM —
+IM —
+IM —
+IM —
+IM —
+IM —
+IM —
+IM —
+IM —
+IM —
+IM —
+IM —
+IM —
+IM —
+IM —
+IM —
+IM —
