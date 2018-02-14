@@ -14,7 +14,7 @@ Nodes and edges can be annotated with supplemental information. Text-Fabric
 support 3 section levels. You may point to three types of nodes and declare them
 to be sections of level 1, 2 and 3.
 
-SLots and node types
+Slots and node types
 ====================
 
 We discuss the node types we are going to construct. A node type corresponds to
