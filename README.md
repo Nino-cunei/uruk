@@ -45,7 +45,7 @@ This is **work in progress!**
     We do not yet generate any Text-Fabric data. The sub-line parsing will be the
     most work.
 
-Gettin started
+Getting started
 ==============
 
 Start with the
