@@ -16,6 +16,8 @@ SOURCE_DIR = f'{REPO_DIR}/sources/{ORIGIN}'
 TEMP_DIR = f'{REPO_DIR}/_temp'
 EXPORT_FILE = f'{TEMP_DIR}/cldi_uruk.txt'
 
+# -1 is unlimited
+
 LIMIT = -1
 
 SHOWCASES = set(
@@ -330,7 +332,7 @@ def parseCorpora(export=False):
                         prevObject = curTablet.get('object', None)
                         newObject = (
                             ident if prevObject is None else
-                            f'{prevObject}\\n{ident}'
+                            f'{prevObject}\n{ident}'
                         )
                         curTablet['object'] = newObject
                 elif kind == 'fragment':
@@ -411,7 +413,7 @@ def parseCorpora(export=False):
                     prevCrossref = curLine.get('crossref', None)
                     newCrossref = (
                         crossref if prevCrossref is None else
-                        f'{prevCrossref}\\n{crossref}'
+                        f'{prevCrossref}\n{crossref}'
                     )
                     curLine['crossref'] = newCrossref
         elif fc in COMMENTS:
@@ -424,7 +426,7 @@ def parseCorpora(export=False):
             else:
                 prevComment = target.get('comments', None)
                 newComment = (
-                    line if prevComment is None else f'{prevComment}\\n{line}'
+                    line if prevComment is None else f'{prevComment}\n{line}'
                 )
                 target['comments'] = newComment
         else:
