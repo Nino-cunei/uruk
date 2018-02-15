@@ -59,7 +59,6 @@ specificMetaData = dict(
     ),
     name='name of tablet',
     period='period indication of tablet',
-    comments='various kinds of comments: # lines and $ lines',
     srcLn='transcribed line',
     srcLnNum='line number in transcription file',
     type='type of a face',
@@ -69,7 +68,6 @@ specificMetaData = dict(
     uncertain='corresponds to ?-flag in transcription',
     damage='corresponds to #-flag in transcription',
     modifier='corresponds to @x in transcription',
-    object='specific comments on a tablet',
     identifier='additional information pertaining to the name of a face',
     remarkable='corresponds to ! flag in transcription ',
     written='corresponds to !(xxx) flag in transcription',
@@ -329,12 +327,10 @@ def parseCorpora(export=False):
                     elif curFace is not None:
                         error('object within face', p, curTablet or {})
                     else:
-                        prevObject = curTablet.get('object', None)
-                        newObject = (
-                            ident if prevObject is None else
-                            f'{prevObject}\n{ident}'
-                        )
-                        curTablet['object'] = newObject
+                        curTablet.setdefault('comments', []).append({
+                            'srcLn': line,
+                            'srcLnNum': ln,
+                        })
                 elif kind == 'fragment':
                     if curTablet is None:
                         error('fragment outside tablet', p, curTablet or {})
@@ -424,11 +420,10 @@ def parseCorpora(export=False):
             if target is None:
                 error('Comment outside tablet', p, curTablet or {})
             else:
-                prevComment = target.get('comments', None)
-                newComment = (
-                    line if prevComment is None else f'{prevComment}\n{line}'
-                )
-                target['comments'] = newComment
+                target.setdefault('comments', []).append({
+                    'srcLn': line,
+                    'srcLnNum': ln,
+                })
         else:
             if curColumn is None:
                 diag(
@@ -843,8 +838,11 @@ def makeTf(tablets):
     curSlot = 0
     context = []
     nodeFeatures = collections.defaultdict(dict)
-    edgeFeatures = collections.defaultdict(
+    edgeFeaturesV = collections.defaultdict(
         lambda: collections.defaultdict(dict)
+    )
+    edgeFeatures = collections.defaultdict(
+        lambda: collections.defaultdict(set)
     )
     oSlots = collections.defaultdict(set)
 
@@ -856,14 +854,13 @@ def makeTf(tablets):
             catalogId
             name
             period
-            object
-            comments
             srcLn
             srcLnNum
         '''.strip().split():
             if ft in tablet:
                 nodeFeatures[ft][(nodeType, curNode)] = tablet[ft]
         context.append((nodeType, curNode))
+        doComments(tablet, 'tablet')
         faces = tablet.get('faces', [])
         for face in faces:
             doFace(face)
@@ -880,7 +877,6 @@ def makeTf(tablets):
             type
             identifier
             fragment
-            comments
             srcLn
             srcLnNum
         '''.strip().split():
@@ -888,6 +884,7 @@ def makeTf(tablets):
                 nodeFeatures[ft][(nodeType, curNode)] = face[ft]
 
         context.append((nodeType, curNode))
+        doComments(face, 'face')
         columns = face.get('columns', [])
         for column in columns:
             doColumn(column)
@@ -907,6 +904,7 @@ def makeTf(tablets):
             if ft in column:
                 nodeFeatures[ft][(nodeType, curNode)] = column[ft]
         context.append((nodeType, curNode))
+        doComments(column, 'column')
         cases = column.get('cases', {})
         doCases(cases)
         if not cases:
@@ -932,7 +930,6 @@ def makeTf(tablets):
         curNode = cur[nodeType]
         for ft in '''
             number
-            comments
             srcLn
             srcLnNum
         '''.strip().split():
@@ -940,10 +937,29 @@ def makeTf(tablets):
                 nodeFeatures[ft][(nodeType, curNode)] = line[ft]
         material = line.get('material', {})
         context.append((nodeType, curNode))
+        doComments(line, 'line')
         hasQuads = doClusters(material)
         if not material or not hasQuads:
             doEmptySign()
         context.pop()
+
+    def doComments(thing, thingType):
+        nodeType = 'comment'
+        for comment in thing.get('comments', []):
+            cur[nodeType] += 1
+            curNode = cur[nodeType]
+            for ft in '''
+                srcLn
+                srcLnNum
+            '''.strip().split():
+                if ft in comment:
+                    nodeFeatures[ft][(nodeType, curNode)] = comment[ft]
+            edgeFeatures['comments'][(thingType, cur[thingType])].add(
+                (nodeType, curNode)
+            )
+            context.append((nodeType, curNode))
+            doEmptySign()
+            context.pop()
 
     def doClusters(material):
         clusters = material.get('clusters', [])
@@ -982,7 +998,7 @@ def makeTf(tablets):
         if q > 1:
             op = prevQuad.get('op', None)
             if op is not None:
-                edgeFeatures['op'][(prevType, prevNode)][(nodeType,
+                edgeFeaturesV['op'][(prevType, prevNode)][(nodeType,
                                                           curNode)] = op
         doInfo(quad, curNode, nodeType)
         context.append((nodeType, curNode))
@@ -1065,13 +1081,21 @@ def makeTf(tablets):
         for ((nodeType, node), value) in featureData.items():
             newFeatureData[nodeOffset[nodeType] + node] = value
         newNodeFeatures[ft] = newFeatureData
-    for (ft, featureData) in edgeFeatures.items():
+    for (ft, featureData) in edgeFeaturesV.items():
         newFeatureData = {}
         for ((nodeType, node), targets) in featureData.items():
             for ((targetType, targetNode), value) in targets.items():
                 newFeatureData.setdefault(
                     nodeOffset[nodeType] + node, {}
                 )[nodeOffset[targetType] + targetNode] = value
+        newEdgeFeatures[ft] = newFeatureData
+    for (ft, featureData) in edgeFeatures.items():
+        newFeatureData = {}
+        for ((nodeType, node), targets) in featureData.items():
+            for (targetType, targetNode) in targets:
+                newFeatureData.setdefault(
+                    nodeOffset[nodeType] + node, set()
+                ).add(nodeOffset[targetType] + targetNode)
         newEdgeFeatures[ft] = newFeatureData
     newOslots = {}
     for ((nodeType, node), slots) in oSlots.items():

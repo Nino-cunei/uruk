@@ -10,9 +10,9 @@
 @valueType=str
 @version=0.1
 @writtenBy=Text-Fabric
-@dateWritten=2018-02-15T10:29:28Z
+@dateWritten=2018-02-15T15:48:04Z
 
-125823	HJN 0044
+141351	HJN 0044
 HJN 0045
 www archaeo-auction 003
 www archaeo-auction 004

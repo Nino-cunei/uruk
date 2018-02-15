@@ -1,7 +1,6 @@
-@node
+@edge
 @dataset=uruk
 @datasetName=Cuneiform tablets from the Uruk IV-III period
-@description=various kinds of comments: # lines and $ lines
 @email1=https://www.universiteitleiden.nl/en/staffmembers/cale-johnson#tab-1
 @email2=dirk.roorda@dans.knaw.nl
 @encoders=CDLI (transcription),Cale Johnson (expertise)and Dirk Roorda (TF)
@@ -10,9025 +9,10329 @@
 @valueType=str
 @version=0.1
 @writtenBy=Text-Fabric
-@dateWritten=2018-02-15T10:29:27Z
+@dateWritten=2018-02-15T15:48:05Z
 
-125823	#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc
-#atf: lang qpc
-#atf: lang qpc
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc
-#atf: lang qpc 
-#atf: lang qpc 
-#version: 0.1\n#atf: lang qpc
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#version: 0.1\n#atf: lang qpc
-#atf: lang qpc 
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#atf: lang qpc 
-#atf: lang qpc 
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#atf: lang qpc 
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#atf: lang qpc 
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#atf: lang qpc \n# fragmentary 
-#atf: lang qpc \n# fragmentary 
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc\n#atf: use alignment-groups\n#atf: use mylines
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#atf: lang qpc 
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#atf: lang qpc 
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#atf: lang qpc \n# fragmentary 
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#atf: lang qpc \n# fragmentary 
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#atf: lang qpc \n# fragmentary 
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#atf: lang qpc \n# fragmentary 
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#atf: lang qpc 
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#atf: lang qpc 
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#atf: lang qpc 
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#atf: lang qpc 
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#atf: lang qpc 
-#atf: lang qpc 
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#atf: lang qpc 
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#atf: lang qpc 
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#atf: lang qpc 
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#atf: lang qpc 
-#version: 0.1\n#atf: lang qpc
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: use lexical \n#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang npc
-#atf: lang qpc
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang nlc 
-#atf: lang sux 
-#atf: lang sux 
-#atf: lang sux 
-#atf: lang qpc 
-#atf: lang nlc 
-#atf: lang nlc 
-#atf: lang nlc 
-#atf: lang nlc 
-#atf: lang nlc 
-#atf: lang nlc 
-#atf: lang nlc 
-#atf: lang nlc 
-#atf: lang nlc 
-#atf: lang nlc 
-#atf: lang nlc 
-#atf: lang nlc 
-#atf: lang nlc 
-#atf: lang nlc 
-#atf: lang nlc 
-#atf: lang nlc 
-#atf: lang nlc 
-#atf: lang nlc 
-#atf: lang nlc 
-#atf: lang nlc 
-#atf: lang nlc 
-#atf: lang nlc 
-#atf: lang nlc 
-#atf: lang nlc 
-#atf: lang nlc 
-#atf: lang nlc 
-#atf: lang nlc 
-#atf: lang nlc 
-#atf: lang nlc 
-#atf: lang nlc 
-#atf: lang nlc 
-#atf: lang nlc 
-#atf: lang nlc 
-#atf: lang nlc 
-#atf: lang nlc 
-#atf: lang nlc 
-#atf: lang nlc 
-#atf: lang nlc 
-#atf: lang nlc 
-#atf: lang nlc 
-#atf: lang nlc 
-#atf: lang nlc 
-#atf: lang nlc 
-#atf: lang nlc 
-#atf: lang nlc 
-#atf: lang nlc 
-#atf: lang nlc 
-#atf: lang nlc 
-#atf: lang nlc 
-#atf: lang nlc 
-#atf: lang nlc 
-#atf: lang nlc 
-#atf: lang nlc 
-#atf: lang nlc 
-#atf: lang nlc 
-#atf: lang nlc 
-#atf: lang nlc 
-#atf: lang nlc 
-#atf: lang nlc 
-#atf: lang nlc 
-#atf: lang nlc 
-#atf: lang nlc 
-#atf: lang nlc 
-#atf: lang nlc 
-#atf: lang nlc 
-#atf: lang nlc 
-#atf: lang nlc 
-#atf: lang nlc 
-#atf: lang nlc 
-#atf: lang nlc 
-#atf: lang nlc 
-#atf: lang nlc 
-#atf: lang nlc 
-#atf: lang nlc 
-#atf: lang nlc 
-#atf: lang nlc 
-#atf: lang nlc 
-#atf: lang nlc 
-#atf: lang nlc 
-#atf: lang nlc 
-#atf: lang nlc 
-#atf: lang nlc 
-#atf: lang nlc 
-#atf: lang nlc 
-#atf: lang nlc 
-#atf: lang nlc 
-#atf: lang nlc 
-#atf: lang nlc 
-#atf: lang nlc 
-#atf: lang nlc 
-#atf: lang nlc 
-#atf: lang nlc 
-#atf: lang nlc 
-#atf: lang nlc 
-#atf: lang nlc 
-#atf: lang nlc 
-#atf: lang nlc 
-#atf: lang nlc 
-#atf: lang nlc 
-#atf: lang nlc 
-#atf: lang nlc 
-#atf: lang nlc 
-#atf: lang nlc 
-#atf: lang nlc 
-#atf: lang nlc 
-#atf: lang nlc 
-#atf: lang nlc 
-#atf: lang nlc 
-#atf: lang nlc 
-#atf: lang nlc 
-#atf: lang nlc 
-#atf: lang nlc 
-#atf: lang sux 
-#atf: lang sux 
-#atf: lang nlc 
-#atf: lang sux 
-#atf: lang nlc 
-#atf: lang sux 
-#atf: lang sux 
-#atf: lang sux 
-#atf: lang nlc 
-#atf: lang nlc 
-#atf: lang nlc 
-#atf: lang nlc 
-#atf: lang sux 
-#atf: lang sux 
-#atf: lang nlc 
-#atf: lang nlc 
-#atf: lang nlc 
-#atf: lang nlc 
-#atf: lang nlc 
-#atf: lang nlc 
-#atf: lang sux 
-#atf: lang nlc 
-#atf: lang sux 
-#atf: lang sux 
-#atf: lang sux 
-#atf: lang nlc 
-#atf: lang sux 
-#atf: lang nlc 
-#atf: lang nlc 
-#atf: lang nlc 
-#atf: lang nlc 
-#atf: lang sux 
-#atf: lang sux 
-#atf: lang sux 
-#atf: lang nlc 
-#atf: lang nlc 
-#atf: lang nlc 
-#atf: lang nlc 
-#atf: lang nlc 
-#atf: lang nlc 
-#atf: lang nlc 
-#atf: lang nlc 
-#atf: lang nlc 
-#atf: lang nlc 
-#atf: lang nlc 
-#atf: lang nlc 
-#atf: lang nlc 
-#atf: lang nlc 
-#atf: lang nlc 
-#atf: lang nlc 
-#atf: lang nlc 
-#atf: lang nlc 
-#atf: lang nlc 
-#atf: lang nlc 
-#atf: lang nlc 
-#atf: lang nlc 
-#atf: lang nlc 
-#atf: lang nlc 
-#atf: lang nlc 
-#atf: lang nlc 
-#atf: lang nlc 
-#atf: lang nlc 
-#atf: lang nlc 
-#atf: lang nlc 
-#atf: lang nlc 
-#atf: lang nlc 
-#atf: lang nlc 
-#atf: lang nlc 
-#atf: lang nlc 
-#atf: lang nlc 
-#atf: lang nlc 
-#atf: lang nlc 
-#atf: lang nlc 
-#atf: lang nlc 
-#atf: lang nlc 
-#atf: lang nlc 
-#atf: lang nlc 
-#atf: lang nlc 
-#atf: lang nlc 
-#atf: lang nlc 
-#atf: lang nlc 
-#atf: lang nlc 
-#atf: lang nlc 
-#atf: lang nlc 
-#atf: lang nlc 
-#atf: lang nlc 
-#atf: lang nlc 
-#atf: lang nlc 
-#atf: lang nlc 
-#atf: lang nlc 
-#atf: lang nlc 
-#atf: lang nlc 
-#atf: lang nlc 
-#atf: lang nlc 
-#atf: lang nlc 
-#atf: lang nlc 
-#atf: lang nlc 
-#atf: lang nlc 
-#atf: lang nlc 
-#atf: lang nlc 
-#atf: lang nlc 
-#atf: lang nlc 
-#atf: lang nlc 
-#atf: lang nlc 
-#atf: lang nlc 
-#atf: lang nlc 
-#atf: lang nlc 
-#atf: lang nlc 
-#atf: lang nlc 
-#atf: lang nlc 
-#atf: lang nlc 
-#atf: lang nlc 
-#atf: lang nlc 
-#atf: lang nlc 
-#atf: lang nlc 
-#atf: lang nlc 
-#atf: lang nlc 
-#atf: lang nlc 
-#atf: lang nlc 
-#atf: lang nlc 
-#atf: lang nlc 
-#atf: lang nlc 
-#atf: lang nlc 
-#atf: lang nlc 
-#atf: lang nlc 
-#atf: lang nlc 
-#atf: lang nlc 
-#atf: lang nlc 
-#atf: lang nlc 
-#atf: lang nlc 
-#atf: lang nlc 
-#atf: lang nlc 
-#atf: lang nlc 
-#atf: lang nlc 
-#atf: lang nlc 
-#atf: lang nlc 
-#atf: lang nlc 
-#atf: lang nlc 
-#atf: lang nlc 
-#atf: lang nlc 
-#atf: lang nlc 
-#atf: lang nlc 
-#atf: lang nlc 
-#atf: lang nlc 
-#atf: lang nlc 
-#atf: lang nlc 
-#atf: lang nlc 
-#atf: lang nlc 
-#atf: lang nlc 
-#atf: lang nlc 
-#atf: lang nlc 
-#atf: lang nlc 
-#atf: lang nlc 
-#atf: lang nlc 
-#atf: lang nlc 
-#atf: lang nlc 
-#atf: lang nlc 
-#atf: lang nlc 
-#atf: lang nlc 
-#atf: lang nlc 
-#atf: lang nlc 
-#atf: lang nlc 
-#atf: lang nlc 
-#atf: lang nlc 
-#atf: lang nlc 
-#atf: lang nlc 
-#atf: lang nlc 
-#atf: lang nlc 
-#atf: lang nlc 
-#atf: lang nlc 
-#atf: lang nlc 
-#atf: lang nlc 
-#atf: lang nlc 
-#atf: lang nlc 
-#atf: lang nlc 
-#atf: lang nlc 
-#atf: lang nlc 
-#atf: lang nlc 
-#atf: lang nlc 
-#atf: lang nlc 
-#atf: lang nlc 
-#atf: lang nlc 
-#atf: lang nlc 
-#atf: lang nlc 
-#atf: lang nlc 
-#atf: lang nlc 
-#atf: lang nlc 
-#atf: lang nlc 
-#atf: lang nlc 
-#atf: lang nlc 
-#atf: lang nlc 
-#atf: lang nlc 
-#atf: lang nlc 
-#atf: lang nlc 
-#atf: lang nlc 
-#atf: lang nlc 
-#atf: lang nlc 
-#atf: lang nlc 
-#atf: lang nlc 
-#atf: lang nlc 
-#atf: lang nlc 
-#atf: lang nlc 
-#atf: lang nlc 
-#atf: lang nlc 
-#atf: lang nlc 
-#atf: lang nlc 
-#atf: lang nlc 
-#atf: lang nlc 
-#atf: lang nlc 
-#atf: lang nlc 
-#atf: lang nlc 
-#atf: lang nlc 
-#atf: lang nlc 
-#atf: lang nlc 
-#atf: lang nlc 
-#atf: lang nlc 
-#atf: lang nlc 
-#atf: lang nlc 
-#atf: lang nlc 
-#atf: lang nlc 
-#atf: lang nlc 
-#atf: lang nlc 
-#atf: lang nlc 
-#atf: lang nlc 
-#atf: lang nlc 
-#atf: lang nlc 
-#atf: lang nlc 
-#atf: lang nlc 
-#atf: lang nlc 
-#atf: lang nlc 
-#atf: lang nlc 
-#atf: lang nlc 
-#atf: lang nlc 
-#atf: lang nlc 
-#atf: lang nlc 
-#atf: lang nlc 
-#atf: lang nlc 
-#atf: lang nlc 
-#atf: lang nlc 
-#atf: lang nlc 
-#atf: lang nlc 
-#atf: lang nlc 
-#atf: lang nlc 
-#atf: lang nlc 
-#atf: lang nlc 
-#atf: lang nlc 
-#atf: lang nlc 
-#atf: lang nlc 
-#atf: lang nlc 
-#atf: lang nlc 
-#atf: lang nlc 
-#atf: lang nlc 
-#atf: lang nlc 
-#atf: lang nlc 
-#atf: lang nlc 
-#atf: lang nlc 
-#atf: lang nlc 
-#atf: lang nlc 
-#atf: lang nlc 
-#atf: lang nlc 
-#atf: lang nlc 
-#atf: lang nlc 
-#atf: lang nlc 
-#atf: lang nlc 
-#atf: lang nlc 
-#atf: lang nlc 
-#atf: lang nlc 
-#atf: lang nlc 
-#atf: lang nlc 
-#atf: lang nlc 
-#atf: lang nlc 
-#atf: lang nlc 
-#atf: lang nlc 
-#atf: lang nlc 
-#atf: lang nlc 
-#atf: lang nlc 
-#atf: lang nlc 
-#atf: lang nlc 
-#atf: lang nlc 
-#atf: lang nlc 
-#atf: lang nlc 
-#atf: lang nlc 
-#atf: lang nlc 
-#atf: lang nlc 
-#atf: lang nlc 
-#atf: lang nlc 
-#atf: lang nlc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#atf: lang qpc 
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#atf: lang qpc 
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#atf: lang qpc 
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#atf: lang qpc 
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#atf: lang qpc 
-#atf: lang qpc 
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#atf: lang qpc 
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#version: 0.1\n#atf: lang qpc
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#version: 0.1\n#atf: lang qpc
-#atf: lang qpc 
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#atf: lang qpc 
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#atf: lang qpc 
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#atf: lang qpc 
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#atf: lang qpc 
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#atf: lang qpc 
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#atf: lang qpc 
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#atf: lang qpc 
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#atf: lang qpc 
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#atf: lang qpc 
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#atf: lang qpc 
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#atf: lang qpc 
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#atf: lang qpc 
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#atf: lang qpc 
-#atf: lang qpc 
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#atf: lang qpc 
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#atf: lang qpc 
-#atf: lang qpc 
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#atf: lang qpc 
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#atf: lang qpc 
-#version: 0.1\n#atf: lang qpc
-#atf: lang qpc 
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#atf: lang qpc 
-#atf: lang qpc 
-#version: 0.1\n#atf: lang qpc
-#atf: lang qpc 
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#atf: lang qpc 
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#atf: lang qpc 
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#atf: lang qpc 
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#atf: lang qpc 
-#version: 0.1\n#atf: lang qpc
-#atf: lang qpc 
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#atf: lang qpc 
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#atf: lang qpc 
-#version: 0.1\n#atf: lang qpc
-#atf: lang qpc 
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#atf: lang qpc 
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#atf: lang qpc 
-#atf: lang qpc 
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#atf: lang qpc 
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#atf: lang qpc 
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#atf: lang qpc 
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#atf: lang qpc 
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#atf: lang qpc 
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#atf: lang qpc 
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#atf: lang qpc 
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#atf: lang qpc 
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#atf: lang qpc 
-#version: 0.1\n#atf: lang qpc
-#atf: lang qpc 
-#version: 0.1\n#atf: lang qpc
-#atf: lang qpc 
-#version: 0.1\n#atf: lang qpc
-#atf: lang qpc 
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#atf: lang qpc 
-#version: 0.1\n#atf: lang qpc
-#atf: lang qpc 
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#atf: lang qpc 
-#version: 0.1\n#atf: lang qpc
-#atf: lang qpc 
-#version: 0.1\n#atf: lang qpc
-#atf: lang qpc 
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#atf: lang qpc 
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#atf: lang qpc 
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#atf: lang qpc 
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#atf: lang qpc 
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#atf: lang qpc 
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#atf: lang qpc 
-#version: 0.1\n#atf: lang qpc
-#atf: lang npc 
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#atf: lang qpc 
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#atf: lang qpc 
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#atf: lang qpc 
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#atf: lang qpc 
-#atf: lang qpc 
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#atf: lang qpc 
-#atf: lang qpc 
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#atf: lang qpc 
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#atf: lang qpc 
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#atf: lang qpc 
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#atf: lang qpc \n# fragmentary 
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#atf: lang qpc \n# fragmentary 
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#atf: lang qpc \n# fragmentary 
-#version: 0.1\n#atf: lang qpc
-#atf: lang qpc 
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#atf: lang qpc 
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#atf: lang qpc 
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang nlc 
-#atf: lang sux 
-#atf: lang nlc 
-#atf: lang nlc 
-#atf: lang nlc 
-#atf: lang nlc 
-#atf: lang nlc 
-#atf: lang nlc 
-#atf: lang nlc 
-#atf: lang nlc 
-#atf: lang nlc 
-#atf: lang nlc 
-#atf: lang nlc 
-#atf: lang nlc 
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc \n# unopened 
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc\n#atf: use alignment-groups\n#atf: use mylines@obverse
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#atf: lang qpc 
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#atf: lang qpc 
-#version: 0.1\n#atf: lang qpc
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#atf: lang qpc 
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#atf: lang qpc 
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-#version: 0.1\n#atf: lang qpc
-140152	$ (not imaged) 
-140154	$ (not imaged) 
-140156	$ (not imaged) 
-140158	$ beginning broken 
-140160	$ (not given) 
-140162	$ (not given) 
-140166	$ blank space 
-140168	$ blank space 
-140175	$ broken 
-140180	$ blank space 
-140184	$ blank space 
-140186	$ blank space 
-140188	$ broken 
-140190	$ blank space 
-$ beginning broken 
-140193	$ beginning broken 
-140199	$ blank space \n# scrunched together  
-140208	$ blank space  
-140210	$ blank space  
-140350	$ beginning broken 
-$ broken 
-$ beginning broken 
-$ broken 
-140396	$ beginning broken \n$ blank space 
-$ blank space \n$ broken 
-140551	$ broken 
-$ beginning broken 
-$ broken 
-140834	$ beginning broken 
-$ broken 
-140839	$ beginning broken 
-$ broken 
-140844	$ beginning broken 
-$ broken 
-141086	$ beginning broken 
-$ broken 
-141139	$ beginning broken 
-141141	$ blank space  
-141293	$ blank space 
-141379	$ blank space 
-141833	$ beginning broken 
-141835	$ beginning broken 
-141843	$ beginning broken 
-141853	$ beginning broken 
-141873	$ beginning broken 
-141875	$ beginning broken 
-141883	$ beginning broken 
-141885	$ beginning broken 
-141893	$ beginning broken 
-141895	$ beginning broken 
-141913	$ beginning broken 
-141931	$ beginning broken 
-141933	$ beginning broken 
-141945	$ beginning broken 
-141953	$ beginning broken 
-141969	$ beginning broken 
-141977	$ beginning broken 
-141989	$ beginning broken 
-141997	$ beginning broken 
-141999	$ beginning broken 
-142001	$ beginning broken 
-142003	$ beginning broken 
-142011	$ beginning broken 
-142019	$ beginning broken 
-142023	$ beginning broken 
-142025	$ beginning broken 
-142031	$ beginning broken 
-142033	$ beginning broken 
-142035	$ beginning broken 
-142053	$ beginning broken 
-142067	$ beginning broken 
-142074	$ beginning broken 
-142095	$ beginning broken 
-142124	$ beginning broken 
-142126	$ beginning broken 
-142128	$ beginning broken 
-142130	$ beginning broken 
-142134	$ beginning broken 
-142136	$ beginning broken 
-142138	$ beginning broken 
-142140	$ beginning broken 
-142142	$ beginning broken 
-142144	$ beginning broken 
-142146	$ beginning broken 
-142148	$ beginning broken 
-142150	$ beginning broken 
-142152	$ beginning broken 
-142154	$ beginning broken 
-142156	$ beginning broken 
-142159	$ (not given) 
-142175	$ beginning broken 
-142177	$ beginning broken 
-142181	$ beginning broken 
-142183	$ beginning broken 
-142186	$ beginning broken 
-142188	$ beginning broken 
-142190	$ beginning broken 
-142192	$ beginning broken 
-142194	$ beginning broken 
-142196	$ beginning broken 
-142198	$ beginning broken 
-142200	$ beginning broken 
-142202	$ beginning broken 
-142207	$ beginning broken 
-142209	$ beginning broken 
-142211	$ beginning broken 
-142213	$ beginning broken 
-142217	$ beginning broken 
-142219	$ beginning broken 
-$ beginning broken 
-142222	$ beginning broken 
-142224	$ beginning broken 
-142229	$ beginning broken 
-142239	$ beginning broken 
-142242	$ beginning broken 
-142251	$ beginning broken 
-142253	$ beginning broken 
-142255	$ beginning broken 
-142257	$ beginning broken 
-142259	$ beginning broken 
-$ beginning broken 
-$ beginning broken 
-142263	$ beginning broken 
-142265	$ beginning broken 
-142267	$ beginning broken 
-142269	$ beginning broken 
-142271	$ beginning broken 
-142273	$ beginning broken 
-142281	$ beginning broken 
-142285	$ beginning broken 
-142287	$ beginning broken 
-142289	$ beginning broken 
-142291	$ beginning broken 
-142374	$ beginning broken 
-142376	$ beginning broken 
-142380	$ beginning broken 
-142382	$ beginning broken 
-142384	$ beginning broken 
-142390	$ beginning broken 
-142392	$ beginning broken 
-142396	$ beginning broken 
-142398	$ beginning broken 
-142400	$ beginning broken 
-142402	$ beginning broken 
-142404	$ beginning broken 
-142406	$ beginning broken 
-142408	$ beginning broken 
-142410	$ beginning broken 
-142412	$ beginning broken 
-142414	$ beginning broken 
-142416	$ beginning broken 
-142418	$ beginning broken 
-142420	$ beginning broken 
-142422	$ beginning broken 
-142424	$ beginning broken 
-142426	$ beginning broken 
-142428	$ beginning broken 
-142430	$ beginning broken 
-142432	$ beginning broken 
-142434	$ beginning broken 
-142436	$ beginning broken 
-142438	$ beginning broken 
-142440	$ beginning broken 
-142442	$ beginning broken 
-142444	$ beginning broken 
-142446	$ beginning broken 
-142448	$ beginning broken 
-142450	$ beginning broken 
-142452	$ beginning broken 
-142454	$ beginning broken 
-142456	$ beginning broken 
-142458	$ beginning broken 
-142462	$ beginning broken 
-142464	$ beginning broken 
-142466	$ beginning broken 
-142468	$ beginning broken 
-142470	$ beginning broken 
-142472	$ beginning broken 
-142476	$ beginning broken 
-142482	$ beginning broken 
-142484	$ beginning broken 
-142511	$ beginning broken 
-142529	$ beginning broken 
-142533	$ beginning broken 
-142535	$ beginning broken 
-142539	$ beginning broken 
-142541	$ beginning broken 
-142543	$ beginning broken 
-142547	$ beginning broken 
-142551	$ beginning broken 
-142553	$ beginning broken 
-142555	$ beginning broken 
-142557	$ beginning broken 
-142559	$ beginning broken 
-142561	$ beginning broken 
-142563	$ beginning broken 
-142565	$ beginning broken 
-142567	$ beginning broken 
-142569	$ beginning broken 
-142571	$ beginning broken 
-142573	$ beginning broken 
-142575	$ beginning broken 
-142577	$ beginning broken 
-142579	$ beginning broken 
-142581	$ beginning broken 
-142583	$ beginning broken 
-142585	$ beginning broken 
-142587	$ beginning broken 
-142589	$ beginning broken 
-142596	$ beginning broken 
-142600	$ beginning broken 
-142604	$ beginning broken 
-142606	$ beginning broken 
-142608	$ beginning broken 
-142612	$ beginning broken 
-142616	$ beginning broken 
-142649	$ beginning broken 
-142655	$ beginning broken 
-142657	$ beginning broken 
-142693	$ beginning broken 
-142695	$ beginning broken 
-142697	$ beginning broken 
-142699	$ beginning broken 
-142701	$ beginning broken 
-142703	$ beginning broken 
-142705	$ beginning broken 
-142707	$ beginning broken 
-142709	$ beginning broken 
-142711	$ beginning broken 
-142713	$ beginning broken 
-142715	$ beginning broken 
-142717	$ beginning broken 
-142719	$ beginning broken 
-142721	$ beginning broken 
-142723	$ beginning broken 
-142725	$ beginning broken 
-142730	$ beginning broken 
-142742	$ beginning broken 
-142744	$ beginning broken 
-142746	$ beginning broken 
-142748	$ beginning broken 
-142750	$ beginning broken 
-142752	$ beginning broken 
-142756	$ beginning broken  
-142758	$ beginning broken  
-142760	$ beginning broken  
-142762	$ beginning broken  
-142764	$ beginning broken 
-$ beginning broken 
-$ broken 
-$ beginning broken 
-$ broken 
-142771	$ beginning broken 
-142773	$ beginning broken 
-142775	$ beginning broken 
-142777	$ beginning broken 
-142790	$ blank space 
-$ beginning broken 
-142795	$ beginning broken 
-$ broken 
-$ beginning broken 
-$ broken 
-$ beginning broken 
-$ broken 
-142802	$ broken 
-$ beginning broken 
-$ broken 
-142806	$ broken 
-142808	$ broken 
-142810	$ broken 
-$ beginning broken 
-$ broken 
-142814	$ broken 
-142816	$ blank space 
-$ beginning broken 
-$ broken 
-$ beginning broken 
-$ broken 
-$ beginning broken 
-$ broken 
-$ beginning broken 
-$ broken 
-$ beginning broken 
-$ broken 
-$ beginning broken 
-$ broken 
-$ beginning broken 
-$ blank space 
-$ beginning broken 
-$ blank space 
-142834	$ blank space 
-$ beginning broken 
-$ blank space 
-$ beginning broken 
-$ broken 
-$ beginning broken 
-$ broken 
-$ beginning broken 
-$ broken 
-$ beginning broken 
-$ beginning broken 
-142846	$ broken 
-$ beginning broken 
-$ broken 
-$ beginning broken 
-$ broken 
-142852	$ broken 
-$ beginning broken 
-$ broken 
-$ beginning broken 
-$ broken 
-$ beginning broken 
-$ broken 
-142860	$ broken 
-$ beginning broken 
-$ broken 
-$ beginning broken 
-$ broken 
-$ beginning broken 
-$ broken 
-$ beginning broken 
-$ broken 
-$ beginning broken 
-$ broken 
-142872	$ broken 
-142874	$ broken 
-$ beginning broken 
-142877	$ beginning broken 
-$ broken 
-$ beginning broken 
-$ broken 
-142883	$ broken 
-142885	$ beginning broken 
-$ broken 
-$ beginning broken 
-$ broken 
-$ beginning broken 
-$ broken 
-$ beginning broken 
-$ broken 
-$ beginning broken 
-$ broken 
-$ beginning broken 
-$ broken 
-$ beginning broken 
-$ broken 
-$ beginning broken 
-$ broken 
-$ broken 
-142903	$ broken 
-142905	$ beginning broken 
-$ broken 
-$ broken 
-142911	$ beginning broken 
-$ broken 
-$ beginning broken 
-142916	$ broken 
-142919	$ beginning broken 
-$ broken 
-$ beginning broken 
-$ broken 
-$ beginning broken 
-$ broken 
-$ beginning broken 
-$ broken 
-$ beginning broken 
-$ broken 
-$ beginning broken 
-$ broken 
-$ beginning broken 
-$ broken 
-$ beginning broken 
-$ broken 
-$ beginning broken 
-$ broken 
-$ beginning broken 
-$ broken 
-$ beginning broken 
-$ broken 
-142942	$ broken 
-142945	$ beginning broken 
-$ broken 
-142948	$ broken 
-$ beginning broken 
-$ broken 
-$ beginning broken 
-$ broken 
-$ beginning broken 
-$ broken 
-142956	$ (human design) 
-142959	$ beginning broken 
-$ broken 
-$ beginning broken 
-$ broken 
-142964	$ broken 
-142966	$ broken 
-$ beginning broken 
-$ broken 
-$ beginning broken 
-$ broken 
-$ beginning broken 
-$ broken 
-$ broken 
-142976	$ broken 
-142979	$ broken 
-142981	$ beginning broken 
-$ broken 
-$ broken 
-142985	$ beginning broken 
-$ broken 
-$ beginning broken 
-$ broken 
-$ beginning broken 
-$ broken 
-$ beginning broken 
-142995	$ beginning broken 
-$ broken 
-142998	$ broken 
-$ beginning broken 
-$ broken 
-$ beginning broken 
-$ beginning broken 
-$ beginning broken 
-143006	$ broken 
-143008	$ broken 
-143011	$ beginning broken 
-$ broken 
-$ beginning broken 
-$ broken 
-143016	$ broken 
-$ beginning broken 
-$ broken 
-$ beginning broken 
-$ broken 
-$ beginning broken 
-$ broken 
-143026	$ broken 
-$ beginning broken 
-$ broken 
-$ beginning broken 
-$ broken 
-$ beginning broken 
-$ broken 
-$ beginning broken 
-$ broken 
-$ beginning broken 
-$ broken 
-$ beginning broken 
-$ broken 
-$ beginning broken 
-$ broken 
-143048	$ (no linguistic content) 
-$ (no linguistic content) 
-$ (no linguistic content) 
-143052	$ (no legend) 
-$ (no linguistic content) 
-$ (no linguistic content) 
-$ (no linguistic content) 
-$ (no linguistic content) 
-$ (no linguistic content) 
-$ (no linguistic content) 
-$ (no linguistic content) 
-$ (no linguistic content) 
-$ (no linguistic content) 
-$ (no linguistic content) 
-$ (no linguistic content) 
-$ (no linguistic content) 
-$ (no linguistic content) 
-$ (no linguistic content) 
-$ (no linguistic content) 
-$ (no linguistic content) 
-$ (no linguistic content) 
-$ (no linguistic content) 
-$ (no linguistic content) 
-$ (no linguistic content) 
-$ (no linguistic content) 
-$ (no linguistic content) 
-$ (no linguistic content) 
-$ (no linguistic content) 
-$ (no linguistic content) 
-$ (no linguistic content) 
-$ (no linguistic content) 
-$ (no linguistic content) 
-$ (no linguistic content) 
-$ (no linguistic content) 
-$ (no linguistic content) 
-$ (no linguistic content) 
-$ (no linguistic content) 
-$ (no linguistic content) 
-$ (no linguistic content) 
-$ (no linguistic content) 
-$ (no linguistic content) 
-$ (no linguistic content) 
-$ (no linguistic content) 
-$ (no linguistic content) 
-$ (no linguistic content) 
-$ (no linguistic content) 
-$ (no linguistic content) 
-$ (no linguistic content) 
-$ (no linguistic content) 
-$ (no linguistic content) 
-$ (no linguistic content) 
-$ (no linguistic content) 
-$ (no linguistic content) 
-$ (no linguistic content) 
-$ (no linguistic content) 
-$ (no linguistic content) 
-$ (no linguistic content) 
-$ (no linguistic content) 
-$ (no linguistic content) 
-$ (no linguistic content) 
-$ (no linguistic content) 
-$ (no linguistic content) 
-$ (no linguistic content) 
-$ (no linguistic content) 
-$ (no linguistic content) 
-$ (no linguistic content) 
-$ (no linguistic content) 
-$ (no linguistic content) 
-$ (no linguistic content) 
-$ (no linguistic content) 
-$ (no linguistic content) 
-$ (no linguistic content) 
-$ (no linguistic content) 
-$ (no linguistic content) 
-$ (no linguistic content) 
-$ (no linguistic content) 
-$ (no linguistic content) 
-$ (no linguistic content) 
-$ (no linguistic content) 
-$ (no linguistic content) 
-$ (no linguistic content) 
-$ (no linguistic content) 
-$ (no linguistic content) 
-$ (no linguistic content) 
-$ (no linguistic content) 
-$ (no linguistic content) 
-$ (no linguistic content) 
-$ (no linguistic content) 
-$ (no linguistic content) 
-$ (no linguistic content) 
-$ (no linguistic content) 
-$ (no linguistic content) 
-$ (no linguistic content) 
-$ (no linguistic content) 
-$ (no linguistic content) 
-$ (no linguistic content) 
-$ (no linguistic content) 
-$ (no linguistic content) 
-$ (no linguistic content) 
-$ (no linguistic content) 
-$ (no linguistic content) 
-$ (no linguistic content) 
-$ (no linguistic content) 
-$ (no linguistic content) 
-$ (no linguistic content) 
-$ (no linguistic content) 
-$ (no linguistic content) 
-$ (no linguistic content) 
-$ (no linguistic content) 
-$ (no linguistic content) 
-$ (no linguistic content) 
-$ (no linguistic content) 
-$ (no linguistic content) 
-$ (no linguistic content) 
-$ (no linguistic content) 
-$ (no linguistic content) 
-$ (no linguistic content) 
-$ (no linguistic content) 
-$ (no linguistic content) 
-$ (no linguistic content) 
-$ (no linguistic content) 
-$ ( no linguistic content) 
-$ ( no linguistic content) 
-$ (no linguistic content) 
-$ (no linguistic content) 
-$ (no linguistic content) 
-$ (no linguistic content) 
-$ (no linguistic content) 
-$ (no linguistic content) 
-$ (no linguistic content) 
-$ (no linguistic content) 
-$ (no linguistic content) 
-$ (no linguistic content) 
-$ (no linguistic content) 
-$ (no linguistic content) 
-$ (no linguistic content) 
-$ (no linguistic content) 
-$ (no linguistic content) 
-$ ( no linguistic content) 
-$ (no linguistic content) 
-$ (no linguistic content) 
-$ (no linguistic content) 
-$ (no linguistic content)
-$ (no linguistic content) 
-$ (no linguistic content) 
-$ (no linguistic content) 
-$ (no linguistic content) 
-$ (no linguistic content) 
-$ (no linguistic content) 
-$ (no linguistic content) 
-$ (no linguistic content) 
-$ (no linguistic content) 
-$ (no linguistic content) 
-$ (no linguistic content) 
-$ (no linguistic content) 
-$ (no linguistic content) 
-$ (no linguistic content) 
-$ (no linguistic content) 
-$ (no linguistic content) 
-$ (no linguistic content) 
-$ (no linguistic content) 
-$ (no linguistic content) 
-$ (no linguistic content) 
-$ (no linguistic content) 
-$ (no linguistic content) 
-$ (no linguistic content) 
-$ (no linguistic content) 
-$ (no linguistic content) 
-$ (no linguistic content) 
-$ (no linguistic content) 
-$ (no linguistic content) 
-$ (no linguistic content) 
-$ (no linguistic content) 
-$ (no linguistic content) 
-$ (no linguistic content) 
-$ (no linguistic content) 
-$ (no linguistic content) 
-$ (no linguistic content) 
-$ (no linguistic content) 
-$ (no linguistic content) 
-$ (no linguistic content) 
-$ (no linguistic content) 
-$ (no linguistic content) 
-$ (no linguistic content) 
-$ (no linguistic content) 
-$ (no linguistic content) 
-$ (no linguistic content) 
-$ (no linguistic content) 
-$ (no linguistic content) 
-$ (no linguistic content) 
-$ (no linguistic content) 
-$ (no linguistic content) 
-$ (no linguistic content) 
-$ (no linguistic content) 
-$ (no linguistic content) 
-$ (no linguistic content) 
-$ (no linguistic content) 
-$ (no linguistic content) 
-$ (no linguistic content) 
-$ (no linguistic content) 
-$ (no linguistic content) 
-$ (no linguistic content) 
-$ (no linguistic content) 
-$ (no linguistic content) 
-$ (no linguistic content) 
-$ (no linguistic content) 
-$ (no linguistic content) 
-$ (no linguistic content) 
-$ (no linguistic content) 
-$ (no linguistic content) 
-$ (no linguistic content) 
-$ (no linguistic content) 
-$ (no linguistic content) 
-$ (no linguistic content) 
-$ (no linguistic content) 
-$ (no linguistic content) 
-$ (no linguistic content) 
-$ (no linguistic content) 
-$ (no linguistic content) 
-$ (no linguistic content) 
-$ (no linguistic content) 
-$ (no linguistic content) 
-$ (no linguistic content) 
-$ (no linguistic content) 
-$ (no linguistic content) 
-$ (no linguistic content) 
-$ (no linguistic content) 
-$ (no linguistic content) 
-$ (no linguistic content) 
-$ (no linguistic content) 
-$ (no linguistic content) 
-$ (no linguistic content) 
-$ (no linguistic content) 
-$ (no linguistic content) 
-$ (no linguistic content) 
-$ (no linguistic content) 
-$ (no linguistic content) 
-$ (no linguistic content) 
-$ (no linguistic content) 
-$ (no linguistic content) 
-$ (no linguistic content) 
-$ (no linguistic content) 
-$ (no linguistic content) 
-$ (no linguistic content) 
-$ (no linguistic content) 
-$ (no linguistic content) 
-$ (no linguistic content) 
-$ (no linguistic content) 
-$ (no linguistic content) 
-$ (no linguistic content) 
-$ (no linguistic content) 
-$ (no linguistic content) 
-$ (no linguistic content) 
-$ (no linguistic content) 
-$ (no linguistic content) 
-$ (no linguistic content) 
-$ (no linguistic content) 
-$ (no linguistic content) 
-$ (no linguistic content) 
-$ (no linguistic content) 
-$ (no linguistic content) 
-$ (no linguistic content) 
-$ (no linguistic content) 
-$ (no linguistic content) 
-$ (no linguistic content) 
-$ (no linguistic content) 
-$ (no linguistic content) 
-$ (no linguistic content) 
-$ (no linguistic content) 
-$ (no linguistic content) 
-$ (no linguistic content) 
-$ (no linguistic content) 
-$ (no linguistic content) 
-$ (no linguistic content) 
-$ (no linguistic content) 
-$ (no linguistic content) 
-$ (no linguistic content) 
-$ (no linguistic content) 
-$ (no linguistic content) 
-$ (no linguistic content) 
-$ (no linguistic content) 
-$ (no linguistic content) 
-$ (no linguistic content) 
-$ (no linguistic content) 
-$ (no linguistic content) 
-$ (no linguistic content) 
-$ (no linguistic content) 
-$ (no linguistic content) 
-$ (no linguistic content) 
-$ (no linguistic content) 
-$ (no linguistic content) 
-$ (no linguistic content) 
-$ (no linguistic content) 
-$ (no linguistic content) 
-$ (no linguistic content) 
-$ (no linguistic content) 
-$ (no linguistic content) 
-$ (no linguistic content) 
-$ (no linguistic content) 
-$ (no linguistic content) 
-$ (no linguistic content) 
-$ (no linguistic content) 
-$ (no linguistic content) 
-$ (no linguistic content) 
-$ (no linguistic content) 
-$ (no linguistic content) 
-$ (no linguistic content) 
-$ (no linguistic content) 
-$ (no linguistic content) 
-$ (no linguistic content) 
-$ (no linguistic content) 
-$ (no linguistic content) 
-$ (no linguistic content) 
-$ (no linguistic content) 
-$ (no linguistic content) 
-$ (no linguistic content) 
-$ (no linguistic content) 
-$ (no linguistic content) 
-$ (no linguistic content) 
-$ (no linguistic content) 
-$ (no linguistic content) 
-$ (no linguistic content) 
-$ (no linguistic content) 
-$ (no linguistic content) 
-$ (no linguistic content) 
-$ (no linguistic content) 
-$ (no linguistic content) 
-$ (no linguistic content) 
-$ (no linguistic content) 
-$ (no linguistic content) 
-$ (no linguistic content) 
-$ (no linguistic content) 
-$ (no linguistic content) 
-$ (no linguistic content) 
-$ (no linguistic content) 
-$ (no linguistic content) 
-$ (no linguistic content) 
-$ (no linguistic content) 
-$ (no linguistic content) 
-$ (no linguistic content) 
-$ (no linguistic content) 
-$ (no linguistic content) 
-$ (no linguistic content) 
-$ (no linguistic content) 
-$ (no linguistic content) 
-$ (no linguistic content) 
-$ (no linguistic content) 
-$ (no linguistic content) 
-$ (no linguistic content) 
-$ (no linguistic content) 
-$ (no linguistic content) 
-$ (no linguistic content) 
-$ (no linguistic content) 
-$ (no linguistic content) 
-$ (no linguistic content) 
-$ (no linguistic content) 
-$ (no linguistic content) 
-$ (no linguistic content) 
-$ (no linguistic content) 
-$ (no linguistic content) 
-$ (no linguistic content) 
-$ (no linguistic content) 
-$ (no linguistic content) 
-$ (no linguistic content) 
-$ (no linguistic content) 
-$ (no linguistic content) 
-$ (no linguistic content) 
-$ (no linguistic content) 
-$ (no linguistic content) 
-$ (no linguistic content) 
-$ (no linguistic content) 
-$ (no linguistic content) 
-$ (no linguistic content) 
-$ (no linguistic content) 
-$ (no linguistic content) 
-$ (no linguistic content) 
-$ (no linguistic content) 
-$ (no linguistic content) 
-$ (no linguistic content) 
-$ (no linguistic content) 
-$ (no linguistic content) 
-$ (no linguistic content) 
-$ (no linguistic content) 
-$ (no linguistic content) 
-$ (no linguistic content) 
-$ (no linguistic content) 
-$ (no linguistic content) 
-$ (no linguistic content) 
-$ (no linguistic content) 
-$ (no linguistic content) 
-$ (no linguistic content) 
-$ (no linguistic content) 
-$ (no linguistic content) 
-$ (no linguistic content) 
-$ (no linguistic content) 
-$ (no linguistic content) 
-$ (no linguistic content) 
-$ (no linguistic content) 
-$ (no linguistic content) 
-$ (no linguistic content) 
-$ (no linguistic content) 
-$ (no linguistic content) 
-$ (no linguistic content) 
-$ (design, no linguistic content) 
-143456	$ (no linguistic content) 
-143463	$ blank space  \n$ rest broken 
-143465	$ broken
-143467	$ blank
-143477	$ blank
-143483	$ blank
-143509	$ blank
-143519	$ blank
-143525	$ blank
-143527	$ blank
-143554	$ blank
-143558	$ blank
-143564	$ blank
-143584	$ blank
-143590	$ blank
-143592	$ blank
-143596	$ blank
-143608	$ blank
-143620	$ blank
-143622	$ blank
-143624	$ blank
-143626	$ blank
-143630	$ blank
-143666	$ blank
-143676	$ blank
-143682	$ blank
-143688	$ blank
-143700	$ blank
-143730	$ blank space 
-143732	$ broken 
-143742	$ blank space 
-143744	$ blank
-143750	$ blank
-143762	$ blank
-143772	$ blank
-143774	$ blank
-143776	$ blank
-143782	$ blank
-143788	$ blank space 
-143790	$ blank
-143802	$ blank
-143808	$ blank
-143816	$ blank
-143818	$ blank
-143820	$ blank
-143826	$ blank
-143832	$ blank
-143840	$ blank
-143842	$ blank
-143876	$ blank
-143878	$ blank
-143884	$ blank space 
-143886	$ (defaced) 
-143902	$ broken 
-143909	$ broken 
-143915	$ blank space 
-143919	$ blank space 
-143923	$ broken 
-143925	$ blank space 
-143929	$ blank space 
-143931	$ blank space 
-143937	$ blank space 
-143943	$ blank space 
-143945	$ blank space 
-143949	$ (defaced) 
-143953	$ blank space 
-143955	$ blank space 
-143957	$ blank space 
-143959	$ blank space 
-143963	$ blank space 
-143965	$ blank space 
-143967	$ blank space 
-143971	$ blank space 
-143973	$ broken 
-143979	$ blank space 
-143981	$ blank space 
-143983	$ blank space 
-143985	$ blank space 
-143989	$ blank space 
-143991	$ broken 
-143993	$ blank space 
-143996	$ beginning broken 
-$ broken 
-$ beginning broken 
-$ broken 
-144001	$ broken 
-144003	$ blank space 
-144005	$ blank space 
-144009	$ broken 
-144015	$ blank space 
-144017	$ blank space 
-144019	$ blank space 
-144023	$ blank space 
-144027	$ blank space 
-144031	$ blank space 
-144033	$ blank space 
-144035	$ blank space 
-144037	$ blank space 
-144039	$ blank space 
-144041	$ blank space 
-$ beginning broken 
-$ blank space 
-144045	$ blank space 
-144047	$ blank space 
-144049	$ blank space 
-144051	$ blank space 
-144053	$ blank space 
-144055	$ blank space 
-144057	$ blank space 
-144059	$ blank space 
-144061	$ blank space 
-144063	$ blank space 
-144065	$ blank space 
-144067	$ blank space 
-144069	$ blank space 
-144071	$ blank space 
-144073	$ blank space 
-144075	$ blank space 
-144077	$ blank space 
-144079	$ blank space 
-144081	$ blank space 
-144083	$ blank space 
-144085	$ blank space 
-144087	$ blank space 
-144089	$ blank space 
-144091	$ blank space 
-144093	$ blank space 
-144095	$ blank space 
-144097	$ blank space 
-144099	$ blank space 
-144101	$ blank space 
-144103	$ blank space 
-144105	$ blank space 
-144107	$ blank space 
-144109	$ blank space 
-144111	$ blank space 
-144113	$ blank space 
-144115	$ blank space 
-144117	$ blank space 
-144119	$ blank space 
-144121	$ blank space 
-144123	$ blank space 
-144125	$ blank space 
-144127	$ blank space 
-144129	$ blank space 
-144131	$ blank space 
-144133	$ blank space 
-144135	$ blank space 
-144137	$ blank space 
-144139	$ blank space 
-144141	$ blank space 
-144143	$ blank space 
-144145	$ blank space 
-144147	$ blank space 
-144149	$ blank space 
-144151	$ blank space 
-144153	$ blank space 
-144155	$ blank space 
-144157	$ blank space 
-144159	$ blank space 
-144161	$ blank space 
-144163	$ blank space 
-144165	$ blank space 
-144167	$ blank space 
-144169	$ blank space 
-144171	$ blank space 
-144173	$ blank space 
-144175	$ blank space 
-144177	$ blank space 
-144179	$ blank space 
-144181	$ blank space 
-144183	$ blank space 
-144185	$ blank space 
-144187	$ blank space 
-144189	$ blank space 
-144191	$ blank space 
-144193	$ blank space 
-144195	$ blank space 
-144197	$ blank space 
-144199	$ blank space 
-144201	$ blank space 
-144203	$ blank space 
-144205	$ blank space 
-144207	$ blank space 
-144209	$ blank space 
-144211	$ blank space 
-144213	$ blank space 
-144215	$ blank space 
-144217	$ blank space 
-144219	$ blank space 
-144221	$ blank space 
-144223	$ blank space 
-144225	$ blank space 
-144227	$ blank space 
-144229	$ blank space 
-144231	$ blank space 
-144233	$ blank space 
-144235	$ blank space 
-144237	$ blank space 
-144239	$ blank space 
-144241	$ blank space 
-144243	$ blank space 
-144245	$ blank space 
-144247	$ blank space 
-144249	$ blank space 
-144251	$ blank space 
-144253	$ blank space 
-144255	$ blank space 
-144257	$ blank space 
-144259	$ blank space 
-144261	$ blank space 
-144263	$ blank space 
-144265	$ blank space 
-144267	$ blank space 
-144269	$ blank space 
-144271	$ blank space 
-144273	$ blank space 
-144275	$ blank space 
-144277	$ blank space 
-144279	$ blank space 
-144281	$ blank space 
-144283	$ blank space 
-144285	$ blank space 
-144287	$ blank space 
-144289	$ blank space 
-144291	$ blank space 
-144293	$ blank space 
-144295	$ blank space 
-144297	$ blank space 
-144299	$ blank space 
-144301	$ blank space 
-144303	$ blank space 
-144305	$ blank space 
-144307	$ blank space 
-144309	$ blank space 
-144311	$ blank space 
-144313	$ blank space 
-144315	$ blank space 
-144317	$ blank space 
-144319	$ blank space 
-144321	$ blank space 
-144323	$ blank space 
-144325	$ blank space 
-144327	$ blank space 
-144329	$ blank space 
-144331	$ blank space 
-144333	$ blank space 
-144335	$ blank space 
-144337	$ blank space 
-144339	$ blank space 
-144341	$ blank space 
-144343	$ blank space 
-144345	$ blank space 
-144347	$ blank space 
-144350	$ blank space 
-144353	$ blank space 
-144355	$ (not given) 
-144357	$ blank space 
-144359	$ blank space 
-144361	$ blank space 
-144367	$ (not given) 
-144369	$ (not given) 
-144371	$ (not given) 
-144373	$ (not given) 
-144375	$ (not given) 
-144377	$ broken 
-144379	$ broken 
-144381	$ blank space 
-144385	$ blank space 
-144396	$ blank space 
-144404	$ (not given) 
-144416	$ beginning broken 
-144444	$ (not given) 
-144460	$ blank space 
-144464	$ blank space 
-144466	$ (not given) 
-144468	$ (not given) 
-144470	$ (not given) 
-144492	$ (not given) 
-144494	$ blank space 
-144496	$ (not given) 
-144508	$ blank space 
-144512	$ blank space 
-144518	$ (not given) 
-144530	$ (not given) 
-144538	$ (not given) 
-144540	$ (not given) 
-144542	$ (not given) 
-144544	$ blank space 
-144546	$ (not given) 
-144550	$ blank space 
-144554	$ blank space 
-144562	$ blank space 
-144564	$ blank space 
-144566	$ blank space 
-144568	$ blank space 
-144570	$ blank space 
-144576	$ (not given) 
-144578	$ (not given) 
-144580	$ (not given) 
-144582	$ (not given) 
-144584	$ blank space 
-144586	$ broken 
-144588	$ broken 
-144590	$ broken 
-144592	$ broken 
-144602	$ (defaced) \n# uninscribed? 
-144604	$ blank space 
-144616	$ blank space 
-144618	$ blank space 
-144634	$ (not given) 
-144636	$ (not given) 
-144644	$ blank space 
-144646	$ blank space 
-144654	$ (not given) 
-144656	$ (not given) 
-144658	$ blank space 
-144664	$ blank space 
-144666	$ blank space 
-144672	$ blank space 
-144674	$ blank space 
-144676	$ (not given) 
-144678	$ broken 
-144682	$ blank space 
-144688	$ (not given) 
-144690	$ blank space 
-144692	$ blank space 
-144694	$ (not given) 
-144698	$ (not given) 
-144700	$ (defaced) \n# uninscribed? 
-144702	$ (not given) 
-144704	$ (defaced) 
-144706	$ (defaced)\n# uninscribed? 
-144710	$ (not given) 
-144712	$ (not given) 
-144720	$ broken 
-144724	$ blank space 
-144726	$ blank space 
-144728	$ broken 
-144730	$ blank space 
-145698	$ (no linguistic content) 
-145797	$ broken 
-145936	$ (destroyed)
-146046	$ broken 
-146124	$ blank space 
-146142	$ blank space 
-146144	$ blank space 
-146146	$ blank space 
-146149	$ (no linguistic content) 
-146152	$ (no linguistic content) 
-146155	$ (no linguistic content) 
-146159	$ blank space 
-146168	$ (exercise with multiple impressions of N14, N01, KI~a, HI@g) 
-$ (several like impressions) 
-146171	$ blank space \n# seal impression 
-$ (no linguistic content) 
-146174	$ blank space \n# seal impression 
-$ (no linguistic content) 
-146180	$ (potentially modern)
-146258	$ (no linguistic content) 
-146327	$ beginning broken 
-146330	$ blank space 
-146419	$ blank space \n# seal impression 
-$ (no linguistic content) 
-146430	$ blank space \n# seal impression 
-$ (no linguistic content) 
-146595	$ blank space \n# seal impression 
-$ (no linguistic content) 
-146599	$ blank space \n# seal impression 
-$ (no linguistic content) 
-146603	$ blank space \n# seal impression 
-$ (no linguistic content) 
-146607	$ blank space \n# seal impression 
-$ (no linguistic content) 
-146614	$ blank space \n# seal impression 
-$ (no linguistic content) 
-146618	$ blank  space 
-146975	$ blank space 
-146979	$ blank space \n# seal impression 
-$ (no legend) 
-146985	$ blank space \n# seal imnpression  
-$ (no linguistic content) 
-147218	$ blank space 
-147714	$ blank space 
-147858	$ blank space 
-148286	$ beginning broken 
-$ blank space \n$ rest broken 
-148530	$ beginning broken 
-$ broken 
-148546	$ beginning broken 
-$ broken 
-148554	$ beginning broken 
-$ broken 
-148563	$ broken 
-$ beginning broken \n$ blank space 
-148665	$ blank space 
-148756	$ beginning broken 
-148767	$ beginning broken 
-148775	$ (no linguistic content) 
-$ (no linguistic content) 
-$ (no linguistic content) 
-$ (no linguistic content) 
-$ (no linguistic content) 
-$ (no linguistic content) 
-$ (no linguistic content) 
-$ (no linguistic content) 
-$ (no linguistic content) 
-$ (no linguistic content) 
-$ (no linguistic content) 
-$ (no linguistic content) 
-$ (no linguistic content) 
-$ (no linguistic content) 
-148790	$ blank
-148792	$ blank
-148796	$ blank
-148802	$ blank space 
-148804	$ blank space 
-148808	$ blank space 
-148812	$ blank space 
-148814	$ broken 
-148816	$ broken 
-148820	$ broken 
-148822	$ broken 
-148826	$ blank space 
-148828	$ blank space 
-148830	$ blank space 
-148832	$ blank space 
-148834	$ blank space 
-148836	$ blank space 
-148838	$ blank space 
-148840	$ blank space 
-148842	$ blank space 
-148844	$ blank space 
-148846	$ broken 
-148848	$ blank space 
-148850	$ blank space 
-$ beginning broken 
-$ blank space 
-$ blank space \n# seal impressions 
-$ (no linguistic content) 
-149463	$blank
-149467	$ blank space \n# seal impression 
-$ (no linguistic content) 
-149472	$ blank space \n# design animal head 
-149474	$ blank space 
-149476	$ blank space \n# seal impression 
-$ (no linguistic content) 
-149486	$ (no linguistic content) 
-194007	$ n lines broken  
-194009	$ rest broken \n$ (for a total of 12 sub-cases with PNN) 
-194011	$ blank space \n$ rest broken 
-194018	# calculation: 3(N01) ÷ 10 = 1(N39) 1(N24) 
-194056	# = P000456 obv. ii 1 
-194072	# = P000456 obv. iii 1 
-194079	# = P000456 obv. ii 3 
-194086	# = P000456 obv. iii 3 
-194114	$ rest broken 
-194118	$ rest broken 
-194121	$ rest broken 
-194134	$ rest broken 
-194139	$ rest broken 
-194143	$ rest broken 
-194158	$ blank space  
-194169	$ rest broken 
-194183	$ rest broken 
-194197	$ rest broken 
-194207	$ rest broken 
-194217	$ rest broken 
-194225	$ rest broken 
-194231	$ rest broken 
-$ (colophon) 
-194251	$ rest broken 
-194253	$ rest broken 
-194258	$ rest broken 
-194263	$ rest broken 
-194268	$ rest broken 
-$ rest broken 
-194273	$ rest broken 
-194278	$ rest broken 
-194284	$ rest broken 
-$ rest broken 
-194288	$ rest broken 
-194295	$ rest broken 
-194302	$ rest broken 
-194306	$ rest broken 
-$ (colophon) 
-195553	$ rest broken 
-195555	$ rest broken 
-195670	$ rest broken \n$ broken 
-196506	$ rest broken 
-196510	$ rest broken 
-198111	$ ([...])
-198161	$ double ruling 
-198163	$ rest broken 
-$ rest broken 
-$ rest broken 
-200523	$ rest broken 
-200556	$ rest broken 
-200559	$ rest broken 
-200562	$ rest broken 
-200564	$ rest broken 
-200566	$ rest broken 
-200569	$ rest broken 
-200572	$ rest broken 
-200574	$ rest broken 
-200586	$ rest broken 
-200659	$ rest broken 
-200665	$ rest broken 
-200670	$ rest broken 
-200672	$ rest broken 
-200674	$ rest broken 
-200678	$ rest broken 
-200681	$ rest broken 
-200684	$ rest broken 
-200688	$ rest broken 
-200693	$ rest broken 
-200695	$ rest broken 
-200697	$ rest broken 
-200699	$ rest broken 
-200707	$ rest broken 
-200711	$ rest broken 
-200714	$ rest broken 
-200720	$ rest broken 
-200727	$ rest broken 
-200730	$ rest broken 
-200737	$ rest broken 
-200743	$ rest broken 
-200747	$ rest broken 
-200753	$ rest broken 
-200758	$ rest broken 
-200763	$ rest broken 
-200768	$ rest broken 
-200773	$ rest broken 
-200777	$ rest broken 
-# appears to be an inverted "base" of a SZITA~a  sign in the for of an N01 
-200817	$ rest broken 
-200825	$ rest broken 
-$ rest broken 
-200829	$ rest broken 
-$ rest broken 
-200832	$ rest broken 
-200834	$ rest broken 
-200837	$ rest broken 
-200839	$ rest broken 
-200841	$ rest broken 
-200848	$ rest broken 
-200852	$ rest broken 
-200857	$ rest broken 
-200862	$ rest broken 
-200869	$ rest broken 
-200873	$ rest broken 
-200878	$ rest broken 
-200880	$ rest broken 
-200891	$ rest broken 
-200895	$ rest broken 
-200900	$ rest broken 
-$ rest broken 
-200921	$ rest broken 
-200941	$ rest broken 
-200943	$ rest broken 
-200946	$ rest broken 
-200956	$ rest broken 
-200963	$ rest broken 
-200993	$ rest broken 
-200997	$ rest broken 
-201001	$ rest broken 
-201045	$ rest broken 
-201049	$ rest broken 
-201073	$ rest broken 
-201078	$ rest broken 
-201080	$ rest broken 
-201086	$ rest broken 
-201114	$ rest broken 
-201119	$ rest broken 
-201124	$ rest broken 
-201130	$ rest broken 
-201144	$ rest broken 
-201148	$ rest broken 
-201153	$ rest broken 
-201156	$ rest broken 
-201182	$ rest broken 
-201187	$ rest broken 
-201190	$ rest broken 
-$ rest broken 
-201194	$ rest broken 
-201196	$ rest broken 
-$ rest broken 
-201201	$ rest broken 
-201205	$ rest broken 
-$ rest broken 
-$ rest broken 
-201212	$ rest broken 
-201215	$ rest broken 
-201222	$ rest broken 
-201228	$ rest broken 
-201233	$ rest broken 
-201253	$ rest broken 
-201256	$ rest broken 
-201258	$ rest broken 
-201260	$ rest broken 
-201264	$ rest broken 
-201267	$ rest broken 
-201281	$ rest broken 
-201283	$ rest broken 
-201288	$ rest broken 
-201295	$ rest broken 
-201297	$ rest broken 
-201307	$ rest broken 
-201326	$ rest broken 
-201329	$ rest broken 
-$ rest broken 
-201334	$ rest broken 
-201336	$ rest broken 
-201339	$ rest broken 
-201350	$ rest broken 
-$ rest broken 
-$ rest broken 
-201354	$ rest broken 
-201357	$ rest broken 
-201364	$ rest broken 
-201368	$ rest broken 
-201372	$ rest broken 
-201374	$ rest broken 
-201376	$ rest broken 
-201378	$ rest broken 
-201385	$ rest broken 
-201390	$ rest broken 
-201393	$ rest broken 
-201396	$ rest broken 
-201398	$ rest broken 
-201405	$ rest broken 
-201411	$ rest broken 
-# appear to be erased doodles 
-201414	$ rest broken 
-201418	$ rest broken 
-201430	$ rest broken 
-201432	$ rest broken 
-201436	$ rest broken 
-201442	$ rest broken 
-201446	$ rest broken 
-201448	$ rest broken 
-201450	$ rest broken 
-201452	$ rest broken 
-201456	$ rest broken 
-201460	$ rest broken 
-201463	$ rest broken 
-201467	$ rest broken 
-$ rest broken 
-$ rest broken 
-201471	$ rest broken 
-201473	$ rest broken 
-201479	$ rest broken 
-201481	$ rest broken 
-201487	$ rest broken 
-201504	$ rest broken 
-201507	$ rest broken 
-201511	$ rest broken 
-201515	$ rest broken 
-201519	$ rest broken 
-201521	$ rest broken 
-201535	$ rest broken 
-201540	$ rest broken 
-201544	$ rest broken 
-201549	$ rest broken 
-201551	$ rest broken 
-201553	$ rest broken 
-201555	$ rest broken 
-$ rest broken 
-201559	$ rest broken 
-$ rest broken 
-$ rest broken 
-201565	$ rest broken 
-201572	$ rest broken 
-201579	$ rest broken 
-201583	$ rest broken 
-201593	$ rest broken 
-201600	$ rest broken 
-$ rest broken 
-201606	$ rest broken 
-201610	$ rest broken 
-201624	$ rest broken 
-201644	$ rest broken 
-201647	$ rest broken 
-201651	$ rest broken 
-201654	$ rest broken 
-201656	$ rest broken 
-201659	$ rest broken 
-201662	$ rest broken 
-201665	$ rest broken 
-201681	$ rest broken 
-201685	$ rest broken 
-201689	$ rest broken 
-201693	$ rest broken 
-201695	$ rest broken 
-201698	$ rest broken 
-201704	$ rest broken 
-201707	$ rest broken 
-$ rest broken 
-201716	$ rest broken 
-201724	$ rest broken 
-201732	$ rest broken 
-201740	$ rest broken 
-201742	$ rest broken 
-201745	$ rest broken 
-201767	$ rest broken 
-201771	$ rest broken 
-201774	$ rest broken 
-201776	$ rest broken 
-201779	$ rest broken 
-201785	$ rest broken 
-201789	$ rest broken 
-201800	$ rest broken 
-201802	$ rest broken 
-201804	$ rest broken 
-201832	$ rest broken 
-201845	$ rest broken 
-201856	$ rest broken 
-$ rest broken 
-201862	$ rest broken 
-201866	$ rest broken 
-201868	$ rest broken 
-201870	$ rest broken 
-201874	$ rest broken 
-201884	$ rest broken 
-201893	$ rest broken 
-201900	$ rest broken 
-201905	$ rest broken 
-201910	$ rest broken 
-201917	$ rest broken 
-201924	$ rest broken 
-201928	# SANGA from previous line \n$ rest broken 
-201942	$ rest broken 
-201944	$ rest broken 
-201950	$ rest broken 
-201954	$ rest broken 
-201957	$ rest broken 
-201961	$ rest broken 
-201966	$ rest broken 
-201971	$ rest broken 
-201975	$ rest broken 
-202127	$ rest broken 
-202129	$ rest broken 
-202134	$ rest broken 
-202139	$ rest broken 
-202141	$ rest broken 
-202144	$ rest broken 
-202147	$ rest broken 
-202149	$ rest broken 
-202154	$ rest broken 
-202185	# in two lines, second with 1(N01) 
-202188	# IM incomplete 
-# IM incomplete, TUR from next line and irregular form 
-# in two lines, second with 1(N01) 
-# ERIN like KU3
-202199	$ rest broken 
-202204	$ rest broken 
-202208	$ rest broken 
-202297	$ (N01 then nothing) 
-202312	$ rest broken 
-$ rest broken 
-202318	$ rest broken 
-202320	$ rest broken 
-202324	$ rest broken 
-$ rest broken 
-202328	$ rest broken 
-202331	$ rest broken 
-202335	$ rest broken 
-202339	$ rest broken 
-202342	$ rest broken 
-202345	$ rest broken 
-202347	$ rest broken 
-202349	$ rest broken 
-202354	$ rest broken 
-$ rest broken 
-$ rest broken 
-202359	$ rest broken 
-202363	$ rest broken 
-202367	$ rest broken 
-202370	$ rest broken 
-$ rest broken 
-202374	$ rest broken 
-$ rest broken 
-202379	$ rest broken 
-202383	$ rest broken 
-$ rest broken 
-202392	$ rest broken 
-202397	$ rest broken 
-202399	$ rest broken 
-202403	$ rest broken 
-202405	$ rest broken 
-202407	$ rest broken 
-202414	$ rest broken 
-202417	$ rest broken 
-202424	$ rest broken 
-202427	$ rest broken 
-202430	$ rest broken 
-202435	$ rest broken 
-202442	$ rest broken 
-202446	$ rest broken 
-202452	$ rest broken 
-202455	$ rest broken 
-202458	$ rest broken 
-202469	$ rest broken 
-202475	$ rest broken 
-202480	$ rest broken 
-202491	$ rest broken 
-202494	$ rest broken 
-202502	$ rest broken 
-202508	$ rest broken 
-202515	$ rest broken 
-202519	$ rest broken 
-202530	$ rest broken 
-202533	$ rest broken 
-202540	$ rest broken 
-202545	$ rest broken 
-202549	$ rest broken 
-202552	$ rest broken 
-$ rest broken 
-202557	$ rest broken 
-202559	$ rest broken 
-202562	$ rest broken 
-202565	$ rest broken 
-202568	$ rest broken 
-202571	$ rest broken 
-202577	$ rest broken 
-202580	$ rest broken 
-$ rest broken 
-202584	$ rest broken 
-$ rest broken 
-202588	$ rest broken 
-202622	$ rest broken \n# hybrid additions 
-202626	$ rest broken 
-202632	$ rest broken 
-202639	$ rest broken 
-202645	$ rest broken 
-202655	$ blank space \n$ rest broken 
-202657	$ rest broken 
-202663	$ rest broken 
-202667	$ rest broken 
-202672	$ rest broken 
-202680	$ rest broken 
-202689	$ rest broken 
-202696	$ rest broken 
-202700	$ rest broken 
-$ rest broken 
-202706	$ rest broken 
-202709	$ rest broken 
-202715	$ rest broken 
-202717	$ rest broken 
-$ rest broken 
-202722	$ rest broken 
-202725	$ rest broken 
-202728	$ rest broken 
-202731	$ rest broken 
-202736	$ rest broken 
-202739	$ rest broken 
-202742	$ rest broken 
-202746	$ rest broken 
-202779	$ rest broken 
-202781	$ rest broken 
-202784	$ rest broken 
-$ rest broken 
-202788	$ rest broken 
-202792	$ rest broken 
-202802	$ rest broken 
-202805	$ rest broken 
-202811	$ rest broken 
-202816	$ rest broken 
-202837	$ rest broken 
-202841	$ rest broken 
-202844	$ rest broken 
-202863	$ rest broken 
-202867	$ rest broken 
-202875	$ rest broken 
-202879	$ rest broken 
-202882	$ rest broken 
-202892	$ rest broken 
-202905	$ rest broken 
-202917	$ rest broken 
-202924	$ rest broken 
-203003	$ rest broken 
-203008	$ rest broken 
-203011	$ rest broken 
-203015	$ rest broken 
-203018	$ rest broken 
-203035	$ rest broken 
-203047	$ rest broken 
-203057	$ rest broken 
-203060	$ rest broken 
-203063	$ rest broken 
-203067	$ rest broken 
-203074	$ rest broken 
-203100	$ rest broken 
-203112	$ rest broken 
-203120	$ rest broken 
-203125	$ rest broken 
-203130	$ rest broken 
-203134	$ rest broken 
-203138	$ rest broken 
-203140	$ rest broken 
-$ rest broken 
-203144	$ rest broken 
-203162	$ rest broken 
-$ rest broken 
-203169	$ rest broken 
-203174	$ rest broken 
-203184	$ rest broken 
-203187	$ rest broken 
-203190	$ rest broken 
-203194	$ rest broken 
-203196	$ rest broken 
-203202	$ rest broken 
-$ rest broken 
-203207	$ rest broken 
-203216	$ rest broken 
-203253	$ rest broken 
-203275	$ rest broken 
-203280	$ rest broken 
-203289	$ rest broken 
-203297	$ rest broken 
-203301	$ rest broken 
-203306	$ rest broken 
-203313	$ rest broken 
-203331	$ rest broken 
-203336	$ rest broken 
-203341	$ rest broken 
-203346	$ rest broken 
-203351	$ rest broken 
-203354	$ rest broken 
-203367	$ rest broken 
-203379	$ rest broken 
-203390	$ rest broken 
-203400	$ rest broken 
-203402	$ rest broken 
-203405	$ rest broken 
-203407	$ rest broken 
-203412	$ rest broken 
-203416	$ rest broken 
-203419	$ rest broken 
-203424	$ rest broken 
-203429	$ rest broken 
-203435	$ rest broken 
-203442	$ rest broken 
-203449	$ rest broken 
-203453	$ rest broken 
-203457	$ rest broken 
-203461	$ rest broken 
-$ rest broken 
-203470	$ rest broken 
-203472	$ rest broken 
-203475	$ rest broken 
-203477	$ rest broken 
-203481	$ rest broken 
-203488	$ rest broken 
-203494	$ rest broken 
-203502	$ rest broken 
-203510	$ rest broken 
-203517	$ rest broken 
-203521	$ rest broken 
-203524	$ rest broken 
-203527	$ rest broken 
-203531	$ rest broken 
-203537	$ rest broken 
-203543	$ rest broken 
-203546	$ rest broken 
-$ rest broken 
-203552	$ rest broken 
-203555	$ rest broken 
-203557	$ rest broken 
-203569	$ rest broken 
-203572	$ rest broken 
-203580	$ rest broken 
-$ rest broken 
-203585	$ rest broken 
-203590	$ rest broken 
-203592	$ rest broken 
-203594	$ rest broken 
-$ rest broken 
-203607	$ rest broken 
-203611	$ rest broken 
-$ rest broken 
-203618	$ rest broken 
-203625	$ rest broken 
-203632	$ rest broken 
-203665	$ rest broken 
-203668	$ rest broken 
-203674	$ rest broken 
-$ rest broken 
-203679	$ rest broken 
-203684	$ rest broken 
-203687	$ rest broken 
-203720	$ rest broken 
-203726	$ rest broken 
-203731	$ rest broken 
-203736	$ rest broken 
-203740	$ rest broken 
-203744	$ rest broken 
-203747	$ rest broken 
-203751	$ rest broken 
-203753	$ rest broken 
-203767	$ rest broken 
-203771	$ rest broken 
-203775	$ rest broken 
-203780	$ rest broken 
-203784	$ rest broken 
-203788	$ rest broken 
-203791	$ rest broken 
-203795	$ rest broken 
-203798	$ rest broken 
-203800	$ rest broken 
-$ rest broken 
-203805	$ rest broken 
-203809	$ rest broken 
-203830	# erasure ? 
-203836	$ rest broken 
-203841	$ rest broken 
-203846	$ rest broken 
-203848	$ rest broken 
-203851	$ rest broken 
-203854	$ rest broken 
-203857	$ rest broken 
-203860	$ rest broken 
-203869	$ rest broken 
-203873	$ rest broken 
-203877	$ rest broken 
-203906	$ rest broken 
-203908	$ rest broken 
-203911	$ rest broken 
-203914	$ rest broken 
-203916	$ rest broken 
-203919	$ rest broken 
-203923	$ rest broken 
-203939	$ rest broken 
-203943	$ rest broken 
-203948	$ rest broken 
-$ rest broken 
-203953	$ rest broken 
-$ rest broken 
-203964	$ rest broken 
-203978	$ rest broken 
-203993	$ rest broken 
-204000	$ rest broken 
-204004	$ rest broken 
-204007	$ rest broken 
-204010	$ rest broken 
-204013	$ rest broken 
-$ rest broken 
-204017	$ rest broken 
-204021	$ rest broken 
-204024	$ rest broken 
-204030	$ rest broken 
-204037	$ rest broken 
-204043	$ rest broken 
-204049	$ rest broken 
-204053	$ rest broken 
-204057	$ rest broken 
-204060	$ rest broken 
-204062	$ rest broken 
-204064	$ rest broken 
-$ rest broken 
-204068	$ rest broken 
-204070	$ rest broken 
-204077	$ rest broken 
-204082	$ rest broken 
-204084	$ rest broken 
-204091	$ rest broken 
-204097	$ rest broken 
-204102	$ rest broken 
-204106	$ rest broken 
-204114	$ rest broken 
-204118	$ rest broken 
-204122	$ rest broken 
-204126	$ rest broken 
-204129	$ rest broken 
-204133	$ rest broken 
-204136	$ rest broken 
-204138	$ beginning broken 
-204140	$ rest broken 
-204145	$ rest broken 
-204147	$ rest broken 
-204151	$ rest broken 
-204155	$ rest broken 
-204168	$ rest broken 
-204226	$ rest broken 
-204229	$ rest broken 
-204237	$ rest broken 
-204245	$ rest broken 
-204254	$ rest broken 
-204263	$ rest broken 
-204271	$ rest broken 
-204279	$ rest broken 
-204287	$ rest broken 
-204295	$ rest broken 
-204305	$ rest broken 
-204312	$ rest broken 
-204316	$ rest broken 
-204325	$ rest broken 
-$ rest broken 
-204329	$ rest broken 
-204331	$ rest broken 
-204336	$ rest broken 
-$ rest broken 
-204343	$ rest broken 
-204355	$ rest broken 
-204362	$ rest broken 
-204369	$ rest broken 
-204373	$ rest broken 
-204377	$ rest broken 
-204381	$ rest broken 
-204387	$ rest broken 
-$ rest broken 
-204390	$ rest broken 
-204394	$ rest broken 
-204397	$ rest broken 
-204405	$ rest broken 
-204414	$ rest broken 
-204425	$ rest broken 
-204429	$ rest broken 
-204436	$ rest broken 
-204442	$ rest broken 
-204448	$ rest broken 
-204455	$ rest broken 
-$ rest broken 
-204459	$ rest broken 
-204463	$ rest broken 
-204469	$ rest broken 
-204476	$ rest broken 
-204480	$ rest broken 
-204490	$ rest broken 
-204501	$ rest broken 
-204511	$ rest broken 
-204517	$ rest broken 
-204526	$ rest broken 
-204535	$ rest broken 
-204540	$ rest broken 
-204545	$ rest broken 
-$ rest broken 
-204549	$ rest broken 
-204553	$ rest broken 
-204556	$ rest broken 
-204559	$ rest broken 
-204562	$ rest broken 
-204567	$ rest broken 
-204569	$ rest broken 
-204572	$ rest broken 
-204582	$ rest broken 
-$ rest broken 
-204592	$ rest broken 
-204596	$ rest broken 
-204600	$ rest broken 
-$ rest broken 
-204603	$ rest broken 
-204607	$ rest broken 
-204610	$ rest broken 
-204612	$ rest broken 
-204617	$ rest broken 
-204621	$ rest broken 
-$ rest broken 
-204626	$ rest broken 
-204629	$ rest broken 
-204633	$ rest broken 
-204638	$ rest broken 
-204642	$ rest broken 
-$ rest broken 
-204649	$ rest broken 
-204653	$ rest broken 
-204657	$ rest broken 
-204660	$ rest broken 
-204664	$ rest broken 
-204667	$ rest broken 
-204670	$ rest broken 
-$ rest broken 
-204677	$ rest broken 
-$ rest broken 
-204685	$ rest broken 
-204693	$ rest broken 
-204700	$ rest broken 
-204703	$ rest broken 
-204706	$ rest broken 
-204710	$ rest broken 
-204714	$ rest broken 
-204717	$ rest broken 
-204722	$ rest broken 
-204726	$ rest broken 
-204731	$ rest broken 
-204734	$ rest broken 
-$ rest broken 
-$ rest broken 
-204740	$ rest broken 
-204744	$ rest broken 
-204746	$ rest broken 
-204751	$ rest broken 
-204766	$ rest broken 
-$ rest broken 
-204773	$ rest broken 
-204780	$ rest broken 
-204800	$ rest broken 
-204804	$ rest broken 
-204808	$ rest broken 
-$ rest broken 
-204813	$ rest broken 
-204817	$ rest broken 
-204821	$ rest broken 
-$ rest broken 
-204825	$ rest broken 
-204829	$ rest broken 
-204832	$ rest broken 
-204835	$ rest broken 
-204857	$ rest broken 
-204887	$ rest broken 
-204892	$ rest broken 
-204896	$ rest broken 
-204898	$ rest broken 
-204901	$ rest broken 
-204904	$ rest broken 
-204907	$ rest broken 
-$ rest broken 
-204910	$ rest broken 
-$ rest broken 
-204916	$ rest broken 
-204920	$ rest broken 
-204923	$ rest broken 
-204927	$ rest broken 
-204932	$ rest broken 
-204941	$ rest broken 
-204951	$ rest broken 
-204959	$ rest broken 
-204968	$ rest broken 
-204981	$ rest broken 
-204999	$ rest broken 
-205009	$ rest broken 
-205018	$ rest broken 
-205021	$ rest broken 
-205030	$ rest broken 
-205042	$ rest broken 
-205045	$ rest broken 
-205048	$ rest broken 
-205050	$ rest broken 
-205052	$ rest broken 
-205059	$ rest broken 
-205062	$ rest broken 
-$ rest broken 
-205068	$ rest broken 
-205071	$ rest broken 
-205074	$ rest broken 
-205077	$ rest broken 
-205084	$ rest broken 
-205092	$ rest broken 
-205097	$ rest broken 
-205102	$ rest broken 
-$ rest broken 
-205105	$ rest broken 
-205108	$ rest broken 
-205111	$ rest broken 
-205116	$ rest broken 
-205121	$ rest broken 
-205123	$ rest broken 
-205137	$ rest broken 
-205140	$ rest broken 
-205143	$ rest broken 
-205149	$ rest broken 
-205151	$ rest broken 
-205161	$ rest broken 
-$ rest broken 
-205169	$ rest broken 
-$ rest broken 
-205174	$ rest broken 
-205177	$ rest broken 
-205180	$ rest broken 
-205184	$ rest broken 
-205187	$ rest broken 
-205190	$ rest broken 
-205194	$ rest broken 
-205203	$ rest broken 
-205210	$ rest broken 
-205212	$ rest broken 
-205215	$ rest broken 
-205217	$ rest broken 
-205222	$ rest broken 
-205225	$ rest broken 
-205227	$ rest broken 
-$ rest broken 
-205233	$ rest broken 
-205235	$ rest broken 
-205239	$ rest broken 
-205260	$ rest broken 
-205264	$ rest broken 
-205268	$ rest broken 
-205274	$ rest broken 
-205279	$ rest broken 
-205284	$ rest broken 
-205293	$ rest broken 
-205299	$ rest broken 
-205303	$ rest broken 
-205306	$ rest broken 
-205312	$ rest broken 
-205317	$ rest broken 
-205320	$ rest broken 
-205326	$ rest broken 
-205330	$ rest broken 
-205335	$ rest broken 
-205339	$ rest broken 
-205344	$ rest broken 
-205348	$ rest broken 
-205350	$ rest broken 
-205357	$ rest broken 
-205365	$ rest broken 
-$ rest broken 
-205368	$ rest broken 
-205372	$ rest broken 
-205374	$ rest broken 
-205379	$ rest broken 
-205385	$ rest broken 
-205390	$ rest broken 
-205393	$ rest broken 
-205397	$ rest broken 
-205400	$ rest broken 
-205406	$ rest broken 
-205413	$ rest broken 
-205419	$ rest broken 
-205423	$ rest broken 
-205426	$ rest broken 
-205429	$ rest broken 
-205437	$ rest broken 
-205471	$ rest broken 
-205477	$ rest broken 
-205484	$ rest broken 
-205491	$ rest broken 
-205495	$ rest broken 
-205505	$ rest broken 
-205511	$ rest broken 
-205517	$ rest broken 
-$ rest broken 
-205521	$ rest broken 
-205526	$ rest broken 
-205528	$ rest broken 
-205533	$ rest broken 
-$ rest broken 
-205540	$ rest broken 
-205548	$ rest broken 
-205557	$ rest broken 
-205559	$ rest broken 
-205565	$ rest broken 
-205571	$ rest broken 
-205574	$ rest broken 
-205579	$ rest broken 
-205585	$ rest broken 
-205590	$ rest broken 
-$ rest broken 
-205597	$ rest broken 
-205612	$ rest broken 
-205618	$ rest broken 
-205622	$ rest broken 
-205628	$ rest broken 
-205643	$ rest broken 
-205664	$ rest broken 
-205681	$ rest broken 
-205690	$ rest broken 
-205736	$ rest broken 
-$ rest broken 
-205773	$ rest broken 
-205778	$ rest broken 
-205784	$ rest broken 
-205788	$ rest broken 
-205794	$ rest broken 
-205826	# = MES~a 
-# = MES~a 
-205907	# = DUGIN2 ? 
-205925	$ rest broken 
-205928	$ rest broken 
-205931	$ rest broken 
-205934	$ rest broken 
-205936	$ rest broken 
-205938	$ rest broken 
-205942	$ rest broken 
-205946	$ rest broken 
-$ rest broken 
-205950	$ rest broken 
-205952	$ rest broken 
-205955	$ rest broken 
-205958	$ rest broken 
-205960	$ rest broken 
-$ rest broken 
-205965	$ rest broken 
-205970	$ rest broken 
-205975	$ rest broken 
-205977	$ rest broken 
-205980	$ rest broken 
-205983	$ rest broken 
-$ rest broken 
-205994	$ blank space 
-205996	$ rest broken 
-205999	$ rest broken 
-206002	$ rest broken 
-206004	$ rest broken 
-206006	$ rest broken 
-206009	$ rest broken 
-206011	$ rest broken 
-206014	$ rest broken 
-$ rest broken 
-206019	$ rest broken 
-206023	$ rest broken 
-206025	$ rest broken 
-206028	$ rest broken 
-206031	$ rest broken 
-$ rest broken 
-206035	$ rest broken 
-206037	$ rest broken 
-$ blank space \n$ rest broken 
-206040	$ rest broken 
-$ rest broken 
-206046	$ rest broken 
-206049	$ rest broken 
-$ rest broken 
-206053	$ rest broken 
-206056	$ rest broken 
-206059	$ rest broken 
-206061	$ rest broken 
-206063	$ rest broken 
-206065	$ rest broken 
-206067	$ rest broken 
-206072	$ rest broken 
-206075	$ rest broken 
-206077	$ rest broken 
-206081	$ rest broken 
-$ rest broken 
-206084	$ rest broken 
-206089	$ rest broken 
-206092	$ rest broken 
-206094	$ rest broken 
-206097	$ rest broken 
-206102	$ rest broken 
-206109	$ rest broken 
-206112	$ rest broken 
-206114	$ rest broken 
-206121	$ rest broken 
-$ blank space \n$ rest broken 
-206127	$ rest broken 
-206130	$ rest broken 
-206136	$ rest broken 
-206143	$ rest broken 
-206149	$ rest broken 
-$ rest broken 
-206155	$ rest broken 
-206158	$ rest broken 
-206163	$ rest broken 
-206169	$ rest broken 
-206174	$ rest broken 
-206183	$ rest broken 
-206191	$ rest broken 
-206196	$ rest broken 
-206198	$ rest broken 
-206202	$ rest broken 
-$ rest broken 
-206205	$ rest broken 
-$ rest broken 
-206209	$ rest broken 
-206215	$ rest broken 
-206219	$ rest broken 
-206222	$ rest broken 
-206226	$ rest broken 
-206229	$ rest broken 
-206240	$ rest broken 
-206245	$ rest broken 
-206249	$ rest broken 
-206252	$ rest broken 
-206256	$ rest broken 
-206258	$ rest broken 
-206262	$ rest broken 
-206268	$ rest broken 
-$ rest broken 
-206271	$ rest broken 
-$ rest broken 
-206275	$ rest broken 
-206277	$ rest broken 
-206280	$ rest broken 
-206283	$ rest broken 
-206285	$ rest broken 
-206287	$ rest broken 
-206296	$ rest broken 
-206304	$ rest broken 
-$ rest broken 
-206308	$ rest broken 
-206310	$ rest broken 
-206313	$ rest broken 
-206320	$ rest broken 
-206322	$ rest broken 
-206324	$ rest broken 
-$ rest broken 
-206329	$ rest broken 
-206333	$ rest broken 
-206336	$ rest broken 
-206343	$ rest broken 
-$ rest broken 
-206346	$ rest broken 
-206362	$ blank space 
-$ rest broken 
-206366	$ rest broken 
-$ rest broken 
-206371	$ rest broken 
-206373	$ rest broken 
-206377	$ rest broken 
-206380	$ rest broken 
-206382	$ rest broken 
-206385	$ rest broken 
-206387	$ rest broken 
-206389	$ rest broken 
-206415	$ rest broken 
-206418	$ rest broken 
-206432	$ rest broken 
-206453	$ rest broken 
-206457	$ rest broken 
-$ rest broken 
-$ rest broken 
-206462	$ rest broken 
-$ rest broken 
-206466	$ rest broken 
-206470	$ rest broken 
-206473	$ rest broken 
-206476	$ rest broken 
-206478	$ rest broken 
-206483	$ rest broken 
-206489	$ rest broken 
-206495	$ rest broken 
-206497	$ blank space \n$ rest broken 
-$ (colophon ?) 
-206501	$ rest broken 
-206504	$ rest broken 
-206510	$ rest broken 
-206512	$ rest broken 
-206516	$ rest broken 
-$ rest broken 
-206521	$ rest broken 
-206526	$ rest broken 
-206528	$ rest broken 
-$ rest broken 
-206533	$ rest broken 
-206535	$ rest broken 
-206539	$ rest broken 
-206541	$ rest broken 
-206552	$ rest broken 
-206556	$ rest broken 
-206560	$ rest broken 
-$ rest broken 
-206564	$ rest broken 
-206566	$ rest broken 
-206568	$ rest broken 
-206571	$ rest broken 
-$ rest broken 
-206575	$ rest broken 
-206585	$ rest broken 
-206596	$ rest broken 
-206598	$ rest broken 
-206601	$ rest broken 
-206607	$ rest broken 
-206609	$ rest broken 
-206612	$ rest broken 
-206615	$ rest broken 
-206618	$ rest broken 
-206621	$ rest broken 
-$ rest broken 
-206625	$ rest broken 
-206629	$ rest broken 
-206632	$ rest broken 
-206640	$ rest broken 
-$ rest broken 
-$ (colophon) 
-206776	$ rest broken 
-206847	$ blank
-206884	$ blank
-206900	$ blank
-206911	$ blank
-206942	$ blank
-206980	$ blank
-207020	$ broken
-207239	$ blank
-207326	$ blank
-207330	$ blank
-207462	$ blank
-207560	$ rest of column broken
-207619	$ blank space
-207621	$ blank space
-207663	$ blank
-207773	$ several lines broken
-207775	$ several lines broken
-207809	$ rest broken
-207848	$ blank
-208025	# calculation: 240 x 1/20N39 = 12N39 \n# N16 = 1/20N39 \n$ blank space 
-208059	$ blank space 
-208069	$ blank 
-208073	$ blank
-208307	$ blank space 
-208310	$ blank space 
-$ blank space 
-208322	$ blank
-208360	$ blank
-208371	$ rest broken  
-# erasures ? 
-208495	$ blank
-208512	$ blank
-208547	$ blank
-$ blank
-208555	$ blank
-208558	# calculation: 7.5 +  .75N39 = 8.25N39 
-# calculation: 30N28 = 7.5N39 
-# calculation: 7.5N39 ÷ 10 = .75N39 \n# N16 = 1/20N39 
-# calculation: 8.25N39 × 5 = 41.25N49 (text: 41.5 ?) 
-208611	$ rest of column broken
-208644	$ rest of column broken
-208660	$ rest of column broken
-208681	$ rest of column broken
-208708	$ rest of column broken
-208716	# rotated 90 degrees ? 
-208724	# with erasures 
-208727	$ blank
-208745	$ blank
-208840	$ blank
-208849	$ blank
-208932	$ blank
-208960	$ blank
-208964	$ blank
-208970	$ blank
-209112	$ rest of column broken
-209129	$ blank
-209148	$ blank
-209390	# erasure? 
-209433	$ rest broken 
-$ rest broken 
-$ rest broken 
-209465	$ rest broken 
-$ rest broken 
-209485	$ blank space 
-209490	$ rest broken 
-209500	$ rest broken 
-209556	$ rest broken 
-209559	$ blank space 
-209852	$ blank space 
-209903	$ rest broken 
-209977	$ blank space 
-209980	$ blank space 
-210077	$ blank space 
-# traces of erased UKKIN~a, PA~a, KALAM?, MUD3~d, GI@i \n$ blank space 
-210271	$ blank space 
-210331	$ blank space 
-210529	$ blank space 
-210547	$ blank space 
-210553	$ blank space 
-210609	$ blank space 
-210888	$ blank space 
-211053	$ blank space 
-211220	$ blank space 
-211314	$ blank space 
-211324	$ blank space 
-211387	$ blank space 
-211568	# 2(N34) over erasure of 2(N45) 1(N46) 
-211603	$ blank space 
-211692	$ blank space \n# erasure of two signs 
-211715	$ blank space 
-211811	$ blank space 
-212023	$ blank space 
-212051	$ blank space 
-212079	$ rest broken 
-212090	$ blank space 
-212112	$ blank space 
-214282	$ rest broken 
-$ rest broken 
-217155	$ rest broken 
-217158	$ rest broken 
-217160	$ rest broken 
-218168	$ double line
-218190	$ (break of ca. 4 cases)
-219349	$ blank space \n# seal impression 
-219357	$ blank space 
-219367	$ double ruling vertical 
-219375	$ double ruling vertical 
-219414	$ rest broken 
-219416	$ blank space 
-219436	$ rest broken 
-219438	$ rest broken 
-219440	# irregular sign \n$ rest broken 
-219442	$ rest broken 
-220081	# calculation: 36.15N1 ÷ 10 = 3.615 (text 3.65 ?) 
-220655	$ rest broken 
-220658	$ rest broken 
-220662	$ rest broken 
-220667	$ blank space 
-220671	$ rest broken 
-220675	$ rest broken 
-220678	$ rest broken 
-220681	$ rest broken 
-$ rest broken 
-220684	$ rest broken 
-220686	$ rest broken 
-220688	$ rest broken \n# modern addition of fragment with 2(N01) 
-$ rest broken 
-220692	$ rest broken 
-220695	$ rest broken 
-$ double ruling
-220730	$ rest broken 
-220733	$ rest broken 
-220758	#tr.en: 25 bur3 4 iku field, in barley, of the chief exchange agent, 
-#tr.en: 2 bur3, male and female laborers, 
-#tr.en: 47(+) bur3 field, irrigated; 
-#tr.en: 30 bur3 2 eše3 4 iku field, in barley, of the equid herder, 
-#tr.en: 2 bur3, male and female laborers, 
-#tr.en: 42 bur3 1 eše3 5 iku field, irrigated; 
-#tr.en: 31(+) bur3 1 iku field, in barley, of the chief justice, 
-#tr.en: 4 bur3, male and female laborers, 
-#tr.en: 38 bur3 1 eše3 2 iku field, irrigated; 
-#tr.en: 20(+) field, in barley, of the wife of the lord, 
-#tr.en: 2(+) bur3, male and female laborers, 
-#tr.en: ... field, irrigated; 
-#tr.en: 14(+) bur3 2 eše3 field, in barley, of the priest of NIRU (Jemdet Nasr), 
-#tr.en: 2 bur3 ... male and female laborers, 
-#tr.en: ... field, irrigated; 
-#tr.en: ... of NIRU, measured fields of the households;  
-#tr.en: 1 šar2 50 ... bur3 field, in barley, \n# calculation: total of all “fields in barley” 
-#tr.en: 12(+) bur3, male and female laborers, \n# calculation: total of all “fields of laborers” 
-#tr.en: 3 šar2 25(+) bur3 field, irrigated; \n# calculation: total of all “irrigated fields” 
-#tr.en: 5 šar2 34 bur3 3 iku, total field, measured land of NIRU, agricultural household.\n# calculation in bur3: 110(+) + 12(+) + 205(+) = 334 bur3 3 iku (only 7 bur3 missing) 
-#tr.en: 2 šar2 34 bur3 field of the lord; \n# calculation in bur3: 77 × 2 = 154 
-#tr.en: 1 šar2 17 bur3 field, measured; \n# calculation in bur3: 16 + 15 + 15 + 10 + 17 = 73 (?; using “correct” calculations, not entries to text) 
-#tr.en: 1 bur3 2 ee3 5 iku, wooded perimeter land; \n# calculation in iku: 12 + 10 8/10 - 3/10 - 2/10 + 13 = 35 (?; using “correct” calculations, not entries to text) 
-#tr.en: 3 šar2 52 bur3 2 eše3 5 iku, field, households of NIRU, ... . \n# calculation: 2 šar2 34 bur3 + 1 šar2 17 bur3 + 1 bur3 2 eše3 5 iku = 3 šar2 52 bur3 2 eše3 5 iku 
-#tr.en: 49 bur3 1 eše3 field of the lord; \n# calculation in bur3: 24 2/3 × 2 = 49 1/3 
-#tr.en: 24 bur3 2 eše3 field, measured; \n# calculation in bur3: 5 2/3 + 5 2/3 + 5 2/3 + 2 + 5 2/3 = 24 2/3 
-#tr.en: 4/10 iku, wooded perimeter land; \n# calculation in iku: 4/10 = 4/10 
-#tr.en: 1 šar2 14 bur3 4/10 iku, total, field, ... . \n# calculation: 49 bur3 1 eše3 + 24 bur3 2 eše3 + 4/10 iku = 1 šar2 14 bur3 4/10 iku 
-#tr.en: 1 šar2 field of the lord; \n# calculation in bur3: 30 × 2 = 60 
-#tr.en: 30 bur3 field, measured; \n# calculation in bur3: 7 + 6 + 7 + 7 + 3 = 30 
-#tr.en: 2 bur3 2 1/10 iku, wooded perimeter land; \n# calculation in iku: 8 4/10 + 36 + 5 + 5 + 1 7/10 = 56 1/10 (text has 38 1/10, leaving out 2 bur3 of 2.d.)
-#tr.en: 1 šar2 32 bur3 2 1/10 iku field, ... . \n# calculation: 1 šar2 + 30 bur3 + 2 bur3 2 1/10 iku = 1 šar2 32 bur3 2 1/10 iku 
-#tr.en: 6 šar2 field of the lord; \n# calculation in bur3: 30 × 2 = 60 
-#tr.en: 3 šar2 field, measured; \n# calculation in bur3: n + n + n + 40 + 40 = 180 
-#tr.en: 3 bur3 ..., wooded perimeter land; \n# calculation in iku: 18 ... = 18 ... 
-#tr.en: 9 šar2 3 bur3 ... field, households of NIRU, ... . \n# calculation: 6 šar2 + 3 šar2 + 3 bur3 ... = 9 šar2 3 bur3 ... 
-223231	$ blank space 
-#>>Q000265 colophon 
-224399	#tr.en: 4N14 grain in 24 months: GAR(-rations), \n# 4N14 = 720N30 \n# calculation: 24 x 30 = 720 days, 1N30 each day 
-#tr.en: 2N1 2N39 are “the cut”; \n# 2N1 2N39 = 72N30 \n# calculation: 720 ÷ 10 = 72 
-#tr.en: ... 1N1 ... 
-#tr.en: 4N14, GA ... for SU-E2-ŠAGAN, \n# 4N14 = 720N30 \n# calculation: 24 x 30 = 720 days, 1N30 each day 
-#tr.en: 2N1 2N39 are “the cut”; \n# 2N1 2N39 = 72N30 \n# calculation: 720 ÷ 10 = 72 
-#tr.en: ... 
-228297	#tr.en: 3 (adult), 2 (child) slaves, female and male: ZATU693.KID; 
-#tr.en: 1 male slave, ZATU693.3(N57); 
-#tr.en: ... 
-230407	#tr.en: 1200 (ninda, ca. 6m), the (first) length, 
-#tr.en: 1200, the (second) length; 
-#tr.en: 930, the (first) width, 
-#tr.en: 870, the (second) width. \n# calculation (implied): (1200 + 1200)/2 × (930 + 870)/2 = 10,800 iku = 10 šar2 
-#tr.en: 990, the (first) length, 
-#tr.en: 1410, the (second) length; 
-#tr.en: 1280, the (first) width, 
-#tr.en: 520, the (second) width. \n# calculation (implied): (990 + 1410)/2 × (1280 + 520)/2 = 10,800 iku = 10 šar2 
-230704	# Haynie: 2(N34)# , [1(N58)] ? 
-231020	$ rest broken 
-231046	$ rest broken 
-231062	$ rest broken 
-231066	$ rest broken 
-231069	$ rest broken 
-231150	$ rest broken 
-231154	$ rest broken 
-231159	$ rest broken 
-$ rest broken 
-231219	$ rest broken 
-231260	$ blank space 
-233128	# actually SZU2.PAP 
-233138	$ blank space 
+141351	178242-178243
+178244-178245
+178246
+178248
+178255
+178258
+178265
+178268
+178273
+178274
+178277
+178279
+178280
+178285
+178293-178294
+178295
+178302
+178306
+178315
+178320
+178324
+178331
+178336
+178342
+178346
+178351-178352
+178353
+178356-178357
+178358-178359
+178360-178361
+178362-178363
+178364-178365
+178366
+178367
+178369
+178371
+178372-178373
+178374-178375
+178376-178377
+178378-178379
+178380-178381
+178382-178383
+178384-178385
+178386-178387
+178388-178389
+178390-178391
+178392-178393
+178394-178395
+178396-178397
+178398-178399
+178400-178401
+178402-178403
+178404-178405
+178406-178407
+178408-178409
+178410-178411
+178412-178413
+178414-178415
+178416-178417
+178418-178419
+178420-178421
+178422-178423
+178424-178425
+178426-178427
+178428-178429
+178430-178431
+178432-178433
+178434-178435
+178436-178437
+178438-178439
+178440-178441
+178442-178443
+178444-178445
+178446-178447
+178448-178449
+178450-178451
+178452-178453
+178454-178455
+178456-178457
+178458-178459
+178460-178461
+178462-178463
+178464-178465
+178466-178467
+178468-178469
+178470-178471
+178472-178473
+178474-178475
+178476-178477
+178478-178479
+178480-178481
+178482-178483
+178484-178485
+178486-178487
+178488-178489
+178490-178491
+178492-178493
+178494-178495
+178496-178497
+178498-178499
+178500-178501
+178502-178503
+178504-178505
+178506-178507
+178508-178509
+178510-178511
+178512-178513
+178514-178515
+178516-178517
+178518-178519
+178520-178521
+178522-178523
+178524-178525
+178526-178527
+178528-178529
+178530-178531
+178532-178533
+178534-178535
+178536-178537
+178538-178539
+178540-178541
+178542-178543
+178544-178545
+178546-178547
+178548-178549
+178550-178551
+178552-178553
+178554-178555
+178556-178557
+178558-178559
+178560-178561
+178562-178563
+178564-178565
+178566-178567
+178568-178569
+178570-178571
+178572-178573
+178574-178575
+178576-178577
+178578-178579
+178580-178581
+178582-178583
+178584-178585
+178586-178587
+178588-178589
+178590-178591
+178592-178593
+178594
+178597
+178600-178601
+178602-178603
+178604-178605
+178606-178607
+178608-178609
+178610-178611
+178612-178613
+178614-178615
+178616-178617
+178618-178619
+178620-178621
+178622-178623
+178624-178625
+178626-178627
+178628-178629
+178630-178631
+178632-178633
+178634-178635
+178636-178637
+178638-178639
+178640-178641
+178642-178643
+178644
+178645-178646
+178647-178648
+178649-178650
+178651-178652
+178653-178654
+178655-178656
+178657-178658
+178659-178660
+178661-178662
+178663-178664
+178665-178666
+178667-178668
+178669-178670
+178671-178672
+178673-178674
+178675
+178680-178681
+178682-178683
+178684-178685
+178686-178687
+178688-178689
+178690-178691
+178692-178693
+178694-178695
+178696-178697
+178698-178699
+178700-178701
+178702-178703
+178704-178705
+178706-178707
+178708-178709
+178710-178711
+178712-178713
+178714-178715
+178716-178717
+178718-178719
+178720-178721
+178722-178723
+178724-178725
+178726-178727
+178728-178729
+178730-178731
+178732-178733
+178734-178735
+178736-178737
+178738-178739
+178740-178741
+178742-178743
+178744-178745
+178746-178747
+178748-178749
+178750-178751
+178752-178753
+178754-178755
+178756-178757
+178758-178759
+178760-178761
+178762-178763
+178764-178765
+178766-178767
+178768-178769
+178770-178771
+178772-178773
+178774-178775
+178776-178777
+178778-178779
+178780-178781
+178782-178783
+178784-178785
+178786-178787
+178788-178789
+178790-178791
+178792-178793
+178794-178795
+178796-178797
+178798-178799
+178800-178801
+178802-178803
+178804-178805
+178806-178807
+178808-178809
+178810-178811
+178812-178813
+178814-178815
+178816-178817
+178818-178819
+178820-178821
+178822-178823
+178824-178825
+178826-178827
+178828-178829
+178830-178831
+178832-178833
+178834-178835
+178836-178837
+178838-178839
+178840-178841
+178842-178843
+178844-178845
+178846-178847
+178848-178849
+178850-178851
+178852-178853
+178854-178855
+178856-178857
+178858-178859
+178860-178861
+178862-178863
+178864-178865
+178866-178867
+178868-178869
+178870-178871
+178872-178873
+178874-178875
+178876-178877
+178878-178879
+178880-178881
+178882-178883
+178884-178885
+178886-178887
+178888-178889
+178890-178891
+178892-178893
+178894-178895
+178896-178897
+178898-178899
+178900-178901
+178902-178903
+178904-178905
+178906-178907
+178908-178909
+178910-178911
+178912-178913
+178914-178915
+178916-178917
+178918-178919
+178920-178921
+178922-178923
+178929-178930
+178933-178934
+178935-178936
+178937-178938
+178939-178940
+178941-178942
+178943-178944
+178945-178946
+178947-178948
+178949-178950
+178951-178952
+178953-178954
+178955-178956
+178957-178958
+178959-178960
+178961-178962
+178963-178964
+178965-178966
+178967-178968
+178969-178970
+178971-178972
+178973-178974
+178975-178976
+178977-178978
+178979-178980
+178983-178984
+178985-178986
+178987-178988
+178989-178990
+178991-178992
+178993-178994
+178995-178996
+178997-178998
+178999-179000
+179001-179002
+179003-179004
+179005-179006
+179007-179008
+179009-179010
+179011-179012
+179013-179014
+179015-179016
+179017-179018
+179019-179020
+179021-179022
+179023-179024
+179025-179026
+179027-179028
+179029-179030
+179031-179032
+179033-179034
+179035-179036
+179037-179038
+179039-179040
+179041-179042
+179043-179044
+179045-179046
+179047-179048
+179049-179050
+179051-179052
+179053-179054
+179055-179056
+179057-179058
+179059-179060
+179061-179062
+179063-179064
+179065-179066
+179067-179068
+179069-179070
+179071-179072
+179073-179074
+179075-179076
+179077-179078
+179079-179080
+179081-179082
+179083-179084
+179085-179086
+179087-179088
+179089-179090
+179091-179092
+179093-179094
+179095-179096
+179097-179098
+179099-179100
+179101-179102
+179103-179104
+179105-179106
+179107-179108
+179109-179110
+179111-179112
+179113-179114
+179115-179116
+179117-179118
+179119-179120
+179121-179122
+179123-179124
+179125-179126
+179127-179128
+179129-179130
+179131-179132
+179133-179134
+179135-179136
+179137-179138
+179139-179142
+179143-179144
+179145-179146
+179147-179148
+179149-179150
+179151-179152
+179153
+179154-179155
+179156-179157
+179158-179159
+179160-179161
+179162-179163
+179164-179165
+179166-179167
+179168-179169
+179170-179171
+179172-179173
+179174-179175
+179176-179177
+179178-179179
+179180-179181
+179182-179183
+179184-179185
+179186-179187
+179188-179189
+179190-179191
+179192-179193
+179194-179195
+179196-179197
+179198-179199
+179200-179201
+179202-179203
+179204-179205
+179206-179207
+179208-179209
+179210-179211
+179212-179213
+179214-179215
+179216-179217
+179218-179219
+179220-179221
+179222-179223
+179224-179225
+179226-179227
+179228-179229
+179230-179231
+179232-179233
+179234-179235
+179236-179237
+179238-179239
+179240-179241
+179242-179243
+179244-179245
+179246-179247
+179248-179249
+179250-179251
+179252-179253
+179254-179255
+179256-179257
+179258-179259
+179260-179261
+179262
+179265-179266
+179267-179268
+179269-179270
+179271-179272
+179273-179274
+179275-179276
+179277-179278
+179279-179280
+179281-179282
+179283-179284
+179285-179286
+179287-179288
+179289-179290
+179291-179292
+179293-179294
+179295-179296
+179297-179298
+179299-179300
+179301-179302
+179303-179304
+179305-179306
+179307-179308
+179309-179310
+179311-179312
+179313-179314
+179315-179316
+179317-179318
+179319-179320
+179321-179322
+179323-179324
+179325-179326
+179327-179328
+179329-179330
+179331-179332
+179333-179334
+179335-179336
+179337-179338
+179339-179340
+179341-179342
+179343-179344
+179345-179346
+179347-179348
+179349-179350
+179351-179352
+179353-179354
+179355-179356
+179357-179358
+179359-179360
+179361-179362
+179363-179364
+179365-179366
+179367-179368
+179369-179370
+179371-179372
+179373-179374
+179375-179376
+179377-179378
+179379-179380
+179381-179382
+179383-179384
+179385-179386
+179387-179388
+179389-179390
+179391-179392
+179393-179394
+179395-179396
+179397-179398
+179399-179400
+179401-179402
+179405-179406
+179407-179408
+179409-179410
+179411-179412
+179415-179416
+179417-179418
+179419-179420
+179423-179424
+179425-179426
+179427-179428
+179429-179430
+179431-179432
+179433-179434
+179435-179436
+179437-179438
+179439-179440
+179441-179442
+179443-179444
+179445-179446
+179447-179448
+179449-179450
+179451-179452
+179453-179454
+179455-179456
+179457-179458
+179459-179460
+179461-179462
+179463-179464
+179465-179466
+179467-179468
+179469-179470
+179471-179472
+179473-179474
+179475-179476
+179477-179478
+179479-179480
+179481-179482
+179483-179484
+179485-179486
+179487-179488
+179489-179490
+179491-179492
+179493-179494
+179495-179496
+179497-179498
+179499-179500
+179501-179502
+179503-179504
+179505-179506
+179507-179508
+179509-179510
+179511-179512
+179513-179514
+179515-179516
+179517-179518
+179519-179520
+179521-179522
+179523-179524
+179525-179526
+179527-179528
+179529-179530
+179531-179532
+179533-179534
+179535-179536
+179537-179538
+179539-179540
+179541-179542
+179543-179544
+179545-179546
+179547-179548
+179549-179550
+179551-179552
+179553-179554
+179555-179556
+179557-179558
+179559-179560
+179561-179562
+179563-179564
+179565-179566
+179567-179568
+179569-179570
+179571-179572
+179573-179574
+179575-179576
+179577-179578
+179579-179580
+179581-179582
+179583-179584
+179585-179586
+179587-179588
+179589-179590
+179591-179592
+179593-179594
+179595-179596
+179597-179598
+179599-179600
+179601-179602
+179603-179604
+179605-179606
+179607-179608
+179609-179610
+179611-179612
+179613-179614
+179615-179616
+179617-179618
+179619-179620
+179621-179622
+179623-179624
+179625-179626
+179627-179628
+179629-179630
+179631-179632
+179633-179634
+179635-179636
+179637-179638
+179639-179640
+179641-179642
+179643-179644
+179645-179646
+179647-179648
+179649-179650
+179651-179652
+179653-179654
+179655-179656
+179657-179658
+179659-179660
+179661-179662
+179663-179664
+179665-179666
+179667-179668
+179669-179670
+179671-179672
+179673-179674
+179675-179676
+179677-179678
+179679-179680
+179681-179682
+179683-179684
+179685-179686
+179687-179688
+179689-179690
+179691-179692
+179693-179694
+179695-179696
+179697-179698
+179699-179700
+179701-179702
+179703-179704
+179705-179706
+179707-179708
+179709-179710
+179711-179712
+179713-179714
+179715-179716
+179717-179718
+179719-179720
+179721-179722
+179723-179724
+179725-179726
+179727-179728
+179729-179730
+179731-179732
+179733-179734
+179735-179736
+179737-179738
+179739-179740
+179741-179742
+179743-179744
+179745-179746
+179747-179748
+179749-179750
+179751-179752
+179753-179754
+179755-179756
+179757-179758
+179759-179760
+179761-179762
+179763-179764
+179765-179766
+179767-179768
+179769-179770
+179771-179772
+179773-179774
+179775-179776
+179777-179778
+179779-179780
+179781-179782
+179783-179784
+179785-179786
+179787-179788
+179789-179790
+179791-179792
+179793-179794
+179795-179796
+179797-179798
+179799-179800
+179803-179804
+179805-179806
+179807-179808
+179809-179810
+179811-179812
+179813-179814
+179815-179816
+179817-179818
+179819-179820
+179821-179822
+179823-179824
+179825-179826
+179827-179828
+179829-179830
+179831
+179832-179833
+179834-179835
+179836-179837
+179838-179839
+179840-179841
+179842-179843
+179844-179845
+179846-179847
+179848-179849
+179850-179851
+179852-179853
+179854-179855
+179856-179857
+179858-179859
+179860-179861
+179862-179863
+179864-179865
+179866-179867
+179869-179870
+179871-179872
+179873-179874
+179875-179876
+179877-179878
+179879-179880
+179881-179882
+179883-179884
+179885-179886
+179887-179888
+179889-179890
+179891
+179894-179895
+179896-179897
+179898-179899
+179900
+179908-179909
+179910-179911
+179912-179913
+179914-179915
+179916-179917
+179918-179919
+179920-179921
+179922-179923
+179924-179925
+179926-179927
+179928-179929
+179930-179931
+179932-179933
+179934-179935
+179936-179937
+179938-179939
+179940-179941
+179942-179943
+179944-179945
+179946-179947
+179948-179949
+179950-179951
+179952-179953
+179954-179955
+179956-179957
+179958-179959
+179960-179961
+179962-179963
+179964-179965
+179966-179967
+179968-179969
+179970-179971
+179972-179973
+179974-179975
+179976-179977
+179978-179979
+179980-179981
+179982-179983
+179984-179985
+179986-179987
+179988-179989
+179990-179991
+179992-179993
+179994-179995
+179996-179997
+179998-179999
+180000-180001
+180002-180003
+180004-180005
+180006-180007
+180008-180009
+180010-180011
+180012-180013
+180014-180015
+180016-180017
+180018-180019
+180020-180021
+180022-180023
+180024-180025
+180026-180027
+180028-180029
+180030-180031
+180032-180033
+180034-180035
+180036-180037
+180038-180039
+180040-180041
+180042-180043
+180044-180045
+180046-180047
+180048-180049
+180050-180051
+180052-180053
+180054-180055
+180056-180057
+180058-180059
+180060-180061
+180062-180063
+180064-180065
+180066-180067
+180068-180069
+180070-180071
+180072-180073
+180074-180075
+180076-180077
+180078-180079
+180080-180081
+180082-180083
+180084-180085
+180086-180087
+180088-180089
+180090-180091
+180092-180093
+180094-180095
+180096-180097
+180098-180099
+180100-180101
+180102-180103
+180104-180105
+180106-180107
+180108-180109
+180110-180111
+180112-180113
+180114-180115
+180116-180117
+180118-180119
+180120-180121
+180122-180123
+180124-180125
+180126
+180129-180130
+180131-180132
+180133-180134
+180135-180136
+180137-180138
+180139-180140
+180141-180142
+180143-180144
+180145-180146
+180147
+180148
+180149-180150
+180151-180152
+180153-180154
+180155-180156
+180157-180158
+180159-180160
+180161-180162
+180163-180164
+180165-180166
+180167-180168
+180169-180170
+180171-180172
+180173-180174
+180175-180176
+180177-180178
+180179-180180
+180181-180182
+180183-180184
+180185-180186
+180187-180188
+180189-180190
+180191-180192
+180193-180194
+180195-180196
+180197-180198
+180199-180200
+180201-180202
+180203-180204
+180205-180206
+180207-180208
+180209-180210
+180211-180212
+180213-180214
+180215-180216
+180217-180218
+180219-180220
+180221-180222
+180223-180224
+180225-180226
+180227-180228
+180229-180230
+180231-180232
+180233-180234
+180235-180236
+180237
+180239-180240
+180241-180242
+180243-180244
+180245-180246
+180247-180248
+180249-180250
+180251-180252
+180253-180254
+180255-180256
+180257-180258
+180259-180260
+180261-180262
+180263-180264
+180265-180266
+180267-180268
+180269-180270
+180271-180272
+180273-180274
+180275
+180276-180277
+180278-180279
+180280-180281
+180282-180283
+180284-180285
+180286-180287
+180288-180289
+180290-180291
+180292-180293
+180294-180295
+180296-180297
+180298-180299
+180300-180301
+180302-180303
+180304-180305
+180306-180307
+180308-180309
+180310-180311
+180312-180313
+180314-180315
+180316-180317
+180318-180319
+180320-180321
+180322-180323
+180324-180325
+180326-180327
+180328-180329
+180330-180331
+180332-180333
+180334-180335
+180336-180337
+180338-180339
+180340-180341
+180342-180343
+180344-180345
+180346-180347
+180348-180349
+180350-180351
+180352-180353
+180354-180355
+180356-180357
+180358-180359
+180360-180361
+180362-180363
+180364-180365
+180366-180367
+180368-180369
+180370-180371
+180372-180373
+180374-180375
+180376-180377
+180378-180379
+180380-180381
+180382-180383
+180384-180385
+180386-180387
+180388-180389
+180390-180391
+180392-180393
+180394-180395
+180396-180397
+180398-180399
+180400-180401
+180402-180403
+180404-180405
+180406-180407
+180408-180409
+180410-180411
+180412-180413
+180414-180415
+180416-180417
+180418-180419
+180420-180421
+180422-180423
+180424-180425
+180426-180427
+180428-180429
+180430-180431
+180432-180433
+180434-180435
+180436-180437
+180438-180439
+180440-180441
+180442-180443
+180444-180445
+180446-180447
+180448-180449
+180450-180451
+180452-180453
+180454-180455
+180456-180457
+180458-180459
+180460-180461
+180462-180463
+180464-180465
+180466-180467
+180468-180469
+180470-180471
+180472-180473
+180474-180475
+180476-180477
+180478-180479
+180480-180481
+180482-180483
+180484-180485
+180486-180487
+180488-180489
+180490-180491
+180492-180493
+180494-180495
+180496-180497
+180498-180499
+180500-180501
+180502-180503
+180504-180505
+180506-180507
+180508-180509
+180510-180511
+180512-180513
+180514-180515
+180516-180517
+180518-180519
+180520-180521
+180522-180523
+180524
+180525-180526
+180527-180528
+180529-180530
+180531-180532
+180533-180534
+180535-180536
+180537-180538
+180539-180540
+180541-180542
+180543-180544
+180545-180546
+180547-180548
+180549-180550
+180551-180552
+180553-180554
+180555-180556
+180557-180558
+180559-180560
+180561-180562
+180563-180564
+180565-180566
+180567-180568
+180569-180570
+180571-180572
+180573-180574
+180575-180576
+180577-180578
+180579-180580
+180581-180582
+180583-180584
+180585-180586
+180587-180588
+180589-180590
+180591-180592
+180593-180594
+180595-180596
+180597-180598
+180599-180600
+180601-180602
+180603-180604
+180605-180606
+180607-180608
+180609-180610
+180611-180612
+180613-180614
+180615-180616
+180617-180618
+180619-180620
+180621-180622
+180623-180624
+180625-180626
+180627-180628
+180629-180630
+180631-180632
+180633-180634
+180635-180636
+180637-180638
+180639-180640
+180641-180642
+180643-180644
+180645-180646
+180647-180648
+180649-180650
+180651-180652
+180653-180654
+180655-180656
+180657-180658
+180659-180660
+180661-180662
+180663-180664
+180665-180666
+180667-180668
+180669-180670
+180671-180672
+180673-180674
+180675-180676
+180677-180678
+180679-180680
+180681-180682
+180683-180684
+180685
+180686-180687
+180688-180689
+180690
+180692
+180693
+180697
+180700
+180703
+180705
+180707
+180709
+180712
+180715
+180718
+180720
+180725
+180728
+180730
+180733
+180744
+180747
+180749
+180755
+180761
+180764
+180768
+180771
+180773
+180784
+180789
+180793
+180800
+180805
+180808
+180811
+180816
+180822
+180827
+180830
+180834
+180837
+180840
+180843
+180848
+180851
+180855
+180861
+180866
+180870
+180874
+180877
+180884
+180888
+180895
+180900
+180905
+180909
+180914
+180920
+180927
+180934
+180937
+180942
+180949
+180953
+180956
+180960
+180967
+180971
+180976
+180978
+180980
+180984
+180987
+180992
+180994
+180998
+181005
+181008
+181015
+181017
+181020
+181025
+181028
+181033
+181037
+181040
+181043
+181046
+181053
+181055
+181057
+181062
+181067
+181072
+181075
+181077
+181081
+181085
+181089
+181091
+181093
+181100
+181105
+181110
+181115
+181119
+181124
+181129
+181134
+181136
+181141
+181146
+181155
+181158
+181165
+181172
+181177
+181180
+181182
+181184
+181189
+181194
+181199
+181204
+181208
+181210
+181215
+181220
+181225
+181227
+181232
+181239
+181244
+181249
+181252
+181256
+181259
+181261
+181264
+181268
+181275
+181277
+181282
+181287
+181291
+181294
+181299
+181301
+181307
+181314
+181319
+181321
+181323
+181325
+181327
+181336
+181341
+181346
+181348
+181353
+181356
+181360
+181362
+181364
+181366
+181368
+181371
+181376
+181378
+181380
+181382
+181385
+181392
+181393
+181394
+181395
+181396
+181400
+181404
+181409
+181414
+181416
+181422
+181426
+181429
+181435
+181440
+181442
+181449-181450
+181451
+181456
+181463
+181466
+181469
+181474
+181481
+181488
+181493
+181500
+181507
+181515
+181520
+181530
+181533
+181536
+181540-181541
+181542
+181545
+181548
+181553
+181558
+181563
+181565
+181568
+181573
+181577
+181580
+181584
+181588
+181592
+181596
+181601
+181609
+181615
+181621
+181626
+181631
+181635
+181641
+181645
+181651
+181657
+181661-181662
+181663
+181667
+181670
+181672
+181675
+181678
+181681
+181684
+181694
+181698
+181701
+181706
+181712
+181718
+181724
+181728
+181732
+181738
+181742
+181745
+181751
+181755
+181759-181760
+181761
+181765
+181771
+181778
+181782
+181784
+181790-181791
+181793
+181797
+181803
+181808
+181812-181813
+181814
+181821
+181823
+181826
+181831
+181832
+181837
+181852
+181857
+181862
+181867
+181880
+181886
+181892
+181900
+181906
+181912
+181918
+181924
+181927
+181931
+181935
+181940
+181944
+181948
+181951
+181956
+181959
+181967
+181974
+181981
+181985-181986
+181992-181993
+181994
+182001
+182003
+182006
+182009
+182011
+182017
+182020
+182023
+182025
+182027
+182032
+182039
+182041
+182046
+182050
+182052
+182055
+182060
+182065
+182068
+182072
+182077
+182084
+182087
+182092
+182097
+182101
+182104
+182107
+182114
+182120
+182123
+182128
+182137
+182141
+182146
+182149
+182153
+182157
+182160
+182164
+182169
+182173
+182183
+182189
+182194
+182201
+182204
+182210
+182218
+182222
+182226
+182229
+182234
+182237
+182243
+182248
+182251
+182255
+182263
+182269
+182273
+182278
+182284
+182294
+182300
+182304
+182310
+182316
+182320
+182328
+182334
+182340
+182344
+182348
+182354
+182362
+182366
+182370
+182375
+182379
+182383
+182387
+182390
+182396
+182401
+182407
+182412
+182416
+182424
+182429
+182433
+182445
+182451
+182455
+182459-182460
+182461
+182464
+182467
+182471
+182476
+182481
+182484
+182489
+182494
+182497
+182506
+182511
+182518
+182523
+182530
+182534
+182539
+182546
+182549
+182554
+182561
+182566
+182572
+182575
+182583
+182587
+182593
+182599
+182605
+182611
+182618
+182626
+182633
+182638
+182646
+182652
+182656
+182660
+182666
+182674
+182678
+182682
+182686
+182692
+182698
+182703
+182708
+182713
+182717
+182721
+182725
+182729
+182735
+182737
+182741-182742
+182743
+182748
+182755
+182760
+182765
+182769
+182773
+182779
+182784
+182788-182789
+182790
+182793
+182796
+182799
+182804
+182808
+182812
+182815
+182817
+182823
+182828
+182831
+182835
+182840
+182845
+182850
+182854
+182859
+182865
+182870
+182874
+182880
+182886
+182892
+182900
+182906
+182910
+182918
+182923
+182930
+182935
+182938
+182944
+182948
+182953
+182959
+182964
+182968
+182972
+182979
+182983
+182987
+182993
+182998
+183004
+183010
+183018
+183028
+183036
+183040
+183044
+183049
+183055
+183060
+183068
+183074
+183084
+183091-183092
+183093
+183098
+183103
+183110
+183115
+183117
+183124
+183127
+183133
+183139
+183143
+183147
+183153
+183163
+183169
+183174
+183179
+183184-183185
+183187
+183192
+183199
+183206
+183211
+183214
+183220
+183225
+183231
+183235
+183244
+183247
+183251
+183265
+183271
+183274
+183279
+183286
+183293
+183297
+183306
+183310
+183316
+183326
+183331
+183339
+183342
+183347
+183352
+183357
+183362
+183367
+183372
+183379
+183385
+183389
+183394
+183399
+183406
+183412
+183419
+183423
+183428
+183435
+183439
+183444
+183449
+183456
+183462
+183469
+183476
+183481
+183486
+183491
+183495
+183500
+183504
+183509
+183514
+183524
+183526
+183533
+183542
+183551
+183556
+183561
+183566
+183572
+183577
+183579
+183581
+183586
+183588
+183591
+183598
+183606
+183611
+183614
+183619
+183628
+183633
+183638
+183643
+183650
+183654
+183659
+183664
+183669
+183674
+183682
+183686
+183692
+183696
+183707
+183712
+183719
+183722
+183726
+183734
+183740
+183744
+183748
+183755
+183760
+183765
+183767
+183773
+183778
+183780
+183786
+183788
+183795
+183801
+183807
+183821
+183831
+183838
+183844
+183853
+183864
+183870
+183876
+183880
+183885
+183890
+183895
+183899
+183905
+183910
+183915
+183923
+183927
+183933
+183938
+183943
+183948
+183953
+183959
+183963
+183964
+183970-183971
+183972-183973
+183974-183975
+183976-183977
+183979-183980
+183982-183983
+183985-183986
+183987-183988
+183990-183991
+183993-183994
+183996-183997
+183999-184000
+184002-184003
+184005-184006
+184008-184009
+184011-184012
+184014-184015
+184017-184018
+184020-184021
+184023-184024
+184026-184027
+184029-184030
+184032-184033
+184035-184036
+184038-184039
+184041-184042
+184044-184045
+184047-184048
+184050-184051
+184053-184054
+184056-184057
+184059-184060
+184062-184063
+184065-184066
+184068-184069
+184071-184072
+184074-184075
+184077-184078
+184080-184081
+184083-184084
+184086-184087
+184089-184090
+184092-184093
+184095-184096
+184098-184099
+184101-184102
+184104-184105
+184107-184108
+184110-184111
+184113-184114
+184116-184117
+184119-184120
+184122-184123
+184125-184126
+184128-184129
+184131-184132
+184134-184135
+184137-184138
+184140-184141
+184143-184144
+184146-184147
+184149-184150
+184152-184153
+184155-184156
+184158-184159
+184161-184162
+184164-184165
+184167-184168
+184170-184171
+184173-184174
+184176-184177
+184179-184180
+184182-184183
+184185-184186
+184188-184189
+184191-184192
+184194-184195
+184197-184198
+184200-184201
+184203-184204
+184206-184207
+184209-184210
+184212-184213
+184215-184216
+184218-184219
+184221-184222
+184224-184225
+184227-184228
+184230-184231
+184233-184234
+184236-184237
+184239-184240
+184242-184243
+184245-184246
+184248-184249
+184251-184252
+184254-184255
+184257-184258
+184260-184261
+184263-184264
+184266-184267
+184269-184270
+184272-184273
+184275-184276
+184278-184279
+184281-184282
+184284-184285
+184287-184288
+184290-184291
+184293-184294
+184296-184297
+184299-184300
+184302-184303
+184305-184306
+184308-184309
+184311-184312
+184314-184315
+184317-184318
+184320-184321
+184323-184324
+184326-184327
+184329-184330
+184332-184333
+184335-184336
+184338-184339
+184341-184342
+184344-184345
+184347-184348
+184350-184351
+184353-184354
+184356-184357
+184359-184360
+184362-184363
+184365-184366
+184368-184369
+184371-184372
+184374-184375
+184377-184378
+184380-184381
+184383-184384
+184386-184387
+184389-184390
+184392-184393
+184395-184396
+184398-184399
+184401-184402
+184404-184405
+184407-184408
+184410-184411
+184413-184414
+184416-184417
+184419-184420
+184422-184423
+184425-184426
+184428-184429
+184431-184432
+184434-184435
+184437-184438
+184440-184441
+184443-184444
+184446-184447
+184449-184450
+184452-184453
+184455-184456
+184458-184459
+184461-184462
+184464-184465
+184467-184468
+184470-184471
+184473-184474
+184476-184477
+184479-184480
+184482-184483
+184485-184486
+184488-184489
+184491-184492
+184494-184495
+184497-184498
+184500-184501
+184503-184504
+184506-184507
+184509-184510
+184512-184513
+184515-184516
+184518-184519
+184521-184522
+184524-184525
+184527-184528
+184530-184531
+184533-184534
+184536-184537
+184539-184540
+184542-184543
+184545-184546
+184548-184549
+184551-184552
+184554-184555
+184557-184558
+184560-184561
+184563-184564
+184566-184567
+184569-184570
+184572-184573
+184575-184576
+184578-184579
+184581-184582
+184584-184585
+184587-184588
+184590-184591
+184593-184594
+184596-184597
+184599-184600
+184602-184603
+184605-184606
+184608-184609
+184611-184612
+184614-184615
+184617-184618
+184620-184621
+184623-184624
+184626-184627
+184629-184630
+184632-184633
+184635-184636
+184638-184639
+184641-184642
+184644-184645
+184647-184648
+184650-184651
+184653-184654
+184656-184657
+184659-184660
+184662-184663
+184665-184666
+184668-184669
+184671-184672
+184674-184675
+184677-184678
+184680-184681
+184683-184684
+184686-184687
+184689-184690
+184692-184693
+184695-184696
+184698-184699
+184701-184702
+184704-184705
+184707-184708
+184710-184711
+184713-184714
+184716-184717
+184719-184720
+184722-184723
+184725-184726
+184728-184729
+184731-184732
+184734-184735
+184737-184738
+184740-184741
+184743-184744
+184746-184747
+184749-184750
+184752-184753
+184755-184756
+184758-184759
+184761-184762
+184764-184765
+184767-184768
+184770-184771
+184773-184774
+184776-184777
+184779-184780
+184782-184783
+184785-184786
+184788-184789
+184791-184792
+184794-184795
+184797-184798
+184800-184801
+184803-184804
+184806-184807
+184809-184810
+184812-184813
+184815-184816
+184818-184819
+184821-184822
+184824-184825
+184827-184828
+184830-184831
+184833-184834
+184836-184837
+184839-184840
+184842-184843
+184845-184846
+184848-184849
+184851-184852
+184854-184855
+184857-184858
+184860-184861
+184863-184864
+184866-184867
+184869-184870
+184872-184873
+184875-184876
+184878-184879
+184881-184882
+184884-184885
+184887-184888
+184890-184891
+184893-184894
+184896-184897
+184899-184900
+184902-184903
+184905-184906
+184908-184909
+184911-184912
+184914-184915
+184917-184918
+184920-184921
+184923-184924
+184926-184927
+184929-184930
+184932-184933
+184935-184936
+184938-184939
+184941-184942
+184944-184945
+184947-184948
+184950-184951
+184953-184954
+184956-184957
+184959-184960
+184962-184963
+184965-184966
+184968-184969
+184971-184972
+184974-184975
+184977-184978
+184980-184981
+184983-184984
+184986-184987
+184989-184990
+184992-184993
+184995-184996
+184998-184999
+185001-185002
+185004-185005
+185007-185008
+185010-185011
+185013-185014
+185016-185017
+185019-185020
+185022-185023
+185025-185026
+185028-185029
+185031-185032
+185034-185035
+185037-185038
+185040-185041
+185043-185044
+185046-185047
+185049-185050
+185052-185053
+185055-185056
+185058-185059
+185061-185062
+185064-185065
+185067-185068
+185070-185071
+185073-185074
+185076-185077
+185079-185080
+185082-185083
+185085-185086
+185088-185089
+185091-185092
+185094-185095
+185097-185098
+185100-185101
+185103-185104
+185106-185107
+185109-185110
+185112-185113
+185115-185116
+185118-185119
+185121-185122
+185124-185125
+185127-185128
+185130-185131
+185133-185134
+185136-185137
+185139-185140
+185142-185143
+185145-185146
+185148-185149
+185151-185152
+185154-185155
+185157-185158
+185160-185161
+185163-185164
+185166-185167
+185169-185170
+185172-185173
+185175-185176
+185178-185179
+185181-185182
+185184-185185
+185187-185188
+185190
+185191
+185193-185194
+185195-185196
+185197-185198
+185199
+185204-185205
+185207-185208
+185211-185212
+185214-185215
+185217-185218
+185219-185220
+185221-185222
+185225-185226
+185232-185233
+185234-185235
+185237-185238
+185240-185241
+185242-185243
+185244-185245
+185246-185247
+185249-185250
+185252-185253
+185254-185255
+185256-185257
+185259-185260
+185261-185262
+185263-185264
+185265-185266
+185268-185269
+185270-185271
+185272-185273
+185274-185275
+185276-185277
+185279-185280
+185281-185282
+185283-185284
+185286-185287
+185289-185290
+185291-185292
+185293-185294
+185295-185296
+185299-185300
+185301-185302
+185303-185304
+185305-185306
+185307-185308
+185311-185312
+185313-185314
+185315-185316
+185317-185318
+185320-185321
+185322-185323
+185325-185326
+185328-185329
+185330-185331
+185333-185334
+185335-185336
+185338-185339
+185341-185342
+185343-185344
+185345-185346
+185348-185349
+185350-185351
+185352-185353
+185354-185355
+185357-185358
+185360-185361
+185363-185364
+185367-185368
+185371-185372
+185373-185374
+185376-185377
+185380-185381
+185382-185383
+185384-185385
+185386-185387
+185389-185390
+185392-185393
+185395-185396
+185397-185398
+185399-185400
+185401-185402
+185404-185405
+185407-185408
+185410-185411
+185413-185414
+185416-185417
+185418-185419
+185421-185422
+185424-185425
+185426-185427
+185430-185431
+185432
+185437-185438
+185441
+185443-185444
+185445-185446
+185448-185449
+185450-185451
+185452-185453
+185454-185455
+185456-185457
+185458-185459
+185460-185461
+185462-185463
+185464-185465
+185467
+185473-185474
+185476-185477
+185480-185481
+185482-185483
+185485-185486
+185487-185488
+185489-185490
+185492-185493
+185494-185495
+185496-185497
+185499-185500
+185501-185502
+185503-185504
+185505-185506
+185507
+185511-185512
+185514-185515
+185517-185518
+185520-185521
+185523-185524
+185525
+185533-185534
+185535-185536
+185537-185538
+185539-185540
+185541-185542
+185544-185545
+185546-185547
+185549-185550
+185553-185554
+185556
+185563
+185565-185566
+185571-185572
+185573-185574
+185576-185577
+185580
+185584-185585
+185588-185589
+185592-185593
+185594-185595
+185597-185598
+185599-185600
+185602-185603
+185605-185606
+185608-185609
+185611-185612
+185614-185615
+185617-185618
+185619-185620
+185621-185622
+185623-185624
+185626-185627
+185630-185631
+185633-185634
+185636-185637
+185640-185641
+185643-185644
+185646-185647
+185648
+185650-185651
+185653-185654
+185656-185657
+185658-185659
+185660-185661
+185663-185664
+185666-185667
+185669-185670
+185671-185672
+185673-185674
+185677-185678
+185681-185682
+185683-185684
+185685-185686
+185689-185690
+185692-185693
+185695-185696
+185697-185698
+185699-185700
+185702-185703
+185704-185705
+185706-185707
+185711-185712
+185713-185714
+185715-185716
+185717-185718
+185720-185721
+185723-185724
+185726-185727
+185728-185729
+185730-185731
+185732-185733
+185735-185736
+185737-185738
+185740-185741
+185742-185743
+185744-185745
+185746-185747
+185748-185749
+185750-185751
+185752-185753
+185754-185755
+185756-185757
+185758-185759
+185761-185762
+185764-185765
+185767
+185768
+185770
+185773
+185775
+185776
+185777
+185778
+185780
+185783
+185787
+185789
+185790
+185791
+185794
+185796
+185799
+185800
+185802
+185807
+185809
+185812
+185814
+185816
+185818
+185820
+185822
+185823
+185825
+185828
+185829
+185830
+185832
+185836
+185837
+185839
+185840
+185842
+185845
+185847
+185849
+185852
+185854
+185856
+185858
+185859
+185861
+185863
+185864
+185867
+185869
+185871
+185873
+185875
+185877
+185879
+185881
+185883
+185884
+185887
+185890
+185893
+185895
+185897
+185898
+185902
+185903
+185904
+185906
+185908
+185910
+185912
+185914
+185915
+185918
+185923
+185925
+185927
+185929
+185931
+185933
+185935
+185938
+185940
+185942
+185944
+185946
+185948
+185950
+185952
+185954
+185956
+185958
+185960
+185962
+185964
+185966
+185969
+185971
+185973
+185975
+185977
+185979
+185981
+185983
+185985
+185987
+185989
+185991
+185993
+185995
+185997
+185999
+186001
+186003
+186005
+186007
+186009
+186011
+186013
+186015
+186017
+186019
+186021
+186023
+186025
+186027
+186029
+186031
+186033
+186035
+186037
+186039
+186041
+186043
+186045
+186047
+186049
+186051
+186053
+186055
+186057
+186059
+186061
+186063
+186065
+186067
+186069
+186071
+186073
+186075
+186077
+186079
+186082
+186085
+186088
+186091
+186094
+186097
+186100
+186103
+186105
+186107
+186109
+186111
+186113
+186115
+186117
+186119
+186121
+186123
+186125
+186127
+186129
+186131
+186133
+186135
+186137
+186139
+186142
+186144
+186146
+186148
+186150
+186152
+186154
+186156
+186158
+186160
+186162
+186164
+186166
+186168
+186170
+186172
+186174
+186176
+186178
+186180
+186182
+186184
+186186
+186188
+186191
+186194
+186197
+186200
+186203
+186205
+186207
+186209
+186211
+186213
+186215
+186217
+186219
+186221
+186223
+186225
+186227
+186229
+186231
+186233
+186235
+186237
+186239
+186241
+186243
+186245
+186247
+186249
+186251
+186253
+186255
+186257-186258
+186259
+186261
+186262
+186264
+186267
+186269
+186271
+186273
+186274
+186275
+186277
+186279
+186283
+186286
+186288
+186290
+186292
+186295
+186296
+186298
+186299
+186300
+186301
+186302
+186306
+186310
+186311
+186312
+186313
+186315
+186316
+186317
+186319
+186320
+186322
+186324
+186325
+186326
+186327
+186329
+186330
+186331
+186332
+186336
+186337
+186338
+186339
+186340
+186341
+186343
+186345
+186346
+186348
+186349
+186353
+186356
+186357
+186359
+186360
+186362
+186364
+186366
+186370
+186371
+186372
+186374
+186375
+186376
+186377
+186378
+186379
+186380
+186381
+186383
+186385
+186387
+186388
+186389
+186390
+186391
+186392
+186394
+186395
+186398
+186399
+186400
+186402
+186403
+186404
+186405
+186406
+186410
+186412
+186413
+186414
+186415
+186417
+186419
+186421
+186423
+186425
+186426
+186428
+186430
+186432
+186433
+186435
+186436
+186438
+186440
+186442
+186445
+186448
+186449
+186453
+186456
+186458
+186460
+186463
+186466
+186468
+186470
+186472
+186474
+186475
+186476
+186477
+186478
+186481
+186483
+186487
+186488
+186489
+186490
+186491
+186493
+186495
+186497
+186498
+186499
+186500
+186504
+186506
+186508
+186510
+186512
+186513
+186514
+186515
+186517
+186519
+186521
+186524
+186526
+186529
+186531
+186533
+186534
+186535
+186537
+186539
+186540
+186541
+186544
+186549
+186551
+186553
+186554
+186556
+186557
+186558
+186560
+186562
+186564
+186567
+186569
+186571
+186574
+186576
+186579
+186582
+186583
+186585
+186587
+186588
+186590
+186591
+186593
+186594
+186597
+186599
+186603
+186605
+186606
+186609
+186611-186612
+186613
+186614-186615
+186616-186617
+186618-186619
+186620-186621
+186622-186623
+186624-186625
+186626-186627
+186628-186629
+186630-186631
+186632-186633
+186634-186635
+186636-186637
+186638-186639
+186640-186641
+186642-186643
+186644-186645
+186646-186647
+186648-186649
+186650-186651
+186652-186653
+186654-186655
+186656-186657
+186658-186659
+186660-186661
+186662-186663
+186664-186665
+186666-186667
+186668-186669
+186670-186671
+186672-186673
+186674-186675
+186676-186677
+186678-186679
+186680-186681
+186682-186683
+186684-186685
+186686-186687
+186688-186689
+186690-186691
+186692-186693
+186694-186695
+186696-186697
+186698-186699
+186700-186701
+186702-186703
+186704-186705
+186706-186707
+186708-186709
+186710-186711
+186712-186713
+186714-186715
+186716-186717
+186718-186719
+186720-186721
+186722-186723
+186724-186725
+186726-186727
+186728-186729
+186730-186731
+186732-186733
+186734-186735
+186736-186737
+186738-186739
+186740-186741
+186742-186743
+186744-186745
+186746-186747
+186748-186749
+186750-186751
+186752-186753
+186754-186755
+186756-186757
+186758-186759
+186760-186761
+186762-186763
+186764-186765
+186766-186767
+186768-186769
+186770-186771
+186772-186773
+186774-186775
+186776-186777
+186778-186779
+186780-186781
+186782-186783
+186784-186785
+186786-186787
+186788-186789
+186790-186791
+186792-186793
+186794-186795
+186796-186797
+186798-186799
+186800-186801
+186802-186803
+186804-186805
+186806-186807
+186808-186809
+186810-186811
+186812-186813
+186814-186815
+186816-186817
+186818-186819
+186820-186821
+186822-186823
+186824-186825
+186826-186827
+186828-186829
+186830-186831
+186832-186833
+186834-186835
+186836-186837
+186838-186839
+186840-186841
+186842-186843
+186844-186845
+186846-186847
+186848-186849
+186850-186851
+186852-186853
+186854-186855
+186856-186857
+186858-186859
+186860-186861
+186862-186863
+186864-186865
+186866-186867
+186868-186869
+186870-186871
+186872-186873
+186874-186875
+186876-186877
+186878-186879
+186880-186881
+186882-186883
+186884-186885
+186886-186887
+186888-186889
+186890-186891
+186892-186893
+186894-186895
+186896-186897
+186898-186899
+186900-186901
+186902-186903
+186904-186905
+186906-186907
+186908-186909
+186910-186911
+186912-186913
+186914-186915
+186916-186917
+186918-186919
+186920-186921
+186922-186923
+186924-186925
+186926-186927
+186928-186929
+186930-186931
+186932-186933
+186934-186935
+186936-186937
+186938-186939
+186940-186941
+186942-186943
+186944-186945
+186946-186947
+186948-186949
+186950-186951
+186952-186953
+186954-186955
+186956-186957
+186958-186959
+186960-186961
+186962-186963
+186964-186965
+186966-186967
+186968-186969
+186970-186971
+186972-186973
+186974-186975
+186976-186977
+186978
+186979-186980
+186981-186982
+186983-186984
+186985-186986
+186987-186988
+186989-186990
+186991-186992
+186993-186994
+186995-186996
+186997-186998
+186999-187000
+187001-187002
+187003-187004
+187005-187006
+187007-187008
+187009-187010
+187011-187012
+187013-187014
+187015-187016
+187017-187018
+187019-187020
+187021-187022
+187023-187024
+187025-187026
+187027-187028
+187029-187030
+187031-187032
+187033-187034
+187035-187036
+187037-187038
+187039-187040
+187041-187042
+187043-187044
+187045-187046
+187047-187048
+187049-187050
+187051-187052
+187053-187054
+187055-187056
+187057-187058
+187059-187060
+187061-187062
+187063-187064
+187065-187066
+187067-187068
+187069-187070
+187071-187072
+187073-187074
+187075-187076
+187077-187078
+187079-187080
+187081-187082
+187083-187084
+187085-187086
+187087-187088
+187089-187090
+187091-187092
+187093-187094
+187095-187096
+187097-187098
+187099-187100
+187101-187102
+187103-187104
+187105-187106
+187107-187108
+187109-187110
+187111-187112
+187113-187114
+187115-187116
+187117-187118
+187119-187120
+187121-187122
+187123-187124
+187125-187126
+187127-187128
+187129-187130
+187131-187132
+187133-187134
+187135-187136
+187137-187138
+187139-187140
+187141-187142
+187143-187144
+187145-187146
+187147-187148
+187149-187150
+187151-187152
+187153-187154
+187155-187156
+187157-187158
+187159-187160
+187161-187162
+187163-187164
+187165-187166
+187167-187168
+187169-187170
+187171-187172
+187173-187174
+187175-187176
+187177-187178
+187179-187180
+187181-187182
+187183-187184
+187185-187186
+187187-187188
+187189-187190
+187191-187192
+187193-187194
+187195-187196
+187197-187198
+187199-187200
+187201-187202
+187203-187204
+187205-187206
+187207-187208
+187209-187210
+187211-187212
+187213-187214
+187215-187216
+187217-187218
+187219-187220
+187221-187222
+187223-187224
+187225-187226
+187227-187228
+187229-187230
+187231-187232
+187233-187234
+187235-187236
+187237-187238
+187239-187240
+187241-187242
+187243-187244
+187245-187246
+187247-187248
+187249-187250
+187251-187252
+187253-187254
+187255-187256
+187257-187258
+187259-187260
+187261-187262
+187263-187264
+187265-187266
+187267-187268
+187269-187270
+187271-187272
+187273-187274
+187275-187276
+187277-187278
+187279-187280
+187281-187282
+187283-187284
+187285-187286
+187287-187288
+187289-187290
+187291-187292
+187293-187294
+187295-187296
+187297-187298
+187299-187300
+187301-187302
+187303-187304
+187305-187306
+187307-187308
+187309-187310
+187311-187312
+187313-187314
+187315-187316
+187317-187318
+187319-187320
+187321-187322
+187323-187324
+187325-187326
+187327-187328
+187329-187330
+187331-187332
+187333-187334
+187335-187336
+187337-187338
+187339-187340
+187341-187342
+187343-187344
+187345-187346
+187347-187348
+187349-187350
+187351-187352
+187353-187354
+187355-187356
+187357-187358
+187359-187360
+187361-187362
+187363-187364
+187365-187366
+187367-187368
+187369-187370
+187371-187372
+187373-187374
+187375-187376
+187377
+187378-187379
+187380-187381
+187382-187383
+187384-187385
+187386-187387
+187388-187389
+187390-187391
+187392
+187393-187394
+187395-187396
+187397-187398
+187399-187400
+187401-187402
+187403-187404
+187405-187406
+187407-187408
+187409-187410
+187411-187412
+187413-187414
+187415-187416
+187417-187418
+187419-187420
+187421-187422
+187423-187424
+187425-187426
+187427-187428
+187429-187430
+187431-187432
+187433-187434
+187435-187436
+187437-187438
+187439-187440
+187441-187442
+187443-187444
+187445-187446
+187447-187448
+187449
+187454-187455
+187456-187457
+187458-187459
+187460-187461
+187462-187463
+187464-187465
+187466-187467
+187468-187469
+187470-187471
+187472-187473
+187474-187475
+187476-187477
+187478-187479
+187480-187481
+187482-187483
+187484-187485
+187486-187487
+187488-187489
+187490-187491
+187492-187493
+187494-187495
+187496-187497
+187498-187499
+187500-187501
+187502-187503
+187504-187505
+187506-187507
+187508-187509
+187510-187511
+187512-187513
+187514-187515
+187516-187517
+187518-187519
+187520-187521
+187522-187523
+187524-187525
+187526-187527
+187528-187529
+187530-187531
+187532-187533
+187534-187535
+187536-187537
+187538-187539
+187540-187541
+187542-187543
+187544-187545
+187546-187547
+187548-187549
+187550-187551
+187552-187553
+187554-187555
+187556-187557
+187558-187559
+187560-187561
+187562-187563
+187564-187565
+187566-187567
+187568-187569
+187570-187571
+187572-187573
+187574-187575
+187576-187577
+187578-187579
+187580-187581
+187582
+187583-187584
+187585-187586
+187587-187588
+187589-187590
+187591-187592
+187593-187594
+187595-187596
+187597-187598
+187599-187600
+187601-187602
+187603-187604
+187605-187606
+187607-187608
+187609-187610
+187611-187612
+187613-187614
+187615-187616
+187617-187618
+187619
+187620-187621
+187622-187623
+187624-187625
+187626-187627
+187628-187629
+187630-187631
+187632-187633
+187634-187635
+187636-187637
+187638-187639
+187640-187641
+187642-187643
+187644-187645
+187646-187647
+187648-187649
+187650-187651
+187652-187653
+187654-187655
+187656-187657
+187658-187659
+187660-187661
+187662-187663
+187664-187665
+187666-187667
+187668-187669
+187670-187671
+187672-187673
+187674-187675
+187676-187677
+187678-187679
+187680-187681
+187682-187683
+187684-187685
+187686-187687
+187688-187689
+187690-187691
+187692-187693
+187694-187695
+187696-187697
+187698-187699
+187700-187701
+187702-187703
+187704-187705
+187706-187707
+187708-187709
+187710-187711
+187712-187713
+187714-187715
+187716-187717
+187718-187719
+187720-187721
+187722-187723
+187724-187725
+187726-187727
+187728-187729
+187730-187731
+187732-187733
+187734-187735
+187736-187737
+187738-187739
+187740-187741
+187742-187743
+187744-187745
+187746-187747
+187748-187749
+187750-187751
+187752-187753
+187754-187755
+187756-187757
+187758-187759
+187760-187761
+187762-187763
+187764-187765
+187766-187767
+187768-187769
+187770-187771
+187772-187773
+187774-187775
+187776-187777
+187778-187779
+187780-187781
+187782-187783
+187784-187785
+187786-187787
+187788-187789
+187790-187791
+187792-187793
+187794-187795
+187796-187797
+187798
+187799-187800
+187801-187802
+187803-187804
+187805-187806
+187807-187808
+187809-187810
+187811-187812
+187813-187814
+187815-187816
+187817-187818
+187819-187820
+187821-187822
+187823-187824
+187825-187826
+187827-187828
+187829-187830
+187831-187832
+187833-187834
+187835-187836
+187837-187838
+187839-187840
+187841-187842
+187843-187844
+187845-187846
+187847-187848
+187849-187850
+187851-187852
+187853-187854
+187855-187856
+187857-187858
+187859-187860
+187861-187862
+187863-187864
+187865-187866
+187867-187868
+187869-187870
+187871-187872
+187873-187874
+187875-187876
+187877-187878
+187879-187880
+187881-187882
+187883-187884
+187885-187886
+187887-187888
+187889-187890
+187891-187892
+187893-187894
+187895-187896
+187897-187898
+187899-187900
+187901-187902
+187903-187904
+187905-187906
+187907-187908
+187909-187910
+187911-187912
+187913-187914
+187915-187916
+187917-187918
+187919-187920
+187921-187922
+187923-187924
+187925-187926
+187927-187928
+187929-187930
+187931-187932
+187933-187934
+187935-187936
+187937-187938
+187939-187940
+187941-187942
+187943-187944
+187945-187946
+187947-187948
+187949-187950
+187951-187952
+187953-187954
+187955-187956
+187957-187958
+187959-187960
+187961-187962
+187963-187964
+187965-187966
+187967-187968
+187969-187970
+187971-187972
+187973-187974
+187975-187976
+187977-187978
+187979-187980
+187981-187982
+187983-187984
+187985-187986
+187987-187988
+187989-187990
+187991-187992
+187993-187994
+187995-187996
+187997-187998
+187999-188000
+188001-188002
+188003-188004
+188005-188006
+188007-188008
+188009-188010
+188011-188012
+188013-188014
+188015-188016
+188017-188018
+188019-188020
+188021-188022
+188023-188024
+188025-188026
+188027-188028
+188029-188030
+188031-188032
+188033-188034
+188035-188036
+188037-188038
+188039-188040
+188041-188042
+188043-188044
+188045-188046
+188047-188048
+188049-188050
+188051-188052
+188053-188054
+188055-188056
+188057-188058
+188059-188060
+188061-188062
+188063-188064
+188065-188066
+188067-188068
+188069-188070
+188071-188072
+188073-188074
+188075-188076
+188077-188078
+188079-188080
+188081-188082
+188083-188084
+188085-188086
+188087-188088
+188089-188090
+188091-188092
+188093-188094
+188095-188096
+188097-188098
+188099-188100
+188101-188102
+188103-188104
+188105-188106
+188107-188108
+188109-188110
+188111-188112
+188113-188114
+188115-188116
+188117-188118
+188119-188120
+188121-188122
+188123-188124
+188125-188126
+188127-188128
+188129-188130
+188131-188132
+188133-188134
+188135-188136
+188137
+188139-188140
+188141-188142
+188143-188144
+188145-188146
+188147-188148
+188149
+188150-188151
+188152-188153
+188154
+188155-188156
+188157-188158
+188159-188160
+188161-188162
+188163-188164
+188165
+188166-188167
+188168-188169
+188170
+188171-188172
+188173-188174
+188175-188176
+188177
+188178
+188179-188180
+188181-188182
+188183-188184
+188185
+188186-188187
+188188-188189
+188190-188191
+188192-188193
+188194-188195
+188196
+188197
+188198-188199
+188200-188201
+188202-188203
+188204-188205
+188206
+188207-188208
+188209-188210
+188211-188212
+188213-188214
+188215-188216
+188217-188218
+188219-188220
+188221-188222
+188223-188224
+188225-188226
+188227
+188228-188229
+188230
+188235-188236
+188237-188238
+188239-188240
+188241-188242
+188243-188244
+188245-188246
+188247-188248
+188249-188250
+188251
+188252
+188253-188254
+188255
+188256-188257
+188258-188259
+188260-188261
+188262-188263
+188264-188265
+188266-188267
+188268-188269
+188270-188271
+188272-188273
+188274-188275
+188276
+188277-188278
+188279-188280
+188281-188282
+188283-188284
+188285-188286
+188287-188288
+188289-188290
+188291-188292
+188293-188294
+188295-188296
+188297-188298
+188299-188300
+188301
+188302-188303
+188304-188305
+188306-188307
+188308-188309
+188310-188311
+188312-188313
+188314
+188315-188316
+188317-188318
+188319-188320
+188321-188322
+188323-188324
+188325-188326
+188327-188328
+188329-188330
+188331-188332
+188333-188334
+188335-188336
+188337-188338
+188339-188340
+188341-188342
+188343-188344
+188345-188346
+188347-188348
+188349-188350
+188351-188352
+188353-188354
+188355-188356
+188357-188358
+188359-188360
+188361-188362
+188363-188364
+188365-188366
+188367-188368
+188372-188373
+188374-188375
+188376-188377
+188378-188379
+188380-188381
+188382-188383
+188384-188385
+188386-188387
+188388-188389
+188390-188391
+188392-188393
+188394-188395
+188396-188397
+188398-188399
+188400-188401
+188402-188403
+188404-188405
+188406-188407
+188408-188409
+188410-188411
+188412-188413
+188414-188415
+188416-188417
+188418-188419
+188420-188421
+188422-188423
+188424-188425
+188426-188427
+188428
+188429-188430
+188431
+188432-188433
+188434-188435
+188436-188437
+188438-188439
+188440-188441
+188442-188443
+188444-188445
+188446-188447
+188448-188449
+188450-188451
+188452-188453
+188454-188455
+188456-188457
+188458-188459
+188460-188461
+188462-188463
+188464-188465
+188466-188467
+188468-188469
+188470-188471
+188472-188473
+188474-188475
+188476-188477
+188478-188479
+188480
+188482-188483
+188484-188485
+188486
+188487-188488
+188489
+188490-188491
+188492-188493
+188494-188495
+188496-188497
+188498-188499
+188500-188501
+188502-188503
+188504-188505
+188506-188507
+188508-188509
+188510-188511
+188512-188513
+188514-188515
+188516-188517
+188518-188519
+188520-188521
+188522
+188523-188524
+188525-188526
+188527-188528
+188529-188530
+188531-188532
+188533-188534
+188535-188536
+188537-188538
+188539-188540
+188541-188542
+188543-188544
+188545-188546
+188547-188548
+188549-188550
+188551-188552
+188553-188554
+188555
+188557
+188558-188559
+188560-188561
+188562-188563
+188564-188565
+188566-188567
+188568-188569
+188570-188571
+188572
+188574
+188576
+188578
+188582
+188585
+188588
+188591
+188593
+188594
+188596
+188597
+188600
+188603
+188607
+188612
+188613
+188616
+188623-188624
+188625-188626
+188627-188628
+188629-188630
+188631-188632
+188633-188634
+188635-188636
+188637
+188638-188639
+188640-188641
+188642-188643
+188644-188645
+188646-188647
+188648-188649
+188650-188651
+188652-188653
+188654-188655
+188656-188657
+188658-188659
+188660-188661
+188662-188663
+188664-188665
+188666-188667
+188668-188669
+188670-188671
+188672-188673
+188674-188675
+188676-188677
+188678-188679
+188680
+188683-188684
+188685-188686
+188687-188688
+188689-188690
+188691-188692
+188693-188694
+188695-188696
+188697
+188699-188700
+188701-188702
+188703-188704
+188705-188706
+188707
+188708-188709
+188710-188711
+188712-188713
+188714-188715
+188716-188717
+188718-188719
+188720-188721
+188722-188723
+188724-188725
+188726-188727
+188728-188729
+188730-188731
+188732-188733
+188734-188735
+188736-188737
+188738-188739
+188740-188741
+188742-188743
+188744-188745
+188746-188747
+188748-188749
+188750-188751
+188752
+188756
+188770
+188779
+188790
+188797-188798
+188799-188800
+188801
+188808
+188813
+188815-188816
+188817-188818
+188819-188820
+188821-188822
+188823
+188848
+188857
+188866
+188875
+188884-188885
+188886-188887
+188888-188889
+188890
+188891-188892
+188893-188894
+188895-188896
+188897-188898
+188899-188900
+188901-188902
+188903-188904
+188905-188906
+188907-188908
+188909-188910
+188911-188912
+188913-188914
+188915-188916
+188917-188918
+188919-188920
+188921-188922
+188923-188924
+188925-188926
+188927-188928
+188929-188930
+188931-188932
+188933-188934
+188935-188936
+188937-188938
+188939-188940
+188941-188942
+188943-188944
+188945-188946
+188947-188948
+188949-188950
+188951-188952
+188953-188954
+188955-188956
+188957-188958
+188959-188960
+188961-188962
+188963-188964
+188965
+188969-188970
+188971-188972
+188973-188974
+188975-188976
+188977-188978
+188979
+188983-188984
+188985-188986
+188987-188988
+188989-188990
+188991-188992
+188993-188994
+188995-188996
+188997-188998
+188999-189000
+189001-189002
+189003-189004
+189005-189006
+189007-189008
+189009-189010
+189011-189012
+189013-189014
+189015-189016
+189017-189018
+189019-189020
+189021-189022
+189023-189024
+189025-189026
+189027-189028
+189029-189030
+189031-189032
+189033-189034
+189035-189036
+189037-189038
+189039-189040
+189041-189042
+189043-189044
+189045-189046
+189047-189048
+189049-189050
+189051-189052
+189053
+189054-189055
+189056-189057
+189058-189059
+189060-189061
+189062-189063
+189064-189065
+189066-189067
+189068-189069
+189070-189071
+189072-189073
+189074-189075
+189076-189077
+189078-189079
+189080-189081
+189082-189083
+189084-189085
+189086-189087
+189088-189089
+189090-189091
+189092-189093
+189094-189095
+189096-189097
+189098-189099
+189100-189101
+189102-189103
+189104-189105
+189106-189107
+189108-189109
+189110-189111
+189112-189113
+189114-189115
+189116-189117
+189118-189119
+189120-189121
+189122-189123
+189124-189125
+189126-189127
+189128-189129
+189130-189131
+189132-189133
+189134-189135
+189136-189137
+189138-189139
+189140-189141
+189142-189143
+189144-189145
+189146-189147
+189148-189149
+189150-189151
+189152-189153
+189154-189155
+189156-189157
+189158-189159
+189160-189161
+189162-189163
+189164-189165
+189166-189167
+189168-189169
+189170-189171
+189172-189173
+189174-189175
+189176-189177
+189178-189179
+189180-189181
+189182-189183
+189184-189185
+189186-189187
+189188-189189
+189190-189191
+189192
+189196-189197
+189198
+189202-189203
+189204
+189208-189209
+189210
+189215-189216
+189217-189218
+189219-189220
+189221-189222
+189223
+189227-189228
+189229
+189233-189234
+189235-189236
+189237-189238
+189239-189240
+189241-189242
+189243-189244
+189245-189246
+189247-189248
+189249-189250
+189251-189252
+189253-189254
+189255-189256
+189257-189258
+189259-189260
+189261-189262
+189263-189264
+189265-189266
+189267-189268
+189269-189270
+189271-189272
+189273-189274
+189275-189276
+189277-189278
+189279-189280
+189281-189282
+189283-189284
+189285-189286
+189287-189288
+189289-189290
+189291-189292
+189293-189294
+189295-189296
+189297-189298
+189299-189300
+189301-189302
+189303-189304
+189305-189306
+189307
+189308
+189309
+189310-189311
+189312-189313
+189314-189315
+189316
+189317-189318
+189319
+189320-189321
+189322
+189323-189324
+189325-189326
+189327-189328
+189329-189330
+189331-189332
+189333-189334
+189335-189336
+189337-189338
+189339-189340
+189341-189342
+189343-189344
+189345-189346
+189347-189348
+189349-189350
+189351
+189352-189353
+189354-189355
+189356
+189359-189360
+189361-189362
+189363-189364
+189365-189366
+189367-189368
+189369-189370
+189371-189372
+189373-189374
+189375-189376
+189377-189378
+189379-189380
+189381-189382
+189383-189384
+189385-189386
+189387-189388
+189389-189390
+189391-189392
+189393-189394
+189395-189396
+189397-189398
+189399-189400
+189401-189402
+189403-189404
+189405-189406
+189407-189408
+189409-189410
+189411
+189412-189413
+189414-189415
+189416
+189417-189418
+189419-189420
+189421-189422
+189423-189424
+189425-189426
+189427-189428
+189429-189430
+189431-189432
+189433-189434
+189435-189436
+189437-189438
+189439-189440
+189441-189442
+189443-189444
+189445-189446
+189447-189448
+189449-189450
+189451-189452
+189453-189454
+189455-189456
+189457-189458
+189459-189460
+189461-189462
+189463-189464
+189465-189466
+189467-189468
+189469-189470
+189471-189472
+189473-189474
+189475-189476
+189477-189478
+189479-189480
+189481-189482
+189483-189484
+189485-189486
+189487-189488
+189489-189490
+189491-189492
+189493-189494
+189495-189496
+189497-189498
+189499-189500
+189501-189502
+189503-189504
+189505-189506
+189507-189508
+189509-189510
+189511-189512
+189513-189514
+189515-189516
+189517-189518
+189519-189520
+189521-189522
+189523-189524
+189525-189526
+189527-189528
+189529-189530
+189531-189532
+189533-189534
+189535-189536
+189537-189538
+189539-189540
+189541-189542
+189543-189544
+189545-189546
+189547-189548
+189549-189550
+189551-189552
+189553-189554
+189555-189556
+189557-189558
+189559-189560
+189561-189562
+189563-189564
+189565-189566
+189567-189568
+189569-189570
+189571-189572
+189573-189574
+189575-189576
+189577-189578
+189579-189580
+189581-189582
+189583
+189598-189599
+189600-189601
+189602-189603
+189604-189605
+189606-189607
+189608-189609
+189610-189611
+189612-189613
+189614-189615
+189616-189617
+189618-189619
+189620-189621
+189622-189623
+189624-189625
+189626-189627
+189628-189629
+189630
+189631-189632
+189633-189634
+189635-189636
+189637-189638
+189639-189640
+189641-189642
+189643-189644
+189645-189646
+189647-189648
+189649-189650
+189651-189652
+189653-189654
+189655-189656
+189657-189658
+189659-189660
+189661-189662
+189663-189664
+189665-189666
+189667-189668
+189669-189670
+189671-189672
+189673-189674
+189675-189676
+189677-189678
+189679-189680
+189681-189682
+189683-189684
+189685-189686
+189687-189688
+189689-189690
+189691
+189693-189694
+189695
+189699-189700
+189701-189702
+189703-189704
+189708-189709
+189710-189711
+189712-189713
+189714-189715
+189716-189717
+189718-189719
+189720-189721
+189722-189723
+189724-189725
+189726-189727
+189728-189729
+189730-189731
+189732-189733
+189734-189735
+189736-189737
+189738-189739
+189740-189741
+189742-189743
+189744-189745
+189746-189747
+189748-189749
+189750-189751
+189752-189753
+189754-189755
+189756-189757
+189758-189759
+189760-189761
+189762-189763
+189764-189765
+189766-189767
+189768-189769
+189770-189771
+189772-189773
+189774-189775
+189776-189777
+189778-189779
+189780-189781
+189782-189783
+189784-189785
+189786-189787
+189788-189789
+189790-189791
+189792-189793
+189794-189795
+189796-189797
+189798-189799
+189800-189801
+189802-189803
+189804-189805
+189806-189807
+189808-189809
+189810-189811
+189812-189813
+189814-189815
+189816-189817
+189818-189819
+189820-189821
+189822-189823
+189824-189825
+189826-189827
+189828-189829
+189830-189831
+189832-189833
+189834-189835
+189836-189837
+189838-189839
+189840-189841
+189842-189843
+189844-189845
+189846-189847
+189848-189849
+189850-189851
+189852-189853
+189854-189855
+189856-189857
+189858-189859
+189860-189861
+189862-189863
+189864-189865
+189866-189867
+189868-189869
+189870-189871
+189872-189873
+189874-189875
+189876-189877
+189878-189879
+189880-189881
+189882-189883
+189884-189885
+189886-189887
+189888-189889
+189890-189891
+189892-189893
+189894-189895
+189896-189897
+189898-189899
+189900-189901
+189902-189903
+189904-189905
+189906-189907
+189908-189909
+189910-189911
+189912-189913
+189914-189915
+189916-189917
+189918-189919
+189920-189921
+189922
+189923-189924
+189925-189926
+189927-189928
+189929-189930
+189931-189932
+189933-189934
+189935-189936
+189937-189938
+189939
+189940-189941
+189942-189943
+189944-189945
+189946-189947
+189948-189949
+189950-189951
+189952-189953
+189954-189955
+189956-189957
+189958-189959
+189960
+189961
+189962-189963
+189964-189965
+189966-189967
+189968-189969
+189970-189971
+189972-189973
+189974-189975
+189976-189977
+189978-189979
+189980-189981
+189982-189983
+189984-189985
+189986-189987
+189988-189989
+189990-189991
+189992-189993
+189994-189995
+189996-189997
+189998-189999
+190000-190001
+190002-190003
+190004-190005
+190006-190007
+190008-190009
+190010-190011
+190012-190013
+190014-190015
+190016-190017
+190018-190019
+190020-190021
+190022-190023
+190024-190025
+190026-190027
+190028-190029
+190030-190031
+190032-190033
+190034-190035
+190036-190037
+190038-190039
+190040-190041
+190042-190043
+190044-190045
+190046-190047
+190048-190049
+190050-190051
+190052-190053
+190054
+190056
+190062-190063
+190064-190065
+190066-190067
+190068-190069
+190070-190071
+190072-190073
+190074-190075
+190076-190077
+190078-190079
+190080-190081
+190082-190083
+190084-190085
+190086-190087
+190088-190089
+190090-190091
+190092-190093
+190094-190095
+190096-190097
+190098-190099
+190100-190101
+190102-190103
+190104-190105
+190106-190107
+190108-190109
+190110-190111
+190112-190113
+190114-190115
+190116-190117
+190118-190119
+190120-190121
+190122-190123
+190124-190125
+190126-190127
+190128-190129
+190130-190131
+190132-190133
+190134-190135
+190136-190137
+190138-190139
+190140-190141
+190142-190143
+190144-190145
+190146-190147
+190148-190149
+190150-190151
+190152-190153
+190154-190155
+190156-190157
+190158-190159
+190160-190161
+190162-190163
+190164-190165
+190166-190167
+190168-190169
+190170-190171
+190172-190173
+190174-190175
+190176-190177
+190178-190179
+190180-190181
+190182-190183
+190184-190185
+190186-190187
+190188-190189
+190190-190191
+190192-190193
+190194-190195
+190196-190197
+190198-190199
+190200-190201
+190202-190203
+190204-190205
+190206-190207
+190208-190209
+190210-190211
+190212-190213
+190214-190215
+190216-190217
+190218-190219
+190220-190221
+190222-190223
+190224-190225
+190226-190227
+190228-190229
+190230-190231
+190232-190233
+190234-190235
+190236-190237
+190238-190239
+190240-190241
+190242-190243
+190244-190245
+190246-190247
+190248-190249
+190250-190251
+190252-190253
+190254-190255
+190256-190257
+190258-190259
+190260-190261
+190262-190263
+190264-190265
+190266-190267
+190268-190269
+190270-190271
+190272-190273
+190274-190275
+190276-190277
+190278-190279
+190280-190281
+190282-190283
+190284-190285
+190286-190287
+190288-190289
+190290-190291
+190292-190293
+190294-190295
+190296-190297
+190298-190299
+190300-190301
+190302-190303
+190304-190305
+190306-190307
+190308-190309
+190310-190311
+190312-190313
+190314-190315
+190316-190317
+190318-190319
+190320-190321
+190322-190323
+190324-190325
+190326-190327
+190328-190329
+190330-190331
+190332-190333
+190334-190335
+190336-190337
+190338-190339
+190340-190341
+190342-190343
+190344-190345
+190346-190347
+190348-190349
+190350-190351
+190352-190353
+190354-190355
+190356-190357
+190358-190359
+190360-190361
+190362-190363
+190364-190365
+190366-190367
+190368-190369
+190370-190371
+190372-190373
+190374-190375
+190376-190377
+190378-190379
+190380-190381
+190382-190383
+190384-190385
+190386-190387
+190388-190389
+190390-190391
+190392-190393
+190394-190395
+190396-190397
+190398-190399
+190400-190401
+190402-190403
+190404-190405
+190406-190407
+190408-190409
+190410-190411
+190412-190413
+190414-190415
+190416-190417
+190418-190419
+190420-190421
+190422-190423
+190424-190425
+190426-190427
+190428-190429
+190430-190431
+190432-190433
+190434-190435
+190436-190437
+190438-190439
+190440-190441
+190442-190443
+190444-190445
+190446-190447
+190448-190449
+190450-190451
+190452-190453
+190454-190455
+190456-190457
+190458-190459
+190460-190461
+190462-190463
+190464-190465
+190466-190467
+190468-190469
+190470-190471
+190472-190473
+190474-190475
+190476-190477
+190478-190479
+190480-190481
+190482-190483
+190484-190485
+190486-190487
+190488-190489
+190490-190491
+190492-190493
+190494-190495
+190496-190497
+190498-190499
+190500-190501
+190502-190503
+190504-190505
+190506-190507
+190508-190509
+190510
+190511-190512
+190513-190514
+190515-190516
+190517-190518
+190519-190520
+190521-190522
+190523-190524
+190525-190526
+190527-190528
+190529-190530
+190531-190532
+190533-190534
+190535-190536
+190537-190538
+190539-190540
+190541-190542
+190543-190544
+190545-190546
+190547-190548
+190549-190550
+190551-190552
+190553-190554
+190555-190556
+190557-190558
+190559-190560
+190561-190562
+190563-190564
+190565-190566
+190567-190568
+190569-190570
+190571-190572
+190573-190574
+190575-190576
+190577-190578
+190579-190580
+190581-190582
+190583-190584
+190585-190586
+190587-190588
+190589-190590
+190591-190592
+190593-190594
+190595-190596
+190597-190598
+190599-190600
+190601-190602
+190603-190604
+190605-190606
+190607-190608
+190609-190610
+190611-190612
+190613-190614
+190615-190616
+190617-190618
+190619-190620
+190621-190622
+190623-190624
+190625-190626
+190627-190628
+190629-190630
+190631-190632
+190633-190634
+190635-190636
+190637-190638
+190639-190640
+190641-190642
+190643-190644
+190645-190646
+190647-190648
+190649-190650
+190651-190652
+190653-190654
+190655-190656
+190657-190658
+190659-190660
+190661-190662
+190663-190664
+190665-190666
+190667-190668
+190669-190670
+190671-190672
+190673-190674
+190675-190676
+190677-190678
+190679-190680
+190681-190682
+190683-190684
+190685-190686
+190687-190688
+190689-190690
+190691-190692
+190693-190694
+190695-190696
+190697-190698
+190699-190700
+190701-190702
+190703-190704
+190705-190706
+190707-190708
+190709-190710
+190711-190712
+190713-190714
+190715-190716
+190717-190718
+190719-190720
+190721-190722
+190723-190724
+190725-190726
+190727-190728
+190729-190730
+190731-190732
+190733-190734
+190735-190736
+190737-190738
+190739-190740
+190741-190742
+190743-190744
+190745-190746
+190747-190748
+190749-190750
+190751-190752
+190753-190754
+190755-190756
+190757-190758
+190759-190760
+190761-190762
+190763-190764
+190765-190766
+190767-190768
+190769-190770
+190771-190772
+190773-190774
+190775-190776
+190777-190778
+190779-190780
+190781-190782
+190783-190784
+190785-190786
+190787-190788
+190789-190790
+190791-190792
+190793-190794
+190795-190796
+190797-190798
+190799-190800
+190801-190802
+190803-190804
+190805-190806
+190807-190808
+190809-190810
+190811-190812
+190813-190814
+190815-190816
+190817-190818
+190819-190820
+190821
+190823-190824
+190825-190826
+190827-190828
+190829-190830
+190831-190832
+190833-190834
+190835-190836
+190837-190838
+190839-190840
+190841-190842
+190843-190844
+190845-190846
+190847-190848
+190849-190850
+190851-190852
+190853-190854
+190855-190856
+190857-190858
+190859-190860
+190861-190862
+190863-190864
+190865-190866
+190867-190868
+190869-190870
+190871-190872
+190873-190874
+190875-190876
+190877-190878
+190879-190880
+190881-190882
+190883-190884
+190885-190886
+190887-190888
+190889-190890
+190891-190892
+190893-190894
+190895-190896
+190897-190898
+190899-190900
+190901-190902
+190903-190904
+190905-190906
+190907-190908
+190909-190910
+190911-190912
+190913-190914
+190915-190916
+190917-190918
+190919-190920
+190921-190922
+190923-190924
+190925-190926
+190927-190928
+190929-190930
+190931-190932
+190933-190934
+190935-190936
+190937-190938
+190939-190940
+190941-190942
+190943-190944
+190945-190946
+190947-190948
+190949-190950
+190951-190952
+190953-190954
+190955-190956
+190957-190958
+190959-190960
+190961-190962
+190963-190964
+190965-190966
+190967-190968
+190969-190970
+190971-190972
+190973-190974
+190975-190976
+190977-190978
+190979-190980
+190981-190982
+190983-190984
+190985-190986
+190987-190988
+190989-190990
+190991-190992
+190993-190994
+190995-190996
+190997-190998
+190999-191000
+191001-191002
+191003-191004
+191005-191006
+191007-191008
+191009-191010
+191011-191012
+191013-191014
+191015-191016
+191017-191018
+191019-191020
+191021-191022
+191023-191024
+191025-191026
+191027-191028
+191029-191030
+191031-191032
+191033-191034
+191035
+191040-191041
+191042-191043
+191044-191045
+191046-191047
+191048-191049
+191050-191051
+191052-191053
+191054-191055
+191056-191057
+191058-191059
+191060-191061
+191062-191063
+191064-191065
+191066-191067
+191068-191069
+191070-191071
+191072-191073
+191074-191075
+191076-191077
+191078-191079
+191080-191081
+191082-191083
+191084-191085
+191086-191087
+191088-191089
+191090-191091
+191092-191093
+191094-191095
+191096-191097
+191098-191099
+191100-191101
+191102-191103
+191104-191105
+191106-191107
+191108-191109
+191110-191111
+191112-191113
+191114-191115
+191116-191117
+191118-191119
+191120-191121
+191122-191123
+191124-191125
+191126-191127
+191128-191129
+191130-191131
+191132-191133
+191134-191135
+191136-191137
+191138-191139
+191140-191141
+191142-191143
+191144-191145
+191146-191147
+191148-191149
+191150-191151
+191152-191153
+191154-191155
+191156-191157
+191158-191159
+191160-191161
+191162-191163
+191164-191165
+191166-191167
+191168-191169
+191170-191171
+191172-191173
+191174-191175
+191176-191177
+191178-191179
+191180-191181
+191182-191183
+191184-191185
+191186-191187
+191188-191189
+191190-191191
+191192-191193
+191194-191195
+191196-191197
+191198-191199
+191200-191201
+191202-191203
+191204-191205
+191206-191207
+191208-191209
+191210-191211
+191212-191213
+191214-191215
+191216-191217
+191218-191219
+191220-191221
+191222-191223
+191224-191225
+191226-191227
+191228-191229
+191230-191231
+191232-191233
+191234-191235
+191236-191237
+191238-191239
+191240-191241
+191242-191243
+191244-191245
+191246-191247
+191248-191249
+191250-191251
+191252-191253
+191254-191255
+191256-191257
+191258-191259
+191260-191261
+191262-191263
+191264-191265
+191266-191267
+191268-191269
+191270-191271
+191272-191273
+191274-191275
+191276-191277
+191278-191279
+191280-191281
+191282-191283
+191284-191285
+191286-191287
+191288-191289
+191290-191291
+191292-191293
+191294-191295
+191296-191297
+191298-191299
+191300-191301
+191302-191303
+191304-191305
+191306-191307
+191308-191309
+191310-191311
+191312-191313
+191314-191315
+191316-191317
+191318-191319
+191320-191321
+191322-191323
+191324-191325
+191326-191327
+191328-191329
+191330-191331
+191332-191333
+191334-191335
+191336-191337
+191338-191339
+191340-191341
+191342-191343
+191344-191345
+191346-191347
+191348-191349
+191350-191351
+191352-191353
+191354-191355
+191356-191357
+191358-191359
+191360-191361
+191362-191363
+191364-191365
+191366-191367
+191368-191369
+191370-191371
+191372-191373
+191374-191375
+191376-191377
+191378-191379
+191380-191381
+191382-191383
+191384-191385
+191386-191387
+191388-191389
+191390-191391
+191392-191393
+191394-191395
+191396-191397
+191398-191399
+191400-191401
+191402-191403
+191404-191405
+191406-191407
+191408-191409
+191410-191411
+191412-191413
+191414-191415
+191416-191417
+191418-191419
+191420-191421
+191422-191423
+191424-191425
+191426-191427
+191428-191429
+191430-191431
+191432-191433
+191434-191435
+191436-191437
+191438-191439
+191440-191441
+191442-191443
+191444-191445
+191446-191447
+191448-191449
+191450-191451
+191452-191453
+191454-191455
+191456-191457
+191458-191459
+191460-191461
+191462-191463
+191464-191465
+191466-191467
+191468-191469
+191470-191471
+191472-191473
+191474-191475
+191476-191477
+191478-191479
+191480-191481
+191482-191483
+191484-191485
+191486-191487
+191488-191489
+191490-191491
+191492-191493
+191494-191495
+191496-191497
+191498-191499
+191500-191501
+191502-191503
+191504-191505
+191506-191507
+191508-191509
+191510-191511
+191512-191513
+191514-191515
+191516-191517
+191518-191519
+191520-191521
+191522-191523
+191524-191525
+191526-191527
+191528-191529
+191530-191531
+191532-191533
+191534-191535
+191536-191537
+191538-191539
+191540-191541
+191542-191543
+191544-191545
+191546-191547
+191548-191549
+191550-191551
+191552-191553
+191554-191555
+191556-191557
+191558-191559
+191560-191561
+191562-191563
+191564-191565
+191566-191567
+191568-191569
+191570-191571
+191572-191573
+191574-191575
+191576-191577
+191578-191579
+191580-191581
+191582-191583
+191584-191585
+191586-191587
+191588-191589
+191590-191591
+191592-191593
+191594-191595
+191596-191597
+191598-191599
+191600-191601
+191602-191603
+191604-191605
+191606-191607
+191608-191609
+191610-191611
+191612-191613
+191614-191615
+191616-191617
+191618-191619
+191620-191621
+191622-191623
+191624-191625
+191626-191627
+191628-191629
+191630-191631
+191632-191633
+191634-191635
+191636-191637
+191638-191639
+191640-191641
+191642-191643
+191644-191645
+191646-191647
+191648-191649
+191650-191651
+191652-191653
+191654-191655
+191656-191657
+191658-191659
+191660-191661
+191662-191663
+191664-191665
+191666-191667
+191668-191669
+191670-191671
+191672-191673
+191674-191675
+191676-191677
+191678-191679
+191680-191681
+191682-191683
+191684-191685
+191686-191687
+191688-191689
+191690
+191695-191696
+191697-191698
+191699-191700
+191701-191702
+191703-191704
+191705-191706
+191707-191708
+191709-191710
+191711-191712
+191713-191714
+191715-191716
+191717-191718
+191719-191720
+191721-191722
+191723-191724
+191725-191726
+191727-191728
+191729-191730
+191731-191732
+191733-191734
+191735-191736
+191737-191738
+191739-191740
+191741-191742
+191743-191744
+191745-191746
+191747-191748
+191749-191750
+191751-191752
+191753-191754
+191755-191756
+191757-191758
+191759-191760
+191761-191762
+191763-191764
+191765-191766
+191767-191768
+191769-191770
+191771-191772
+191773-191774
+191775-191776
+191777-191778
+191779-191780
+191781-191782
+191783-191784
+191785-191786
+191787-191788
+191789-191790
+191791-191792
+191793-191794
+191795-191796
+191797-191798
+191799-191800
+191801-191802
+191803-191804
+191805-191806
+191807-191808
+191809-191810
+191811-191812
+191813-191814
+191815-191816
+191817-191818
+191819-191820
+191821-191822
+191823-191824
+191825-191826
+191827-191828
+191829-191830
+191831-191832
+191833-191834
+191835-191836
+191837-191838
+191839-191840
+191841-191842
+191843-191844
+191845-191846
+191847-191848
+191849-191850
+191851-191852
+191853-191854
+191855-191856
+191857-191858
+191859-191860
+191861-191862
+191863-191864
+191865-191866
+191867-191868
+191869-191870
+191871-191872
+191873-191874
+191875-191876
+191877-191878
+191879-191880
+191881-191882
+191883-191884
+191885-191886
+191887-191888
+191889-191890
+191891-191892
+191893-191894
+191895-191896
+191897-191898
+191899-191900
+191901-191902
+191903-191904
+191905-191906
+191907-191908
+191909-191910
+191911-191912
+191913-191914
+191915-191916
+191917-191918
+191919-191920
+191921-191922
+191923-191924
+191925-191926
+191927-191928
+191929-191930
+191931-191932
+191933-191934
+191935-191936
+191937-191938
+191939-191940
+191941-191942
+191943-191944
+191945-191946
+191947-191948
+191949-191950
+191951-191952
+191953-191954
+191955-191956
+191957-191958
+191959-191960
+191961-191962
+191963-191964
+191965-191966
+191967-191968
+191969-191970
+191971-191972
+191973-191974
+191975-191976
+191977-191978
+191979-191980
+191981-191982
+191983-191984
+191985-191986
+191987-191988
+191989-191990
+191991-191992
+191993-191994
+191995-191996
+191997-191998
+191999-192000
+192001-192002
+192003-192004
+192005-192006
+192007-192008
+192009-192010
+192011-192012
+192013-192014
+192015-192016
+192017-192018
+192019-192020
+192021-192022
+192023-192024
+192025-192026
+192027-192028
+192029-192030
+192031-192032
+192033-192034
+192035-192036
+192037-192038
+192039-192040
+192041-192042
+192043-192044
+192045-192046
+192047-192048
+192049-192050
+192051-192052
+192053-192054
+192055-192056
+192057-192058
+192059-192060
+192061-192062
+192063-192064
+192065-192066
+192067-192068
+192069-192070
+192071-192072
+192073-192074
+192075-192076
+192077-192078
+192079-192080
+192081-192082
+192083-192084
+192085-192086
+192087-192088
+192089-192090
+192091-192092
+192093-192094
+192095-192096
+192097-192098
+192101-192102
+192103-192104
+192105-192106
+192107-192108
+192109-192110
+192111-192112
+192113-192114
+192115-192116
+192117-192118
+192119-192120
+192123-192124
+192125-192126
+192127-192128
+192129-192130
+192131-192132
+192133-192134
+192137-192138
+192139
+192150-192151
+192152-192153
+192154-192155
+192156
+192160-192161
+192162-192163
+192164-192165
+192166-192167
+192168-192169
+192170-192171
+192172-192173
+192174-192175
+192176-192177
+192178-192179
+192180-192181
+192182-192183
+192184-192185
+192186-192187
+192188-192189
+192190-192191
+192192-192193
+192194-192195
+192196-192197
+192198-192199
+192200-192201
+192202-192203
+192204-192205
+192206-192207
+192208-192209
+192210-192211
+192212-192213
+192214-192215
+192216-192217
+192218-192219
+192220-192221
+192222-192223
+192224-192225
+192226-192227
+192228-192229
+192230-192231
+192232-192233
+192234-192235
+192236-192237
+192238-192239
+192240-192241
+192242-192243
+192244-192245
+192246-192247
+192248-192249
+192250-192251
+192252-192253
+192254-192255
+192256-192257
+192258-192259
+192260-192261
+192262-192263
+192264-192265
+192266-192267
+192268-192269
+192270-192271
+192272-192273
+192274-192275
+192276-192277
+192278-192279
+192280-192281
+192282-192283
+192284-192285
+192286-192287
+192288-192289
+192290-192291
+192292-192293
+192294-192295
+192296-192297
+192298-192299
+192300-192301
+192302-192303
+192304-192305
+192306-192307
+192308-192309
+192310-192311
+192312-192313
+192314-192315
+192316-192317
+192318-192319
+192320-192321
+192322-192323
+192324-192325
+192326
+192329-192330
+192331-192332
+192333-192334
+192335-192336
+192337-192338
+192339-192340
+192341-192342
+192343-192344
+192345-192346
+192347-192348
+192349-192350
+192351-192352
+192353-192354
+192355-192356
+192357-192358
+192359-192360
+192361-192362
+192363-192364
+192365-192366
+192367-192368
+192369-192370
+192371-192372
+192373-192374
+192375-192376
+192377-192378
+192379-192380
+192381-192382
+192383-192384
+192385-192386
+192387-192388
+192389-192390
+192391-192392
+192393-192394
+192395-192396
+192397-192398
+192399-192400
+192401-192402
+192403-192404
+192405-192406
+192407-192408
+192409-192410
+192411-192412
+192413-192414
+192415-192416
+192417-192418
+192419-192420
+192421-192422
+192423-192424
+192425-192426
+192427-192428
+192429-192430
+192431-192432
+192433-192434
+192435-192436
+192437-192438
+192439-192440
+192441-192442
+192443-192444
+192445-192446
+192447-192448
+192449-192450
+192451-192452
+192453-192454
+192455-192456
+192457
+192461
+192467
+192471
+192475
+192476
+192481
+192491
+192496
+192501
+192505-192506
+192508-192509
+192511-192512
+192514-192515
+192517-192518
+192520-192521
+192523-192524
+192526-192527
+192529-192530
+192532-192533
+192535-192536
+192538-192539
+192541-192542
+192544-192545
+192547-192548
+192550-192551
+192553-192554
+192555-192556
+192558
+192560
+192561
+192563
+192566
+192567
+192569
+192571
+192573
+192575
+192577
+192578
+192580
+192582
+192583
+192585
+192587
+192589
+192591
+192594
+192597
+192599
+192601
+192603
+192605
+192607
+192609
+192611
+192614-192616
+192620-192621
+192622-192623
+192624-192625
+192626-192627
+192628-192629
+192630-192631
+192632-192633
+192634-192635
+192636-192637
+192638-192639
+192640-192641
+192642-192643
+192644-192645
+192646-192647
+192648-192649
+192650-192651
+192652-192653
+192654-192655
+192656-192657
+192658-192659
+192660-192661
+192662-192663
+192664-192665
+192666-192667
+192668-192669
+192670-192671
+192672-192673
+192674-192675
+192676-192677
+192678-192679
+192680-192681
+192682-192683
+192684-192685
+192686-192687
+192688-192689
+192690-192691
+192692-192693
+192694-192695
+192696-192697
+192698-192699
+192700-192701
+192702-192703
+192704-192705
+192706-192707
+192708-192709
+192710-192711
+192712-192713
+192714-192715
+192716-192717
+192718-192719
+192720-192721
+192722-192723
+192724-192725
+192726-192727
+192728-192729
+192730-192731
+192732-192733
+192734-192735
+192736-192737
+192738-192739
+192740-192741
+192742-192743
+192744-192745
+192746-192747
+192748-192749
+192750-192751
+192752-192753
+192754-192755
+192756-192757
+192758-192759
+192760-192761
+192762-192763
+192764-192765
+192766-192767
+192768-192769
+192770-192771
+192772-192773
+192774-192775
+192776-192777
+192778-192779
+192780-192781
+192782-192783
+192784-192785
+192786-192787
+192788-192789
+192790-192791
+192792-192793
+192794-192795
+192796-192797
+192798-192799
+192800-192801
+192802-192803
+192804-192805
+192806-192807
+192808-192809
+192810-192811
+192812-192813
+192814-192817
+192818-192819
+192820-192821
+192822-192823
+192824-192825
+192826-192827
+192828-192829
+192830-192831
+192832-192833
+192834-192835
+192836-192837
+192838-192839
+192840-192841
+192842-192843
+192844-192845
+192846-192847
+192848-192849
+192850-192851
+192852-192853
+192854-192855
+192856-192857
+192858-192859
+192860-192861
+192862-192863
+192864-192865
+192866-192867
+192868-192869
+192870-192871
+192872-192873
+192874-192875
+192876-192877
+192878-192879
+192880-192881
+192882-192883
+192884-192885
+192886-192887
+192888-192889
+192890-192891
+192892-192893
+192894-192895
+192896-192897
+192898-192899
+192900-192901
+192902-192903
+192904-192905
+192906-192907
+192908-192909
+192910-192911
+192912-192913
+192914-192915
+192916-192917
+192918-192919
+192920-192921
+192922-192923
+192924-192925
+192926-192927
+192928-192929
+192930-192931
+192932-192933
+192934-192935
+192936-192937
+192938-192939
+192940-192941
+192942-192943
+192944-192945
+192946-192947
+192948-192949
+192950-192951
+192952-192953
+192954-192955
+192956-192957
+192958-192959
+192960-192961
+192962-192963
+192964-192965
+192966-192967
+192968-192969
+192970-192971
+192972-192973
+192974-192975
+192976-192977
+192978-192979
+192980-192981
+192982-192983
+192984-192985
+192986-192987
+192988-192989
+192990-192991
+192992-192993
+192994-192995
+192996-192997
+192998-192999
+193000-193001
+193002-193003
+193004-193005
+193006-193007
+193008-193009
+193010-193011
+193012-193013
+193014-193015
+193016-193017
+193018-193019
+193020-193021
+193022-193023
+193024-193025
+193026-193027
+193028-193029
+193030-193031
+193032-193033
+193034-193035
+193036-193037
+193038-193039
+193040-193041
+193042-193043
+193044-193045
+193046-193047
+193048-193049
+193050-193051
+193052-193053
+193054-193055
+193056-193057
+193058-193059
+193060-193061
+193062-193063
+193064-193065
+193066-193067
+193068-193069
+193070-193071
+193072-193073
+193074-193075
+193076-193077
+193078-193079
+193080-193081
+193082-193083
+193084-193085
+193086-193087
+193088-193089
+193090-193091
+193092-193093
+193094-193095
+193096-193097
+193098-193099
+193100-193101
+193102-193103
+193104-193105
+193106-193107
+193108-193109
+193110-193111
+193112-193113
+193114-193115
+193116-193117
+193118-193119
+193120-193121
+193122-193123
+193124-193125
+193126-193127
+193128-193129
+193130-193131
+193132-193133
+193134-193135
+193136-193137
+193138-193139
+193140-193141
+193142-193143
+193144-193145
+193146-193147
+193148-193149
+193150-193151
+193152-193153
+193154-193155
+193156-193157
+193158-193159
+193160-193161
+193162-193163
+193164-193165
+193166-193167
+193168-193169
+193170-193171
+193172-193173
+193174-193175
+193176-193177
+193178-193179
+193180-193181
+193182-193183
+193184-193185
+193186-193187
+193188-193189
+193190-193191
+193192-193193
+193194-193195
+193196-193197
+193198-193199
+193200-193201
+193202-193203
+193204-193205
+193206-193207
+193208-193209
+193210-193211
+193212-193213
+193214-193215
+193216-193217
+193218-193219
+193220-193221
+193222-193223
+193224-193225
+193226-193227
+193228-193229
+193230-193231
+193232-193233
+193234-193235
+193236-193237
+193238-193239
+193240-193241
+193242-193243
+193244-193245
+193246-193247
+193248-193249
+193250-193251
+193252-193253
+193254-193255
+193256-193257
+193258-193259
+193260-193261
+193262-193263
+193264-193265
+193266-193267
+193268-193269
+193270-193271
+193272-193273
+193274-193275
+193276-193277
+193278-193279
+193280-193281
+193282-193283
+193284-193285
+193286-193287
+193288-193289
+193290-193291
+193292-193293
+193294-193295
+193296-193297
+193298-193299
+193300-193301
+193302-193303
+193304-193305
+193306-193307
+193308-193309
+193310-193311
+193312-193313
+193314-193315
+193316-193317
+193318-193319
+193320-193321
+193322-193323
+193324-193325
+193326
+193327-193328
+193329-193330
+193331-193332
+193333-193334
+193335-193336
+193337-193338
+193339-193340
+193341-193342
+193343-193344
+193345-193346
+193347-193348
+193349-193350
+193351-193352
+193353-193354
+193355-193356
+193357-193358
+193359-193360
+193361-193362
+193363-193364
+193365-193366
+193367-193368
+193369-193370
+193371-193372
+193373-193374
+193375-193376
+193377-193378
+193379-193380
+193381-193382
+193383-193384
+193385-193386
+193387-193388
+193389-193390
+193391-193392
+193393-193394
+193395-193396
+193397-193398
+193399-193400
+193401-193402
+193403-193404
+193405-193406
+193407-193408
+193409-193410
+193411-193412
+193413-193414
+193415-193416
+193417-193418
+193419-193420
+193421-193422
+193423-193424
+193425-193426
+193427-193428
+193429-193430
+193431-193432
+193433-193434
+193435-193436
+193437-193438
+193439-193440
+193441-193442
+193443-193444
+193445-193446
+193447-193448
+193449-193450
+193451-193452
+193453-193454
+193455-193456
+193457-193458
+193459-193460
+193461-193462
+193463-193464
+193465-193466
+193467-193468
+193469-193470
+193471-193472
+193473-193474
+193475-193476
+193477-193478
+193479-193480
+193481-193482
+193483-193484
+193485-193486
+193487-193488
+193489-193490
+193491-193492
+193493-193494
+193495-193496
+193497-193498
+193499-193500
+193501-193502
+193503-193504
+193505-193506
+193507-193508
+193509-193510
+193511-193512
+193513-193514
+193515-193516
+193517-193518
+193519-193520
+193521-193522
+193523-193524
+193525-193526
+193527-193528
+193529-193530
+193531-193532
+193533-193534
+193535-193536
+193537-193538
+193539-193540
+193541-193542
+193543-193544
+193545-193546
+193547-193548
+193549-193550
+193551-193552
+193553-193554
+193555-193556
+193557-193558
+193559-193560
+193561-193562
+193563-193564
+193565-193566
+193567-193568
+193569
+193571-193572
+193574
+193577
+193581
+193582
+193585
+193587
+193591-193592
+193593-193594
+193595-193596
+193597
+193600-193601
+193602-193603
+193604-193605
+193606-193607
+193608-193609
+193610-193611
+193612-193613
+193614-193615
+193616-193617
+193618-193619
+193620-193621
+193622-193623
+193624-193625
+193626-193627
+193628-193629
+193630-193631
+193632-193633
+193634-193635
+193636-193637
+193638-193639
+193640-193641
+193642-193643
+193644-193645
+193646-193647
+193648-193649
+193650-193651
+193652-193653
+193654-193655
+193656-193657
+193658-193659
+193660-193661
+193662-193663
+193664-193665
+193666-193667
+193668-193669
+193670-193671
+193672-193673
+193674-193675
+193676-193677
+193678-193679
+193680-193681
+193682-193683
+193684-193685
+193686-193687
+193688-193689
+193690-193691
+193692-193693
+193694-193695
+193696-193697
+193698-193699
+193700-193701
+193702-193703
+193704-193705
+193706-193707
+193708-193709
+193710-193711
+193712-193713
+193714-193715
+193716-193717
+193718-193719
+193720-193721
+193722-193723
+193724-193725
+193726-193727
+193728-193729
+193730-193731
+193732-193733
+193734-193735
+193736-193737
+193738-193739
+193740-193741
+193742-193743
+193744-193745
+193746-193747
+193748-193749
+193750-193751
+193752-193753
+193754-193755
+193756-193757
+193758-193759
+193760-193761
+193762-193763
+193764-193765
+193766-193767
+193768-193769
+155680	178247
+155682	178254
+155684	178257
+155686	178264
+155688	178267
+155690	178272
+155694	178276
+155696	178278
+155703	178292
+155708	178305
+155712	178319
+155714	178323
+155716	178330
+155718	178335
+178337
+155721	178343
+155727	178354-178355
+155736	178368
+155738	178370
+155878	178595
+178596
+178598
+178599
+155924	178676-178677
+178678-178679
+156079	178928
+178931
+178932
+156362	179403
+179404
+156367	179413
+179414
+156372	179421
+179422
+156614	179801
+179802
+156667	179892
+156669	179893
+156821	180128
+156907	180238
+157361	180977
+157363	180979
+157371	180993
+157381	181016
+157401	181054
+157403	181056
+157411	181073
+157413	181076
+157421	181090
+157423	181092
+157441	181135
+157459	181181
+157461	181183
+157473	181209
+157481	181226
+157497	181260
+157505	181276
+157517	181300
+157525	181320
+157527	181322
+157529	181324
+157531	181326
+157539	181347
+157547	181361
+157551	181365
+157553	181367
+157559	181377
+157561	181379
+157563	181381
+157581	181405
+157595	181436
+157602	181452
+157623	181508
+157652	181574
+157654	181578
+157656	181581
+157658	181585
+157662	181593
+157664	181597
+157666	181602
+157668	181610
+157670	181616
+157672	181622
+157674	181627
+157676	181632
+157678	181636
+157680	181642
+157682	181646
+157684	181652
+157687	181660
+157703	181685
+157705	181695
+157709	181702
+157711	181707
+157714	181713
+157716	181719
+157718	181725
+157720	181729
+157722	181733
+157724	181739
+157726	181743
+157728	181746
+157730	181752
+157735	181762
+157737	181766
+157739	181772
+157741	181779
+157745	181785
+157747	181792
+181794
+157750	181798
+157752	181804
+157757	181815
+157767	181833
+157770	181846
+157779	181881
+157781	181887
+157783	181893
+157785	181901
+157787	181907
+181911
+181913
+157791	181919
+157793	181925
+157795	181928
+157797	181932
+157799	181936
+157801	181941
+157809	181957
+157813	181968
+157815	181975
+157817	181982
+157819	181987
+157902	182161
+157904	182165
+157908	182174
+157910	182184
+157912	182190
+157918	182205
+157920	182211
+157924	182223
+157926	182227
+157928	182230
+157930	182235
+157932	182238
+157934	182244
+157936	182249
+157938	182252
+157940	182256
+157942	182264
+157944	182270
+157946	182274
+157948	182279
+157950	182285
+157952	182295
+157954	182301
+157956	182305
+157958	182311
+157960	182317
+157962	182321
+157964	182329
+157966	182335
+157968	182341
+157970	182345
+157972	182349
+157974	182355
+157976	182363
+157978	182367
+157980	182371
+157982	182376
+157984	182380
+157986	182384
+157990	182391
+157992	182397
+157994	182402
+157996	182408
+157998	182413
+158000	182417
+158004	182430
+158010	182452
+158012	182456
+158039	182519
+158057	182567
+158061	182576
+158063	182584
+158067	182594
+158069	182600
+158071	182606
+158075	182619
+158079	182634
+158081	182639
+158083	182647
+158085	182653
+158087	182657
+158089	182661
+158091	182667
+158093	182675
+158095	182679
+158097	182683
+158099	182687
+158101	182693
+158103	182699
+158105	182704
+158107	182709
+158109	182714
+158111	182718
+158113	182722
+158115	182726
+158117	182730
+158124	182744
+158128	182756
+158132	182766
+158134	182770
+158136	182774
+158140	182785
+158144	182791
+158177	182860
+158183	182875
+158185	182881
+158221	182980
+158223	182984
+158225	182988
+158227	182994
+158229	182999
+158231	183005
+158233	183011
+158235	183019
+158237	183029
+158239	183037
+158241	183041
+158243	183045
+158245	183050
+158247	183056
+158249	183061
+158251	183069
+158253	183075
+158258	183094
+158270	183125
+158272	183128
+158274	183134
+158276	183140
+158278	183144
+158280	183148
+158284	183164
+158286	183170
+158288	183175
+158290	183180
+158292	183186
+183188
+183191
+183193
+183198
+158299	183207
+158301	183212
+158303	183215
+158305	183221
+158318	183264
+183266
+158323	183275
+183278
+183280
+183285
+183287
+183292
+158330	183296
+183298
+183305
+158334	183309
+158336	183315
+158338	183325
+183327
+183330
+158342	183338
+158344	183341
+183343
+183346
+183348
+183351
+183353
+183356
+183358
+183361
+183363
+183366
+183368
+183371
+183373
+183378
+183380
+183384
+158362	183388
+183390
+183393
+183395
+183398
+183400
+183405
+183407
+183411
+183413
+183416
+158374	183422
+183424
+183427
+183429
+183434
+158380	183438
+183440
+183443
+183445
+183448
+183450
+183455
+158388	183461
+183463
+183468
+183470
+183475
+183477
+183480
+183482
+183485
+183487
+183490
+158400	183494
+158402	183499
+183501
+158405	183505
+183508
+183510
+183513
+158411	183525
+158413	183527
+183532
+183534
+183541
+183543
+183550
+183552
+183555
+183557
+183560
+183562
+183565
+183567
+183571
+183573
+183576
+183578
+158431	183580
+158433	183582
+183585
+183587
+158439	183592
+183597
+183599
+158444	183610
+158447	183615
+183618
+183620
+183627
+183629
+183632
+183634
+183637
+183639
+183642
+183644
+183649
+183651
+183653
+183655
+183658
+183660
+183663
+183665
+183668
+183670
+183673
+158470	183681
+158473	183687
+183691
+158476	183695
+183697
+183706
+183708
+183711
+183713
+183718
+158484	183721
+158487	183727
+183733
+183735
+183739
+158492	183743
+158494	183747
+183749
+183754
+183756
+183759
+183761
+183764
+183766
+158504	183772
+158507	183779
+158509	183781
+183785
+183787
+158513	183789
+183794
+183796
+183800
+183802
+183806
+183808
+158523	183832
+183837
+158526	183843
+183845
+183852
+183854
+183859
+183865
+158534	183875
+158536	183879
+158539	183886
+183889
+183891
+183894
+158544	183898
+183900
+183904
+183906
+183909
+183911
+183914
+158554	183926
+183928
+183932
+183934
+183937
+183939
+183942
+183944
+183947
+183949
+183952
+183954
+183958
+183960
+183962
+158576	183978
+183981
+183984
+158580	183989
+183992
+183995
+183998
+184001
+184004
+184007
+184010
+184013
+184016
+184019
+184022
+184025
+184028
+184031
+184034
+184037
+184040
+184043
+184046
+184049
+184052
+184055
+184058
+184061
+184064
+184067
+184070
+184073
+184076
+184079
+184082
+184085
+184088
+184091
+184094
+184097
+184100
+184103
+184106
+184109
+184112
+184115
+184118
+184121
+184124
+184127
+184130
+184133
+184136
+184139
+184142
+184145
+184148
+184151
+184154
+184157
+184160
+184163
+184166
+184169
+184172
+184175
+184178
+184181
+184184
+184187
+184190
+184193
+184196
+184199
+184202
+184205
+184208
+184211
+184214
+184217
+184220
+184223
+184226
+184229
+184232
+184235
+184238
+184241
+184244
+184247
+184250
+184253
+184256
+184259
+184262
+184265
+184268
+184271
+184274
+184277
+184280
+184283
+184286
+184289
+184292
+184295
+184298
+184301
+184304
+184307
+184310
+184313
+184316
+184319
+184322
+184325
+184328
+184331
+184334
+184337
+184340
+184343
+184346
+184349
+184352
+184355
+184358
+184361
+184364
+184367
+184370
+184373
+184376
+184379
+184382
+184385
+184388
+184391
+184394
+184397
+184400
+184403
+184406
+184409
+184412
+184415
+184418
+184421
+184424
+184427
+184430
+184433
+184436
+184439
+184442
+184445
+184448
+184451
+184454
+184457
+184460
+184463
+184466
+184469
+184472
+184475
+184478
+184481
+184484
+184487
+184490
+184493
+184496
+184499
+184502
+184505
+184508
+184511
+184514
+184517
+184520
+184523
+184526
+184529
+184532
+184535
+184538
+184541
+184544
+184547
+184550
+184553
+184556
+184559
+184562
+184565
+184568
+184571
+184574
+184577
+184580
+184583
+184586
+184589
+184592
+184595
+184598
+184601
+184604
+184607
+184610
+184613
+184616
+184619
+184622
+184625
+184628
+184631
+184634
+184637
+184640
+184643
+184646
+184649
+184652
+184655
+184658
+184661
+184664
+184667
+184670
+184673
+184676
+184679
+184682
+184685
+184688
+184691
+184694
+184697
+184700
+184703
+184706
+184709
+184712
+184715
+184718
+184721
+184724
+184727
+184730
+184733
+184736
+184739
+184742
+184745
+184748
+184751
+184754
+184757
+184760
+184763
+184766
+184769
+184772
+184775
+184778
+184781
+184784
+184787
+184790
+184793
+184796
+184799
+184802
+184805
+184808
+184811
+184814
+184817
+184820
+184823
+184826
+184829
+184832
+184835
+184838
+184841
+184844
+184847
+184850
+184853
+184856
+184859
+184862
+184865
+184868
+184871
+184874
+184877
+184880
+184883
+184886
+184889
+184892
+184895
+184898
+184901
+184904
+184907
+184910
+184913
+184916
+184919
+184922
+184925
+184928
+184931
+184934
+184937
+184940
+184943
+184946
+184949
+184952
+184955
+184958
+184961
+184964
+184967
+184970
+184973
+184976
+184979
+184982
+184985
+184988
+184991
+184994
+184997
+185000
+185003
+185006
+185009
+185012
+185015
+185018
+185021
+185024
+185027
+185030
+185033
+185036
+185039
+185042
+185045
+185048
+185051
+185054
+185057
+185060
+185063
+185066
+185069
+185072
+185075
+185078
+185081
+185084
+185087
+185090
+185093
+185096
+185099
+185102
+185105
+185108
+185111
+185114
+185117
+185120
+185123
+185126
+185129
+185132
+185135
+185138
+185141
+185144
+185147
+185150
+185153
+185156
+185159
+185162
+185165
+185168
+185171
+185174
+185177
+185180
+185183
+185186
+185189
+158984	185192
+158991	185202-185203
+158993	185206
+158995	185210
+159005	185224
+159011	185236
+159037	185267
+159047	185278
+159053	185285
+159055	185288
+159082	185319
+159086	185324
+159092	185332
+159112	185356
+159118	185366
+159120	185370
+159124	185375
+159136	185391
+159148	185406
+159150	185409
+159152	185412
+159154	185415
+159158	185420
+159194	185466
+159204	185484
+159210	185491
+159216	185498
+159228	185513
+159258	185562
+159260	185564
+159270	185583
+159272	185587
+159278	185596
+159290	185613
+159300	185625
+159302	185629
+159304	185632
+159310	185642
+159316	185649
+159318	185652
+159330	185668
+159336	185676
+159344	185688
+159346	185691
+159348	185694
+159354	185701
+159360	185710
+159368	185719
+159370	185722
+159404	185760
+159406	185763
+159412	185769
+159414	185772
+159430	185788
+159437	185795
+159443	185801
+159447	185808
+159451	185813
+159453	185815
+159457	185819
+159459	185821
+159465	185827
+159471	185831
+159473	185835
+159477	185838
+159481	185841
+159483	185844
+159485	185846
+159487	185848
+159491	185853
+159493	185855
+159495	185857
+159499	185860
+159501	185862
+159507	185868
+159509	185870
+159511	185872
+159513	185874
+159517	185878
+159519	185880
+159521	185882
+159524	185885
+185886
+185888
+185889
+159529	185892
+159531	185894
+159533	185896
+159537	185901
+159543	185905
+159545	185907
+159547	185909
+159551	185913
+159555	185917
+159559	185924
+159561	185926
+159563	185928
+159565	185930
+159567	185932
+159569	185934
+185936
+185937
+159573	185939
+159575	185941
+159577	185943
+159579	185945
+159581	185947
+159583	185949
+159585	185951
+159587	185953
+159589	185955
+159591	185957
+159593	185959
+159595	185961
+159597	185963
+159599	185965
+159601	185968
+159603	185970
+159605	185972
+159607	185974
+159609	185976
+159611	185978
+159613	185980
+159615	185982
+159617	185984
+159619	185986
+159621	185988
+159623	185990
+159625	185992
+159627	185994
+159629	185996
+159631	185998
+159633	186000
+159635	186002
+159637	186004
+159639	186006
+159641	186008
+159643	186010
+159645	186012
+159647	186014
+159649	186016
+159651	186018
+159653	186020
+159655	186022
+159657	186024
+159659	186026
+159661	186028
+159663	186030
+159665	186032
+159667	186034
+159669	186036
+159671	186038
+159673	186040
+159675	186042
+159677	186044
+159679	186046
+159681	186048
+159683	186050
+159685	186052
+159687	186054
+159689	186056
+159691	186058
+159693	186060
+159695	186062
+159697	186064
+159699	186066
+159701	186068
+159703	186070
+159705	186072
+159707	186074
+159709	186076
+159711	186078
+159713	186081
+159715	186084
+159717	186087
+159719	186090
+159721	186093
+159723	186096
+159725	186099
+159727	186102
+159729	186104
+159731	186106
+159733	186108
+159735	186110
+159737	186112
+159739	186114
+159741	186116
+159743	186118
+159745	186120
+159747	186122
+159749	186124
+159751	186126
+159753	186128
+159755	186130
+159757	186132
+159759	186134
+159761	186136
+159763	186138
+159765	186141
+159767	186143
+159769	186145
+159771	186147
+159773	186149
+159775	186151
+159777	186153
+159779	186155
+159781	186157
+159783	186159
+159785	186161
+159787	186163
+159789	186165
+159791	186167
+159793	186169
+159795	186171
+159797	186173
+159799	186175
+159801	186177
+159803	186179
+159805	186181
+159807	186183
+159809	186185
+159811	186187
+159813	186190
+159815	186193
+159817	186196
+159819	186199
+159821	186202
+159823	186204
+159825	186206
+159827	186208
+159829	186210
+159831	186212
+159833	186214
+159835	186216
+159837	186218
+159839	186220
+159841	186222
+159843	186224
+159845	186226
+159847	186228
+159849	186230
+159851	186232
+159853	186234
+159855	186236
+159857	186238
+159859	186240
+159861	186242
+159863	186244
+159865	186246
+159867	186248
+159869	186250
+159871	186252
+159873	186254
+159875	186256
+159878	186260
+159881	186263
+159883	186266
+159885	186268
+159887	186270
+159889	186272
+159895	186276
+159897	186278
+159899	186282
+159901	186285
+159903	186287
+159905	186289
+159907	186291
+159909	186294
+159913	186297
+159924	186309
+159932	186314
+159944	186323
+159972	186342
+159988	186358
+159992	186361
+159994	186363
+159996	186365
+159998	186369
+160020	186382
+160022	186384
+160024	186386
+160036	186393
+160040	186397
+160046	186401
+160058	186411
+160066	186416
+160068	186418
+160070	186420
+160072	186422
+160074	186424
+160078	186427
+160082	186431
+160090	186437
+160092	186439
+160094	186441
+160096	186444
+160098	186447
+160104	186455
+160106	186457
+160108	186459
+160110	186462
+160112	186465
+160114	186467
+160116	186469
+160118	186471
+160120	186473
+160130	186479-186480
+160132	186482
+160144	186492
+160146	186494
+160162	186509
+160164	186511
+160172	186516
+160174	186518
+160182	186528
+160184	186530
+160186	186532
+160192	186536
+160194	186538
+160200	186543
+160202	186548
+160204	186550
+160206	186552
+160210	186555
+160216	186559
+160218	186561
+160220	186563
+160222	186566
+160226	186570
+160228	186572-186573
+160230	186575
+160232	186578
+160234	186580-186581
+160238	186584
+160240	186586
+160248	186592
+160252	186596
+160254	186598
+160256	186602
+160258	186604
+161226	188138
+161325	188234
+161464	188371
+161574	188481
+161652	188556
+161670	188573
+161672	188575
+161674	188577
+161677	188581
+161680	188584
+161683	188587
+161687	188592
+161696	188601
+188602
+161699	188604-188605
+188606
+161702	188609-188610
+188611
+161708	188617
+161786	188698
+161855	188802
+161858	188812
+161947	188966-188967
+188968
+161958	188980-188981
+188982
+162123	189193-189194
+189195
+162127	189199-189200
+189201
+162131	189205-189206
+189207
+162135	189212-189213
+189214
+162142	189224-189225
+189226
+162146	189232
+162503	189692
+162507	189696-189697
+189698
+162513	189705-189706
+189707
+162746	190055
+163242	190822
+163386	191039
+163814	191691
+191693-191694
+164058	192099
+192100
+164074	192121
+192122
+164082	192135
+192136
+164091	192157
+192158-192159
+164193	192328
+164284	192460
+164295	192482
+164303	192507
+192510
+192513
+192516
+192519
+192522
+192525
+192528
+192531
+192534
+192537
+192540
+192543
+192546
+164318	192549
+164320	192552
+164324	192557
+164330	192562
+164332	192565
+164336	192568
+164340	192572
+164342	192574
+164344	192576
+164348	192579
+164350	192581
+164354	192584
+164356	192586
+164358	192588
+164360	192590
+164362	192593
+164364	192596
+164366	192598
+164368	192600
+164370	192602
+164372	192604
+164374	192606
+164376	192608
+164378	192610
+192612
+192613
+192617-192618
+192619
+164991	193573
+164995	193578-193579
+193580
+165000	193583-193584
+165002	193586
+165004	193588-193589
+193590
+165014	193599
+165128	178249
+178250-178251
+178252-178253
+165132	178256
+165135	178266
+178269
+178271
+165140	178275
+165151	178286
+178288
+178290
+165155	178296
+178298
+178300
+165161	178304
+165170	178316
+178317
+178318
+165178	178328
+165181	178334
+178338
+178339
+178340
+165714	178924
+178926
+166683	179901
+179904
+179906
+166921	180127
+167627	180723
+167634	180734
+180736
+180738
+180740
+180742
+180745
+167650	180759
+167661	180775
+180776
+180778
+180780
+180782
+180785
+180787
+180790
+180791
+180794
+180796
+180798
+180801
+180803
+180806
+180809
+180812
+180814
+180817
+180818
+180819
+180820
+180821
+180823
+180825
+180828
+180831
+180832
+167690	180833
+167692	180835
+180836
+180838
+180841
+167697	180844
+167700	180846
+180849
+180852
+180853
+180856
+180857
+180858
+180859
+167709	180862
+167713	180867
+180868
+167718	180875
+180876
+180878
+180880
+180882
+167726	180889
+180891
+180893
+180896
+180898
+180901
+180903
+180906
+180907
+180910
+180912
+180915
+180916
+180917
+180918
+180919
+180921
+180923
+180925
+180928
+180930
+180932
+180935
+180936
+180938
+180940
+180943
+180945
+180947
+180950
+180951
+180954
+180955
+180957
+180958
+180959
+180961
+180963
+180965
+180968
+167767	180972
+180974
+180975
+180981
+167773	180985
+180988
+180990
+180995
+180996
+180999
+181001
+181003
+181006
+167783	181009
+181011
+181013
+181018
+167788	181021
+181023
+181026
+181027
+167795	181032
+167797	181034
+167800	181038
+181039
+181041
+167804	181044
+167806	181047
+181049
+181051
+181058
+181060
+181063
+181065
+181068
+181070
+181074
+181078
+167821	181086
+181087
+181094
+181096
+181098
+181099
+181101
+181103
+181106
+181108
+181111
+181113
+181116
+181117
+181118
+181120
+181122
+181125
+181127
+181130
+181132
+181137
+181139
+181142
+181144
+181147
+181149
+181151
+181153
+181156
+181157
+181159
+181161
+181163
+167858	181169
+181170
+181171
+181173
+181174
+181175
+181178
+181179
+181185
+181187
+181190
+181192
+181195
+181197
+181200
+181202
+181205
+181206
+181207
+181211
+181213
+181216
+181218
+181221
+181223
+181228
+181230
+181233
+181235
+181237
+181240
+181242
+181245
+181247
+181250
+181251
+181253
+181254
+181255
+167899	181262
+167901	181265
+181266
+181269
+181271
+181273
+181278
+181279
+181280
+181283
+181285
+181288
+181289
+181290
+181292
+181293
+181295
+181296
+181297
+181298
+181302
+167922	181305
+181308
+181310
+181312
+181315
+181317
+181328
+181330
+181332
+181334
+181337
+181339
+181342
+181344
+181349
+181350
+181354
+181355
+181357
+181358
+167943	181369
+181370
+181372
+181374
+181383
+167949	181386
+181387
+167974	181397
+167983	181410
+181411
+181412-181413
+167995	181427
+181428
+168000	181430
+181431
+181432
+181433
+181434
+181437
+168007	181438
+181439
+181441
+168013	181443
+181445
+181446
+181447-181448
+181453
+181454
+181457
+181459
+181461
+168026	181470
+181472
+181475
+181477
+181479
+181482
+181484
+181486
+181489
+181491
+181494
+181496
+181498
+181501
+181503
+181505
+168045	181512
+181513
+181514
+181516
+181518
+181521
+181523
+181525
+181527
+181529
+181531
+181534
+181537
+181538-181539
+181543
+168062	181549
+181551
+181554
+181556
+181559
+181561
+168072	181569
+181570
+181571
+181575
+181579
+168078	181582
+181586
+168081	181589
+181590
+181594
+181598
+181599
+181603
+181605
+181607
+181611
+181613
+181617
+181619
+181623
+168095	181628
+168097	181633
+181637
+181638
+181639
+181643
+181647
+181649
+181653
+181655
+168110	181664
+181665-181666
+181668
+168120	181679
+168123	181686
+181688
+181690
+181692
+181696
+181699
+181703
+168131	181708
+181710
+181714
+181716
+181720
+181722
+181726
+181730
+181734
+181736
+181740
+181744
+168144	181747
+181748
+181749
+181750
+181753
+181754
+181756
+181757-181758
+168153	181763
+181767
+181769
+168158	181775
+181776
+181780
+181781
+168163	181786
+168166	181795
+181796
+181799
+181801
+181805
+181807
+181809
+181810-181811
+181816
+181817
+181819
+168190	181834
+181835
+181836
+181838
+181840
+181842
+181844-181845
+181847
+181849
+181851
+181853
+181854
+181855
+181858
+181860
+181863
+181865
+181868
+181869
+181871
+181873
+181874
+181876
+181878
+181882
+181883
+181884-181885
+181888
+181890
+181894
+181896
+181898
+181902
+181904
+181908
+181909
+181910
+181914
+181915
+181916
+181920
+168233	181926
+168237	181933
+181937
+168240	181942
+168248	181949
+181952
+181953
+181954
+181955
+168255	181960
+168262	181969
+181970
+181971
+181972-181973
+181976
+168270	181983
+181984
+181988
+181990
+168278	181999-182000
+168298	182028
+182030
+182033
+182035
+182037
+168305	182042
+182044
+168314	182056
+182058
+182061
+182063
+182066
+182069
+182070
+182071
+182073
+182075
+182078
+182079-182080
+182082
+182085
+182088
+182090
+182093
+182095
+182098
+182099
+182102
+182105
+182108
+182110
+182112
+182115
+182116
+182117
+182118
+182121
+182124
+182125
+182126
+182129
+182131
+182133
+182135
+182138
+182139
+182140
+182142
+182144
+182147
+182150
+168360	182154
+182155
+168364	182162
+182166
+182167-182168
+182170
+168370	182171
+182175
+182177
+182179
+182181
+182185
+182187
+168380	182195
+182197
+182199
+182202
+182203
+168387	182206
+182208
+182212
+182214
+182216
+182219
+168395	182224
+168397	182231
+182232
+182233
+168401	182239
+182241
+182245
+182246
+182247
+182250
+168410	182257
+182259
+182261
+182265
+182267
+182271
+168418	182275
+168420	182280
+168423	182286
+182288
+182290
+182292
+182296
+182298
+182302
+168431	182306
+182308
+182312
+182314
+182318
+182322
+182324
+182326
+182330
+182332
+182336
+182338
+182342
+182346
+182350
+182352
+182356
+182358
+182360
+182364
+182368
+182372
+182373
+182377
+168456	182381
+182385
+182386
+182388
+182392
+182394
+182398
+168464	182403
+182405
+182409
+168468	182414
+168470	182418
+182420
+182422
+168478	182426
+182427
+182431
+182434
+182436
+182438
+182440
+182442
+168491	182450
+182453
+182457
+182458
+168500	182469
+168503	182474
+182477
+182479
+168508	182485
+182487
+182490
+182492
+182495
+182498
+182500
+182502
+182504
+182507
+182509
+182512
+182514
+182516
+168523	182521
+182524
+182526
+182528
+182531
+182532
+182535
+182536
+182537-182538
+182540
+182542
+182544
+182547
+182550
+182551
+182552-182553
+182555
+182557
+182559
+182562
+182564
+182568
+182570
+182573
+182577
+182579
+182581
+182585
+182588
+182589
+182590
+182591-182592
+182595
+182597
+182601
+182602
+182603
+182607
+168563	182612
+182614
+182616
+182620
+182622
+182624
+182627
+182629
+182631
+168575	182640
+182642
+182644
+182648
+182650
+182654
+168583	182662
+182664
+182668
+182670
+182672
+182676
+168590	182680
+182684
+182688
+168596	182694
+182696
+182700
+182701
+182705
+168602	182710
+168604	182715
+182719
+182723
+168608	182727
+168612	182731
+182733
+168615	182738
+182739
+182740
+168620	182746-182747
+182749
+182751
+182753
+182757
+182758
+168628	182763
+182767
+182771
+182775
+182777
+182780
+182781
+182782
+182786
+168640	182787
+168648	182800
+182802
+168653	182809
+182810
+168668	182829
+182832
+182833
+182836
+182837
+182838
+182841
+182843
+182846
+182848
+182851
+182852-182853
+182855
+182857
+182861
+182863
+182866
+182868
+182871
+182872
+182876
+182878
+182882
+182884
+182887
+168697	182893
+182894
+182896
+182898
+182901
+182902
+182903
+182904
+182907
+182908
+182911
+182912
+182914
+182916
+182919
+182920
+182921
+168715	182924
+182925
+168718	182928-182929
+182931
+182933
+182936
+168723	182939
+182940
+182942
+182945
+182946
+182949
+182950
+168731	182954
+182955
+182956
+182957
+182960
+182961
+182962
+182965
+182966
+182969
+182970
+182973
+182975
+182977
+168747	182985
+168749	182989
+182991
+182995
+168753	182996-182997
+183000
+183001
+183002
+183003
+183006
+183008
+183012
+183014
+183016
+183020
+183022
+183024
+183026
+183030
+183032
+183034
+183038
+183042
+168775	183051
+183053
+183057
+183058
+183062
+183064
+183066
+183070
+183072
+183076
+183078
+183080
+183082
+183085
+183087
+183089
+168792	183095
+183096
+183099
+183101
+183104
+183106
+183108
+183111
+168803	183113
+183114
+168806	183118
+168810	183122
+168813	183129
+183131
+183135
+183137
+183141
+183145
+168820	183149
+183151
+183154
+183155
+183157
+183159
+183161
+183165
+168831	183171
+168833	183176
+183177
+183181
+168837	183189
+183190
+183194
+168842	183200
+183201
+168847	183208
+183209
+183213
+168853	183216
+183218
+183222
+183223-183224
+183226
+183227
+183228
+168861	183229-183230
+183232
+183233
+183234
+183236
+183238
+183240
+183242
+183245
+183246
+183248
+183250
+183252
+183253
+183254
+183257
+183258
+183259
+183260
+183261
+183262
+183267
+183268
+183269
+183272
+183276
+183281
+183283
+183288
+183290
+183294
+183299
+183301
+183303
+183307
+183311
+183313
+183317
+183319
+183321
+183323
+183328
+183332
+183334
+183336
+168908	183344
+183349
+183354
+183359
+183364
+183369
+183374
+183376
+168917	183382
+168920	183391
+183396
+183401
+183403
+168926	183414
+183417
+183420
+183425
+183430
+183432
+183436
+168935	183446
+183451
+183453
+183457
+183459
+183464
+183466
+183471
+183473
+183478
+183483
+183488
+183492
+183496
+183497
+183502
+183503
+183506
+168955	183515
+183517
+183520
+183522
+183528
+168962	183535
+183537
+183539
+183544
+183546
+183548
+183553
+168971	183558
+168973	183563
+168975	183568
+183569
+183574
+183583
+168981	183593
+168984	183600
+183602
+183604
+183607
+183608
+183612
+183616
+168992	183621
+183623
+183625
+183630
+183635
+169000	183645
+183647
+169003	183656
+169005	183661
+183666
+183671
+183675
+183677
+183679
+169014	183688
+183689
+169018	183698
+183700
+183702
+183704
+183709
+169024	183714
+183716
+169032	183728
+183729
+183731
+169038	183741
+169041	183750
+183751
+183752
+183753
+183757
+169047	183762
+169049	183768
+183769
+183770
+183774
+183775
+183776
+183777
+169059	183790
+169062	183797
+169064	183803
+169066	183809
+183811
+183813
+183815
+183817
+169074	183824-183825
+183826
+183827-183828
+183829-183830
+183833
+183835
+183839
+183841
+183846
+183848
+183850
+169087	183857-183858
+183860-183861
+183862-183863
+183866
+169093	183871
+183872
+183873
+183877
+183881
+183883
+169101	183892
+183896
+183901
+169105	183907
+183908
+183912
+183916
+183917
+183918
+183920
+183921-183922
+183924
+183929
+169116	183935
+183940
+169120	183950
+169127	183965
+183967
+169147	185201
+169150	185209
+169153	185213
+169177	185230
+185231
+169200	185248
+169214	185258
+169275	185298
+169315	185327
+169326	185337
+169341	185347
+169357	185359
+169359	185362
+169362	185365
+169392	185394
+169405	185403
+169420	185423
+169433	185434
+185435
+185436
+169443	185440
+169447	185442
+169459	185447
+169490	185468
+185469
+169549	185519
+169556	185526
+185527
+185528
+169561	185531-185532
+169604	185567
+169617	185578
+169629	185591
+169646	185601
+169658	185610
+169663	185616
+169682	185635
+169701	185655
+169712	185662
+169715	185665
+169730	185680
+169756	185708
+185709
+169775	185725
+169786	185734
+169791	185739
+169828	185766
+169833	185774
+169842	185779
+169845	185781
+185782
+169865	185797
+169867	185798
+169873	185803
+185804
+185805
+169889	185817
+169910	185833
+185834
+169924	185843
+169931	185850
+169933	185851
+169944	185865
+185866
+169955	185876
+169961	185891
+169965	185899
+185900
+169972	185911
+169976	185916
+185919
+185920
+185921
+185922
+169989	186080
+169991	186083
+169993	186086
+169995	186089
+169997	186092
+169999	186095
+170001	186098
+170003	186101
+186140
+170006	186189
+170008	186192
+170010	186195
+170012	186198
+170014	186201
+170053	186284
+170061	186293
+170076	186307
+186308
+170102	186318
+170135	186333
+186334
+186335
+170165	186344
+170182	186350
+170184	186351-186352
+170204	186368
+170217	186373
+170302	186408
+186409
+170342	186434
+170349	186443
+170351	186446
+170359	186452
+170362	186454
+170372	186464
+170396	186484
+170398	186485-186486
+170413	186496
+170430	186501
+170433	186502
+170443	186507
+170464	186520
+170472	186525
+170503	186545
+186546
+186547
+170527	186565
+170530	186568
+170541	186577
+170574	186600
+170579	186608
+171419	187450
+187452
+172964	188583
+172981	188595
+172986	188599
+172994	188618
+188621
+173129	188682
+173258	188755
+173260	188757
+188758
+188759
+188761
+188763
+188765
+188767
+188769
+188771
+188773
+188775
+188777
+188780
+188781
+188784
+188786
+173277	188788
+188791
+188793-188794
+188795-188796
+173289	188803
+188804
+188806
+188809
+188810
+188811
+173298	188814
+173790	189211
+173805	189230
+189231
+174897	190057
+190058
+190059
+190060
+190061
+176415	191692
+177103	192458
+192462
+192463
+192464
+192465
+192468
+192469
+192470
+177123	192477
+192478
+192479
+192480
+192483
+192485
+192487
+192489
+177132	192492
+192493
+192494
+192495
+192497
+192498
+192499
+192500
+192502
+192503
+192504
+177151	192564
+177155	192570
+177168	192592
+178056	193570
+178085	193598
+225063	178259
+225065	178260-178261
+225067	178262-178263
+225074	178270
+225112	178281
+225128	178282
+225135	178283
+225142	178284
+225170	178287
+225174	178289
+225177	178291
+225190	178297
+225195	178299
+225199	178301
+225214	178303
+225225	178307
+225239	178308
+225253	178309
+225263	178310
+225273	178311
+225281	178312
+225287	178313
+178314
+225307	178321
+225309	178322
+225314	178325
+225319	178326
+225324	178327
+178329
+225329	178332
+225334	178333
+225340	178341
+178344
+225344	178345
+225351	178347
+225358	178348
+225362	178349
+178350
+226609	178925
+226611	178927
+226726	178981-178982
+227562	179263
+227566	179264
+229167	179868
+229217	179902
+229219	179903
+179905
+179907
+231579	180691
+231612	180694
+231615	180695
+231618	180696
+231620	180698
+231622	180699
+231625	180701
+231628	180702
+231630	180704
+231642	180706
+231715	180708
+231721	180710
+231726	180711
+231728	180713
+231730	180714
+231734	180716
+231737	180717
+231740	180719
+231744	180721
+231749	180722
+231751	180724
+231753	180726
+231755	180727
+231763	180729
+231767	180731
+231770	180732
+231776	180735
+231783	180737
+231786	180739
+231793	180741
+231799	180743
+231803	180746
+231809	180748
+231814	180750
+231819	180751
+231824	180752
+231829	180753
+231833	180754
+180756
+231873	180757
+231881	180758
+180760
+231885	180762
+180763
+231888	180765
+231890	180766
+231893	180767
+231895	180769
+231897	180770
+231904	180772
+231908	180774
+231913	180777
+231918	180779
+231925	180781
+231929	180783
+231934	180786
+231936	180788
+231947	180792
+231951	180795
+231956	180797
+180799
+231977	180802
+231997	180804
+231999	180807
+232002	180810
+232012	180813
+232019	180815
+232049	180824
+232053	180826
+232057	180829
+232101	180839
+232105	180842
+232129	180845
+232134	180847
+232136	180850
+232142	180854
+232170	180860
+232175	180863
+232180	180864
+232186	180865
+232200	180869
+232204	180871
+232209	180872
+232212	180873
+232238	180879
+232243	180881
+232246	180883
+180885
+232250	180886
+232252	180887
+180890
+232257	180892
+232261	180894
+180897
+180899
+232268	180902
+232271	180904
+232278	180908
+232284	180911
+232289	180913
+232309	180922
+232312	180924
+232314	180926
+232316	180929
+232320	180931
+232323	180933
+232337	180939
+232339	180941
+232344	180944
+232351	180946
+232353	180948
+232363	180952
+232382	180962
+232385	180964
+180966
+232390	180969
+232392	180970
+232395	180973
+232406	180982
+180983
+180986
+232410	180989
+232413	180991
+232420	180997
+232424	181000
+232428	181002
+232430	181004
+232432	181007
+232434	181010
+232441	181012
+232446	181014
+232449	181019
+232452	181022
+232454	181024
+232461	181029
+232467	181030
+181031
+232470	181035
+232474	181036
+232486	181042
+232488	181045
+232492	181048
+232498	181050
+232502	181052
+232504	181059
+232506	181061
+232508	181064
+232512	181066
+232516	181069
+232519	181071
+232523	181079
+181080
+181082
+232527	181083
+232529	181084
+232535	181088
+232537	181095
+232543	181097
+232560	181102
+232563	181104
+232567	181107
+232571	181109
+232575	181112
+232577	181114
+232591	181121
+232596	181123
+232600	181126
+232605	181128
+232607	181131
+232609	181133
+232611	181138
+181140
+232615	181143
+181145
+181148
+232621	181150
+232628	181152
+232635	181154
+232639	181160
+232649	181162
+232656	181164
+181166
+232662	181167
+232666	181168
+232680	181176
+232700	181186
+232703	181188
+232707	181191
+232710	181193
+232712	181196
+232715	181198
+232718	181201
+232721	181203
+232737	181212
+232741	181214
+232745	181217
+232749	181219
+232751	181222
+232754	181224
+232760	181229
+232763	181231
+181234
+232772	181236
+232780	181238
+232788	181241
+232796	181243
+232798	181246
+232801	181248
+232823	181257
+232827	181258
+232830	181263
+232832	181267
+232835	181270
+232841	181272
+232845	181274
+232856	181281
+232858	181284
+232860	181286
+232888	181303
+232901	181304
+232912	181306
+181309
+232918	181311
+232922	181313
+232924	181316
+232926	181318
+232930	181329
+232940	181331
+232949	181333
+232956	181335
+232961	181338
+232966	181340
+232973	181343
+232980	181345
+232984	181351-181352
+232998	181359
+233000	181363
+233006	181373
+233010	181375
+233013	181384
+233017	181388
+233022	181389
+233027	181390
+233031	181391
+233183	181398
+233185	181399
+233190	181401
+233195	181402
+233197	181403
+233200	181406
+233203	181407
+233205	181408
+233210	181415
+233241	181417
+233244	181418
+181419
+181420
+181421
+233255	181423
+233260	181424
+233264	181425
+233353	181444
+233368	181455
+181458
+233374	181460
+233376	181462
+233380	181464
+181465
+233384	181467
+233387	181468
+233391	181471
+233395	181473
+233398	181476
+233401	181478
+233403	181480
+233405	181483
+233410	181485
+181487
+181490
+233415	181492
+233419	181495
+233423	181497
+233426	181499
+181502
+233430	181504
+181506
+233435	181509
+233439	181510
+181511
+233448	181517
+233453	181519
+233455	181522
+233459	181524
+233461	181526
+233463	181528
+233470	181532
+233473	181535
+233480	181544
+233483	181546
+233486	181547
+233491	181550
+233498	181552
+233502	181555
+233508	181557
+233511	181560
+233514	181562
+233525	181564
+233531	181566
+233536	181567
+233547	181572
+233550	181576
+233558	181583
+233564	181587
+233571	181591
+233575	181595
+233586	181600
+233589	181604
+233596	181606
+233601	181608
+233605	181612
+233608	181614
+181618
+233613	181620
+233615	181624
+233618	181625
+233621	181629
+233624	181630
+233627	181634
+233633	181640
+233636	181644
+181648
+233640	181650
+181654
+233644	181656
+233678	181658-181659
+233682	181669
+233688	181671
+233695	181673
+233701	181674
+233711	181676-181677
+233713	181680
+233719	181682
+233723	181683
+233728	181687
+233736	181689
+233745	181691
+233752	181693
+233756	181697
+181700
+233762	181704
+233765	181705
+233771	181709
+233773	181711
+181715
+233778	181717
+233781	181721
+233784	181723
+233787	181727
+233792	181731
+233795	181735
+233798	181737
+233802	181741
+233835	181764
+233837	181768
+233840	181770
+181773
+233844	181774
+233848	181777
+233858	181783
+233861	181787
+233867	181788
+233872	181789
+233893	181800
+233897	181802
+233900	181806
+233919	181818
+233923	181820
+233931	181822
+233935	181824
+233938	181825
+233948	181827
+233961	181828
+233973	181829
+233980	181830
+234059	181839
+234064	181841
+234067	181843
+234071	181848
+234074	181850
+234091	181856
+234103	181859
+234113	181861
+234116	181864
+234119	181866
+234123	181870
+234130	181872
+234156	181875
+234168	181877
+234176	181879
+234181	181889
+234186	181891
+234190	181895
+234194	181897
+234196	181899
+181903
+234200	181905
+234218	181917
+181921
+234225	181922
+234230	181923
+234240	181929
+234243	181930
+234246	181934
+234250	181938
+234252	181939
+234258	181943
+181945
+234263	181946
+234272	181947
+234309	181950
+234331	181958
+234336	181961
+234345	181962
+234353	181963
+234357	181964
+234362	181965
+234369	181966
+234387	181977
+234392	181978
+234397	181979
+234402	181980
+234407	181989
+234410	181991
+234423	181995
+234435	181996
+234446	181997
+234456	181998
+234458	182002
+234461	182004
+234463	182005
+234468	182007
+234472	182008
+234475	182010
+234480	182012
+234485	182013
+234491	182014
+234498	182015
+234505	182016
+234509	182018
+234513	182019
+234517	182021
+182022
+234526	182024
+234528	182026
+234531	182029
+234533	182031
+234537	182034
+234544	182036
+234550	182038
+234558	182040
+234566	182043
+234573	182045
+234577	182047
+234580	182048
+234583	182049
+234587	182051
+234593	182053
+234599	182054
+234602	182057
+182059
+234608	182062
+234611	182064
+234613	182067
+234625	182074
+234628	182076
+234636	182081
+182083
+234641	182086
+234646	182089
+234648	182091
+234650	182094
+182096
+234663	182100
+234667	182103
+182106
+234674	182109
+234681	182111
+234688	182113
+234721	182119
+234724	182122
+234730	182127
+182130
+234735	182132
+234740	182134
+234743	182136
+234776	182143
+234782	182145
+234787	182148
+234792	182151
+234796	182152
+234800	182156
+234803	182158
+234807	182159
+234809	182163
+234823	182172
+234827	182176
+234831	182178
+234836	182180
+234840	182182
+234844	182186
+234847	182188
+234851	182191
+234854	182192
+234856	182193
+182196
+234861	182198
+234865	182200
+234886	182207
+234892	182209
+234897	182213
+234902	182215
+234904	182217
+234907	182220
+234910	182221
+234913	182225
+234916	182228
+234925	182236
+234929	182240
+234933	182242
+234962	182253
+234964	182254
+234967	182258
+234970	182260
+234972	182262
+234975	182266
+234979	182268
+234995	182272
+234999	182276
+235004	182277
+182281
+235009	182282
+182283
+235020	182287
+235034	182289
+235049	182291
+235056	182293
+235060	182297
+235063	182299
+235066	182303
+235069	182307
+182309
+235073	182313
+235077	182315
+235080	182319
+235086	182323
+235093	182325
+235099	182327
+235105	182331
+235109	182333
+235113	182337
+235116	182339
+235118	182343
+235120	182347
+182351
+235124	182353
+235126	182357
+235133	182359
+235138	182361
+235140	182365
+235147	182369
+235153	182374
+235158	182378
+235162	182382
+235170	182389
+235174	182393
+235178	182395
+235182	182399
+235185	182400
+235189	182404
+235192	182406
+235194	182410
+235196	182411
+235201	182415
+235203	182419
+235207	182421
+235211	182423
+235224	182425
+235282	182428
+235285	182432
+235293	182435
+235301	182437
+235310	182439
+235319	182441
+235327	182443
+235335	182444
+235343	182446
+235351	182447
+235361	182448
+235368	182449
+235372	182454
+235381	182462
+182463
+235385	182465
+235387	182466
+235392	182468
+182470
+235399	182472
+235411	182473
+235418	182475
+235425	182478
+235429	182480
+235433	182482
+235437	182483
+235443	182486
+182488
+235446	182491
+235450	182493
+235453	182496
+235461	182499
+235470	182501
+235481	182503
+235485	182505
+235492	182508
+235498	182510
+235504	182513
+235511	182515
+182517
+235515	182520
+235519	182522
+235525	182525
+235532	182527
+235536	182529
+235546	182533
+235557	182541
+235567	182543
+235573	182545
+235582	182548
+235591	182556
+235596	182558
+235601	182560
+182563
+235605	182565
+235609	182569
+235612	182571
+235615	182574
+235618	182578
+235623	182580
+235625	182582
+235628	182586
+235638	182596
+182598
+235648	182604
+235652	182608
+235656	182609
+182610
+235659	182613
+235663	182615
+235666	182617
+235668	182621
+235673	182623
+235677	182625
+182628
+235682	182630
+235685	182632
+235689	182635
+235694	182636
+235698	182637
+182641
+235705	182643
+235709	182645
+235713	182649
+235716	182651
+235720	182655
+235723	182658
+235726	182659
+182663
+235733	182665
+182669
+235741	182671
+235749	182673
+235756	182677
+235759	182681
+235762	182685
+235766	182689
+235770	182690
+235773	182691
+235778	182695
+235782	182697
+235787	182702
+235790	182706
+182707
+182711
+235796	182712
+235800	182716
+235802	182720
+235807	182724
+235822	182728
+182732
+235829	182734
+235836	182736
+235856	182745
+235860	182750
+235864	182752
+182754
+235869	182759
+235873	182761
+235877	182762
+182764
+235881	182768
+235885	182772
+235888	182776
+235891	182778
+235913	182783
+235943	182792
+235948	182794
+235952	182795
+235954	182797
+235957	182798
+235960	182801
+235963	182803
+182805
+235966	182806
+182807
+235972	182811
+235976	182813
+235979	182814
+235983	182816
+235988	182818
+235997	182819
+236007	182820
+236015	182821
+236024	182822
+236037	182824
+236055	182825
+236065	182826
+236074	182827
+236077	182830
+236086	182834
+236098	182839
+236101	182842
+236104	182844
+236106	182847
+236108	182849
+236115	182856
+236118	182858
+182862
+236124	182864
+236127	182867
+236130	182869
+236133	182873
+236140	182877
+236148	182879
+236153	182883
+236158	182885
+182888
+236161	182889
+236164	182890
+236167	182891
+236172	182895
+236177	182897
+236179	182899
+236193	182905
+236196	182909
+236199	182913
+236205	182915
+236207	182917
+236217	182922
+182926
+236225	182927
+182932
+236230	182934
+236233	182937
+236236	182941
+236240	182943
+236243	182947
+236246	182951
+236250	182952
+236259	182958
+236266	182963
+236268	182967
+236271	182971
+236273	182974
+236278	182976
+236281	182978
+236283	182981
+182982
+236289	182986
+236291	182990
+236295	182992
+236316	183007
+236320	183009
+236324	183013
+236330	183015
+236335	183017
+236340	183021
+236349	183023
+236355	183025
+236359	183027
+236362	183031
+236368	183033
+236373	183035
+236376	183039
+236382	183043
+236386	183046
+236391	183047
+236395	183048
+236400	183052
+236404	183054
+236406	183059
+236413	183063
+236421	183065
+183067
+236424	183071
+236428	183073
+236430	183077
+236435	183079
+236441	183081
+236446	183083
+236449	183086
+236453	183088
+236456	183090
+236462	183097
+236469	183100
+236475	183102
+236479	183105
+236482	183107
+236485	183109
+236493	183112
+236527	183116
+236533	183119
+236540	183120
+236547	183121
+236551	183123
+236561	183126
+236567	183130
+236573	183132
+183136
+236577	183138
+236582	183142
+236584	183146
+236589	183150
+183152
+236596	183156
+236604	183158
+236613	183160
+236615	183162
+236621	183166
+236627	183167
+236630	183168
+236635	183172
+236641	183173
+236646	183178
+183182
+236653	183183
+236668	183195
+236674	183196
+236678	183197
+236684	183202
+236699	183203
+236720	183204
+236737	183205
+236746	183210
+236792	183217
+183219
+236829	183237
+236834	183239
+236840	183241
+236844	183243
+236850	183249
+236882	183255
+183256
+236963	183263
+236981	183270
+236984	183273
+236987	183277
+236990	183282
+236992	183284
+236994	183289
+236998	183291
+237002	183295
+183300
+237006	183302
+237008	183304
+237011	183308
+237014	183312
+237016	183314
+183318
+237021	183320
+237026	183322
+237031	183324
+237033	183329
+237036	183333
+237039	183335
+183337
+237050	183340
+237052	183345
+237055	183350
+237058	183355
+237060	183360
+237062	183365
+237065	183370
+237067	183375
+237070	183377
+183381
+237075	183383
+237079	183386
+237081	183387
+237084	183392
+237087	183397
+183402
+237091	183404
+237093	183408
+183409-183410
+237096	183415
+183418
+237102	183421
+237105	183426
+183431
+237109	183433
+237112	183437
+237115	183441
+237117	183442
+237119	183447
+237121	183452
+237123	183454
+237128	183458
+237131	183460
+237133	183465
+237137	183467
+183472
+237140	183474
+237145	183479
+237148	183484
+237150	183489
+237153	183493
+237158	183498
+237165	183507
+237168	183511
+237170	183512
+237177	183516
+183518-183519
+237183	183521
+237186	183523
+237192	183529
+237199	183530
+237205	183531
+183536
+237211	183538
+237214	183540
+237219	183545
+237225	183547
+237230	183549
+237239	183554
+237247	183559
+237252	183564
+237254	183570
+237258	183575
+183584
+237261	183589
+183590
+237265	183594
+237271	183595
+237275	183596
+237278	183601
+237282	183603
+237285	183605
+237296	183609
+237301	183613
+237305	183617
+237308	183622
+237312	183624
+237314	183626
+237318	183631
+237324	183636
+183640
+237327	183641
+183646
+237331	183648
+237333	183652
+237336	183657
+237339	183662
+237341	183667
+237343	183672
+237352	183676
+237360	183678
+183680
+237364	183683
+237366	183684
+237369	183685
+237376	183690
+237378	183693
+237380	183694
+183699
+237385	183701
+237389	183703
+237392	183705
+237399	183710
+183715
+237402	183717
+237418	183720
+183723
+237422	183724
+183725
+237427	183730
+237429	183732
+237433	183736
+237436	183737
+237438	183738
+237441	183742
+237443	183745
+237445	183746
+237471	183758
+237474	183763
+237488	183771
+237509	183782
+237513	183783
+183784
+183791
+237518	183792
+183793
+237522	183798
+237526	183799
+237529	183804
+237532	183805
+237534	183810
+237539	183812
+237545	183814
+237551	183816
+237553	183818-183819
+183820
+237557	183822
+237560	183823
+237566	183834
+237568	183836
+237572	183840
+183842
+237577	183847
+237582	183849
+237584	183851
+183855
+237589	183856
+237591	183867
+237595	183868
+237597	183869
+237608	183874
+237612	183878
+237616	183882
+183884
+237620	183887
+237622	183888
+237624	183893
+237627	183897
+183902
+237631	183903
+237641	183913
+237652	183919
+237654	183925
+237657	183930
+237663	183931
+237665	183936
+237668	183941
+237671	183945
+237674	183946
+237677	183951
+183955
+237681	183956
+237685	183957
+237688	183961
+237696	183966
+183968
+183969
+237832	185200
+237903	185216
+237940	185223
+237956	185227
+237967	185228
+237998	185229
+238036	185239
+238076	185251
+238295	185297
+238382	185309
+238386	185310
+238518	185340
+238616	185369
+238675	185378
+238677	185379
+238719	185388
+238829	185428
+238831	185429
+238865	185433
+238904	185439
+239081	185470-185472
+239115	185475
+239125	185478
+239129	185479
+239363	185508
+239366	185509
+185510
+239378	185516
+239416	185522
+239427	185529
+185530
+239551	185543
+239568	185548
+239603	185551
+185552
+239611	185555
+239614	185557
+185558
+185559-185560
+185561
+239667	185568
+239700	185569
+239716	185570
+239737	185575
+239764	185579
+239772	185581
+239780	185582
+239783	185586
+239801	185590
+239896	185604
+239905	185607
+239988	185628
+240016	185638
+240020	185639
+240026	185645
+240168	185675
+240185	185679
+240204	185687
+240446	185771
+240489	185784
+185785
+185786
+240521	185792
+185793
+240541	185806
+240546	185810
+240556	185811
+240612	185824
+240615	185826
+240908	185967
+240959	186265
+241033	186280
+241036	186281
+241133	186303
+186304-186305
+241327	186321
+241387	186328
+241585	186347
+241603	186354
+241609	186355
+241665	186367
+241944	186396
+242109	186407
+242276	186429
+242370	186450
+242380	186451
+242443	186461
+242624	186503
+242659	186505
+242748	186522-186523
+242771	186527
+242867	186542
+243079	186589
+243107	186595
+243135	186601
+243146	186607
+243168	186610
+245338	187451
+187453
+248211	188231
+248214	188232
+248216	188233
+249224	188369
+249246	188370
+250405	188579-188580
+250413	188586
+250423	188589
+250431	188590
+250470	188598
+250472	188608
+250492	188614
+250494	188615
+250496	188619-188620
+250498	188622
+251137	188681
+251711	188753
+251714	188754
+251718	188760
+251723	188762
+251727	188764
+251731	188766
+251734	188768
+251737	188772
+188774
+251740	188776
+251742	188778
+251744	188782-188783
+188785
+251748	188787
+251751	188789
+188792
+251786	188805
+251789	188807
+251814	188824
+188825
+188826
+188827
+188828
+188829
+188830
+188831
+188832
+188833
+188834
+188835
+188836
+188837
+188838
+188839
+188840-188841
+188842-188843
+188844-188845
+188846-188847
+188849-188850
+188851-188852
+188853-188854
+188855-188856
+188858-188859
+188860-188861
+188862-188863
+188864-188865
+188867-188868
+188869-188870
+188871-188872
+188873-188874
+188876-188877
+188878-188879
+188880-188881
+188882-188883
+254287	189357
+189358
+255455	189584-189586
+189587-189589
+189590
+189591-189593
+189594-189596
+189597
+259353	191036
+191037
+191038
+261463	192140
+192141
+192142
+192143-192144
+192145
+192146
+192147
+192148-192149
+261760	192327
+262076	192459
+262102	192466
+262118	192472
+262122	192473
+262125	192474
+262206	192484
+262210	192486
+262215	192488
+192490
+262275	192559
+262316	192595
+264184	193575
+264194	193576

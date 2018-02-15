@@ -348,7 +348,8 @@ We collect this information in the feature *crossref* on lines, with value
 If there are several cross-references from the same line, we collect them in a
 comma separated list.
 
-### Comments ###
+Comments
+--------
 
 Lines starting with `$` or `#` are comments to the current object (*tablet*,
 *face*, *column*, or *line*, see below).
@@ -364,8 +365,39 @@ and
     @column 3
     $ beginning broken
 
-We collect them in a feature *comments*. If there are several comment lines for
-the same object, we combine them into one string, separated by a newline.
+Comments are a separate node type. They get one slot with an empty grapheme to
+anchor them to the text.
+
+The line number and the text on the line are collected in features `srcLnNum`
+and `srcLn` respectively.
+
+There is also an edge feature `comments`, with edges going from the object to
+its comments.
+
+Without this edge feature, we could find all comments for tablet with
+
+    L.d(t, otype='comment')
+
+but that would also get us all comments of the faces, columns and lines of that
+tablet. We can determine the target of a comment by checking for which thing of
+tablet, face, column, line the following is non-empty.
+
+    L.u(c, otype=thing)
+
+but this is overly clumsy.
+
+By using
+
+    E.comments.f(t)
+
+we get the list of comments to tablet `t` in a straigthforward way; this list
+does not contain the comments to the faces, columns, lines of the tablet.
+
+Likewise, by using
+
+    E.comments.t(c)
+
+we get the object to which comment `c` is targeted.
 
 Case
 ----
@@ -465,8 +497,8 @@ Tablet
 
     @tablet
 
-Sometimes this line sometimes missing.
-The surest sign of the beginning of a tablet is a line like
+Sometimes this line sometimes missing. The surest sign of the beginning of a
+tablet is a line like
 
     &P002174 = ATU 6, pl. 48, W 14731,?4
 
@@ -476,8 +508,8 @@ Here we collect `P002174` as the *catalogId* of the tablet, and
 We also add the name of the corpus as a feature *period* to the node type
 *tablet*.
 
-A node of type *tablet* corresponds to the material after a *tablet* specifier and
-before the next *tablet* specifier.
+A node of type *tablet* corresponds to the material after a *tablet* specifier
+and before the next *tablet* specifier.
 
 **This node type is section level 1.**
 
@@ -486,22 +518,20 @@ whole set is not meaningful. The main identification of tablets is by their
 catalog identifier (in this case *P number*), not by any sequence number within
 the corpus.
 
-Subsequent lines starting with `#` are treated as comment lines. See above.
-
-Subsequent lines of the form
-
-    @object text
-
-are used to fill the feature *object*. It will have as value whatever `text` is.
+Subsequent lines starting with `#` or `@object` are treated as comment lines.
+See above.
 
 Empty objects
 =============
 
-If tablets, faces, columns or lines lack linguistic material,
-they will not have slots.
-This is incompatible with the Text-Fabric model, where all nodes must be anchored to the slots.
-We will take care that if linguistic material is missing, we insert a special sign.
-This is a sign with *grapheme=''*, the empty string. 
+If objects such as tablets, faces, columns, lines, comments lack textual
+material, they will not have slots. This is incompatible with the Text-Fabric
+model, where all nodes must be anchored to the slots. We will take care that if
+textual material is missing, we insert a special sign. This is a sign with
+*grapheme=''*, the empty string.
+
+Not that quite a few of the empty signs we thus create, are for comments.
+These are the only signs that do not occur within quads.
 
 Warning
 =======
