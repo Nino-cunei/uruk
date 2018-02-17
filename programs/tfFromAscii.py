@@ -78,6 +78,7 @@ specificMetaData = dict(
         'especially in numerals'
     ),
     op='operator connecting left to right operand',
+    sub='connects line or case with subcases',
 )
 numFeatures = set(
     '''
@@ -464,7 +465,7 @@ def parseCorpora(export=False):
                 diag('Line number starting with A-Z', p, curTablet or {})
             quads = parseLine(material, p, curTablet)
             curLine = {
-                'number': lineNumber,
+                'fullNumber': lineNumber,
                 'material': quads,
                 'srcLn': line,
                 'srcLnNum': ln,
@@ -787,14 +788,13 @@ def casify(tablets):
             for column in face.get('columns', []):
                 lines = column.get('lines', None)
                 if lines is not None:
-                    column['cases'] = putInCases(lines)
-                    del column['lines']
+                    column['lines'] = putInCases(lines)
 
 
 def putInCases(lines):
     cases = collections.OrderedDict()
     for line in lines:
-        numParts = numPartsPat.findall(line['number'])
+        numParts = numPartsPat.findall(line['fullNumber'])
         if len(numParts):
             target = cases
             for numPart in numParts[0:-1]:
@@ -905,39 +905,56 @@ def makeTf(tablets):
                 nodeFeatures[ft][(nodeType, curNode)] = column[ft]
         context.append((nodeType, curNode))
         doComments(column, 'column')
-        cases = column.get('cases', {})
-        doCases(cases)
-        if not cases:
+        lines = column.get('lines', {})
+        doLines(lines)
+        if not lines:
             doEmptySign()
         context.pop()
 
-    def doCases(cases):
-        nodeType = 'case'
-        for (caseNr, case) in cases.items():
+    def doLines(lines):
+        nodeType = 'line'
+        for (lineNum, lineData) in lines.items():
             cur[nodeType] += 1
             curNode = cur[nodeType]
-            nodeFeatures['number'][(nodeType, curNode)] = caseNr
+            nodeFeatures['number'][(nodeType, curNode)] = lineNum
             context.append((nodeType, curNode))
-            if 'material' in case:
-                doLine(case)
-            else:
-                doCases(case)
+            doCases(lineData, 'line', curNode)
             context.pop()
 
-    def doLine(line):
-        nodeType = 'line'
+    def doCases(cases, parentType, parentNode):
+        nodeType = 'case'
+        if 'material' in cases:
+            doCase(cases, parentType, parentNode)
+        else:
+            for (caseNr, caseData) in cases.items():
+                cur[nodeType] += 1
+                curNode = cur[nodeType]
+                nodeFeatures['number'][(nodeType, curNode)] = caseNr
+                edgeFeatures['sub'][(parentType, parentNode)].add(
+                    (nodeType, curNode)
+                )
+                context.append((nodeType, curNode))
+                doCases(caseData, nodeType, curNode)
+                context.pop()
+
+    def doCase(case, parentType, parentNode):
+        nodeType = 'case'
         cur[nodeType] += 1
         curNode = cur[nodeType]
         for ft in '''
-            number
+            fullNumber
             srcLn
             srcLnNum
         '''.strip().split():
-            if ft in line:
-                nodeFeatures[ft][(nodeType, curNode)] = line[ft]
-        material = line.get('material', {})
+            if ft in case:
+                nodeFeatures[ft][(nodeType, curNode)] = case[ft]
+        if parentNode is not None:
+            edgeFeatures['sub'][(parentType, parentNode)].add(
+                (nodeType, curNode)
+            )
+        material = case.get('material', {})
         context.append((nodeType, curNode))
-        doComments(line, 'line')
+        doComments(case, 'case')
         hasQuads = doClusters(material)
         if not material or not hasQuads:
             doEmptySign()

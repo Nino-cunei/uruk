@@ -226,7 +226,7 @@ The quad `|DUG~bx1(N57)|` is the composition of two *subquads* : `DUG~b` and
 `1(N57)`, composed by operator `x`.
 
 There are several operators, and the composition may involve several levels. If
-that is the cases, brackets specify the construction:
+that is the case, brackets specify the construction:
 
     2.  4(N01) 1(N39~a) 1(N24) , |NINDA2x(HI@g~a.1(N06))|
 
@@ -302,20 +302,37 @@ make sense.
 
 Collected in the feature *kind=supplied*
 
-Line
+Case
 ----
 
-A sequence of *quads* forms a line.
+A numbered transcription line corresponds to a *case*. A sequence of *quads*
+forms a case.
 
-A node of type *line* corresponds to the material of a single line that starts
-with a number.
+Those cases may be grouped into bigger *cases*, and ultimately they are grouped
+in *lines*, based on their number.
 
-**This node type is section level 3.**
+All cases in a *column* (see below) that start with the same number, form a
+bigger *case*. The number itself is recorded in the feature *number* on the node
+type *case*.
 
-If we encounter a line without a preceding column specifier, we proceed as if we
+So cases with numbers `1a`, `1b`, and `2` form two lines: one with number `1`,
+containing cases `1a` and `1b`, and one with number `2`, containing just case
+`2`.
+
+If the numbers show deeper hierarchy, we build up cases. Cases with numbers
+`1a1`, `1a2`, `1b`, and `2` form (again) two lines. The line with number `1` has
+two *cases*: one with number `1a`, containing cases `1a1` and `1a2`, and one
+with number `1b`, containing just case `1b`.
+
+Cases represent squares on a tablet.
+
+If a line is not subdivided in multiple cases, we still say that the line
+contains one case.
+
+If we encounter a case without a preceding column specifier, we proceed as if we
 have seen a `@column 1`.
 
-This is an example line.
+This is an example case.
 
     1.b1. , (EN~a DU ZATU759)a
 
@@ -399,26 +416,13 @@ Likewise, by using
 
 we get the object to which comment `c` is targeted.
 
-Case
+Line
 ----
 
-Lines are grouped in *cases*, based on their number.
+A node of type *line* corresponds to all cases whose numbers start with the same
+decimal number.
 
-All lines in a *column* (see below) that start with the same number, form a
-*case*. The number itself is recorded in the feature *number* on the node type
-*case*.
-
-So lines with numbers `1a`, `1b`, and `2` form two cases: one with number `1`,
-containing lines `1a` and `1b`, and one with number `2`, containing just line
-`2`.
-
-If the numbers show deeper hierarchy, we build sub-cases. Lines with numbers
-`1a1`, `1a2`, `1b`, and `2` form (again) two cases. The case with number `1` has
-two *cases*: one with number `1a`, containing lines `1a1` and `1a2`, and one
-with number `1b`, containing just line `1b`.
-
-Cases represent squares on a tablet. The deepest levels are degenerated squares,
-they have just one dimension: they are the *lines*.
+**This node type is section level 3.**
 
 Column
 ------
@@ -530,8 +534,8 @@ model, where all nodes must be anchored to the slots. We will take care that if
 textual material is missing, we insert a special sign. This is a sign with
 *grapheme=''*, the empty string.
 
-Not that quite a few of the empty signs we thus create, are for comments.
-These are the only signs that do not occur within quads.
+Not that quite a few of the empty signs we thus create, are for comments. These
+are the only signs that do not occur within quads.
 
 Warning
 =======
