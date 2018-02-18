@@ -4,6 +4,9 @@ About
 We describe how we model a few corpora of tablet transcriptions into
 [Text-Fabric](https://github.com/Dans-labs/text-fabric) format.
 
+More about the transcription of tablets can be found on the
+[ORACC site](http://oracc.museum.upenn.edu/doc/help/editinginatf/primer/inlinetutorial/index.html).
+
 We mention the concepts behind the transcriptions and how they translate to the
 Text-Fabric model.
 
@@ -47,22 +50,22 @@ Graphemes may be *augmented* with
 *   flags
 *   modifiers
 
-There are two kind of signs: numerals and ordinary.
+Graphemes may be repeated. Numerals are repeated quite often.
 
-### Numerals ###
+### Repeats ###
 
-Examples of a numerals:
+Examples of a repeats (the first three are numerals):
 
     2(N19)
     3(N57)#
     1(N24')
+    4(LAGAB~a)
 
-We store he number before the brackets in numeral in feature *repeat*. Within
-the brackets you find the *grapheme*, possibly augmented with *prime* and
-*variants*.
+We store he number before the brackets in a feature called *repeat*. Within the
+brackets you find the *grapheme*, possibly augmented with *prime* and *variants*
+and *modifiers*.
 
-After the closing bracket the numeral may be augmented with *flags* and
-*modifiers*.
+After the closing bracket the repeated grapheme may be augmented with *flags*.
 
 ### Ordinary signs ###
 
@@ -95,8 +98,9 @@ feature *prime=1*.
 
 #### Variants ####
 
-*Quads*, *subquads* and *signs* may have variants. This is indicated by a `~`
-and then a letter.
+*Quads*, *subquads* and *signs* may have variants, also called *allographs*.
+This is indicated by a `~` and then a sequence of letter and digits except the
+letter `x`. `x` is an *operator*, see below.
 
 This indicates that the tablet has a variant of the grapheme in question. That
 might be a completely different grapheme.
@@ -107,6 +111,35 @@ might be a completely different grapheme.
 Note that a variant of a numeral is written within the brackets.
 
 We collect the variant in the feature *variant=letter*.
+
+If there are more, we collect the values in a comma separated list.
+
+#### Modifiers ####
+
+The grapheme part of a sign may be followed by a `@` and then a letter. This
+comes after the *variant*, see above.
+
+    2.a. 1(N01) , TUG2~a@g
+    7.b. , SU~a# NAB# DI |E2~ax1(N57)@t|
+
+Possible modifiers are:
+
+code | meaning
+---- | -------
+c | curved
+f | flat
+g | gunu (4 extra wedges)
+s | sheshig (added še-sign)
+t | tenu (slanting)
+n | nutillu (unfinished)
+z | zidatenu (slanting right)
+k | kabatenu (slanting left)
+r | vertically reflected
+h | horizontally reflected
+
+Note that a modifier of a numeral is written within the brackets.
+
+We collect the modifier in the sign feature *modifier=letter*.
 
 If there are more, we collect the values in a comma separated list.
 
@@ -168,35 +201,6 @@ There may be multiple flags:
 
     1.  1(N48) 7(N34) 3(N14) , BARA2~a#
 
-#### Modifiers ####
-
-The grapheme part of a sign may be followed by a `@` and then a letter. This
-comes after the *variant*, see above.
-
-    2.a. 1(N01) , TUG2~a@g
-    7.b. , SU~a# NAB# DI |E2~ax1(N57)@t|
-
-Possible modifiers are:
-
-code | meaning
----- | -------
-c | curved
-f | flat
-g | gunu (4 extra wedges)
-s | sheshig (added še-sign)
-t | tenu (slanting)
-n | nutillu (unfinished)
-z | zidatenu (slanting right)
-k | kabatenu (slanting left)
-r | vertically reflected
-h | horizontally reflected
-
-Note that a modifier of a numeral is written within the brackets.
-
-We collect the modifier in the sign feature *modifier=letter*.
-
-If there are more, we collect the values in a comma separated list.
-
 Quad and subquad
 ----------------
 
@@ -251,7 +255,20 @@ Every subquad is one of:
     *   a string, possibly delimited by `( )`, possibly augmented; the immediate
         subquads are obtained by splitting on one of the operators.
 
-Operators are single characters, one of `x % @ & . : +`.
+Operators are single characters, one of `x % & . : +`.
+
+According to ORACC, `@` is also an operator. However, `@` is also a modifier,
+and `@` also seems to be a part of a grapheme. So, splitting on `@` to get
+subquads, is a bad idea. Looking into the corpus, we do not see cases where `@`
+is not a modifier, except:
+
+    1'. , U4 |U4x1(N01)| SUKUD@inversum? NA
+    14'. 1(N01) , ASZ2#? KI@
+    # traces of erased UKKIN~a, PA~a, KALAM?, MUD3~d, GI@i
+    2. , U2@~b SAG KISZ
+
+In all these cases, `@` does not seem an operator. So we remove `@` from the
+list of operators.
 
 There is no space between the operators and the subquads.
 

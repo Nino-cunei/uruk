@@ -27,6 +27,7 @@ SHOWCASES = set(
     P004639
     P006284
     P006427
+    P411610
     P448701
 '''.strip().split()
 )
@@ -130,17 +131,14 @@ CLUSTER_BEGIN = {'[': ']', '<': '>', '(': ')'}
 CLUSTER_END = {y: x for (x, y) in CLUSTER_BEGIN.items()}
 CLUSTER_TYPE = {'[': 'uncertain', '(': 'properName', '<': 'supplied'}
 
-OPERATORS = set(
-    '''
+OPERATORS = set('''
     x
     %
-    @
     &
     .
     :
     +
-'''.strip().split()
-)
+'''.strip().split())
 
 MODIFIERS = set(
     '''
@@ -154,32 +152,36 @@ MODIFIERS = set(
     k
     r
     h
+    v
 '''.strip().split()
 )
 
 TWEAKS = (
+    ('4"', "4'", 'Strange double prime'),
     ('[,', '', 'Strange comma'),
     ('SA|L', 'SAL|', 'Inversion "SA|L"'),
     ('~x(', '~x (', 'Juxtaposed quads'),
     (')|U', ') |U', 'Juxtaposed quads'),
+    ('1N(02)', '1(N02)', 'N outside brackets'),
+    ('(1N', '1(N', 'repeat inside brackets'),
+    ('~A', '~a', 'variant with capital letter: ~A'),
 )
 
 linePat = re.compile("([0-9a-zA-Z.'-]+)\s*(.*)")
 numPartsPat = re.compile('([0-9-]+|[a-zA-Z]+)')
 
 stripCommas = re.compile('\s*,\s*')
-numeralEscapePat = re.compile("([0-9]+)\(([A-Za-z0-9~@']+)\)")
-numeralEscapePat2 = re.compile("([0-9]+)N\(([A-Za-z0-9~@']+)\)")
-numeralPat = re.compile('^«([^=]*)=([^»]*)»$')
+repeatEscapePat = re.compile("([0-9]+)\(([A-Za-z0-9@'~]+)\)")
+repeatPat = re.compile('^«([^=]*)=([^»]*)»$')
 
 fragEscapePat = re.compile('\.\.\.')
 
 writtenPat = re.compile('!\([^)]*\)$')
 flagsPat = re.compile('^(.*)((?:!\([^)]*\))|[!#?*])$')
 modifierPat = re.compile('^(.*)@(.)$')
-variantPat = re.compile('^(.*)~(.)$')
+variantPat = re.compile('^(.*)~([a-wyz0-9]+)$')
 
-operatorPat = re.compile(f'[{" ".join(OPERATORS)}]')
+operatorPat = re.compile(f'[{"".join(OPERATORS)}]')
 
 pp = pprint.PrettyPrinter(indent=2, width=100, compact=False)
 
@@ -488,7 +490,7 @@ def parseCorpora(export=False):
     return tablets
 
 
-def numeralEscapeRepl(match):
+def repeatEscapeRepl(match):
     return f'«{match.group(1)}={match.group(2)}»'
 
 
@@ -500,8 +502,7 @@ def parseLine(material, p, curTablet):
             material = material.replace(pat, rep)
     # remove the commas and transform the numerals
     material = stripCommas.sub(' ', material)
-    material = numeralEscapePat2.sub(numeralEscapeRepl, material)
-    material = numeralEscapePat.sub(numeralEscapeRepl, material)
+    material = repeatEscapePat.sub(repeatEscapeRepl, material)
     # translate ... to …
     material = fragEscapePat.sub('…', material)
     quads = material.split()
@@ -549,10 +550,10 @@ def parseLine(material, p, curTablet):
                     del startPoints[lqo]
             if rest == '':
                 stop = True
-        (rest, quadInfo) = getPieceInfo(rest, 'quad', p, curTablet)
+        (rest, quadInfo) = getPieceInfo(rest, p, curTablet)
         newQuad = parseQuad(rest, p, curTablet)
         if quadInfo:
-            newQuad['info'] = quadInfo
+            newQuad.setdefault('info', {}).update(quadInfo)
         newQuads.append(newQuad)
     if startPoints:
         error(
@@ -566,25 +567,12 @@ def parseLine(material, p, curTablet):
     return result
 
 
-def getPieceInfo(piece, pieceName, p, curTablet, empty_ok=False):
+def getPieceInfo(piece, p, curTablet, empty_ok=False):
     base = piece
     pieceInfo = dict()
 
     stop = False
     while base != '' and not stop:
-        # modifiers
-        splits = modifierPat.findall(base)
-        if splits:
-            items = pieceInfo.setdefault('modifiers', set())
-            (base, itemStr) = splits[0]
-            if itemStr not in MODIFIERS:
-                error(f'Modifier "@{itemStr}" unknown', p, curTablet)
-            else:
-                if itemStr in items:
-                    error(f'Modifier "@{itemStr}" repeated', p, curTablet)
-                items.add(itemStr)
-            continue
-
         # flags
         splits = flagsPat.findall(base)
         if splits:
@@ -606,6 +594,19 @@ def getPieceInfo(piece, pieceName, p, curTablet, empty_ok=False):
                     if 'written' in items:
                         error(f'Flag "!()" repeated', p, curTablet)
                     items['written'] = itemStr[2:-1]
+            continue
+
+        # modifiers
+        splits = modifierPat.findall(base)
+        if splits:
+            items = pieceInfo.setdefault('modifiers', set())
+            (base, itemStr) = splits[0]
+            if itemStr not in MODIFIERS:
+                error(f'Modifier "@{itemStr}" unknown', p, curTablet)
+            else:
+                if itemStr in items:
+                    error(f'Modifier "@{itemStr}" repeated', p, curTablet)
+                items.add(itemStr)
             continue
 
         # variants
@@ -630,7 +631,7 @@ def getPieceInfo(piece, pieceName, p, curTablet, empty_ok=False):
 
     if not empty_ok:
         if base == '':
-            error(f'Empty {pieceName}', p, curTablet)
+            error(f'Empty grapheme', p, curTablet)
     return (base, pieceInfo)
 
 
@@ -738,7 +739,6 @@ def transformQuad(quads, p, curTablet):
             for (g, sign) in enumerate(signs):
                 (base, info) = getPieceInfo(
                     sign,
-                    'sign',
                     p,
                     curTablet,
                     empty_ok=True,
@@ -746,26 +746,34 @@ def transformQuad(quads, p, curTablet):
                 k += len(sign)
                 operator = quad[k] if k < ls else ''
                 k += 1
+                rInfo = {}
                 if g == 0 and base == '' and info:
                     dest[-1].setdefault('info', {}).update(info)
                 else:
-                    parts = numeralPat.findall(base)
+                    parts = repeatPat.findall(base)
                     signData = {}
                     if parts:
                         (n, base) = parts[0]
                         signData['repeat'] = n
-                        (base, info) = getPieceInfo(
+                        (base, rInfo) = getPieceInfo(
                             base,
-                            'numeral',
                             p,
                             curTablet,
                         )
+                    if '«' in base or '»' in base:
+                        error(
+                            'Incomplete recognition of escaped repeats:'
+                            f' "{sign}" => "{base}"',
+                            p, curTablet
+                        )
                     signData['grapheme'] = base
+                    info.update(rInfo)
                     if info:
                         signData['info'] = info
                     if operator != '':
                         signData['op'] = operator
                     signDatas.append(signData)
+
             if len(signDatas):
                 if len(signDatas) == 1:
                     dest.append(signDatas[0])
@@ -930,9 +938,8 @@ def makeTf(tablets):
                 cur[nodeType] += 1
                 curNode = cur[nodeType]
                 nodeFeatures['number'][(nodeType, curNode)] = caseNr
-                edgeFeatures['sub'][(parentType, parentNode)].add(
-                    (nodeType, curNode)
-                )
+                edgeFeatures['sub'][(parentType,
+                                     parentNode)].add((nodeType, curNode))
                 context.append((nodeType, curNode))
                 doCases(caseData, nodeType, curNode)
                 context.pop()
@@ -949,9 +956,8 @@ def makeTf(tablets):
             if ft in case:
                 nodeFeatures[ft][(nodeType, curNode)] = case[ft]
         if parentNode is not None:
-            edgeFeatures['sub'][(parentType, parentNode)].add(
-                (nodeType, curNode)
-            )
+            edgeFeatures['sub'][(parentType,
+                                 parentNode)].add((nodeType, curNode))
         material = case.get('material', {})
         context.append((nodeType, curNode))
         doComments(case, 'case')
@@ -971,9 +977,8 @@ def makeTf(tablets):
             '''.strip().split():
                 if ft in comment:
                     nodeFeatures[ft][(nodeType, curNode)] = comment[ft]
-            edgeFeatures['comments'][(thingType, cur[thingType])].add(
-                (nodeType, curNode)
-            )
+            edgeFeatures['comments'][(thingType,
+                                      cur[thingType])].add((nodeType, curNode))
             context.append((nodeType, curNode))
             doEmptySign()
             context.pop()
@@ -1016,7 +1021,7 @@ def makeTf(tablets):
             op = prevQuad.get('op', None)
             if op is not None:
                 edgeFeaturesV['op'][(prevType, prevNode)][(nodeType,
-                                                          curNode)] = op
+                                                           curNode)] = op
         doInfo(quad, curNode, nodeType)
         context.append((nodeType, curNode))
         if 'quads' in quad:
@@ -1162,6 +1167,8 @@ def loadTf():
 
 def main():
     tablets = parseCorpora(export=True)
+    if errors:
+        return
     makeTf(tablets)
     loadTf()
 
