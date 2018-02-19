@@ -1,13 +1,35 @@
 import os
-import re
 from glob import glob
+
+LIMIT = 20
 
 
 class Compare(object):
-    def __init__(self, sourceDir, tempDir):
+    def __init__(self, api, sourceDir, tempDir):
+        self.api = api
         self.sourceDir = sourceDir
         self.tempDir = tempDir
         os.makedirs(tempDir, exist_ok=True)
+
+    def strFromSign(self, n):
+        F = self.api.F
+        grapheme = F.grapheme.v(n)
+        prime = "'" if F.prime.v(n) else ''
+
+        variantValue = F.variant.v(n)
+        variant = f'~{variantValue}' if variantValue else ''
+
+        modifierValue = F.modifier.v(n)
+        modifier = f'@{modifierValue}' if modifierValue else ''
+
+        fullGrapheme = f'{grapheme}{prime}{variant}{modifier}'
+
+        repeat = F.repeat.v(n)
+        result = (
+            fullGrapheme if repeat is None else f'{repeat}({fullGrapheme})'
+        )
+
+        return result
 
     def writeFreqs(self, fileName, data, dataName):
         print(f'There are {len(data)} {dataName}s')
@@ -16,12 +38,8 @@ class Compare(object):
             ('alpha', lambda x: (x[0], -x[1])),
             ('freq', lambda x: (-x[1], x[0])),
         ):
-            with open(
-                f'{self.tempDir}/{fileName}-{sortName}.txt', 'w'
-            ) as fh:
-                for (item, freq) in sorted(
-                    data, key=sortKey
-                ):
+            with open(f'{self.tempDir}/{fileName}-{sortName}.txt', 'w') as fh:
+                for (item, freq) in sorted(data, key=sortKey):
                     if item != '':
                         fh.write(f'{freq:>5} x {item}\n')
 
@@ -36,29 +54,80 @@ class Compare(object):
                     nLines += 1
                     yield (corpus, ln + 1, line.rstrip('\n'))
 
-    def checkSanity(self, grepPat, tfFunc):
-        resultTf = list(tfFunc())
-        pat = re.compile(grepPat)
-        resultGrep = [
-            f'{corpus} {ln}: {line}'
-            for (corpus, ln, line) in self.readCorpora() if pat.match(line)
-        ]
+    def checkSanity(self, grepFunc, tfFunc):
+        resultTf = tuple(tfFunc())
+        resultGrep = tuple(grepFunc(self.readCorpora()))
 
         print(f'Number of results: TF {len(resultTf)}; GREP {len(resultGrep)}')
-        textTf = '\n'.join(resultTf)
-        textGrep = '\n'.join(resultGrep)
-        if textTf == textGrep:
-            print('IDENTICAL')
-            self._printResult(resultTf)
+        firstDiff = -1
+        lTf = len(resultTf)
+        lGrep = len(resultGrep)
+        minimum = min((lTf, lGrep))
+        maximum = max((lTf, lGrep))
+        equal = True
+        n = 0
+        while n < minimum:
+            if resultTf[n] != resultGrep[n]:
+                equal = False
+                break
+            n += 1
+        if equal and minimum == maximum:
+            print(f'IDENTICAL: all {maximum} items')
+            self._printResult('=', resultTf)
         else:
-            print('DIFFERENT')
-            print('----\nTF\n----\n')
-            self._printResult(resultTf)
-            print('----\nGREP\n----\n')
-            self._printResult(resultGrep)
+            firstDiff = n
+            print(f'DIFFERENT: first different item is at {firstDiff + 1}')
+            if firstDiff:
+                self._printResult('=', resultTf[0:firstDiff], last=True)
 
-    def _printResult(self, result):
-        LIMIT = 20
-        print('\n'.join(result[0:LIMIT]))
-        if len(result) > LIMIT:
-            print('\t and {len(result) - LIMIT} more')
+            self._printResultLine('TF', resultTf, firstDiff)
+            self._printResultLine('GREP', resultGrep, firstDiff)
+
+            if firstDiff >= maximum - 1:
+                print('\tno more items')
+            else:
+                print(
+                    f'remaining items (TF: {lTf - firstDiff - 1});'
+                    f' GREP: {lGrep - firstDiff - 1}'
+                )
+                for k in range(firstDiff + 1, firstDiff + LIMIT):
+                    if k >= maximum:
+                        print(f'{"":<5} no more items')
+                        break
+                    if k < lTf and k < lGrep and resultTf[k] == resultGrep[k]:
+                        self._printResultLine('=', resultTf, k)
+                    else:
+                        self._printResultLine('TF', resultTf, k)
+                        self._printResultLine('GREP', resultGrep, k)
+                if k < maximum - 1:
+                    print(f'{"TF":<5} and {lTf - k} more')
+                    print(f'{"GREP":<5} and {lGrep - k} more')
+
+    def _printResult(self, prefix, result, last=False):
+        if last:
+            if len(result) > LIMIT:
+                print(f'{prefix:<5} start with {len(result) - LIMIT} items')
+            print(
+                '\n'.join(
+                    self._resultItem(prefix, r) for r in result[-LIMIT:]
+                )
+            )
+        else:
+            print(
+                '\n'.join(
+                    self._resultItem(prefix, r) for r in result[0:LIMIT]
+                )
+            )
+            if len(result) > LIMIT:
+                print(f'{prefix:<5} and {len(result) - LIMIT} more')
+            else:
+                print(f'{prefix:<5} no more items')
+
+    def _printResultLine(self, prefix, result, ln):
+        if ln >= len(result):
+            print(f'{prefix:<5}: no line present')
+        else:
+            print(self._resultItem(prefix, result[ln]))
+
+    def _resultItem(self, prefix, result):
+        return f'{prefix:<5}: {" ◆ ".join(str(r) for r in result)}'

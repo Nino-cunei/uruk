@@ -7,11 +7,12 @@
 @fmt:text-orig-full={grapheme}
 @fmt:text-trans-full={srcLnNum}: {srcLn}\n
 @fmt:text-trans-plain={srcLn}\n
+@levels=tablet,face,column,line,case,cluster,quad,comment,sign
 @sectionFeatures=catalogId,number,number
 @sectionTypes=tablet,column,line
 @source=CLDI
 @sourceUrl=https://cdli.ucla.edu
 @version=0.1
 @writtenBy=Text-Fabric
-@dateWritten=2018-02-19T07:15:14Z
+@dateWritten=2018-02-19T20:50:16Z
 

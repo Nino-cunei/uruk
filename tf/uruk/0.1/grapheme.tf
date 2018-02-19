@@ -10,7 +10,7 @@
 @valueType=str
 @version=0.1
 @writtenBy=Text-Fabric
-@dateWritten=2018-02-19T07:15:11Z
+@dateWritten=2018-02-19T20:50:14Z
 
 
 
@@ -154,7 +154,9 @@ ISZ
 PAP
 GIR3
 
-
+N14
+N01
+…
 
 
 …
@@ -224,7 +226,12 @@ PAP
 N01
 SZU2
 SAL
-
+N14
+N01
+NAGA
+KISZ
+N57
+SANGA
 
 
 …
@@ -258,6 +265,10 @@ HI
 
 
 
+N01
+N39
+NAR
+A
 
 
 
@@ -475,7 +486,8 @@ X
 N01
 SZUBUR
 MAH
-
+N14
+N01
 
 
 N01
@@ -581,6 +593,8 @@ N01
 N01
 …
 
+…
+…
 
 N01
 X
@@ -1019,6 +1033,9 @@ N01
 GADA
 …
 
+N
+…
+EZEN
 
 
 
@@ -1035,6 +1052,8 @@ AMAR
 N01
 …
 
+N
+…
 
 N01
 …
@@ -1102,7 +1121,17 @@ GI
 GI
 GI
 
-
+N01
+ZATU707
+ZATU686
+ZATU707
+ZATU707
+KA
+E2
+E2
+KA
+LAGAB
+ZATU707
 
 
 
@@ -1130,8 +1159,20 @@ GA'AR
 AB
 …
 
-
-
+X
+DA
+MAR
+NA
+NIR
+A
+ZATU680
+X
+DA
+MAR
+NA
+NIR
+A
+ZATU680
 
 EN
 AN
@@ -3008,12 +3049,27 @@ N01
 …
 
 
+…
+…
+X
+
+…
+N34
+N14
+…
+…
+UB
+…
 
 
 
 
+…
+…
 
-
+…
+N34
+…
 
 
 
@@ -3429,6 +3485,9 @@ X
 
 
 
+…
+…
+X
 
 
 
@@ -5600,6 +5659,8 @@ X
 
 
 
+…
+…
 
 
 
@@ -6136,6 +6197,16 @@ SZITA
 EN
 …
 SAG
+N01
+…
+X
+X
+…
+N01
+NUN
+…
+N01
+…
 X
 …
 
@@ -9018,7 +9089,10 @@ N01
 
 N01
 …
-
+N34
+N14
+NUN
+…
 
 
 …
@@ -10057,6 +10131,8 @@ N34
 
 
 
+…
+…
 
 
 
@@ -10087,6 +10163,8 @@ N01
 
 
 
+…
+…
 
 
 
@@ -10151,6 +10229,8 @@ N01
 
 
 
+…
+…
 
 
 
@@ -10515,6 +10595,10 @@ HI
 X
 N01
 SAG
+N57
+UD5
+N57
+UTUA
 N14
 …
 …
@@ -14255,6 +14339,8 @@ X
 
 
 
+…
+…
 
 
 
@@ -15067,8 +15153,17 @@ N01
 …
 
 
-
-
+…
+…
+X
+X
+…
+X
+X
+…
+X
+X
+…
 
 
 
@@ -23447,6 +23542,12 @@ BU
 SZITA
 NAM2
 N01
+KI
+NA
+ZATU702
+SILA3
+GA
+N01
 …
 U4
 …
@@ -23894,8 +23995,132 @@ N14
 N01
 GISZ
 
+N01
+GAR
+U4
+N57
+AB
+N28
+U4
+N57
+SZE
+N39
+N24
+U4
+N14
+SZE
+N01
+…
+…
+SZE
+N14
+X
+…
+N14
+U4
+N01
+LAGAB
+SZITA
+PAP
+N24
+U4
+N57
+N04
+N01
+N41
+N39
+U4
 
+N14
+N01
+…
+N01
+X
+U4
+N01
+GUG2
+N41
+N29A
+U4
 
+N14
+N01
+N01
+U4
+N01
+X
+N39
+N24
+U4
+N01
+N28
+SZE
+BULUG3
+…
+N14
+N01
+N39
+U4
+
+N14
+N01
+X
+N28
+U4
+N57
+SZE
+N01
+N24
+U4
+N01
+N14
+N01
+N39
+U4
+
+N14
+N01
+SZE
+…
+N01
+…
+SZE
+TAR
+N30
+N41
+U4
+N01
+N04
+N41
+N29
+U4
+
+N14
+N01
+N41
+N39
+N24
+N29A
+N30
+…
+…
+N14
+N04
+N24
+N26
+N31
+SZE
+U4
+
+N14
+N01
+KASZ
+DA
+AN
+AB
+GI
+GI
+BAR
 
 
 …
@@ -23980,12 +24205,285 @@ NIM
 …
 
 
-
+NAMESZDA
+NAM2
+KAB
+NAM2
+DI
+NAM2
+NAM2
+NAM2
+URU
+NAM2
+ERIN
+GAL
+SZUBUR
+NAM2
+APIN
+SZE
+NAM2
+NAM2
+PA
+RAD
+AB
+ME
+GAL
+BAD
+DISZ
+EN
+IB
+GAL
+SZITA
+ABGAL
+KINGAL
+GAL
+TE
+GAL
+SUKKAL
+GADA
+SUKKAL
+GAL
+GA
+SIG2b
+GA
+GAL
+KISAL
+GAL
+NIM
+GAL
+SILA4
+GAL
+SZAB
+BU
+SZAB
+GAL
+NESAG2
+GAL
+TUR3
+GAL
+UMUN2
+ERIN
+UMUN2
+SANGA
+UMUN2
+GAL
+UMUN2
+KU3
+AB
+UMUN2
+KU3
+GAL
+AK
+GAL
+IM
+IM
+TUR
+GAL
+SZA
+GAL
+ERIN
+GAL
+GISZGAL
+GAL
+ZATU737
+DI
+SANGA
+ZATU737
+DI
+SANGA
+ZATU737
+U4
+SANGA
+ZATU737
+SAL
+SANGA
+ZATU737
+GAR
+GAL
+ISZ
+GAL
+TAG
+GAL
+SANGA
+DUB
+SANGA
+SAG
+SUG5
+UB
+SAG
+ZATU725
+DAM
+NUN
+BU3
+KAR2a
+ME
+GALGA
+ME
+LAGAR
+IB
+LAGAR
+GAR
+MUSZ3a
+ME
+GAL
+X
+SZIDIM
+NIGIN
+GAL
+KAK
+KAK
+GAL
+SZAGAN
+ENGIZ
+ENDIB
+GAL
+NIMGIR
+SIG7
+NIMGIR
+ENKUM
+NINKUM
+GAL
+ISZ
+DUB
+SANGA
+GAL
+SUHUR
+SANGA
+SUHUR
+APIN
+SUHUR
+MAR
+APIN
+BU
+NUN
+ME
+BU
+SANGA
+NUN
+ME
+NUN
+SANGA
+GAL
+X
+GAL
+EZEN
+MUSZ3
+EZEN
+DU
+EZEN
+GAL
+ZAG
+NESAG2a
+ZAG
+BARA3
+ZAG
+DILMUN
+ZAG
+GAL
+DU6
+KUR
+DU6
+KISAL
+DU6
+KU
+BA
+DU6
+TAR
+DU6b
+GAL
+UTUL
+EN
+NUN
+UTUL
+TAR
+UTUL
+ZATU647
+…
+GAL
+SIPA
+X
+X
+GAL
+GURUSZDA
+SANGA
+GURUSZDA
+GAL
+X
+USZUMGAL
+GAL
+ZATU751a
+GAL
+UR3
+KAB
+GI
+AB
+UNUG
+SZU
+UKKIN
+GAL
+NAR
+GAL
+BALAG
+GAL
+SZU12
+GAL
+ZAG
+…
+…
+UDU
+AB2
+GAL
+UDU
+AB2
+GAL
+SIPA
+AB2
+GAL
+MUNU3
+…
+…
+…
+…
+GAL
+…
+GAL
+X
+GAL
+BULUG3
+GAL
+ERIN
+E2
+GAL
+TAK4
+ALAN
+GAL
+KID
+GAL
+KID
+KID
+GAL
+EZEN
+6N57
+…
+BU
+…
+BU
+…
+X
+SZENNUR
+…
+ISZ
+…
+ISZ
+…
+X
+…
 
 
 N01
 NAMESZDA
-
+N
+…
 
 N01
 NAMESZDA
@@ -24096,7 +24594,8 @@ N01
 N01
 X
 …
-
+N
+…
 
 N01
 NAMESZDA
@@ -24110,7 +24609,8 @@ SZUBUR
 
 N01
 …
-
+N
+…
 
 N01
 NAMESZDA
@@ -24130,14 +24630,16 @@ GAL
 
 N01
 …
-
+N
+…
 
 N01
 NAMESZDA
 
 N01
 …
-
+N
+…
 
 N01
 NAMESZDA
@@ -24383,7 +24885,10 @@ N01
 KU
 BA
 …
-
+…
+AN
+EN
+…
 
 N01
 NAMESZDA
@@ -24393,7 +24898,8 @@ NAM2
 
 N01
 …
-
+N
+…
 
 N01
 NAMESZDA
@@ -24427,7 +24933,8 @@ KISAL
 
 N01
 …
-
+N
+…
 
 N01
 NAMESZDA
@@ -24442,7 +24949,8 @@ BAD
 N01
 EN
 IB
-
+N
+…
 
 N01
 NAMESZDA
@@ -24466,7 +24974,8 @@ GAL
 N01
 BU
 SZAB
-
+N
+…
 
 N01
 NAMESZDA
@@ -24477,7 +24986,8 @@ KAB
 N01
 NAM2
 DI
-
+N
+…
 
 N01
 NAMESZDA
@@ -24512,7 +25022,8 @@ X
 N01
 GAL
 …
-
+N
+…
 
 N01
 NAMESZDA
@@ -24526,7 +25037,8 @@ IB
 
 N01
 …
-
+N
+…
 
 N01
 NAMESZDA
@@ -24552,7 +25064,8 @@ KISAL
 N01
 GAL
 NIM
-
+N
+…
 
 N01
 NAMESZDA
@@ -24575,7 +25088,10 @@ GAL
 N01
 GAL
 …
-
+N
+HI
+U4
+…
 
 
 N01
@@ -24681,7 +25197,8 @@ URU
 N01
 NAM2
 ERIN
-
+N
+…
 
 N01
 …
@@ -24700,7 +25217,8 @@ URU
 
 N01
 …
-
+N
+…
 
 N01
 …
@@ -24772,7 +25290,8 @@ PA
 
 N01
 ADAB
-
+N
+…
 
 
 N01
@@ -24912,7 +25431,8 @@ N01
 
 N01
 …
-
+N
+…
 
 N01
 NAMESZDA
@@ -24927,7 +25447,8 @@ NAM2
 N01
 GAL
 …
-
+N
+…
 
 N01
 NAMESZDA
@@ -24951,7 +25472,10 @@ X
 N01
 GAL
 SZAB
-
+N
+U2
+X
+…
 
 N01
 NAMESZDA
@@ -24967,7 +25491,8 @@ N01
 NAM2
 PA
 …
-
+N
+…
 
 N01
 …
@@ -24988,7 +25513,8 @@ GAL
 
 N01
 ABGAL
-
+N
+…
 
 N01
 …
@@ -25079,7 +25605,8 @@ N01
 NUN
 SANGA
 …
-
+N
+…
 
 
 N01
@@ -25104,7 +25631,8 @@ N01
 N01
 X
 …
-
+N
+…
 
 
 N01
@@ -25137,7 +25665,8 @@ N01
 
 N01
 …
-
+N
+…
 
 
 N01
@@ -25172,7 +25701,8 @@ GAL
 
 N01
 …
-
+N34
+…
 
 
 N01
@@ -25290,7 +25820,8 @@ SANGA
 N01
 DUB
 SANGA
-
+N
+…
 
 
 N01
@@ -25300,6 +25831,8 @@ DI
 N01
 …
 
+N
+…
 
 
 N01
@@ -25312,7 +25845,8 @@ GAL
 N01
 NAM2
 APIN
-
+N
+…
 
 
 N01
@@ -25367,7 +25901,8 @@ UMUN2
 N01
 UMUN2
 …
-
+N
+…
 
 
 N01
@@ -25444,7 +25979,8 @@ ISZ
 GAL
 N01
 …
-
+N
+…
 
 
 N01
@@ -25475,7 +26011,11 @@ SIG2
 N01
 GAL
 …
-
+N
+N01
+HAL
+PAP
+…
 
 
 N01
@@ -25490,7 +26030,8 @@ ERIN
 N01
 GAL
 …
-
+N
+…
 
 
 N01
@@ -25603,7 +26144,9 @@ SUHUR
 N01
 X
 …
-
+N
+AB
+…
 
 
 N01
@@ -25617,7 +26160,8 @@ N01
 …
 N01
 …
-
+N
+…
 
 
 N01
@@ -25630,7 +26174,8 @@ GAL
 N01
 NAM2
 …
-
+N
+…
 
 
 N01
@@ -25645,7 +26190,8 @@ APIN
 
 N01
 …
-
+N
+…
 
 
 N01
@@ -25734,7 +26280,9 @@ GAL
 N01
 GAL
 ISZ
-
+N34
+…
+…
 
 
 N01
@@ -25744,7 +26292,8 @@ GAL
 N01
 NAM2
 APIN
-
+N
+…
 
 
 N01
@@ -25766,7 +26315,9 @@ NAM2
 
 N01
 …
-
+N
+…
+X
 
 
 N01
@@ -25857,7 +26408,8 @@ N01
 
 N01
 …
-
+N
+…
 
 
 
@@ -25912,7 +26464,12 @@ TUR3
 N01
 GAL
 …
-
+N
+DU
+DUG
+SIG2
+X
+…
 
 
 N01
@@ -25960,7 +26517,8 @@ TUR3
 N01
 GAL
 UMUN2
-
+N
+…
 
 N01
 NAM2
@@ -25998,7 +26556,8 @@ N01
 
 N01
 …
-
+N
+…
 
 
 N01
@@ -26061,7 +26620,8 @@ N01
 …
 N01
 …
-
+N
+…
 
 
 N01
@@ -26101,7 +26661,8 @@ GAL
 N01
 GAL
 …
-
+N
+…
 
 
 N01
@@ -26124,7 +26685,8 @@ GA
 N01
 GAL
 KISAL
-
+N
+…
 
 
 
@@ -26157,7 +26719,9 @@ GAL
 
 N01
 …
-
+N
+X
+…
 
 
 
@@ -26169,7 +26733,8 @@ ME
 N01
 GAL
 KISAL
-
+N
+…
 
 
 N01
@@ -26197,7 +26762,8 @@ GAL
 N01
 GAL
 …
-
+N
+…
 
 
 N01
@@ -26222,7 +26788,8 @@ SZAB
 N01
 BU
 SZAB
-
+N
+…
 
 
 N01
@@ -26259,7 +26826,10 @@ GAL
 N01
 TUR
 …
-
+N34
+N
+X
+…
 
 
 N01
@@ -26311,7 +26881,8 @@ ENKUM
 
 N01
 …
-
+N
+…
 
 
 N01
@@ -26342,7 +26913,11 @@ N01
 
 N01
 …
-
+N
+…
+AN
+X
+NUN
 
 
 N01
@@ -26374,7 +26949,8 @@ UMUN2
 
 N01
 …
-
+N
+…
 
 
 N01
@@ -26405,7 +26981,8 @@ N01
 …
 N01
 …
-
+N
+…
 
 
 N01
@@ -26427,7 +27004,8 @@ N01
 N01
 X
 …
-
+N
+…
 
 
 N01
@@ -26473,7 +27051,8 @@ N01
 
 N01
 …
-
+N
+…
 
 
 N01
@@ -26502,7 +27081,8 @@ N01
 
 N01
 …
-
+N
+…
 
 
 N01
@@ -26525,7 +27105,8 @@ UMUN2
 N01
 …
 UMUN2
-
+N
+…
 
 
 N01
@@ -26554,7 +27135,8 @@ SAG
 N01
 UB
 SAG
-
+N
+…
 
 
 N01
@@ -26580,7 +27162,8 @@ SZAB
 
 N01
 …
-
+N
+…
 
 
 N01
@@ -26603,7 +27186,8 @@ GAL
 N01
 GAL
 …
-
+N
+…
 
 
 N01
@@ -26644,15 +27228,33 @@ IM
 TUR
 
 
+N
+…
 
 
+N01
+GAL
+SUKKAL
+
+N01
+GADA
+SUKKAL
+N
+…
 
 
+N01
+GADA
+SUKKAL
+N01
+GAL
+GA
 
-
-
-
-
+N01
+SIG2
+GA
+N
+…
 
 
 
@@ -26669,14 +27271,16 @@ SUKKAL
 
 N01
 …
-
+N
+…
 
 
 
 N01
 GAL
 SUKKAL
-
+N
+…
 
 
 N01
@@ -26696,11 +27300,22 @@ TUR
 
 N01
 …
+N
+…
 
 
+N01
+…
+SUKKAL
+N01
+GAL
+GA
 
-
-
+N01
+SIG2
+GA
+N
+…
 
 
 N01
@@ -26727,7 +27342,8 @@ AK
 N01
 GAL
 …
-
+N
+…
 
 
 N01
@@ -26761,7 +27377,8 @@ UB
 
 N01
 …
-
+N
+…
 
 
 
@@ -26772,7 +27389,8 @@ TE
 N01
 GAL
 SUKKAL
-
+N
+…
 
 
 N01
@@ -26816,11 +27434,25 @@ SANGA
 
 N01
 …
+N
+…
 
 
+N01
+GAL
+…
+N01
+GAL
+NIM
+N01
+GAL
+SILA4
 
-
-
+N01
+GAL
+…
+N
+…
 
 
 
@@ -26834,7 +27466,8 @@ SILA4
 N01
 …
 SZAB
-
+N
+…
 
 
 N01
@@ -26854,7 +27487,8 @@ X
 
 N01
 …
-
+N
+…
 
 
 N01
@@ -26871,7 +27505,8 @@ N01
 …
 N01
 …
-
+N
+…
 
 N01
 …
@@ -26927,7 +27562,8 @@ SZAB
 N01
 GAL
 …
-
+N
+…
 
 
 N01
@@ -26960,7 +27596,8 @@ UMUN2
 N01
 UMUN2
 …
-
+N
+…
 
 
 
@@ -26972,6 +27609,8 @@ N01
 GAL
 X
 
+N
+…
 
 
 
@@ -26982,7 +27621,8 @@ NIM
 N01
 X
 …
-
+N
+…
 
 
 N01
@@ -27032,15 +27672,27 @@ SAL
 N01
 SANGA
 …
+N
+…
+
+
+N01
+GAL
+NESAG2
+
+N01
+GAL
+TUR3
+N
+…
 
 
 
-
-
-
-
-
-
+N01
+SANGA
+UMUN2
+N
+…
 
 
 N01
@@ -27058,7 +27710,8 @@ X
 N01
 …
 X
-
+N
+…
 
 
 N01
@@ -27081,7 +27734,8 @@ SZAB
 N01
 GAL
 NESAG2
-
+N
+…
 
 
 N01
@@ -27106,9 +27760,12 @@ N01
 
 N01
 …
+N
+…
 
 
-
+N01
+…
 
 N01
 SZAB
@@ -27116,11 +27773,26 @@ SZAB
 N01
 SZAB
 …
+N
+…
 
 
+N01
+GAL
+UMUN2
+N01
+ERIN
+UMUN2
+N01
+SANGA
+UMUN2
 
-
-
+N01
+GAL
+UMUN2
+…
+N
+…
 
 
 N01
@@ -27133,7 +27805,8 @@ NESAG2
 
 N01
 …
-
+N
+…
 
 
 N01
@@ -27153,7 +27826,8 @@ SAG
 
 N01
 ZATU725
-
+N
+…
 
 
 N01
@@ -27175,15 +27849,33 @@ SANGA
 
 N01
 …
+N
+…
 
 
+N01
+GAL
+IM
+N01
+IM
+TUR
+
+N01
+GAL
+SZA
+N
+…
 
 
+N01
+GAL
+IM
 
-
-
-
-
+N01
+IM
+TUR
+N
+…
 
 
 N01
@@ -27248,7 +27940,8 @@ X
 N01
 X
 …
-
+N
+…
 
 
 N01
@@ -27273,7 +27966,8 @@ X
 
 N01
 …
-
+N
+…
 
 
 N01
@@ -27300,7 +27994,8 @@ N01
 
 N01
 …
-
+N
+…
 
 
 N01
@@ -27324,7 +28019,8 @@ N01
 
 N01
 …
-
+N
+…
 
 
 N01
@@ -27357,7 +28053,8 @@ GAL
 N01
 GAL
 SZAGAN
-
+N
+…
 
 
 N01
@@ -27390,7 +28087,8 @@ ME
 N01
 GALGA
 …
-
+N
+…
 
 
 N01
@@ -27425,7 +28123,8 @@ ISZ
 N01
 GAL
 TAG
-
+N
+…
 
 
 N01
@@ -27442,11 +28141,30 @@ SAG
 
 N01
 ZATU725
+N
+…
 
 
+N01
+…
+N01
+GAL
+GISZGAL
+N01
+GAL
+ZATU737
+X
+N01
+SANGA
+ZATU737
+DI
 
-
-
+N01
+SANGA
+ZATU737
+X
+N
+…
 
 
 N01
@@ -27460,7 +28178,8 @@ ERIN
 
 N01
 …
-
+N
+…
 
 
 N01
@@ -27477,7 +28196,8 @@ GISZGAL
 
 N01
 …
-
+N
+…
 
 
 
@@ -27540,7 +28260,8 @@ SUHUR
 
 N01
 …
-
+N
+…
 
 
 N01
@@ -27553,7 +28274,8 @@ DI
 
 N01
 …
-
+N
+…
 
 
 
@@ -27612,7 +28334,8 @@ N01
 
 N01
 …
-
+N
+…
 
 
 N01
@@ -27698,7 +28421,8 @@ LAGAR
 N01
 MUSZ3
 …
-
+N
+…
 
 
 N01
@@ -27749,15 +28473,40 @@ N01
 ENGIZ
 N01
 ENDIB
+N
+…
 
 
+N01
+…
+N01
+DUB
+SANGA
+
+N01
+SAG
+…
+N
+…
 
 
+N01
+…
+ISZ
+N01
+…
+TAG
+N01
+GAL
+SANGA
+N01
+…
+SANGA
 
-
-
-
-
+N01
+…
+N
+…
 
 
 N01
@@ -27780,7 +28529,8 @@ N01
 
 N01
 …
-
+N
+…
 
 
 N01
@@ -27809,7 +28559,8 @@ N01
 BU
 NUN
 …
-
+N
+…
 
 
 N01
@@ -27829,7 +28580,8 @@ SAL
 
 N01
 …
-
+N
+…
 
 
 N01
@@ -27852,7 +28604,8 @@ GAL
 
 N01
 ENGIZ
-
+N
+…
 
 
 N01
@@ -27896,11 +28649,21 @@ APIN
 …
 N01
 …
+N
+…
 
 
+N01
+SANGA
+ZATU737
+U4
 
-
-
+N01
+…
+ZATU737
+SAL
+N
+…
 
 
 N01
@@ -27924,7 +28687,8 @@ ZATU725
 
 N01
 DAM
-
+N
+…
 
 
 N01
@@ -27950,7 +28714,8 @@ ENDIB
 
 N01
 …
-
+N
+…
 
 
 N01
@@ -27973,11 +28738,22 @@ N01
 KAR2
 NUN
 …
+N
+…
 
 
+N01
+LAGAR
+IB
+N01
+LAGAR
+…
 
-
-
+N01
+MUSZ3
+…
+N
+…
 
 
 N01
@@ -28005,7 +28781,8 @@ BU
 
 N01
 …
-
+N
+…
 
 
 
@@ -28055,7 +28832,8 @@ UNUG
 N01
 SZU
 …
-
+N
+…
 
 
 N01
@@ -28105,7 +28883,8 @@ SUHUR
 
 N01
 …
-
+N
+…
 
 
 N01
@@ -28123,7 +28902,8 @@ SAG
 
 N01
 …
-
+N
+…
 
 
 N01
@@ -28142,7 +28922,8 @@ X
 N01
 SZIDIM
 …
-
+N
+…
 
 
 N01
@@ -28181,7 +28962,8 @@ N01
 …
 N01
 …
-
+N
+…
 
 N01
 …
@@ -28208,11 +28990,23 @@ KUR
 
 N01
 …
+N
+N01
+X
+…
 
 
+N01
+GAL
+X
+N01
+GAL
+SZAGAN
 
-
-
+N01
+ENGIZ
+N
+…
 
 
 
@@ -28226,7 +29020,8 @@ SANGA
 
 N01
 ENKUM
-
+N
+…
 
 
 
@@ -28239,7 +29034,8 @@ N01
 BU
 NUN
 ME
-
+N
+…
 
 
 N01
@@ -28283,11 +29079,21 @@ GAL
 
 N01
 …
+N
+…
 
 
+N01
+ENDIB
+N01
+GAL
+NIMGIR
 
-
-
+N01
+X
+…
+N
+…
 
 
 
@@ -28322,7 +29128,8 @@ N01
 
 N01
 …
-
+N
+…
 
 
 N01
@@ -28337,7 +29144,8 @@ N01
 
 N01
 …
-
+N
+…
 
 
 N01
@@ -28360,7 +29168,8 @@ N01
 …
 N01
 …
-
+N
+…
 
 
 N01
@@ -28382,7 +29191,8 @@ ZAG
 N01
 BARA3
 ZAG
-
+N
+…
 
 
 N01
@@ -28422,11 +29232,20 @@ SIPA
 N01
 GAL
 GURUSZDA
+N
+…
 
 
-
-
-
+N01
+…
+N01
+DUB
+SANGA
+N01
+SUHUR
+…
+N
+…
 
 
 N01
@@ -28507,7 +29326,8 @@ N01
 X
 DU6
 …
-
+N
+…
 
 
 
@@ -28541,7 +29361,8 @@ DILMUN
 
 N01
 …
-
+N
+…
 
 
 N01
@@ -28558,23 +29379,69 @@ DU
 N01
 GAL
 …
+N
+…
 
 
+N01
+KU
+X
+DU6
+N01
+TAR
+DU6
+
+N01
+GAL
+UTUL
+N
+…
 
 
+N01
+X
+…
+N01
+GAL
+UTUL
+N01
+NUN
+EN
+UTUL
+
+N01
+TAR
+UTUL
+N
+…
 
 
+N01
+…
+N01
+BU
+NUN
+SANGA
+
+N01
+BU
+…
+SANGA
+N
+…
 
 
+N01
+…
+NUN
+…
 
-
-
-
-
-
-
-
-
+N01
+BU
+SANGA
+NUN
+N
+…
 
 
 N01
@@ -28676,7 +29543,8 @@ ISZ
 N01
 X
 …
-
+N
+…
 
 
 N01
@@ -28711,7 +29579,8 @@ GURUSZDA
 
 N01
 …
-
+N
+…
 
 
 N01
@@ -28756,11 +29625,20 @@ UNUG
 
 N01
 …
+N
+…
 
 
+N01
+SANGA
+NUN
+…
 
-
-
+N01
+GAL
+X
+N
+…
 
 
 N01
@@ -28780,7 +29658,8 @@ SANGA
 BU
 NUN
 …
-
+N
+…
 
 
 N01
@@ -28804,7 +29683,8 @@ MUSZ
 N01
 GAL
 MUNU3
-
+N
+…
 
 
 N01
@@ -28830,10 +29710,37 @@ ISZ
 N01
 GAL
 …
+N
+…
 
 
+N01
+UNUG
+N01
+SZU
+UKKIN
+N01
+GAL
+NAR
+N01
+GAL
+BALAG
 
+N01
+GAL
+…
+N
+…
 
+N01
+GAL
+…
+
+N01
+GAL
+…
+N
+…
 
 
 N01
@@ -28843,15 +29750,23 @@ GAL
 N01
 GAL
 …
+N
+…
 
 
+N01
+X
+…
+N01
+GAL
+…
 
-
-
-
-
-
-
+N01
+AN
+X
+…
+N
+…
 
 
 
@@ -28862,7 +29777,8 @@ X
 N01
 GAL
 X
-
+N
+…
 
 
 N01
@@ -28887,19 +29803,55 @@ N01
 
 N01
 …
+N
+…
 
 
+N01
+…
+UDU
+AB2
+N01
+X
+UDU
+AB2
+N01
+GAL
+SIPA
+AB2
+
+N01
+GAL
+…
+N
+…
 
 
+N01
+GAL
+X
+
+N01
+GAL
+AB2
+N
+…
 
 
+N01
+…
+N01
+KAR2
+…
+N01
+NUN
+X
 
-
-
-
-
-
-
+N01
+LAGAR
+…
+N
+…
 
 
 
@@ -28913,7 +29865,8 @@ NESAG2
 N01
 GAL
 TUR3
-
+N
+…
 
 
 
@@ -28973,7 +29926,8 @@ TAG
 N01
 SANGA
 GAL
-
+N
+…
 
 N01
 NAMESZDA
@@ -29051,7 +30005,10 @@ N01
 SZAB
 N01
 GAL
-
+N14
+N01
+NAM2
+BALA
 
 N01
 NAMESZDA
@@ -29176,7 +30133,12 @@ N01
 GAL
 ZATU737
 DI
-
+N14
+N01
+NAM2
+GAR
+SANGA
+AMA
 
 N01
 …
@@ -29301,7 +30263,12 @@ ZATU737
 SAL
 N01
 …
-
+N14
+N01
+NAM2
+GAR
+AMA
+SANGA
 
 N01
 NAMESZDA
@@ -29428,7 +30395,12 @@ N01
 …
 ZATU737
 X
-
+N14
+N01
+NAM2
+GAR
+SANGA
+AMA
 
 
 
@@ -29447,7 +30419,8 @@ X
 
 N01
 …
-
+N
+…
 
 N01
 …
@@ -29485,7 +30458,10 @@ N01
 
 N01
 …
-
+N14
+N01
+X
+…
 
 
 N01
@@ -29514,7 +30490,8 @@ GAL
 N01
 IM
 TUR
-
+N
+…
 
 
 N01
@@ -29526,7 +30503,8 @@ N01
 
 
 
-
+N
+…
 
 N01
 …
@@ -29537,7 +30515,8 @@ KAB
 N01
 NAM2
 DI
-
+N
+…
 
 N01
 …
@@ -29668,7 +30647,11 @@ N01
 N57
 ZATU737
 U4
-
+N14
+N01
+EN
+KISAL
+DU
 
 N01
 NAMESZDA
@@ -29713,7 +30696,12 @@ N01
 
 N01
 …
-
+N
+N14
+EN
+N57
+E2
+…
 
 
 
@@ -29779,7 +30767,8 @@ X
 X
 N01
 X
-
+N
+…
 
 
 N01
@@ -29853,7 +30842,11 @@ X
 N01
 X
 …
-
+N
+EN
+X
+KISAL
+…
 
 
 
@@ -29906,7 +30899,9 @@ N01
 ZATU737
 X
 …
-
+N
+…
+KISAL
 
 
 
@@ -29990,7 +30985,10 @@ ZATU737
 SAL
 N01
 …
-
+N
+NAM2
+DU
+…
 
 
 N01
@@ -30028,12 +31026,110 @@ SUKKAL
 
 
 
+N14
+N01
+N
+X
+…
 
 
+UKKIN
+LA2
+TE
+NI
+…
+KISAL
+NIM
+SZITA
+ZATU753
+SANGA
+GAL
+SANGA
+UB
+…
+GA
+GESZTU
+EN
+NUN
+HI
+EN
+E2a
+NUN
+EN
+I
+NUN
+EN
+AMAR
+SZU2
+EN
+AN
+NAM2
+KAB
+EN
+NUN
+URI
+EN
+AN
+RU
+EN
+SAG
+NAMESZDA
+NAM2
+URU
+NAM2
+…
+SZE
+NAM2
+AN
+HI
+KI
+NUN
+…
+…
+BU
+NUN
+AN
+…
+
+MEN
+SZA3
+AN
+…
+SAG
+X
+SI
+UTUL
+…
+UTUL
+…
+X
+IB
+ZATU686
+X
+…
+
+GA2
 
 
+N01
+KISAL
+N01
+NIM
+N01
+SZITA
+N01
+ZATU753
+N01
+SANGA
+N01
+GAL
+SANGA
+N01
+UB
 
-
+N01
+…
+GA
 
 N01
 EN
@@ -30060,7 +31156,10 @@ N01
 
 N01
 …
-
+N34
+N14
+PIRIG
+…
 
 
 
@@ -30090,7 +31189,8 @@ N01
 
 N01
 …
-
+N
+…
 
 N01
 UKKIN
@@ -30105,7 +31205,8 @@ N01
 
 N01
 …
-
+N
+…
 
 N01
 …
@@ -30125,7 +31226,8 @@ GESZTU
 N01
 NUN
 EN
-
+N
+…
 
 
 N01
@@ -30154,7 +31256,10 @@ NUN
 N01
 EN
 …
-
+N34
+N01
+…
+…
 
 
 N01
@@ -30188,7 +31293,8 @@ N01
 
 N01
 …
-
+N
+…
 
 
 N01
@@ -30218,7 +31324,9 @@ X
 N01
 X
 …
-
+…
+N01
+…
 
 
 
@@ -30237,7 +31345,8 @@ N01
 EN
 RU
 …
-
+N
+…
 
 
 N01
@@ -30278,7 +31387,8 @@ AN
 
 N01
 …
-
+N
+…
 
 
 
@@ -30300,7 +31410,8 @@ N01
 N01
 EN
 …
-
+N
+…
 
 
 N01
@@ -30376,7 +31487,8 @@ N01
 
 N01
 …
-
+N
+…
 
 
 N01
@@ -30438,7 +31550,8 @@ UB
 N01
 GA
 …
-
+N
+…
 
 
 N01
@@ -30449,7 +31562,8 @@ GA
 
 N01
 …
-
+N
+…
 
 
 N01
@@ -30463,10 +31577,165 @@ NUN
 
 
 
+N
+…
 
 
+…
+AB2
+NE
+AB2
+U4
+AB2
+…
+…
+SZU
+AB2
+SZU
+BAR
+AB2
+GI
+…
+GI
+BAR
+…
+BAR
+MUL
+AB2
+…
+X
+AB2
+DARA4
+…
+…
+…
+AB2
+SIG7
+SIG2
+AB
+SIG7
+SIG2
+GI6
+AB2
+…
+…
+…
+SZAH2
+AB2
+3N57
+ZAG
+AB2
+DARA4
+ZAG
+…
+HI
+SAG
+AB2
+…
+AB2
+AB2
+X
+AB2
+E2
+GU4
+NE
+GU4
+U4
+GU4
+GI6
+GU4
+…
+SZU
+GU
 
+SZU
+…
+X
+…
+SIG7
+DU8
+GU4
+SIG7
+DU8
+GI6
+GU4
+…
+GU4
+X
+X
+GU4
+SZAH2
+GU4
+3N57
+ZAG
+GU4
+3N57
+DARA4
+ZAG
+GU4
+SAG
+X
+GU4
+…
+U4
+AL
+X
+GU4
+…
+X
+GU4
+…
+AMAR
 
+…
+AMAR
+GI
+AMAR
+GI
+BAR
+AMAR
+…
+…
+DARA4
+AMAR
+…
+DARA4
+AMAR
+
+BALA
+DARA4
+AMAR
+GA
+N02
+X
+AMAR
+X
+X
+AMAR
+…
+AMAR
+…
+ZAG
+AMAR
+SAG
+…
+AMAR
+SAG
+DARA4a1
+AMAR
+X
+…
+
+…
+AM
+…
+X
+…
+SZU
+…
+…
+
+…
 
 
 N01
@@ -30481,7 +31750,8 @@ U4
 N01
 GI6
 …
-
+N
+…
 
 N01
 …
@@ -30504,7 +31774,8 @@ BAR
 N01
 DARA4
 …
-
+N
+…
 
 
 N01
@@ -30547,7 +31818,8 @@ GU4
 N01
 X
 …
-
+N
+…
 
 
 N01
@@ -30586,7 +31858,8 @@ AB2
 N01
 X
 AB2
-
+N
+…
 
 
 N01
@@ -30612,7 +31885,8 @@ GU4
 N01
 U4
 GU4
-
+N
+…
 
 N01
 …
@@ -30650,7 +31924,8 @@ N01
 N57
 ZAG
 …
-
+N
+…
 
 N01
 …
@@ -30685,7 +31960,11 @@ X
 
 N01
 …
-
+N
+AB2
+E2
+NUN
+PAP
 
 
 N01
@@ -30724,7 +32003,8 @@ N01
 N01
 X
 …
-
+N
+…
 
 
 
@@ -30738,7 +32018,8 @@ N01
 …
 DARA4
 AMAR
-
+N
+…
 
 
 
@@ -30756,7 +32037,8 @@ N57
 DARA4
 ZAG
 GU4
-
+N
+…
 
 
 
@@ -30775,7 +32057,8 @@ GU4
 
 N01
 …
-
+N
+…
 
 
 
@@ -30797,7 +32080,8 @@ GU4
 N01
 SZU
 …
-
+N
+…
 
 
 N01
@@ -30827,7 +32111,8 @@ N01
 …
 ZAG
 GU4
-
+N
+…
 
 
 
@@ -30843,7 +32128,8 @@ AMAR
 N01
 …
 AMAR
-
+N
+…
 
 
 
@@ -30883,7 +32169,8 @@ N01
 
 N01
 …
-
+N
+…
 
 
 
@@ -30938,7 +32225,8 @@ N01
 
 N01
 …
-
+N
+…
 
 
 
@@ -30967,7 +32255,8 @@ AMAR
 N01
 X
 …
-
+N
+…
 
 
 
@@ -30991,7 +32280,8 @@ N01
 …
 X
 GU4
-
+N
+…
 
 
 
@@ -31008,7 +32298,8 @@ N01
 
 N01
 …
-
+N
+…
 
 
 
@@ -31030,7 +32321,8 @@ N57
 
 N01
 …
-
+N
+…
 
 
 
@@ -31044,7 +32336,8 @@ AMAR
 N01
 …
 AMAR
-
+N
+…
 
 
 
@@ -31068,7 +32361,8 @@ X
 N01
 DARA4
 …
-
+N
+…
 
 
 
@@ -31083,7 +32377,8 @@ N01
 …
 ZAG
 AMAR
-
+N
+…
 
 
 
@@ -31102,7 +32397,8 @@ GU4
 N01
 SZAH2
 GU4
-
+N
+…
 
 
 
@@ -31119,7 +32415,8 @@ SZU
 
 N01
 …
-
+N
+…
 
 N01
 X
@@ -31221,7 +32518,143 @@ X
 
 
 
+SUHUR
+BU
+SUHUR
+BA
+SUHUR
+SUHUR
+…
+SUKUD
+SUKUD
+PAP
+SUKUD
+NUN
+SUKUD
 
+
+X
+KU6
+NE
+…
+SZAH2
+KU6
+GISZ3
+…
+NU11
+NU11
+KU6
+AB2
+KU6
+HI
+KU6
+N57
+KU6
+N02
+KU6
+DUR2
+KU6
+SUMASZ
+KU6
+NUN
+KU6
+
+
+SZITA
+NUN
+KU6
+TAG
+KU6
+ME
+DU
+KU6
+UR4
+E2
+KU6
+MUL
+KU6
+AB
+KU6
+…
+PAD
+KU6
+SUKUD
+…
+GI
+KU6
+…
+HI
+SUHUR
+…
+…
+TU
+KU6
+KU6
+KU6
+GIR
+KA
+KU6
+GESZTU
+KU6
+SUHUR
+NAGA
+U2
+MUSZEN
+KU6
+X
+NAM
+KU6
+MUNa4
+KU6
+KUSZU2
+KA
+SAR
+KU6
+LU2
+KU6
+
+GU4
+…
+SAG
+KU6
+URI3
+KU6
+GIR2
+KU6
+X
+…
+X
+ZATU759
+KU6
+GA2
+HI
+GA2
+SUHUR
+GA2
+A
+
+GA2
+KU6
+X
+…
+SU
+KU6
+U4
+KU6
+U4
+2N57
+KU6
+
+…
+KU6
+…
+MUNSZUB
+KU6
+
+LI
+ZI
+MUSZEN
+KU6
 
 
 N01
@@ -31233,7 +32666,9 @@ SUKUD
 
 
 
-
+…
+X
+…
 
 
 N01
@@ -31243,7 +32678,8 @@ SUHUR
 N01
 SUKUD
 SUKUD
-
+N
+…
 
 N01
 …
@@ -31262,7 +32698,8 @@ SUKUD
 
 N01
 …
-
+N
+…
 
 N01
 …
@@ -31335,7 +32772,9 @@ KU6
 
 N01
 …
-
+N
+…
+X
 
 
 N01
@@ -31345,7 +32784,9 @@ SUHUR
 N01
 SUHUR
 X
-
+N
+…
+X
 
 N01
 SUHUR
@@ -31379,7 +32820,10 @@ GISZ3
 N01
 X
 …
-
+N
+KISZIK
+GUG2
+…
 
 
 
@@ -31473,7 +32917,10 @@ X
 
 N01
 …
-
+N
+NUN
+NAM2
+…
 
 
 
@@ -31491,7 +32938,9 @@ N01
 HI
 SUHUR
 …
-
+N
+…
+X
 
 
 
@@ -31499,7 +32948,8 @@ N01
 NU11
 NU11
 KU6
-
+N
+…
 
 
 
@@ -31526,7 +32976,8 @@ N01
 
 N01
 …
-
+N
+…
 
 
 
@@ -31557,7 +33008,8 @@ X
 
 N01
 …
-
+N
+…
 
 
 
@@ -31576,7 +33028,8 @@ LU2
 
 N01
 …
-
+N
+…
 
 
 
@@ -31600,7 +33053,8 @@ KU6
 N01
 LU2
 KU6
-
+N
+…
 
 
 
@@ -31612,7 +33066,8 @@ KU6
 
 N01
 …
-
+N
+…
 
 
 
@@ -31633,7 +33088,8 @@ KU6
 N01
 …
 KU6
-
+N
+…
 
 
 
@@ -31656,7 +33112,8 @@ N01
 
 N01
 …
-
+N
+…
 
 
 
@@ -31672,7 +33129,8 @@ KU6
 
 N01
 …
-
+N
+…
 
 
 
@@ -31689,7 +33147,8 @@ LI
 ZI
 MUSZEN
 KU6
-
+N
+…
 
 
 
@@ -31744,7 +33203,8 @@ N01
 …
 N01
 …
-
+N
+…
 
 
 
@@ -31763,6 +33223,9 @@ SUHUR
 X
 …
 
+N
+…
+X
 
 
 …
@@ -31781,7 +33244,68 @@ KU6
 …
 
 
+SI
+MUSZEN
+GISZ3
+MUSZEN
 
+DU
+MUSZEN
+…
+…
+MUSZ
+MUSZEN
+NI2
+MUSZEN
+SZA
+MUSZEN
+ZI
+BA
+MUSZEN
+
+DU
+IR
+MUSZEN
+UR5
+…
+UR5
+X
+KAR2
+MUSZEN
+NAGA
+U2
+MUSZEN
+NAGA
+U2
+UR5
+MUSZEN
+…
+…
+GUN3
+X
+GUN3
+
+…
+X
+MUSZEN
+MUSZ
+…
+NIN
+X
+…
+
+…
+UDU
+SZU
+MUSZEN
+GA
+TUN3
+MUSZEN
+DA
+MA
+MUSZEN
+ZATU621
+MUSZEN
 
 
 
@@ -31797,7 +33321,8 @@ MUSZEN
 N01
 X
 MUSZEN
-
+N
+…
 
 
 
@@ -31820,7 +33345,8 @@ X
 
 N01
 …
-
+N
+…
 
 
 
@@ -31881,7 +33407,8 @@ MUSZEN
 N01
 ZATU621
 MUSZEN
-
+N
+…
 
 N01
 SI
@@ -31893,7 +33420,8 @@ MUSZEN
 N01
 DU
 MUSZEN
-
+N
+…
 
 
 
@@ -31949,10 +33477,127 @@ MUSZEN
 N01
 …
 
+N
+…
+X
 
 
 
+…
+HI
+IM
+GI
+N57
+IM
+U4
+IM
+KI
+SIG
+U4
+GI6
+U4
+N08
+…
+IM
+…
+IM
+…
+GAN2
+DU
+A
+IM
+SI
+IM
+MIR
 
+AN
+…
+DU7
+X
+…
+X
+IM
+AD
+BU
+DU6
+2N57
+SAR
+HI
+GI6
+N04
+TUR
+SZE
+SZE
+SUKKAL
+E2
+LU2
+
+DA
+…
+GISZ
+SZU2
+SZE
+SZE
+ZI
+GISZ
+SZU2
+SZE
+SZE
+NI
+ME
+DA
+MUSZEN
+
+SANGA
+GU
+X
+…
+X
+DUG
+ASZ
+SUM
+…
+SUM
+…
+GISZ
+SUM
+…
+SUM
+…
+SUM
+…
+SUM
+
+…
+SUM
+SAR
+…
+X
+…
+
+…
+AN
+HI
+X
+…
+KAR2
+KAB
+ZATU684
+AMA
+NI
+BAHAR2
+DU
+GISZ
+SZU2
+SAR
+A
+GISZ
+SAR
+A
+
+X
+SAR
+A
 
 
 
@@ -32012,7 +33657,8 @@ N01
 X
 SAR
 A
-
+N
+…
 
 
 
@@ -32050,7 +33696,8 @@ X
 
 N01
 …
-
+N
+…
 
 
 
@@ -32094,7 +33741,8 @@ LU2
 N01
 DA
 …
-
+N
+…
 
 
 N01
@@ -32122,10 +33770,269 @@ N08
 
 
 
+N
+…
 
 
-
-
+GISZ
+NAM2
+GISZ
+NU11
+GISZ
+KIN2
+GISZ
+GI6
+KIN2
+SZE
+KIN2
+GISZ
+GISZ
+DUB
+GISZ
+A
+GISZ
+SI
+GESZTIN
+GISZ
+GESZTIN
+DUR2
+GISZ
+…
+GISZ
+MUSZEN
+ALIM
+GISZ
+GISZ
+LAM
+GISZ
+LAM
+KUR
+GISZ
+KUR
+GISZ
+DUR2
+NUNUZ
+GISZ
+GI6
+GISZ
+LAGAB
+GISZ
+DIN
+GISZ
+MA
+GISZ
+HASZHUR
+GISZ
+NUN
+A
+GISZ
+DIN
+DIN
+GISZ
+GI
+BU
+BU
+ZATU633
+GISZ
+GI
+BU
+MES
+GISZ
+GI
+U4
+MES
+GISZ
+GISZ
+GI6
+MES
+GISZ
+RU
+MES
+GISZ
+MES
+MES
+ZATU633
+MES
+GISZ
+EN
+A
+MES
+GISZ
+GISZ
+SZE3
+A
+3N57
+SZU
+SU
+GISZ
+N57
+GISZ
+KU6
+KU6
+TUM
+ANSZE
+GISZ
+ANSZE
+LUM
+KISZIK
+U2
+GISZ
+GISZ
+KISZIK
+AB
+U2
+GAL
+SZA
+SZU
+SZA
+GISZ
+LI
+GISZ
+ERIM
+GISZ
+U4
+IN
+HI
+GISZ
+IN
+HI
+GISZ
+IN
+HI
+GISZ
+GUM
+GUM
+GUM
+GISZ
+BA
+SZE3
+U2
+GISZ
+URUDU
+GISZ
+DUR2
+DARA3
+NAGAR
+GUL
+GUL
+BU
+GISZ
+GISZIMMAR
+GESZTU
+GISZ
+GESZTU
+NAGA
+…
+AN
+E2
+GISZ
+GISZ
+ALIM
+NUN
+NAM2
+E2
+GISZ
+tenû
+E2
+GISZ
+PU2
+GUB3
+GISZ
+PU2
+GURUSZ
+KU3
+…
+X
+KI
+GISZ
+GISZ
+APIN
+KI
+UR4
+GISZ
+SIG
+GISZ
+LISZ
+BANSZUR
+GISZ
+ZATU786
+BANSZURc
+GISZ
+AD
+AD
+GISZ
+GISZ
+BAD
+BAD
+GISZ
+BAD
+TAG
+GISZ
+SI
+TAG
+GISZ
+GISZ
+SI
+KAK
+GISZ
+KAK
+X
+GISZ
+SI
+AL
+NAM2
+AL
+GISZ
+AL
+1N6
+AL
+SZU
+KIN
+KIN
+SZU
+KIN
+…
+…
+GISZ
+…
+…
+GISZ
+X
+GISZ
+KA
+GISZ
+TAG
+GISZ
+SAG
+…
+GISZ
+SIG
+GISZ
+U4
+GISZ
+SAG
+DU
+GISZ
+X
+X
+BALA
+BALA
+…
+…
+GISZ
+DA
+NINDA2
+GISZ
+GISZ
+KA
+GISZ
+…
+GISZ
+…
+GISZ
+X
+…
+…
 
 
 
@@ -32152,7 +34059,8 @@ IN
 
 N01
 …
-
+N
+…
 
 N01
 GISZ
@@ -32180,7 +34088,8 @@ N01
 SI
 GISZ
 …
-
+N
+…
 
 N01
 …
@@ -32206,7 +34115,8 @@ GISZ
 
 N01
 …
-
+N
+…
 
 N01
 …
@@ -32347,7 +34257,13 @@ N01
 
 N01
 …
-
+N34
+N14
+X
+NAMESZDA
+E2
+ZATU648
+…
 
 N01
 GISZ
@@ -32585,7 +34501,9 @@ KAK
 GISZ
 N01
 AL
-
+N34
+N01
+…
 
 
 
@@ -32617,7 +34535,8 @@ KISZIK
 …
 
 
-
+N
+…
 
 
 N01
@@ -32739,7 +34658,8 @@ ANSZE
 
 N01
 …
-
+N
+…
 
 
 N01
@@ -32817,7 +34737,8 @@ IN
 
 N01
 …
-
+N
+…
 
 
 N01
@@ -32842,7 +34763,8 @@ N01
 N01
 DIN
 …
-
+N
+…
 
 
 
@@ -33030,7 +34952,10 @@ X
 
 N01
 …
-
+N
+NAMESZDA
+E2
+…
 
 
 
@@ -33049,7 +34974,8 @@ LI
 
 
 
-
+N
+…
 
 
 
@@ -33074,7 +35000,8 @@ ANSZE
 N01
 X
 …
-
+N
+…
 
 
 
@@ -33117,7 +35044,10 @@ X
 N01
 GISZ
 …
-
+N
+TUR
+X
+…
 
 
 
@@ -33137,7 +35067,8 @@ N01
 …
 X
 MES
-
+N
+…
 
 
 
@@ -33159,7 +35090,9 @@ SZU
 
 
 
-
+N
+…
+GAL
 
 
 
@@ -33204,7 +35137,8 @@ N01
 
 N01
 …
-
+N
+…
 
 
 
@@ -33248,7 +35182,8 @@ GISZ
 
 N01
 …
-
+N
+…
 
 
 
@@ -33272,7 +35207,8 @@ TI
 N01
 GISZ
 DA
-
+N
+…
 
 
 N01
@@ -33293,7 +35229,8 @@ SZU
 
 N01
 …
-
+N
+…
 
 
 
@@ -33309,7 +35246,8 @@ N01
 GISZ
 ALIM
 NUN
-
+N
+…
 
 
 
@@ -33332,7 +35270,8 @@ ZATU786
 N01
 TUR
 …
-
+N
+…
 
 
 
@@ -33353,7 +35292,8 @@ N01
 
 N01
 …
-
+N
+…
 
 
 N01
@@ -33482,7 +35422,13 @@ BAD
 N01
 X
 …
-
+N34
+N14
+N01
+HI
+KASKAL
+X
+GI
 
 
 N01
@@ -33503,7 +35449,8 @@ DIN
 
 N01
 …
-
+N
+…
 
 
 N01
@@ -33574,7 +35521,8 @@ N06
 N01
 AL
 SZU
-
+N
+…
 
 
 N01
@@ -33767,7 +35715,8 @@ X
 
 
 
-
+N
+…
 
 
 
@@ -33821,7 +35770,8 @@ N01
 BALA
 BALA
 …
-
+N
+…
 
 
 
@@ -33835,7 +35785,8 @@ AD
 
 N01
 …
-
+N
+…
 
 
 
@@ -33859,10 +35810,245 @@ GISZ
 
 N01
 …
+N
+…
 
 
+NI
+DUG
+DUG
+DUG
+ASZ
+SZAKIR
+MUD3
+LAHTAN2
+KISIM
+NI
+HI
+NI
+N58
+NI
+IR
+NE
+IR
+DIN
+IR
+SU
+NI
+N57
+SU
+NI
+E2
+SU
+NI
+GAN
+N57
+GAN
+E2
+GAN
+DUG
+SZE
+DUG
+BALA
+DUG
+KASKAL
+KASZ
+DUG
+GESZTU
+DUG
+X
+DUG
 
+SA
+GI
+DUG
+NAGA
+DUG
+ZATU779
+DUG
 
+SZE
+NAM2
+DUG
+TAK4
+DUG
+SA
+DUG
+SIG7
+DUG
+SIG2
+DUG
+TI
+DUG
+MASZ
+DUG
+SI4
+DUG
+GA
+DUG
+GI6
+DUG
+U2
+DUG
+
+LAM
+KUR
+DUG
+LAM
+DUG
+KUR
+DUG
+GISZ
+DUG
+ZATU781
+DUG
+BIR3
+DUG
+KU6
+DUG
+SZAH2
+DUG
+ANSZE
+DUG
+UH3
+DUG
+HI
+DUG
+DIN
+SZU2
+DUG
+DIN
+DUG
+DIN
+GAN
+GI
+GAN
+BAPPIR
+DUG
+DUG
+SIG7
+U4
+DUG
+SIG7
+GI
+DUG
+SIG7
+NIM
+AGAR2
+U2
+PU2
+GA2a1
+U2
+PU2
+X
+U2
+PU2
+X
+U2
+PU2
+U2
+PU2
+…
+GA'AR
+GISZ
+GA'AR
+SZE3
+GA'AR
+…
+GA'AR
+GUG2
+GA'AR
+…
+GA'AR
+…
+X
+…
+NAGA
+GA'AR
+KA
+GA'AR
+UR4
+GA'AR
+X
+GA'AR
+…
+GA'AR
+E2
+…
+NUN
+GISZ
+ALIM
+ZATU662
+N14
+EN
+ZATU662
+N14
+ZATU662
+EN
+ZATU662
+EN
+SIG2
+EN
+TUG2
+U4
+TUG2
+U4
+TUG2
+GI6
+TUG2
+GI6
+TUG2
+GI
+TUG2
+GI
+TUG2
+NE
+TUG2
+NE
+TUG2
+NE
+GAR
+TUG2
+NE
+GAR
+TUG2
+BUR2
+TUG2
+…
+TUR
+BUR2
+TUG2
+BUR2
+TUR
+…
+DARA4a1
+TUG2
+N57
+GISZ
+TUG2
+N57
+GISZ
+…
+SU
+TUG2
+SZA3a1
+AB2
+…
+SZA3a1
+AB2
+TUG2
+LUM
+…
+TUG2
+LUM
+A
+TUG2
+N57
+AB2
+TUG2
+N57
+AB2
+…
 
 N01
 NI
@@ -33998,14 +36184,17 @@ N01
 
 
 
-
+N34
+N
+…
 
 N01
 NI
 
 N01
 …
-
+N
+…
 
 N01
 NI
@@ -34019,7 +36208,8 @@ N01
 
 N01
 …
-
+N
+…
 
 N01
 NI
@@ -34042,7 +36232,8 @@ N01
 
 N01
 …
-
+N
+…
 
 N01
 NI
@@ -34051,7 +36242,8 @@ DUG
 
 N01
 …
-
+N
+…
 
 N01
 NI
@@ -34141,7 +36333,9 @@ X
 
 N01
 …
-
+N
+…
+X
 
 N01
 NI
@@ -34166,7 +36360,8 @@ NI
 
 N01
 …
-
+N
+…
 
 N01
 NI
@@ -34180,7 +36375,8 @@ N01
 
 N01
 …
-
+N
+…
 
 N01
 NI
@@ -34200,14 +36396,16 @@ N01
 
 N01
 …
-
+N
+…
 
 N01
 NI
 
 N01
 DUG
-
+N
+…
 
 
 N01
@@ -34224,7 +36422,8 @@ NI
 N01
 HI
 NI
-
+N
+…
 
 
 N01
@@ -34277,7 +36476,8 @@ SI4
 
 N01
 …
-
+N
+…
 
 N01
 NI
@@ -34298,7 +36498,8 @@ IR
 
 N01
 …
-
+N
+…
 
 
 N01
@@ -34339,7 +36540,8 @@ N01
 
 N01
 …
-
+N
+…
 
 N01
 …
@@ -34372,7 +36574,8 @@ KASZ
 N01
 DUG
 GESZTU
-
+N
+…
 
 N01
 NI
@@ -34383,7 +36586,8 @@ N01
 
 N01
 …
-
+N
+…
 
 N01
 …
@@ -34414,7 +36618,8 @@ N01
 
 N01
 …
-
+N
+…
 
 
 N01
@@ -34428,7 +36633,8 @@ LAHTAN2
 
 N01
 …
-
+N
+…
 
 
 N01
@@ -34450,7 +36656,10 @@ N01
 
 N01
 …
-
+N34
+…
+X
+…
 
 
 N01
@@ -34459,7 +36668,8 @@ N57
 
 N01
 SZAKIR
-
+N
+…
 
 
 N01
@@ -34480,7 +36690,8 @@ IR
 
 N01
 …
-
+N
+…
 
 
 N01
@@ -34506,7 +36717,8 @@ X
 N01
 X
 …
-
+N
+…
 
 
 N01
@@ -34536,7 +36748,8 @@ X
 
 N01
 …
-
+N
+…
 
 
 N01
@@ -34549,7 +36762,8 @@ MUD3
 
 N01
 LAHTAN2
-
+N
+…
 
 
 N01
@@ -34571,7 +36785,8 @@ E2
 
 N01
 GAN
-
+N
+…
 
 
 N01
@@ -34586,7 +36801,8 @@ NI
 
 N01
 …
-
+N
+…
 
 
 N01
@@ -34625,7 +36841,8 @@ X
 N01
 DUG
 X
-
+N
+…
 
 
 N01
@@ -34641,14 +36858,16 @@ N01
 N57
 NI
 …
-
+N
+…
 
 
 
 N01
 NI
 …
-
+N
+…
 
 
 N01
@@ -34711,7 +36930,11 @@ X
 
 N01
 …
-
+N34
+N14
+…
+NAMESZDA
+…
 
 
 N01
@@ -34806,7 +37029,8 @@ N01
 
 N01
 …
-
+N
+…
 
 
 N01
@@ -34818,7 +37042,8 @@ IR
 N01
 DIN
 IR
-
+N
+…
 
 
 N01
@@ -34841,7 +37066,8 @@ N01
 
 N01
 …
-
+N
+…
 
 
 
@@ -34888,7 +37114,8 @@ SIG7
 N01
 DUG
 SIG2
-
+N
+…
 
 
 N01
@@ -34966,6 +37193,10 @@ N01
 DUG
 X
 
+N
+…
+X
+X
 
 
 N01
@@ -35010,7 +37241,9 @@ N01
 
 N01
 …
-
+N34
+…
+…
 
 
 N01
@@ -35028,7 +37261,9 @@ IR
 N01
 DIN
 IR
-
+N34
+…
+…
 
 
 
@@ -35058,7 +37293,9 @@ X
 
 N01
 …
-
+N34
+…
+…
 
 
 N01
@@ -35074,7 +37311,9 @@ BALA
 N01
 DUG
 KASKAL
-
+N34
+…
+…
 
 N01
 …
@@ -35097,7 +37336,9 @@ NI
 
 N01
 GAN
-
+N
+BA
+…
 
 
 
@@ -35108,7 +37349,8 @@ GAN
 N01
 DUG
 SZE
-
+N
+…
 
 
 
@@ -35120,7 +37362,8 @@ KASZ
 
 
 
-
+N
+…
 
 
 
@@ -35165,7 +37408,8 @@ N01
 
 N01
 …
-
+N
+…
 
 
 
@@ -35228,7 +37472,11 @@ X
 
 N01
 …
-
+N34
+N01
+PAP
+X
+…
 
 
 
@@ -35252,7 +37500,8 @@ N01
 
 N01
 …
-
+N
+…
 
 
 N01
@@ -35286,7 +37535,8 @@ N01
 
 N01
 …
-
+N
+…
 
 
 
@@ -35318,7 +37568,8 @@ X
 
 N01
 …
-
+N
+…
 
 
 
@@ -35382,7 +37633,8 @@ DUG
 SI4
 N01
 SZAKIR
-
+N
+…
 
 
 
@@ -35414,7 +37666,9 @@ KU3
 
 N01
 …
-
+N
+…
+NI
 
 
 
@@ -35455,7 +37709,8 @@ N01
 
 N01
 …
-
+N
+…
 
 
 
@@ -35479,7 +37734,8 @@ X
 N01
 X
 …
-
+N
+…
 
 
 
@@ -35493,7 +37749,8 @@ LAM
 N01
 DUG
 KUR
-
+N
+…
 
 
 N01
@@ -35508,7 +37765,8 @@ TAK4
 N01
 DUG
 SA
-
+N
+…
 
 
 
@@ -35532,7 +37790,8 @@ KU6
 
 N01
 …
-
+N
+…
 
 
 N01
@@ -35545,7 +37804,8 @@ GA
 N01
 DUG
 X
-
+N
+…
 
 
 
@@ -35576,7 +37836,8 @@ NI
 N01
 X
 …
-
+N
+…
 
 
 
@@ -35652,7 +37913,8 @@ GA'AR
 N01
 GA'AR
 …
-
+N
+…
 
 
 
@@ -35671,7 +37933,8 @@ SA
 N01
 DUG
 SIG7
-
+N
+…
 
 
 
@@ -35686,7 +37949,8 @@ MASZ
 N01
 DUG
 SI4
-
+N
+…
 
 
 
@@ -35718,7 +37982,8 @@ SIG2
 N01
 EN
 TUG2
-
+N
+…
 
 
 
@@ -35744,7 +38009,8 @@ X
 
 N01
 …
-
+N
+…
 
 
 
@@ -35796,7 +38062,8 @@ GA'AR
 N01
 …
 GA'AR
-
+N
+…
 
 
 
@@ -35828,7 +38095,8 @@ GA'AR
 N01
 GISZ
 GA'AR
-
+N
+…
 
 
 
@@ -35851,7 +38119,8 @@ X
 
 N01
 …
-
+N
+…
 
 
 
@@ -35994,7 +38263,8 @@ N01
 
 N01
 …
-
+N
+…
 
 
 
@@ -36020,7 +38290,8 @@ GA2
 
 N01
 …
-
+N
+…
 
 
 
@@ -36035,7 +38306,8 @@ N01
 E2
 SU
 …
-
+N
+…
 
 
 
@@ -36054,7 +38326,8 @@ TUG2
 N01
 E2
 …
-
+N
+…
 
 
 
@@ -36079,7 +38352,8 @@ GA'AR
 
 N01
 …
-
+N
+…
 
 
 
@@ -36093,7 +38367,8 @@ DIN
 N01
 GAN
 …
-
+N
+…
 
 
 
@@ -36168,7 +38443,8 @@ N01
 N57
 AB2
 …
-
+N
+…
 
 
 
@@ -36207,7 +38483,8 @@ ZATU662
 
 N01
 …
-
+N
+…
 
 
 
@@ -36235,7 +38512,8 @@ GA'AR
 N01
 UR4
 GA'AR
-
+N
+…
 
 
 
@@ -36247,7 +38525,8 @@ DIN
 N01
 DUG
 DIN
-
+N
+…
 
 
 
@@ -36260,7 +38539,8 @@ N01
 DUG
 SIG7
 …
-
+N
+…
 
 
 
@@ -36278,7 +38558,8 @@ AGAR2
 N01
 PU2
 …
-
+N
+…
 
 
 
@@ -36331,7 +38612,8 @@ N01
 N57
 GISZ
 …
-
+N
+…
 
 
 
@@ -36342,7 +38624,8 @@ ZATU662
 N01
 EN
 …
-
+N
+…
 
 
 
@@ -36366,7 +38649,8 @@ GA'AR
 
 N01
 …
-
+N
+…
 
 
 
@@ -36392,7 +38676,8 @@ X
 N01
 SAG
 …
-
+N
+…
 
 
 
@@ -36411,7 +38696,8 @@ TUG2
 N01
 GI6
 TUG2
-
+N
+…
 
 
 
@@ -36429,7 +38715,8 @@ GA'AR
 N01
 …
 GA'AR
-
+N
+…
 
 
 
@@ -36454,7 +38741,8 @@ TUG2
 N01
 SU
 TUG2
-
+N
+…
 
 
 N01
@@ -36464,7 +38752,8 @@ X
 N01
 SIG2
 …
-
+N
+…
 
 
 
@@ -36496,6 +38785,8 @@ N01
 U4
 TUG2
 
+N
+…
 
 
 
@@ -36519,7 +38810,8 @@ X
 
 N01
 …
-
+N
+…
 
 
 
@@ -36545,7 +38837,8 @@ X
 
 N01
 …
-
+N
+…
 
 
 
@@ -36562,7 +38855,8 @@ N01
 N01
 X
 …
-
+N
+…
 
 
 
@@ -36579,7 +38873,8 @@ X
 
 N01
 …
-
+N
+…
 
 
 
@@ -36613,7 +38908,13 @@ X
 
 N01
 …
-
+…
+N14
+N01
+SZE3
+SZA3
+KID
+…
 
 N01
 …
@@ -36817,7 +39118,11 @@ TUG2
 
 N01
 …
-
+N34
+…
+NI
+SZA3
+…
 
 
 
@@ -36831,7 +39136,8 @@ SIG7
 N01
 DUG
 SIG2
-
+…
+…
 
 
 N01
@@ -36972,7 +39278,12 @@ GAN
 
 N01
 …
-
+N34
+N14
+N01
+KISAL
+X
+…
 
 N01
 NI
@@ -37070,7 +39381,13 @@ N01
 …
 
 
-
+N34
+N14
+N01
+SANGA
+GAR
+AMA
+…
 
 
 
@@ -37084,7 +39401,9 @@ X
 
 N01
 …
-
+N
+…
+X
 
 
 
@@ -37108,10 +39427,239 @@ GAN
 N01
 GAN
 …
+N
+…
 
 
+SZEN
+URI
+MUD3
+MUD3
+gunû
+MIR
+ZATU732
+SZAKIR
+SIG2
+GIR2
+AN
+GIR2
+DIM
+AN
+DIM
+DIM
+SI
+SZIR
+SZITA
+AN
+DIM
+SI
+SZIR
+SZITA
+X
+AGAR2
+ZATU786
+AGAR2
+AGAR2
+DUB2
+…
+SUH3
+GU
+KU6
+GU
+AN
+KU6
+SZU2
+GU
+SZU2
+GU
+AN
+GAL
+TUN3
+2N57
+SZU
+TUN3
+1N57
+SZU
+TUN3
+AL
+…
+DILMUN
+TUN3
+NAGAR
+AN
+NAGAR
+NAGAR
+SZITA
+AN
+NAGAR
+SZITA
+NAGAR
+ME
+NAGAR
+AN
+ME
+NAGAR
+TAK4
+NAGAR
+AN
+TAK4
+NAGAR
+TAK4
+X
+NAGAR
+AN
+TAK4
+X
+NAGAR
+BUR
+NAGAR
+AN
+BUR
+NAGAR
+PU2
+AN
+NAGAR
+PU2
+TAK4
+MAR
+AN
+TAK4
+MAR
+BAR
+USZ
+AN
+BAR
+USZ
+NU
+A
+AN
+NU
+A
+NU
+GIR
+AN
+NU
+GIR
+…
+X
+GIR
+NU
+GIR
+NU
+ZATU806
+…
+ZATU707
+SAG
+EDIN
+AN
+EDIN
+ZATU777
+SZE3
+UDU
+UR2
+TAR
+…
+UR2
+TAR
+AN
+TAR
+ZATU777
+KU3
+ZATU777
+KI
+A
+…
+A
+GUG2
+…
+SZELU
+GISZIMMAR
+X
+GISZIMMAR
+ME
+ME
+AN
+GISZIMMAR
+GISZIMMAR
+…
+AN
+GISZIMMAR
+…
+GIR2
+UDU
+AN
+GIR2
+UDU
+GIR2
+AB2
+AN
+GIR2
+AB2
+GIR2
+KU6
+AN
+GIR2
+KU6
+GIR2
+SZA3
+AN
+GIR2
+SZA3
+GIR2
+…
+AN
+GIR2
+…
+GIR2
+…
+AN
+GIR2
+…
+GIR2
+…
+AN
+GIR2
+…
+GIR2
+…
+AN
+GIR2
+…
+GIR2
+NAGA
+E2
+AN
+GIR2
+NAGA
+E2
 
+GIR2
+…
+SILA3
+…
+NAGA
+SILA3
+…
+SILA3
+…
+SILA3
+…
+DA
+KU3
+NE
+KU3
+NI
+KU3
 
+X
+KU3
+X
+NUNUZ
+SZEa
+SAR
+NUNUZ
+KUR
+NUNUZ
 
 N01
 SZEN
@@ -37121,7 +39669,8 @@ URI
 
 N01
 …
-
+N
+…
 
 N01
 SZEN
@@ -37136,7 +39685,8 @@ SUH3
 N01
 X
 …
-
+N
+…
 
 N01
 …
@@ -37153,7 +39703,9 @@ MIR
 
 N01
 …
-
+N
+…
+X
 
 N01
 …
@@ -37227,7 +39779,12 @@ N01
 
 N01
 …
-
+N34
+N14
+N
+X
+NUN
+…
 
 
 N01
@@ -37259,7 +39816,8 @@ SZU
 N01
 X
 …
-
+N
+…
 
 N01
 SZEN
@@ -37283,7 +39841,8 @@ NAGAR
 N01
 NAGAR
 …
-
+N
+…
 
 
 N01
@@ -37304,7 +39863,8 @@ DIM
 
 N01
 …
-
+N
+…
 
 
 N01
@@ -37327,7 +39887,10 @@ GU
 N01
 GAL
 …
-
+N34
+N14
+N01
+…
 
 
 N01
@@ -37337,7 +39900,8 @@ SZAKIR
 
 N01
 SIG2
-
+N
+…
 
 
 N01
@@ -37436,7 +40000,8 @@ X
 
 N01
 …
-
+N
+…
 
 
 N01
@@ -37475,7 +40040,13 @@ TUN3
 
 N01
 …
-
+N34
+N14
+N
+NAMESZDA
+N57
+KID
+…
 
 
 N01
@@ -37529,7 +40100,8 @@ N01
 
 N01
 …
-
+N
+…
 
 
 N01
@@ -37557,7 +40129,8 @@ X
 N01
 TAK4
 X
-
+N
+…
 
 
 N01
@@ -37609,7 +40182,8 @@ X
 
 N01
 …
-
+N
+…
 
 
 N01
@@ -37644,7 +40218,8 @@ N01
 
 N01
 …
-
+N
+…
 
 
 N01
@@ -37673,7 +40248,8 @@ AN
 
 
 
-
+N
+…
 
 
 N01
@@ -37739,7 +40315,12 @@ SAG
 
 N01
 …
-
+N34
+N14
+N01
+SANGA
+PIRIG
+…
 
 
 N01
@@ -37770,7 +40351,8 @@ N01
 DIM
 X
 …
-
+N
+…
 
 
 N01
@@ -37799,7 +40381,8 @@ ME
 
 
 
-
+N
+…
 
 
 
@@ -37839,7 +40422,9 @@ NAGAR
 N01
 NAGAR
 …
-
+N34
+N14
+…
 
 
 
@@ -37858,7 +40443,8 @@ N01
 NAGAR
 AN
 SZITA
-
+N
+…
 
 
 
@@ -37883,7 +40469,8 @@ AN
 N01
 USZ
 …
-
+N
+…
 
 
 N01
@@ -37896,7 +40483,8 @@ N01
 AGAR2
 DUB2
 …
-
+N
+…
 
 
 
@@ -37938,7 +40526,8 @@ N01
 
 N01
 …
-
+N
+…
 
 
 
@@ -37951,7 +40540,8 @@ NAGAR
 N01
 NAGAR
 …
-
+N
+…
 
 
 N01
@@ -37981,7 +40571,8 @@ X
 
 
 
-
+N
+…
 
 
 
@@ -37999,7 +40590,8 @@ MAR
 
 N01
 …
-
+N
+…
 
 
 
@@ -38031,7 +40623,8 @@ X
 
 N01
 …
-
+N
+…
 
 
 
@@ -38066,7 +40659,8 @@ N01
 
 N01
 …
-
+N
+…
 
 
 N01
@@ -38101,7 +40695,8 @@ N01
 
 N01
 …
-
+N
+…
 
 
 
@@ -38146,7 +40741,8 @@ KU6
 
 N01
 …
-
+N
+…
 
 
 
@@ -38178,7 +40774,8 @@ N01
 AN
 X
 …
-
+N
+…
 
 
 N01
@@ -38222,7 +40819,8 @@ N01
 
 N01
 …
-
+N
+…
 
 
 
@@ -38264,7 +40862,8 @@ N01
 
 N01
 …
-
+N
+…
 
 
 
@@ -38289,7 +40888,9 @@ N01
 
 N01
 …
-
+N
+…
+SAL
 
 
 
@@ -38306,7 +40907,8 @@ ZATU806
 
 N01
 …
-
+N
+…
 
 
 N01
@@ -38330,7 +40932,8 @@ X
 N01
 X
 …
-
+N
+…
 
 
 
@@ -38360,7 +40963,8 @@ MAR
 N01
 BAR
 USZ
-
+N
+…
 
 
 
@@ -38418,7 +41022,8 @@ GIR2
 
 N01
 …
-
+N
+…
 
 
 
@@ -38444,7 +41049,8 @@ N01
 ZATU777
 KI
 …
-
+N
+…
 
 
 
@@ -38459,7 +41065,8 @@ UDU
 N01
 ZATU777
 GU4
-
+N
+…
 
 
 
@@ -38473,7 +41080,8 @@ N01
 X
 X
 …
-
+N
+…
 
 
 
@@ -38514,7 +41122,8 @@ NUNUZ
 N01
 KUR
 NUNUZ
-
+N
+…
 
 
 
@@ -38546,7 +41155,8 @@ N01
 
 N01
 …
-
+N
+…
 
 
 
@@ -38567,7 +41177,8 @@ AN
 N01
 NAGAR
 …
-
+N
+…
 
 
 
@@ -38584,7 +41195,8 @@ AB2
 
 N01
 …
-
+N
+…
 
 
 
@@ -38606,7 +41218,8 @@ UDU
 N01
 GIR2
 AB2
-
+N
+…
 
 
 
@@ -38623,7 +41236,8 @@ SZA3
 N01
 GIR2
 …
-
+N
+…
 
 
 
@@ -38635,7 +41249,8 @@ E2
 N01
 …
 NAGA
-
+N
+…
 
 
 
@@ -38652,7 +41267,8 @@ ME
 
 N01
 …
-
+N
+…
 
 
 
@@ -38706,7 +41322,8 @@ N01
 X
 X
 …
-
+N
+…
 
 
 
@@ -38736,7 +41353,8 @@ SZA3
 N01
 GIR2
 …
-
+N
+…
 
 N01
 …
@@ -38753,7 +41371,10 @@ N01
 
 N01
 …
-
+N34
+N14
+…
+…
 
 
 N01
@@ -38800,7 +41421,133 @@ N01
 …
 
 
+NINDA2
+N01
+NINDA2
+N01
 
+N08
+…
+N14
+…
+N14
+…
+N14
+…
+N14
+…
+KUR
+…
+N01
+;
+KUR
+N14
+SUR
+N16
+N17
+U4
+GAR
+GAR
+GAR
+…
+…
+…
+X
+…
+GAR
+BU
+SAG
+U4
+SAG
+GAL
+GAR
+GAL
+GUG2
+GUG2
+GUG2
+GUG2
+SZITA
+LAGABa
+SZA
+
+LAGABa
+SZITA
+LAGABa
+SZA
+X
+…
+GA2
+
+SUHUR
+GAL
+SAL
+…
+…
+X
+…
+DARA3
+SZITA
+
+GISZ
+SZU2
+SZITA
+DUGb
+
+DUGb
+AB2
+DUGb
+TI
+GU4
+A
+AB2
+A
+AMAR
+AB2
+
+GA
+X
+…
+AB2
+SU
+N57
+AB2
+SU
+N57
+UDU
+SU
+N57
+GUKKAL
+SU
+SZAH2a
+N57
+SU
+N57
+ANSZE
+SU
+N57
+X
+SILA3a
+SZU
+SILA3a
+ZATU629
+SILA3a
+ZATU646
+X
+MASZ
+SZA3
+…
+X
+
+BU
+A
+X
+…
+DARA3
+SIG2
+X
+…
+X
+…
 
 
 N01
@@ -38819,7 +41566,8 @@ HI
 
 
 
-
+N
+…
 
 
 N01
@@ -38852,7 +41600,8 @@ SAG
 
 N01
 …
-
+N
+…
 
 
 
@@ -38868,7 +41617,8 @@ GAR
 
 N01
 …
-
+N
+…
 
 N01
 NINDA2
@@ -38897,7 +41647,8 @@ N01
 
 N01
 …
-
+N
+…
 
 
 
@@ -38909,7 +41660,8 @@ GAR
 N01
 …
 X
-
+N
+…
 
 
 
@@ -38924,7 +41676,8 @@ GUG2
 
 N01
 GUG2
-
+N
+…
 
 
 
@@ -38952,7 +41705,8 @@ X
 N01
 X
 …
-
+N
+…
 
 
 N01
@@ -39020,7 +41774,8 @@ N01
 GISZ
 SZU2
 SZITA
-
+N
+…
 
 
 
@@ -39109,10 +41864,262 @@ X
 …
 
 
+N
+…
 
 
+U4
+KI
+SAG
+AD
+U4
+AD
+HAL
+ABRIG
+N01
+;
+MUNU3
+N01
+;
+GAZI
+N01
+;
+HALUB
+N01
+;
+UZ
+N01
+;
+MASZ
+SI4
+N14
+;
+TU
+N14
+;
+GUKKAL
+N01
+;
+KAL
+AB2
+N01
+;
+GA
+AMAR
+N14
+;
+SUHUR
+N14
+;
+KAR2
+N01
+;
+KAD4
+N01
+;
+ZA~
 
+N01
+;
+AN
+GIR2
+N14
+;
+DA
+KISZ
+N14
+;
+GA
+N14
+;
+GARA2
+N14
+;
+AB2
+N01
+;
+GU4
+N14
+;
+U8
+N01
+;
+UTUA
+N14
+;
+UD5
+N01
+;
+MASZ2
+N34
+N01
+;
+MUSZEN
+ISZ
+NAR
+UB
+SZA3a1
+GAR
+N01
+;
+MUNU3
+N01
+;
+GAZI
+N01
+;
+HALUB
+N01
+;
+UZ
+N01
+;
+MASZ
+SI4
+N14
+;
+TU
+N14
+;
+GUKKAL
+N01
+;
+KAL
+AB2
+N01
+;
+GA
+AMAR
+N14
+;
+SUHUR
+N14
+;
+KAR2
+N01
+;
+KAD4
+N01
+;
+ZA~
 
+N01
+;
+GIR2
+AN
+N14
+;
+DA
+KISZ
+N14
+;
+GA
+N14
+;
+GARA2
+N14
+;
+AB2
+N01
+;
+GU4
+N14
+;
+U8
+N01
+;
+UTUA
+N14
+;
+UD5
+N01
+;
+MASZ2
+N34
+N01
+;
+BALA
+MUSZEN
+A
+ISZ
+NAR
+UB
+SZA3a1
+GAR
+N45
+;
+KI
+N45
+;
+KI
+KI
+KISZIK
+U2
+SZENNUR
+GISZ
+GI
+GI
+ZI
+GI
+ZI
+SZE3
+ZATU718
+E2
+PIRIG
+EN
+SZE3
+EN
+SZE3
+ZI
+SAL
+ISZ
+SAG
+GAR
+UB
+GI
+AL
+X
+A
+…
+GISZ
+SAR
+A
+GISZ
+BIR3
+APIN
+GI
+TAR
+ZATU751
+ZI
+GI
+DI
+ZATU751
+ZI
+GI
+…
+SAL
+NE
+EN
+GAN2
+AD
+KI
+SAG
+AN
+DI
+SUM
+…
+…
+…
+SZE
+SZE
+BAD
+SUG
+BA
+KI
+SAR
+SZAGAN
+NAGAR
+SZAGAN
 
 N01
 SAG
@@ -39158,7 +42165,8 @@ ZA
 
 N
 …
-
+N
+…
 
 N01
 …
@@ -39176,7 +42184,8 @@ N14
 
 N01
 …
-
+N
+…
 
 
 N01
@@ -39195,7 +42204,8 @@ GIR2
 
 N14
 …
-
+N
+…
 
 
 N01
@@ -39211,7 +42221,8 @@ SUHUR
 N01
 N
 …
-
+N
+…
 
 
 N
@@ -39227,7 +42238,8 @@ N
 N01
 …
 …
-
+N
+…
 
 N01
 …
@@ -39248,7 +42260,8 @@ N
 
 N
 …
-
+N
+…
 
 N01
 U4
@@ -39266,7 +42279,8 @@ MUNU3
 
 N01
 GAZI
-
+N
+…
 
 N01
 X
@@ -39371,6 +42385,15 @@ N45
 N
 …
 
+N34
+N14
+HI
+N57
+MAR
+X
+PAP
+X
+…
 
 N01
 …
@@ -39498,6 +42521,14 @@ EN
 N01
 …
 
+N34
+N14
+N
+NUN
+NAM2
+X
+MUD
+…
 
 
 N
@@ -39507,7 +42538,8 @@ KAR2
 
 N01
 …
-
+N
+…
 
 
 N
@@ -39532,7 +42564,9 @@ N01
 
 N14
 …
-
+N34
+…
+…
 
 
 N
@@ -39564,7 +42598,8 @@ N01
 
 N14
 UD5
-
+N
+…
 
 
 N
@@ -39584,7 +42619,8 @@ UD5
 
 N01
 MASZ2
-
+N
+…
 
 
 N
@@ -39599,7 +42635,8 @@ DA
 
 N14
 …
-
+N
+…
 
 
 N14
@@ -39617,7 +42654,8 @@ N14
 
 
 
-
+N
+…
 
 
 N
@@ -39638,7 +42676,8 @@ N
 BALA
 MUSZEN
 …
-
+N
+…
 
 
 
@@ -39659,7 +42698,8 @@ KAR2
 
 N
 KAD4
-
+N
+…
 
 
 N01
@@ -39677,7 +42717,8 @@ N01
 
 N
 …
-
+N
+…
 
 
 
@@ -39692,7 +42733,8 @@ N14
 DA
 KASZ
 KISZ
-
+N
+…
 
 
 
@@ -39733,7 +42775,8 @@ N01
 
 N01
 …
-
+N
+…
 
 
 
@@ -39762,7 +42805,8 @@ N01
 
 N01
 …
-
+N
+…
 
 
 
@@ -39792,7 +42836,8 @@ TU
 N14
 X
 …
-
+N
+…
 
 
 
@@ -39829,7 +42874,8 @@ N
 
 N
 …
-
+N
+…
 
 
 
@@ -39868,7 +42914,8 @@ N01
 
 N
 …
-
+N
+…
 
 
 
@@ -39880,7 +42927,8 @@ U8
 
 N01
 UTUA
-
+N
+…
 
 
 
@@ -39914,7 +42962,8 @@ N
 
 N
 …
-
+N
+…
 
 
 
@@ -39944,7 +42993,8 @@ KAR2
 
 N
 …
-
+N
+…
 
 
 
@@ -39970,7 +43020,8 @@ N14
 
 
 
-
+N
+…
 
 
 
@@ -39986,7 +43037,8 @@ AB2
 
 N01
 GU4
-
+N
+…
 
 
 
@@ -39997,7 +43049,8 @@ GARA2
 
 N14
 AB2
-
+N
+…
 
 
 
@@ -40019,7 +43072,8 @@ KAD4
 
 N01
 …
-
+N
+…
 
 
 
@@ -40031,7 +43085,8 @@ UTUA
 
 N14
 UD5
-
+N
+…
 
 
 
@@ -40056,7 +43111,10 @@ SUHUR
 
 N
 …
-
+N
+N57
+PIRIG
+…
 
 
 
@@ -40084,7 +43142,8 @@ N45
 
 N45
 …
-
+N
+…
 
 
 
@@ -40109,6 +43168,8 @@ KAR2
 N01
 KAD4
 
+N
+…
 
 
 
@@ -40118,7 +43179,8 @@ UD5
 
 N
 MASZ2
-
+N
+…
 
 
 
@@ -40133,7 +43195,8 @@ RAD
 
 N01
 ISZ
-
+N
+…
 
 
 N
@@ -40165,7 +43228,9 @@ GIR2
 N14
 DA
 …
-
+N
+X
+…
 
 
 N01
@@ -40177,7 +43242,8 @@ MUSZEN
 
 N
 …
-
+N
+…
 
 
 
@@ -40195,7 +43261,8 @@ N01
 N01
 …
 …
-
+N
+…
 
 
 
@@ -40219,7 +43286,8 @@ AD
 
 N01
 …
-
+N
+…
 
 
 
@@ -40234,7 +43302,8 @@ MASZ2
 
 
 
-
+N
+…
 
 
 
@@ -40275,7 +43344,8 @@ DI
 ZATU751
 
 
-
+N
+…
 
 
 
@@ -40303,7 +43373,8 @@ GA
 
 N14
 …
-
+N
+…
 
 
 
@@ -40344,7 +43415,8 @@ GISZ
 
 N01
 GI
-
+N
+…
 
 
 
@@ -40420,7 +43492,8 @@ EN
 N01
 KI
 …
-
+N
+…
 
 
 
@@ -40460,7 +43533,8 @@ N01
 
 N01
 …
-
+N
+…
 
 
 
@@ -40472,7 +43546,8 @@ X
 
 N01
 …
-
+N
+…
 
 
 
@@ -40493,7 +43568,8 @@ SZE3
 N01
 …
 PIRIG
-
+N
+…
 
 
 N01
@@ -40538,7 +43614,8 @@ MIR
 N01
 AN
 …
-
+N
+…
 
 
 
@@ -40570,7 +43647,8 @@ SZAGAN
 N01
 NAGAR
 SZAGAN
-
+N
+…
 
 
 
@@ -40586,7 +43664,8 @@ N01
 HAL
 GAR
 SZAGAN
-
+N
+…
 
 
 
@@ -40636,7 +43715,8 @@ SAG
 
 N01
 …
-
+N
+…
 
 
 
@@ -40660,7 +43740,8 @@ APIN
 
 N01
 GI
-
+N
+…
 
 
 
@@ -40724,7 +43805,8 @@ SUM
 
 N01
 …
-
+N
+…
 
 
 N01
@@ -40760,7 +43842,159 @@ N
 X
 
 
-
+URI5
+ENLIL
+ARARMA2
+UNUG
+…
+…
+X
+GABURRA
+UR2
+KU6
+RAD
+SZIM
+RAD
+AMA
+ME
+KA2
+LAM
+BU
+BU
+NA2
+I
+NUN
+KASZ
+A
+…
+X
+NANSZE
+…
+USZUR3
+…
+TUM
+UB
+…
+RU
+KITI
+NI2
+URI3
+E2
+IR
+E2
+ERIM2
+SUSA
+TUR
+TU
+MUSZEN
+GIBIL6
+ABZU
+U4
+UR2
+TIDNUM
+PAD
+AN
+NE
+E2
+NINLIL
+SAL
+GA2
+DUB
+E2
+ASZ
+X
+X
+…
+NA
+E2
+GISZIMMAR
+AB
+SIG7
+NIMGIR
+U2
+NAGA
+MUSZEN
+IM
+AD
+AN
+NI
+ASAR
+…
+AN
+BU
+DU6
+GI
+TAK4
+BU
+SZA3
+SI
+AN
+PAP
+…
+AN
+SI
+AN
+EZINU
+BAPPIR
+SI
+AK
+SU
+E2
+GIR2
+SU
+ABZU
+AB
+TE
+BAR
+N57
+AB
+…
+GI
+DUR2
+E2
+BAHAR2
+NUNUZ
+E2
+TILLA2
+AN
+NE
+AN
+E2
+DAR
+NESAG2
+…
+X
+ILDUM
+KISAL
+TAK4
+SI4
+…
+AB
+ZATU659
+U4
+NIN
+NUN
+ALIM
+HI
+SUHUR
+…
+…
+…
+…
+…
+…
+URU
+X
+AB
+X
+SZE
+GI4
+GAN2
+GI4
+GAN2
+GI4
+BU
+BAD3
 
 
 
@@ -40783,7 +44017,8 @@ BA
 N01
 IM
 …
-
+N
+…
 
 
 N01
@@ -40825,7 +44060,13 @@ N01
 
 N01
 …
-
+N34
+N14
+…
+N57
+PIRIG
+E2
+…
 
 
 N01
@@ -40970,7 +44211,8 @@ E2
 N01
 DAR
 NESAG2
-
+N
+…
 
 N01
 URI5
@@ -40982,7 +44224,8 @@ ARARMA2
 
 N01
 UNUG
-
+N
+…
 
 
 
@@ -41060,7 +44303,8 @@ TILLA2
 
 N01
 …
-
+N
+…
 
 
 N01
@@ -41095,7 +44339,8 @@ E2
 
 N01
 TILLA2
-
+N
+…
 
 
 
@@ -41139,7 +44384,8 @@ SUHUR
 
 N01
 …
-
+N
+…
 
 
 
@@ -41158,7 +44404,8 @@ ZATU659
 N01
 U4
 …
-
+N
+…
 
 
 
@@ -41181,7 +44428,8 @@ N01
 …
 KU
 DU6
-
+N
+…
 
 
 
@@ -41193,7 +44441,8 @@ BU
 
 N01
 BAD3
-
+N
+…
 
 
 
@@ -41223,7 +44472,8 @@ TAK4
 SI4
 X
 …
-
+N
+…
 
 
 
@@ -41311,7 +44561,8 @@ N01
 
 N01
 …
-
+N
+…
 
 
 
@@ -41361,7 +44612,8 @@ N01
 
 N01
 …
-
+N
+…
 
 
 
@@ -41401,7 +44653,8 @@ PAP
 N01
 X
 …
-
+N
+…
 
 
 
@@ -41422,7 +44675,8 @@ E2
 
 N01
 ABZU
-
+N
+…
 
 
 
@@ -41448,11 +44702,51 @@ NI
 N01
 X
 …
+N
+…
 
 
 
+…
+NUN
+SZE3
+SZU
+KAD4
+…
+IN
 
+…
+…
+ZATU681
+SU
+N58
+UDU
+LA2
+GISZ
+SZA
+SAR
+X
+SZU
 
+…
+SAR
+N34
+…
+;
+…
+N34
+…
+;
+…
+N34
+…
+;
+…
+GURUSZ
+LA2
+
+X
+…
 
 
 
@@ -41737,7 +45031,8 @@ KI
 
 N01
 …
-
+…
+…
 
 
 
@@ -41770,7 +45065,8 @@ KI
 
 N01
 …
-
+…
+…
 
 
 
@@ -41910,7 +45206,8 @@ N01
 …
 E2
 KI
-
+…
+…
 
 
 
@@ -41932,7 +45229,8 @@ ILDUM
 
 N01
 …
-
+…
+…
 
 
 
@@ -41949,7 +45247,8 @@ ILDUM
 
 
 
-
+…
+…
 
 
 N01
@@ -42057,7 +45356,8 @@ N01
 …
 N01
 KI
-
+…
+…
 
 
 
@@ -42113,7 +45413,8 @@ N01
 
 N01
 …
-
+…
+…
 
 
 N01
@@ -42128,7 +45429,8 @@ N01
 X
 
 
-
+…
+…
 
 
 N01
@@ -42143,7 +45445,8 @@ N01
 ZABALAM
 
 
-
+…
+…
 
 
 N01
@@ -42570,6 +45873,8 @@ X
 X
 
 
+X
+…
 
 
 
@@ -42613,6 +45918,9 @@ X
 PA
 …
 
+N
+…
+X
 
 
 N01
@@ -42627,7 +45935,8 @@ N01
 …
 X
 KI
-
+N
+…
 
 
 
@@ -43417,6 +46726,9 @@ N01
 N01
 …
 
+N
+…
+X
 
 
 
@@ -43505,6 +46817,12 @@ N01
 
 
 
+N
+…
+NAR
+NAGA
+PAP
+…
 
 
 
@@ -43793,10 +47111,17 @@ N01
 
 
 
+N
+DUB
+…
 
 
 
 
+N34
+N14
+…
+…
 
 
 
@@ -43810,6 +47135,10 @@ X
 
 
 
+N
+N01
+PAP
+…
 
 X
 
@@ -43819,6 +47148,9 @@ X
 X
 …
 
+N
+X
+…
 
 
 
@@ -43976,6 +47308,10 @@ N01
 X
 …
 
+N34
+…
+EN
+…
 
 
 
@@ -44268,6 +47604,9 @@ N01
 X
 …
 
+N
+…
+MUSZEN
 
 
 
@@ -44452,7 +47791,10 @@ UB
 N01
 SANGA
 …
-
+N01
+SZE
+X
+…
 
 
 
@@ -44652,6 +47994,16 @@ GISZ
 
 
 
+N34
+N14
+N01
+N
+EN
+SU
+SAL
+GA2
+TI
+…
 
 
 
@@ -44753,10 +48105,22 @@ X
 N01
 …
 
+N
+AN
+EN
+X
+X
+DUB
+…
 
 
 
 
+N01
+NAGA
+DU
+PAP
+…
 
 
 N01
@@ -44794,6 +48158,11 @@ N01
 
 
 
+N
+X
+NAM2
+E2
+…
 
 
 
@@ -45106,6 +48475,10 @@ N01
 X
 …
 
+N
+PAP
+DA
+…
 
 
 N01
@@ -45174,6 +48547,9 @@ N01
 X
 …
 
+N34
+N
+…
 
 
 N01
@@ -45510,6 +48886,8 @@ N01
 SUKKAL
 …
 
+N
+…
 
 
 …
@@ -45532,6 +48910,163 @@ N
 AL
 
 
+E2
+HI
+EZEN
+BU
+A
+NI2
+EN
+ZATU647
+BA
+EN
+BA
+ZATU647
+TUG2
+ILDUM
+MUSZ3
+…
+ILDUM
+BAR
+KI
+SZUBUR
+X
+
+
+SZUBUR
+SZUBUR
+N57
+SZUBUR
+N57
+U4
+SZUBUR
+KAB
+SZUBUR
+ME
+GARA2a
+SILA3
+RAD
+SZUBUR
+KU3
+SZUBUR
+ZATU686
+BU
+SZUBUR
+BU
+SZUBUR
+MUSZEN
+SZUBUR
+PAP
+SZUBUR
+UH3
+SZUBUR
+HI
+NUN
+SZUBUR
+KASKAL
+SZUBUR
+LAM
+SZUBUR
+KA
+SZUBUR
+ADAB
+SZUBUR
+SILA4
+SZUBUR
+UB
+SZUBUR
+MUSZEN
+SZUBUR
+TUM
+SZUBUR
+GI
+SZUBUR
+UR
+SZUBUR
+SZA3
+SZUBUR
+GAN2
+SZUBUR
+SZE
+SZUBUR
+GURUSZDA
+SZUBUR
+A
+SZUBUR
+SAGSZU
+SZUBUR
+BAHAR2
+SZUBUR
+AB2
+SZUBUR
+NE
+SZUBUR
+…
+SZUBUR
+BU
+DU6
+SZUBUR
+LAGAB
+SZUBUR
+GI6
+SZUBUR
+U4
+SZUBUR
+BU
+SZUBUR
+URI3
+SZUBUR
+KAL
+SZUBUR
+N57
+SZUBUR
+KU6a
+SZUBUR
+SI
+SZUBUR
+EN
+SZUBUR
+SUHUR
+SZUBUR
+MU
+SZUBUR
+TE
+SZUBUR
+ZATU758
+SZUBUR
+GAL
+SZUBUR
+BAHAR2
+SZUBUR
+AN
+SZUBUR
+GIR3
+SZUBUR
+SZUBUR
+N57
+SZE3
+SZUBUR
+NIM
+SZUBUR
+X
+SZUBUR
+MAH
+SZUBUR
+MAR
+SZUBUR
+LAL2
+…
+SZUBUR
+
+
+EZEN
+MUSZ3
+U4
+SIG
+AN
+AN
+AN
+AN
 
 
 
@@ -45546,13 +49081,31 @@ AL
 
 
 
+URI5
+ARARMA2
+ENLIL~
 
+EN
+NUN
+UNUG
+KESZ3
+ZABALA
+ERESZ~
 
+NIR
+X
+BU
+BU
+NA2
+KU'ARA
+X
+X
 
-
-
-
-
+X
+X
+X
+X
+NERGAL~
 
 
 
@@ -49067,7 +52620,10 @@ DU8
 UDU
 DA
 PA
-
+N34
+N01
+LAGAB
+UDU
 
 
 N01
@@ -49591,6 +53147,28 @@ E2
 N57
 N57
 N01
+BA
+SUHUR
+PAP
+SAL
+N01
+SUHUR
+N01
+GU7
+N01
+SAL
+ZATU676
+N01
+SAL
+TUR
+TUR
+N01
+SAL
+ZATU676
+N01
+SAL
+SAGSZU
+N01
 SUHUR
 N57
 E2
@@ -49755,6 +53333,14 @@ N14
 N01
 EN
 N04
+N34
+N14
+N01
+IB
+N34
+N14
+N01
+BA
 N34
 N14
 N01
@@ -51991,13 +55577,13 @@ N05
 N14
 N57
 GAR
-UB
-ZI
-URU
 N05
 SZE
 N25
 TAR
+UB
+ZI
+URU
 N42
 ME
 …
@@ -52064,7 +55650,21 @@ N39
 …
 …
 HI
-
+N14
+N01
+N39
+HI
+SZE
+N01
+N39
+HI
+N14
+N01
+N39
+SZE
+GU7
+KU6
+KISAL
 
 
 N20
@@ -52514,7 +56114,8 @@ N05
 N42
 
 
-
+…
+…
 
 
 …
@@ -52622,7 +56223,8 @@ N08
 SUHUR
 N01
 …
-
+N20
+N05
 
 
 
@@ -55353,7 +58955,14 @@ N14
 GESZTIN
 …
 X
-
+N34
+N14
+N01
+GISZ
+HI
+SIG
+UR4
+…
 
 
 …
@@ -55808,8 +59417,85 @@ UR5
 
 
 
-
-
+N34
+N14
+N01
+N34
+N14
+N01
+N34
+N34
+N14
+N34
+N14
+N01
+N34
+N14
+N34
+N34
+N14
+N01
+N34
+N14
+N34
+N34
+N14
+N14
+N01
+N14
+N14
+N14
+N14
+N34
+N34
+N34
+N34
+N14
+N34
+N01
+N34
+N01
+N50
+N14
+…
+GAN2
+N34
+N14
+N01
+N08
+N34
+N01
+N50
+N14
+GAN2
+N34
+N14
+N14
+N01
+N14
+N22
+N01
+N08
+GAN2
+N14
+N01
+N14
+N22
+N01
+N08
+N45
+N50
+N14
+N22
+N01
+N08
+N34
+N34
+N14
+N01
+N45
+N14
+GAN2
 
 …
 …
@@ -55893,7 +59579,14 @@ N01
 …
 KISZ
 …
-
+…
+…
+…
+N01
+…
+…
+N01
+…
 
 …
 N14
@@ -55910,7 +59603,10 @@ GISZIMMAR
 N14
 APIN
 …
-
+…
+GAN2
+…
+…
 
 …
 N14
@@ -55942,8 +59638,48 @@ ISZ
 AB
 GIBIL
 X
+N14
+N01
+GAN2
+…
+N34
+N14
+N01
+…
+KALAM
+E2
+NUN
+A
+MAR
+NU11
+…
+BULUG3
+…
 
-
+…
+GISZ3
+N14
+SZE
+NAM2
+N50
+AN
+SZA3
+UR2
+N14
+SZE
+NAM2
+N14
+KU6
+KISAL
+N14
+SZE
+NAM2
+…
+SZU
+ZI
+N14
+SZE
+NAM2
 
 
 N45
@@ -56015,7 +59751,11 @@ SZE
 N14
 N01
 UDU
-
+…
+X
+KISIM
+ZATU694
+SZESZ
 
 …
 …
@@ -56134,7 +59874,12 @@ N01
 DU8
 AMAR
 
+N14
+N01
+SZE3
+U8
 
+…
 
 
 
@@ -56435,6 +60180,21 @@ N14
 N01
 
 N45
+N14
+SZE
+KU6
+KISAL
+N19
+N19
+LAGAB
+TE
+
+N45
+N14
+…
+SZE
+…
+N45
 SZE
 HI
 N14
@@ -56444,7 +60204,18 @@ SZE
 
 N45
 …
-
+…
+N36
+N34
+…
+SZE
+GIBIL
+U4
+LAGAB
+TE
+…
+N46
+…
 
 N01
 SZE
@@ -56630,6 +60401,15 @@ N14
 N01
 N39
 N24
+N20
+N05
+N42
+N25
+N01
+N39
+N24
+TAR
+SZE
 N14
 N39
 N24
@@ -56644,8 +60424,28 @@ N14
 SZE
 X
 
-
-
+N01
+ZATU859
+SZE
+SAL
+A
+NINDA2
+ZATU710
+N57
+SZITA
+HAL
+PAP
+N01
+N04
+NINDA2
+ZATU710
+GAR
+U4
+N57
+SZITA
+HAL
+PAP
+EZEN
 
 N34
 SI
@@ -56757,7 +60557,14 @@ SZE
 X
 X
 X
-
+N14
+N01
+N24
+SZE
+SU
+AB
+NUN
+X
 
 N14
 N01
@@ -56872,6 +60679,12 @@ IDIGNA
 KALAM
 EN
 AMA
+N01
+HI
+N01
+HI
+N01
+SZE
 IDIGNA
 AMA
 N01
@@ -56900,6 +60713,21 @@ HI
 
 
 
+N
+N05
+N
+N40
+…
+N28
+UNUG
+N04
+HI
+U4
+…
+X
+N05
+N25
+…
 BA
 AN
 MUSZ3
@@ -56982,7 +60810,27 @@ GU7
 
 
 
-
+…
+N24
+U4
+N08
+…
+N
+N01
+GUG2
+URU
+N05
+…
+N01
+GUG2
+URU
+…
+N01
+GUG2
+URU
+N05
+…
+…
 
 
 
@@ -57002,12 +60850,28 @@ X
 
 
 
+…
+N01
+X
+X
+HI
+…
+X
 
 
 
-
-
-
+…
+X
+GI
+N01
+TA
+EN
+…
+…
+…
+N01
+SZITA
+DUG
 
 …
 N24
@@ -57051,7 +60915,8 @@ SZE
 X
 …
 …
-
+…
+ZATU710
 
 N14
 N01
@@ -57100,7 +60965,9 @@ N42
 
 
 
-
+…
+SZE
+GU7
 
 
 
@@ -57219,6 +61086,33 @@ X
 
 
 N01
+UDU
+HI
+N08
+ZATU714
+N08
+MAH
+N01
+MAH
+MASZ
+N08
+SUHUR
+BA
+N01
+SUHUR
+SZU
+N08
+SUHUR
+…
+N01
+GAL
+ZATU759
+KU6
+N01
+ZATU759
+KU6
+TUR
+N01
 TAR
 IDIGNA
 N42
@@ -57257,16 +61151,28 @@ X
 
 
 
+…
+N14
+N01
+…
+SANGA
+AB
+SAR
+SZE
+…
+X
+
+
+…
+N20
+…
 
 
 
 
-
-
-
-
-
-
+…
+N57
+…
 
 
 
@@ -57279,11 +61185,19 @@ X
 
 
 
+…
+N14
+N01
+…
+…
 
 
 
-
-
+…
+PAP
+KISZ
+…
+…
 
 
 
@@ -57296,7 +61210,10 @@ N57
 …
 …
 …
-
+…
+N14
+N01
+…
 
 
 
@@ -57311,11 +61228,21 @@ BU
 
 
 
+…
+…
+KI
+…
+…
 
+…
 
-
-
-
+N34
+ME
+MASZ
+MASZ
+…
+X
+SZU
 
 …
 N14
@@ -57364,7 +61291,10 @@ ME
 SZAGAN
 LAL2
 …
-
+X
+X
+X
+A
 
 …
 X
@@ -57384,8 +61314,18 @@ IB
 
 
 
-
-
+…
+N14
+N01
+X
+KAK
+N01
+DU6
+N01
+NIM
+…
+PAP
+X
 
 
 
@@ -57415,7 +61355,9 @@ GISZ3
 KISZ
 
 
-
+…
+EN
+BAHAR2
 
 …
 X
@@ -57446,15 +61388,28 @@ NAGAR
 
 
 
+…
+X
+N01
+EN
+TUR
+…
 
 
 
+…
+MAR
+…
+…
 
 
 
-
-
-
+…
+SANGA
+MUSZ3
+N57
+PAP
+…
 
 
 
@@ -57468,7 +61423,10 @@ X
 
 
 
-
+N39
+SZE
+GAN2
+X
 
 
 
@@ -57479,11 +61437,17 @@ N29
 
 
 
+…
+N39
+IB
+…
+…
 
 
 
-
-
+…
+X
+…
 
 
 
@@ -57492,43 +61456,60 @@ SAGSZU
 
 
 
+N01
+MUSZ3
+
+
+
+N01
+SA
+
+
+
+N01
+SAGSZU
+
+
+
+N01
+SAG
+
+UKKIN
+DIN
+
+
+
+N01
+PAP
+
+
+
+N01
+SZUBUR
+
+
+
+N01
+SZUR2
+N58
 
 
 
 
+N01
+BU
 
 
 
 
+N01
+BIR3
 
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+N01
+GU4
 
 
 
@@ -57539,222 +61520,355 @@ BU3
 
 
 
+N01
+DILMUN
 
 
 
 
+N01
+UB
 
 
 
 
+N01
+IM
 
 
 
 
+N01
+BAHAR2
 
 
 
 
+N01
+HI
 
 
 
 
+N01
+GI4
 
 
 
 
+N01
+KU6
 
 
 
 
+N01
+ME
 
 
 
 
+N01
+ZATU714
 
 
 
 
+N01
+U4
+N58
 
 
 
 
+N01
+UD5
 
 
 
 
+N01
+MASZ
 
 
 
 
+N01
+…
+NAR
 
 
 
 
+N01
+E2
+N57
 
 
 
 
+N01
+SZURUPPAK
 
 
 
 
+N01
+N57
+SZUBUR
 
 
 
 
+N01
+N57
+NUNUZ
 
 
 
 
+N01
+N57
+NUNUZ
 
 
 
 
+N01
+N57
+SANGA
 
 
 
+N01
+X
+PAP
 
 
 
+N01
+BU
+PAP
 
 
 
+N01
+GU4
+GAL
 
 
 
+N01
+TUR
+MEN
 
 
 
+N01
+AB2
+AZ
 
 
 
+N01
+NAMESZDA
+E2
 
 
 
+N01
+SZURUPPAK
+ERIM
 
 
 
+N01
+BU
+SA
 
 
 
+N01
+SZUR2
+N58
+PIRIG
+DIN
 
 
 
+N01
+NAMESZDA
+AL
 
 
 
+N01
+AL
+GAL
 
 
 
+N01
+DILMUN
+KU6
 
 
 
+N01
+MUD
+SI4
 
 
 
+N01
+NE
+AB2
 
 
 
+N01
+PAP
+SAL
 
 
 
+N01
+SUHUR
+APIN
 
 
 
+N01
+ZI
+ZATU795
 
 
 
+N01
+URI3
+NIM
 
 
 
+N01
+ERIM
+ZI
 
 
 
+N01
+AB2
+PIRIG
+DIN
 
 
 
+N01
+SAG
+MUD
 
 
 
+N01
+MUSZEN
+TUR
 
 
 
+N01
+SZURUPPAK
+MUSZ3
 
 
 
+N01
+N57
+SZUBUR
+ERIM
 
 
 
 
+N01
+ZATU696
+ZATU696
 
 
 
 
+N01
+PAP
+SAL
 
 
 
 
+N01
+BU
+SZE
 
 
 
 
+N01
+MUSZEN
+ZATU694
 
 
 
 
+N01
+BU
+ERIM
 
 
 
 
+N01
+SIG7
+NUN
 
 
 
 
+N01
+BU
+SZUBUR
 
 
 
 
+N01
+E2
+NU
 
 
 
 
+N01
+NA
+URI3
 
 
 
 
+N01
+U4
+KI
 
 
 
 
+N01
+HI
+ZATU858
 
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+N01
+DU
+NESAG2
 
 
 
@@ -57823,171 +61937,310 @@ GUM
 
 
 
+N01
+NAGAR
+ZI
 
 
 
 
+N01
+SAR
+EN
 
 
 
 
+N01
+N57
+URI3
 
 
 
 
+N01
+N57
+NU
 
 
 
 
+N01
+ZI
+SZUBUR
 
 
 
 
+N01
+GU
+MUSZEN
 
 
 
 
+N01
+BU
+SAL
 
 
 
 
+N01
+GAN2
+SI
 
 
 
 
+N01
+ERIM
+E2
 
 
 
 
+N01
+U4
+NIM
 
 
 
 
+N01
+SI
+TUR
 
 
 
 
+N01
+BU
+NA2
 
 
 
 
+N01
+AN
+NU11
 
 
 
 
+N01
+DU
+DU
 
 
 
 
+N01
+AN
+HI
 
 
 
 
+N01
+ZI
+ZATU752
 
 
 
 
+N01
+DUG
 
+UDU
+TAR
+KUR
 
 
 
+N01
+N57
+BU
+DU6
+BU
+DU6
+UDU
 
 
 
 
+N01
+E2
+SZUBUR
 
 
 
 
 
+N01
+MUSZEN
+TUR
+IB
 
 
 
+N01
+PAP
+EN
+A
 
 
 
+N01
+N04
+LAGAB
+BAR
 
 
 
+N01
+MUSZEN
+GU
+SAR
 
 
 
+N01
+KASZ
+SANGA
+UH3
 
 
 
+N01
+EN
+SAL
+KI
 
 
 
+N01
+PAP
+DA
+GU
 
 
 
+N01
+KID
+APIN
+PAP
 
 
 
+N01
+NE
+PAP
+HAL
 
 
 
+N01
+EN
+A
+PAP
 
 
 
+N01
+E2
+SZUBUR
+ERIM
 
 
 
+N01
+KASZ
+EN
+KI
 
 
 
+N01
+LAGAB
+N58
+A
+KASZ
 
 
 
 
+N01
+GI
+GI
+MEN
 
 
 
+N01
+HAL
+EN
+ERIM
 
 
 
+N01
+N57
+PAP
+DU
 
 
 
+N01
+KASZ
+MUD
+ERIM
 
 
 
+N01
+SZUR2
+N58
+PIRIG
+BULUG3
 
 
 
+N01
+EN
+DU
+TI
 
 
 
+N01
+HI
+U2
+PAP
 
 
 
+N01
+BU
+TUR
+SZUR2
+N58
 
 
 
 
+N01
+EN
+HI
+SZU
 
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+N01
+KASZ
+TUG2
+DU
 
 
 
@@ -58037,74 +62290,153 @@ SZU
 
 
 
+N01
+BU
+KU3
+URI3
 
 
 
 
+N01
+U2
+A
+U4
 
 
 
 
+N01
+N57
+NUNUZ
+NU
 
 
 
 
+N01
+AB
+AB
+E2
 
 
 
 
+N01
+GISZ3
+SAG
+HAL
 
 
 
 
+N01
+PAP
+SAG
+SZA
+HI
+A
 
 
 
 
+N01
+NU11
+HAL
+N57
+MUSZ3
 
 
 
+N01
+BU
+PAP
+ZATU752
+AB2
 
 
 
+N01
+EN
+LAGAR
+NAR
+A
 
 
 
+N01
+PAP
+SZU
+X
+KU3
 
 
 
+N01
+NAMESZDA
+MUSZEN
+TUR
+NUN
 
 
 
+N01
+MUSZEN
+TUR
+X
+NUN
 
 
 
+N01
+KASZ
+SAG
+N57
+MUSZ3
 
 
 
+N01
+SZE3
+UDU
+NA
+NA
 
 
 
+N01
+HAL
+EN
+TI
+ERIM
 
 
 
 
+N01
+NAB
+EN
+ME
+IB
 
 
 
+N01
+PAP
+SAL
+EN
+SZU
+N57
+PIRIG
 
 
 
-
-
-
-
-
-
-
-
-
-
+N01
+NAMESZDA
+E2
+IB
+ZI
+PAP
 
 
 
@@ -58118,11 +62450,22 @@ N57
 
 
 
+N01
+E2
+N57
+BULUG3
+
+DILMUN
 
 
 
+N01
+E2
+N57
+BU
+KI
 
-
+KISZIK
 
 
 
@@ -58147,7 +62490,13 @@ SZE
 
 
 
-
+N01
+E2
+N57
+MASZ
+BA
+PIRIG
+TUR3
 
 
 
@@ -58175,14 +62524,23 @@ SZU
 
 
 
+…
+N24
+SZE
+EN
+SAG
+U4
+N08
 
 
 
 
 
 
-
-
+N45
+N14
+N22
+…
 
 
 
@@ -58317,7 +62675,19 @@ N01
 AMAR
 …
 …
-
+N14
+N01
+PAP
+N57
+MUSZEN
+EN
+IB
+N01
+AL
+N01
+TUR
+N14
+SAL
 
 N01
 GAL
@@ -58688,6 +63058,35 @@ KISAL
 
 
 N01
+KISAL
+DU
+GA2
+EN
+N01
+ZAG
+E2
+AK
+PAP
+N01
+MAH
+TUN3
+ISZ
+ZI
+N01
+SI
+SAL
+PA
+EN
+SUM
+DU
+N01
+DI
+NIM
+UKKIN
+DA
+BU
+GI6
+N01
 NA2
 N01
 GA2
@@ -58695,6 +63094,12 @@ EN
 TE
 E
 KISAL
+N14
+EN
+TE
+E
+KISAL
+
 
 
 N01
@@ -58718,11 +63123,39 @@ KU6
 
 
 
+N01
+UKKIN
+SZU
+GI6
+BU
+N01
+GA2
+N01
+SI
+EN
+GA2
+BU
+N01
+SI
+TUN3
+EN
+NANSZE
+N01
+NA2
 UKKIN
 E2
 IN
 EN
-
+N01
+IN
+EN
+IN
+EN
+TE
+SZAB
+E
+E
+UKKIN
 
 N01
 PAP
@@ -58744,7 +63177,13 @@ MASZ
 GAN2
 E
 KISAL
-
+N01
+MASZ
+GAN2
+SI
+KU
+E
+KISAL
 
 N01
 N57
@@ -58787,7 +63226,119 @@ N01
 GISZ
 SZU2
 
-
+N14
+N01
+UR5
+SAL
+N14
+GI6
+AMA
+NIN
+NAB
+DI
+SAL
+N02
+PAP
+BU
+U4
+SI4
+EN
+U4
+…
+X
+NAR
+EN
+U4
+ZATU628
+KI
+…
+…
+SAL
+SAL
+SZEG9
+…
+…
+…
+X
+GI4
+…
+…
+…
+…
+N14
+N01
+X
+…
+EN
+…
+…
+…
+NAGA
+…
+ZATU694
+…
+AN
+NIN
+DUB
+NAGA
+HI
+…
+…
+X
+NUN
+…
+HI
+…
+…
+…
+…
+…
+N01
+SAL
+TUR
+N01
+…
+AMA
+GI6
+X
+…
+N01
+X
+MA
+AN
+AMA
+N01
+SAL
+SZA3
+SAL
+SAL
+TUR3
+BALA
+N01
+KUR
+TUR
+EN
+GAL
+AK
+U4
+NIM
+SZU
+TUR
+N01
+KUR
+SZA3
+ZATU773
+NI
+SZU
+TUR
+SZU
+NI
+U4
+EN
+ERIM
+NA2
+NINDA2
+NUN
 N14
 N01
 GAL
@@ -58842,7 +63393,38 @@ SZUBUR
 
 
 
-
+N01
+ERIN
+X
+DAR
+PAP
+N01
+SAGSZU
+NUN
+EN
+X
+TI
+N01
+SUR
+APIN
+E
+SZAB
+N01
+X
+…
+X
+X
+GIBIL
+…
+X
+EN
+N01
+…
+U4
+LAGAR
+GISZ
+SZU2
+…
 …
 
 N01
@@ -58914,6 +63496,7 @@ N01
 E
 KISAL
 N01
+…
 …
 …
 E
@@ -59009,6 +63592,31 @@ E
 E2
 N57
 …
+SI
+KU
+N14
+N01
+EN
+PAP
+PAP
+…
+E
+N14
+N01
+MASZ
+GAN2
+MUSZ3
+SZE
+NAM2
+E
+N01
+MASZ
+GAN2
+SIPA
+E2
+E
+E2
+N57
 N14
 N01
 …
@@ -59073,7 +63681,12 @@ N14
 N01
 SIMUG
 GI
-
+N14
+N01
+…
+E
+KISAL
+GI
 
 N01
 X
@@ -59137,6 +63750,12 @@ N01
 N01
 …
 …
+N01
+…
+…
+NIN
+N01
+ZATU629
 N01
 …
 …
@@ -59212,7 +63831,14 @@ N22
 …
 
 
-
+N50
+N14
+N01
+N57
+SZE
+SANGA
+KISZ
+LAGAB
 
 N34
 N14
@@ -59408,7 +64034,43 @@ N14
 N22
 N08
 AL
-
+N14
+N01
+N58
+N34
+N57
+SI
+ME
+N14
+N01
+N58
+NUN
+NAM2
+KI
+N34
+N57
+SZIDIM
+N14
+N01
+N58
+N34
+N57
+N14
+N22
+N01
+N08
+A
+GAN2
+N14
+N01
+N58
+N34
+N14
+N57
+N14
+N01
+X
+GAN2
 
 …
 N34
@@ -59450,10 +64112,60 @@ N14
 N01
 N58
 
+…
+…
+…
+GAL
+UB
+E2
 
+…
+SZU
+IB
+…
+N14
+N01
+N58
+N14
+N01
+GAN2
+…
+…
+N14
+N01
+…
 
-
-
+N14
+N01
+GAN2
+GI6
+A
+GISZ
+DU7
+DA
+AB
+APIN
+NUN
+ZATU659
+ISZ
+SAL
+UNUG
+LAGAR
+EN
+PAP
+DU
+KISAL
+AN
+E
+GAL
+N01
+…
+SANGA
+AB
+APIN
+NUN
+…
+…
 
 N01
 AM
@@ -59513,7 +64225,16 @@ AB
 N01
 SI4
 …
-
+N14
+N01
+KISZ
+N57
+SANGA
+X
+SZU
+DU8
+AMAR
+…
 
 N01
 A
@@ -59526,7 +64247,11 @@ SANGA
 N57
 N01
 EZEN
-
+N14
+N01
+KISZ
+KI
+…
 
 N34
 …
@@ -59804,7 +64529,7 @@ UD5
 
 …
 N15
-
+KISZ
 
 N01
 SZU
@@ -59815,7 +64540,13 @@ KU6
 …
 N01
 UD5
-
+N01
+KISZ
+SI
+KASKAL
+SANGA
+EN
+NUN
 
 N01
 ZATU850
@@ -60201,7 +64932,7 @@ PAP
 BU
 NAM2
 …
-
+…
 
 N01
 X
@@ -60298,7 +65029,14 @@ BA
 EN
 AN
 NI
-
+N14
+N01
+UDU
+EN
+BA
+AN
+NI
+URU
 
 N48
 N34
@@ -60798,7 +65536,10 @@ N01
 ZATU628
 UDU
 BAR
-
+N14
+N01
+UDU
+BAR
 
 N14
 N01
@@ -61097,11 +65838,32 @@ ZATU752
 GI
 …
 
+N34
+N14
+SUHUR
+SI4
+N34
+GA2
+KU6
+KU6
+KISAL
+BA
+SZUR2
+BU
 
 
 
-
-
+N14
+SUHUR
+N14
+ZATU759
+KU6
+X
+SANGA
+NUN
+SANGA
+NUN
+SUKKAL
 
 
 
@@ -61175,7 +65937,9 @@ SAGSZU
 …
 X
 …
-
+…
+N34
+…
 
 N48
 N34
@@ -61203,7 +65967,11 @@ MUD
 NA
 …
 GI
-
+GA
+IB
+N48
+N01
+UBI
 
 N01
 ZAG
@@ -61293,7 +66061,12 @@ HI
 HAL
 SZAM2
 EN
-
+N47
+N20
+N05
+HI
+SZE
+A
 
 
 N14
@@ -61327,7 +66100,23 @@ N39
 …
 U4
 N08
-
+N01
+N39
+N28
+…
+N01
+N28
+TUR
+…
+N24
+N28
+GUG2
+N39
+N28
+SZE
+…
+N01
+X
 
 …
 …
@@ -61476,7 +66265,8 @@ KI
 SZAM2
 KU6
 KISAL
-
+…
+…
 
 …
 …
@@ -61592,12 +66382,51 @@ SZE
 U4
 N08
 N01
+N28
+N29
+HI
+N01
+N29
+…
+N01
+N28
+…
+N01
+N39
+N24
+N29
+SZE
+N39
+N29
+N01
+N39
+N24
+…
+N01
 N39
 N28
 HI
 SZE
 U4
 N08
+N01
+N39
+HI
+N01
+N39
+N28
+SZE
+N01
+N28
+N29
+N30
+N39
+N24
+N29
+N30
+N01
+…
+…
 …
 …
 
@@ -61900,6 +66729,13 @@ SAG
 N01
 U4
 GAR
+AN
+E2
+N01
+U4
+GAR
+N01
+DU8
 …
 X
 N01
@@ -62153,6 +66989,40 @@ BA
 
 
 N14
+N04
+SZE
+GI
+N14
+N14
+N04
+N14
+N01
+SZE
+NE
+URU
+N57
+GAN2
+SANGA
+E2
+N14
+N01
+SZE
+ISZ
+N14
+PAP
+N14
+N01
+E
+SANGA
+KI
+N14
+PAP
+N57
+SU
+N19
+N04
+SZEG9
+N14
 N01
 SZU
 DU
@@ -62310,7 +67180,12 @@ SANGA
 
 
 …
-
+N14
+N39
+N41
+SZE
+RU
+…
 
 N45
 N19
@@ -62457,7 +67332,18 @@ ISZ
 SZE
 GAN2
 GI
-
+N14
+N01
+SZE
+EN
+PAP
+PAP
+E
+GAN2
+GI
+EN
+PAP
+DU
 
 N14
 SZE
@@ -62482,6 +67368,10 @@ KISAL
 
 
 
+N14
+N01
+SZE
+
 N45
 N14
 N01
@@ -62501,7 +67391,18 @@ SZE
 N57
 GAN2
 SI
-
+N34
+N14
+N01
+SZE
+SAL
+E
+EN
+PAP
+DU
+NUN
+NAM2
+SI4
 
 N20
 SZE
@@ -62621,7 +67522,27 @@ N01
 BA
 N01
 GI
-
+N34
+LAGAB
+KASZ
+N14
+N01
+KASZ
+X
+N14
+N01
+GU7
+N01
+KI
+N14
+N01
+KASZ
+X
+N01
+BA
+N14
+N01
+GI
 
 N01
 E2
@@ -62898,7 +67819,16 @@ PAP
 
 
 
-
+…
+SZE
+N14
+…
+SZE
+…
+…
+N01
+…
+…
 
 
 
@@ -63038,6 +67968,13 @@ N04
 AB
 …
 …
+N14
+N01
+SZE
+N19
+N04
+LAGAB
+TE
 …
 N19
 N14
@@ -63092,7 +68029,21 @@ SZE
 GIBIL
 E
 
-
+N14
+SZE
+MASZ
+GAN2
+SI
+KU
+KISAL
+E
+GAL
+IB
+…
+SANGA
+…
+LA2
+TE
 
 
 
@@ -63199,7 +68150,26 @@ SZE
 GIR3
 …
 
-
+N14
+SZE
+SZEG9
+PA
+N46
+SZEG9
+GISZ
+PA
+N14
+N01
+E
+GA
+E
+GA
+EN
+KISAL
+PAP
+DU
+ZATU686
+GI4
 …
 LAGAB
 …
@@ -63239,13 +68209,47 @@ GI
 NA
 MUSZEN
 GU7
+N45
+N19
+N04
+SZE
+N14
+N01
+SZE
+N19
+N04
+N19
+N04
+LAGAB
+TE
+E
+SZAB
+
+N01
+N39
+N03
+…
+N01
+N39
+N24
+EN
+DU
+PAP
 
 
 
-
-
-
-
+N14
+DUB
+NAGA
+SZU
+ZI
+GISZIMMAR
+MU
+EN
+DU
+PAP
+KISAL
+APIN
 
 
 
@@ -63288,7 +68292,63 @@ SI
 KU
 SZE
 
-
+N14
+LAGAB
+SZE
+MUSZ3
+N14
+N01
+N57
+EN2
+SI4
+N01
+GAN2
+N14
+SZE
+EN
+PAP
+PAP
+N14
+NUN
+NAM2
+N14
+SZE
+LA2
+TE
+N14
+NUN
+NAM2
+N19
+LA2
+TE
+EN
+PAP
+PAP
+N19
+N04
+NUN
+NAM2
+N19
+N04
+ZATU659
+N01
+GAN2
+N14
+GI
+N14
+N01
+NUN
+NAM2
+N14
+N01
+ZATU659
+…
+EN
+PAP
+KISAL
+DU
+SI
+KU
 N14
 N19
 …
@@ -63650,6 +68710,12 @@ APIN
 N34
 N14
 N01
+SZE
+N36
+N19
+N34
+N14
+N01
 N01
 U8
 SI4
@@ -63677,7 +68743,12 @@ SZURUPPAK
 
 
 
-
+N51
+N34
+N14
+N30
+N14
+DUG
 
 
 
@@ -63709,7 +68780,14 @@ SZE
 …
 …
 ERIM
-
+N14
+N01
+KU6
+AB
+KASZ
+SZE
+KI
+SAG
 
 N45
 N14
@@ -64207,7 +69285,16 @@ SZE
 AB
 N04
 
-
+N51
+GAR
+N14
+DUG
+KASZ
+N01
+UDU
+N01
+…
+…
 
 
 
@@ -64338,7 +69425,17 @@ SUG5
 X
 …
 …
-
+…
+…
+N14
+N01
+…
+X
+…
+N14
+N01
+DUR
+ZATU659
 
 N01
 BU
@@ -64544,7 +69641,23 @@ N14
 …
 MUD
 …
-
+…
+UR
+ZATU756
+…
+N34
+N14
+N01
+SAG
+UB
+…
+N34
+N14
+N01
+HAL
+BA
+N14
+…
 
 …
 N14
@@ -64629,7 +69742,25 @@ KISAL
 
 
 
-
+N01
+E2
+GAL
+N01
+EN
+ZATU697
+N01
+SAG
+ZATU686
+N01
+AN
+E2
+…
+…
+X
+…
+…
+GU7
+…
 
 
 
@@ -64697,6 +69828,28 @@ GIR3
 
 
 
+N01
+SZEN
+N01
+E
+KISAL
+N01
+SZEN
+TUR
+N01
+…
+SANGA
+KI
+N01
+APIN
+N01
+PAP
+BU
+NAM2
+N01
+…
+N01
+…
 N01
 …
 N01
@@ -64992,7 +70145,13 @@ E2
 A
 …
 
-
+…
+…
+UR2
+…
+N34
+N14
+…
 
 
 
@@ -65024,7 +70183,11 @@ X
 X
 …
 …
-
+N14
+N01
+N57
+NUN
+GISZIMMAR
 
 N01
 EN
@@ -65059,7 +70222,11 @@ MUSZ3
 N01
 SZE
 NAM2
-
+N34
+N14
+N01
+E2
+…
 
 …
 EN
@@ -65115,7 +70282,31 @@ E2
 
 
 …
-
+N14
+N01
+SZE
+GU7
+N14
+N01
+N14
+…
+N14
+N01
+X
+N14
+URU
+N14
+KU6
+KISAL
+N14
+N01
+N14
+GAR
+SAG
+TUG2
+URU
+KU6
+KISAL
 
 …
 …
@@ -65242,6 +70433,12 @@ UDU
 DU8
 UDU
 N34
+N14
+N01
+N14
+N01
+TUR
+N34
 SILA4
 N01
 AB
@@ -65250,8 +70447,50 @@ N01
 
 
 
-
-
+N34
+N45
+N14
+N01
+SZE
+N45
+N14
+SZE
+U4
+N57
+N34
+N14
+N01
+U4
+GIBIL
+N36
+N46
+N19
+N04
+N19
+LAGAB
+TE
+N36
+N46
+N19
+N04
+GIBIL
+U4
+N04
+LAGAB
+TE
+GIBIL
+U4
+…
+…
+N34
+N36
+…
+N45
+…
+N01
+SZE
+BA
+SZAM2
 …
 N14
 X
@@ -65261,7 +70500,14 @@ N01
 SZE
 X
 X
-
+N34
+…
+N01
+N39
+N24
+GI
+KI
+…
 
 N14
 N01
@@ -65423,7 +70669,13 @@ GI
 GI
 SUG
 
+MUSZ3
+MUSZ3
+EN
+MUSZ3
 
+SZITA
+SZITA
 
 
 N01
@@ -66027,6 +71279,14 @@ NUMUN2
 …
 SZAKIR
 ZATU752
+…
+NUN
+…
+N01
+TE
+EZEN
+AN
+MUSZ3
 N14
 N01
 BA
@@ -68911,6 +74171,13 @@ X
 N48
 N34
 DARA4
+N48
+N34
+…
+N34
+…
+N34
+…
 N34
 X
 …
@@ -68924,6 +74191,14 @@ X
 N34
 N14
 X
+…
+N34
+…
+N14
+N01
+…
+…
+…
 …
 
 
@@ -71069,6 +76344,12 @@ MA
 X
 N01
 GAN
+N01
+LAGAB
+X
+N01
+LAGAB
+DIN
 IB
 N04
 TAK4
@@ -73158,6 +78439,10 @@ BAR
 …
 N01
 …
+N14
+U4
+N57
+BAR
 …
 KISIM
 
@@ -73506,6 +78791,13 @@ N01
 X
 …
 
+N14
+…
+DUG
+E2
+X
+DUB
+…
 
 
 N14
@@ -74851,8 +80143,29 @@ SANGA
 GUG2
 …
 
+…
+ZATU651
+EN
+GU7
+PA
+SZITA
+NAM2
+KAB
+N14
+N01
+X
+…
+N01
+N39
+N24
+…
+…
 
-
+N08
+…
+UNUG
+X
+…
 
 
 …
@@ -75450,6 +80763,21 @@ GU7
 
 
 …
+…
+N01
+SZEN
+ZATU647
+NAGA
+TAK4
+U4
+N57
+A
+KASZ
+N58
+MUSZ3
+EN
+AN
+X
 …
 …
 …
@@ -80269,12 +85597,26 @@ ZATU687
 EN
 EN
 TUR
+EN
+PAP
+N57
+GAN2
 N01
 EN
 X
 KI
 ZATU687
 AN
+EN
+SZU2
+E2
+BU
+SZU
+SAL
+BU
+EN
+HI
+KASZ
 UMUN2
 EN
 PAP
@@ -88407,7 +93749,13 @@ N01
 
 
 
-
+…
+X
+N01
+NI
+SANGA
+GAR
+AMA
 
 
 N14
@@ -89967,7 +95315,10 @@ PAP
 
 
 
-
+N01
+KISZ
+SZU
+ME
 
 
 
@@ -90040,7 +95391,9 @@ N01
 SAL
 AMAR
 KISZ
-
+N14
+N01
+KISZ
 
 
 
@@ -90094,9 +95447,22 @@ GAN2
 U2@
 SAG
 KISZ
+N14
+N01
+KISZ
+SAG
+U2
+BA
+UMBIN
+A
+A
 
-
-
+N14
+N01
+KISZ
+EN
+NUN
+ERIN
 
 
 
@@ -90175,7 +95541,11 @@ N01
 BA
 
 
-
+N14
+N01
+KISZ
+SIG2
+BA
 
 N01
 KUR
@@ -90190,7 +95560,9 @@ N01
 AN
 TE
 MAR
-
+N01
+KISZ
+SZU
 
 N
 …
@@ -90213,13 +95585,41 @@ N
 
 
 
+N14
+KISZ
+AMA
+LAGAR
+EN
+SZU
 
 
 
 
 
 
-
+N01
+SU
+PAP
+EN
+SI
+KI
+NAMESZDA
+SANGA
+ZABALA
+KI
+PA
+NAGAR
+BU
+URU
+PA
+BU
+SANGA
+ZI
+UB
+URI3
+BAD
+DISZ
+EN
 
 
 
@@ -90295,7 +95695,10 @@ X
 N14
 NAGA
 BARA2
-
+N48
+N34
+N01
+BARA2
 
 N14
 N01
@@ -90313,7 +95716,13 @@ X
 KISZ
 
 ZATU758
-
+N14
+N01
+KISZ
+X
+TAK4
+SZITA
+MAR
 
 
 
@@ -90330,7 +95739,12 @@ N01
 
 N14
 X
-
+N14
+N01
+…
+X
+X
+…
 
 
 N14
@@ -92673,6 +98087,20 @@ X
 N01
 PA
 GU4
+N01
+X
+N01
+ZATU786
+N01
+X
+GU4
+N01
+X
+N01
+GU4
+SZU
+ZATU857
+
 …
 …
 X
@@ -92749,8 +98177,14 @@ N34
 …
 SZE
 
-
-
+N34
+N14
+ERIM
+NAGA
+KISZ
+RAD
+…
+…
 
 
 
@@ -94748,6 +100182,91 @@ AB
 APIN
 
 
+N34
+N14
+N57
+GAL
+SZAB
+
+N34
+N14
+N58
+
+N50
+N14
+GAN2
+
+
+N22
+BAR
+
+N34
+N14
+N01
+N57
+PA
+GIR3
+
+N34
+N14
+N58
+
+N50
+N14
+GAN2
+
+
+N22
+N01
+N08
+
+N34
+N14
+N57
+NAM2
+DI
+
+N34
+N14
+N01
+N58
+
+
+N50
+N14
+GAN2
+
+N34
+N14
+N57
+ME
+
+N34
+N01
+N58
+
+
+N50
+N08
+GAN2
+
+N34
+N57
+EN
+SAL
+
+N34
+N14
+N58
+
+N50
+N14
+GAN2
+
+
+N14
+N22
+…
 
 
 N45
@@ -94785,6 +100304,91 @@ IL
 …
 
 
+N34
+N14
+N01
+N57
+EN
+SAL
+
+N34
+N14
+N58
+
+
+N14
+N22
+GAN2
+
+N34
+N14
+N01
+N57
+PA
+GIR3
+
+N34
+N14
+N58
+
+
+N14
+N22
+GAN2
+
+N34
+N14
+N01
+N57
+GAL
+SZAB
+
+N34
+N14
+N58
+
+
+N14
+N22
+GAN2
+
+N14
+N01
+N08
+N57
+ME
+
+N34
+N14
+N58
+
+N14
+GAN2
+
+
+N08
+BAR
+
+N34
+N14
+N01
+N57
+NAM2
+DI
+
+N34
+N14
+N58
+
+
+N14
+N22
+GAN2
+
+…
+GAN2
+KI
+SZAGAN
 
 
 N50
@@ -94817,6 +100421,96 @@ KI
 SZAGAN
 
 
+N34
+N14
+N57
+GAL
+SZAB
+
+N14
+N01
+N58
+
+N14
+GAN2
+
+
+N22
+N01
+N08
+KI
+BAR
+
+N34
+N14
+N57
+PA
+GIR3
+
+N14
+N01
+N58
+
+N14
+GAN2
+
+
+N14
+KI
+BAR
+
+N34
+N14
+N01
+N57
+NAM2
+DI
+
+N14
+N01
+N58
+
+N14
+GAN2
+
+
+N01
+BAR
+
+N34
+N14
+N01
+N57
+…
+
+N14
+N01
+N58
+
+N14
+GAN2
+
+
+N01
+KI
+BAR
+
+N34
+…
+N57
+…
+
+…
+N58
+
+N14
+GAN2
+
+
+N01
+N08
+KI
+BAR
 
 
 N45
@@ -94852,6 +100546,76 @@ HI
 LAGAB
 
 
+N34
+N14
+N01
+N57
+ME
+
+…
+N58
+
+…
+GAN2
+
+N14
+…
+KI
+BAR
+
+N34
+N57
+GAL
+SZAB
+
+…
+N58
+
+…
+GAN2
+
+N34
+N57
+GIR3
+PA
+
+…
+N58
+
+…
+GAN2
+
+N34
+N57
+NAM2
+DI
+
+N34
+N58
+
+
+N50
+GAN2
+
+N34
+N57
+EN
+SAL
+
+N34
+N58
+
+
+N50
+GAN2
+
+AB
+NI
+RU
+IL
+GAN2
+HI
+LAGAB
 
 
 N45
@@ -95059,7 +100823,23 @@ GAN2
 …
 
 
+N45
+N14
+SZE
 
+GISZ
+TE
+DU
+ME
+
+SZUBUR
+E2
+SANGA
+
+
+
+N50
+GAN2
 
 
 N14
@@ -96170,7 +101950,17 @@ N34
 …
 X
 
-
+N19
+…
+UB
+UNUG
+KI
+X
+…
+EN
+SZITA
+X
+…
 
 
 
@@ -96686,6 +102476,9 @@ X
 KI
 SANGA
 KU6
+X
+LU2
+SZU
 
 
 N14
@@ -100925,6 +106718,15 @@ N01
 X
 X
 ZATU644
+N14
+SZU2
+N01
+…
+SZU2
+N01
+ME
+N01
+ZATU753
 N01
 DUG
 N01
@@ -102561,6 +108363,11 @@ SAL
 KUR
 GAL
 SAL
+EN
+PAP
+X
+SUKKAL
+GIR3
 
 
 …
@@ -102640,6 +108447,9 @@ N14
 N57
 AMA
 …
+U2
+A
+UNUG
 N14
 APIN
 …
@@ -102769,6 +108579,11 @@ N01
 N14
 N01
 BA
+AN
+N57
+EN
+PA
+ERIN
 …
 N01
 GI
@@ -104910,6 +110725,11 @@ N14
 N39
 SI4
 BA
+N14
+N01
+N39
+N01
+SZE
 N14
 N01
 N39
@@ -109535,7 +115355,10 @@ N01
 SAG
 GURUSZ
 
-
+NUN
+SAL
+GUB3
+GISZ
 
 
 
@@ -109545,7 +115368,9 @@ EN
 PAP
 NUN
 
-
+N14
+N01
+SZU2
 
 
 
@@ -109713,11 +115538,14 @@ N14
 N01
 ME
 SUHUR
+N38
 N34
 SZU
 E
 SUHUR
 X
+…
+…
 …
 …
 X
@@ -110059,14 +115887,29 @@ X
 KI
 …
 N45
+…
+X
+SU
+…
+N45
 ZATU756
 EN
 SZE3
 TUR
 NUN
 …
+N45
+GAN2
+SZE
+N45
+KI
+N45
+TUG2
 N50
 …
+…
+…
+GI
 …
 …
 N50
@@ -110074,12 +115917,22 @@ EN
 SZE3
 TUR
 NUN
+N14
+SZE
+…
+N14
+…
 …
 N45
 SZU2
 E2
 N45
 X
+…
+N45
+X
+N14
+…
 …
 X
 …
@@ -110378,6 +116231,9 @@ NUN
 N01
 SAR
 A
+N34
+…
+…
 N14
 N01
 NE
@@ -110396,6 +116252,8 @@ N14
 
 
 N45
+N14
+X
 N45
 N50
 …
@@ -110776,6 +116634,10 @@ N01
 DUB
 PA
 …
+EN
+BU
+X
+…
 …
 …
 DUB
@@ -110992,9 +116854,14 @@ N14
 N01
 U8
 SIG2
+N02
 N14
 N01
 UDUNITA
+N01
+X
+GAL
+N02
 APIN
 DU
 KI
@@ -111224,6 +117091,13 @@ UDU
 
 N14
 UDUNITA
+…
+NUN
+…
+N01
+BU
+GAL
+HI
 SILA4
 SZURUPPAK
 SI
@@ -112323,6 +118197,15 @@ KAR2
 NUN
 BU3
 TUR
+N01
+BA
+N01
+KU3
+N02
+N01
+KU3
+GI
+N02
 N01
 GI6
 KAR2
@@ -113490,6 +119373,8 @@ N01
 GAL
 GA
 BAR
+EN
+NANNA
 …
 MIR
 …
@@ -115469,7 +121354,9 @@ X
 X
 X
 
-
+ZATU630
+UNUG
+GISZIMMAR
 
 
 
@@ -115540,6 +121427,10 @@ NAM2
 N01
 X
 
+…
+X
+X
+…
 
 
 X
@@ -120706,6 +126597,16 @@ U4
 SANGA
 
 
+N01
+N08
+U8
+UR2
+UMBIN
+
+N01
+MASZ
+GURUSZDA
+MUSZ3
 
 
 
@@ -128207,6 +134108,9 @@ SI
 SAL
 X
 NUN
+…
+X
+DU
 N34
 …
 …
@@ -129594,6 +135498,9 @@ EN
 
 
 
+…
+…
+X
 
 
 
@@ -129738,6 +135645,8 @@ X
 
 
 
+…
+…
 
 
 
@@ -129789,6 +135698,9 @@ N01
 
 
 
+…
+…
+X
 
 
 
@@ -132043,7 +137955,11 @@ N01
 PA
 …
 
+N01
+…
 
+N01
+…
 
 
 N01
@@ -132110,7 +138026,8 @@ NIMGIR
 
 N01
 …
-
+N
+…
 
 
 N01
@@ -132144,7 +138061,8 @@ EN
 N01
 RI8
 DARA4
-
+N
+…
 
 N01
 ESZDA
@@ -132169,7 +138087,8 @@ X
 
 N01
 …
-
+N
+…
 
 N01
 …
@@ -132382,7 +138301,9 @@ N01
 …
 N01
 NIM
-
+N01
+NIM
+…
 
 
 
@@ -132418,7 +138339,8 @@ N01
 
 N01
 …
-
+…
+…
 
 N01
 NI
@@ -132488,7 +138410,8 @@ N01
 N01
 KU3
 …
-
+…
+…
 
 
 N01
@@ -132518,7 +138441,8 @@ N01
 …
 N01
 GA'AR
-
+N
+…
 
 
 …
@@ -132552,6 +138476,14 @@ N57
 SZUBUR
 …
 
+N
+…
+ZATU766
+ZATU636
+DI
+NA
+A2
+…
 
 
 
@@ -132656,7 +138588,9 @@ N01
 DU
 N57
 KI
-
+…
+GAL
+SZAGAN
 
 …
 N34
@@ -132668,9 +138602,17 @@ DA
 PA
 N34
 …
+…
+N51
+N34
+N14
+…
 
-
-
+…
+N34
+N14
+N58
+…
 
 
 
@@ -132682,10 +138624,19 @@ GAN2
 
 
 
+…
+N14
+KISZ
+N01
+…
+…
+N01
+…
 
-
-
-
+N14
+N
+N01
+KISZ
 
 
 
@@ -132725,11 +138676,17 @@ GAL
 
 
 
+…
+N01
+AB2
+SZU
+GI
 
 
 
-
-
+…
+GI
+AB2
 
 
 
@@ -132752,7 +138709,15 @@ URU
 …
 …
 
-
+…
+N14
+N01
+…
+N45
+N14
+N01
+SZE
+…
 
 
 
@@ -132782,13 +138747,26 @@ X
 X
 N14
 …
+N19
+N04
+…
+
+…
+…
+N19
+N04
 
 
 
-
-
-
-
+…
+N14
+AN
+EN
+…
+N19
+N14
+KASZ
+SZE
 
 
 
@@ -132859,20 +138837,26 @@ N01
 
 
 
+…
+
+
+
+…
+X
+…
+
+
+
+…
+X
 
 
 
 
-
-
-
-
-
-
-
-
-
-
+…
+N14
+N01
+…
 
 
 
@@ -135027,6 +141011,7 @@ N14
 N01
 DUG
 GI
+N01
 N01
 DUG
 N57
@@ -137796,6 +143781,9 @@ N01
 N39
 …
 …
+N39
+…
+…
 
 
 N01
@@ -137866,8 +143854,22 @@ N14
 X
 …
 
-
-
+N14
+N01
+DIN
+BA
+N14
+N01
+DIN
+N14
+N01
+DIN
+DUG
+N34
+GA
+SZITA
+DIN
+UR5
 
 
 N34
@@ -139475,6 +145477,9 @@ NAM2
 …
 …
 …
+…
+N14
+…
 X
 …
 …
@@ -139677,7 +145682,9 @@ EN
 
 N14
 NUN
-
+N34
+N14
+BA
 
 N14
 N01
@@ -139801,7 +145808,10 @@ N01
 SZU
 RAD
 
-
+SZU
+ZATU753
+ZATU753
+SZE
 
 
 
@@ -139838,8 +145848,15 @@ ZATU659
 N01
 DA
 
+SZUR2
+URU
+N57
 
-
+N14
+SZE
+UNUG
+KU6
+KISAL
 NIN
 SAL
 SZU

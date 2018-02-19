@@ -24,12 +24,18 @@ SHOWCASES = set(
     '''
     P000743
     P000736
+    P002113
     P004639
+    P006275
     P006284
     P006427
+    P006437
+    P325218
     P411604
     P411610
     P448701
+    P464118
+    P499393
 '''.strip().split()
 )
 
@@ -80,7 +86,7 @@ specificMetaData = dict(
         'especially in numerals'
     ),
     op='operator connecting left to right operand',
-    sub='connects line or case with subcases',
+    sub='connects line or case with subcases, or quad with sub-quads or signs',
 )
 numFeatures = set(
     '''
@@ -94,6 +100,7 @@ numFeatures = set(
 )
 
 oText = {
+    'levels': 'tablet,face,column,line,case,cluster,quad,comment,sign',
     'sectionFeatures': 'catalogId,number,number',
     'sectionTypes': 'tablet,column,line',
     'fmt:text-orig-full': '{grapheme}',
@@ -116,8 +123,6 @@ FACES = set(
 
 COLUMN = set('''
     column
-    columm
-    column3
 '''.strip().split())
 
 COMMENTS = set('''
@@ -157,7 +162,18 @@ MODIFIERS = set(
 '''.strip().split()
 )
 
-TWEAKS = (
+HEAD_CHARS = set('''
+    &
+    @
+    $
+'''.strip().split())
+
+TWEAK_HEADS = (
+    ('@columm', '@column', 'Typo in column specifier: @columm'),
+    ('@column3', '@column 3', 'Typo in column specifier: @column 3'),
+)
+
+TWEAK_MATERIAL = (
     ('4"', "4'", 'Strange double prime'),
     ('[,', '', 'Strange comma'),
     ('SA|L', 'SAL|', 'Inversion "SA|L"'),
@@ -166,6 +182,12 @@ TWEAKS = (
     ('1N(02)', '1(N02)', 'N outside brackets'),
     ('(1N', '1(N', 'repeat inside brackets'),
     ('~A', '~a', 'variant with capital letter: ~A'),
+    ('{', '(', 'wrong opening bracket {'),
+    ('}', ')', 'wrong closing bracket {'),
+)
+TWEAK_LINES = (
+    ('1.a1. 4(N14)# , |4', '1.b0. 4(N14)# , |4', 'wrong line number'),
+    ('1.a2. UB', '1.c2. UB', 'wrong line number'),
 )
 
 linePat = re.compile("([0-9a-zA-Z.'-]+)\s*(.*)")
@@ -177,8 +199,10 @@ repeatPat = re.compile('^«([^=]*)=([^»]*)»$')
 
 fragEscapePat = re.compile('\.\.\.')
 
-writtenPat = re.compile('!\([^)]*\)$')
-flagsPat = re.compile('^(.*)((?:!\([^)]*\))|[!#?*])$')
+writtenEscapePat = re.compile('!\(([^)]*)\)')
+writtenRestorePat = re.compile('!◀([^▶]*)▶')
+
+flagsPat = re.compile('^(.*)((?:!◀[^▶]*▶)|[!#?*])$')
 modifierPat = re.compile('^(.*)@(.)$')
 variantPat = re.compile('^(.*)~([a-wyz0-9]+)$')
 
@@ -258,6 +282,11 @@ def parseCorpora(export=False):
             if fc != ' ':
                 error('Single character line', p, curTablet or {})
             continue
+        if fc in HEAD_CHARS:
+            for (pat, rep, msg) in TWEAK_HEADS:
+                if line.startswith(pat):
+                    diag(msg, p, curTablet)
+                    line = line.replace(pat, rep)
         sc = line[1]
         if fc == '&':
             comps = line[1:].split('=', 1)
@@ -342,17 +371,6 @@ def parseCorpora(export=False):
                         curFragment = ident
                 else:
                     if kind in COLUMN:
-                        if kind == 'columm':
-                            diag(
-                                'column typo: "@columm" => "@column"', p,
-                                curTablet or {}
-                            )
-                        elif kind == 'column3':
-                            diag(
-                                'column typo: "column3" => "@column 3"', p,
-                                curTablet or {}
-                            )
-                            ident = '3'
                         colNum = '1' if ident is None else ident
                         countPresent = False
                         if "'" in colNum:
@@ -429,17 +447,23 @@ def parseCorpora(export=False):
                     'srcLnNum': ln,
                 })
         else:
+            # tweak
+            for (pat, rep, msg) in TWEAK_LINES:
+                if line.startswith(pat):
+                    diag(msg, p, curTablet)
+                    line = line.replace(pat, rep, 1)
             if curColumn is None:
                 diag(
-                    f'Line outside column => inserted "@column 1"', p,
+                    f'Line outside column => inserted "@column 0"', p,
                     curTablet or {}
                 )
                 curColumn = {
-                    'number': '1',
+                    'number': '0',
                     'lines': [],
                     'srcLn': line,
                     'srcLnNum': ln,
                 }
+                curFace['columns'].append(curColumn)
                 curNums = set()
                 curLine = None
                 prevNum = None
@@ -495,15 +519,20 @@ def repeatEscapeRepl(match):
     return f'«{match.group(1)}={match.group(2)}»'
 
 
+def writtenEscapeRepl(match):
+    return f'!◀{match.group(1)}▶'
+
+
 def parseLine(material, p, curTablet):
     # tweak
-    for (pat, rep, msg) in TWEAKS:
+    for (pat, rep, msg) in TWEAK_MATERIAL:
         if pat in material:
             diag(msg, p, curTablet)
             material = material.replace(pat, rep)
     # remove the commas and transform the numerals
     material = stripCommas.sub(' ', material)
     material = repeatEscapePat.sub(repeatEscapeRepl, material)
+    material = writtenEscapePat.sub(writtenEscapeRepl, material)
     # translate ... to …
     material = fragEscapePat.sub('…', material)
     quads = material.split()
@@ -527,13 +556,12 @@ def parseLine(material, p, curTablet):
         stop = rest == ''
         while not stop:
             lq = rest[-1]
-            hasFlag = writtenPat.search(rest)
-            if lq in CLUSTER_END and not (lq == ')' and hasFlag):
+            if lq in CLUSTER_END:
                 rest = rest[0:-1]
             elif rest.endswith(')a'):
                 lq = rest[-2]
                 rest = rest[0:-2]
-            if not (lq in CLUSTER_END) or (lq == ')' and hasFlag):
+            if not (lq in CLUSTER_END):
                 stop = True
             else:
                 lqo = CLUSTER_END[lq]
@@ -551,7 +579,13 @@ def parseLine(material, p, curTablet):
                     del startPoints[lqo]
             if rest == '':
                 stop = True
-        (rest, quadInfo) = getPieceInfo(rest, p, curTablet)
+        # (rest, quadInfo) = getPieceInfo(rest, p, curTablet)
+        # newQuad = parseQuad(rest, p, curTablet)
+        # if quadInfo:
+        #    newQuad.setdefault('info', {}).update(quadInfo)
+        quadInfo = {}
+        if rest.startswith('|'):
+            (rest, quadInfo) = getPieceInfo(rest, p, curTablet)
         newQuad = parseQuad(rest, p, curTablet)
         if quadInfo:
             newQuad.setdefault('info', {}).update(quadInfo)
@@ -764,8 +798,7 @@ def transformQuad(quads, p, curTablet):
                     if '«' in base or '»' in base:
                         error(
                             'Incomplete recognition of escaped repeats:'
-                            f' "{sign}" => "{base}"',
-                            p, curTablet
+                            f' "{sign}" => "{base}"', p, curTablet
                         )
                     signData['grapheme'] = base
                     info.update(rInfo)
@@ -793,25 +826,48 @@ def incNum(x):
 
 def casify(tablets):
     for tablet in tablets:
+        curTablet = tablet
         for face in tablet.get('faces', []):
             for column in face.get('columns', []):
                 lines = column.get('lines', None)
                 if lines is not None:
-                    column['lines'] = putInCases(lines)
+                    column['lines'] = putInCases(lines, curTablet)
 
 
-def putInCases(lines):
+def putInCases(lines, curTablet):
     cases = collections.OrderedDict()
     for line in lines:
         numParts = numPartsPat.findall(line['fullNumber'])
         if len(numParts):
             target = cases
             for numPart in numParts[0:-1]:
+                reshapeTarget(target, curTablet)
                 target = target.setdefault(numPart, collections.OrderedDict())
-            target[numParts[-1]] = line
+            lastPart = numParts[-1]
+            reshapeTarget(target, curTablet)
+            target[lastPart] = line
         else:
             cases[''] = line
     return cases
+
+
+def reshapeTarget(target, curTablet):
+    if 'material' in target:
+        # this happens if you have a numbering like
+        # 1  material 1
+        # 1a material 1a
+        # 1b material 1b
+        srcLn = target['srcLnNum']
+        srcLine = target['srcLn']
+        period = curTablet.get('period', None)
+        diag(
+            'case with sub-cases has material', (period, srcLn, srcLine),
+            curTablet
+        )
+        existing = {}
+        existing.update(target)
+        target.clear()
+        target[''] = existing
 
 
 def exportResults(tablets):
@@ -1005,7 +1061,13 @@ def makeTf(tablets):
                     nodeFeatures['type'][(nodeType, curNode)] = kind
                     context.append((nodeType, curNode))
             (prevType, prevNode) = doQuad(
-                q, quad, prevQuad, prevType, prevNode, outer=True
+                q,
+                quad,
+                prevQuad,
+                prevType,
+                prevNode,
+                None,
+                None,
             )
             prevQuad = quad
         q = len(quads)
@@ -1014,10 +1076,13 @@ def makeTf(tablets):
                 context.pop()
         return len(quads)
 
-    def doQuad(q, quad, prevQuad, prevType, prevNode, outer=False):
-        nodeType = 'quad' if outer else 'subquad'
+    def doQuad(q, quad, prevQuad, prevType, prevNode, parentType, parentNode):
+        nodeType = 'quad'
         cur[nodeType] += 1
         curNode = cur[nodeType]
+        if parentType is not None:
+            edgeFeatures['sub'][(parentType,
+                                 parentNode)].add((nodeType, curNode))
         if q > 1:
             op = prevQuad.get('op', None)
             if op is not None:
@@ -1028,7 +1093,9 @@ def makeTf(tablets):
             doInfo(quad, curNode, nodeType)
             (pQuad, pType, pNode) = (None, None, None)
             for (iq, iquad) in enumerate(quad['quads']):
-                (pType, pNode) = doQuad(iq, iquad, pQuad, pType, pNode)
+                (pType, pNode) = doQuad(
+                    iq, iquad, pQuad, pType, pNode, nodeType, curNode
+                )
                 pQuad = iquad
         if 'grapheme' in quad:
             doSign(quad)
@@ -1039,8 +1106,12 @@ def makeTf(tablets):
         nonlocal curSlot
         nodeType = 'sign'
         curSlot += 1
-        ft = 'grapheme'
-        nodeFeatures[ft][(nodeType, curSlot)] = sign[ft]
+        for ft in '''
+            grapheme
+            repeat
+        '''.strip().split():
+            if ft in sign:
+                nodeFeatures[ft][(nodeType, curSlot)] = sign[ft]
         doInfo(sign, curSlot, nodeType)
         for (nt, curNode) in context:
             oSlots[(nt, curNode)].add(curSlot)
@@ -1159,7 +1230,11 @@ def makeTf(tablets):
 def loadTf():
     print(f'Load TF dataset for the first time')
     TF = Fabric(locations=TF_DIR, modules=[''])
-    TF.load('')
+    TF.clearCache()
+    api = TF.load('')
+    for (otp, av, omin, omax) in api.C.levels.data:
+        print(f'{otp:<15}: {av:>7.4f} {{{omin:>6}-{omax:>6}}}')
+
     allFeatures = TF.explore(silent=False, show=True)
     loadableFeatures = allFeatures['nodes'] + allFeatures['edges']
     TF.load(loadableFeatures)

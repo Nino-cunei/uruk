@@ -88,7 +88,7 @@ other cluster, see below.
 ### Augments ###
 
 We describe the various kinds of augments. Not only individual signs may be
-augmented, also more complex node types such as *quads* and *subquads* (see
+augmented, also more complex node types such as *quads* (see
 below) may be augmented.
 
 #### Prime ####
@@ -98,7 +98,7 @@ feature *prime=1*.
 
 #### Variants ####
 
-*Quads*, *subquads* and *signs* may have variants, also called *allographs*.
+*Quads* and *signs* may have variants, also called *allographs*.
 This is indicated by a `~` and then a sequence of letter and digits except the
 letter `x`. `x` is an *operator*, see below.
 
@@ -201,12 +201,12 @@ There may be multiple flags:
 
     1.  1(N48) 7(N34) 3(N14) , BARA2~a#
 
-Quad and subquad
-----------------
+Quad
+----
 
 A *quad* is an atomic piece of space on a tablet in a geometrical sense. Quads
 are filled with a single *sign* or a composition of signs. The composition may
-be a nest of *subquads*.
+be a nest of *quads* and *signs*.
 
 We get quads from transcription lines by splitting the line material (the part
 after the number) on white space.
@@ -226,7 +226,7 @@ a few exceptions):
 
     5.  1(N01) , |DUG~bx1(N57)|
 
-The quad `|DUG~bx1(N57)|` is the composition of two *subquads* : `DUG~b` and
+The quad `|DUG~bx1(N57)|` is the composition of two sub-*quads* : `DUG~b` and
 `1(N57)`, composed by operator `x`.
 
 There are several operators, and the composition may involve several levels. If
@@ -234,9 +234,9 @@ that is the case, brackets specify the construction:
 
     2.  4(N01) 1(N39~a) 1(N24) , |NINDA2x(HI@g~a.1(N06))|
 
-The quad `|NINDA2x(HI@g~a.1(N06))|` is the composition by `x` of subquads
+The *quad* `|NINDA2x(HI@g~a.1(N06))|` is the composition by `x` of sub-*quads*
 `NINDA2` and `HI@g~a.1(N06)` and the latter is the composition by `.` of
-subquads `HI@g~a` and `.1(N06)`.
+sub-*quads* `HI@g~a` and `.1(N06)`.
 
 We can now state the rules a bit more precisely.
 
@@ -246,14 +246,14 @@ objects that correspond to *quads*.
 Every quad is one of:
 
 *   a single *sign*, possibly augmented, or
-*   a composite of *subquads*, delimited by `| |`
+*   a composite of outermost *quads*, delimited by `| |`
 
-Every subquad is one of:
+Every non-outermost quad is one of:
 
 *   a single *sign*, possibly augmented (as in quad)
-*   a composite of subquads, which is
+*   a composite of sub-*quads*, which is
     *   a string, possibly delimited by `( )`, possibly augmented; the immediate
-        subquads are obtained by splitting on one of the operators.
+        sub-*quads* are obtained by splitting on one of the operators.
 
 Operators are single characters, one of `x % & . : +`.
 
@@ -270,18 +270,19 @@ is not a modifier, except:
 In all these cases, `@` does not seem an operator. So we remove `@` from the
 list of operators.
 
-There is no space between the operators and the subquads.
+There is no space between the operators and the sub-*quads*.
 
 ### Edges for (sub)quads ###
 
 We represent the structure of quads and subquads by means of edges:
 
-*   *op*: from sign or subquad to right sibling;
+*   *sub*: from quad to any *quad* or *sign* embedded in it;
+*   *op*: from sign or sub-*quad* to right sibling;
 
 For *op* we have:
 
 *   edges are labeled with the operator that connects the two operands;
-*   quads do not have *op* edges (as opposed to *subquads*).
+*   outermost quads do not have *op* edges (as opposed to sub-*quads*).
 
 Note that in TF we can traverse edges in both directions.
 
@@ -325,10 +326,12 @@ Case
 A numbered transcription line corresponds to a *case*. A sequence of *quads*
 forms a case.
 
+Cases represent squares on a tablet.
+
 Those cases may be grouped into bigger *cases*, and ultimately they are grouped
 in *lines*, based on their number.
 
-All cases in a *column* (see below) that start with the same number, form a
+All cases in a *line* (see below) that start with the same number, form a
 bigger *case*. The number itself is recorded in the feature *number* on the node
 type *case*.
 
@@ -341,13 +344,8 @@ If the numbers show deeper hierarchy, we build up cases. Cases with numbers
 two *cases*: one with number `1a`, containing cases `1a1` and `1a2`, and one
 with number `1b`, containing just case `1b`.
 
-Cases represent squares on a tablet.
-
 If a line is not subdivided in multiple cases, we still say that the line
 contains one case.
-
-If we encounter a case without a preceding column specifier, we proceed as if we
-have seen a `@column 1`.
 
 This is an example case.
 
@@ -357,9 +355,16 @@ Note that the number is a hierarchical number, with alternating digits and
 letters. We strip the `.`s. The number is used to group the lines into *cases*,
 see below.
 
-Like the numbers of columns, line numbers may have a `'` at the end. In the
+Like the numbers of columns, case numbers may have a `'` at the end. In the
 presence of a prime, we add to the *line* a feature *countPresent* with value
 `1`.
+
+We store the full hierarchical number of the "terminal" cases (the ones
+without sub-cases) in the feature *fullNumber*.
+
+We store the individual number parts in the feature *number*,
+These are the parts that distinguish the sub-cases within
+their containing case.
 
 ### Crossrefs ###
 
@@ -440,6 +445,11 @@ A node of type *line* corresponds to all cases whose numbers start with the same
 decimal number.
 
 **This node type is section level 3.**
+
+If we encounter a line without a preceding *column* specifier (see below), we proceed as if we
+have seen a `@column 0`.
+
+The number of a line is always a single number, without a hierarchical structure.
 
 Column
 ------
@@ -560,4 +570,4 @@ Warning
 In order to produce transcribed text you cannot rely on features of slots alone.
 Unless we make an artificial suffix feature, containing all transcription text
 between a sign and the next one. Alternatively, we could reproduce transcription
-text by walking down the quad and subquad nodes.
+text by walking down the quad nodes.
