@@ -4,8 +4,26 @@ from glob import glob
 
 
 class Compare(object):
-    def __init__(self, sourceDir):
+    def __init__(self, sourceDir, tempDir):
         self.sourceDir = sourceDir
+        self.tempDir = tempDir
+        os.makedirs(tempDir, exist_ok=True)
+
+    def writeFreqs(self, fileName, data, dataName):
+        print(f'There are {len(data)} {dataName}s')
+
+        for (sortName, sortKey) in (
+            ('alpha', lambda x: (x[0], -x[1])),
+            ('freq', lambda x: (-x[1], x[0])),
+        ):
+            with open(
+                f'{self.tempDir}/{fileName}-{sortName}.txt', 'w'
+            ) as fh:
+                for (item, freq) in sorted(
+                    data, key=sortKey
+                ):
+                    if item != '':
+                        fh.write(f'{freq:>5} x {item}\n')
 
     def readCorpora(self):
         files = glob(f'{self.sourceDir}/*.txt')

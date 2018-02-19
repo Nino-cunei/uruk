@@ -27,6 +27,7 @@ SHOWCASES = set(
     P004639
     P006284
     P006427
+    P411604
     P411610
     P448701
 '''.strip().split()
@@ -1022,9 +1023,9 @@ def makeTf(tablets):
             if op is not None:
                 edgeFeaturesV['op'][(prevType, prevNode)][(nodeType,
                                                            curNode)] = op
-        doInfo(quad, curNode, nodeType)
         context.append((nodeType, curNode))
         if 'quads' in quad:
+            doInfo(quad, curNode, nodeType)
             (pQuad, pType, pNode) = (None, None, None)
             for (iq, iquad) in enumerate(quad['quads']):
                 (pType, pNode) = doQuad(iq, iquad, pQuad, pType, pNode)
@@ -1040,6 +1041,7 @@ def makeTf(tablets):
         curSlot += 1
         ft = 'grapheme'
         nodeFeatures[ft][(nodeType, curSlot)] = sign[ft]
+        doInfo(sign, curSlot, nodeType)
         for (nt, curNode) in context:
             oSlots[(nt, curNode)].add(curSlot)
 
