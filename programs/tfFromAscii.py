@@ -61,6 +61,9 @@ REPO_DIR = os.path.expanduser(f'~/github/Dans-labs/{REPO}')
 SOURCE_DIR = f'{REPO_DIR}/sources/{ORIGIN}'
 TEMP_DIR = f'{REPO_DIR}/_temp'
 DEBUG_FILE = f'{TEMP_DIR}/cldi_uruk.txt'
+REPORT_DIR = f'{REPO_DIR}/reports'
+ERROR_FILE = f'{REPORT_DIR}/errors.csv'
+DIAG_FILE = f'{REPORT_DIR}/diagnostics.csv'
 TF_BASE = TEMP_DIR if tfInTemp else REPO_DIR
 TF_DIR = f'{TF_BASE}/tf/{CORPUS}/{VERSION}'
 
@@ -79,7 +82,8 @@ SHOWCASES = set(
     P006427
     P006437
     P252175
-    P325218
+    P283915
+    P325228
     P411604
     P411610
     P448701
@@ -216,24 +220,23 @@ HEAD_CHARS = set('''
 '''.strip().split())
 
 TWEAK_HEADS = (
-    ('@columm', '@column', 'Typo in column specifier: @columm'),
-    ('@column3', '@column 3', 'Typo in column specifier: @column 3'),
+    ('@columm', '@column'),
+    ('@column3', '@column 3'),
 )
 
 TWEAK_MATERIAL = (
-    ('4"', "4'", 'Strange double prime'),
-    ('[,', '', 'Strange comma'),
-    ('SA|L', 'SAL|', 'Inversion "SA|L"'),
-    ('~x(', '~x (', 'Juxtaposed quads'),
-    (')|U', ') |U', 'Juxtaposed quads'),
-    ('1N(02)', '1(N02)', 'N outside brackets'),
-    ('(1N', '1(N', 'repeat inside brackets'),
-    ('~A', '~a', 'variant with capital letter: ~A'),
-    ('{', '(', 'wrong opening bracket {'),
-    ('}', ')', 'wrong closing bracket {'),
-    ('sag-apin', 'sag-apin', 'strange character "-"'),
+    ('4"', "4'"),
+    ('[,', ''),
+    ('SA|L', 'SAL|'),
+    ('~x(', '~x ('),
+    (')|U', ') |U'),
+    ('1N(02)', '1(N02)'),
+    ('(1N', '1(N'),
+    ('~A', '~a'),
+    ('{', '('),
+    ('}', ')'),
+    ('sag-apin', 'sag-apin'),
 )
-TWEAK_LINES = ()
 
 linePat = re.compile("([0-9a-zA-Z.'-]+)\s*(.*)")
 numPartsPat = re.compile('([0-9-]+|[a-zA-Z]+)')
@@ -255,46 +258,45 @@ operatorPat = re.compile(f'[{"".join(OPERATORS)}]')
 
 pp = pprint.PrettyPrinter(indent=2, width=100, compact=False)
 
-for cdir in (TEMP_DIR, TF_DIR):
+for cdir in (TEMP_DIR, REPORT_DIR, TF_DIR):
     os.makedirs(cdir, exist_ok=True)
 
 
 def readCorpora():
     files = glob(f'{SOURCE_DIR}/*.txt')
-    nLines = 0
+    tablets = set()
     for f in files:
+        skipTablet = False
+        curTablet = ''
         (dirF, fileF) = os.path.split(f)
-        (corpus, ext) = os.path.splitext(fileF)
-        print(f'Corpus "{corpus}" ...')
+        (period, ext) = os.path.splitext(fileF)
         with open(f) as fh:
             for (ln, line) in enumerate(fh):
-                nLines += 1
-                yield (corpus, ln + 1, line.rstrip('\n'))
-        print(f'\t{nLines:>7} lines')
+                line = line.rstrip('\n')
+                if len(line) and line[0] == '&':
+                    comps = line[1:].split('=', 1)
+                    curTablet = comps[0].strip()
+                    if curTablet in tablets:
+                        skipTablet = True
+                    else:
+                        skipTablet = False
+                    tablets.add(curTablet)
+                yield (skipTablet, period, curTablet, ln + 1, line)
 
 
-errors = {}
-diags = {}
+errors = []
+diags = []
 
 
-def error(key, p, curTablet):
-    errors.setdefault(key, []).append(
-        '{}.{} ({}): {}'.format(
-            p[0], p[1], curTablet.get('catalogId', ''), p[2]
-        )
-    )
+def error(msg, info, p):
+    errors.append((msg, info, p))
 
 
-def diag(key, p, curTablet):
-    diags.setdefault(key, []).append(
-        '{}.{} ({}): {}'.format(
-            p[0], p[1], curTablet.get('catalogId', ''), p[2]
-        )
-    )
+def diag(msg, info, p):
+    diags.append((msg, info, p))
 
 
 def parseCorpora():
-    corpora = collections.OrderedDict()
     tablets = []
     tabletIndex = {}
     curTablet = None
@@ -304,61 +306,58 @@ def parseCorpora():
     curNums = None
     curLine = None
     prevNum = None
-    skipTablet = False
-    prevCorpus = None
+    prevPeriod = None
 
     for p in readCorpora():
-        (corpus, ln, line) = p
-        if corpus != prevCorpus:
+        (skip, period, tablet, ln, line) = p
+        if period != prevPeriod:
+            print(f'{period:<10} at tablet {len(tablets):>5}')
             curTablet = None
             curFace = None
             curColumn = None
             curNums = None
             curLine = None
             prevNum = None
-            if prevCorpus is not None:
-                corpora[prevCorpus]['to'] = len(tablets)
-            corpora[corpus] = {'from': len(tablets)}
-        prevCorpus = corpus
+        prevPeriod = period
         if len(line) == 0:
             continue
         fc = line[0]
         if len(line) == 1:
-            if fc != ' ':
-                error('Single character line', p, curTablet or {})
+            if not skip:
+                if fc != ' ':
+                    error('line: single character', '', p)
             continue
         if fc in HEAD_CHARS:
-            for (pat, rep, msg) in TWEAK_HEADS:
+            for (pat, rep) in TWEAK_HEADS:
                 if line.startswith(pat):
-                    diag(msg, p, curTablet)
+                    diag('tweak', f'"{pat}" => "{rep}"', p)
                     line = line.replace(pat, rep)
         sc = line[1]
         if fc == '&':
             comps = line[1:].split('=', 1)
-            skipTablet = False
             if len(comps) == 1:
-                error('tablet name malformed', p, curTablet or {})
-                tNum = f'{corpus}.{ln}'
+                error('tablet: malformed name', '', p)
+                tNum = f'{period}.{ln}'
                 tName = tNum
             else:
                 tNum = comps[0].strip()
                 tName = comps[1].strip()
             if tNum in tabletIndex:
-                prevLn = tablets[tabletIndex[tNum]]['srcLn']
-                msg = 'skipped latter one'
+                (prevPeriod, prevLn) = tabletIndex[tNum]
                 diag(
-                    f'tablet number duplicate, see line {prevLn} => {msg}', p,
-                    curTablet or {}
+                    'tablet: duplicate name => skipped',
+                    f'first one is {prevPeriod}:{prevLn}', p
                 )
-                skipTablet = True
             else:
                 if len(tablets) == LIMIT:
                     break
+                if skip:
+                    continue
                 curTablet = {
                     'catalogId': tNum,
                     'name': tName,
                     'faces': [],
-                    'period': corpus,
+                    'period': period,
                     'srcLn': line,
                     'srcLnNum': ln,
                 }
@@ -368,21 +367,21 @@ def parseCorpora():
                 curNums = None
                 curLine = None
                 prevNum = None
-                tabletIndex[tNum] = len(tablets)
+                tabletIndex[tNum] = (period, ln)
                 tablets.append(curTablet)
         elif fc == '@':
-            if skipTablet:
+            if skip:
                 continue
-            kind = line[1:].strip()
-            if kind == 'tablet':
+            kindStr = line[1:].strip()
+            if kindStr == 'tablet':
                 pass
             else:
-                comps = kind.split(maxsplit=1)
+                comps = kindStr.split(maxsplit=1)
                 kind = comps[0]
                 ident = comps[1] if len(comps) > 1 else None
                 if kind in FACES:
                     if curTablet is None:
-                        error('face outside tablet', p, curTablet or {})
+                        error('face: outside tablet', f'@{kindStr}', p)
                     else:
                         curFace = {
                             'type': kind,
@@ -401,9 +400,9 @@ def parseCorpora():
                         prevNum = None
                 elif kind == 'object':
                     if curTablet is None:
-                        error('object outside tablet', p, curTablet or {})
+                        error('object: outside tablet', f'@{kindStr}', p)
                     elif curFace is not None:
-                        error('object within face', p, curTablet or {})
+                        error('object: within face', f'@{kindStr}', p)
                     else:
                         curTablet.setdefault('comments', []).append({
                             'srcLn': line,
@@ -411,7 +410,7 @@ def parseCorpora():
                         })
                 elif kind == 'fragment':
                     if curTablet is None:
-                        error('fragment outside tablet', p, curTablet or {})
+                        error('fragment: outside tablet', f'@{kindStr}', p)
                     else:
                         curFragment = ident
                 else:
@@ -423,11 +422,12 @@ def parseCorpora():
                             colNum = colNum.replace("'", '')
                         if curFace is None:
                             diag(
-                                'column outside face => inserted "@obverse"',
-                                p, curTablet or {}
+                                'column: outside face => inserted "@noface"',
+                                f'@{kindStr}',
+                                p,
                             )
                             curFace = {
-                                'type': 'obverse',
+                                'type': 'noface',
                                 'columns': [],
                                 'srcLn': line,
                                 'srcLnNum': ln,
@@ -447,18 +447,15 @@ def parseCorpora():
                         curLine = None
                         prevNum = None
                         if countPresent:
-                            curColumn['countPresent'] = countPresent
+                            curColumn['prime'] = 1
                         curFace['columns'].append(curColumn)
                     else:
-                        error(f'Face unknown: "{kind}"', p, curTablet or {})
+                        error('@specifier: unknown', f'@{kindStr}', p)
         elif fc == '>' and sc == '>':
-            if skipTablet:
+            if skip:
                 continue
             if curLine is None:
-                error(
-                    'Cross reference without preceding line', p, curTablet
-                    or {}
-                )
+                error('crossref: no line before', '', p)
             else:
                 comps = line[2:].split(maxsplit=2)
                 doc = comps[0].strip()
@@ -470,7 +467,7 @@ def parseCorpora():
                     docFlag and ' ' in docFlag or
                     docFlag and docFlag != '?'
                 ):
-                    error('Malformed cross reference', p, curTablet or {})
+                    error('crossref: malformed', '', p)
                 else:
                     docLine = '' if docLine is None else f'.{docLine}'
                     docFlag = '' if docFlag is None else f':{docFlag}'
@@ -482,31 +479,27 @@ def parseCorpora():
                     )
                     curLine['crossref'] = newCrossref
         elif fc in COMMENTS:
-            if skipTablet:
+            if skip:
                 continue
             target = (
                 curLine if curLine else curColumn if curColumn else curFace
                 if curFace else curTablet
             )
             if target is None:
-                error('Comment outside tablet', p, curTablet or {})
+                error('comment: outside tablet', '', p)
             else:
                 target.setdefault('comments', []).append({
                     'srcLn': line,
                     'srcLnNum': ln,
                 })
         else:
-            if skipTablet:
+            if skip:
                 continue
-            # tweak
-            for (pat, rep, msg) in TWEAK_LINES:
-                if line.startswith(pat):
-                    diag(msg, p, curTablet)
-                    line = line.replace(pat, rep, 1)
             if curColumn is None:
                 diag(
-                    f'Line outside column => inserted "@column 0"', p,
-                    curTablet or {}
+                    'line: outside column => inserted "@column 0"',
+                    '',
+                    p,
                 )
                 curColumn = {
                     'number': '0',
@@ -520,7 +513,7 @@ def parseCorpora():
                 prevNum = None
             match = linePat.match(line)
             if match is None:
-                diag('Missing line number', p, curTablet or {})
+                diag('line: missing number', '', p)
                 lineNumber = incNum(prevNum)
                 prevNum = lineNumber
                 material = line
@@ -534,14 +527,15 @@ def parseCorpora():
                 lineNumber = lineNumber.replace("'", '')
             if lineNumber in curNums:
                 error(
-                    f'Duplicate line number "{lineNumber}" in column', p,
-                    curTablet or {}
+                    'line: duplicate number in column',
+                    f'"{lineNumber}"',
+                    p,
                 )
-            if fc in LOWER:
-                diag('Line number starting with a-z', p, curTablet or {})
-            elif fc in UPPER:
-                diag('Line number starting with A-Z', p, curTablet or {})
-            quads = parseLine(material, p, curTablet)
+            if fc in LOWER or fc in UPPER:
+                diag(
+                    'line: number starting with a letter', f'"{lineNumber}"', p
+                )
+            quads = parseLine(material, p)
             curLine = {
                 'fullNumber': lineNumber,
                 'material': quads,
@@ -549,13 +543,11 @@ def parseCorpora():
                 'srcLnNum': ln,
             }
             if countPresent:
-                curLine['countPresent'] = countPresent
+                curLine['prime'] = 1
             curColumn['lines'].append(curLine)
-    corpora[prevCorpus]['to'] = len(tablets) - 1
+    print(f'{"total":<10} at tablet {len(tablets):>5}')
 
     casify(tablets)
-
-    print(f'Parsed {len(tablets)} tablets')
 
     printErrors(diags, diag=True)
     printErrors(errors)
@@ -574,11 +566,11 @@ def writtenEscapeRepl(match):
     return f'!◀{match.group(1)}▶'
 
 
-def parseLine(material, p, curTablet):
+def parseLine(material, p):
     # tweak
-    for (pat, rep, msg) in TWEAK_MATERIAL:
+    for (pat, rep) in TWEAK_MATERIAL:
         if pat in material:
-            diag(msg, p, curTablet)
+            diag('tweak', f'"{pat}" => "{rep}"', p)
             material = material.replace(pat, rep)
     # remove the commas and transform the numerals
     material = stripCommas.sub(' ', material)
@@ -619,32 +611,28 @@ def parseLine(material, p, curTablet):
                 cType = CLUSTER_TYPE[lqo]
                 start = startPoints.get(lqo, None)
                 if start is None:
-                    msg = 'Cluster ending in'
                     error(
-                        f'{msg} {lq} misses {lqo} fq={fq} lq={lq}',
+                        'cluster: missing open bracket',
+                        f'{lq} misses {lqo}',
                         p,
-                        curTablet or {},
                     )
                 else:
                     clusters.append((cType, start, q))
                     del startPoints[lqo]
             if rest == '':
                 stop = True
-        # (rest, quadInfo) = getPieceInfo(rest, p, curTablet)
-        # newQuad = parseQuad(rest, p, curTablet)
-        # if quadInfo:
-        #    newQuad.setdefault('info', {}).update(quadInfo)
         quadInfo = {}
         if rest.startswith('|'):
-            (rest, quadInfo) = getPieceInfo(rest, p, curTablet)
-        newQuad = parseQuad(rest, p, curTablet)
+            (rest, quadInfo) = getPieceInfo(rest, p)
+        newQuad = parseQuad(rest, p)
         if quadInfo:
             newQuad.setdefault('info', {}).update(quadInfo)
         newQuads.append(newQuad)
     if startPoints:
         error(
-            f'Unterminated cluster(s): {sorted(startPoints.items())}', p,
-            curTablet or {}
+            'cluster: missing closing bracket(s)',
+            f'{sorted(startPoints.items())}',
+            p,
         )
 
     result = {'quads': newQuads}
@@ -653,7 +641,7 @@ def parseLine(material, p, curTablet):
     return result
 
 
-def getPieceInfo(piece, p, curTablet, empty_ok=False):
+def getPieceInfo(piece, p, empty_ok=False):
     base = piece
     pieceInfo = dict()
 
@@ -664,21 +652,22 @@ def getPieceInfo(piece, p, curTablet, empty_ok=False):
         if splits:
             items = pieceInfo.setdefault('flags', {})
             (base, itemStr) = splits[0]
+            msg = 'flag: repeated'
             if itemStr == '#':
                 if 'damage' in items:
-                    error(f'Flag "#" repeated', p, curTablet)
+                    error(msg, '#', p)
                 items['damage'] = 1
             elif itemStr == '?':
                 if 'uncertain' in items:
-                    error(f'Flag "?" repeated', p, curTablet)
+                    error(msg, '?', p)
                 items['uncertain'] = 1
             elif itemStr.startswith('!'):
                 if 'remarkable' in items:
-                    error(f'Flag "!" repeated', p, curTablet)
+                    error(msg, '!', p)
                 items['remarkable'] = 1
                 if len(itemStr) > 1:
                     if 'written' in items:
-                        error(f'Flag "!()" repeated', p, curTablet)
+                        error(msg, itemStr, p)
                     items['written'] = itemStr[2:-1]
             continue
 
@@ -688,10 +677,10 @@ def getPieceInfo(piece, p, curTablet, empty_ok=False):
             items = pieceInfo.setdefault('modifiers', set())
             (base, itemStr) = splits[0]
             if itemStr not in MODIFIERS:
-                error(f'Modifier "@{itemStr}" unknown', p, curTablet)
+                error('modifier: unknown', itemStr, p)
             else:
                 if itemStr in items:
-                    error(f'Modifier "@{itemStr}" repeated', p, curTablet)
+                    error(f'modifier: repeated', itemStr, p)
                 items.add(itemStr)
             continue
 
@@ -701,7 +690,7 @@ def getPieceInfo(piece, p, curTablet, empty_ok=False):
             items = pieceInfo.setdefault('variants', set())
             (base, itemStr) = splits[0]
             if itemStr in items:
-                diag(f'Variant "~{itemStr}" repeated', p, curTablet)
+                diag('variant: repeated', f'~{itemStr}', p)
             items.add(itemStr)
             continue
 
@@ -709,7 +698,7 @@ def getPieceInfo(piece, p, curTablet, empty_ok=False):
         if base != '' and base[-1] == "'":
             base = base[0:-1]
             if 'prime' in pieceInfo:
-                error(f'Prime repeated', p, curTablet)
+                error(f'prime: repeated', f"{base}'", p)
             pieceInfo['prime'] = 1
             continue
 
@@ -717,32 +706,32 @@ def getPieceInfo(piece, p, curTablet, empty_ok=False):
 
     if not empty_ok:
         if base == '':
-            error(f'Empty grapheme', p, curTablet)
+            error(f'grapheme: empty', '', p)
     return (base, pieceInfo)
 
 
-def parseQuad(quad, p, curTablet):
+def parseQuad(quad, p):
     base = quad
     if base != '':
         if base[0] == '|':
             if len(base) == 1:
-                error('Empty quad "|"', p, curTablet)
+                error('quad: empty', '"|"', p)
                 base = ''
             else:
                 if base[-1] == '|':
                     if len(base) == 2:
-                        error('Empty quad "||"', p, curTablet)
+                        error('quad: empty', '"||"', p)
                         base = ''
                     else:
                         base = base[1:-1]
                 else:
-                    error('Quad not terminated with "|"', p, curTablet)
+                    error('quad: missing end "|"', base, p)
                     base = base[1:]
         else:
             if base[-1] == '|':
-                diag('Quad does not start with "|"', p, curTablet)
+                diag('quad: missing start "|"', base, p)
                 base = base[0:-1]
-    struct = quadStructure(base, p, curTablet)
+    struct = quadStructure(base, p)
     return struct
 
 
@@ -750,9 +739,8 @@ def parseTerminal(string):
     return [] if string == '' else [string]
 
 
-def parseBrackets(string, fromPos, wantClose):
+def parseBrackets(string, fromPos, wantClose, p):
     result = []
-    errors = []
     stop = False
     ls = len(string)
     while fromPos < ls and not stop:
@@ -778,43 +766,39 @@ def parseBrackets(string, fromPos, wantClose):
                 pb = string[0:firstBracket]
                 pB = string[firstBracket]
                 pa = string[firstBracket + 1:]
-                errors.append(f'Extra ")" in "{pb}▶{pB}◀{pa}"')
+                error('quad: extra ")"', f'"{pb}▶{pB}◀{pa}"', p)
             fromPos = firstBracket + 1
         elif bracket == '(':
-            (subResult, fromPos, subErrors) = parseBrackets(
+            (subResult, fromPos) = parseBrackets(
                 string,
                 firstBracket + 1,
                 True,
+                p,
             )
             result.append(subResult)
-            errors.extend(subErrors)
         else:
             fromPos = ls
     if wantClose:
+        msg = 'quad: missing ")"'
         if fromPos >= ls:
-            errors.append(f'Missing ")" after "{string}▲"')
+            error(msg, f'after "{string}▲"', p)
         elif string[fromPos] != ')':
-            errors.append(
-                f'Missing ")" in "{string[0:fromPos]}▲{string[fromPos:]}"',
-            )
+            error(msg, f'in "{string[0:fromPos]}▲{string[fromPos:]}"')
         else:
             fromPos += 1
-    return (result, fromPos, errors)
+    return (result, fromPos)
 
 
-def quadStructure(string, p, curTablet):
-    (result, restPos, errors) = parseBrackets(string, 0, False)
+def quadStructure(string, p):
+    (result, restPos) = parseBrackets(string, 0, False, p)
     if restPos < len(string):
         pb = string[0:restPos]
         pa = string[restPos:]
-        errors.append(f'Trailing characters in "{pb}▲{pa}"')
-    if errors:
-        errorStr = '\n\t\t'.join(errors)
-        error(f'bracket error in quad:\n\t\t{errorStr}', p, curTablet or {})
-    return transformQuad(result, p, curTablet)
+        error('quad: trailing characters', f'"{pb}▲{pa}"', p)
+    return transformQuad(result, p)
 
 
-def transformQuad(quads, p, curTablet):
+def transformQuad(quads, p):
     dest = []
     for quad in quads:
         if type(quad) is str:
@@ -826,7 +810,6 @@ def transformQuad(quads, p, curTablet):
                 (base, info) = getPieceInfo(
                     sign,
                     p,
-                    curTablet,
                     empty_ok=True,
                 )
                 k += len(sign)
@@ -844,12 +827,12 @@ def transformQuad(quads, p, curTablet):
                         (base, rInfo) = getPieceInfo(
                             base,
                             p,
-                            curTablet,
                         )
                     if '«' in base or '»' in base:
                         error(
-                            'Incomplete recognition of escaped repeats:'
-                            f' "{sign}" => "{base}"', p, curTablet
+                            'grapheme: repeat not recognized',
+                            f' "{sign}" => "{base}"',
+                            p,
                         )
                     signData['grapheme'] = base
                     info.update(rInfo)
@@ -865,7 +848,7 @@ def transformQuad(quads, p, curTablet):
                 else:
                     dest.append({'quads': signDatas})
         else:
-            subQuad = transformQuad(quad, p, curTablet)
+            subQuad = transformQuad(quad, p)
             dest.append(subQuad)
     result = (dest[0] if len(dest) == 1 else {'quads': dest})
     return result
@@ -878,40 +861,68 @@ def incNum(x):
 def casify(tablets):
     for tablet in tablets:
         curTablet = tablet
+        tabletName = tablet.get('catalogId', '')
         for face in tablet.get('faces', []):
             for column in face.get('columns', []):
                 lines = column.get('lines', None)
                 if lines is not None:
-                    (cases, badNumbering) = putInCases(lines, curTablet)
+                    (cases, badNumbering,
+                     badNumbers) = putInCases(lines, curTablet)
                     if badNumbering:
-                        column['badNumbering'] = 1
+                        column['badNumbering'] = badNumbering
                         srcLn = column['srcLnNum']
                         srcLine = column['srcLn']
                         period = curTablet.get('period', None)
+                        info = (
+                            'duplicates'
+                            if badNumbering == 1 else 'wrong order'
+                            if badNumbering == 2 else 'unspecified'
+                        )
                         diag(
-                            'bad numbering in column',
-                            (period, srcLn, srcLine), curTablet
+                            f'column: numbering: {info}', badNumbers,
+                            (False, period, tabletName, srcLn, srcLine)
                         )
                     column['lines'] = cases
 
 
+def numVal(n):
+    if n.isdigit():
+        return f'{int(n):0>7.1f}'
+    comps = n.split('-', 1)
+    if len(comps) == 2:
+        (n1, n2) = comps
+        if n1.isdigit() and n2.isdigit():
+            return f'{(int(n1) + int(n2))/2:0>7.1f}'
+        else:
+            return n
+    else:
+        return n
+
+
+def hKey(numParts):
+    return tuple(numVal(n) for n in numParts)
+
+
 def putInCases(lines, curTablet):
     cases = collections.OrderedDict()
-    badNumbering = False
+    badNumbering = 0
     numbers = []
+    badNumbers = None
     for line in lines:
         numParts = numPartsPat.findall(line['fullNumber'])
         if len(numParts):
             numbers.append(tuple(numParts))
         else:
-            numbers.append(())
+            numbers.append(('', ))
         badNumbering = (
-            len(set(numbers)) != len(numbers) or
-            numbers != sorted(numbers)
+            1 if len(set(numbers)) != len(numbers) else 2
+            if numbers != sorted(numbers, key=hKey) else 0
         )
+        if badNumbering:
+            badNumbers = ', '.join('.'.join(num) for num in numbers)
     if badNumbering:
         for (i, line) in enumerate(lines):
-            cases[i] = line
+            cases[str(i + 1)] = line
     else:
         for line in lines:
             numParts = numPartsPat.findall(line['fullNumber'])
@@ -927,7 +938,7 @@ def putInCases(lines, curTablet):
                 target[lastPart] = line
             else:
                 cases[''] = line
-    return (cases, badNumbering)
+    return (cases, badNumbering, badNumbers)
 
 
 def reshapeTarget(target, curTablet):
@@ -938,10 +949,12 @@ def reshapeTarget(target, curTablet):
         # 1b material 1b
         srcLn = target['srcLnNum']
         srcLine = target['srcLn']
-        period = curTablet.get('period', None)
+        period = curTablet.get('period', '')
+        tabletName = curTablet.get('catalogId', '')
         diag(
-            'case with sub-cases has material', (period, srcLn, srcLine),
-            curTablet
+            'case: has sub-cases AND material',
+            '',
+            (False, period, tabletName, srcLn, srcLine),
         )
         existing = {}
         existing.update(target)
@@ -960,21 +973,40 @@ def debugResults(tablets):
 
 
 def printErrors(errors, diag=False):
-    limit = 5
+    fileName = DIAG_FILE if diag else ERROR_FILE
     ErrorStr = 'Diagnostic' if diag else 'Error'
     errorStr = 'diagnostic' if diag else 'error'
+    ErrorsStr = f'{ErrorStr}s'
     errorsStr = f'{errorStr}s'
     if not errors:
         print(f'OK, no {errorsStr}')
     else:
-        for (key, ps) in sorted(
-            errors.items(), key=lambda x: (-len(x[1]), x[0])
-        ):
-            print(f'{ErrorStr} {key} ({len(ps)}x)')
-            for p in ps[0:limit]:
-                print(f'\t{p}')
-            if limit < len(ps):
-                print(f'\tand {len(ps) - limit} more')
+        errorGroups = {}
+        for (msg, info, p) in errors:
+            errorGroups.setdefault(msg, []).append((p, info))
+        print(f'{ErrorsStr}')
+        fieldNames = '''
+            skip
+            period
+            tablet
+            ln
+            line
+            msg
+            info
+        '''.strip().split()
+        nFields = len(fieldNames)
+        fmt = ('{}\t' * (nFields - 1)) + '{}\n'
+        total = 0
+        with open(fileName, 'w') as fh:
+            fh.write(fmt.format(*fieldNames))
+            for (msg, data) in sorted(
+                errorGroups.items(), key=lambda x: (-len(x[1]), x[0])
+            ):
+                total += len(data)
+                for (p, info) in data:
+                    fh.write(fmt.format(*p, msg, info))
+                print(f'\t{len(data):>4} x {msg}')
+        print(f'{total} {errorsStr}')
 
 
 def makeTf(tablets):
@@ -1042,6 +1074,7 @@ def makeTf(tablets):
         curNode = cur[nodeType]
         for ft in '''
             number
+            prime
             badNumbering
             srcLn
             srcLnNum
@@ -1087,6 +1120,7 @@ def makeTf(tablets):
         curNode = cur[nodeType]
         for ft in '''
             fullNumber
+            prime
             srcLn
             srcLnNum
         '''.strip().split():
