@@ -62,8 +62,8 @@ SOURCE_DIR = f'{REPO_DIR}/sources/{ORIGIN}'
 TEMP_DIR = f'{REPO_DIR}/_temp'
 DEBUG_FILE = f'{TEMP_DIR}/cldi_uruk.txt'
 REPORT_DIR = f'{REPO_DIR}/reports'
-ERROR_FILE = f'{REPORT_DIR}/errors.csv'
-DIAG_FILE = f'{REPORT_DIR}/diagnostics.csv'
+ERROR_FILE = f'{REPORT_DIR}/errors.tsv'
+DIAG_FILE = f'{REPORT_DIR}/diagnostics.tsv'
 TF_BASE = TEMP_DIR if tfInTemp else REPO_DIR
 TF_DIR = f'{TF_BASE}/tf/{CORPUS}/{VERSION}'
 
@@ -1000,7 +1000,7 @@ def printErrors(errors, diag=False):
         with open(fileName, 'w') as fh:
             fh.write(fmt.format(*fieldNames))
             for (msg, data) in sorted(
-                errorGroups.items(), key=lambda x: (-len(x[1]), x[0])
+                errorGroups.items(), key=lambda x: (len(x[1]), x[0])
             ):
                 total += len(data)
                 for (p, info) in data:

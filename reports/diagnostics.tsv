@@ -1,4 +1,191 @@
 skip	period	tablet	ln	line	msg	info
+False	uruk-iii	P464196	55648	@column 1 	column: outside face => inserted "@noface"	@column 1
+False	uruk-iii	P387747	52806	2.a. 1(N01) , UDUNITA~a IDIN+1(N57)| 	quad: missing start "|"	IDIN+«1=N57»|
+True	uruk-iii	P002176	4599	&P002176 = ATU 6, pl. 51, W 14731,ag8 	tablet: duplicate name => skipped	first one is uruk-iii:4273
+True	uruk-iii	P252175	72230	&P252175 = MS 3164 	tablet: duplicate name => skipped	first one is uruk-iii:72209
+False	uruk-iii	P325228	44706	@column 1	column: numbering: duplicates	1, 1, 2.a, 2.b.1, 2.b.2, 3
+False	uruk-iii	P328738	45198	@column 2	column: numbering: duplicates	1, 2, 1
+False	uruk-iii	P253961	74528	@column 2 	column: numbering: duplicates	1, 1, 1, 1
+False	uruk-iii	P002090	4346	[...] KAL~b2? BU~a# [...]	line: missing number	
+False	uruk-iii	P006268	43298	|1(N58).BAD~a| SI AN AD~a GIR~a 	line: missing number	
+False	uruk-iii	P005075	74951	|1(N58).BAD~a| [...]	line: missing number	
+False	uruk-iii	P005335	80136	|1(N58).BAD~a|	line: missing number	
+False	uruk-iii	P387519	51067	1. 1(N01) , KASZ~c TUG2~a~a DU 	variant: repeated	~a
+False	uruk-iii	P250450	51728	3.b. , TUG2~a~a BUR2 	variant: repeated	~a
+False	uruk-iii	P250450	51730	4.b. , TUG2~a~a BUR2 	variant: repeated	~a
+False	uruk-iii	P231784	52378	2. [...] 3(N01)# , EN~a#? TUG2~a~a? 	variant: repeated	~a
+False	uruk-iii	P433193	55167	3. , SAG TUG2~a~a 	variant: repeated	~a
+False	uruk-iii	P464197	55874	1.c3. 2(N14) , GAR SAG TUG2~a~a 	variant: repeated	~a
+False	uruk-iii	P464118	16798	43. SANGA~a |ZATU737+SA|L 	tweak	"SA|L" => "SAL|"
+False	uruk-iii	P471682	24111	71. GA~a 1N(02) X AMAR 	tweak	"1N(02)" => "1(N02)"
+False	uruk-iii	P471693	27953	30. |DUG~b+{SZE~a+NAM2}| 	tweak	"{" => "("
+False	uruk-iii	P471693	27953	30. |DUG~b+{SZE~a+NAM2}| 	tweak	"}" => ")"
+False	uruk-iii	P252184	37546	1'. [1(N01)] , X GIR2~A# 	tweak	"~A" => "~a"
+False	uruk-iii	P252184	37626	15'. (1N01) , X X KI 	tweak	"(1N" => "1(N"
+False	uruk-iii	P000034	37800	1'. [, [...] X 	tweak	"[," => ""
+False	uruk-iii	P456183	40341	3. ENLIL~x(|EN~c.NUN~a|) 	tweak	"~x(" => "~x ("
+False	uruk-iii	P411604	48967	3.b. 3(N41) 1(N24")# , [TAR~a] 	tweak	"4"" => "4'"
+False	uruk-iii	P006396	53829	1.b2. 2(N01) 2(N39~a)|U4x2(N01)| 1(N29~a) , |U4+1(N24)|#? 	tweak	")|U" => ") |U"
+False	uruk-iii	P006307	73420	9. 1(N01) , SZE~a EN~a sag-apin~a	tweak	"sag-apin" => "sag-apin"
+False	uruk-iii	P274471	74291	@columm 4 	tweak	"@columm" => "@column"
+False	uruk-iii	P274472	74311	@column3 	tweak	"@column3" => "@column 3"
+False	uruk-iii	P274472	74330	3'. , X SZE~A X 	tweak	"~A" => "~a"
+False	uruk-iii	P274472	74337	3'. 2(N39~A) HI@g# X 	tweak	"~A" => "~a"
+False	uruk-iii	P274472	74338	4'. 3(N39~A) X 	tweak	"~A" => "~a"
+False	uruk-iii	P004965	16376	@column 1	column: numbering: wrong order	1, 2, 3.a, 3.b.1, 3.b.10, 3.b.11, 3.b.12, 3.b.2, 3.b.3, 3.b.4, 3.b.5, 3.b.6, 3.b.7, 3.b.8, 3.b.9
+False	uruk-iii	P006380	44752	@column 2	column: numbering: wrong order	2.a, 2.b.1, 2.c.1.a, 2.c.1.b, 2.d.1, 2.e.1, 2.b.2, 2.c.2.a, 2.c.2.b, 2.d.2
+False	uruk-iii	P283915	44920	@column 2	column: numbering: wrong order	1, 2, 3, 
+False	uruk-iii	P325073	45029	@column 1	column: numbering: wrong order	1.a, 1, 2, 3
+False	uruk-iii	P325156	46077	@column 1	column: numbering: wrong order	1.a.1, 1.b.1, 1.c.1, 1.a.2, 2, 3.a.1, 3.b.1, 3.a.2, 4.a.1, 4.b.1, 4.a.2
+False	uruk-iii	P325065	47290	@column 1	column: numbering: wrong order	1.a, 1.b, 2.a, 2.b.1, 2.b.2, 3.a, 3.b, 3.c, 4.a, 4.b, 5.a, 5.b, 6.a, 6.b.1, 6.c.1, 6.b.2
+False	uruk-iii	P006350	48377	@column 2	column: numbering: wrong order	1.a.1, 1.b.1, 1.a.2, 2.a.1, 2.b.1, 2.a.2, 3.a.1, 3.b.1, 3.a.2
+False	uruk-iii	P411616	49113	1.a. 2(N01) , ZATU859 SZE~a SAL A 	column: numbering: wrong order	1.a, 1.b, 2.a, 2.b, 2
+False	uruk-iii	P464141	53805	@column 1 	column: numbering: wrong order	1.a, 1.b, 2.a, 2.b, 1.a.1, 1.b.1, 1.a.2
+False	uruk-iii	P006355	54172	@column 1 	column: numbering: wrong order	1.a.1, 1.b.1, 1.a.2, 2, 3
+False	uruk-iii	P006028	66341	@column 4	column: numbering: wrong order	1, 2, 3.a.1, 3.a.2, 5, 4, 6, 7, 3.b
+False	uruk-iii	P006031	66452	@column 1	column: numbering: wrong order	1.b, 1.a, 2.a, 2.b, 3.a, 3.b, 3.c.1, 3.c.2
+False	uruk-iii	P006040	66673	@column 3	column: numbering: wrong order	1, 2, 3, 4, 5, 6, 8, 7, 9, 10, 11, 12, 13, 14
+False	uruk-iii	P006080	68023	@column 1	column: numbering: wrong order	1.a, 1.b.2, 1.b.1, 2, 3
+False	uruk-iii	P006086	68216	@column 2	column: numbering: wrong order	1, 2, 4, 5, 3
+False	uruk-iii	P006087	68244	@column 1	column: numbering: wrong order	2.a, 2.b, 2.c, 2.d, 3, 4, 1
+False	uruk-iii	P006093	68344	@column 2 	column: numbering: wrong order	1.a, 1.b.1, 1.b.3, 1.b.2, 2.a, 2.b.1, 2.b.2, 2.b.3, 2.b.4, 3.a, 3.b.1, 3.b.2, 3.b.3, 4.a, 4.b.1, 4.b.2
+False	uruk-iii	P006105	68621	@column 1 	column: numbering: wrong order	1, 2, 3, 5, 4
+False	uruk-iii	P006133	69219	@column 2	column: numbering: wrong order	1, 2.a, 3.a, 2.b.1, 2.b.2, 2.b.3, 3.b.1, 3.b.2
+False	uruk-iii	P006155	69711	@column 2	column: numbering: wrong order	1.a, 2, 1.b
+False	uruk-iii	P006185	70462	@column 1	column: numbering: wrong order	1.a.2, 1.a.1, 1.a.3, 1.b.1, 1.b.2, 1.b.3, 2.a.1, 2.b.1, 2.b.2, 2.c.1, 2.c.2
+False	uruk-iii	P006216	71073	@column 1	column: numbering: wrong order	1.a, 2.a, 2.b, 1.b, 3.a, 3.b, 4.a, 4.b, 5.a, 5.b
+False	uruk-iii	P006236	71429	@column 1	column: numbering: wrong order	2, 1
+False	uruk-iii	P006271	72411	@column 2	column: numbering: wrong order	2.a, 2.b, 3, 1.a, 1.b
+False	uruk-iii	P006291	72958	@column 1	column: numbering: wrong order	1.a, 2.a, 3.a, 3.b, 1.b.1, 1.b.2, 2.b, 4.a, 4.b, 5.a, 5.b, 6.a, 6.b, 7.a, 7.b, 8.a, 8.b, 9.a, 9.b, 10.a, 10.b
+False	uruk-iii	P006317	73638	@column 1	column: numbering: wrong order	1.a.1, 1.a.2, 1.b, 2.a.1, 2.a.2, 2.b.1, 2.b.2, 3.a.1, 3.a.2, 3.b.1, 4.a.1, 4.a.2, 4.b.1, 4.b.2, 5.a.1, 5.a.2, 5.b, 6, 3.b.2
+False	uruk-iii	P002113	4701	1. 8(N01)# , SZITA~a1 EN~a [...] SAG	case: has sub-cases AND material	
+False	uruk-iii	P003380	7870	2. 4(N01) , SAG	case: has sub-cases AND material	
+False	uruk-iii	P004959	16313	2. 3(N14) , LAGAB~a HI@g~c SA~a ZATU702 UR2 GISZ PAP~a BU~a SZITA~a3 NAM2	case: has sub-cases AND material	
+False	uruk-iii	P471694	26297	70. BANSZUR~b1 GISZ 	case: has sub-cases AND material	
+False	uruk-iii	P471694	26301	71. GISZ AD~a 	case: has sub-cases AND material	
+False	uruk-iii	P471694	26313	76. GISZ SI KAK~a 	case: has sub-cases AND material	
+False	uruk-iii	P471688	31613	49. AN NU GIR~a 	case: has sub-cases AND material	
+False	uruk-iii	P471688	31631	56. ZATU777 SZE3 UDU~a 	case: has sub-cases AND material	
+False	uruk-iii	P325218	44787	1. 5(N34) 2(N14) 3(N01) , EN~a 1(N04) 	case: has sub-cases AND material	
+False	uruk-iii	P411610	49101	1. 5(N14)# 5(N01) 3(N39~a) 1(N24) , 	case: has sub-cases AND material	
+False	uruk-iii	P411623	49242	1. 1(N20)# 3(N05)# , HI~a@g# SZE~a IDIGNA KALAM~g EN~a AMA~a 	case: has sub-cases AND material	
+False	uruk-iii	P387723	51320	1. 2(N01) , |E2~bx1(N57@t)| 	case: has sub-cases AND material	
+False	uruk-iii	P387571	51332	1. 2(N01) , |E2~ax1(N57@t)| 	case: has sub-cases AND material	
+False	uruk-iii	P006381	53610	1. 4(N01)# 4(N39~a)# 1(N24) 1(N28) 2(N29~a) , [HI@g~a SZE~a] |U4.1(N08)|# 	case: has sub-cases AND material	
+False	uruk-iii	P006381	53611	1.a. 3(N01)# 1(N28) 1(N29~a) , HI@g~a 	case: has sub-cases AND material	
+False	uruk-iii	P006381	53614	1.b. 1(N01) 4(N39~a) 1(N24) 1(N29~a) , [SZE~a] 	case: has sub-cases AND material	
+False	uruk-iii	P006381	53617	2. 4(N01) 4(N39~a) 1(N28) , HI@g~a SZE~a |U4.2(N08)| 	case: has sub-cases AND material	
+False	uruk-iii	P006386	54219	1. 1(N34) , LAGAB~b KASZ~a 	case: has sub-cases AND material	
+False	uruk-iii	P006387	55462	1. [...] UR~a ZATU756 [...] 	case: has sub-cases AND material	
+False	uruk-iii	P464200	55956	1. 1(N45)#? 2(N34) , UDU~a |DU8~cxUDU~a| 	case: has sub-cases AND material	
+False	uruk-iii	P002268	56517	1. [...] , SZAKIR~c#? ZATU752	case: has sub-cases AND material	
+False	uruk-iii	P002821	58411	1. 5(N48) 5(N34) , DARA4~c1	case: has sub-cases AND material	
+False	uruk-iii	P002821	58420	2. 2(N34)# 3(N14) , X [...]	case: has sub-cases AND material	
+False	uruk-iii	P004670	59875	2. 5(N01) , GAN~c#	case: has sub-cases AND material	
+False	uruk-iii	P003616	61451	1. [...] 3(N01) , [...]	case: has sub-cases AND material	
+False	uruk-iii	P003968	63008	1. [...] , [...]	case: has sub-cases AND material	
+False	uruk-iii	P006036	66560	2.b1. 2(N01)# , NUN~a# ZATU687 EN~a# EN~a#? TUR 	case: has sub-cases AND material	
+False	uruk-iii	P006036	66563	2.b2. 4(N01)# , EN~a# X KI ZATU687# AN# 	case: has sub-cases AND material	
+False	uruk-iii	P006308	73487	4. 2(N01)# , PA~a# GU4	case: has sub-cases AND material	
+False	uruk-iii	P005147	76007	3. , SANGA~a# KU6~a#	case: has sub-cases AND material	
+False	uruk-iii	P005246	78386	1. 1(N14)# 4(N01)# , X X ZATU644~a#	case: has sub-cases AND material	
+False	uruk-iii	P005289	79202	1. 2(N01) , |SAL.KUR~a| GAL~a SAL 	case: has sub-cases AND material	
+False	uruk-iii	P005291	79240	8. 2(N14) , 3(N57) AMA~a [...]	case: has sub-cases AND material	
+False	uruk-iii	P005294	79305	1.b1. 2(N14) 3(N01) , BA	case: has sub-cases AND material	
+False	uruk-iii	P005358	80483	1. 4(N14) 1(N39~a) , SI4~f BA	case: has sub-cases AND material	
+False	uruk-iii	P002182	82990	1. [...] 2(N01) , ME~a SUHUR	case: has sub-cases AND material	
+False	uruk-iii	P002182	82992	2. 1(N34) , SZU? E~b SUHUR X [...]	case: has sub-cases AND material	
+False	uruk-iii	P002627	83310	1. [...] , KI [...]	case: has sub-cases AND material	
+False	uruk-iii	P002627	83312	2. 7(N45) , ZATU756 EN~a SZE3 TUR NUN~a [...]	case: has sub-cases AND material	
+False	uruk-iii	P002627	83316	3. 3(N50) [...] , [...]	case: has sub-cases AND material	
+False	uruk-iii	P002627	83318	4. [...] 1(N50) , EN~a SZE3 TUR NUN~a	case: has sub-cases AND material	
+False	uruk-iii	P002627	83321	5. [...] 1(N45) , |SZU2.E2~b|#?	case: has sub-cases AND material	
+False	uruk-iii	P002627	83323	6. 2(N45) , X	case: has sub-cases AND material	
+False	uruk-iii	P002628	83505	1. [...] 5(N01) , SAR~c A	case: has sub-cases AND material	
+False	uruk-iii	P002683	83525	1. 4(N45) ,	case: has sub-cases AND material	
+False	uruk-iii	P002765	83813	2. 1(N01) , DUB~a PA~a [...]	case: has sub-cases AND material	
+False	uruk-iii	P002817	83980	1. 3(N14) 9(N01) , U8 SIG2~a1?	case: has sub-cases AND material	
+False	uruk-iii	P002817	83982	2. 1(N14) 5(N01) , UDUNITA~a	case: has sub-cases AND material	
+False	uruk-iii	P002844	84158	1. 2(N14) , UDUNITA~a	case: has sub-cases AND material	
+False	uruk-iii	P003529	84703	3.b. , BU3 TUR	case: has sub-cases AND material	
+False	uruk-iii	P003584	85217	3. 8(N01) , GAL~a GA~a BAR	case: has sub-cases AND material	
+False	uruk-iv	P002328	10800	2. 2(N34)# , SI#? SAL# X NUN~a#	case: has sub-cases AND material	
+False	uruk-iv	P004212	16794	3. 1(N14) 3(N01) , DUG~c GI	case: has sub-cases AND material	
+False	uruk-iv	P004154	19219	3. [...] 2(N01) 4(N39~b) [...] , [...]	case: has sub-cases AND material	
+False	uruk-iv	P004581	20691	1. [...] , [...]	case: has sub-cases AND material	
+False	uruk-iii	P464118	16964	a001. [...] 	line: number starting with a letter	"a001"
+False	uruk-iii	P464118	16966	a002. BU~a? [...] 	line: number starting with a letter	"a002"
+False	uruk-iii	P464118	16968	a003. BU~a [...] 	line: number starting with a letter	"a003"
+False	uruk-iii	P464118	16970	a004. X SZENNUR~a [...] 	line: number starting with a letter	"a004"
+False	uruk-iii	P464118	16972	a005. ISZ~b [...] 	line: number starting with a letter	"a005"
+False	uruk-iii	P464118	16974	a006. ISZ~b [...] 	line: number starting with a letter	"a006"
+False	uruk-iii	P464118	16976	a007. X [...] 	line: number starting with a letter	"a007"
+False	uruk-iii	P471685	25039	a001. X [...] 	line: number starting with a letter	"a001"
+False	uruk-iii	P471685	25041	a002. SU~a KU6~a 	line: number starting with a letter	"a002"
+False	uruk-iii	P471685	25043	a003. U4 KU6~a 	line: number starting with a letter	"a003"
+False	uruk-iii	P471685	25045	a004. |U4+2N57| KU6~a 	line: number starting with a letter	"a004"
+False	uruk-iii	P471685	25047	a005. [...] KU6~a 	line: number starting with a letter	"a005"
+False	uruk-iii	P471685	25050	b001. [...] 	line: number starting with a letter	"b001"
+False	uruk-iii	P471685	25052	b002. MUNSZUB~b KU6~a 	line: number starting with a letter	"b002"
+False	uruk-iii	P471685	25054	b003. LI ZI~a MUSZEN KU6~a 	line: number starting with a letter	"b003"
+False	uruk-iii	P471683	25722	A1. UDU~a SZU MUSZEN	line: number starting with a letter	"A1"
+False	uruk-iii	P471683	25724	A2. GA~b TUN3~a MUSZEN	line: number starting with a letter	"A2"
+False	uruk-iii	P471683	25726	A3. DA~a MA MUSZEN	line: number starting with a letter	"A3"
+False	uruk-iii	P471683	25728	A4. ZATU621~a MUSZEN	line: number starting with a letter	"A4"
+False	uruk-iii	P471691	25967	a001. [...] X 	line: number starting with a letter	"a001"
+False	uruk-iii	P471691	25969	a002. |DUG+ASZ~b| SUM~a 	line: number starting with a letter	"a002"
+False	uruk-iii	P471691	25971	a003. [...] SUM~a 	line: number starting with a letter	"a003"
+False	uruk-iii	P471691	25973	a004. [...] GISZ? SUM~a 	line: number starting with a letter	"a004"
+False	uruk-iii	P471691	25975	a005. [...] SUM~a 	line: number starting with a letter	"a005"
+False	uruk-iii	P471691	25977	a006. [...] SUM~a 	line: number starting with a letter	"a006"
+False	uruk-iii	P471691	25979	a007. [...] SUM~a 	line: number starting with a letter	"a007"
+False	uruk-iii	P471691	25981	a008. [...] SUM~a 	line: number starting with a letter	"a008"
+False	uruk-iii	P471691	25984	b001. SAR~a [...] 	line: number starting with a letter	"b001"
+False	uruk-iii	P471691	25986	b002. X [...] 	line: number starting with a letter	"b002"
+False	uruk-iii	P471691	25988	b003. [...] 	line: number starting with a letter	"b003"
+False	uruk-iii	P471691	25991	c001. AN HI X [...] 	line: number starting with a letter	"c001"
+False	uruk-iii	P471691	25993	c002. KAR2~a KAB 	line: number starting with a letter	"c002"
+False	uruk-iii	P471691	25995	c003. ZATU684 AMA~b 	line: number starting with a letter	"c003"
+False	uruk-iii	P471691	25997	c004. NI~b BAHAR2~a 	line: number starting with a letter	"c004"
+False	uruk-iii	P471691	25999	c005. DU |GISZ+SZU2~b| 	line: number starting with a letter	"c005"
+False	uruk-iii	P471691	26001	c006. SAR~a A 	line: number starting with a letter	"c006"
+False	uruk-iii	P471691	26003	c007. GISZ SAR~a A 	line: number starting with a letter	"c007"
+False	uruk-iii	P471691	26005	c008. X SAR~a A 	line: number starting with a letter	"c008"
+False	uruk-iii	P471688	31713	A1. X NUNUZ~a1 	line: number starting with a letter	"A1"
+False	uruk-iii	P471688	31715	A2. |SZEa+SAR~a| NUNUZ~a1 	line: number starting with a letter	"A2"
+False	uruk-iii	P471688	31717	A3. KUR~a NUNUZ~a1 	line: number starting with a letter	"A3"
+False	uruk-iii	P471687	33558	A1. X [...] 	line: number starting with a letter	"A1"
+False	uruk-iii	P471687	33560	A2. GA2~a1 	line: number starting with a letter	"A2"
+False	uruk-iii	P471687	33562	A3. SUHUR GAL~a SAL 	line: number starting with a letter	"A3"
+False	uruk-iii	P471687	33565	B1. [...] 	line: number starting with a letter	"B1"
+False	uruk-iii	P471687	33567	B2. [...] 	line: number starting with a letter	"B2"
+False	uruk-iii	P471687	33569	B3. X [...] 	line: number starting with a letter	"B3"
+False	uruk-iii	P471687	33571	B4. DARA3~d SZITA~a1 	line: number starting with a letter	"B4"
+False	uruk-iii	P471687	33573	B5. |GISZ+SZU2~b| SZITA~a1 	line: number starting with a letter	"B5"
+False	uruk-iii	P471687	33576	C1. |DUGb+?| 	line: number starting with a letter	"C1"
+False	uruk-iii	P471687	33578	C2. |DUGb+AB2| 	line: number starting with a letter	"C2"
+False	uruk-iii	P471687	33580	C3. |DUGb+TI~a| 	line: number starting with a letter	"C3"
+False	uruk-iii	P471687	33582	C4. GU4 A 	line: number starting with a letter	"C4"
+False	uruk-iii	P471687	33584	C5. AB2 A 	line: number starting with a letter	"C5"
+False	uruk-iii	P471687	33586	C6. AMAR AB2 	line: number starting with a letter	"C6"
+False	uruk-iii	P471687	33588	C7. GA~b X 	line: number starting with a letter	"C7"
+False	uruk-iii	P471687	33591	D1. [...] AB2? 	line: number starting with a letter	"D1"
+False	uruk-iii	P471687	33593	D2. SU~a 1(N57) AB2? 	line: number starting with a letter	"D2"
+False	uruk-iii	P471687	33595	D3. SU~a 1(N57) UDU~a 	line: number starting with a letter	"D3"
+False	uruk-iii	P471687	33597	D4. SU~a 1(N57) GUKKAL~c 	line: number starting with a letter	"D4"
+False	uruk-iii	P471687	33599	D5. SU~a |SZAH2a+1(N57)| 	line: number starting with a letter	"D5"
+False	uruk-iii	P471687	33601	D6. SU~a 1(N57) ANSZE~b 	line: number starting with a letter	"D6"
+False	uruk-iii	P471687	33603	D7. SU~a 1(N57) X 	line: number starting with a letter	"D7"
+False	uruk-iii	P471687	33605	D8. |SILA3a+SZU| 	line: number starting with a letter	"D8"
+False	uruk-iii	P471687	33607	D9. |SILA3a+ZATU629| 	line: number starting with a letter	"D9"
+False	uruk-iii	P471687	33609	D10. |SILA3a+ZATU646~b| 	line: number starting with a letter	"D10"
+False	uruk-iii	P471687	33611	D11. X MASZ SZA3~a1 [...] X 	line: number starting with a letter	"D11"
+False	uruk-iii	P471687	33613	D12. BU~a A X [...] 	line: number starting with a letter	"D12"
+False	uruk-iii	P471687	33616	E1. DARA3~c SIG2~b 	line: number starting with a letter	"E1"
+False	uruk-iii	P471687	33618	E2. X [...] 	line: number starting with a letter	"E2"
+False	uruk-iii	P471687	33620	E3. X [...] 	line: number starting with a letter	"E3"
+False	uruk-iii	P471690	40300	A1. MAR~a@t SZUBUR 	line: number starting with a letter	"A1"
+False	uruk-iii	P471690	40302	A2. LAL2~a [...] SZUBUR 	line: number starting with a letter	"A2"
 False	uruk-iii	P471695	111	1'. [1(N14)] 6(N01)# , [...] 	line: outside column => inserted "@column 0"	
 False	uruk-iii	P499393	163	1. 2(N14) 2(N01) , NAGA~a KISZ 3(N57) SANGA~a 	line: outside column => inserted "@column 0"	
 False	uruk-iii	P504413	193	1. 1(N01) 3(N39~a) , NAR A 	line: outside column => inserted "@column 0"	
@@ -909,190 +1096,3 @@ False	uruk-iv	P252173	20847	1. 3(N34) 5(N14) , BA# 	line: outside column => inse
 False	uruk-iv	P252178	20921	1. , SZU ZATU753 ZATU753 SZE~a  	line: outside column => inserted "@column 0"	
 False	uruk-iv	P252182	20945	1. , SZUR2~c 	line: outside column => inserted "@column 0"	
 False	uruk-iv	P006287	20952	1. 1(N14) , SZE~a UNUG~a KU6~a KISAL~b1 	line: outside column => inserted "@column 0"	
-False	uruk-iii	P464118	16964	a001. [...] 	line: number starting with a letter	"a001"
-False	uruk-iii	P464118	16966	a002. BU~a? [...] 	line: number starting with a letter	"a002"
-False	uruk-iii	P464118	16968	a003. BU~a [...] 	line: number starting with a letter	"a003"
-False	uruk-iii	P464118	16970	a004. X SZENNUR~a [...] 	line: number starting with a letter	"a004"
-False	uruk-iii	P464118	16972	a005. ISZ~b [...] 	line: number starting with a letter	"a005"
-False	uruk-iii	P464118	16974	a006. ISZ~b [...] 	line: number starting with a letter	"a006"
-False	uruk-iii	P464118	16976	a007. X [...] 	line: number starting with a letter	"a007"
-False	uruk-iii	P471685	25039	a001. X [...] 	line: number starting with a letter	"a001"
-False	uruk-iii	P471685	25041	a002. SU~a KU6~a 	line: number starting with a letter	"a002"
-False	uruk-iii	P471685	25043	a003. U4 KU6~a 	line: number starting with a letter	"a003"
-False	uruk-iii	P471685	25045	a004. |U4+2N57| KU6~a 	line: number starting with a letter	"a004"
-False	uruk-iii	P471685	25047	a005. [...] KU6~a 	line: number starting with a letter	"a005"
-False	uruk-iii	P471685	25050	b001. [...] 	line: number starting with a letter	"b001"
-False	uruk-iii	P471685	25052	b002. MUNSZUB~b KU6~a 	line: number starting with a letter	"b002"
-False	uruk-iii	P471685	25054	b003. LI ZI~a MUSZEN KU6~a 	line: number starting with a letter	"b003"
-False	uruk-iii	P471683	25722	A1. UDU~a SZU MUSZEN	line: number starting with a letter	"A1"
-False	uruk-iii	P471683	25724	A2. GA~b TUN3~a MUSZEN	line: number starting with a letter	"A2"
-False	uruk-iii	P471683	25726	A3. DA~a MA MUSZEN	line: number starting with a letter	"A3"
-False	uruk-iii	P471683	25728	A4. ZATU621~a MUSZEN	line: number starting with a letter	"A4"
-False	uruk-iii	P471691	25967	a001. [...] X 	line: number starting with a letter	"a001"
-False	uruk-iii	P471691	25969	a002. |DUG+ASZ~b| SUM~a 	line: number starting with a letter	"a002"
-False	uruk-iii	P471691	25971	a003. [...] SUM~a 	line: number starting with a letter	"a003"
-False	uruk-iii	P471691	25973	a004. [...] GISZ? SUM~a 	line: number starting with a letter	"a004"
-False	uruk-iii	P471691	25975	a005. [...] SUM~a 	line: number starting with a letter	"a005"
-False	uruk-iii	P471691	25977	a006. [...] SUM~a 	line: number starting with a letter	"a006"
-False	uruk-iii	P471691	25979	a007. [...] SUM~a 	line: number starting with a letter	"a007"
-False	uruk-iii	P471691	25981	a008. [...] SUM~a 	line: number starting with a letter	"a008"
-False	uruk-iii	P471691	25984	b001. SAR~a [...] 	line: number starting with a letter	"b001"
-False	uruk-iii	P471691	25986	b002. X [...] 	line: number starting with a letter	"b002"
-False	uruk-iii	P471691	25988	b003. [...] 	line: number starting with a letter	"b003"
-False	uruk-iii	P471691	25991	c001. AN HI X [...] 	line: number starting with a letter	"c001"
-False	uruk-iii	P471691	25993	c002. KAR2~a KAB 	line: number starting with a letter	"c002"
-False	uruk-iii	P471691	25995	c003. ZATU684 AMA~b 	line: number starting with a letter	"c003"
-False	uruk-iii	P471691	25997	c004. NI~b BAHAR2~a 	line: number starting with a letter	"c004"
-False	uruk-iii	P471691	25999	c005. DU |GISZ+SZU2~b| 	line: number starting with a letter	"c005"
-False	uruk-iii	P471691	26001	c006. SAR~a A 	line: number starting with a letter	"c006"
-False	uruk-iii	P471691	26003	c007. GISZ SAR~a A 	line: number starting with a letter	"c007"
-False	uruk-iii	P471691	26005	c008. X SAR~a A 	line: number starting with a letter	"c008"
-False	uruk-iii	P471688	31713	A1. X NUNUZ~a1 	line: number starting with a letter	"A1"
-False	uruk-iii	P471688	31715	A2. |SZEa+SAR~a| NUNUZ~a1 	line: number starting with a letter	"A2"
-False	uruk-iii	P471688	31717	A3. KUR~a NUNUZ~a1 	line: number starting with a letter	"A3"
-False	uruk-iii	P471687	33558	A1. X [...] 	line: number starting with a letter	"A1"
-False	uruk-iii	P471687	33560	A2. GA2~a1 	line: number starting with a letter	"A2"
-False	uruk-iii	P471687	33562	A3. SUHUR GAL~a SAL 	line: number starting with a letter	"A3"
-False	uruk-iii	P471687	33565	B1. [...] 	line: number starting with a letter	"B1"
-False	uruk-iii	P471687	33567	B2. [...] 	line: number starting with a letter	"B2"
-False	uruk-iii	P471687	33569	B3. X [...] 	line: number starting with a letter	"B3"
-False	uruk-iii	P471687	33571	B4. DARA3~d SZITA~a1 	line: number starting with a letter	"B4"
-False	uruk-iii	P471687	33573	B5. |GISZ+SZU2~b| SZITA~a1 	line: number starting with a letter	"B5"
-False	uruk-iii	P471687	33576	C1. |DUGb+?| 	line: number starting with a letter	"C1"
-False	uruk-iii	P471687	33578	C2. |DUGb+AB2| 	line: number starting with a letter	"C2"
-False	uruk-iii	P471687	33580	C3. |DUGb+TI~a| 	line: number starting with a letter	"C3"
-False	uruk-iii	P471687	33582	C4. GU4 A 	line: number starting with a letter	"C4"
-False	uruk-iii	P471687	33584	C5. AB2 A 	line: number starting with a letter	"C5"
-False	uruk-iii	P471687	33586	C6. AMAR AB2 	line: number starting with a letter	"C6"
-False	uruk-iii	P471687	33588	C7. GA~b X 	line: number starting with a letter	"C7"
-False	uruk-iii	P471687	33591	D1. [...] AB2? 	line: number starting with a letter	"D1"
-False	uruk-iii	P471687	33593	D2. SU~a 1(N57) AB2? 	line: number starting with a letter	"D2"
-False	uruk-iii	P471687	33595	D3. SU~a 1(N57) UDU~a 	line: number starting with a letter	"D3"
-False	uruk-iii	P471687	33597	D4. SU~a 1(N57) GUKKAL~c 	line: number starting with a letter	"D4"
-False	uruk-iii	P471687	33599	D5. SU~a |SZAH2a+1(N57)| 	line: number starting with a letter	"D5"
-False	uruk-iii	P471687	33601	D6. SU~a 1(N57) ANSZE~b 	line: number starting with a letter	"D6"
-False	uruk-iii	P471687	33603	D7. SU~a 1(N57) X 	line: number starting with a letter	"D7"
-False	uruk-iii	P471687	33605	D8. |SILA3a+SZU| 	line: number starting with a letter	"D8"
-False	uruk-iii	P471687	33607	D9. |SILA3a+ZATU629| 	line: number starting with a letter	"D9"
-False	uruk-iii	P471687	33609	D10. |SILA3a+ZATU646~b| 	line: number starting with a letter	"D10"
-False	uruk-iii	P471687	33611	D11. X MASZ SZA3~a1 [...] X 	line: number starting with a letter	"D11"
-False	uruk-iii	P471687	33613	D12. BU~a A X [...] 	line: number starting with a letter	"D12"
-False	uruk-iii	P471687	33616	E1. DARA3~c SIG2~b 	line: number starting with a letter	"E1"
-False	uruk-iii	P471687	33618	E2. X [...] 	line: number starting with a letter	"E2"
-False	uruk-iii	P471687	33620	E3. X [...] 	line: number starting with a letter	"E3"
-False	uruk-iii	P471690	40300	A1. MAR~a@t SZUBUR 	line: number starting with a letter	"A1"
-False	uruk-iii	P471690	40302	A2. LAL2~a [...] SZUBUR 	line: number starting with a letter	"A2"
-False	uruk-iii	P002113	4701	1. 8(N01)# , SZITA~a1 EN~a [...] SAG	case: has sub-cases AND material	
-False	uruk-iii	P003380	7870	2. 4(N01) , SAG	case: has sub-cases AND material	
-False	uruk-iii	P004959	16313	2. 3(N14) , LAGAB~a HI@g~c SA~a ZATU702 UR2 GISZ PAP~a BU~a SZITA~a3 NAM2	case: has sub-cases AND material	
-False	uruk-iii	P471694	26297	70. BANSZUR~b1 GISZ 	case: has sub-cases AND material	
-False	uruk-iii	P471694	26301	71. GISZ AD~a 	case: has sub-cases AND material	
-False	uruk-iii	P471694	26313	76. GISZ SI KAK~a 	case: has sub-cases AND material	
-False	uruk-iii	P471688	31613	49. AN NU GIR~a 	case: has sub-cases AND material	
-False	uruk-iii	P471688	31631	56. ZATU777 SZE3 UDU~a 	case: has sub-cases AND material	
-False	uruk-iii	P325218	44787	1. 5(N34) 2(N14) 3(N01) , EN~a 1(N04) 	case: has sub-cases AND material	
-False	uruk-iii	P411610	49101	1. 5(N14)# 5(N01) 3(N39~a) 1(N24) , 	case: has sub-cases AND material	
-False	uruk-iii	P411623	49242	1. 1(N20)# 3(N05)# , HI~a@g# SZE~a IDIGNA KALAM~g EN~a AMA~a 	case: has sub-cases AND material	
-False	uruk-iii	P387723	51320	1. 2(N01) , |E2~bx1(N57@t)| 	case: has sub-cases AND material	
-False	uruk-iii	P387571	51332	1. 2(N01) , |E2~ax1(N57@t)| 	case: has sub-cases AND material	
-False	uruk-iii	P006381	53610	1. 4(N01)# 4(N39~a)# 1(N24) 1(N28) 2(N29~a) , [HI@g~a SZE~a] |U4.1(N08)|# 	case: has sub-cases AND material	
-False	uruk-iii	P006381	53611	1.a. 3(N01)# 1(N28) 1(N29~a) , HI@g~a 	case: has sub-cases AND material	
-False	uruk-iii	P006381	53614	1.b. 1(N01) 4(N39~a) 1(N24) 1(N29~a) , [SZE~a] 	case: has sub-cases AND material	
-False	uruk-iii	P006381	53617	2. 4(N01) 4(N39~a) 1(N28) , HI@g~a SZE~a |U4.2(N08)| 	case: has sub-cases AND material	
-False	uruk-iii	P006386	54219	1. 1(N34) , LAGAB~b KASZ~a 	case: has sub-cases AND material	
-False	uruk-iii	P006387	55462	1. [...] UR~a ZATU756 [...] 	case: has sub-cases AND material	
-False	uruk-iii	P464200	55956	1. 1(N45)#? 2(N34) , UDU~a |DU8~cxUDU~a| 	case: has sub-cases AND material	
-False	uruk-iii	P002268	56517	1. [...] , SZAKIR~c#? ZATU752	case: has sub-cases AND material	
-False	uruk-iii	P002821	58411	1. 5(N48) 5(N34) , DARA4~c1	case: has sub-cases AND material	
-False	uruk-iii	P002821	58420	2. 2(N34)# 3(N14) , X [...]	case: has sub-cases AND material	
-False	uruk-iii	P004670	59875	2. 5(N01) , GAN~c#	case: has sub-cases AND material	
-False	uruk-iii	P003616	61451	1. [...] 3(N01) , [...]	case: has sub-cases AND material	
-False	uruk-iii	P003968	63008	1. [...] , [...]	case: has sub-cases AND material	
-False	uruk-iii	P006036	66560	2.b1. 2(N01)# , NUN~a# ZATU687 EN~a# EN~a#? TUR 	case: has sub-cases AND material	
-False	uruk-iii	P006036	66563	2.b2. 4(N01)# , EN~a# X KI ZATU687# AN# 	case: has sub-cases AND material	
-False	uruk-iii	P006308	73487	4. 2(N01)# , PA~a# GU4	case: has sub-cases AND material	
-False	uruk-iii	P005147	76007	3. , SANGA~a# KU6~a#	case: has sub-cases AND material	
-False	uruk-iii	P005246	78386	1. 1(N14)# 4(N01)# , X X ZATU644~a#	case: has sub-cases AND material	
-False	uruk-iii	P005289	79202	1. 2(N01) , |SAL.KUR~a| GAL~a SAL 	case: has sub-cases AND material	
-False	uruk-iii	P005291	79240	8. 2(N14) , 3(N57) AMA~a [...]	case: has sub-cases AND material	
-False	uruk-iii	P005294	79305	1.b1. 2(N14) 3(N01) , BA	case: has sub-cases AND material	
-False	uruk-iii	P005358	80483	1. 4(N14) 1(N39~a) , SI4~f BA	case: has sub-cases AND material	
-False	uruk-iii	P002182	82990	1. [...] 2(N01) , ME~a SUHUR	case: has sub-cases AND material	
-False	uruk-iii	P002182	82992	2. 1(N34) , SZU? E~b SUHUR X [...]	case: has sub-cases AND material	
-False	uruk-iii	P002627	83310	1. [...] , KI [...]	case: has sub-cases AND material	
-False	uruk-iii	P002627	83312	2. 7(N45) , ZATU756 EN~a SZE3 TUR NUN~a [...]	case: has sub-cases AND material	
-False	uruk-iii	P002627	83316	3. 3(N50) [...] , [...]	case: has sub-cases AND material	
-False	uruk-iii	P002627	83318	4. [...] 1(N50) , EN~a SZE3 TUR NUN~a	case: has sub-cases AND material	
-False	uruk-iii	P002627	83321	5. [...] 1(N45) , |SZU2.E2~b|#?	case: has sub-cases AND material	
-False	uruk-iii	P002627	83323	6. 2(N45) , X	case: has sub-cases AND material	
-False	uruk-iii	P002628	83505	1. [...] 5(N01) , SAR~c A	case: has sub-cases AND material	
-False	uruk-iii	P002683	83525	1. 4(N45) ,	case: has sub-cases AND material	
-False	uruk-iii	P002765	83813	2. 1(N01) , DUB~a PA~a [...]	case: has sub-cases AND material	
-False	uruk-iii	P002817	83980	1. 3(N14) 9(N01) , U8 SIG2~a1?	case: has sub-cases AND material	
-False	uruk-iii	P002817	83982	2. 1(N14) 5(N01) , UDUNITA~a	case: has sub-cases AND material	
-False	uruk-iii	P002844	84158	1. 2(N14) , UDUNITA~a	case: has sub-cases AND material	
-False	uruk-iii	P003529	84703	3.b. , BU3 TUR	case: has sub-cases AND material	
-False	uruk-iii	P003584	85217	3. 8(N01) , GAL~a GA~a BAR	case: has sub-cases AND material	
-False	uruk-iv	P002328	10800	2. 2(N34)# , SI#? SAL# X NUN~a#	case: has sub-cases AND material	
-False	uruk-iv	P004212	16794	3. 1(N14) 3(N01) , DUG~c GI	case: has sub-cases AND material	
-False	uruk-iv	P004154	19219	3. [...] 2(N01) 4(N39~b) [...] , [...]	case: has sub-cases AND material	
-False	uruk-iv	P004581	20691	1. [...] , [...]	case: has sub-cases AND material	
-False	uruk-iii	P004965	16376	@column 1	column: numbering: wrong order	1, 2, 3.a, 3.b.1, 3.b.10, 3.b.11, 3.b.12, 3.b.2, 3.b.3, 3.b.4, 3.b.5, 3.b.6, 3.b.7, 3.b.8, 3.b.9
-False	uruk-iii	P006380	44752	@column 2	column: numbering: wrong order	2.a, 2.b.1, 2.c.1.a, 2.c.1.b, 2.d.1, 2.e.1, 2.b.2, 2.c.2.a, 2.c.2.b, 2.d.2
-False	uruk-iii	P283915	44920	@column 2	column: numbering: wrong order	1, 2, 3, 
-False	uruk-iii	P325073	45029	@column 1	column: numbering: wrong order	1.a, 1, 2, 3
-False	uruk-iii	P325156	46077	@column 1	column: numbering: wrong order	1.a.1, 1.b.1, 1.c.1, 1.a.2, 2, 3.a.1, 3.b.1, 3.a.2, 4.a.1, 4.b.1, 4.a.2
-False	uruk-iii	P325065	47290	@column 1	column: numbering: wrong order	1.a, 1.b, 2.a, 2.b.1, 2.b.2, 3.a, 3.b, 3.c, 4.a, 4.b, 5.a, 5.b, 6.a, 6.b.1, 6.c.1, 6.b.2
-False	uruk-iii	P006350	48377	@column 2	column: numbering: wrong order	1.a.1, 1.b.1, 1.a.2, 2.a.1, 2.b.1, 2.a.2, 3.a.1, 3.b.1, 3.a.2
-False	uruk-iii	P411616	49113	1.a. 2(N01) , ZATU859 SZE~a SAL A 	column: numbering: wrong order	1.a, 1.b, 2.a, 2.b, 2
-False	uruk-iii	P464141	53805	@column 1 	column: numbering: wrong order	1.a, 1.b, 2.a, 2.b, 1.a.1, 1.b.1, 1.a.2
-False	uruk-iii	P006355	54172	@column 1 	column: numbering: wrong order	1.a.1, 1.b.1, 1.a.2, 2, 3
-False	uruk-iii	P006028	66341	@column 4	column: numbering: wrong order	1, 2, 3.a.1, 3.a.2, 5, 4, 6, 7, 3.b
-False	uruk-iii	P006031	66452	@column 1	column: numbering: wrong order	1.b, 1.a, 2.a, 2.b, 3.a, 3.b, 3.c.1, 3.c.2
-False	uruk-iii	P006040	66673	@column 3	column: numbering: wrong order	1, 2, 3, 4, 5, 6, 8, 7, 9, 10, 11, 12, 13, 14
-False	uruk-iii	P006080	68023	@column 1	column: numbering: wrong order	1.a, 1.b.2, 1.b.1, 2, 3
-False	uruk-iii	P006086	68216	@column 2	column: numbering: wrong order	1, 2, 4, 5, 3
-False	uruk-iii	P006087	68244	@column 1	column: numbering: wrong order	2.a, 2.b, 2.c, 2.d, 3, 4, 1
-False	uruk-iii	P006093	68344	@column 2 	column: numbering: wrong order	1.a, 1.b.1, 1.b.3, 1.b.2, 2.a, 2.b.1, 2.b.2, 2.b.3, 2.b.4, 3.a, 3.b.1, 3.b.2, 3.b.3, 4.a, 4.b.1, 4.b.2
-False	uruk-iii	P006105	68621	@column 1 	column: numbering: wrong order	1, 2, 3, 5, 4
-False	uruk-iii	P006133	69219	@column 2	column: numbering: wrong order	1, 2.a, 3.a, 2.b.1, 2.b.2, 2.b.3, 3.b.1, 3.b.2
-False	uruk-iii	P006155	69711	@column 2	column: numbering: wrong order	1.a, 2, 1.b
-False	uruk-iii	P006185	70462	@column 1	column: numbering: wrong order	1.a.2, 1.a.1, 1.a.3, 1.b.1, 1.b.2, 1.b.3, 2.a.1, 2.b.1, 2.b.2, 2.c.1, 2.c.2
-False	uruk-iii	P006216	71073	@column 1	column: numbering: wrong order	1.a, 2.a, 2.b, 1.b, 3.a, 3.b, 4.a, 4.b, 5.a, 5.b
-False	uruk-iii	P006236	71429	@column 1	column: numbering: wrong order	2, 1
-False	uruk-iii	P006271	72411	@column 2	column: numbering: wrong order	2.a, 2.b, 3, 1.a, 1.b
-False	uruk-iii	P006291	72958	@column 1	column: numbering: wrong order	1.a, 2.a, 3.a, 3.b, 1.b.1, 1.b.2, 2.b, 4.a, 4.b, 5.a, 5.b, 6.a, 6.b, 7.a, 7.b, 8.a, 8.b, 9.a, 9.b, 10.a, 10.b
-False	uruk-iii	P006317	73638	@column 1	column: numbering: wrong order	1.a.1, 1.a.2, 1.b, 2.a.1, 2.a.2, 2.b.1, 2.b.2, 3.a.1, 3.a.2, 3.b.1, 4.a.1, 4.a.2, 4.b.1, 4.b.2, 5.a.1, 5.a.2, 5.b, 6, 3.b.2
-False	uruk-iii	P464118	16798	43. SANGA~a |ZATU737+SA|L 	tweak	"SA|L" => "SAL|"
-False	uruk-iii	P471682	24111	71. GA~a 1N(02) X AMAR 	tweak	"1N(02)" => "1(N02)"
-False	uruk-iii	P471693	27953	30. |DUG~b+{SZE~a+NAM2}| 	tweak	"{" => "("
-False	uruk-iii	P471693	27953	30. |DUG~b+{SZE~a+NAM2}| 	tweak	"}" => ")"
-False	uruk-iii	P252184	37546	1'. [1(N01)] , X GIR2~A# 	tweak	"~A" => "~a"
-False	uruk-iii	P252184	37626	15'. (1N01) , X X KI 	tweak	"(1N" => "1(N"
-False	uruk-iii	P000034	37800	1'. [, [...] X 	tweak	"[," => ""
-False	uruk-iii	P456183	40341	3. ENLIL~x(|EN~c.NUN~a|) 	tweak	"~x(" => "~x ("
-False	uruk-iii	P411604	48967	3.b. 3(N41) 1(N24")# , [TAR~a] 	tweak	"4"" => "4'"
-False	uruk-iii	P006396	53829	1.b2. 2(N01) 2(N39~a)|U4x2(N01)| 1(N29~a) , |U4+1(N24)|#? 	tweak	")|U" => ") |U"
-False	uruk-iii	P006307	73420	9. 1(N01) , SZE~a EN~a sag-apin~a	tweak	"sag-apin" => "sag-apin"
-False	uruk-iii	P274471	74291	@columm 4 	tweak	"@columm" => "@column"
-False	uruk-iii	P274472	74311	@column3 	tweak	"@column3" => "@column 3"
-False	uruk-iii	P274472	74330	3'. , X SZE~A X 	tweak	"~A" => "~a"
-False	uruk-iii	P274472	74337	3'. 2(N39~A) HI@g# X 	tweak	"~A" => "~a"
-False	uruk-iii	P274472	74338	4'. 3(N39~A) X 	tweak	"~A" => "~a"
-False	uruk-iii	P387519	51067	1. 1(N01) , KASZ~c TUG2~a~a DU 	variant: repeated	~a
-False	uruk-iii	P250450	51728	3.b. , TUG2~a~a BUR2 	variant: repeated	~a
-False	uruk-iii	P250450	51730	4.b. , TUG2~a~a BUR2 	variant: repeated	~a
-False	uruk-iii	P231784	52378	2. [...] 3(N01)# , EN~a#? TUG2~a~a? 	variant: repeated	~a
-False	uruk-iii	P433193	55167	3. , SAG TUG2~a~a 	variant: repeated	~a
-False	uruk-iii	P464197	55874	1.c3. 2(N14) , GAR SAG TUG2~a~a 	variant: repeated	~a
-False	uruk-iii	P002090	4346	[...] KAL~b2? BU~a# [...]	line: missing number	
-False	uruk-iii	P006268	43298	|1(N58).BAD~a| SI AN AD~a GIR~a 	line: missing number	
-False	uruk-iii	P005075	74951	|1(N58).BAD~a| [...]	line: missing number	
-False	uruk-iii	P005335	80136	|1(N58).BAD~a|	line: missing number	
-False	uruk-iii	P325228	44706	@column 1	column: numbering: duplicates	1, 1, 2.a, 2.b.1, 2.b.2, 3
-False	uruk-iii	P328738	45198	@column 2	column: numbering: duplicates	1, 2, 1
-False	uruk-iii	P253961	74528	@column 2 	column: numbering: duplicates	1, 1, 1, 1
-True	uruk-iii	P002176	4599	&P002176 = ATU 6, pl. 51, W 14731,ag8 	tablet: duplicate name => skipped	first one is uruk-iii:4273
-True	uruk-iii	P252175	72230	&P252175 = MS 3164 	tablet: duplicate name => skipped	first one is uruk-iii:72209
-False	uruk-iii	P464196	55648	@column 1 	column: outside face => inserted "@noface"	@column 1
-False	uruk-iii	P387747	52806	2.a. 1(N01) , UDUNITA~a IDIN+1(N57)| 	quad: missing start "|"	IDIN+«1=N57»|
