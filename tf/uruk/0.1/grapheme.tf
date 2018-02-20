@@ -10,7 +10,7 @@
 @valueType=str
 @version=0.1
 @writtenBy=Text-Fabric
-@dateWritten=2018-02-19T20:50:14Z
+@dateWritten=2018-02-20T07:10:21Z
 
 
 
@@ -6082,11 +6082,8 @@ SUHUR
 
 
 …
-…
-
-
-…
-N34
+N45
+N50
 …
 …
 
@@ -53175,6 +53172,8 @@ E2
 N57
 
 
+…
+…
 N14
 N01
 UD5
@@ -53283,15 +53282,6 @@ N01
 ZATU847
 SA
 SAL
-N34
-N14
-N01
-N14
-N01
-A
-A
-N01
-NI2
 N14
 N01
 A
@@ -53301,9 +53291,18 @@ NI2
 N01
 KA
 N34
-N01
 BA
 N34
+N14
+N01
+N14
+N01
+A
+A
+N01
+NI2
+N34
+N01
 BA
 
 
@@ -53721,6 +53720,8 @@ SZE
 …
 
 
+…
+X
 SZE
 N04
 GU7
@@ -53993,6 +53994,8 @@ GU
 N14
 N01
 N59
+…
+…
 …
 …
 …
@@ -55591,15 +55594,15 @@ SAG
 N14
 N57
 GAR
+N25
 MUSZEN
 GU
-N25
 N14
 N57
 GAR
-…
-…
 N42
+…
+…
 N14
 …
 GAL
@@ -57811,10 +57814,10 @@ N01
 …
 …
 …
-…
-BA
 N39
 GU7
+…
+BA
 
 
 
@@ -59248,21 +59251,21 @@ N01
 …
 …
 N14
+…
+N01
 A
 NUNUZ
 ISZ
-…
-N01
 N22
+N01
 N01
 KU6
 LU2
-N01
+N14
+…
 N14
 …
 …
-…
-N14
 N14
 …
 SZU2
@@ -60431,6 +60434,9 @@ SAL
 A
 NINDA2
 ZATU710
+N04
+U4
+GAR
 N57
 SZITA
 HAL
@@ -66729,17 +66735,17 @@ SAG
 N01
 U4
 GAR
-AN
-E2
+…
+X
+N01
+…
 N01
 U4
 GAR
 N01
 DU8
-…
-X
-N01
-…
+AN
+E2
 …
 …
 …
@@ -67458,9 +67464,9 @@ BA
 N01
 U4
 ZATU710
-SZE
 N01
 ZATU710
+SZE
 N51
 N34
 SZE
@@ -85142,7 +85148,6 @@ N01
 TAK4
 A
 N01
-GU
 N01
 GUM
 NI
@@ -85154,6 +85159,7 @@ DA
 X
 …
 …
+GU
 
 
 
@@ -90755,14 +90761,14 @@ TUR
 N01
 KI
 APIN
+N01
+ISZ
+GAL
 SZA3
 …
 X
 …
 …
-N01
-ISZ
-GAL
 X
 …
 …
@@ -91609,9 +91615,9 @@ GI
 ZATU839
 …
 N01
+X
 …
 N01
-X
 …
 …
 …
@@ -93778,9 +93784,9 @@ GAN2
 
 …
 …
-…
 N01
 X
+…
 …
 …
 N01
@@ -95584,13 +95590,13 @@ N
 …
 
 
-
 N14
 KISZ
-AMA
-LAGAR
+BU
+DU6
+ERIN
 EN
-SZU
+X
 
 
 
@@ -96903,19 +96909,19 @@ URI3
 X
 GA2
 N01
-X
-N01
-X
-X
-N01
 UD5
 X
 BU
-X
 N01
 X
 X
 N01
+X
+N01
+X
+N01
+X
+X
 X
 N01
 X
@@ -98388,9 +98394,6 @@ N14
 GAN2
 X
 …
-N14
-KI
-BAR
 N34
 N14
 N01
@@ -98428,6 +98431,9 @@ MUSZ3
 GAN2
 ME
 SZA3
+N14
+KI
+BAR
 
 N01
 KISZ
@@ -99975,6 +99981,19 @@ AMAR
 MASZ2
 N14
 X
+N14
+X
+EZEM
+AN
+N14
+PAP
+AK
+X
+N14
+MEN
+ADAB
+PAP
+SI
 N14
 KI
 SAL

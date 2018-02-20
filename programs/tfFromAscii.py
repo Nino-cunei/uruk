@@ -9,12 +9,60 @@ from glob import glob
 from functools import reduce
 from tf.fabric import Fabric
 
+# FLAGS
+
+HELP = '''tfFromAscii.py -FLAG
+
+where FLAG is one of:
+
+-p: parse only, no TF generation
+-v: validate: parsing and TF generation
+    but the TF is put in a temp directory
+-x: suppress printing showcases for debug
+-t: load and precompute TF (in production location)
+-T: load and precompute TF (in temp location)
+
+If one of the flags is given, debug generation
+is tur
+'''
+
+doParse = True
+doTf = True
+doLoad = True
+tfInTemp = False
+debug = True
+
+FLAG = len(sys.argv) > 1 and sys.argv[1]
+if FLAG:
+    if FLAG == '-p':
+        doTf = False
+        doLoad = False
+    elif FLAG == '-v':
+        tfInTemp = True
+    elif FLAG == '-x':
+        debug = False
+    elif FLAG == '-t':
+        doParse = False
+        doTf = False
+    elif FLAG == '-T':
+        doParse = False
+        doTf = False
+        tfInTemp = True
+    else:
+        print(f'Unknown flag "{FLAG}"')
+        print(HELP)
+
 REPO = 'nino-cunei'
 ORIGIN = 'cdli'
+CORPUS = 'uruk'
+VERSION = '0.1'
+
 REPO_DIR = os.path.expanduser(f'~/github/Dans-labs/{REPO}')
 SOURCE_DIR = f'{REPO_DIR}/sources/{ORIGIN}'
 TEMP_DIR = f'{REPO_DIR}/_temp'
-EXPORT_FILE = f'{TEMP_DIR}/cldi_uruk.txt'
+DEBUG_FILE = f'{TEMP_DIR}/cldi_uruk.txt'
+TF_BASE = TEMP_DIR if tfInTemp else REPO_DIR
+TF_DIR = f'{TF_BASE}/tf/{CORPUS}/{VERSION}'
 
 # -1 is unlimited
 
@@ -30,18 +78,16 @@ SHOWCASES = set(
     P006284
     P006427
     P006437
+    P252175
     P325218
     P411604
     P411610
     P448701
     P464118
+    P464141
     P499393
 '''.strip().split()
 )
-
-CORPUS = 'uruk'
-VERSION = '0.1'
-TF_DIR = f'{REPO_DIR}/tf/{CORPUS}/{VERSION}'
 
 commonMetaData = dict(
     dataset=CORPUS,
@@ -90,12 +136,13 @@ specificMetaData = dict(
 )
 numFeatures = set(
     '''
+    badNumbering
+    damage
+    prime
+    remarkable
+    repeat
     srcLnNum
     uncertain
-    damage
-    remarkable
-    prime
-    repeat
 '''.strip().split()
 )
 
@@ -184,11 +231,9 @@ TWEAK_MATERIAL = (
     ('~A', '~a', 'variant with capital letter: ~A'),
     ('{', '(', 'wrong opening bracket {'),
     ('}', ')', 'wrong closing bracket {'),
+    ('sag-apin', 'sag-apin', 'strange character "-"'),
 )
-TWEAK_LINES = (
-    ('1.a1. 4(N14)# , |4', '1.b0. 4(N14)# , |4', 'wrong line number'),
-    ('1.a2. UB', '1.c2. UB', 'wrong line number'),
-)
+TWEAK_LINES = ()
 
 linePat = re.compile("([0-9a-zA-Z.'-]+)\s*(.*)")
 numPartsPat = re.compile('([0-9-]+|[a-zA-Z]+)')
@@ -248,7 +293,7 @@ def diag(key, p, curTablet):
     )
 
 
-def parseCorpora(export=False):
+def parseCorpora():
     corpora = collections.OrderedDict()
     tablets = []
     tabletIndex = {}
@@ -407,6 +452,8 @@ def parseCorpora(export=False):
                     else:
                         error(f'Face unknown: "{kind}"', p, curTablet or {})
         elif fc == '>' and sc == '>':
+            if skipTablet:
+                continue
             if curLine is None:
                 error(
                     'Cross reference without preceding line', p, curTablet
@@ -435,6 +482,8 @@ def parseCorpora(export=False):
                     )
                     curLine['crossref'] = newCrossref
         elif fc in COMMENTS:
+            if skipTablet:
+                continue
             target = (
                 curLine if curLine else curColumn if curColumn else curFace
                 if curFace else curTablet
@@ -447,6 +496,8 @@ def parseCorpora(export=False):
                     'srcLnNum': ln,
                 })
         else:
+            if skipTablet:
+                continue
             # tweak
             for (pat, rep, msg) in TWEAK_LINES:
                 if line.startswith(pat):
@@ -509,8 +560,8 @@ def parseCorpora(export=False):
     printErrors(diags, diag=True)
     printErrors(errors)
 
-    if export:
-        exportResults(tablets)
+    if debug:
+        debugResults(tablets)
         print('Showcases written to file')
     return tablets
 
@@ -831,24 +882,52 @@ def casify(tablets):
             for column in face.get('columns', []):
                 lines = column.get('lines', None)
                 if lines is not None:
-                    column['lines'] = putInCases(lines, curTablet)
+                    (cases, badNumbering) = putInCases(lines, curTablet)
+                    if badNumbering:
+                        column['badNumbering'] = 1
+                        srcLn = column['srcLnNum']
+                        srcLine = column['srcLn']
+                        period = curTablet.get('period', None)
+                        diag(
+                            'bad numbering in column',
+                            (period, srcLn, srcLine), curTablet
+                        )
+                    column['lines'] = cases
 
 
 def putInCases(lines, curTablet):
     cases = collections.OrderedDict()
+    badNumbering = False
+    numbers = []
     for line in lines:
         numParts = numPartsPat.findall(line['fullNumber'])
         if len(numParts):
-            target = cases
-            for numPart in numParts[0:-1]:
-                reshapeTarget(target, curTablet)
-                target = target.setdefault(numPart, collections.OrderedDict())
-            lastPart = numParts[-1]
-            reshapeTarget(target, curTablet)
-            target[lastPart] = line
+            numbers.append(tuple(numParts))
         else:
-            cases[''] = line
-    return cases
+            numbers.append(())
+        badNumbering = (
+            len(set(numbers)) != len(numbers) or
+            numbers != sorted(numbers)
+        )
+    if badNumbering:
+        for (i, line) in enumerate(lines):
+            cases[i] = line
+    else:
+        for line in lines:
+            numParts = numPartsPat.findall(line['fullNumber'])
+            if len(numParts):
+                target = cases
+                for numPart in numParts[0:-1]:
+                    reshapeTarget(target, curTablet)
+                    target = target.setdefault(
+                        numPart, collections.OrderedDict()
+                    )
+                lastPart = numParts[-1]
+                reshapeTarget(target, curTablet)
+                target[lastPart] = line
+            else:
+                cases[''] = line
+    return (cases, badNumbering)
 
 
 def reshapeTarget(target, curTablet):
@@ -870,8 +949,8 @@ def reshapeTarget(target, curTablet):
         target[''] = existing
 
 
-def exportResults(tablets):
-    with open(EXPORT_FILE, 'w') as fh:
+def debugResults(tablets):
+    with open(DEBUG_FILE, 'w') as fh:
         pq = pprint.PrettyPrinter(
             indent=2, width=100, compact=False, stream=fh
         )
@@ -963,6 +1042,7 @@ def makeTf(tablets):
         curNode = cur[nodeType]
         for ft in '''
             number
+            badNumbering
             srcLn
             srcLnNum
         '''.strip().split():
@@ -1243,11 +1323,14 @@ def loadTf():
 
 
 def main():
-    tablets = parseCorpora(export=True)
-    if errors:
-        return
-    makeTf(tablets)
-    loadTf()
+    if doParse:
+        tablets = parseCorpora()
+        if errors:
+            return
+    if doTf:
+        makeTf(tablets)
+    if doLoad:
+        loadTf()
 
 
 main()

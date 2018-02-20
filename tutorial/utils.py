@@ -1,4 +1,5 @@
 import os
+import re
 from glob import glob
 
 LIMIT = 20
@@ -45,14 +46,24 @@ class Compare(object):
 
     def readCorpora(self):
         files = glob(f'{self.sourceDir}/*.txt')
-        nLines = 0
+        tablets = set()
+        skipTablet = False
         for f in files:
             (dirF, fileF) = os.path.split(f)
             (corpus, ext) = os.path.splitext(fileF)
             with open(f) as fh:
                 for (ln, line) in enumerate(fh):
-                    nLines += 1
-                    yield (corpus, ln + 1, line.rstrip('\n'))
+                    line = line.rstrip('\n')
+                    if len(line) and line[0] == '&':
+                        comps = line[1:].split('=', 1)
+                        tablet = comps[0].strip()
+                        if tablet in tablets:
+                            skipTablet = True
+                        else:
+                            skipTablet = False
+                        tablets.add(tablet)
+                    if not skipTablet:
+                        yield (corpus, tablet, ln + 1, line)
 
     def checkSanity(self, grepFunc, tfFunc):
         resultTf = tuple(tfFunc())

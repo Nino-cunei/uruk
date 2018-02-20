@@ -10,9 +10,9 @@
 @valueType=str
 @version=0.1
 @writtenBy=Text-Fabric
-@dateWritten=2018-02-19T20:50:15Z
+@dateWritten=2018-02-20T07:10:22Z
 
-30520	GURUSZ~a
-30529	KASKAL
-30768	KASKAL
-30798	IB~a
+30517	GURUSZ~a
+30526	KASKAL
+30765	KASKAL
+30795	IB~a
