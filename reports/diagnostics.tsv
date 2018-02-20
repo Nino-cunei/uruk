@@ -16,6 +16,7 @@ False	uruk-iii	P250450	51730	4.b. , TUG2~a~a BUR2 	variant: repeated	~a
 False	uruk-iii	P231784	52378	2. [...] 3(N01)# , EN~a#? TUG2~a~a? 	variant: repeated	~a
 False	uruk-iii	P433193	55167	3. , SAG TUG2~a~a 	variant: repeated	~a
 False	uruk-iii	P464197	55874	1.c3. 2(N14) , GAR SAG TUG2~a~a 	variant: repeated	~a
+False	uruk-iii	P448702	63	1'. , U4 |U4x1(N01)| SUKUD@inversum? NA 	tweak	"@inversum" => "@v"
 False	uruk-iii	P464118	16798	43. SANGA~a |ZATU737+SA|L 	tweak	"SA|L" => "SAL|"
 False	uruk-iii	P471682	24111	71. GA~a 1N(02) X AMAR 	tweak	"1N(02)" => "1(N02)"
 False	uruk-iii	P471693	27953	30. |DUG~b+{SZE~a+NAM2}| 	tweak	"{" => "("

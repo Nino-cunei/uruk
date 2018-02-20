@@ -11,7 +11,7 @@ from tf.fabric import Fabric
 
 # FLAGS
 
-HELP = '''tfFromAscii.py -FLAG
+HELP = '''tfFromAtf.py -FLAG
 
 where FLAG is one of:
 
@@ -73,8 +73,11 @@ LIMIT = -1
 
 SHOWCASES = set(
     '''
+    P000025
     P000743
     P000736
+    P000784
+    P002090
     P002113
     P004639
     P006275
@@ -87,6 +90,7 @@ SHOWCASES = set(
     P411604
     P411610
     P448701
+    P448702
     P464118
     P464141
     P499393
@@ -111,32 +115,55 @@ commonMetaData = dict(
     email2='dirk.roorda@dans.knaw.nl',
 )
 specificMetaData = dict(
+    badNumbering=(
+        'problematic line numbering:'
+        ' 1=duplicate numbers; 2=wrong order'
+    ),
     catalogId=(
         'identifier of tablet in catalog'
         ' (http://www.flutopedia.com/tablets.htm)'
     ),
-    name='name of tablet',
-    period='period indication of tablet',
-    srcLn='transcribed line',
-    srcLnNum='line number in transcription file',
-    type='type of a face',
-    number='number of a column or line',
-    grapheme='name of a grapheme (glyph)',
-    variant='corresponds to ~x in transcription',
-    uncertain='corresponds to ?-flag in transcription',
-    damage='corresponds to #-flag in transcription',
-    modifier='corresponds to @x in transcription',
-    identifier='additional information pertaining to the name of a face',
-    remarkable='corresponds to ! flag in transcription ',
-    written='corresponds to !(xxx) flag in transcription',
-    prime='indicates the presence of a prime (single quote)',
+    comments='links comment nodes to their targets',
+    damage=(
+        'indicates damage of signs or quads,'
+        'corresponds to #-flag in transcription'
+    ),
     fragment='level between tablet and face',
+    fullNumber=(
+        'hierarchical number given to'
+        'terminal cases in transcription lines'
+    ),
+    grapheme='name of a grapheme (glyph)',
+    identifier='additional information pertaining to the name of a face',
+    modifier=(
+        'indicates modifcation of a sign;'
+        ' corresponds to sign@letter in transcription.'
+        ' if the grapheme is a repeat, the modification'
+        ' applies to the whole repeat.'
+    ),
+    rmodifier=(
+        'indicates modifcation of a sign within a repeat'
+        'corresponds to sign@letter in transcription'
+    ),
+    name='name of tablet',
+    number='number of a column or line or non-terminal case',
+    op='operator connecting left to right operand in a quad',
+    origNumber='contains the source value for fullNumber if it deviates',
+    period='period that characterises the tablet corpus',
+    prime='indicates the presence of a prime (single quote)',
+    remarkable='corresponds to ! flag in transcription ',
     repeat=(
         'number indicating the number of repeats of a grapheme,'
         'especially in numerals'
     ),
-    op='operator connecting left to right operand',
+    srcLn='transcribed line',
+    srcLnNum='line number in transcription file',
     sub='connects line or case with subcases, or quad with sub-quads or signs',
+    text='text of comment nodes',
+    type='type of a face',
+    uncertain='corresponds to ?-flag in transcription',
+    variant='corresponds to ~x in transcription',
+    written='corresponds to !(xxx) flag in transcription',
 )
 numFeatures = set(
     '''
@@ -236,6 +263,7 @@ TWEAK_MATERIAL = (
     ('{', '('),
     ('}', ')'),
     ('sag-apin', 'sag-apin'),
+    ('@inversum', '@v'),
 )
 
 linePat = re.compile("([0-9a-zA-Z.'-]+)\s*(.*)")
@@ -407,6 +435,7 @@ def parseCorpora():
                         curTablet.setdefault('comments', []).append({
                             'srcLn': line,
                             'srcLnNum': ln,
+                            'text': ident,
                         })
                 elif kind == 'fragment':
                     if curTablet is None:
@@ -491,6 +520,7 @@ def parseCorpora():
                 target.setdefault('comments', []).append({
                     'srcLn': line,
                     'srcLnNum': ln,
+                    'text': line[1:].strip()
                 })
         else:
             if skip:
@@ -512,8 +542,10 @@ def parseCorpora():
                 curLine = None
                 prevNum = None
             match = linePat.match(line)
+            origNumber = None
             if match is None:
                 diag('line: missing number', '', p)
+                origNumber = ''
                 lineNumber = incNum(prevNum)
                 prevNum = lineNumber
                 material = line
@@ -524,7 +556,6 @@ def parseCorpora():
             countPresent = False
             if "'" in lineNumber:
                 countPresent = True
-                lineNumber = lineNumber.replace("'", '')
             if lineNumber in curNums:
                 error(
                     'line: duplicate number in column',
@@ -542,6 +573,8 @@ def parseCorpora():
                 'srcLn': line,
                 'srcLnNum': ln,
             }
+            if origNumber is not None:
+                curLine['origNumber'] = ''
             if countPresent:
                 curLine['prime'] = 1
             curColumn['lines'].append(curLine)
@@ -828,6 +861,9 @@ def transformQuad(quads, p):
                             base,
                             p,
                         )
+                        if 'modifiers' in rInfo:
+                            rInfo['rmodifiers'] = rInfo['modifiers']
+                            del rInfo['modifiers']
                     if '«' in base or '»' in base:
                         error(
                             'grapheme: repeat not recognized',
@@ -1120,6 +1156,7 @@ def makeTf(tablets):
         curNode = cur[nodeType]
         for ft in '''
             fullNumber
+            origNumber
             prime
             srcLn
             srcLnNum
@@ -1143,6 +1180,7 @@ def makeTf(tablets):
             cur[nodeType] += 1
             curNode = cur[nodeType]
             for ft in '''
+                text
                 srcLn
                 srcLnNum
             '''.strip().split():
@@ -1246,6 +1284,9 @@ def makeTf(tablets):
         if 'modifiers' in infoData:
             nodeFeatures['modifier'][(nodeType,
                                       node)] = ','.join(infoData['modifiers'])
+        if 'rmodifiers' in infoData:
+            nodeFeatures['rmodifier'][(nodeType,
+                                      node)] = ','.join(infoData['rmodifiers'])
 
     print('Collecting nodes, edges and features')
     for (i, tablet) in enumerate(tablets):

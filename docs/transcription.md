@@ -49,6 +49,7 @@ Graphemes may be *augmented* with
 *   variants
 *   flags
 *   modifiers
+*   rmodifiers
 
 Graphemes may be repeated. Numerals are repeated quite often.
 
@@ -61,11 +62,17 @@ Examples of a repeats (the first three are numerals):
     1(N24')
     4(LAGAB~a)
 
-We store he number before the brackets in a feature called *repeat*. Within the
+We store the number before the brackets in a feature called *repeat*. Within the
 brackets you find the *grapheme*, possibly augmented with *prime* and *variants*
 and *modifiers*.
 
+Modifiers may also occur after the closing bracket of a repeat.
+
 After the closing bracket the repeated grapheme may be augmented with *flags*.
+
+A modifier is generally stored in the feature *modifier*.
+But a modifier within the brackets of a repeat is stored in the feature *rmodifier*.
+In this way you can distinguish between the two cases later on.
 
 ### Ordinary signs ###
 
@@ -88,8 +95,8 @@ other cluster, see below.
 ### Augments ###
 
 We describe the various kinds of augments. Not only individual signs may be
-augmented, also more complex node types such as *quads* (see
-below) may be augmented.
+augmented, also more complex node types such as *quads* (see below) may be
+augmented.
 
 #### Prime ####
 
@@ -98,9 +105,9 @@ feature *prime=1*.
 
 #### Variants ####
 
-*Quads* and *signs* may have variants, also called *allographs*.
-This is indicated by a `~` and then a sequence of letter and digits except the
-letter `x`. `x` is an *operator*, see below.
+*Quads* and *signs* may have variants, also called *allographs*. This is
+indicated by a `~` and then a sequence of letter and digits except the letter
+`x`. `x` is an *operator*, see below.
 
 This indicates that the tablet has a variant of the grapheme in question. That
 might be a completely different grapheme.
@@ -331,9 +338,9 @@ Cases represent squares on a tablet.
 Those cases may be grouped into bigger *cases*, and ultimately they are grouped
 in *lines*, based on their number.
 
-All cases in a *line* (see below) that start with the same number, form a
-bigger *case*. The number itself is recorded in the feature *number* on the node
-type *case*.
+All cases in a *line* (see below) that start with the same number, form a bigger
+*case*. The number itself is recorded in the feature *number* on the node type
+*case*.
 
 So cases with numbers `1a`, `1b`, and `2` form two lines: one with number `1`,
 containing cases `1a` and `1b`, and one with number `2`, containing just case
@@ -355,16 +362,65 @@ Note that the number is a hierarchical number, with alternating digits and
 letters. We strip the `.`s. The number is used to group the lines into *cases*,
 see below.
 
-Like the numbers of columns, case numbers may have a `'` at the end. In the
-presence of a prime, we add to the *line* a feature *countPresent* with value
-`1`.
+Like the numbers of columns, case numbers may have a `'` at the end. But unlike
+column numbers, there might be primes on individual parts of the hierarchical
+number. In the presence of a prime anywhere, we add to the *line* a feature
+*countPresent* with value `1`. We do not strip any prime from the number.
 
-We store the full hierarchical number of the "terminal" cases (the ones
-without sub-cases) in the feature *fullNumber*.
+We store the full hierarchical number of the "terminal" cases (the ones without
+sub-cases) in the feature *fullNumber*.
 
-We store the individual number parts in the feature *number*,
-These are the parts that distinguish the sub-cases within
-their containing case.
+We store the individual number parts in the feature *number*, These are the
+parts that distinguish the sub-cases within their containing case.
+
+### Bad numbering ###
+
+Sometimes a column is badly numbered. These are the things that might occur:
+
+1.  multiple lines with the same number
+2.  numbers in the wrong order
+3.  lines with a number of which an initial part is also the number of an other
+    line
+4.  lines without numbers
+
+Examples can be found in the
+[diagnostics](https://github.com/Dans-labs/nino-cunei/blob/master/reports/diagnostics.tsv)
+produced by the conversion
+[tfFromAtf](https://github.com/Dans-labs/nino-cunei/blob/master/programs/tfFromAtf.tsv)
+
+This is how the conversion responds to these issues:
+
+In cases **1** and **2** the column in question will get a feature
+*badNumbering* with value `1` or `2`, depending on whether case 1 or 2 applies.
+
+In both cases, we do not construe lines and cases out of the numbering. Instead,
+all lines in the column will get for *number* a simple sequence number that
+reflects their position in the column. And the number found in the transcription
+will be stored in the feature *fullNumber*, as usual.
+
+Case **3** has a pattern of numbers such as 1, 1a, 1b in one column. One would
+expect either 1, or 1a with 1b. If we have all three then case 1 is both a
+terminal case and a case with subcases. We deal with it by making an extra
+terminal case under 1, indicated with the empty number, which holds the material
+of transcription line 1. So line 1 hase three cases: case `''`, case `a`, and
+case `b`.
+
+Case **4** occurs very rarely. We insert a number, obtained by incrementing the
+previous line number in the column. If there is no such one, we take `1`. If the
+previous number is 1b3A, we pick 1b3B. The new number ends up in the
+*fullNumber* feature. However, we record the fact that this is not the number
+found in the transcription by filling the feature *origNumber* with the value
+`''` (the empty string).
+
+This measure may trigger case **1**. Then we fall back to the way we deal with
+that case.
+
+The rationale for these measures is:
+
+*   we do not want to discard material if numbers are wrong;
+*   we want to rescue as much normal processing of lines and cases as possible;
+*   we want to leave traces if we override the transcription;
+*   we generate diagnostics that help to correct the sources.
 
 ### Crossrefs ###
 
@@ -446,10 +502,11 @@ decimal number.
 
 **This node type is section level 3.**
 
-If we encounter a line without a preceding *column* specifier (see below), we proceed as if we
-have seen a `@column 0`.
+If we encounter a line without a preceding *column* specifier (see below), we
+proceed as if we have seen a `@column 0`.
 
-The number of a line is always a single number, without a hierarchical structure.
+The number of a line is always a single number, without a hierarchical
+structure.
 
 Column
 ------
@@ -470,8 +527,8 @@ it indicates that the number does not count objects on the tablet in its
 original state, but in its present state. If the tablet is damaged, material is
 missing, and the missing items are not numbered.
 
-In the presence of a prime, we add to the *column* a feature *countPresent* with
-value `1`.
+In the presence of a prime, we add to the *column* a feature *prime* with value
+`1` and we remove the prime from the column number.
 
 Face
 ----
@@ -507,8 +564,8 @@ is `surface` or `seal`.
 
 `@seal` is never followed by linguistic content.
 
-If there are columns outside a face, we act as if we have seen a `@noface`,
-i.e. we insert a face with the name `noface`.
+If there are columns outside a face, we act as if we have seen a `@noface`, i.e.
+we insert a face with the name `noface`.
 
 ### fragment ###
 

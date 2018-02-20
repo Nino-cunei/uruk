@@ -1,7 +1,7 @@
 @edge
 @dataset=uruk
 @datasetName=Cuneiform tablets from the Uruk IV-III period
-@description=operator connecting left to right operand
+@description=operator connecting left to right operand in a quad
 @email1=https://www.universiteitleiden.nl/en/staffmembers/cale-johnson#tab-1
 @email2=dirk.roorda@dans.knaw.nl
 @encoders=CDLI (transcription),Cale Johnson (expertise)and Dirk Roorda (TF)
@@ -10,7 +10,7 @@
 @valueType=str
 @version=0.1
 @writtenBy=Text-Fabric
-@dateWritten=2018-02-20T15:25:12Z
+@dateWritten=2018-02-20T20:34:31Z
 
 315453	315454
 318145	318146

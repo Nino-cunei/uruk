@@ -1,5 +1,4 @@
 import os
-import re
 from glob import glob
 
 LIMIT = 20
@@ -22,13 +21,17 @@ class Compare(object):
 
         modifierValue = F.modifier.v(n)
         modifier = f'@{modifierValue}' if modifierValue else ''
+        rmodifierValue = F.rmodifier.v(n)
+        rmodifier = f'@{rmodifierValue}' if rmodifierValue else ''
 
-        fullGrapheme = f'{grapheme}{prime}{variant}{modifier}'
+        fullGrapheme = f'{grapheme}{prime}{variant}{rmodifier}'
 
         repeat = F.repeat.v(n)
         result = (
-            fullGrapheme if repeat is None else f'{repeat}({fullGrapheme})'
+            f'{fullGrapheme}'
+            if repeat is None else f'{repeat}({fullGrapheme})'
         )
+        result = f'{result}{modifier}'
 
         return result
 
@@ -67,11 +70,18 @@ class Compare(object):
                     elif not skipTablet:
                         yield (corpus, curTablet, ln + 1, line, False)
 
-    def checkSanity(self, grepFunc, tfFunc):
+    def checkSanity(self, headers, grepFunc, tfFunc):
         resultTf = tuple(tfFunc())
         resultGrep = tuple(grepFunc(self.readCorpora()))
 
-        print(f'Number of results: TF {len(resultTf)}; GREP {len(resultGrep)}')
+        resultHeaders = '''
+            period
+            tablet
+            ln
+        '''.strip().split()
+        resultHeaders.extend(headers)
+        print(self._resultItem('HEAD', resultHeaders))
+
         firstDiff = -1
         lTf = len(resultTf)
         lGrep = len(resultGrep)
@@ -118,6 +128,7 @@ class Compare(object):
                 if k < maximum - 1:
                     print(f'{"TF":<5} and {lTf - k} more')
                     print(f'{"GREP":<5} and {lGrep - k} more')
+        print(f'Number of results: TF {len(resultTf)}; GREP {len(resultGrep)}')
 
     def _printResult(self, prefix, result, last=False):
         if last:

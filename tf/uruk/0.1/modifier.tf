@@ -1,7 +1,7 @@
 @node
 @dataset=uruk
 @datasetName=Cuneiform tablets from the Uruk IV-III period
-@description=corresponds to @x in transcription
+@description=indicates modifcation of a signcorresponds to sign@letter in transcription
 @email1=https://www.universiteitleiden.nl/en/staffmembers/cale-johnson#tab-1
 @email2=dirk.roorda@dans.knaw.nl
 @encoders=CDLI (transcription),Cale Johnson (expertise)and Dirk Roorda (TF)
@@ -10,8 +10,9 @@
 @valueType=str
 @version=0.1
 @writtenBy=Text-Fabric
-@dateWritten=2018-02-20T15:25:11Z
+@dateWritten=2018-02-20T20:34:29Z
 
+80	v
 118	n
 314	g
 489	t
@@ -28,10 +29,7 @@
 1664	g
 1699	g
 1702	g
-1705	f
-f
 1760	g
-1766	t
 2172	g
 2443	g
 2510	g
@@ -55,7 +53,6 @@ f
 5492	t
 5891	g
 5903	g
-6077	f
 6504	t
 6654	r
 7071	r
@@ -143,14 +140,6 @@ t
 32564	g
 32778	g
 32851	g
-33336	f
-33339	f
-33342	f
-33346	f
-33350	f
-33353	f
-33357	f
-33361	f
 33887	n
 34296	g
 34442	t
@@ -384,25 +373,12 @@ g
 60716	g
 60849	g
 61189	t
-61571	t
-61597	t
 61654	g
 62004	g
 62250	g
 62329	g
-62437	t
-62441	t
-62447	t
-62456	t
-62466	t
-62476	t
-62487	t
-62497	t
-62507	t
 62692	g
 62716	g
-62722	t
-62749	t
 62875	n
 63282	g
 63432	t
@@ -761,10 +737,6 @@ g
 109639	t
 109729	t
 109781	t
-110062	f
-f
-110071	f
-f
 110212	g
 110299	t
 110470	g
@@ -773,9 +745,6 @@ f
 110556	t
 110589	t
 110618	t
-110633	f
-110636	f
-110641	f
 110813	g
 110817	g
 110823	g
@@ -804,7 +773,6 @@ f
 113832	g
 113837	g
 113871	g
-113894	v
 113951	n
 114042	t
 114760	g
@@ -852,7 +820,6 @@ f
 122743	g
 123040	n
 123219	g
-123439	t
 123958	t
 t
 124314	g
@@ -876,7 +843,6 @@ t
 126067	t
 126073	g
 126191	g
-126648	f
 126668	g
 127097	g
 127464	g
@@ -895,7 +861,6 @@ t
 128861	t
 129325	g
 129328	g
-129353	r
 129379	g
 129724	t
 130001	g
@@ -985,12 +950,6 @@ s
 145552	n
 145903	r
 145905	g
-145961	f
-145963	f
-145967	f
-145969	f
-146043	f
-f
 146097	t
 146170	g
 146180	g
