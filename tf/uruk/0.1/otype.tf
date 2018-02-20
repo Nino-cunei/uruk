@@ -9,7 +9,7 @@
 @valueType=str
 @version=0.1
 @writtenBy=Text-Fabric
-@dateWritten=2018-02-20T07:10:21Z
+@dateWritten=2018-02-20T15:25:11Z
 
 1-147190	sign
 147191-153586	tablet
@@ -17,6 +17,6 @@
 163029-177061	column
 177062-192867	comment
 192868-225827	cluster
-225828-263021	line
-263022-314210	case
-314211-448357	quad
+225828-262752	line
+262753-314437	case
+314438-448584	quad

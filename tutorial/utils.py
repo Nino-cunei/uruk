@@ -47,8 +47,9 @@ class Compare(object):
     def readCorpora(self):
         files = glob(f'{self.sourceDir}/*.txt')
         tablets = set()
-        skipTablet = False
         for f in files:
+            skipTablet = False
+            curTablet = ''
             (dirF, fileF) = os.path.split(f)
             (corpus, ext) = os.path.splitext(fileF)
             with open(f) as fh:
@@ -56,14 +57,15 @@ class Compare(object):
                     line = line.rstrip('\n')
                     if len(line) and line[0] == '&':
                         comps = line[1:].split('=', 1)
-                        tablet = comps[0].strip()
-                        if tablet in tablets:
+                        curTablet = comps[0].strip()
+                        if curTablet in tablets:
                             skipTablet = True
                         else:
                             skipTablet = False
-                        tablets.add(tablet)
-                    if not skipTablet:
-                        yield (corpus, tablet, ln + 1, line)
+                        tablets.add(curTablet)
+                        yield (corpus, curTablet, ln + 1, line, skipTablet)
+                    elif not skipTablet:
+                        yield (corpus, curTablet, ln + 1, line, False)
 
     def checkSanity(self, grepFunc, tfFunc):
         resultTf = tuple(tfFunc())
@@ -87,7 +89,10 @@ class Compare(object):
             self._printResult('=', resultTf)
         else:
             firstDiff = n
-            print(f'DIFFERENT: first different item is at {firstDiff + 1}')
+            print(
+                'DIFFERENT: first different item is at position'
+                f' {firstDiff + 1} in the list'
+            )
             if firstDiff:
                 self._printResult('=', resultTf[0:firstDiff], last=True)
 

@@ -507,6 +507,9 @@ is `surface` or `seal`.
 
 `@seal` is never followed by linguistic content.
 
+If there are columns outside a face, we act as if we have seen a `@noface`,
+i.e. we insert a face with the name `noface`.
+
 ### fragment ###
 
 There is another subdivision, very occasionally:
