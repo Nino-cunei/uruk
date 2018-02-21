@@ -49,7 +49,7 @@ Graphemes may be *augmented* with
 *   variants
 *   flags
 *   modifiers
-*   rmodifiers
+*   modifiersOuter
 
 Graphemes may be repeated. Numerals are repeated quite often.
 
@@ -71,7 +71,7 @@ Modifiers may also occur after the closing bracket of a repeat.
 After the closing bracket the repeated grapheme may be augmented with *flags*.
 
 A modifier is generally stored in the feature *modifier*.
-But a modifier within the brackets of a repeat is stored in the feature *rmodifier*.
+But a modifier within the brackets of a repeat is stored in the feature *modifierInner*.
 In this way you can distinguish between the two cases later on.
 
 ### Ordinary signs ###
@@ -117,7 +117,9 @@ might be a completely different grapheme.
 
 Note that a variant of a numeral is written within the brackets.
 
-We collect the variant in the feature *variant=letter*.
+We collect the variant in the feature *variant=letter* or *variantOuter=letter*.
+If the variant is directly on a sign, we use *variant*, if it is on a
+complex quad, we use *variantOuter*.
 
 If there are more, we collect the values in a comma separated list.
 
@@ -149,6 +151,18 @@ Note that a modifier of a numeral is written within the brackets.
 We collect the modifier in the sign feature *modifier=letter*.
 
 If there are more, we collect the values in a comma separated list.
+
+##### Order of variants and modifiers
+
+Variants and modifiers may occur both, and in both orders.
+
+Examples (both in the same tablet P257531:
+
+    2.b. 2(N05) 2(N42~a) , HI@g~a
+    1.a. 2(N01) , U4 SZEN~c@t
+
+We consider the order *variant-modifier* as the default.
+The other order is marked as *modifierFirst=1*.
 
 #### Flags ####
 
@@ -196,7 +210,8 @@ The full form indicates that the sign has been corrected (like in Hebrew
 The sign between the brackets is what is written (ketiv), the sign before the
 `!` is the corrected form (qere).
 
-Collected as *remarkable=1*, *written=written*.
+Collected as *written=written*.
+In this case, we do not set the *remarkable* feature to 1.
 
 Example:
 

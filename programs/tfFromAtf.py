@@ -77,6 +77,7 @@ SHOWCASES = set(
     P000743
     P000736
     P000784
+    P001687
     P002090
     P002113
     P004639
@@ -141,7 +142,12 @@ specificMetaData = dict(
         ' if the grapheme is a repeat, the modification'
         ' applies to the whole repeat.'
     ),
-    rmodifier=(
+    modifierFirst=(
+        'indicates the order between modifiers and variants'
+        ' on the same object;'
+        ' if 1, modifiers come before variants'
+    ),
+    modifierInner=(
         'indicates modifcation of a sign within a repeat'
         'corresponds to sign@letter in transcription'
     ),
@@ -162,7 +168,8 @@ specificMetaData = dict(
     text='text of comment nodes',
     type='type of a face',
     uncertain='corresponds to ?-flag in transcription',
-    variant='corresponds to ~x in transcription',
+    variant='allograph for a sign, corresponds to ~x in transcription',
+    variantOuter='allograph for a quad, corresponds to ~x in transcription',
     written='corresponds to !(xxx) flag in transcription',
 )
 numFeatures = set(
@@ -272,8 +279,6 @@ numPartsPat = re.compile('([0-9-]+|[a-zA-Z]+)')
 stripCommas = re.compile('\s*,\s*')
 repeatEscapePat = re.compile("([0-9]+)\(([A-Za-z0-9@'~]+)\)")
 repeatPat = re.compile('^«([^=]*)=([^»]*)»$')
-
-fragEscapePat = re.compile('\.\.\.')
 
 writtenEscapePat = re.compile('!\(([^)]*)\)')
 writtenRestorePat = re.compile('!◀([^▶]*)▶')
@@ -610,7 +615,7 @@ def parseLine(material, p):
     material = repeatEscapePat.sub(repeatEscapeRepl, material)
     material = writtenEscapePat.sub(writtenEscapeRepl, material)
     # translate ... to …
-    material = fragEscapePat.sub('…', material)
+    material = material.replace('...', '…')
     quads = material.split()
     startPoints = {}
     clusters = []
@@ -656,7 +661,7 @@ def parseLine(material, p):
                 stop = True
         quadInfo = {}
         if rest.startswith('|'):
-            (rest, quadInfo) = getPieceInfo(rest, p)
+            (rest, quadInfo) = getPieceInfo(quad, rest, p, outer=True)
         newQuad = parseQuad(rest, p)
         if quadInfo:
             newQuad.setdefault('info', {}).update(quadInfo)
@@ -674,9 +679,12 @@ def parseLine(material, p):
     return result
 
 
-def getPieceInfo(piece, p, empty_ok=False):
+def getPieceInfo(quad, piece, p, inRepeat=False, outer=None, empty_ok=False):
     base = piece
     pieceInfo = dict()
+
+    if '?#' in base:
+        diag('flags: unusual order "?#"', f'"{base}" in "{quad}"', p)
 
     stop = False
     while base != '' and not stop:
@@ -688,58 +696,70 @@ def getPieceInfo(piece, p, empty_ok=False):
             msg = 'flag: repeated'
             if itemStr == '#':
                 if 'damage' in items:
-                    error(msg, '#', p)
+                    error(msg, f'# in "{quad}"', p)
                 items['damage'] = 1
             elif itemStr == '?':
                 if 'uncertain' in items:
-                    error(msg, '?', p)
+                    error(msg, f'? in "{quad}"', p)
                 items['uncertain'] = 1
-            elif itemStr.startswith('!'):
+            elif itemStr == '!':
                 if 'remarkable' in items:
-                    error(msg, '!', p)
+                    error(msg, f'! in "{quad}"', p)
                 items['remarkable'] = 1
-                if len(itemStr) > 1:
-                    if 'written' in items:
-                        error(msg, itemStr, p)
-                    items['written'] = itemStr[2:-1]
+            elif itemStr.startswith('!'):
+                if 'written' in items:
+                    error(msg, f'"{itemStr}" in "{quad}"', p)
+                items['written'] = itemStr[2:-1]
             continue
 
         # modifiers
+        modName = 'modifiersInner' if inRepeat else 'modifiers'
         splits = modifierPat.findall(base)
         if splits:
-            items = pieceInfo.setdefault('modifiers', set())
+            items = pieceInfo.setdefault(modName, set())
             (base, itemStr) = splits[0]
             if itemStr not in MODIFIERS:
-                error('modifier: unknown', itemStr, p)
+                error('modifier: unknown', f'"{itemStr}" in "{quad}"', p)
             else:
                 if itemStr in items:
-                    error(f'modifier: repeated', itemStr, p)
+                    error(f'modifier: repeated', f'"{itemStr}" in "{quad}"', p)
                 items.add(itemStr)
+            # if we have already seen variants, then this modifier
+            # is inside the variant: we need to mark this
+            if 'variants' in pieceInfo or 'variantsOuter' in pieceInfo:
+                pieceInfo['modifierFirst'] = 1
             continue
 
         # variants
+        varName = 'variantsOuter' if outer else 'variants'
         splits = variantPat.findall(base)
         if splits:
-            items = pieceInfo.setdefault('variants', set())
+            items = pieceInfo.setdefault(varName, set())
             (base, itemStr) = splits[0]
             if itemStr in items:
-                diag('variant: repeated', f'~{itemStr}', p)
+                diag('variant: repeated', f'"~{itemStr}" in "{quad}"', p)
             items.add(itemStr)
+
             continue
 
         # primes
         if base != '' and base[-1] == "'":
             base = base[0:-1]
             if 'prime' in pieceInfo:
-                error(f'prime: repeated', f"{base}'", p)
+                basep = f"{base}'"
+                error(f'prime: repeated', f'"{basep} in "{quad}"', p)
             pieceInfo['prime'] = 1
             continue
 
         stop = True
 
-    if not empty_ok:
-        if base == '':
-            error(f'grapheme: empty', '', p)
+    if base == '':
+        if not empty_ok:
+            diag(f'grapheme: empty', f'"{piece}" in "{quad}"', p)
+        if 'variants' in pieceInfo:
+            if outer is None:
+                pieceInfo['variantsOuter'] = pieceInfo['variants']
+                del pieceInfo['variants']
     return (base, pieceInfo)
 
 
@@ -762,7 +782,7 @@ def parseQuad(quad, p):
                     base = base[1:]
         else:
             if base[-1] == '|':
-                diag('quad: missing start "|"', base, p)
+                diag('quad: missing start "|"', f'"{base}" in "{quad}"', p)
                 base = base[0:-1]
     struct = quadStructure(base, p)
     return struct
@@ -839,18 +859,25 @@ def transformQuad(quads, p):
             signDatas = []
             k = 0
             signs = operatorPat.split(quad)
+            if signs[0] == '':
+                signs = signs[1:]
+            if signs[-1] == '':
+                signs = signs[0:-1]
             for (g, sign) in enumerate(signs):
                 (base, info) = getPieceInfo(
+                    quad,
                     sign,
                     p,
-                    empty_ok=True,
+                    empty_ok=g == 0,
+                    outer=None,
                 )
                 k += len(sign)
                 operator = quad[k] if k < ls else ''
                 k += 1
                 rInfo = {}
-                if g == 0 and base == '' and info:
-                    dest[-1].setdefault('info', {}).update(info)
+                if g == 0 and base == '':
+                    if info:
+                        dest[-1].setdefault('info', {}).update(info)
                 else:
                     parts = repeatPat.findall(base)
                     signData = {}
@@ -858,12 +885,8 @@ def transformQuad(quads, p):
                         (n, base) = parts[0]
                         signData['repeat'] = n
                         (base, rInfo) = getPieceInfo(
-                            base,
-                            p,
+                            quad, base, p, inRepeat=True, outer=False
                         )
-                        if 'modifiers' in rInfo:
-                            rInfo['rmodifiers'] = rInfo['modifiers']
-                            del rInfo['modifiers']
                     if '«' in base or '»' in base:
                         error(
                             'grapheme: repeat not recognized',
@@ -1278,15 +1301,22 @@ def makeTf(tablets):
         if 'variants' in infoData:
             nodeFeatures['variant'][(nodeType,
                                      node)] = ','.join(infoData['variants'])
+        if 'variantsOuter' in infoData:
+            nodeFeatures['variantOuter'][(nodeType, node)] = ','.join(
+                infoData['variantsOuter']
+            )
         if 'flags' in infoData:
             for (flag, value) in infoData['flags'].items():
                 nodeFeatures[flag][(nodeType, node)] = value
         if 'modifiers' in infoData:
             nodeFeatures['modifier'][(nodeType,
                                       node)] = ','.join(infoData['modifiers'])
-        if 'rmodifiers' in infoData:
-            nodeFeatures['rmodifier'][(nodeType,
-                                      node)] = ','.join(infoData['rmodifiers'])
+        if 'modifiersInner' in infoData:
+            nodeFeatures['modifierInner'][(nodeType, node)] = ','.join(
+                infoData['modifiersInner']
+            )
+        if 'modifierFirst' in infoData:
+            nodeFeatures['modifierFirst'][(nodeType, node)] = 1
 
     print('Collecting nodes, edges and features')
     for (i, tablet) in enumerate(tablets):

@@ -3,6 +3,13 @@ from glob import glob
 
 LIMIT = 20
 
+FLAGS = (
+    ('damage', '#'),
+    ('remarkable', '!'),
+    ('written', ('!(', ')')),
+    ('uncertain', '?'),
+)
+
 
 class Compare(object):
     def __init__(self, api, sourceDir, tempDir):
@@ -11,8 +18,9 @@ class Compare(object):
         self.tempDir = tempDir
         os.makedirs(tempDir, exist_ok=True)
 
-    def strFromSign(self, n):
+    def strFromSign(self, n, flags=False):
         F = self.api.F
+        Fs = self.api.Fs
         grapheme = F.grapheme.v(n)
         prime = "'" if F.prime.v(n) else ''
 
@@ -21,17 +29,33 @@ class Compare(object):
 
         modifierValue = F.modifier.v(n)
         modifier = f'@{modifierValue}' if modifierValue else ''
-        rmodifierValue = F.rmodifier.v(n)
-        rmodifier = f'@{rmodifierValue}' if rmodifierValue else ''
+        modifierInnerValue = F.modifierInner.v(n)
+        modifierInner = f'@{modifierInnerValue}' if modifierInnerValue else ''
 
-        fullGrapheme = f'{grapheme}{prime}{variant}{rmodifier}'
+        modifierFirst = F.modifierFirst.v(n)
 
         repeat = F.repeat.v(n)
-        result = (
-            f'{fullGrapheme}'
-            if repeat is None else f'{repeat}({fullGrapheme})'
-        )
-        result = f'{result}{modifier}'
+        if repeat is None:
+            varmod = (
+                f'{modifier}{variant}'
+                if modifierFirst else f'{variant}{modifier}'
+            )
+            result = f'{grapheme}{prime}{varmod}'
+        else:
+            varmod = (
+                f'{modifierInner}{variant}'
+                if modifierFirst else f'{variant}{modifierInner}'
+            )
+            result = f'{repeat}({grapheme}{prime}{varmod}){modifier}'
+
+        if flags:
+            for (flag, char) in FLAGS:
+                value = Fs(flag).v(n)
+                if value:
+                    if type(char) is tuple:
+                        result += f'{char[0]}{value}{char[1]}'
+                    else:
+                        result += char
 
         return result
 

@@ -1,7 +1,7 @@
 @node
 @dataset=uruk
 @datasetName=Cuneiform tablets from the Uruk IV-III period
-@description=indicates modifcation of a signcorresponds to sign@letter in transcription
+@description=indicates modifcation of a sign; corresponds to sign@letter in transcription. if the grapheme is a repeat, the modification applies to the whole repeat.
 @email1=https://www.universiteitleiden.nl/en/staffmembers/cale-johnson#tab-1
 @email2=dirk.roorda@dans.knaw.nl
 @encoders=CDLI (transcription),Cale Johnson (expertise)and Dirk Roorda (TF)
@@ -10,7 +10,7 @@
 @valueType=str
 @version=0.1
 @writtenBy=Text-Fabric
-@dateWritten=2018-02-20T20:34:29Z
+@dateWritten=2018-02-21T11:24:31Z
 
 80	v
 118	n

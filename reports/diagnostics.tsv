@@ -1,21 +1,25 @@
 skip	period	tablet	ln	line	msg	info
 False	uruk-iii	P464196	55648	@column 1 	column: outside face => inserted "@noface"	@column 1
-False	uruk-iii	P387747	52806	2.a. 1(N01) , UDUNITA~a IDIN+1(N57)| 	quad: missing start "|"	IDIN+«1=N57»|
+False	uruk-iii	P471687	33576	C1. |DUGb+?| 	grapheme: empty	"?" in "DUGb+?"
+False	uruk-iii	P387747	52806	2.a. 1(N01) , UDUNITA~a IDIN+1(N57)| 	quad: missing start "|"	"IDIN+«1=N57»|" in "IDIN+«1=N57»|"
 True	uruk-iii	P002176	4599	&P002176 = ATU 6, pl. 51, W 14731,ag8 	tablet: duplicate name => skipped	first one is uruk-iii:4273
 True	uruk-iii	P252175	72230	&P252175 = MS 3164 	tablet: duplicate name => skipped	first one is uruk-iii:72209
 False	uruk-iii	P325228	44706	@column 1	column: numbering: duplicates	1, 1, 2.a, 2.b.1, 2.b.2, 3
 False	uruk-iii	P328738	45198	@column 2	column: numbering: duplicates	1, 2, 1
 False	uruk-iii	P253961	74528	@column 2 	column: numbering: duplicates	1, 1, 1, 1
+False	uruk-iii	P212396	16657	4.b2. 1(N28)#? , SZE~a# BULUG3?# [...] 	flags: unusual order "?#"	"BULUG3?#" in "BULUG3?#"
+False	uruk-iii	P212396	16663	1.d. [...] 2(N01)?# [...] , SZE~a# TAR~a 1(N30~e) 	flags: unusual order "?#"	"«2=N01»?#" in "«2=N01»?#"
+False	uruk-iii	P212396	16668	4. KASZ~b DA~a AN AB~a |GI&GI|#? BAR?# 	flags: unusual order "?#"	"BAR?#" in "BAR?#"
 False	uruk-iii	P002090	4346	[...] KAL~b2? BU~a# [...]	line: missing number	
 False	uruk-iii	P006268	43298	|1(N58).BAD~a| SI AN AD~a GIR~a 	line: missing number	
 False	uruk-iii	P005075	74951	|1(N58).BAD~a| [...]	line: missing number	
 False	uruk-iii	P005335	80136	|1(N58).BAD~a|	line: missing number	
-False	uruk-iii	P387519	51067	1. 1(N01) , KASZ~c TUG2~a~a DU 	variant: repeated	~a
-False	uruk-iii	P250450	51728	3.b. , TUG2~a~a BUR2 	variant: repeated	~a
-False	uruk-iii	P250450	51730	4.b. , TUG2~a~a BUR2 	variant: repeated	~a
-False	uruk-iii	P231784	52378	2. [...] 3(N01)# , EN~a#? TUG2~a~a? 	variant: repeated	~a
-False	uruk-iii	P433193	55167	3. , SAG TUG2~a~a 	variant: repeated	~a
-False	uruk-iii	P464197	55874	1.c3. 2(N14) , GAR SAG TUG2~a~a 	variant: repeated	~a
+False	uruk-iii	P387519	51067	1. 1(N01) , KASZ~c TUG2~a~a DU 	variant: repeated	"~a" in "TUG2~a~a"
+False	uruk-iii	P250450	51728	3.b. , TUG2~a~a BUR2 	variant: repeated	"~a" in "TUG2~a~a"
+False	uruk-iii	P250450	51730	4.b. , TUG2~a~a BUR2 	variant: repeated	"~a" in "TUG2~a~a"
+False	uruk-iii	P231784	52378	2. [...] 3(N01)# , EN~a#? TUG2~a~a? 	variant: repeated	"~a" in "TUG2~a~a?"
+False	uruk-iii	P433193	55167	3. , SAG TUG2~a~a 	variant: repeated	"~a" in "TUG2~a~a"
+False	uruk-iii	P464197	55874	1.c3. 2(N14) , GAR SAG TUG2~a~a 	variant: repeated	"~a" in "TUG2~a~a"
 False	uruk-iii	P448702	63	1'. , U4 |U4x1(N01)| SUKUD@inversum? NA 	tweak	"@inversum" => "@v"
 False	uruk-iii	P464118	16798	43. SANGA~a |ZATU737+SA|L 	tweak	"SA|L" => "SAL|"
 False	uruk-iii	P471682	24111	71. GA~a 1N(02) X AMAR 	tweak	"1N(02)" => "1(N02)"
