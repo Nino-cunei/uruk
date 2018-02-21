@@ -86,6 +86,7 @@ SHOWCASES = set(
     P006427
     P006437
     P252175
+    P252184
     P283915
     P325228
     P411604
@@ -258,20 +259,12 @@ TWEAK_HEADS = (
     ('@column3', '@column 3'),
 )
 
-TWEAK_MATERIAL = (
-    ('4"', "4'"),
-    ('[,', ''),
-    ('SA|L', 'SAL|'),
-    ('~x(', '~x ('),
-    (')|U', ') |U'),
-    ('1N(02)', '1(N02)'),
-    ('(1N', '1(N'),
-    ('~A', '~a'),
-    ('{', '('),
-    ('}', ')'),
-    ('sag-apin', 'sag-apin'),
-    ('@inversum', '@v'),
-)
+TWEAK_MATERIAL = (('U2@~b', 'U2~b'), ('4"', "4'"), ('[,', ''),
+                  ('SA|L', 'SAL|'), ('~x(', '~v ('), ('~x', '~v'),
+                  (')|U', ') |U'), ('1N(02)', '1(N02)'), ('(1N', '1(N'),
+                  ('~A', '~a'), ('{', '('), ('}', ')'), (';', ','),
+                  ('sag-apin', 'sag-apin'), ('@inversum', '@v'), (('KI@', -1),
+                                                                  'KI!'))
 
 linePat = re.compile("([0-9a-zA-Z.'-]+)\s*(.*)")
 numPartsPat = re.compile('([0-9-]+|[a-zA-Z]+)')
@@ -531,11 +524,11 @@ def parseCorpora():
             if skip:
                 continue
             if curColumn is None:
-                diag(
-                    'line: outside column => inserted "@column 0"',
-                    '',
-                    p,
-                )
+                # diag(
+                #    'line: outside column => inserted "@column 0"',
+                #    '',
+                #    p,
+                # )
                 curColumn = {
                     'number': '0',
                     'lines': [],
@@ -607,9 +600,27 @@ def writtenEscapeRepl(match):
 def parseLine(material, p):
     # tweak
     for (pat, rep) in TWEAK_MATERIAL:
-        if pat in material:
-            diag('tweak', f'"{pat}" => "{rep}"', p)
-            material = material.replace(pat, rep)
+        if type(pat) is tuple:
+            (pat, pos) = pat
+            if pos == 0:
+                condition = material.startswith(pat)
+                mark = ' (at start)'
+            elif pos == -1:
+                condition = material.endswith(pat)
+                mark = ' (at end)'
+        else:
+            pos = None
+            condition = pat in material
+            mark = ''
+
+        if condition:
+            diag('tweak', f'"{pat}"{mark} => "{rep}"', p)
+            if pos is None:
+                material = material.replace(pat, rep)
+            elif pos == 0:
+                material = material.replace(pat, rep, 1)
+            else:
+                material = material[0:-len(pat)] + rep
     # remove the commas and transform the numerals
     material = stripCommas.sub(' ', material)
     material = repeatEscapePat.sub(repeatEscapeRepl, material)

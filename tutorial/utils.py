@@ -22,6 +22,8 @@ class Compare(object):
         F = self.api.F
         Fs = self.api.Fs
         grapheme = F.grapheme.v(n)
+        if grapheme == '…':
+            grapheme = '...'
         prime = "'" if F.prime.v(n) else ''
 
         variantValue = F.variant.v(n)
