@@ -1,4 +1,4 @@
-nino-cunei
+Nino-cunei
 ==========
 
 <img src="programs/images/quad.png" align="left" width="40%"/>

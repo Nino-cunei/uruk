@@ -52,7 +52,7 @@ if FLAG:
         print(f'Unknown flag "{FLAG}"')
         print(HELP)
 
-REPO = 'nino-cunei'
+REPO = 'Nino-cunei'
 ORIGIN = 'cdli'
 CORPUS = 'uruk'
 VERSION = '0.1'

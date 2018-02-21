@@ -399,9 +399,9 @@ Sometimes a column is badly numbered. These are the things that might occur:
 4.  lines without numbers
 
 Examples can be found in the
-[diagnostics](https://github.com/Dans-labs/nino-cunei/blob/master/reports/diagnostics.tsv)
+[diagnostics](https://github.com/Dans-labs/Nino-cunei/blob/master/reports/diagnostics.tsv)
 produced by the conversion
-[tfFromAtf](https://github.com/Dans-labs/nino-cunei/blob/master/programs/tfFromAtf.tsv)
+[tfFromAtf](https://github.com/Dans-labs/Nino-cunei/blob/master/programs/tfFromAtf.tsv)
 
 This is how the conversion responds to these issues:
 
