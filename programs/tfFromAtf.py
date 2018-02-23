@@ -86,6 +86,7 @@ SHOWCASES = set(
     P002090
     P002113
     P002202
+    P002771
     P002852
     P004639
     P004747
@@ -96,6 +97,7 @@ SHOWCASES = set(
     P006427
     P006428
     P006437
+    P250428
     P252175
     P252184
     P283915
@@ -106,6 +108,7 @@ SHOWCASES = set(
     P448702
     P464118
     P464141
+    P471695
     P499393
 '''.strip().split()
 )
@@ -179,7 +182,7 @@ specificMetaData = dict(
     srcLnNum='line number in transcription file',
     sub='connects line or case with sub-cases, or quad with sub-quads',
     text='text of comment nodes',
-    type='type of a face',
+    type='type of a face; type of a comment',
     uncertain='corresponds to ?-flag in transcription',
     variant='allograph for a sign, corresponds to ~x in transcription',
     variantOuter='allograph for a quad, corresponds to ~x in transcription',
@@ -233,7 +236,7 @@ UPPER = set('ABCDEFGHIJKLMNOPQRSTUVWXYZ')
 
 CLUSTER_BEGIN = {'[': ']', '<': '>', '(': ')'}
 CLUSTER_END = {y: x for (x, y) in CLUSTER_BEGIN.items()}
-CLUSTER_TYPE = {'[': 'uncertain', '(': 'properName', '<': 'supplied'}
+CLUSTER_KIND = {'[': 'uncertain', '(': 'properName', '<': 'supplied'}
 
 OPERATORS = set('''
     x
@@ -276,12 +279,26 @@ TWEAK_HEADS = (
     ('@column3', '@column 3'),
 )
 
-TWEAK_MATERIAL = (('U2@~b', 'U2~b'), ('4"', "4'"), ('[,', ''),
-                  ('SA|L', 'SAL|'), ('~x(', '~v ('), ('~x', '~v'),
-                  (')|U', ') |U'), ('1N(02)', '1(N02)'), ('(1N', '1(N'),
-                  ('~A', '~a'), ('{', '('), ('}', ')'), (';', ','),
-                  ('sag-apin', 'sag-apin'), ('@inversum', '@v'), (('KI@', -1),
-                                                                  'KI!'))
+TWEAK_LINES = (('1.1(', '1. 1('), )
+
+TWEAK_MATERIAL = (
+    ('U2@~b', 'U2~b'),
+    ('4"', "4'"),
+    ('[,', ''),
+    ('SA|L', 'SAL|'),
+    ('~x(', '~v ('),
+    ('~x', '~v'),
+    (')|U', ') |U'),
+    ('1N(02)', '1(N02)'),
+    ('(1N', '1(N'),
+    ('~A', '~a'),
+    ('{', '('),
+    ('}', ')'),
+    (';', ','),
+    ('sag-apin', 'sag-apin'),
+    ('@inversum', '@v'),
+    (('KI@', -1), 'KI!'),
+)
 
 linePat = re.compile("([0-9a-zA-Z.'-]+)\s*(.*)")
 numPartsPat = re.compile('([0-9-]+|[a-zA-Z]+)')
@@ -450,6 +467,7 @@ def parseCorpora():
                         curTablet.setdefault('comments', []).append({
                             'srcLn': line,
                             'srcLnNum': ln,
+                            'type': 'object',
                             'text': ident,
                         })
                 elif kind == 'fragment':
@@ -536,11 +554,16 @@ def parseCorpora():
                 target.setdefault('comments', []).append({
                     'srcLn': line,
                     'srcLnNum': ln,
+                    'type': 'ruling' if fc == '$' else 'meta',
                     'text': line[1:].strip()
                 })
         else:
             if skip:
                 continue
+            for (pat, rep) in TWEAK_LINES:
+                if line.startswith(pat):
+                    diag('tweak', f'"{pat}" => "{rep}"', p)
+                    line = line.replace(pat, rep)
             if curColumn is None:
                 # diag(
                 #    'line: outside column => inserted "@column 0"',
@@ -679,7 +702,7 @@ def parseLine(material, p):
                 stop = True
             else:
                 lqo = CLUSTER_END[lq]
-                cType = CLUSTER_TYPE[lqo]
+                cKind = CLUSTER_KIND[lqo]
                 start = startPoints.get(lqo, None)
                 if start is None:
                     error(
@@ -688,7 +711,7 @@ def parseLine(material, p):
                         p,
                     )
                 else:
-                    clusters.append((cType, start, q))
+                    clusters.append((cKind, start, q))
                     del startPoints[lqo]
             if rest == '':
                 stop = True
@@ -1241,6 +1264,7 @@ def makeTf(tablets):
         cur[nodeType] += 1
         curNode = cur[nodeType]
         for ft in '''
+            crossref
             fullNumber
             origNumber
             prime
@@ -1266,6 +1290,7 @@ def makeTf(tablets):
             cur[nodeType] += 1
             curNode = cur[nodeType]
             for ft in '''
+                type
                 text
                 srcLn
                 srcLnNum
@@ -1282,7 +1307,9 @@ def makeTf(tablets):
         clusters = material.get('clusters', [])
         startClusters = collections.defaultdict(list)
         endClusters = collections.defaultdict(list)
-        for (kind, fromQuad, toQuad) in clusters:
+        for (kind, fromQuad, toQuad) in sorted(
+            clusters, key=lambda x: (x[1], -x[2], x[0])
+        ):
             startClusters[fromQuad].append(kind)
             endClusters[toQuad + 1].append(kind)
         quads = material.get('quads', [])
@@ -1296,7 +1323,12 @@ def makeTf(tablets):
                 for kind in startClusters[q]:
                     cur[nodeType] += 1
                     curNode = cur[nodeType]
-                    nodeFeatures['type'][(nodeType, curNode)] = kind
+                    nodeFeatures['kind'][(nodeType, curNode)] = kind
+                    for (cNodeType, cNode) in context:
+                        if cNodeType == nodeType:
+                            edgeFeatures['sub'][(nodeType, cNode)].add(
+                                (nodeType, curNode)
+                            )
                     context.append((nodeType, curNode))
             (prevType, prevNode) = doQuad(
                 q,
@@ -1307,6 +1339,10 @@ def makeTf(tablets):
                 None,
                 None,
             )
+            for (cNodeType, cNode) in context:
+                if cNodeType == nodeType:
+                    edgeFeatures['sub'][(nodeType,
+                                         cNode)].add((prevType, prevNode))
             prevQuad = quad
         q = len(quads)
         if q in endClusters:

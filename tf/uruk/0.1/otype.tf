@@ -9,7 +9,7 @@
 @valueType=str
 @version=0.1
 @writtenBy=Text-Fabric
-@dateWritten=2018-02-23T12:13:02Z
+@dateWritten=2018-02-23T22:31:40Z
 
 1-146955	sign
 146956-150861	quad
@@ -17,6 +17,6 @@
 157258-166699	face
 166700-180732	column
 180733-196538	comment
-196539-229498	cluster
-229499-266423	line
-266424-318108	case
+196539-229497	cluster
+229498-266422	line
+266423-318107	case

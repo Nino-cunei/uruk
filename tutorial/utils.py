@@ -10,6 +10,12 @@ FLAGS = (
     ('uncertain', '?'),
 )
 
+CLUSTER_BEGIN = {'[': ']', '<': '>', '(': ')'}
+CLUSTER_END = {y: x for (x, y) in CLUSTER_BEGIN.items()}
+CLUSTER_KIND = {'[': 'uncertain', '(': 'properName', '<': 'supplied'}
+CLUSTER_BRACKETS = dict((name, (bOpen, CLUSTER_BEGIN[bOpen]))
+                        for (bOpen, name) in CLUSTER_KIND.items())
+
 
 class Compare(object):
     def __init__(self, api, sourceDir, tempDir):
@@ -78,11 +84,11 @@ class Compare(object):
                 op = nextChildren[0][1]
             else:
                 op = ''
+            childType = F.otype.v(child)
 
             thisResult = (
-                self.strFromQuad(child, flags=flags, outer=False)
-                if F.otype.v(child) == 'quad' else
-                self.strFromSign(child, flags=flags)
+                self.strFromQuad(child, flags=flags, outer=False) if
+                childType == 'quad' else self.strFromSign(child, flags=flags)
             )
             result += f'{thisResult}{op}'
 
@@ -124,6 +130,39 @@ class Compare(object):
 
         return result
 
+    def strFromCluster(self, n, seen=None):
+        api = self.api
+        F = api.F
+        E = api.E
+        kind = F.kind.v(n)
+        (bOpen, bClose) = CLUSTER_BRACKETS[kind]
+        if bClose == ')':
+            bClose = ')a'
+        children = api.sortNodes(E.sub.f(n))
+
+        if seen is None:
+            seen = set()
+        result = []
+        for child in children:
+            if child in seen:
+                continue
+            childType = F.otype.v(child)
+
+            thisResult = (
+                self.strFromCluster(child, seen=seen) if childType == 'cluster'
+                else self.strFromQuad(child, flags=True) if childType == 'quad'
+                else self.strFromSign(child, flags=True)
+                if childType == 'sign' else None
+            )
+            seen.add(child)
+            if thisResult is None:
+                print(
+                    f'TF: child of cluster has type {childType}:'
+                    ' should not happen'
+                )
+            result.append(thisResult)
+        return f'{bOpen}{" ".join(result)}{bClose}'
+
     def writeFreqs(self, fileName, data, dataName):
         print(f'There are {len(data)} {dataName}s')
 
@@ -159,7 +198,21 @@ class Compare(object):
                     elif not skipTablet:
                         yield (corpus, curTablet, ln + 1, line, False)
 
-    def checkSanity(self, headers, grepFunc, tfFunc):
+    def checkSanity(self, headers, grepFunc, tfFunc, leeway=0):
+        def equalLeeway(tfTuple, grepTuple):
+            if not leeway:
+                return tfTuple == grepTuple
+
+            tfRest = tfTuple[0:2] + tfTuple[3:]
+            grepRest = grepTuple[0:2] + grepTuple[3:]
+            tfLn = tfTuple[2]
+            grepLn = grepTuple[2]
+            theDiff = abs(grepLn - tfLn)
+            if theDiff > leeway:
+                return False
+            else:
+                return tfRest == grepRest
+
         resultTf = tuple(tfFunc())
         resultGrep = tuple(grepFunc(self.readCorpora()))
 
@@ -179,7 +232,7 @@ class Compare(object):
         equal = True
         n = 0
         while n < minimum:
-            if resultTf[n] != resultGrep[n]:
+            if not equalLeeway(resultTf[n], resultGrep[n]):
                 equal = False
                 break
             n += 1

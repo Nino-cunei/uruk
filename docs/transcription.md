@@ -348,6 +348,14 @@ make sense.
 
 Collected in the feature *kind=supplied*
 
+### Members and embedding ###
+
+The direct members of a cluster can be found by following the `sub` edges from a
+cluster. They reach all outermost quads and signs that belong to a cluster.
+
+Clusters may lie embedded in each other. There are also `sub` edges from
+clusters to embedded clusters.
+
 Case
 ----
 
@@ -458,17 +466,19 @@ This means that line `1.` corresponds to line `oi2` in text `P000014` and that
 line `1'.` corresponds to line `026` in text `Q000023`, although with
 uncertainty.
 
-We collect this information in the feature *crossref* on lines, with value
+We collect this information in the feature *crossref* on cases, with value
 `P000014.oi2` and `Q000023.026:?` respectively.
 
-If there are several cross-references from the same line, we collect them in a
-comma separated list.
+If there are several cross-references from the same case line, we collect them
+in a comma separated list.
 
 Comments
 --------
 
 Lines starting with `$` or `#` are comments to the current object (*tablet*,
 *face*, *column*, or *line*, see below).
+
+Lines starting with `@object` are comments to the current object.
 
     &P002718 = ATU 3, pl. 078, W 17729,cn+
     #version: 0.1
@@ -484,13 +494,21 @@ and
 Comments are a separate node type. They get one slot with an empty grapheme to
 anchor them to the text.
 
-The line number and the text on the line are collected in features `srcLnNum`
-and `srcLn` respectively.
+The type of comment is stored in the feature *type*:
+
+transcription | *type* feature | description
+---|---|---
+`$` | `ruling` | a rule like marking on the tablet
+`#` | `meta` | metadata
+`@object` | `object` | object description 
+
+The line number and the text on the line are collected in features *srcLnNum*
+and *srcLn* respectively.
 
 There is also an edge feature `comments`, with edges going from the object to
 its comments.
 
-Without this edge feature, we could find all comments for tablet with
+Without this edge feature, we could find all comments for a tablet with
 
     L.d(t, otype='comment')
 
