@@ -8,11 +8,11 @@
 @fmt:text-trans-full={srcLnNum}: {srcLn}\n
 @fmt:text-trans-plain={srcLn}\n
 @levels=tablet,face,column,line,case,cluster,quad,comment,sign
-@sectionFeatures=catalogId,number,number
+@sectionFeatures=catalogId,fullNumber,number
 @sectionTypes=tablet,column,line
 @source=CLDI
 @sourceUrl=https://cdli.ucla.edu
 @version=0.1
 @writtenBy=Text-Fabric
-@dateWritten=2018-02-21T21:16:00Z
+@dateWritten=2018-02-23T12:13:04Z
 

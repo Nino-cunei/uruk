@@ -10,7 +10,7 @@
 @valueType=str
 @version=0.1
 @writtenBy=Text-Fabric
-@dateWritten=2018-02-21T21:15:57Z
+@dateWritten=2018-02-23T12:13:01Z
 
 
 
@@ -74964,7 +74964,6 @@ SILANITA
 …
 …
 U4
-N
 N01
 …
 …
@@ -104260,7 +104259,6 @@ SILA3
 HASZHUR
 N51
 N01
-N
 N57
 GAR
 N05

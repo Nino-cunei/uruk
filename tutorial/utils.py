@@ -44,6 +44,8 @@ class Compare(object):
             )
             result = f'{grapheme}{prime}{varmod}'
         else:
+            if repeat == -1:
+                repeat = 'N'
             varmod = (
                 f'{modifierInner}{variant}'
                 if modifierFirst else f'{variant}{modifierInner}'
@@ -58,6 +60,67 @@ class Compare(object):
                         result += f'{char[0]}{value}{char[1]}'
                     else:
                         result += char
+
+        return result
+
+    def strFromQuad(self, n, flags=False, outer=True):
+        api = self.api
+        E = api.E
+        F = api.F
+        Fs = api.Fs
+        children = E.sub.f(n)
+        if not children or len(children) < 2:
+            return f'quad with less than two sub-quads should not happen'
+        result = ''
+        for child in children:
+            nextChildren = E.op.f(child)
+            if nextChildren:
+                op = nextChildren[0][1]
+            else:
+                op = ''
+
+            thisResult = (
+                self.strFromQuad(child, flags=flags, outer=False)
+                if F.otype.v(child) == 'quad' else
+                self.strFromSign(child, flags=flags)
+            )
+            result += f'{thisResult}{op}'
+
+        variant = F.variantOuter.v(n)
+        variantStr = f'~{variant}' if variant else ''
+
+        flagStr = ''
+        if flags:
+            for (flag, char) in FLAGS:
+                value = Fs(flag).v(n)
+                if value:
+                    if type(char) is tuple:
+                        flagStr += f'{char[0]}{value}{char[1]}'
+                    else:
+                        flagStr += char
+
+        if variant:
+            if flagStr:
+                if outer:
+                    result = f'|({result}){variantStr}|{flagStr}'
+                else:
+                    result = f'(({result}){variantStr}){flagStr}'
+            else:
+                if outer:
+                    result = f'|({result}){variantStr}|'
+                else:
+                    result = f'({result}){variantStr}'
+        else:
+            if flagStr:
+                if outer:
+                    result = f'|{result}|{flagStr}'
+                else:
+                    result = f'({result}){flagStr}'
+            else:
+                if outer:
+                    result = f'|{result}|'
+                else:
+                    result = f'({result})'
 
         return result
 

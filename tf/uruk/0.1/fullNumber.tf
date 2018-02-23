@@ -1,7 +1,7 @@
 @node
 @dataset=uruk
 @datasetName=Cuneiform tablets from the Uruk IV-III period
-@description=hierarchical number given toterminal cases in transcription lines
+@description=hierarchical number given toterminal cases in transcription lines;also the combination of face type and column number on columns
 @email1=https://www.universiteitleiden.nl/en/staffmembers/cale-johnson#tab-1
 @email2=dirk.roorda@dans.knaw.nl
 @encoders=CDLI (transcription),Cale Johnson (expertise)and Dirk Roorda (TF)
@@ -10,9 +10,14042 @@
 @valueType=str
 @version=0.1
 @writtenBy=Text-Fabric
-@dateWritten=2018-02-21T21:15:57Z
+@dateWritten=2018-02-23T12:13:01Z
 
-262520	1
+166700	obverse:1
+obverse:2
+obverse:1
+obverse:2
+obverse:3
+obverse:4
+obverse:5
+obverse:1
+obverse:2
+obverse:1
+obverse:2
+obverse:3
+obverse:1
+obverse:2
+obverse:1
+obverse:2
+reverse:0
+obverse:1
+obverse:1
+obverse:2
+obverse:1
+obverse:2
+reverse:0
+obverse:1
+obverse:2
+obverse:0
+obverse:1
+reverse:1
+reverse:2
+obverse:1
+obverse:2
+obverse:3
+reverse:1
+reverse:2
+reverse:3
+left:0
+obverse:1
+obverse:2
+obverse:3
+obverse:1
+obverse:1
+obverse:2
+obverse:3
+reverse:0
+obverse:1
+obverse:2
+obverse:3
+obverse:4
+obverse:1
+obverse:2
+obverse:3
+obverse:4
+obverse:5
+obverse:6
+obverse:7
+reverse:1
+obverse:1
+obverse:2
+obverse:3
+obverse:1
+obverse:2
+obverse:1
+obverse:2
+obverse:3
+obverse:4
+obverse:1
+obverse:2
+obverse:3
+obverse:1
+obverse:2
+obverse:3
+reverse:0
+obverse:1
+obverse:2
+reverse:0
+obverse:1
+obverse:2
+obverse:3
+reverse:1
+obverse:1
+obverse:0
+obverse:1
+obverse:1
+obverse:1
+obverse:1
+obverse:1
+obverse:0
+reverse:0
+obverse:1
+obverse:1
+obverse:1
+reverse:1
+obverse:1
+obverse:1
+reverse:1
+obverse:1
+obverse:1
+obverse:1
+obverse:1
+obverse:1
+obverse:2
+obverse:1
+obverse:2
+obverse:1
+obverse:1
+obverse:1
+obverse:2
+obverse:3
+obverse:4
+obverse:5
+obverse:1
+obverse:2
+obverse:1
+reverse:1
+obverse:1
+reverse:1
+obverse:1
+obverse:2
+obverse:1
+obverse:2
+reverse:1
+obverse:1
+obverse:2
+reverse:1
+obverse:1
+obverse:2
+reverse:1
+obverse:1
+obverse:1
+obverse:1
+obverse:2
+obverse:1
+obverse:1
+obverse:2
+obverse:3
+obverse:1
+reverse:1
+reverse:2
+obverse:1
+obverse:2
+obverse:1
+obverse:1
+obverse:2
+obverse:1
+obverse:2
+reverse:1
+obverse:1
+obverse:2
+obverse:3
+obverse:4
+obverse:5
+reverse:1
+reverse:2
+obverse:1
+obverse:2
+obverse:1
+obverse:1
+obverse:2
+reverse:1
+obverse:1
+obverse:1
+obverse:2
+obverse:3
+obverse:1
+obverse:1
+obverse:1
+obverse:1
+obverse:2
+obverse:3
+obverse:1
+obverse:2
+obverse:3
+reverse:1
+obverse:1
+obverse:2
+obverse:1
+obverse:1
+obverse:1
+obverse:1
+obverse:1
+obverse:1
+obverse:1
+obverse:1
+obverse:2
+obverse:3
+obverse:4
+obverse:5
+obverse:6
+reverse:1
+obverse:1
+obverse:1
+obverse:1
+obverse:2
+obverse:3
+reverse:1
+obverse:1
+obverse:1
+obverse:1
+obverse:1
+obverse:1
+obverse:2
+obverse:1
+reverse:1
+obverse:1
+obverse:1
+obverse:1
+obverse:1
+obverse:1
+obverse:1
+obverse:1
+obverse:1
+obverse:1
+obverse:1
+obverse:1
+obverse:2
+obverse:1
+obverse:1
+obverse:1
+obverse:1
+obverse:1
+obverse:1
+obverse:1
+obverse:1
+obverse:1
+obverse:1
+obverse:1
+obverse:1
+obverse:2
+obverse:3
+reverse:1
+obverse:1
+obverse:1
+obverse:1
+obverse:1
+obverse:2
+obverse:3
+obverse:1
+obverse:2
+obverse:1
+obverse:1
+obverse:2
+obverse:1
+obverse:1
+obverse:2
+obverse:3
+reverse:1
+obverse:1
+obverse:1
+obverse:2
+reverse:1
+reverse:2
+reverse:3
+reverse:4
+obverse:1
+obverse:2
+reverse:1
+reverse:2
+obverse:1
+obverse:2
+obverse:1
+obverse:2
+obverse:3
+obverse:1
+obverse:2
+obverse:1
+obverse:2
+reverse:1
+reverse:2
+obverse:1
+obverse:1
+reverse:1
+obverse:1
+obverse:2
+reverse:1
+reverse:2
+reverse:3
+obverse:1
+obverse:2
+obverse:1
+reverse:1
+obverse:1
+reverse:1
+obverse:1
+obverse:1
+obverse:1
+obverse:2
+obverse:3
+obverse:4
+obverse:5
+reverse:1
+reverse:2
+obverse:1
+obverse:2
+obverse:1
+obverse:2
+obverse:1
+obverse:2
+obverse:3
+obverse:4
+reverse:1
+obverse:1
+obverse:2
+obverse:3
+obverse:1
+obverse:2
+obverse:1
+reverse:1
+obverse:0
+obverse:0
+obverse:1
+obverse:1
+obverse:1
+obverse:1
+obverse:1
+obverse:1
+obverse:1
+obverse:1
+obverse:1
+obverse:1
+obverse:1
+reverse:1
+obverse:1
+obverse:2
+obverse:1
+obverse:1
+obverse:1
+obverse:2
+obverse:1
+obverse:1
+obverse:2
+obverse:1
+reverse:1
+reverse:2
+obverse:1
+obverse:1
+obverse:2
+obverse:1
+obverse:1
+obverse:2
+obverse:1
+obverse:2
+reverse:1
+obverse:1
+obverse:1
+obverse:2
+reverse:1
+reverse:2
+reverse:3
+obverse:1
+obverse:2
+obverse:3
+obverse:1
+obverse:2
+obverse:1
+obverse:1
+obverse:1
+obverse:1
+obverse:1
+obverse:1
+obverse:1
+obverse:2
+obverse:1
+obverse:1
+obverse:1
+obverse:1
+obverse:0
+obverse:1
+obverse:1
+obverse:2
+obverse:1
+obverse:1
+obverse:1
+obverse:1
+obverse:1
+reverse:1
+obverse:1
+obverse:2
+obverse:1
+obverse:1
+obverse:1
+obverse:2
+obverse:1
+obverse:1
+obverse:2
+obverse:1
+obverse:2
+obverse:1
+obverse:2
+reverse:1
+obverse:1
+obverse:1
+obverse:1
+obverse:1
+obverse:2
+obverse:1
+obverse:2
+obverse:1
+obverse:2
+obverse:1
+obverse:2
+obverse:1
+reverse:1
+obverse:1
+obverse:1
+obverse:2
+reverse:1
+reverse:2
+obverse:1
+obverse:1
+obverse:2
+obverse:1
+obverse:2
+obverse:1
+obverse:2
+obverse:1
+obverse:1
+obverse:1
+obverse:2
+obverse:1
+obverse:2
+obverse:1
+obverse:1
+obverse:1
+obverse:2
+obverse:3
+reverse:1
+reverse:2
+obverse:1
+obverse:1
+obverse:1
+obverse:1
+obverse:2
+reverse:1
+obverse:1
+obverse:2
+obverse:3
+reverse:1
+obverse:1
+reverse:1
+obverse:1
+reverse:1
+reverse:2
+obverse:1
+obverse:1
+obverse:2
+reverse:1
+obverse:1
+obverse:1
+obverse:1
+obverse:1
+reverse:1
+obverse:1
+obverse:1
+obverse:2
+obverse:3
+obverse:1
+obverse:2
+obverse:1
+obverse:2
+obverse:3
+obverse:1
+obverse:2
+obverse:1
+obverse:2
+obverse:3
+obverse:4
+obverse:5
+reverse:1
+reverse:2
+obverse:1
+obverse:1
+obverse:2
+obverse:1
+obverse:1
+obverse:1
+obverse:2
+reverse:1
+reverse:2
+obverse:1
+obverse:2
+obverse:1
+obverse:1
+obverse:2
+obverse:1
+reverse:1
+obverse:1
+reverse:1
+obverse:1
+obverse:1
+obverse:2
+obverse:1
+obverse:1
+obverse:2
+obverse:3
+reverse:1
+reverse:2
+obverse:1
+obverse:2
+obverse:1
+obverse:1
+obverse:2
+obverse:3
+obverse:1
+obverse:1
+obverse:2
+obverse:1
+obverse:2
+reverse:1
+reverse:2
+obverse:1
+obverse:2
+obverse:1
+obverse:1
+obverse:2
+obverse:3
+obverse:4
+reverse:1
+reverse:2
+obverse:1
+obverse:2
+obverse:1
+obverse:2
+obverse:3
+obverse:4
+reverse:1
+reverse:2
+obverse:1
+obverse:2
+obverse:1
+obverse:2
+obverse:1
+reverse:1
+obverse:1
+obverse:2
+obverse:1
+obverse:2
+reverse:1
+reverse:2
+obverse:1
+obverse:2
+obverse:1
+obverse:2
+obverse:1
+obverse:1
+reverse:1
+obverse:1
+obverse:1
+obverse:1
+obverse:2
+obverse:1
+obverse:1
+obverse:2
+obverse:1
+reverse:1
+obverse:1
+obverse:1
+obverse:2
+obverse:1
+obverse:1
+obverse:2
+obverse:1
+obverse:2
+obverse:3
+reverse:1
+obverse:1
+obverse:2
+reverse:1
+reverse:2
+obverse:1
+obverse:1
+obverse:2
+obverse:1
+obverse:2
+obverse:1
+obverse:2
+obverse:1
+obverse:2
+obverse:1
+obverse:1
+obverse:2
+obverse:3
+reverse:1
+obverse:1
+obverse:2
+obverse:3
+reverse:1
+reverse:2
+obverse:1
+obverse:1
+obverse:2
+obverse:1
+reverse:1
+obverse:1
+reverse:1
+obverse:1
+obverse:2
+obverse:1
+obverse:2
+reverse:1
+reverse:2
+obverse:1
+obverse:2
+obverse:1
+obverse:1
+reverse:1
+obverse:1
+obverse:1
+obverse:1
+obverse:1
+obverse:2
+obverse:0
+obverse:1
+obverse:1
+obverse:1
+obverse:1
+obverse:1
+obverse:2
+obverse:1
+obverse:2
+obverse:1
+obverse:1
+obverse:2
+reverse:1
+obverse:1
+obverse:2
+obverse:1
+obverse:2
+obverse:3
+reverse:1
+reverse:2
+obverse:1
+obverse:2
+obverse:1
+reverse:1
+reverse:2
+obverse:1
+obverse:2
+obverse:3
+reverse:1
+reverse:2
+obverse:1
+obverse:1
+obverse:2
+obverse:1
+reverse:1
+reverse:2
+obverse:1
+obverse:1
+reverse:1
+obverse:1
+obverse:1
+reverse:1
+obverse:1
+reverse:1
+reverse:2
+obverse:1
+obverse:2
+obverse:1
+obverse:1
+obverse:1
+obverse:2
+obverse:1
+reverse:1
+obverse:1
+obverse:1
+obverse:2
+reverse:1
+reverse:2
+obverse:1
+obverse:1
+obverse:1
+obverse:2
+reverse:1
+obverse:1
+obverse:1
+obverse:1
+obverse:2
+obverse:1
+obverse:1
+obverse:1
+obverse:2
+obverse:1
+obverse:1
+obverse:2
+obverse:1
+obverse:1
+obverse:1
+obverse:1
+obverse:1
+obverse:1
+obverse:1
+obverse:1
+obverse:2
+obverse:1
+obverse:1
+obverse:1
+obverse:1
+obverse:1
+obverse:2
+obverse:1
+obverse:1
+obverse:2
+obverse:1
+obverse:2
+reverse:1
+obverse:1
+reverse:1
+obverse:1
+obverse:1
+obverse:2
+obverse:3
+reverse:1
+obverse:1
+obverse:1
+obverse:1
+obverse:1
+obverse:1
+obverse:1
+obverse:2
+obverse:1
+obverse:1
+obverse:1
+obverse:1
+obverse:1
+obverse:1
+obverse:1
+obverse:2
+obverse:1
+obverse:2
+reverse:1
+reverse:2
+reverse:3
+obverse:1
+obverse:2
+reverse:1
+reverse:2
+obverse:1
+obverse:2
+obverse:1
+obverse:2
+obverse:1
+obverse:1
+reverse:1
+obverse:1
+reverse:1
+reverse:2
+obverse:2
+obverse:1
+obverse:1
+obverse:2
+obverse:3
+reverse:1
+reverse:2
+obverse:1
+obverse:2
+obverse:3
+obverse:4
+obverse:5
+obverse:6
+obverse:7
+obverse:8
+obverse:9
+reverse:1
+reverse:2
+reverse:3
+obverse:1
+reverse:1
+obverse:1
+obverse:1
+obverse:2
+obverse:1
+obverse:2
+obverse:1
+obverse:1
+obverse:2
+obverse:1
+obverse:1
+obverse:2
+obverse:1
+obverse:2
+reverse:1
+reverse:2
+obverse:1
+reverse:1
+obverse:1
+obverse:2
+obverse:1
+obverse:2
+obverse:3
+obverse:1
+obverse:2
+obverse:3
+obverse:1
+obverse:2
+obverse:3
+obverse:1
+obverse:2
+obverse:1
+obverse:2
+reverse:1
+reverse:2
+obverse:1
+obverse:1
+obverse:1
+obverse:2
+obverse:1
+obverse:1
+obverse:2
+obverse:3
+obverse:1
+obverse:2
+obverse:1
+obverse:1
+obverse:2
+obverse:1
+reverse:1
+reverse:2
+obverse:1
+obverse:2
+obverse:3
+obverse:1
+obverse:2
+obverse:3
+obverse:1
+obverse:2
+obverse:1
+obverse:1
+obverse:2
+obverse:1
+obverse:2
+obverse:1
+obverse:2
+obverse:1
+obverse:1
+obverse:1
+obverse:1
+reverse:1
+obverse:1
+obverse:2
+obverse:1
+obverse:2
+obverse:1
+obverse:2
+obverse:3
+obverse:1
+obverse:2
+obverse:1
+obverse:2
+obverse:3
+obverse:1
+obverse:2
+reverse:1
+reverse:2
+obverse:1
+obverse:2
+obverse:3
+obverse:1
+obverse:2
+obverse:3
+obverse:1
+reverse:1
+obverse:1
+obverse:2
+obverse:1
+obverse:2
+obverse:3
+obverse:4
+obverse:1
+obverse:2
+obverse:1
+obverse:2
+obverse:1
+obverse:2
+obverse:1
+obverse:2
+obverse:1
+obverse:2
+obverse:1
+obverse:2
+obverse:3
+obverse:1
+obverse:2
+obverse:3
+reverse:1
+obverse:1
+reverse:1
+reverse:2
+obverse:1
+obverse:2
+reverse:1
+reverse:2
+obverse:1
+obverse:2
+obverse:1
+obverse:2
+reverse:1
+reverse:2
+reverse:3
+obverse:1
+obverse:2
+reverse:1
+reverse:2
+obverse:1
+obverse:2
+obverse:1
+obverse:2
+obverse:1
+reverse:1
+obverse:1
+obverse:1
+obverse:1
+obverse:1
+obverse:1
+obverse:2
+obverse:1
+obverse:2
+obverse:1
+obverse:2
+obverse:3
+obverse:1
+obverse:2
+obverse:3
+obverse:4
+obverse:5
+reverse:1
+reverse:2
+obverse:1
+reverse:1
+reverse:2
+obverse:1
+obverse:2
+obverse:1
+obverse:2
+obverse:1
+reverse:1
+reverse:2
+obverse:1
+obverse:1
+obverse:2
+obverse:1
+obverse:2
+obverse:1
+obverse:2
+obverse:3
+reverse:1
+obverse:1
+obverse:2
+obverse:1
+reverse:1
+obverse:1
+obverse:2
+reverse:0
+obverse:1
+obverse:1
+obverse:2
+obverse:1
+obverse:2
+reverse:1
+reverse:2
+obverse:1
+obverse:2
+obverse:1
+obverse:1
+obverse:2
+obverse:1
+obverse:1
+obverse:2
+obverse:3
+obverse:4
+obverse:1
+obverse:2
+obverse:1
+obverse:2
+obverse:1
+obverse:1
+obverse:1
+reverse:1
+obverse:1
+obverse:2
+obverse:1
+obverse:2
+reverse:1
+obverse:1
+obverse:1
+obverse:2
+obverse:1
+obverse:2
+obverse:1
+obverse:2
+obverse:1
+obverse:2
+obverse:1
+obverse:2
+obverse:1
+reverse:1
+obverse:1
+obverse:1
+obverse:1
+obverse:1
+obverse:1
+obverse:2
+obverse:1
+obverse:2
+reverse:1
+obverse:1
+reverse:1
+reverse:2
+obverse:1
+obverse:1
+obverse:2
+obverse:1
+obverse:1
+obverse:2
+obverse:1
+obverse:1
+obverse:2
+reverse:1
+reverse:2
+obverse:1
+obverse:2
+obverse:1
+obverse:1
+obverse:2
+obverse:1
+obverse:2
+obverse:3
+reverse:1
+reverse:2
+obverse:1
+obverse:1
+obverse:2
+obverse:3
+obverse:1
+obverse:2
+obverse:3
+obverse:1
+obverse:1
+obverse:1
+obverse:2
+reverse:1
+obverse:1
+obverse:1
+obverse:1
+obverse:2
+obverse:1
+obverse:2
+obverse:1
+obverse:1
+obverse:1
+obverse:2
+obverse:1
+obverse:2
+obverse:1
+obverse:1
+obverse:2
+obverse:1
+obverse:1
+obverse:1
+obverse:1
+obverse:1
+obverse:1
+obverse:1
+obverse:1
+obverse:2
+obverse:1
+obverse:2
+obverse:1
+obverse:1
+obverse:1
+obverse:1
+obverse:0
+obverse:1
+obverse:1
+obverse:1
+obverse:0
+obverse:1
+obverse:2
+obverse:3
+reverse:1
+reverse:2
+reverse:3
+obverse:1
+obverse:0
+obverse:1
+obverse:1
+reverse:1
+obverse:1
+obverse:1
+obverse:2
+obverse:3
+obverse:1
+obverse:1
+obverse:1
+obverse:1
+obverse:1
+obverse:2
+obverse:1
+obverse:1
+obverse:1
+obverse:1
+obverse:1
+obverse:1
+obverse:2
+obverse:1
+obverse:1
+obverse:1
+obverse:2
+obverse:1
+obverse:2
+obverse:1
+obverse:1
+reverse:1
+obverse:1
+obverse:2
+obverse:3
+obverse:4
+obverse:1
+obverse:2
+reverse:1
+obverse:1
+reverse:1
+obverse:1
+obverse:1
+obverse:1
+obverse:1
+obverse:1
+obverse:2
+obverse:1
+obverse:1
+obverse:1
+obverse:2
+obverse:1
+obverse:1
+obverse:1
+obverse:1
+obverse:2
+obverse:1
+obverse:1
+obverse:1
+obverse:1
+obverse:1
+obverse:1
+obverse:1
+obverse:1
+obverse:1
+obverse:1
+obverse:1
+obverse:1
+obverse:2
+obverse:1
+obverse:1
+reverse:1
+reverse:2
+obverse:1
+obverse:1
+obverse:1
+obverse:2
+obverse:3
+obverse:1
+obverse:1
+obverse:2
+reverse:1
+obverse:1
+obverse:1
+obverse:2
+obverse:1
+obverse:1
+obverse:2
+reverse:1
+obverse:1
+obverse:2
+obverse:1
+obverse:2
+obverse:1
+obverse:2
+reverse:1
+obverse:1
+obverse:2
+obverse:3
+obverse:4
+obverse:5
+reverse:1
+obverse:1
+obverse:2
+reverse:1
+reverse:2
+obverse:1
+obverse:2
+obverse:3
+obverse:1
+obverse:2
+reverse:1
+reverse:2
+obverse:1
+obverse:2
+obverse:3
+obverse:1
+obverse:2
+reverse:1
+obverse:1
+obverse:2
+reverse:1
+obverse:1
+obverse:2
+obverse:3
+reverse:1
+reverse:2
+obverse:1
+obverse:2
+obverse:1
+obverse:2
+obverse:3
+obverse:4
+obverse:5
+reverse:1
+reverse:2
+reverse:3
+reverse:4
+obverse:1
+obverse:2
+obverse:3
+obverse:1
+obverse:2
+reverse:1
+obverse:1
+obverse:1
+obverse:2
+obverse:1
+obverse:1
+obverse:2
+obverse:3
+obverse:1
+obverse:2
+reverse:1
+obverse:1
+obverse:2
+reverse:1
+obverse:1
+obverse:2
+obverse:1
+obverse:2
+reverse:1
+obverse:1
+obverse:2
+obverse:1
+obverse:2
+reverse:1
+obverse:1
+obverse:2
+obverse:1
+obverse:2
+reverse:1
+obverse:1
+obverse:2
+obverse:1
+obverse:2
+reverse:1
+obverse:1
+obverse:2
+obverse:3
+obverse:1
+obverse:2
+reverse:1
+obverse:1
+obverse:2
+obverse:1
+reverse:1
+reverse:2
+obverse:1
+obverse:2
+reverse:1
+obverse:1
+obverse:2
+obverse:3
+reverse:1
+reverse:2
+obverse:1
+obverse:2
+reverse:1
+reverse:2
+obverse:1
+obverse:2
+reverse:1
+reverse:2
+obverse:1
+obverse:2
+obverse:3
+obverse:1
+obverse:2
+obverse:3
+obverse:1
+obverse:2
+obverse:1
+obverse:2
+reverse:1
+reverse:2
+obverse:1
+obverse:2
+reverse:1
+obverse:1
+obverse:2
+obverse:1
+obverse:2
+reverse:1
+obverse:1
+obverse:2
+obverse:1
+reverse:1
+reverse:2
+obverse:1
+reverse:1
+obverse:1
+obverse:2
+reverse:1
+reverse:2
+obverse:1
+obverse:2
+reverse:1
+reverse:2
+obverse:1
+reverse:1
+obverse:1
+obverse:2
+obverse:3
+obverse:4
+obverse:1
+obverse:2
+obverse:1
+obverse:2
+obverse:3
+obverse:1
+obverse:2
+obverse:3
+obverse:1
+obverse:1
+obverse:2
+reverse:1
+reverse:2
+obverse:1
+obverse:2
+obverse:1
+obverse:1
+obverse:2
+reverse:1
+obverse:1
+reverse:1
+reverse:2
+reverse:1
+obverse:1
+obverse:2
+obverse:1
+obverse:2
+obverse:1
+obverse:2
+obverse:1
+obverse:2
+reverse:1
+obverse:1
+obverse:2
+obverse:3
+obverse:4
+reverse:1
+reverse:2
+obverse:1
+obverse:2
+obverse:1
+reverse:1
+obverse:1
+obverse:2
+obverse:1
+obverse:2
+obverse:3
+reverse:1
+obverse:1
+obverse:2
+obverse:3
+obverse:1
+obverse:2
+reverse:1
+reverse:2
+obverse:1
+obverse:1
+obverse:2
+reverse:1
+reverse:1
+reverse:2
+obverse:1
+obverse:2
+obverse:1
+obverse:2
+obverse:1
+obverse:2
+reverse:1
+obverse:1
+reverse:1
+obverse:1
+obverse:2
+obverse:1
+obverse:1
+obverse:2
+obverse:1
+obverse:2
+reverse:1
+reverse:2
+obverse:1
+obverse:2
+obverse:1
+obverse:2
+obverse:1
+obverse:2
+obverse:1
+obverse:1
+obverse:2
+obverse:1
+obverse:2
+obverse:1
+reverse:1
+obverse:1
+reverse:1
+reverse:2
+reverse:1
+reverse:2
+obverse:1
+obverse:2
+obverse:1
+obverse:2
+obverse:3
+reverse:1
+reverse:2
+obverse:1
+obverse:2
+obverse:1
+obverse:2
+obverse:1
+obverse:1
+reverse:1
+reverse:2
+obverse:1
+obverse:2
+obverse:1
+obverse:1
+obverse:2
+obverse:1
+obverse:2
+obverse:1
+obverse:2
+obverse:3
+obverse:1
+obverse:2
+obverse:1
+obverse:2
+obverse:1
+obverse:2
+obverse:1
+obverse:1
+obverse:2
+obverse:1
+obverse:2
+obverse:1
+reverse:1
+obverse:1
+obverse:2
+obverse:1
+obverse:1
+obverse:2
+obverse:1
+obverse:2
+obverse:1
+obverse:1
+obverse:1
+obverse:2
+obverse:1
+obverse:1
+obverse:1
+obverse:1
+obverse:2
+obverse:1
+obverse:1
+obverse:2
+reverse:1
+obverse:1
+obverse:1
+obverse:1
+obverse:1
+obverse:0
+obverse:1
+obverse:2
+reverse:1
+reverse:2
+obverse:1
+obverse:2
+obverse:3
+obverse:1
+obverse:2
+obverse:1
+obverse:2
+obverse:1
+obverse:2
+reverse:1
+reverse:2
+obverse:1
+obverse:2
+obverse:1
+obverse:2
+obverse:1
+obverse:2
+obverse:1
+obverse:2
+obverse:1
+obverse:2
+obverse:1
+obverse:2
+obverse:3
+obverse:1
+reverse:1
+obverse:1
+obverse:2
+obverse:1
+obverse:1
+obverse:2
+obverse:1
+obverse:2
+reverse:1
+reverse:2
+obverse:1
+obverse:2
+obverse:1
+obverse:2
+obverse:3
+obverse:1
+obverse:1
+obverse:2
+obverse:3
+obverse:4
+obverse:1
+obverse:2
+obverse:1
+obverse:2
+obverse:1
+obverse:1
+obverse:2
+obverse:1
+obverse:2
+obverse:1
+obverse:1
+obverse:2
+obverse:1
+reverse:1
+obverse:1
+obverse:1
+obverse:2
+obverse:1
+obverse:1
+obverse:2
+obverse:3
+obverse:1
+obverse:2
+obverse:3
+obverse:1
+obverse:2
+obverse:1
+obverse:2
+obverse:1
+obverse:2
+obverse:1
+obverse:1
+obverse:1
+obverse:1
+obverse:2
+obverse:3
+obverse:1
+obverse:2
+reverse:1
+reverse:2
+reverse:3
+obverse:1
+obverse:2
+obverse:1
+obverse:1
+reverse:1
+obverse:0
+bottom:0
+obverse:1
+obverse:1
+obverse:1
+obverse:1
+reverse:1
+reverse:2
+obverse:2
+obverse:1
+obverse:1
+obverse:2
+obverse:3
+obverse:1
+obverse:2
+obverse:3
+obverse:4
+reverse:1
+obverse:1
+obverse:2
+reverse:1
+reverse:2
+obverse:1
+obverse:2
+obverse:1
+obverse:2
+obverse:3
+reverse:1
+obverse:1
+obverse:2
+obverse:3
+reverse:1
+reverse:2
+obverse:1
+reverse:1
+reverse:2
+obverse:1
+obverse:2
+obverse:3
+reverse:1
+obverse:1
+obverse:2
+obverse:3
+reverse:1
+reverse:2
+obverse:1
+obverse:2
+obverse:1
+obverse:2
+reverse:1
+reverse:2
+obverse:1
+obverse:2
+obverse:3
+reverse:1
+obverse:1
+obverse:1
+obverse:2
+reverse:1
+reverse:2
+reverse:3
+obverse:1
+obverse:2
+obverse:3
+obverse:4
+obverse:5
+reverse:1
+reverse:2
+reverse:3
+obverse:1
+obverse:2
+reverse:1
+reverse:2
+reverse:3
+obverse:1
+obverse:2
+obverse:3
+reverse:1
+obverse:1
+obverse:2
+obverse:1
+obverse:2
+obverse:1
+obverse:2
+obverse:1
+obverse:1
+obverse:2
+obverse:1
+obverse:1
+obverse:1
+obverse:1
+obverse:2
+reverse:1
+obverse:1
+obverse:1
+obverse:1
+reverse:1
+reverse:2
+obverse:1
+reverse:1
+reverse:2
+obverse:1
+obverse:1
+obverse:2
+obverse:1
+obverse:1
+obverse:2
+obverse:3
+obverse:4
+obverse:1
+obverse:2
+obverse:1
+obverse:2
+obverse:3
+obverse:4
+obverse:1
+obverse:2
+obverse:1
+obverse:2
+reverse:1
+reverse:2
+obverse:1
+obverse:1
+obverse:1
+obverse:2
+obverse:1
+obverse:2
+obverse:1
+obverse:1
+reverse:1
+obverse:1
+obverse:1
+obverse:2
+obverse:1
+obverse:1
+obverse:1
+reverse:1
+obverse:1
+obverse:1
+obverse:1
+reverse:1
+obverse:1
+obverse:1
+obverse:1
+obverse:1
+obverse:1
+obverse:1
+obverse:1
+obverse:2
+obverse:1
+obverse:1
+obverse:1
+obverse:1
+obverse:2
+obverse:3
+reverse:1
+reverse:2
+obverse:1
+obverse:2
+obverse:3
+reverse:1
+reverse:2
+obverse:1
+reverse:1
+obverse:1
+reverse:1
+obverse:1
+reverse:1
+obverse:1
+obverse:2
+reverse:1
+obverse:1
+obverse:1
+obverse:2
+obverse:3
+reverse:1
+reverse:2
+reverse:3
+obverse:1
+reverse:1
+obverse:1
+obverse:2
+reverse:1
+obverse:1
+obverse:1
+reverse:1
+obverse:1
+obverse:2
+obverse:3
+obverse:1
+obverse:2
+reverse:1
+obverse:1
+obverse:1
+obverse:1
+obverse:1
+obverse:1
+obverse:1
+obverse:2
+obverse:1
+obverse:1
+obverse:2
+obverse:1
+obverse:2
+obverse:1
+obverse:1
+obverse:1
+obverse:1
+obverse:2
+obverse:1
+obverse:2
+obverse:1
+obverse:2
+reverse:1
+obverse:1
+obverse:1
+obverse:2
+obverse:1
+obverse:2
+obverse:1
+obverse:1
+obverse:1
+reverse:1
+obverse:1
+obverse:2
+reverse:1
+obverse:1
+obverse:2
+obverse:1
+obverse:1
+obverse:2
+obverse:3
+obverse:1
+obverse:1
+reverse:1
+obverse:1
+reverse:1
+reverse:2
+obverse:1
+obverse:1
+obverse:1
+obverse:2
+obverse:1
+obverse:2
+obverse:1
+reverse:1
+obverse:1
+obverse:2
+obverse:3
+reverse:1
+reverse:2
+reverse:3
+obverse:1
+obverse:2
+reverse:1
+obverse:1
+obverse:2
+reverse:1
+reverse:2
+reverse:3
+obverse:1
+obverse:2
+obverse:1
+obverse:2
+obverse:1
+obverse:2
+reverse:1
+obverse:1
+obverse:2
+reverse:1
+obverse:1
+reverse:1
+obverse:1
+obverse:2
+obverse:1
+obverse:2
+reverse:1
+obverse:1
+obverse:2
+reverse:1
+obverse:1
+obverse:2
+obverse:1
+obverse:2
+obverse:1
+obverse:2
+reverse:1
+reverse:2
+obverse:1
+obverse:2
+obverse:3
+obverse:1
+obverse:2
+obverse:1
+obverse:1
+obverse:2
+obverse:1
+obverse:2
+obverse:3
+obverse:1
+reverse:1
+obverse:1
+obverse:2
+obverse:1
+obverse:2
+obverse:1
+obverse:2
+obverse:1
+obverse:2
+obverse:1
+obverse:1
+reverse:1
+obverse:1
+obverse:1
+obverse:1
+reverse:1
+obverse:1
+reverse:1
+obverse:1
+obverse:2
+reverse:1
+obverse:1
+obverse:1
+obverse:1
+obverse:1
+obverse:2
+reverse:1
+obverse:1
+reverse:1
+obverse:1
+obverse:1
+reverse:1
+obverse:1
+reverse:1
+reverse:2
+reverse:3
+obverse:1
+obverse:2
+reverse:1
+reverse:2
+obverse:1
+obverse:2
+reverse:1
+reverse:2
+obverse:1
+obverse:2
+obverse:3
+reverse:1
+obverse:1
+obverse:2
+obverse:1
+obverse:2
+obverse:3
+reverse:1
+reverse:2
+obverse:1
+obverse:2
+obverse:1
+obverse:2
+obverse:3
+obverse:1
+obverse:2
+reverse:1
+reverse:2
+obverse:1
+reverse:1
+reverse:2
+obverse:1
+obverse:2
+obverse:1
+obverse:2
+reverse:1
+obverse:1
+reverse:1
+obverse:1
+obverse:2
+obverse:3
+obverse:1
+obverse:2
+obverse:3
+reverse:1
+obverse:1
+reverse:1
+obverse:1
+obverse:2
+obverse:1
+obverse:2
+obverse:3
+reverse:1
+reverse:2
+obverse:1
+obverse:1
+obverse:1
+obverse:2
+reverse:1
+obverse:1
+reverse:1
+obverse:1
+obverse:2
+obverse:1
+obverse:2
+obverse:1
+obverse:2
+obverse:1
+obverse:1
+obverse:2
+reverse:1
+obverse:1
+reverse:1
+reverse:2
+obverse:1
+obverse:2
+obverse:3
+obverse:1
+obverse:1
+reverse:1
+obverse:1
+obverse:2
+reverse:1
+reverse:2
+obverse:1
+obverse:2
+reverse:1
+obverse:1
+obverse:2
+reverse:1
+reverse:2
+obverse:1
+obverse:1
+obverse:2
+obverse:3
+reverse:1
+obverse:1
+obverse:2
+reverse:1
+reverse:2
+obverse:1
+reverse:1
+obverse:1
+obverse:2
+obverse:1
+obverse:1
+obverse:1
+reverse:1
+obverse:1
+reverse:1
+obverse:1
+obverse:2
+obverse:3
+obverse:4
+reverse:1
+reverse:2
+reverse:3
+obverse:1
+obverse:1
+obverse:1
+obverse:2
+obverse:1
+obverse:2
+obverse:1
+obverse:1
+obverse:2
+reverse:1
+obverse:1
+obverse:2
+obverse:3
+reverse:1
+reverse:2
+obverse:1
+obverse:2
+reverse:1
+obverse:1
+obverse:2
+obverse:1
+obverse:2
+obverse:3
+reverse:1
+obverse:1
+obverse:1
+obverse:2
+obverse:3
+obverse:1
+obverse:2
+obverse:3
+obverse:4
+obverse:5
+obverse:1
+obverse:2
+obverse:1
+obverse:2
+obverse:3
+obverse:1
+obverse:2
+reverse:1
+obverse:1
+obverse:2
+obverse:1
+obverse:2
+reverse:1
+obverse:1
+reverse:1
+obverse:1
+obverse:2
+obverse:3
+obverse:1
+obverse:2
+obverse:1
+obverse:1
+obverse:2
+reverse:1
+reverse:2
+obverse:1
+reverse:1
+obverse:1
+obverse:1
+obverse:2
+obverse:1
+obverse:1
+obverse:2
+obverse:3
+reverse:1
+reverse:2
+reverse:3
+reverse:4
+obverse:1
+obverse:2
+obverse:1
+obverse:2
+obverse:3
+reverse:1
+obverse:1
+obverse:2
+obverse:1
+obverse:2
+obverse:3
+obverse:1
+reverse:1
+obverse:1
+obverse:2
+reverse:1
+obverse:1
+obverse:1
+obverse:1
+obverse:2
+obverse:3
+obverse:4
+obverse:1
+obverse:1
+obverse:2
+reverse:1
+obverse:1
+obverse:2
+obverse:3
+reverse:1
+reverse:2
+obverse:1
+obverse:1
+obverse:2
+obverse:1
+obverse:2
+obverse:1
+obverse:2
+obverse:1
+obverse:1
+obverse:2
+obverse:3
+obverse:4
+obverse:5
+obverse:1
+obverse:2
+obverse:3
+obverse:1
+obverse:1
+obverse:1
+obverse:2
+obverse:3
+reverse:1
+obverse:1
+obverse:2
+obverse:1
+obverse:2
+obverse:3
+reverse:1
+reverse:2
+obverse:1
+obverse:2
+obverse:3
+obverse:1
+obverse:2
+obverse:1
+obverse:2
+reverse:1
+reverse:2
+obverse:1
+reverse:1
+reverse:2
+obverse:1
+obverse:2
+obverse:3
+reverse:1
+obverse:1
+obverse:1
+obverse:1
+obverse:2
+obverse:3
+reverse:1
+obverse:1
+obverse:1
+obverse:1
+obverse:1
+obverse:1
+obverse:2
+obverse:1
+obverse:2
+obverse:3
+reverse:1
+obverse:1
+obverse:2
+obverse:3
+reverse:1
+obverse:1
+obverse:2
+obverse:3
+obverse:4
+obverse:1
+obverse:2
+obverse:1
+reverse:1
+obverse:1
+obverse:2
+obverse:1
+obverse:2
+obverse:1
+obverse:1
+reverse:1
+obverse:1
+obverse:2
+reverse:1
+obverse:1
+obverse:1
+obverse:2
+reverse:1
+reverse:2
+obverse:1
+obverse:2
+reverse:1
+reverse:2
+obverse:1
+reverse:1
+obverse:1
+reverse:1
+reverse:2
+obverse:1
+obverse:1
+obverse:2
+reverse:1
+obverse:1
+reverse:1
+obverse:1
+obverse:1
+obverse:1
+obverse:1
+reverse:1
+obverse:1
+obverse:1
+reverse:1
+reverse:2
+obverse:1
+obverse:2
+obverse:3
+reverse:1
+reverse:2
+obverse:1
+obverse:2
+obverse:1
+obverse:1
+obverse:2
+obverse:1
+obverse:1
+obverse:2
+obverse:1
+obverse:2
+obverse:1
+obverse:2
+obverse:1
+obverse:2
+obverse:3
+obverse:4
+obverse:5
+reverse:1
+obverse:1
+obverse:2
+obverse:3
+reverse:1
+obverse:1
+obverse:2
+reverse:1
+reverse:2
+obverse:1
+obverse:1
+reverse:1
+obverse:1
+reverse:1
+obverse:1
+obverse:1
+obverse:2
+reverse:1
+obverse:1
+obverse:1
+obverse:2
+reverse:1
+obverse:1
+obverse:2
+obverse:3
+reverse:1
+obverse:1
+obverse:2
+obverse:3
+reverse:1
+obverse:1
+obverse:2
+obverse:3
+obverse:4
+reverse:1
+reverse:2
+reverse:3
+obverse:1
+obverse:2
+reverse:1
+obverse:1
+obverse:2
+reverse:1
+reverse:2
+obverse:1
+obverse:2
+obverse:1
+obverse:1
+obverse:2
+obverse:1
+obverse:1
+obverse:2
+obverse:1
+obverse:1
+obverse:1
+obverse:2
+obverse:1
+obverse:1
+obverse:2
+obverse:3
+obverse:4
+obverse:1
+obverse:2
+obverse:1
+obverse:2
+obverse:3
+obverse:4
+obverse:5
+reverse:1
+reverse:2
+obverse:1
+obverse:1
+obverse:2
+obverse:3
+reverse:1
+reverse:2
+obverse:1
+obverse:2
+obverse:1
+obverse:1
+reverse:1
+obverse:1
+reverse:1
+obverse:1
+obverse:1
+obverse:1
+obverse:2
+obverse:1
+obverse:2
+reverse:1
+obverse:1
+obverse:1
+obverse:2
+obverse:1
+obverse:1
+obverse:2
+reverse:1
+obverse:1
+obverse:2
+obverse:3
+reverse:1
+reverse:2
+obverse:1
+obverse:2
+obverse:1
+reverse:1
+obverse:1
+obverse:2
+obverse:1
+obverse:2
+reverse:1
+obverse:1
+obverse:1
+reverse:1
+obverse:1
+obverse:2
+obverse:1
+obverse:2
+obverse:1
+obverse:2
+reverse:1
+obverse:1
+obverse:2
+reverse:1
+obverse:1
+obverse:2
+obverse:3
+obverse:4
+reverse:1
+reverse:2
+reverse:3
+obverse:1
+obverse:1
+obverse:1
+obverse:1
+obverse:2
+obverse:1
+obverse:2
+reverse:1
+reverse:2
+obverse:1
+obverse:2
+reverse:1
+obverse:1
+obverse:1
+obverse:2
+obverse:1
+obverse:2
+reverse:1
+obverse:1
+obverse:2
+reverse:1
+obverse:1
+obverse:1
+obverse:1
+obverse:2
+obverse:1
+obverse:1
+obverse:1
+obverse:1
+obverse:2
+obverse:1
+reverse:1
+reverse:2
+obverse:1
+obverse:1
+obverse:1
+obverse:2
+obverse:3
+obverse:4
+reverse:1
+reverse:2
+obverse:1
+reverse:1
+obverse:1
+obverse:2
+obverse:3
+reverse:1
+reverse:2
+obverse:1
+obverse:1
+obverse:1
+obverse:2
+obverse:1
+obverse:1
+obverse:1
+obverse:1
+obverse:2
+obverse:3
+obverse:1
+obverse:2
+obverse:3
+obverse:1
+obverse:2
+obverse:3
+obverse:1
+obverse:2
+obverse:1
+obverse:2
+obverse:3
+reverse:1
+reverse:2
+obverse:1
+reverse:1
+obverse:1
+obverse:2
+obverse:1
+obverse:2
+obverse:1
+obverse:1
+obverse:2
+obverse:3
+reverse:1
+obverse:1
+reverse:1
+obverse:1
+obverse:1
+reverse:1
+obverse:1
+obverse:2
+reverse:1
+obverse:1
+obverse:1
+obverse:1
+obverse:1
+obverse:2
+reverse:1
+obverse:0
+reverse:0
+obverse:1
+obverse:2
+reverse:1
+surface:0
+obverse:1
+reverse:0
+obverse:1
+obverse:2
+obverse:3
+reverse:1
+reverse:2
+obverse:1
+obverse:2
+obverse:3
+reverse:0
+obverse:1
+obverse:2
+reverse:0
+obverse:1
+obverse:2
+reverse:0
+obverse:1
+reverse:0
+obverse:1
+obverse:2
+obverse:3
+obverse:4
+obverse:5
+obverse:6
+reverse:0
+obverse:1
+reverse:0
+obverse:1
+obverse:2
+reverse:0
+obverse:1
+obverse:2
+reverse:0
+obverse:1
+obverse:2
+reverse:0
+obverse:1
+reverse:0
+obverse:1
+obverse:2
+obverse:3
+reverse:0
+obverse:1
+obverse:2
+reverse:0
+obverse:1
+obverse:2
+reverse:0
+obverse:1
+obverse:2
+reverse:0
+obverse:1
+obverse:2
+obverse:3
+reverse:1
+reverse:2
+obverse:1
+reverse:0
+obverse:1
+reverse:0
+obverse:1
+obverse:2
+obverse:3
+obverse:4
+obverse:5
+reverse:0
+obverse:1
+obverse:2
+obverse:3
+obverse:4
+obverse:5
+reverse:0
+obverse:1
+obverse:2
+reverse:0
+obverse:1
+obverse:2
+obverse:3
+reverse:0
+obverse:1
+obverse:2
+reverse:0
+obverse:1
+obverse:2
+reverse:0
+obverse:1
+obverse:2
+obverse:3
+obverse:4
+obverse:5
+obverse:6
+reverse:0
+obverse:1
+obverse:2
+reverse:0
+obverse:1
+obverse:2
+reverse:0
+obverse:1
+obverse:2
+obverse:3
+reverse:0
+obverse:1
+obverse:2
+reverse:0
+obverse:1
+reverse:0
+obverse:1
+reverse:0
+obverse:1
+obverse:2
+reverse:0
+obverse:1
+obverse:2
+obverse:3
+obverse:4
+obverse:5
+reverse:0
+obverse:1
+obverse:2
+reverse:0
+obverse:1
+reverse:0
+obverse:1
+obverse:2
+obverse:3
+obverse:4
+obverse:5
+reverse:0
+obverse:1
+obverse:2
+reverse:0
+obverse:1
+reverse:0
+obverse:1
+obverse:2
+reverse:0
+obverse:1
+obverse:2
+obverse:3
+obverse:4
+reverse:0
+obverse:1
+reverse:0
+obverse:1
+obverse:2
+reverse:0
+obverse:1
+obverse:2
+obverse:3
+obverse:4
+obverse:5
+reverse:0
+obverse:1
+obverse:2
+obverse:3
+obverse:4
+reverse:0
+obverse:1
+obverse:2
+reverse:0
+obverse:1
+obverse:2
+obverse:3
+reverse:0
+obverse:1
+obverse:2
+reverse:0
+obverse:1
+obverse:2
+obverse:3
+reverse:0
+obverse:1
+obverse:2
+obverse:3
+reverse:0
+obverse:1
+obverse:2
+obverse:3
+reverse:0
+obverse:1
+obverse:2
+reverse:0
+obverse:1
+obverse:2
+reverse:0
+obverse:1
+obverse:2
+reverse:0
+obverse:1
+obverse:2
+reverse:0
+obverse:1
+obverse:2
+obverse:3
+obverse:4
+obverse:5
+reverse:0
+obverse:1
+obverse:2
+obverse:3
+reverse:0
+obverse:1
+obverse:2
+obverse:3
+reverse:0
+obverse:1
+obverse:2
+reverse:0
+obverse:1
+obverse:2
+reverse:0
+obverse:1
+obverse:2
+obverse:3
+reverse:0
+obverse:1
+obverse:2
+reverse:0
+obverse:1
+obverse:2
+reverse:0
+obverse:1
+obverse:2
+obverse:3
+reverse:0
+obverse:1
+obverse:2
+obverse:3
+reverse:0
+obverse:1
+obverse:2
+reverse:0
+obverse:1
+obverse:2
+obverse:3
+reverse:0
+obverse:0
+reverse:0
+obverse:0
+reverse:0
+obverse:1
+obverse:2
+obverse:3
+reverse:0
+obverse:1
+reverse:0
+obverse:1
+obverse:2
+reverse:0
+obverse:0
+reverse:0
+obverse:1
+obverse:2
+reverse:0
+obverse:1
+obverse:2
+obverse:3
+reverse:0
+obverse:1
+obverse:2
+reverse:0
+obverse:1
+obverse:2
+obverse:3
+reverse:0
+obverse:0
+reverse:0
+obverse:1
+obverse:2
+reverse:0
+obverse:1
+obverse:2
+reverse:0
+obverse:1
+obverse:2
+reverse:0
+obverse:1
+obverse:2
+obverse:3
+reverse:1
+reverse:2
+obverse:1
+obverse:2
+obverse:3
+reverse:0
+obverse:1
+obverse:2
+reverse:0
+obverse:1
+obverse:2
+reverse:0
+obverse:1
+obverse:2
+reverse:0
+obverse:1
+obverse:2
+obverse:3
+reverse:0
+obverse:0
+reverse:0
+obverse:0
+reverse:0
+obverse:1
+obverse:2
+reverse:0
+obverse:1
+obverse:2
+reverse:0
+obverse:1
+obverse:2
+reverse:0
+obverse:0
+obverse:2
+reverse:0
+obverse:0
+reverse:0
+obverse:1
+obverse:2
+reverse:0
+obverse:1
+obverse:2
+obverse:3
+reverse:0
+obverse:1
+obverse:2
+reverse:0
+obverse:0
+reverse:0
+obverse:0
+reverse:0
+obverse:1
+obverse:2
+obverse:3
+obverse:4
+reverse:0
+obverse:1
+obverse:2
+reverse:0
+obverse:1
+obverse:2
+reverse:0
+obverse:1
+obverse:2
+reverse:0
+obverse:1
+obverse:2
+obverse:3
+reverse:0
+obverse:1
+obverse:2
+reverse:0
+obverse:1
+obverse:2
+reverse:0
+obverse:1
+obverse:2
+reverse:0
+obverse:0
+reverse:0
+obverse:1
+obverse:2
+reverse:0
+obverse:1
+obverse:2
+reverse:0
+obverse:1
+obverse:2
+obverse:3
+obverse:4
+reverse:0
+obverse:1
+obverse:2
+reverse:0
+obverse:1
+obverse:2
+obverse:3
+reverse:0
+obverse:1
+obverse:2
+obverse:3
+reverse:1
+reverse:2
+reverse:3
+obverse:1
+obverse:2
+obverse:3
+reverse:0
+obverse:1
+obverse:2
+reverse:0
+obverse:0
+reverse:0
+obverse:0
+reverse:0
+obverse:1
+obverse:2
+reverse:0
+obverse:1
+obverse:2
+reverse:0
+obverse:1
+obverse:2
+reverse:0
+obverse:1
+obverse:2
+reverse:0
+obverse:1
+obverse:2
+obverse:3
+reverse:0
+obverse:0
+reverse:0
+obverse:1
+obverse:2
+reverse:0
+obverse:1
+obverse:2
+reverse:0
+obverse:1
+obverse:2
+reverse:0
+obverse:0
+reverse:0
+obverse:1
+obverse:2
+reverse:0
+obverse:1
+obverse:2
+obverse:3
+reverse:0
+obverse:1
+obverse:2
+reverse:0
+obverse:1
+obverse:2
+reverse:0
+obverse:1
+obverse:2
+reverse:0
+obverse:1
+obverse:2
+obverse:3
+reverse:0
+obverse:1
+obverse:2
+reverse:0
+obverse:0
+reverse:0
+obverse:1
+obverse:2
+reverse:0
+obverse:1
+obverse:2
+reverse:0
+obverse:1
+obverse:2
+obverse:3
+reverse:0
+obverse:0
+reverse:0
+obverse:1
+obverse:2
+obverse:3
+reverse:0
+obverse:1
+obverse:2
+reverse:0
+obverse:1
+obverse:2
+obverse:3
+reverse:0
+obverse:1
+obverse:2
+reverse:0
+obverse:1
+obverse:2
+obverse:3
+obverse:4
+reverse:0
+obverse:0
+reverse:0
+obverse:1
+obverse:2
+obverse:3
+reverse:0
+obverse:1
+obverse:2
+obverse:3
+reverse:0
+obverse:1
+obverse:2
+reverse:0
+obverse:0
+reverse:0
+obverse:0
+reverse:0
+obverse:0
+reverse:0
+obverse:0
+reverse:0
+obverse:1
+obverse:2
+obverse:3
+obverse:4
+reverse:0
+obverse:1
+obverse:2
+reverse:0
+obverse:1
+obverse:2
+reverse:0
+obverse:0
+reverse:0
+obverse:1
+obverse:2
+reverse:0
+obverse:1
+obverse:2
+reverse:0
+obverse:1
+obverse:2
+reverse:0
+obverse:0
+reverse:0
+obverse:1
+reverse:0
+obverse:0
+reverse:0
+obverse:0
+reverse:0
+obverse:1
+obverse:2
+reverse:0
+obverse:1
+obverse:2
+reverse:0
+obverse:0
+reverse:0
+obverse:0
+reverse:0
+obverse:0
+reverse:0
+obverse:1
+obverse:2
+reverse:0
+obverse:1
+obverse:2
+obverse:3
+obverse:4
+obverse:5
+reverse:0
+obverse:1
+obverse:2
+obverse:3
+obverse:4
+obverse:5
+reverse:0
+obverse:1
+obverse:2
+obverse:3
+obverse:4
+obverse:5
+reverse:0
+obverse:1
+obverse:2
+obverse:3
+obverse:4
+obverse:5
+reverse:0
+obverse:1
+obverse:2
+obverse:3
+obverse:4
+obverse:5
+reverse:0
+obverse:1
+obverse:2
+obverse:3
+reverse:0
+obverse:1
+obverse:2
+obverse:3
+reverse:0
+obverse:1
+obverse:2
+obverse:3
+reverse:0
+obverse:1
+obverse:2
+obverse:3
+reverse:0
+obverse:1
+reverse:0
+obverse:1
+obverse:2
+obverse:3
+obverse:4
+obverse:5
+reverse:0
+obverse:1
+obverse:2
+obverse:3
+reverse:0
+obverse:1
+obverse:2
+obverse:3
+obverse:4
+obverse:5
+reverse:0
+obverse:1
+obverse:2
+obverse:3
+obverse:4
+obverse:5
+reverse:0
+obverse:1
+obverse:2
+obverse:3
+obverse:4
+reverse:0
+obverse:1
+obverse:2
+obverse:3
+obverse:4
+reverse:0
+obverse:1
+obverse:2
+obverse:3
+obverse:4
+reverse:0
+surface:0
+obverse:0
+obverse:2
+obverse:3
+reverse:0
+obverse:1
+obverse:2
+obverse:3
+reverse:0
+obverse:1
+obverse:2
+reverse:0
+obverse:1
+obverse:2
+reverse:0
+obverse:1
+obverse:2
+reverse:0
+obverse:1
+reverse:1
+reverse:2
+reverse:0
+obverse:1
+obverse:2
+obverse:3
+reverse:0
+obverse:1
+obverse:2
+reverse:0
+obverse:1
+obverse:2
+obverse:3
+reverse:0
+obverse:1
+obverse:2
+obverse:3
+reverse:0
+obverse:1
+obverse:2
+obverse:3
+reverse:1
+reverse:2
+reverse:3
+obverse:1
+obverse:2
+reverse:0
+obverse:1
+obverse:2
+obverse:3
+reverse:1
+reverse:2
+obverse:1
+reverse:0
+obverse:1
+reverse:0
+obverse:1
+obverse:2
+reverse:0
+surface:0
+obverse:1
+reverse:0
+obverse:1
+obverse:2
+reverse:0
+obverse:1
+obverse:2
+reverse:0
+obverse:1
+obverse:2
+reverse:0
+obverse:1
+obverse:2
+reverse:0
+obverse:1
+obverse:2
+reverse:0
+obverse:1
+obverse:2
+reverse:0
+obverse:1
+obverse:2
+obverse:3
+reverse:0
+obverse:1
+reverse:0
+obverse:1
+obverse:2
+reverse:0
+obverse:1
+reverse:0
+obverse:1
+obverse:2
+reverse:0
+obverse:1
+obverse:2
+reverse:0
+obverse:1
+reverse:0
+obverse:1
+obverse:2
+reverse:0
+obverse:1
+obverse:2
+obverse:3
+reverse:0
+obverse:1
+obverse:2
+reverse:0
+obverse:1
+obverse:2
+reverse:0
+obverse:1
+obverse:2
+reverse:0
+obverse:1
+obverse:2
+reverse:0
+obverse:1
+reverse:0
+obverse:1
+obverse:2
+obverse:3
+reverse:0
+obverse:1
+reverse:0
+obverse:1
+obverse:2
+reverse:0
+obverse:1
+obverse:2
+reverse:0
+obverse:1
+obverse:2
+obverse:3
+obverse:4
+surface:0
+obverse:1
+obverse:2
+reverse:0
+obverse:1
+reverse:0
+obverse:1
+reverse:0
+obverse:1
+obverse:2
+reverse:1
+obverse:1
+obverse:2
+obverse:3
+reverse:0
+obverse:1
+reverse:0
+obverse:1
+obverse:2
+reverse:0
+obverse:1
+obverse:2
+obverse:3
+obverse:4
+reverse:0
+obverse:1
+reverse:0
+obverse:1
+reverse:0
+obverse:1
+obverse:2
+reverse:0
+obverse:1
+obverse:2
+reverse:0
+obverse:1
+obverse:2
+reverse:0
+obverse:1
+obverse:2
+reverse:0
+obverse:1
+reverse:0
+obverse:1
+reverse:0
+obverse:1
+obverse:2
+reverse:0
+obverse:1
+reverse:0
+obverse:1
+obverse:2
+reverse:0
+obverse:1
+obverse:2
+obverse:3
+obverse:4
+reverse:0
+obverse:1
+obverse:2
+reverse:0
+obverse:1
+obverse:2
+reverse:1
+surface:0
+obverse:1
+reverse:0
+obverse:1
+obverse:2
+reverse:0
+obverse:1
+obverse:2
+reverse:1
+reverse:2
+obverse:1
+obverse:2
+reverse:0
+obverse:1
+reverse:0
+obverse:1
+obverse:2
+obverse:3
+reverse:0
+surface:0
+obverse:1
+obverse:2
+reverse:0
+obverse:1
+obverse:2
+reverse:0
+obverse:1
+obverse:2
+reverse:0
+obverse:1
+obverse:2
+reverse:0
+surface:0
+obverse:1
+obverse:2
+obverse:3
+reverse:0
+obverse:1
+reverse:0
+obverse:1
+obverse:2
+reverse:0
+obverse:1
+obverse:2
+obverse:3
+obverse:4
+reverse:0
+obverse:1
+obverse:2
+obverse:3
+obverse:4
+obverse:5
+obverse:6
+reverse:0
+obverse:1
+obverse:2
+obverse:3
+reverse:0
+obverse:1
+obverse:2
+obverse:3
+obverse:4
+reverse:1
+reverse:2
+reverse:3
+obverse:1
+obverse:2
+obverse:3
+reverse:0
+obverse:1
+obverse:2
+reverse:0
+obverse:1
+obverse:2
+reverse:0
+obverse:1
+obverse:2
+obverse:3
+obverse:4
+obverse:5
+obverse:6
+obverse:7
+reverse:0
+obverse:1
+obverse:2
+obverse:3
+reverse:0
+obverse:1
+obverse:2
+reverse:0
+obverse:1
+obverse:2
+obverse:3
+reverse:0
+obverse:1
+obverse:2
+reverse:0
+obverse:1
+obverse:2
+obverse:3
+reverse:0
+obverse:1
+obverse:2
+obverse:3
+reverse:0
+obverse:1
+obverse:2
+obverse:3
+reverse:0
+obverse:1
+obverse:22
+reverse:0
+obverse:1
+obverse:2
+reverse:0
+obverse:1
+reverse:0
+obverse:1
+obverse:2
+reverse:0
+obverse:1
+obverse:2
+reverse:0
+obverse:1
+obverse:2
+obverse:3
+obverse:4
+obverse:5
+obverse:6
+reverse:0
+obverse:1
+reverse:0
+obverse:1
+obverse:2
+obverse:3
+reverse:1
+reverse:2
+obverse:1
+reverse:0
+obverse:1
+obverse:2
+obverse:3
+obverse:4
+reverse:1
+reverse:2
+reverse:3
+obverse:1
+obverse:2
+obverse:3
+obverse:4
+reverse:0
+obverse:1
+obverse:2
+obverse:3
+obverse:4
+reverse:0
+obverse:1
+obverse:2
+reverse:0
+obverse:1
+obverse:2
+reverse:0
+surface:0
+obverse:1
+obverse:2
+obverse:3
+obverse:4
+obverse:5
+reverse:0
+obverse:1
+obverse:2
+reverse:0
+obverse:1
+obverse:2
+reverse:0
+obverse:1
+obverse:2
+reverse:0
+obverse:1
+reverse:0
+obverse:1
+obverse:2
+obverse:3
+obverse:4
+obverse:5
+reverse:0
+obverse:1
+obverse:2
+reverse:0
+obverse:1
+obverse:2
+reverse:0
+obverse:1
+obverse:2
+reverse:0
+obverse:1
+reverse:0
+obverse:1
+obverse:2
+reverse:0
+obverse:1
+obverse:2
+obverse:3
+reverse:0
+obverse:1
+obverse:2
+reverse:0
+obverse:1
+obverse:2
+reverse:0
+obverse:1
+obverse:2
+obverse:3
+reverse:0
+obverse:1
+obverse:2
+reverse:0
+obverse:1
+obverse:2
+reverse:0
+obverse:1
+obverse:2
+reverse:0
+obverse:1
+obverse:2
+reverse:0
+obverse:1
+reverse:0
+obverse:1
+obverse:2
+obverse:3
+reverse:0
+obverse:1
+obverse:2
+reverse:0
+obverse:1
+obverse:2
+obverse:3
+reverse:0
+obverse:1
+reverse:0
+obverse:1
+obverse:2
+reverse:0
+obverse:1
+obverse:2
+reverse:0
+obverse:1
+obverse:2
+reverse:0
+obverse:1
+reverse:0
+obverse:1
+reverse:0
+obverse:1
+obverse:2
+obverse:3
+reverse:0
+obverse:1
+obverse:2
+obverse:3
+obverse:4
+reverse:0
+obverse:1
+reverse:0
+obverse:1
+obverse:2
+obverse:3
+reverse:0
+obverse:1
+obverse:2
+obverse:3
+obverse:4
+reverse:0
+obverse:1
+obverse:2
+obverse:3
+reverse:0
+obverse:1
+obverse:2
+reverse:0
+obverse:1
+reverse:0
+obverse:1
+obverse:2
+obverse:3
+reverse:0
+obverse:1
+obverse:2
+reverse:0
+obverse:1
+obverse:2
+reverse:0
+obverse:1
+reverse:0
+obverse:1
+obverse:2
+reverse:0
+obverse:1
+obverse:2
+obverse:3
+obverse:4
+reverse:0
+obverse:1
+obverse:2
+obverse:3
+obverse:4
+reverse:0
+obverse:1
+obverse:2
+reverse:0
+obverse:1
+obverse:2
+obverse:3
+reverse:0
+obverse:1
+obverse:2
+obverse:3
+reverse:0
+obverse:1
+obverse:2
+obverse:3
+obverse:4
+reverse:0
+obverse:1
+obverse:2
+reverse:0
+obverse:1
+obverse:2
+obverse:3
+reverse:0
+obverse:1
+obverse:2
+obverse:3
+reverse:0
+obverse:1
+reverse:0
+obverse:1
+reverse:0
+obverse:1
+obverse:2
+obverse:3
+reverse:0
+obverse:1
+reverse:0
+obverse:1
+obverse:2
+reverse:0
+obverse:1
+obverse:2
+obverse:3
+reverse:0
+obverse:1
+obverse:2
+reverse:0
+obverse:1
+obverse:2
+reverse:0
+obverse:1
+obverse:2
+obverse:3
+reverse:0
+obverse:1
+obverse:2
+reverse:0
+obverse:1
+obverse:2
+obverse:3
+reverse:0
+obverse:1
+obverse:2
+reverse:0
+obverse:1
+obverse:2
+obverse:3
+reverse:0
+obverse:1
+obverse:2
+obverse:3
+obverse:4
+reverse:0
+obverse:1
+obverse:2
+reverse:0
+obverse:1
+obverse:2
+reverse:0
+obverse:1
+obverse:2
+reverse:0
+obverse:1
+obverse:2
+reverse:0
+obverse:1
+reverse:0
+obverse:1
+obverse:2
+obverse:3
+reverse:0
+obverse:1
+obverse:2
+reverse:0
+obverse:1
+obverse:2
+reverse:0
+obverse:1
+reverse:0
+obverse:1
+reverse:0
+obverse:1
+obverse:2
+reverse:0
+obverse:1
+obverse:2
+obverse:3
+reverse:0
+obverse:1
+reverse:0
+obverse:1
+reverse:0
+obverse:1
+obverse:2
+reverse:0
+obverse:1
+obverse:2
+reverse:0
+obverse:1
+reverse:0
+obverse:1
+obverse:2
+reverse:0
+obverse:1
+reverse:0
+obverse:1
+obverse:2
+reverse:0
+obverse:1
+obverse:2
+reverse:0
+obverse:1
+obverse:2
+reverse:0
+obverse:1
+obverse:2
+reverse:0
+obverse:1
+obverse:2
+reverse:0
+obverse:1
+obverse:2
+obverse:3
+reverse:0
+obverse:1
+obverse:2
+obverse:3
+obverse:4
+obverse:5
+obverse:6
+obverse:7
+reverse:0
+obverse:1
+reverse:0
+obverse:1
+obverse:2
+obverse:3
+obverse:4
+obverse:5
+obverse:6
+reverse:0
+obverse:1
+obverse:2
+obverse:3
+obverse:4
+obverse:5
+reverse:0
+obverse:1
+reverse:0
+obverse:1
+obverse:2
+reverse:0
+surface:0
+obverse:1
+obverse:2
+reverse:0
+obverse:1
+obverse:2
+reverse:0
+obverse:1
+obverse:2
+reverse:0
+obverse:1
+obverse:2
+obverse:3
+reverse:0
+obverse:1
+obverse:2
+reverse:0
+obverse:1
+obverse:2
+reverse:0
+obverse:1
+obverse:2
+reverse:0
+obverse:1
+obverse:2
+reverse:0
+obverse:1
+reverse:0
+obverse:1
+obverse:2
+obverse:3
+obverse:4
+reverse:0
+obverse:1
+obverse:2
+reverse:0
+obverse:1
+obverse:2
+obverse:3
+reverse:0
+obverse:1
+obverse:2
+reverse:0
+obverse:1
+obverse:2
+obverse:3
+reverse:0
+obverse:1
+obverse:2
+reverse:0
+obverse:1
+obverse:2
+obverse:3
+reverse:0
+obverse:1
+obverse:2
+obverse:3
+reverse:0
+obverse:1
+reverse:0
+obverse:1
+obverse:2
+obverse:3
+reverse:0
+obverse:1
+obverse:2
+obverse:3
+reverse:0
+obverse:1
+obverse:2
+reverse:0
+obverse:1
+obverse:2
+reverse:0
+obverse:1
+reverse:0
+obverse:1
+obverse:2
+obverse:3
+reverse:0
+obverse:1
+reverse:0
+obverse:1
+obverse:2
+obverse:3
+obverse:4
+reverse:0
+obverse:1
+obverse:2
+reverse:0
+obverse:1
+obverse:2
+obverse:3
+reverse:0
+obverse:1
+obverse:2
+obverse:3
+reverse:0
+obverse:1
+obverse:2
+obverse:3
+reverse:0
+obverse:1
+obverse:2
+obverse:3
+reverse:0
+obverse:1
+obverse:2
+obverse:3
+reverse:0
+obverse:1
+obverse:2
+obverse:3
+reverse:0
+obverse:1
+obverse:2
+obverse:3
+reverse:0
+obverse:1
+obverse:2
+reverse:0
+obverse:1
+reverse:0
+obverse:1
+obverse:2
+reverse:0
+obverse:1
+obverse:2
+reverse:0
+obverse:1
+obverse:2
+obverse:3
+reverse:0
+obverse:1
+obverse:2
+reverse:0
+obverse:1
+reverse:0
+obverse:1
+reverse:0
+obverse:1
+obverse:2
+obverse:3
+obverse:4
+reverse:0
+obverse:1
+obverse:2
+reverse:0
+obverse:1
+obverse:2
+reverse:0
+obverse:1
+obverse:2
+reverse:0
+obverse:1
+obverse:2
+reverse:0
+obverse:1
+reverse:0
+obverse:1
+reverse:0
+obverse:1
+obverse:2
+reverse:0
+obverse:1
+obverse:2
+obverse:3
+obverse:4
+reverse:0
+obverse:1
+obverse:2
+reverse:0
+obverse:1
+reverse:0
+obverse:1
+obverse:2
+obverse:3
+reverse:1
+surface:0
+obverse:1
+obverse:2
+reverse:0
+obverse:1
+obverse:2
+obverse:3
+reverse:0
+obverse:1
+obverse:2
+reverse:0
+obverse:1
+obverse:2
+obverse:3
+reverse:0
+obverse:1
+reverse:0
+obverse:1
+reverse:0
+obverse:1
+obverse:2
+reverse:0
+obverse:1
+obverse:2
+obverse:3
+reverse:0
+obverse:1
+obverse:2
+obverse:3
+obverse:4
+obverse:5
+reverse:0
+surface:0
+obverse:1
+reverse:1
+reverse:2
+obverse:1
+obverse:2
+reverse:0
+obverse:1
+obverse:2
+reverse:0
+obverse:1
+obverse:2
+reverse:0
+obverse:1
+obverse:2
+obverse:3
+reverse:0
+obverse:1
+obverse:2
+reverse:0
+obverse:1
+obverse:2
+reverse:0
+obverse:1
+reverse:0
+obverse:1
+obverse:2
+obverse:3
+obverse:4
+obverse:5
+reverse:0
+obverse:1
+obverse:2
+obverse:3
+obverse:4
+obverse:5
+reverse:0
+obverse:1
+reverse:0
+obverse:1
+obverse:2
+reverse:0
+obverse:1
+obverse:2
+obverse:3
+reverse:0
+obverse:1
+obverse:2
+reverse:0
+obverse:1
+obverse:2
+reverse:0
+obverse:1
+obverse:2
+reverse:0
+obverse:1
+obverse:2
+reverse:0
+obverse:1
+obverse:2
+reverse:0
+obverse:1
+obverse:2
+reverse:0
+obverse:1
+obverse:2
+reverse:0
+obverse:1
+obverse:2
+reverse:0
+obverse:1
+obverse:2
+reverse:0
+obverse:1
+obverse:2
+obverse:3
+obverse:4
+obverse:5
+reverse:0
+obverse:1
+obverse:2
+obverse:3
+obverse:4
+reverse:0
+obverse:1
+obverse:2
+obverse:3
+obverse:4
+reverse:0
+obverse:1
+obverse:2
+reverse:0
+obverse:1
+obverse:2
+obverse:3
+obverse:4
+reverse:0
+obverse:1
+obverse:2
+obverse:3
+obverse:4
+reverse:0
+obverse:1
+obverse:2
+obverse:3
+obverse:4
+reverse:0
+obverse:1
+obverse:2
+reverse:0
+obverse:1
+obverse:2
+reverse:0
+obverse:1
+obverse:2
+obverse:3
+reverse:0
+obverse:1
+obverse:2
+reverse:0
+obverse:1
+obverse:2
+obverse:3
+reverse:0
+obverse:1
+obverse:2
+obverse:3
+obverse:4
+reverse:0
+obverse:1
+obverse:2
+obverse:3
+reverse:0
+obverse:1
+obverse:2
+reverse:0
+obverse:1
+obverse:2
+reverse:0
+obverse:1
+obverse:2
+obverse:3
+reverse:0
+obverse:1
+obverse:2
+reverse:0
+obverse:1
+obverse:2
+reverse:0
+obverse:1
+obverse:2
+reverse:0
+obverse:1
+obverse:2
+obverse:3
+reverse:0
+obverse:1
+obverse:2
+obverse:3
+obverse:4
+reverse:0
+obverse:1
+obverse:2
+reverse:0
+obverse:1
+obverse:2
+obverse:3
+reverse:0
+obverse:1
+obverse:2
+obverse:3
+obverse:4
+reverse:0
+obverse:1
+obverse:2
+obverse:3
+reverse:0
+obverse:1
+reverse:0
+obverse:1
+reverse:0
+obverse:1
+obverse:2
+obverse:3
+reverse:0
+obverse:1
+obverse:2
+reverse:0
+obverse:1
+obverse:2
+reverse:0
+obverse:1
+obverse:2
+obverse:3
+reverse:0
+obverse:1
+obverse:2
+reverse:0
+obverse:1
+obverse:2
+obverse:3
+obverse:4
+reverse:0
+obverse:1
+obverse:2
+obverse:3
+reverse:1
+surface:0
+obverse:1
+obverse:2
+reverse:0
+obverse:1
+obverse:2
+reverse:0
+obverse:1
+obverse:2
+reverse:1
+obverse:1
+obverse:2
+obverse:3
+obverse:4
+obverse:5
+obverse:6
+reverse:0
+obverse:1
+reverse:0
+obverse:1
+obverse:2
+obverse:3
+obverse:4
+obverse:5
+reverse:0
+obverse:1
+obverse:2
+reverse:0
+obverse:1
+obverse:2
+reverse:0
+obverse:1
+obverse:2
+reverse:0
+obverse:1
+reverse:0
+obverse:1
+obverse:2
+reverse:0
+obverse:1
+obverse:2
+reverse:0
+obverse:1
+obverse:2
+obverse:3
+obverse:4
+obverse:5
+reverse:0
+obverse:1
+obverse:2
+obverse:3
+obverse:4
+reverse:0
+obverse:1
+obverse:2
+reverse:0
+obverse:1
+obverse:2
+reverse:0
+obverse:1
+obverse:2
+reverse:0
+surface:0
+obverse:1
+obverse:2
+obverse:1
+obverse:2
+obverse:3
+obverse:1
+obverse:2
+obverse:3
+obverse:4
+obverse:5
+reverse:0
+obverse:1
+obverse:2
+reverse:0
+obverse:1
+obverse:2
+obverse:3
+obverse:4
+reverse:0
+obverse:1
+obverse:2
+reverse:0
+obverse:1
+obverse:2
+reverse:0
+obverse:1
+obverse:2
+obverse:3
+reverse:1
+reverse:2
+obverse:1
+obverse:2
+obverse:3
+reverse:0
+obverse:1
+obverse:2
+obverse:3
+obverse:4
+reverse:0
+obverse:1
+obverse:2
+reverse:0
+obverse:1
+obverse:2
+reverse:0
+obverse:1
+obverse:2
+obverse:3
+obverse:4
+obverse:5
+obverse:6
+obverse:7
+obverse:8
+obverse:9
+reverse:0
+obverse:1
+obverse:2
+obverse:3
+reverse:0
+obverse:1
+reverse:0
+obverse:1
+obverse:1
+obverse:2
+obverse:1
+obverse:2
+obverse:1
+obverse:1
+obverse:2
+obverse:3
+obverse:1
+obverse:1
+obverse:2
+obverse:1
+obverse:2
+obverse:3
+obverse:4
+obverse:1
+obverse:1
+obverse:2
+obverse:3
+obverse:1
+obverse:2
+obverse:1
+obverse:1
+obverse:1
+obverse:1
+obverse:1
+obverse:1
+obverse:1
+obverse:2
+obverse:1
+obverse:2
+obverse:1
+obverse:2
+obverse:1
+obverse:1
+obverse:1
+obverse:2
+obverse:1
+obverse:2
+obverse:1
+reverse:1
+obverse:1
+obverse:1
+obverse:1
+obverse:2
+obverse:1
+obverse:1
+obverse:2
+obverse:1
+obverse:1
+obverse:2
+obverse:1
+obverse:2
+obverse:1
+obverse:2
+obverse:1
+obverse:2
+obverse:1
+obverse:1
+obverse:1
+obverse:1
+obverse:1
+obverse:2
+obverse:1
+obverse:2
+reverse:0
+obverse:1
+obverse:1
+obverse:2
+obverse:1
+obverse:2
+reverse:1
+reverse:2
+reverse:0
+obverse:1
+obverse:2
+obverse:3
+obverse:1
+obverse:2
+obverse:3
+obverse:1
+obverse:2
+obverse:3
+obverse:1
+obverse:2
+obverse:3
+obverse:1
+obverse:2
+obverse:1
+obverse:2
+obverse:1
+obverse:2
+obverse:1
+reverse:0
+reverse:0
+obverse:1
+reverse:0
+obverse:1
+obverse:2
+reverse:0
+obverse:1
+obverse:2
+obverse:3
+obverse:1
+reverse:1
+reverse:2
+obverse:1
+obverse:2
+obverse:1
+reverse:0
+obverse:1
+obverse:2
+obverse:1
+obverse:2
+obverse:3
+obverse:1
+obverse:1
+obverse:2
+obverse:1
+obverse:2
+obverse:1
+obverse:2
+obverse:1
+obverse:1
+obverse:2
+obverse:1
+obverse:1
+obverse:1
+obverse:1
+obverse:2
+obverse:3
+obverse:1
+obverse:2
+obverse:3
+reverse:0
+obverse:1
+obverse:2
+obverse:1
+obverse:2
+obverse:1
+obverse:2
+obverse:3
+obverse:4
+obverse:1
+obverse:2
+obverse:1
+obverse:2
+obverse:1
+obverse:2
+obverse:3
+obverse:1
+obverse:2
+obverse:3
+reverse:0
+obverse:1
+obverse:2
+obverse:3
+obverse:1
+obverse:2
+obverse:3
+obverse:1
+obverse:1
+obverse:2
+obverse:1
+obverse:2
+obverse:3
+obverse:4
+obverse:1
+obverse:2
+obverse:1
+obverse:2
+reverse:0
+obverse:1
+obverse:2
+obverse:3
+obverse:1
+obverse:2
+obverse:3
+obverse:4
+reverse:0
+reverse:0
+obverse:1
+obverse:2
+obverse:3
+reverse:0
+obverse:1
+obverse:2
+obverse:3
+obverse:1
+obverse:2
+obverse:1
+obverse:2
+obverse:1
+obverse:2
+obverse:3
+reverse:1
+reverse:2
+reverse:3
+obverse:1
+obverse:2
+obverse:3
+reverse:1
+reverse:2
+reverse:3
+obverse:1
+obverse:2
+obverse:1
+obverse:2
+obverse:1
+obverse:2
+obverse:3
+obverse:1
+obverse:2
+obverse:3
+reverse:1
+reverse:2
+obverse:1
+obverse:2
+obverse:3
+reverse:0
+obverse:1
+obverse:2
+obverse:3
+obverse:1
+obverse:1
+obverse:2
+reverse:0
+obverse:1
+obverse:2
+obverse:1
+obverse:1
+obverse:1
+obverse:2
+obverse:1
+obverse:2
+obverse:1
+obverse:1
+obverse:2
+obverse:3
+reverse:1
+reverse:2
+obverse:1
+obverse:1
+obverse:2
+obverse:1
+obverse:1
+obverse:1
+obverse:2
+obverse:1
+obverse:1
+obverse:2
+obverse:3
+obverse:1
+obverse:1
+obverse:2
+reverse:0
+obverse:1
+obverse:2
+reverse:1
+surface:0
+surface:0
+surface:0
+surface:0
+obverse:1
+obverse:2
+obverse:1
+obverse:2
+reverse:1
+reverse:2
+obverse:1
+obverse:2
+reverse:1
+reverse:2
+obverse:1
+obverse:2
+obverse:1
+obverse:2
+reverse:1
+reverse:2
+obverse:1
+obverse:2
+obverse:1
+obverse:1
+obverse:2
+obverse:1
+obverse:2
+reverse:1
+reverse:2
+obverse:1
+obverse:2
+obverse:3
+obverse:4
+reverse:1
+reverse:2
+reverse:3
+obverse:1
+obverse:2
+reverse:1
+obverse:1
+obverse:2
+reverse:1
+obverse:1
+obverse:2
+obverse:3
+obverse:1
+obverse:2
+obverse:3
+obverse:4
+reverse:1
+reverse:2
+reverse:3
+reverse:4
+obverse:1
+obverse:2
+obverse:3
+reverse:1
+obverse:1
+obverse:2
+obverse:3
+obverse:1
+obverse:2
+obverse:3
+reverse:1
+obverse:1
+obverse:2
+reverse:1
+obverse:1
+obverse:2
+reverse:1
+obverse:1
+reverse:1
+obverse:1
+obverse:2
+obverse:3
+reverse:1
+reverse:2
+reverse:3
+obverse:1
+obverse:2
+reverse:1
+obverse:1
+obverse:2
+reverse:1
+reverse:2
+obverse:1
+reverse:1
+obverse:1
+obverse:2
+reverse:1
+obverse:1
+obverse:2
+reverse:1
+reverse:2
+obverse:1
+reverse:1
+reverse:2
+obverse:1
+reverse:1
+reverse:2
+obverse:1
+obverse:2
+obverse:1
+obverse:2
+reverse:1
+obverse:1
+obverse:2
+reverse:1
+obverse:1
+obverse:2
+reverse:1
+reverse:2
+reverse:3
+reverse:4
+obverse:1
+obverse:2
+reverse:1
+obverse:1
+obverse:2
+obverse:1
+obverse:2
+obverse:3
+obverse:4
+reverse:1
+reverse:2
+reverse:3
+obverse:1
+obverse:2
+obverse:3
+reverse:1
+reverse:2
+reverse:3
+obverse:1
+obverse:2
+obverse:1
+obverse:1
+reverse:1
+reverse:2
+obverse:1
+obverse:2
+reverse:1
+reverse:2
+obverse:1
+obverse:2
+reverse:1
+reverse:2
+obverse:1
+obverse:2
+reverse:1
+reverse:2
+obverse:1
+obverse:2
+reverse:1
+reverse:2
+reverse:3
+obverse:1
+obverse:2
+reverse:1
+reverse:2
+obverse:1
+obverse:2
+obverse:3
+reverse:1
+edge:0
+obverse:1
+obverse:2
+reverse:1
+obverse:1
+obverse:2
+obverse:3
+obverse:4
+reverse:1
+reverse:2
+obverse:1
+obverse:2
+reverse:1
+obverse:1
+obverse:2
+reverse:1
+reverse:2
+obverse:1
+obverse:2
+reverse:1
+obverse:1
+obverse:2
+obverse:1
+obverse:2
+reverse:1
+obverse:1
+obverse:1
+obverse:2
+reverse:1
+obverse:1
+reverse:1
+reverse:2
+obverse:1
+obverse:2
+obverse:1
+obverse:2
+reverse:1
+obverse:1
+obverse:2
+reverse:1
+reverse:2
+obverse:1
+obverse:2
+obverse:3
+reverse:0
+reverse:2
+obverse:1
+obverse:2
+reverse:1
+obverse:1
+obverse:2
+reverse:1
+reverse:2
+obverse:1
+obverse:2
+reverse:1
+obverse:1
+reverse:1
+obverse:1
+obverse:2
+reverse:1
+reverse:2
+obverse:1
+reverse:1
+reverse:2
+obverse:1
+obverse:1
+obverse:2
+obverse:3
+reverse:1
+reverse:2
+obverse:1
+obverse:2
+reverse:1
+obverse:1
+obverse:2
+obverse:1
+obverse:2
+obverse:1
+obverse:2
+reverse:1
+reverse:2
+reverse:3
+obverse:1
+obverse:1
+obverse:2
+reverse:1
+reverse:2
+obverse:1
+obverse:2
+reverse:1
+obverse:1
+reverse:1
+reverse:2
+obverse:1
+reverse:1
+reverse:2
+obverse:1
+obverse:2
+reverse:1
+reverse:2
+obverse:1
+obverse:2
+obverse:3
+obverse:1
+obverse:2
+reverse:1
+obverse:1
+obverse:2
+obverse:3
+reverse:1
+obverse:1
+reverse:1
+obverse:1
+obverse:2
+reverse:1
+obverse:1
+reverse:1
+reverse:2
+obverse:1
+obverse:2
+obverse:1
+obverse:2
+obverse:1
+obverse:2
+obverse:1
+obverse:1
+obverse:2
+reverse:1
+obverse:1
+obverse:2
+obverse:1
+reverse:1
+reverse:2
+obverse:1
+reverse:1
+obverse:1
+obverse:2
+reverse:1
+reverse:2
+obverse:1
+obverse:2
+reverse:1
+reverse:2
+obverse:1
+obverse:2
+obverse:3
+obverse:4
+obverse:5
+reverse:1
+reverse:2
+reverse:3
+obverse:1
+obverse:2
+obverse:3
+reverse:1
+reverse:2
+obverse:1
+obverse:2
+reverse:1
+reverse:2
+obverse:1
+obverse:2
+obverse:3
+reverse:1
+reverse:2
+reverse:3
+obverse:1
+obverse:2
+obverse:3
+reverse:1
+reverse:2
+reverse:3
+obverse:1
+obverse:2
+reverse:1
+obverse:1
+reverse:1
+reverse:2
+obverse:1
+obverse:2
+obverse:3
+reverse:1
+obverse:1
+obverse:2
+reverse:1
+obverse:1
+obverse:2
+reverse:1
+obverse:1
+obverse:2
+obverse:3
+reverse:1
+reverse:2
+reverse:3
+obverse:1
+obverse:2
+reverse:1
+reverse:2
+obverse:1
+reverse:1
+obverse:1
+obverse:2
+obverse:1
+obverse:2
+obverse:3
+reverse:1
+obverse:1
+obverse:2
+obverse:3
+reverse:1
+obverse:1
+reverse:1
+reverse:2
+obverse:1
+obverse:2
+obverse:3
+reverse:1
+reverse:2
+obverse:1
+obverse:2
+obverse:1
+obverse:2
+reverse:1
+obverse:1
+obverse:2
+obverse:3
+reverse:1
+reverse:2
+obverse:1
+obverse:2
+obverse:3
+obverse:4
+obverse:1
+reverse:1
+obverse:1
+obverse:2
+obverse:3
+reverse:0
+obverse:1
+obverse:1
+obverse:2
+reverse:1
+reverse:2
+obverse:1
+reverse:1
+obverse:1
+obverse:2
+obverse:3
+reverse:1
+obverse:1
+obverse:2
+obverse:3
+reverse:1
+obverse:1
+obverse:2
+obverse:3
+reverse:1
+obverse:1
+obverse:1
+reverse:1
+reverse:2
+obverse:1
+obverse:2
+reverse:0
+obverse:1
+obverse:2
+reverse:1
+reverse:2
+obverse:1
+obverse:2
+reverse:0
+obverse:1
+obverse:2
+obverse:3
+reverse:1
+reverse:2
+reverse:3
+obverse:1
+obverse:2
+obverse:3
+obverse:4
+obverse:5
+reverse:1
+reverse:2
+obverse:1
+obverse:2
+reverse:1
+reverse:2
+obverse:1
+obverse:2
+reverse:1
+reverse:2
+obverse:1
+obverse:2
+obverse:3
+reverse:1
+reverse:2
+obverse:1
+obverse:2
+reverse:1
+obverse:1
+obverse:2
+reverse:1
+obverse:1
+obverse:2
+obverse:3
+obverse:4
+reverse:1
+reverse:2
+obverse:1
+reverse:1
+obverse:1
+obverse:2
+reverse:1
+obverse:1
+obverse:1
+obverse:2
+obverse:3
+obverse:4
+obverse:1
+obverse:2
+obverse:3
+reverse:1
+obverse:1
+obverse:2
+reverse:1
+reverse:2
+obverse:1
+obverse:2
+reverse:1
+reverse:2
+obverse:1
+obverse:2
+reverse:1
+obverse:1
+obverse:2
+obverse:3
+obverse:1
+obverse:2
+obverse:1
+obverse:2
+obverse:3
+obverse:4
+reverse:1
+reverse:2
+obverse:1
+obverse:2
+obverse:3
+obverse:4
+obverse:5
+obverse:6
+reverse:1
+reverse:2
+obverse:1
+obverse:2
+obverse:3
+obverse:1
+reverse:1
+reverse:2
+obverse:1
+obverse:2
+obverse:3
+reverse:1
+reverse:2
+obverse:1
+reverse:1
+obverse:1
+obverse:2
+reverse:1
+obverse:1
+obverse:2
+obverse:3
+reverse:1
+reverse:2
+obverse:1
+obverse:1
+obverse:2
+reverse:1
+reverse:2
+obverse:1
+obverse:2
+reverse:1
+obverse:1
+obverse:2
+reverse:1
+obverse:1
+obverse:2
+reverse:1
+reverse:2
+obverse:1
+obverse:1
+obverse:2
+obverse:1
+obverse:2
+obverse:1
+obverse:2
+reverse:1
+reverse:2
+obverse:1
+obverse:2
+reverse:1
+obverse:1
+obverse:1
+obverse:2
+reverse:1
+obverse:1
+obverse:2
+reverse:1
+obverse:1
+obverse:2
+obverse:1
+obverse:2
+obverse:3
+obverse:1
+obverse:2
+reverse:1
+reverse:2
+obverse:1
+obverse:2
+reverse:1
+obverse:1
+obverse:2
+reverse:1
+reverse:2
+obverse:1
+obverse:2
+reverse:1
+reverse:2
+obverse:1
+obverse:2
+reverse:1
+obverse:1
+obverse:2
+obverse:1
+obverse:2
+reverse:1
+obverse:1
+reverse:1
+reverse:2
+obverse:1
+obverse:2
+obverse:3
+obverse:1
+obverse:2
+obverse:3
+reverse:1
+obverse:1
+obverse:2
+reverse:1
+obverse:1
+obverse:2
+obverse:3
+reverse:1
+obverse:1
+obverse:1
+obverse:2
+obverse:1
+obverse:2
+obverse:1
+reverse:1
+obverse:1
+reverse:1
+obverse:1
+obverse:1
+obverse:2
+reverse:1
+obverse:1
+obverse:2
+obverse:3
+reverse:1
+reverse:2
+obverse:1
+obverse:2
+obverse:1
+obverse:2
+obverse:3
+reverse:1
+reverse:2
+obverse:1
+obverse:2
+reverse:1
+reverse:2
+obverse:1
+reverse:0
+obverse:1
+obverse:1
+obverse:2
+obverse:3
+obverse:1
+obverse:2
+reverse:1
+reverse:2
+obverse:1
+obverse:2
+reverse:1
+obverse:1
+obverse:2
+reverse:1
+reverse:2
+obverse:1
+reverse:1
+reverse:2
+obverse:1
+obverse:2
+reverse:1
+obverse:1
+reverse:1
+obverse:1
+obverse:2
+reverse:1
+obverse:1
+reverse:1
+obverse:1
+reverse:1
+obverse:1
+obverse:2
+reverse:1
+obverse:1
+reverse:1
+obverse:1
+obverse:2
+obverse:3
+reverse:1
+obverse:1
+reverse:1
+obverse:1
+obverse:2
+reverse:1
+obverse:1
+obverse:2
+reverse:1
+obverse:1
+obverse:2
+obverse:3
+obverse:4
+obverse:5
+reverse:1
+reverse:2
+obverse:1
+obverse:1
+obverse:2
+obverse:1
+reverse:1
+reverse:2
+reverse:3
+obverse:0
+reverse:0
+obverse:1
+obverse:1
+obverse:2
+obverse:1
+reverse:1
+reverse:2
+obverse:1
+obverse:2
+obverse:3
+reverse:0
+obverse:1
+obverse:2
+reverse:0
+obverse:1
+obverse:2
+reverse:0
+obverse:0
+obverse:2
+reverse:1
+reverse:2
+obverse:1
+obverse:2
+reverse:1
+reverse:2
+reverse:3
+obverse:1
+obverse:2
+obverse:3
+reverse:0
+obverse:1
+obverse:2
+obverse:1
+obverse:2
+obverse:1
+obverse:2
+reverse:1
+reverse:2
+obverse:1
+obverse:2
+reverse:1
+reverse:2
+obverse:0
+obverse:1
+obverse:2
+reverse:1
+reverse:2
+obverse:1
+obverse:2
+reverse:1
+obverse:1
+obverse:1
+obverse:2
+reverse:1
+reverse:2
+obverse:1
+obverse:2
+obverse:1
+obverse:2
+reverse:1
+obverse:1
+obverse:2
+obverse:1
+obverse:2
+obverse:1
+obverse:2
+reverse:1
+reverse:2
+obverse:1
+obverse:2
+obverse:1
+obverse:2
+obverse:3
+obverse:1
+obverse:2
+reverse:1
+reverse:2
+obverse:0
+obverse:2
+reverse:0
+obverse:1
+obverse:2
+obverse:1
+obverse:2
+obverse:3
+reverse:1
+reverse:2
+reverse:3
+obverse:0
+reverse:0
+obverse:1
+obverse:2
+obverse:1
+obverse:2
+obverse:3
+obverse:1
+obverse:2
+reverse:0
+obverse:1
+obverse:2
+obverse:3
+obverse:1
+obverse:2
+reverse:1
+reverse:2
+obverse:1
+obverse:1
+obverse:2
+obverse:0
+obverse:2
+obverse:1
+obverse:2
+obverse:3
+obverse:1
+obverse:2
+obverse:3
+reverse:1
+reverse:2
+obverse:0
+obverse:1
+obverse:2
+obverse:0
+obverse:0
+reverse:0
+obverse:1
+obverse:2
+obverse:1
+obverse:2
+obverse:1
+obverse:2
+reverse:0
+obverse:1
+obverse:2
+reverse:1
+reverse:2
+obverse:1
+obverse:2
+obverse:0
+obverse:1
+obverse:2
+obverse:1
+obverse:2
+obverse:1
+obverse:2
+reverse:1
+reverse:2
+obverse:0
+obverse:2
+obverse:1
+obverse:2
+obverse:1
+obverse:2
+obverse:0
+reverse:0
+obverse:0
+obverse:0
+obverse:1
+obverse:2
+obverse:0
+obverse:0
+obverse:1
+obverse:2
+reverse:0
+obverse:1
+obverse:2
+obverse:0
+reverse:0
+obverse:0
+reverse:0
+obverse:1
+obverse:1
+obverse:2
+obverse:1
+obverse:2
+obverse:1
+obverse:2
+reverse:0
+obverse:1
+obverse:2
+obverse:0
+reverse:0
+obverse:1
+obverse:1
+obverse:2
+obverse:3
+obverse:4
+reverse:0
+obverse:1
+obverse:2
+obverse:1
+obverse:0
+obverse:0
+obverse:0
+obverse:1
+obverse:0
+obverse:1
+obverse:0
+obverse:0
+obverse:1
+obverse:0
+obverse:0
+obverse:0
+obverse:0
+obverse:0
+obverse:0
+obverse:0
+obverse:0
+obverse:0
+obverse:0
+obverse:1
+obverse:0
+obverse:0
+obverse:0
+obverse:0
+obverse:0
+obverse:0
+obverse:0
+obverse:0
+obverse:0
+obverse:0
+obverse:0
+obverse:0
+obverse:0
+obverse:0
+obverse:0
+obverse:0
+obverse:0
+obverse:0
+obverse:0
+obverse:0
+obverse:0
+obverse:0
+obverse:0
+obverse:0
+obverse:0
+obverse:0
+obverse:0
+obverse:0
+obverse:0
+obverse:0
+obverse:0
+obverse:0
+obverse:0
+obverse:0
+obverse:0
+obverse:0
+obverse:0
+obverse:0
+obverse:0
+obverse:0
+obverse:0
+obverse:0
+obverse:0
+obverse:0
+obverse:0
+obverse:0
+obverse:0
+obverse:0
+obverse:0
+obverse:0
+obverse:0
+obverse:0
+obverse:0
+obverse:0
+obverse:0
+obverse:1
+obverse:2
+obverse:1
+obverse:2
+obverse:1
+obverse:2
+obverse:1
+obverse:2
+obverse:1
+obverse:2
+obverse:1
+obverse:2
+obverse:1
+obverse:2
+obverse:1
+obverse:2
+obverse:0
+obverse:0
+obverse:0
+obverse:0
+obverse:0
+obverse:0
+obverse:0
+obverse:0
+obverse:0
+obverse:0
+obverse:0
+obverse:0
+obverse:0
+obverse:0
+obverse:0
+obverse:0
+obverse:0
+obverse:0
+obverse:0
+obverse:2
+obverse:0
+obverse:0
+obverse:0
+obverse:0
+obverse:0
+obverse:0
+obverse:0
+obverse:0
+obverse:0
+obverse:0
+obverse:0
+obverse:0
+obverse:0
+obverse:0
+obverse:0
+obverse:0
+obverse:0
+obverse:0
+obverse:0
+obverse:0
+obverse:0
+obverse:0
+obverse:0
+obverse:1
+obverse:2
+obverse:1
+obverse:2
+obverse:1
+obverse:2
+obverse:1
+obverse:2
+obverse:1
+obverse:2
+obverse:0
+obverse:0
+obverse:0
+obverse:0
+obverse:0
+obverse:0
+obverse:0
+obverse:0
+obverse:0
+obverse:0
+obverse:0
+obverse:0
+obverse:0
+obverse:0
+obverse:0
+obverse:0
+obverse:0
+obverse:0
+obverse:1
+obverse:2
+obverse:0
+obverse:0
+obverse:1
+obverse:2
+obverse:1
+obverse:2
+obverse:0
+obverse:1
+obverse:2
+obverse:1
+obverse:2
+obverse:0
+reverse:1
+obverse:0
+obverse:1
+obverse:2
+obverse:1
+obverse:1
+obverse:1
+obverse:2
+obverse:1
+obverse:2
+obverse:1
+obverse:2
+obverse:1
+obverse:2
+obverse:3
+reverse:0
+obverse:1
+obverse:2
+reverse:1
+reverse:2
+obverse:1
+obverse:2
+obverse:1
+obverse:2
+obverse:3
+obverse:1
+obverse:2
+obverse:3
+obverse:4
+obverse:1
+obverse:2
+obverse:1
+obverse:2
+obverse:1
+obverse:2
+obverse:1
+obverse:2
+obverse:1
+obverse:2
+obverse:0
+obverse:2
+reverse:0
+obverse:1
+obverse:2
+obverse:0
+obverse:2
+reverse:0
+obverse:1
+obverse:2
+reverse:0
+obverse:1
+obverse:2
+reverse:1
+reverse:2
+obverse:0
+reverse:1
+reverse:2
+obverse:1
+obverse:2
+obverse:1
+obverse:2
+obverse:0
+reverse:0
+reverse:2
+obverse:1
+obverse:2
+obverse:3
+reverse:0
+reverse:2
+obverse:1
+obverse:2
+obverse:3
+obverse:4
+reverse:0
+reverse:2
+obverse:1
+obverse:2
+obverse:1
+obverse:2
+reverse:0
+obverse:1
+obverse:2
+obverse:3
+obverse:4
+reverse:0
+reverse:2
+reverse:3
+reverse:4
+reverse:5
+obverse:1
+obverse:2
+obverse:3
+reverse:0
+obverse:1
+obverse:2
+reverse:1
+reverse:2
+obverse:1
+obverse:2
+reverse:0
+obverse:1
+reverse:0
+obverse:0
+reverse:0
+obverse:1
+obverse:2
+obverse:3
+reverse:0
+obverse:1
+obverse:2
+reverse:0
+obverse:1
+obverse:2
+obverse:3
+obverse:4
+reverse:1
+reverse:2
+obverse:1
+obverse:2
+reverse:1
+reverse:2
+obverse:1
+obverse:2
+obverse:3
+obverse:4
+reverse:1
+reverse:2
+obverse:1
+obverse:2
+reverse:1
+reverse:2
+obverse:1
+obverse:2
+obverse:3
+reverse:0
+obverse:1
+reverse:0
+obverse:1
+obverse:2
+obverse:3
+reverse:1
+reverse:2
+obverse:1
+obverse:2
+obverse:3
+reverse:1
+reverse:2
+reverse:3
+obverse:1
+obverse:2
+obverse:3
+reverse:1
+reverse:2
+reverse:3
+obverse:1
+obverse:2
+obverse:3
+reverse:1
+reverse:2
+obverse:1
+obverse:2
+obverse:1
+obverse:2
+obverse:3
+reverse:1
+reverse:2
+reverse:3
+obverse:1
+obverse:2
+obverse:3
+obverse:4
+reverse:1
+reverse:2
+obverse:1
+obverse:2
+reverse:1
+reverse:2
+obverse:1
+obverse:2
+reverse:0
+obverse:1
+obverse:2
+reverse:1
+reverse:2
+obverse:1
+obverse:2
+reverse:1
+reverse:2
+obverse:1
+obverse:2
+reverse:0
+obverse:1
+obverse:2
+obverse:1
+reverse:1
+reverse:2
+obverse:1
+obverse:2
+obverse:1
+obverse:2
+obverse:1
+obverse:2
+obverse:3
+obverse:1
+obverse:2
+obverse:1
+obverse:2
+obverse:3
+reverse:1
+reverse:2
+obverse:1
+obverse:2
+obverse:3
+reverse:1
+reverse:2
+reverse:3
+reverse:4
+obverse:1
+obverse:2
+reverse:1
+reverse:2
+obverse:1
+obverse:2
+reverse:1
+reverse:2
+obverse:1
+obverse:2
+obverse:3
+reverse:1
+reverse:2
+obverse:1
+obverse:2
+reverse:0
+obverse:1
+obverse:2
+reverse:1
+reverse:2
+obverse:1
+obverse:2
+reverse:1
+reverse:2
+reverse:3
+obverse:1
+obverse:2
+obverse:3
+reverse:3
+obverse:1
+obverse:2
+obverse:3
+obverse:4
+reverse:1
+obverse:0
+obverse:0
+obverse:1
+obverse:2
+obverse:1
+obverse:2
+reverse:1
+reverse:2
+obverse:1
+obverse:2
+reverse:0
+obverse:1
+reverse:0
+obverse:1
+obverse:2
+reverse:1
+reverse:2
+obverse:1
+obverse:2
+reverse:1
+reverse:2
+obverse:1
+obverse:2
+obverse:1
+obverse:2
+reverse:0
+obverse:1
+obverse:1
+obverse:2
+reverse:0
+obverse:1
+obverse:2
+obverse:3
+reverse:1
+reverse:2
+obverse:1
+obverse:2
+obverse:3
+obverse:1
+reverse:0
+obverse:1
+obverse:2
+obverse:3
+reverse:1
+reverse:2
+reverse:3
+obverse:1
+obverse:2
+reverse:1
+reverse:2
+obverse:1
+obverse:2
+obverse:3
+reverse:1
+reverse:2
+obverse:1
+obverse:2
+obverse:3
+reverse:1
+reverse:2
+reverse:3
+obverse:1
+obverse:1
+obverse:2
+reverse:1
+reverse:2
+reverse:3
+obverse:1
+reverse:1
+reverse:2
+reverse:3
+obverse:1
+obverse:2
+obverse:3
+obverse:4
+reverse:1
+reverse:2
+obverse:1
+obverse:2
+obverse:0
+obverse:2
+obverse:3
+obverse:1
+obverse:1
+obverse:1
+obverse:2
+obverse:1
+reverse:0
+obverse:1
+obverse:2
+obverse:1
+obverse:2
+reverse:1
+reverse:2
+obverse:1
+obverse:2
+obverse:3
+obverse:4
+obverse:1
+obverse:2
+reverse:0
+obverse:1
+obverse:2
+reverse:0
+obverse:1
+reverse:0
+obverse:1
+obverse:2
+obverse:1
+obverse:1
+obverse:1
+obverse:2
+obverse:1
+obverse:2
+obverse:1
+reverse:0
+obverse:1
+obverse:2
+obverse:3
+obverse:4
+obverse:5
+reverse:1
+reverse:2
+obverse:1
+obverse:2
+obverse:3
+obverse:1
+obverse:2
+obverse:3
+obverse:1
+obverse:2
+obverse:3
+obverse:1
+obverse:2
+obverse:1
+obverse:2
+obverse:0
+obverse:1
+obverse:2
+obverse:1
+obverse:2
+obverse:1
+obverse:2
+obverse:3
+obverse:1
+reverse:1
+reverse:2
+obverse:1
+obverse:2
+reverse:1
+reverse:2
+obverse:1
+reverse:0
+reverse:2
+obverse:1
+obverse:2
+reverse:1
+reverse:2
+obverse:0
+obverse:1
+obverse:2
+obverse:1
+obverse:2
+reverse:1
+reverse:2
+obverse:1
+obverse:2
+reverse:1
+reverse:2
+obverse:1
+obverse:2
+reverse:1
+reverse:2
+reverse:3
+obverse:0
+reverse:1
+reverse:2
+obverse:1
+obverse:2
+reverse:0
+obverse:0
+obverse:0
+obverse:1
+obverse:2
+reverse:1
+reverse:2
+obverse:0
+reverse:1
+reverse:2
+obverse:1
+obverse:2
+obverse:3
+reverse:1
+reverse:2
+reverse:3
+obverse:1
+obverse:2
+obverse:3
+reverse:1
+reverse:2
+reverse:3
+obverse:1
+obverse:2
+obverse:3
+reverse:1
+reverse:2
+reverse:3
+obverse:1
+obverse:2
+obverse:3
+reverse:1
+reverse:2
+reverse:3
+obverse:1
+obverse:2
+reverse:0
+reverse:2
+obverse:1
+obverse:2
+obverse:0
+obverse:1
+obverse:2
+obverse:3
+reverse:0
+obverse:1
+obverse:2
+obverse:3
+reverse:1
+obverse:1
+obverse:2
+reverse:1
+reverse:2
+obverse:1
+obverse:2
+obverse:1
+obverse:2
+obverse:1
+obverse:2
+obverse:3
+reverse:1
+reverse:2
+obverse:1
+obverse:2
+reverse:1
+reverse:2
+obverse:1
+obverse:2
+reverse:1
+reverse:2
+obverse:1
+obverse:2
+obverse:1
+obverse:1
+obverse:2
+obverse:1
+obverse:2
+obverse:3
+reverse:1
+reverse:2
+obverse:1
+obverse:2
+obverse:3
+reverse:1
+reverse:2
+obverse:0
+obverse:1
+obverse:2
+obverse:1
+obverse:2
+obverse:3
+obverse:4
+reverse:1
+reverse:2
+obverse:1
+obverse:2
+reverse:0
+obverse:1
+obverse:2
+obverse:3
+obverse:1
+obverse:2
+obverse:3
+obverse:1
+obverse:2
+obverse:1
+obverse:2
+obverse:3
+obverse:1
+obverse:2
+obverse:3
+reverse:1
+reverse:2
+obverse:1
+obverse:1
+obverse:2
+reverse:0
+obverse:1
+reverse:1
+reverse:2
+reverse:3
+obverse:1
+obverse:2
+obverse:1
+obverse:2
+obverse:0
+obverse:1
+obverse:2
+obverse:3
+obverse:1
+obverse:2
+reverse:1
+reverse:2
+reverse:3
+obverse:1
+obverse:2
+obverse:0
+obverse:2
+obverse:3
+obverse:1
+obverse:2
+noface:1
+obverse:1
+obverse:2
+obverse:3
+obverse:1
+obverse:2
+obverse:3
+obverse:4
+obverse:5
+obverse:6
+reverse:1
+reverse:2
+obverse:0
+obverse:1
+obverse:2
+obverse:1
+obverse:2
+obverse:3
+reverse:0
+obverse:1
+obverse:2
+obverse:3
+reverse:0
+obverse:1
+obverse:2
+obverse:3
+reverse:1
+reverse:2
+reverse:3
+obverse:1
+obverse:1
+reverse:0
+obverse:1
+obverse:2
+obverse:1
+obverse:2
+obverse:3
+obverse:1
+obverse:2
+obverse:1
+obverse:0
+reverse:0
+obverse:1
+reverse:0
+obverse:1
+obverse:2
+reverse:1
+reverse:2
+obverse:1
+reverse:1
+reverse:2
+reverse:3
+obverse:1
+obverse:2
+reverse:1
+surface:0
+obverse:1
+obverse:1
+obverse:1
+obverse:1
+obverse:1
+obverse:1
+obverse:2
+reverse:1
+obverse:1
+obverse:2
+obverse:1
+reverse:1
+obverse:1
+obverse:2
+obverse:1
+obverse:2
+obverse:3
+obverse:1
+obverse:1
+obverse:1
+reverse:1
+obverse:1
+obverse:1
+obverse:2
+obverse:1
+obverse:2
+reverse:1
+obverse:1
+obverse:2
+obverse:1
+obverse:1
+obverse:1
+obverse:2
+obverse:1
+obverse:2
+obverse:3
+obverse:4
+obverse:1
+obverse:1
+obverse:2
+obverse:1
+obverse:1
+obverse:2
+reverse:1
+obverse:1
+obverse:2
+reverse:1
+obverse:1
+obverse:1
+obverse:2
+obverse:1
+obverse:2
+obverse:1
+obverse:2
+obverse:3
+obverse:1
+obverse:2
+obverse:1
+obverse:2
+reverse:1
+obverse:1
+obverse:1
+obverse:2
+obverse:3
+reverse:1
+reverse:2
+obverse:1
+obverse:1
+obverse:2
+obverse:3
+obverse:4
+obverse:1
+obverse:2
+obverse:1
+obverse:2
+obverse:3
+reverse:1
+reverse:2
+reverse:3
+obverse:1
+obverse:2
+obverse:1
+obverse:1
+reverse:1
+obverse:1
+obverse:2
+obverse:1
+obverse:1
+obverse:1
+obverse:2
+reverse:1
+obverse:1
+obverse:1
+obverse:1
+obverse:2
+reverse:1
+obverse:1
+obverse:2
+obverse:1
+obverse:1
+obverse:1
+obverse:2
+obverse:1
+obverse:2
+obverse:3
+reverse:1
+reverse:2
+reverse:3
+obverse:1
+reverse:1
+obverse:1
+obverse:2
+obverse:1
+obverse:1
+obverse:2
+obverse:3
+obverse:4
+reverse:1
+reverse:2
+obverse:1
+obverse:2
+reverse:1
+obverse:1
+reverse:1
+obverse:1
+obverse:2
+obverse:1
+obverse:2
+reverse:1
+obverse:1
+obverse:2
+reverse:1
+obverse:1
+obverse:1
+obverse:1
+obverse:1
+obverse:1
+obverse:2
+obverse:1
+obverse:2
+obverse:3
+obverse:1
+obverse:1
+obverse:1
+obverse:1
+obverse:1
+obverse:1
+obverse:2
+obverse:3
+obverse:1
+reverse:1
+obverse:1
+obverse:2
+obverse:1
+obverse:2
+obverse:3
+obverse:1
+obverse:1
+obverse:2
+obverse:1
+obverse:2
+reverse:1
+reverse:2
+reverse:3
+obverse:1
+obverse:2
+reverse:1
+obverse:1
+obverse:2
+obverse:3
+obverse:1
+obverse:2
+obverse:3
+obverse:1
+obverse:2
+obverse:1
+reverse:1
+reverse:2
+obverse:1
+obverse:1
+obverse:2
+obverse:3
+reverse:1
+reverse:2
+obverse:1
+obverse:2
+obverse:1
+obverse:2
+obverse:3
+reverse:1
+obverse:1
+obverse:2
+obverse:1
+obverse:2
+reverse:1
+reverse:2
+obverse:1
+reverse:1
+obverse:1
+reverse:1
+reverse:1
+obverse:2
+reverse:1
+obverse:1
+obverse:2
+obverse:1
+obverse:2
+obverse:1
+obverse:1
+obverse:1
+obverse:2
+obverse:1
+obverse:1
+obverse:2
+obverse:1
+obverse:1
+obverse:2
+obverse:3
+reverse:1
+obverse:1
+obverse:1
+obverse:2
+obverse:1
+obverse:1
+obverse:2
+obverse:1
+obverse:1
+obverse:1
+obverse:1
+obverse:1
+obverse:1
+obverse:2
+obverse:3
+obverse:4
+obverse:5
+obverse:6
+obverse:7
+obverse:8
+obverse:9
+obverse:10
+reverse:1
+reverse:2
+reverse:3
+reverse:4
+surface:1
+obverse:1
+reverse:1
+obverse:1
+obverse:2
+obverse:1
+obverse:2
+reverse:1
+obverse:1
+obverse:1
+obverse:2
+obverse:3
+obverse:4
+obverse:1
+obverse:2
+obverse:1
+obverse:1
+obverse:1
+obverse:1
+obverse:1
+obverse:1
+obverse:1
+obverse:1
+obverse:2
+obverse:1
+obverse:2
+obverse:3
+reverse:1
+obverse:1
+obverse:1
+obverse:2
+obverse:1
+obverse:2
+reverse:1
+obverse:1
+reverse:1
+obverse:1
+obverse:1
+reverse:1
+obverse:1
+obverse:2
+reverse:1
+obverse:1
+obverse:2
+obverse:3
+reverse:1
+obverse:1
+obverse:2
+obverse:1
+obverse:2
+obverse:1
+obverse:2
+reverse:1
+obverse:1
+obverse:2
+reverse:1
+reverse:1
+reverse:2
+reverse:3
+obverse:1
+obverse:2
+obverse:3
+reverse:1
+reverse:2
+obverse:1
+obverse:2
+reverse:1
+obverse:1
+obverse:2
+obverse:1
+obverse:2
+reverse:1
+reverse:2
+obverse:1
+obverse:1
+obverse:2
+reverse:1
+reverse:2
+obverse:1
+obverse:2
+obverse:1
+obverse:1
+obverse:2
+obverse:1
+obverse:2
+obverse:2
+obverse:1
+obverse:2
+obverse:1
+obverse:1
+reverse:1
+obverse:1
+obverse:2
+obverse:3
+obverse:1
+obverse:1
+obverse:2
+reverse:1
+obverse:1
+obverse:2
+reverse:1
+obverse:1
+obverse:1
+obverse:2
+obverse:1
+obverse:2
+obverse:1
+reverse:1
+obverse:1
+obverse:2
+obverse:3
+reverse:1
+obverse:1
+obverse:1
+obverse:2
+obverse:1
+obverse:2
+obverse:1
+obverse:1
+obverse:2
+obverse:1
+obverse:1
+obverse:1
+reverse:1
+reverse:2
+obverse:1
+obverse:1
+obverse:1
+obverse:1
+reverse:1
+obverse:1
+obverse:2
+obverse:1
+obverse:1
+reverse:1
+obverse:1
+obverse:2
+obverse:3
+obverse:1
+reverse:1
+obverse:1
+obverse:2
+obverse:1
+obverse:1
+obverse:2
+reverse:1
+obverse:1
+obverse:1
+obverse:2
+obverse:1
+obverse:1
+obverse:1
+obverse:2
+obverse:1
+obverse:1
+obverse:2
+reverse:1
+obverse:1
+obverse:2
+reverse:1
+obverse:1
+obverse:2
+obverse:1
+obverse:2
+obverse:3
+obverse:1
+reverse:1
+obverse:1
+reverse:1
+reverse:2
+obverse:1
+obverse:2
+obverse:1
+obverse:1
+obverse:2
+obverse:1
+obverse:1
+obverse:1
+obverse:2
+obverse:1
+reverse:1
+obverse:1
+obverse:2
+obverse:1
+reverse:1
+reverse:2
+reverse:3
+obverse:1
+obverse:1
+obverse:1
+obverse:1
+obverse:1
+obverse:2
+obverse:3
+obverse:4
+obverse:1
+obverse:1
+obverse:2
+obverse:1
+obverse:1
+obverse:1
+obverse:1
+obverse:2
+obverse:1
+obverse:2
+obverse:1
+obverse:2
+obverse:1
+obverse:2
+obverse:3
+obverse:1
+obverse:2
+reverse:1
+obverse:1
+obverse:2
+obverse:3
+obverse:4
+obverse:5
+obverse:1
+obverse:2
+obverse:1
+obverse:2
+obverse:3
+obverse:1
+obverse:1
+obverse:2
+obverse:1
+obverse:2
+obverse:1
+obverse:2
+obverse:1
+obverse:2
+reverse:1
+reverse:2
+obverse:1
+reverse:1
+obverse:1
+obverse:1
+obverse:2
+obverse:3
+obverse:1
+reverse:1
+reverse:2
+reverse:3
+obverse:1
+obverse:1
+obverse:1
+obverse:2
+obverse:3
+obverse:1
+obverse:1
+obverse:1
+reverse:1
+obverse:1
+obverse:1
+obverse:1
+obverse:1
+obverse:2
+obverse:1
+obverse:2
+obverse:1
+obverse:1
+obverse:2
+obverse:1
+obverse:2
+obverse:3
+obverse:1
+obverse:2
+obverse:1
+obverse:2
+obverse:1
+obverse:2
+reverse:1
+reverse:2
+obverse:1
+obverse:2
+obverse:1
+obverse:2
+obverse:1
+reverse:1
+reverse:2
+obverse:1
+obverse:2
+obverse:3
+reverse:1
+obverse:1
+reverse:1
+reverse:2
+obverse:1
+reverse:1
+reverse:2
+obverse:1
+obverse:2
+reverse:1
+obverse:1
+obverse:2
+obverse:1
+obverse:1
+obverse:2
+obverse:3
+reverse:1
+obverse:1
+obverse:2
+reverse:1
+obverse:1
+obverse:1
+obverse:2
+obverse:3
+obverse:1
+obverse:2
+obverse:1
+obverse:2
+reverse:1
+reverse:2
+obverse:1
+obverse:2
+obverse:1
+obverse:1
+obverse:2
+obverse:1
+obverse:2
+obverse:1
+obverse:1
+obverse:2
+obverse:3
+reverse:1
+reverse:2
+obverse:1
+obverse:2
+obverse:1
+obverse:2
+obverse:3
+reverse:1
+obverse:1
+obverse:2
+reverse:1
+obverse:1
+obverse:2
+obverse:3
+obverse:4
+obverse:1
+obverse:2
+reverse:1
+reverse:2
+reverse:3
+obverse:1
+reverse:1
+reverse:2
+obverse:1
+obverse:2
+obverse:3
+obverse:4
+reverse:1
+reverse:2
+reverse:3
+reverse:4
+obverse:1
+reverse:1
+reverse:2
+obverse:1
+obverse:2
+obverse:3
+obverse:4
+reverse:1
+reverse:2
+obverse:1
+obverse:1
+obverse:2
+obverse:1
+obverse:1
+obverse:2
+obverse:1
+obverse:1
+obverse:2
+obverse:1
+obverse:1
+obverse:1
+obverse:1
+obverse:1
+obverse:1
+obverse:1
+obverse:1
+obverse:1
+obverse:1
+obverse:1
+obverse:2
+obverse:1
+obverse:1
+obverse:2
+obverse:1
+obverse:1
+obverse:1
+obverse:1
+obverse:1
+obverse:1
+obverse:1
+obverse:1
+obverse:2
+obverse:1
+obverse:1
+obverse:1
+obverse:1
+obverse:1
+obverse:1
+obverse:1
+obverse:1
+obverse:1
+obverse:1
+obverse:1
+obverse:1
+obverse:1
+obverse:1
+obverse:1
+obverse:1
+obverse:1
+obverse:1
+obverse:1
+obverse:1
+obverse:2
+obverse:1
+obverse:1
+reverse:1
+obverse:1
+obverse:1
+obverse:1
+obverse:2
+obverse:1
+obverse:1
+obverse:2
+obverse:1
+obverse:2
+obverse:1
+obverse:1
+obverse:1
+obverse:2
+obverse:1
+obverse:1
+obverse:1
+obverse:1
+obverse:1
+obverse:1
+obverse:2
+obverse:1
+obverse:1
+obverse:2
+obverse:1
+obverse:1
+obverse:1
+obverse:1
+obverse:1
+obverse:2
+obverse:1
+obverse:1
+obverse:1
+reverse:1
+obverse:1
+obverse:1
+obverse:2
+obverse:1
+obverse:1
+obverse:1
+obverse:1
+obverse:2
+obverse:1
+reverse:1
+obverse:1
+obverse:1
+obverse:2
+obverse:1
+obverse:1
+obverse:2
+obverse:1
+obverse:1
+obverse:1
+obverse:2
+obverse:1
+obverse:2
+obverse:1
+obverse:2
+obverse:1
+obverse:1
+obverse:1
+obverse:1
+obverse:1
+obverse:2
+obverse:1
+obverse:2
+obverse:3
+reverse:1
+obverse:1
+obverse:2
+reverse:1
+obverse:1
+obverse:2
+obverse:1
+obverse:2
+reverse:1
+obverse:1
+obverse:2
+obverse:1
+obverse:2
+obverse:2
+reverse:1
+obverse:1
+obverse:2
+reverse:1
+reverse:1
+obverse:1
+obverse:2
+obverse:3
+reverse:1
+reverse:2
+obverse:1
+obverse:2
+obverse:3
+obverse:4
+obverse:5
+reverse:1
+obverse:1
+obverse:2
+reverse:1
+obverse:1
+obverse:2
+obverse:3
+reverse:1
+obverse:1
+obverse:2
+obverse:3
+reverse:1
+reverse:2
+obverse:1
+obverse:2
+obverse:1
+obverse:2
+reverse:1
+obverse:1
+obverse:1
+obverse:2
+obverse:1
+obverse:3
+obverse:1
+obverse:2
+reverse:1
+obverse:1
+obverse:2
+reverse:1
+obverse:1
+obverse:2
+obverse:3
+reverse:1
+obverse:1
+obverse:2
+reverse:1
+reverse:2
+obverse:1
+obverse:2
+reverse:1
+obverse:1
+obverse:1
+obverse:2
+reverse:1
+obverse:1
+obverse:2
+reverse:1
+reverse:2
+obverse:1
+obverse:2
+reverse:1
+reverse:1
+reverse:2
+obverse:1
+obverse:2
+reverse:1
+reverse:1
+obverse:1
+obverse:2
+reverse:1
+obverse:1
+obverse:2
+reverse:1
+obverse:1
+obverse:2
+reverse:1
+reverse:2
+obverse:1
+obverse:2
+obverse:1
+obverse:2
+reverse:0
+obverse:1
+reverse:1
+reverse:2
+obverse:1
+reverse:1
+obverse:1
+obverse:2
+obverse:3
+obverse:4
+obverse:5
+obverse:6
+obverse:7
+obverse:8
+obverse:9
+obverse:10
+obverse:1
+obverse:1
+obverse:1
+obverse:1
+reverse:1
+reverse:1
+obverse:1
+obverse:2
+obverse:1
+obverse:2
+obverse:1
+obverse:1
+obverse:1
+obverse:2
+obverse:3
+obverse:1
+obverse:1
+obverse:2
+reverse:1
+obverse:1
+obverse:2
+obverse:1
+obverse:1
+obverse:2
+reverse:1
+reverse:2
+reverse:3
+obverse:1
+obverse:2
+obverse:3
+obverse:1
+obverse:2
+obverse:1
+obverse:1
+obverse:2
+obverse:1
+obverse:1
+reverse:1
+obverse:1
+obverse:2
+reverse:1
+reverse:2
+obverse:1
+obverse:2
+obverse:3
+reverse:1
+reverse:2
+obverse:1
+obverse:2
+obverse:1
+obverse:1
+reverse:1
+reverse:1
+reverse:2
+obverse:1
+obverse:2
+obverse:1
+reverse:1
+obverse:1
+obverse:2
+obverse:1
+obverse:2
+obverse:1
+obverse:2
+obverse:3
+obverse:4
+obverse:5
+obverse:6
+obverse:1
+obverse:2
+obverse:1
+obverse:2
+obverse:1
+obverse:2
+obverse:3
+obverse:4
+obverse:1
+obverse:2
+obverse:3
+obverse:1
+obverse:2
+obverse:3
+obverse:1
+obverse:2
+obverse:1
+obverse:1
+obverse:2
+obverse:1
+obverse:1
+obverse:2
+obverse:3
+obverse:1
+reverse:1
+obverse:1
+obverse:1
+obverse:2
+obverse:1
+obverse:1
+obverse:2
+obverse:1
+reverse:1
+reverse:2
+obverse:1
+obverse:2
+obverse:1
+obverse:1
+obverse:1
+obverse:2
+obverse:3
+obverse:1
+obverse:2
+obverse:1
+obverse:2
+obverse:1
+obverse:2
+obverse:1
+obverse:2
+obverse:3
+reverse:1
+reverse:2
+reverse:3
+obverse:1
+obverse:2
+obverse:3
+obverse:1
+obverse:1
+obverse:2
+obverse:3
+obverse:1
+obverse:0
+reverse:0
+obverse:1
+obverse:2
+obverse:1
+obverse:2
+reverse:1
+obverse:1
+obverse:2
+obverse:3
+obverse:1
+obverse:2
+reverse:1
+obverse:1
+obverse:2
+reverse:1
+reverse:2
+obverse:1
+obverse:2
+obverse:1
+obverse:2
+reverse:1
+obverse:1
+obverse:1
+obverse:2
+obverse:1
+obverse:2
+obverse:3
+reverse:1
+obverse:1
+obverse:2
+obverse:1
+obverse:2
+obverse:3
+obverse:1
+obverse:2
+obverse:1
+obverse:2
+obverse:3
+reverse:1
+reverse:2
+reverse:3
+obverse:1
+obverse:2
+obverse:3
+obverse:1
+obverse:2
+obverse:3
+obverse:4
+reverse:1
+obverse:1
+obverse:2
+obverse:1
+obverse:2
+obverse:1
+obverse:2
+reverse:1
+obverse:1
+obverse:1
+reverse:1
+reverse:1
+obverse:1
+obverse:2
+obverse:1
+obverse:1
+obverse:2
+obverse:1
+obverse:1
+obverse:2
+obverse:1
+obverse:1
+reverse:1
+obverse:1
+obverse:2
+obverse:1
+obverse:2
+obverse:1
+obverse:2
+obverse:1
+obverse:1
+obverse:1
+obverse:2
+obverse:1
+obverse:1
+obverse:2
+obverse:3
+obverse:1
+obverse:2
+obverse:1
+obverse:2
+obverse:1
+obverse:1
+obverse:1
+obverse:2
+reverse:1
+reverse:2
+obverse:1
+obverse:2
+obverse:2
+obverse:3
+obverse:1
+obverse:1
+obverse:1
+obverse:1
+obverse:1
+obverse:2
+obverse:1
+obverse:2
+obverse:1
+obverse:1
+reverse:1
+obverse:1
+obverse:2
+obverse:1
+obverse:1
+obverse:2
+obverse:1
+obverse:2
+obverse:1
+obverse:2
+obverse:1
+obverse:1
+obverse:2
+obverse:1
+obverse:2
+obverse:1
+obverse:2
+obverse:1
+obverse:1
+obverse:1
+obverse:2
+reverse:1
+obverse:1
+obverse:1
+obverse:1
+obverse:1
+obverse:2
+obverse:1
+obverse:1
+obverse:2
+obverse:1
+obverse:1
+reverse:1
+obverse:1
+obverse:1
+obverse:1
+obverse:1
+obverse:2
+obverse:1
+obverse:2
+obverse:1
+obverse:2
+obverse:3
+obverse:1
+obverse:1
+obverse:2
+obverse:1
+obverse:2
+reverse:1
+obverse:1
+obverse:2
+obverse:1
+obverse:2
+obverse:1
+obverse:2
+obverse:1
+obverse:1
+obverse:2
+obverse:1
+obverse:1
+obverse:2
+obverse:1
+obverse:2
+obverse:3
+obverse:1
+obverse:2
+obverse:3
+obverse:4
+obverse:1
+obverse:1
+obverse:2
+obverse:1
+obverse:1
+obverse:1
+obverse:1
+reverse:1
+obverse:1
+obverse:1
+obverse:1
+obverse:2
+obverse:3
+obverse:1
+obverse:1
+obverse:2
+reverse:1
+obverse:1
+obverse:2
+obverse:1
+obverse:2
+obverse:1
+obverse:2
+reverse:1
+obverse:1
+obverse:1
+reverse:1
+obverse:1
+obverse:2
+obverse:1
+obverse:2
+obverse:1
+obverse:2
+obverse:3
+obverse:1
+obverse:2
+obverse:1
+obverse:1
+obverse:2
+obverse:1
+obverse:1
+obverse:2
+obverse:1
+obverse:1
+obverse:2
+obverse:1
+obverse:2
+obverse:3
+reverse:1
+reverse:2
+obverse:1
+obverse:2
+obverse:3
+reverse:1
+reverse:2
+obverse:1
+obverse:2
+reverse:1
+obverse:1
+obverse:1
+obverse:2
+reverse:1
+obverse:1
+obverse:2
+reverse:1
+obverse:2
+obverse:3
+obverse:4
+obverse:5
+obverse:1
+obverse:1
+obverse:2
+obverse:3
+reverse:1
+obverse:1
+obverse:2
+obverse:3
+obverse:1
+obverse:2
+obverse:3
+reverse:1
+obverse:1
+obverse:1
+obverse:2
+obverse:3
+reverse:1
+reverse:2
+obverse:1
+obverse:1
+reverse:1
+obverse:1
+obverse:2
+obverse:3
+obverse:1
+obverse:1
+reverse:1
+obverse:1
+obverse:1
+obverse:1
+obverse:2
+obverse:1
+obverse:2
+obverse:3
+obverse:1
+obverse:2
+obverse:3
+obverse:4
+obverse:5
+reverse:1
+reverse:2
+obverse:1
+obverse:1
+obverse:2
+obverse:1
+obverse:1
+obverse:2
+reverse:1
+obverse:1
+obverse:2
+obverse:3
+obverse:1
+obverse:2
+obverse:1
+obverse:2
+obverse:1
+reverse:1
+obverse:1
+obverse:1
+reverse:1
+obverse:1
+reverse:1
+obverse:1
+obverse:2
+obverse:1
+obverse:2
+obverse:3
+obverse:1
+obverse:2
+obverse:1
+obverse:2
+obverse:1
+obverse:2
+obverse:3
+obverse:4
+obverse:1
+obverse:2
+reverse:1
+obverse:1
+obverse:2
+reverse:1
+obverse:1
+obverse:2
+reverse:1
+obverse:1
+obverse:2
+reverse:1
+reverse:2
+obverse:1
+reverse:1
+reverse:2
+obverse:1
+obverse:2
+reverse:1
+reverse:2
+obverse:1
+reverse:1
+obverse:1
+obverse:2
+reverse:1
+obverse:1
+obverse:2
+obverse:1
+obverse:2
+obverse:1
+obverse:1
+obverse:2
+obverse:1
+obverse:1
+obverse:1
+obverse:2
+obverse:3
+obverse:4
+obverse:1
+obverse:2
+obverse:3
+reverse:1
+obverse:1
+obverse:2
+obverse:1
+obverse:2
+obverse:3
+reverse:1
+reverse:2
+reverse:3
+obverse:1
+obverse:1
+obverse:2
+reverse:1
+obverse:1
+obverse:2
+obverse:3
+reverse:1
+obverse:1
+obverse:2
+obverse:3
+reverse:1
+reverse:2
+obverse:1
+obverse:2
+reverse:1
+obverse:1
+obverse:2
+reverse:1
+obverse:1
+reverse:1
+obverse:1
+obverse:2
+reverse:1
+obverse:1
+reverse:1
+reverse:2
+obverse:1
+obverse:2
+obverse:1
+reverse:1
+obverse:1
+reverse:1
+obverse:1
+obverse:1
+obverse:2
+reverse:1
+obverse:1
+obverse:2
+reverse:1
+obverse:1
+obverse:2
+reverse:1
+obverse:1
+reverse:1
+reverse:2
+obverse:1
+obverse:2
+reverse:1
+obverse:1
+reverse:1
+obverse:1
+reverse:1
+obverse:1
+reverse:1
+reverse:2
+obverse:1
+reverse:1
+obverse:1
+reverse:1
+obverse:1
+reverse:1
+obverse:1
+reverse:1
+obverse:1
+obverse:2
+reverse:1
+obverse:1
+obverse:2
+obverse:1
+obverse:2
+obverse:1
+reverse:1
+obverse:1
+obverse:2
+obverse:3
+reverse:1
+obverse:1
+obverse:2
+reverse:1
+reverse:2
+obverse:1
+reverse:1
+obverse:1
+obverse:1
+obverse:2
+obverse:1
+obverse:1
+obverse:2
+obverse:1
+obverse:1
+obverse:1
+obverse:1
+obverse:2
+obverse:1
+obverse:1
+obverse:1
+obverse:1
+obverse:1
+obverse:1
+obverse:1
+obverse:1
+obverse:1
+obverse:1
+obverse:1
+obverse:1
+obverse:1
+obverse:1
+obverse:1
+obverse:1
+obverse:1
+obverse:2
+obverse:1
+obverse:2
+obverse:1
+obverse:2
+obverse:1
+obverse:2
+reverse:1
+reverse:2
+obverse:1
+obverse:2
+obverse:1
+obverse:2
+obverse:1
+obverse:2
+obverse:1
+obverse:2
+obverse:1
+obverse:1
+obverse:1
+obverse:1
+obverse:2
+obverse:1
+obverse:1
+obverse:2
+reverse:1
+reverse:2
+obverse:1
+obverse:1
+obverse:1
+obverse:1
+obverse:1
+obverse:1
+obverse:1
+obverse:1
+obverse:1
+obverse:1
+obverse:1
+obverse:1
+obverse:1
+obverse:1
+obverse:2
+reverse:1
+obverse:1
+obverse:1
+obverse:1
+obverse:2
+obverse:1
+reverse:1
+obverse:1
+obverse:1
+obverse:1
+obverse:1
+obverse:2
+obverse:1
+obverse:1
+reverse:1
+obverse:1
+obverse:1
+reverse:1
+obverse:1
+obverse:1
+reverse:1
+obverse:1
+obverse:2
+reverse:1
+obverse:1
+obverse:1
+obverse:2
+reverse:1
+reverse:2
+obverse:1
+obverse:2
+obverse:3
+reverse:1
+reverse:2
+obverse:1
+reverse:1
+obverse:1
+obverse:2
+obverse:3
+reverse:1
+obverse:1
+obverse:2
+reverse:1
+obverse:1
+obverse:2
+reverse:1
+obverse:1
+obverse:2
+reverse:1
+obverse:1
+obverse:2
+obverse:3
+obverse:4
+reverse:1
+obverse:1
+obverse:2
+obverse:3
+obverse:4
+reverse:1
+reverse:3
+reverse:2
+obverse:1
+reverse:1
+obverse:1
+obverse:1
+reverse:1
+obverse:1
+obverse:2
+obverse:1
+obverse:1
+obverse:2
+obverse:3
+obverse:4
+reverse:1
+reverse:2
+obverse:1
+reverse:1
+obverse:1
+obverse:2
+obverse:3
+reverse:1
+obverse:1
+reverse:1
+obverse:1
+reverse:1
+obverse:1
+obverse:2
+obverse:3
+obverse:4
+obverse:5
+obverse:6
+obverse:7
+reverse:1
+reverse:2
+reverse:3
+obverse:1
+obverse:2
+obverse:3
+obverse:4
+obverse:1
+obverse:2
+obverse:3
+reverse:1
+obverse:1
+obverse:2
+reverse:1
+reverse:2
+reverse:3
+obverse:1
+obverse:2
+reverse:1
+obverse:1
+obverse:2
+reverse:1
+obverse:1
+obverse:2
+reverse:1
+obverse:1
+obverse:2
+obverse:1
+obverse:2
+reverse:1
+reverse:2
+obverse:1
+obverse:2
+obverse:3
+reverse:1
+reverse:2
+reverse:3
+obverse:1
+obverse:2
+reverse:1
+reverse:2
+obverse:1
+obverse:2
+obverse:3
+obverse:4
+reverse:1
+reverse:2
+obverse:1
+obverse:2
+obverse:3
+obverse:4
+reverse:1
+obverse:1
+obverse:2
+obverse:3
+reverse:1
+reverse:2
+obverse:1
+reverse:1
+obverse:1
+obverse:2
+reverse:1
+obverse:1
+obverse:2
+obverse:3
+reverse:1
+reverse:2
+reverse:3
+obverse:1
+obverse:2
+reverse:1
+reverse:2
+obverse:1
+obverse:2
+reverse:1
+reverse:2
+obverse:1
+obverse:2
+reverse:1
+reverse:2
+obverse:1
+obverse:2
+reverse:1
+obverse:1
+obverse:2
+obverse:3
+reverse:1
+obverse:1
+obverse:2
+obverse:3
+obverse:4
+reverse:1
+reverse:2
+obverse:1
+obverse:2
+reverse:1
+reverse:2
+obverse:1
+obverse:2
+reverse:1
+obverse:1
+obverse:2
+reverse:1
+obverse:1
+obverse:2
+obverse:3
+reverse:1
+reverse:2
+obverse:1
+obverse:2
+reverse:1
+obverse:1
+obverse:2
+obverse:3
+obverse:4
+reverse:1
+reverse:2
+obverse:1
+obverse:2
+obverse:3
+obverse:4
+obverse:5
+reverse:1
+obverse:1
+obverse:2
+obverse:3
+reverse:1
+reverse:2
+obverse:1
+obverse:2
+obverse:3
+reverse:1
+obverse:1
+obverse:2
+reverse:1
+reverse:2
+obverse:1
+obverse:2
+obverse:3
+obverse:1
+obverse:2
+reverse:1
+obverse:1
+reverse:1
+obverse:1
+obverse:2
+reverse:1
+reverse:2
+obverse:1
+obverse:2
+obverse:3
+obverse:4
+obverse:5
+reverse:1
+reverse:2
+obverse:1
+obverse:2
+obverse:3
+reverse:1
+reverse:2
+obverse:1
+obverse:2
+obverse:3
+obverse:4
+obverse:5
+reverse:1
+reverse:2
+reverse:3
+obverse:1
+obverse:2
+obverse:3
+obverse:4
+obverse:5
+reverse:1
+obverse:1
+reverse:1
+obverse:1
+obverse:2
+reverse:1
+obverse:1
+reverse:1
+obverse:1
+reverse:1
+obverse:1
+obverse:2
+reverse:1
+reverse:2
+obverse:2
+obverse:1
+obverse:3
+reverse:1
+obverse:1
+obverse:2
+obverse:3
+reverse:1
+obverse:1
+reverse:1
+reverse:2
+obverse:1
+obverse:2
+obverse:3
+reverse:1
+reverse:2
+obverse:1
+obverse:2
+obverse:3
+reverse:1
+reverse:2
+reverse:3
+reverse:4
+obverse:1
+obverse:2
+reverse:1
+obverse:1
+reverse:1
+reverse:2
+obverse:1
+obverse:2
+obverse:3
+reverse:1
+reverse:2
+obverse:1
+obverse:2
+obverse:3
+obverse:4
+reverse:1
+reverse:2
+reverse:3
+obverse:1
+obverse:2
+obverse:3
+reverse:1
+obverse:1
+obverse:2
+obverse:3
+obverse:4
+reverse:1
+reverse:2
+obverse:1
+obverse:2
+reverse:1
+reverse:2
+obverse:1
+obverse:2
+reverse:1
+reverse:2
+obverse:1
+obverse:2
+obverse:3
+reverse:1
+obverse:1
+obverse:2
+obverse:3
+reverse:1
+obverse:1
+obverse:2
+reverse:1
+reverse:2
+obverse:1
+obverse:2
+reverse:1
+reverse:2
+reverse:3
+obverse:1
+reverse:1
+reverse:2
+obverse:1
+reverse:1
+reverse:2
+obverse:1
+obverse:2
+reverse:1
+obverse:1
+obverse:2
+obverse:3
+obverse:4
+obverse:5
+reverse:1
+obverse:1
+obverse:2
+obverse:3
+obverse:4
+reverse:1
+reverse:2
+obverse:1
+reverse:1
+obverse:1
+reverse:1
+obverse:1
+obverse:2
+reverse:1
+obverse:1
+obverse:2
+reverse:1
+obverse:1
+obverse:2
+reverse:1
+obverse:1
+obverse:2
+reverse:1
+obverse:1
+obverse:1
+obverse:2
+reverse:1
+reverse:2
+obverse:1
+obverse:2
+reverse:1
+obverse:1
+obverse:2
+reverse:1
+obverse:1
+obverse:2
+reverse:1
+obverse:1
+obverse:2
+reverse:1
+reverse:3
+reverse:2
+obverse:1
+obverse:2
+obverse:3
+obverse:4
+reverse:1
+reverse:2
+obverse:1
+obverse:2
+obverse:3
+reverse:1
+reverse:2
+obverse:1
+obverse:2
+obverse:3
+reverse:1
+obverse:1
+obverse:2
+reverse:1
+obverse:1
+obverse:2
+reverse:1
+obverse:1
+obverse:2
+obverse:3
+reverse:1
+obverse:1
+obverse:2
+reverse:1
+reverse:2
+obverse:1
+reverse:1
+obverse:1
+obverse:2
+reverse:1
+obverse:1
+reverse:1
+reverse:2
+obverse:1
+obverse:2
+obverse:3
+obverse:4
+reverse:1
+reverse:2
+obverse:1
+obverse:2
+obverse:3
+obverse:4
+reverse:1
+reverse:2
+reverse:3
+reverse:4
+obverse:1
+obverse:2
+obverse:3
+reverse:1
+reverse:2
+reverse:3
+obverse:1
+obverse:2
+reverse:1
+reverse:2
+obverse:1
+reverse:1
+obverse:1
+obverse:2
+reverse:1
+obverse:1
+obverse:2
+reverse:1
+obverse:1
+obverse:2
+reverse:1
+reverse:2
+obverse:1
+obverse:2
+obverse:4
+obverse:3
+obverse:5
+reverse:1
+obverse:1
+obverse:2
+reverse:1
+obverse:1
+obverse:2
+reverse:1
+obverse:1
+obverse:2
+reverse:1
+obverse:1
+obverse:2
+obverse:3
+reverse:1
+obverse:1
+obverse:2
+obverse:3
+obverse:1
+obverse:2
+reverse:1
+obverse:1
+obverse:2
+obverse:3
+reverse:1
+obverse:1
+obverse:2
+reverse:1
+reverse:3
+obverse:1
+obverse:2
+obverse:3
+reverse:1
+obverse:1
+obverse:2
+obverse:3
+obverse:4
+reverse:1
+obverse:1
+obverse:2
+reverse:1
+obverse:1
+reverse:1
+obverse:1
+obverse:2
+obverse:3
+reverse:1
+obverse:1
+obverse:2
+reverse:1
+obverse:1
+obverse:2
+reverse:1
+obverse:1
+obverse:2
+reverse:1
+obverse:1
+obverse:2
+reverse:1
+obverse:1
+reverse:1
+obverse:1
+reverse:1
+obverse:1
+obverse:2
+reverse:1
+obverse:1
+obverse:2
+reverse:1
+obverse:1
+obverse:2
+obverse:3
+reverse:2
+reverse:1
+obverse:1
+obverse:2
+reverse:1
+reverse:2
+obverse:1
+obverse:2
+reverse:1
+reverse:2
+reverse:3
+reverse:4
+obverse:1
+obverse:2
+reverse:1
+reverse:2
+obverse:1
+obverse:2
+reverse:1
+obverse:1
+reverse:1
+reverse:2
+obverse:1
+obverse:2
+reverse:1
+reverse:2
+obverse:1
+obverse:2
+obverse:3
+obverse:4
+reverse:1
+reverse:2
+obverse:1
+reverse:1
+obverse:1
+obverse:2
+obverse:3
+reverse:1
+obverse:1
+obverse:2
+obverse:3
+obverse:4
+reverse:1
+reverse:2
+obverse:1
+obverse:2
+reverse:1
+reverse:2
+obverse:1
+reverse:1
+reverse:2
+obverse:1
+obverse:2
+reverse:1
+reverse:2
+obverse:1
+reverse:1
+obverse:1
+obverse:2
+obverse:3
+reverse:1
+reverse:2
+obverse:1
+obverse:2
+obverse:3
+reverse:1
+obverse:1
+obverse:2
+reverse:1
+reverse:2
+reverse:3
+obverse:1
+obverse:2
+obverse:3
+reverse:1
+reverse:2
+obverse:1
+reverse:1
+reverse:2
+obverse:1
+obverse:2
+obverse:3
+obverse:4
+reverse:1
+reverse:2
+reverse:4
+reverse:3
+obverse:1
+obverse:2
+reverse:1
+obverse:1
+obverse:2
+reverse:1
+reverse:2
+reverse:3
+obverse:1
+obverse:2
+obverse:3
+obverse:4
+reverse:1
+reverse:2
+obverse:1
+obverse:2
+obverse:3
+obverse:4
+reverse:1
+reverse:2
+reverse:3
+obverse:1
+obverse:2
+obverse:3
+reverse:1
+reverse:2
+reverse:3
+obverse:1
+obverse:2
+reverse:1
+obverse:1
+obverse:2
+obverse:3
+obverse:4
+reverse:1
+reverse:2
+reverse:3
+reverse:4
+reverse:5
+obverse:1
+obverse:2
+reverse:1
+reverse:2
+obverse:1
+obverse:2
+reverse:1
+obverse:1
+obverse:2
+obverse:3
+reverse:1
+obverse:1
+obverse:2
+obverse:3
+reverse:1
+reverse:2
+obverse:1
+reverse:1
+obverse:1
+obverse:2
+obverse:3
+reverse:1
+reverse:2
+reverse:3
+obverse:1
+reverse:1
+obverse:1
+obverse:2
+reverse:1
+reverse:2
+obverse:1
+obverse:2
+reverse:1
+obverse:1
+reverse:1
+reverse:0
+obverse:1
+obverse:2
+reverse:1
+obverse:1
+reverse:1
+reverse:2
+obverse:1
+obverse:2
+reverse:1
+obverse:1
+reverse:1
+obverse:1
+reverse:1
+obverse:1
+reverse:1
+reverse:2
+obverse:1
+obverse:2
+reverse:1
+obverse:1
+obverse:2
+obverse:3
+reverse:1
+obverse:1
+reverse:1
+reverse:2
+obverse:1
+obverse:2
+reverse:1
+obverse:1
+obverse:2
+reverse:1
+obverse:1
+obverse:2
+obverse:3
+reverse:1
+reverse:2
+obverse:1
+reverse:1
+obverse:1
+obverse:2
+obverse:3
+reverse:1
+reverse:2
+obverse:1
+obverse:2
+reverse:1
+obverse:1
+obverse:2
+reverse:1
+obverse:1
+reverse:1
+reverse:2
+obverse:1
+reverse:1
+obverse:1
+reverse:1
+obverse:1
+obverse:2
+reverse:1
+obverse:1
+obverse:2
+reverse:1
+obverse:1
+obverse:2
+reverse:1
+obverse:1
+obverse:2
+reverse:1
+reverse:2
+obverse:1
+obverse:2
+reverse:1
+obverse:1
+obverse:2
+obverse:3
+reverse:1
+obverse:1
+reverse:1
+obverse:1
+obverse:2
+reverse:1
+obverse:1
+reverse:1
+obverse:1
+obverse:2
+reverse:1
+obverse:1
+obverse:2
+reverse:1
+obverse:1
+reverse:1
+obverse:1
+obverse:2
+reverse:1
+obverse:1
+reverse:1
+obverse:1
+reverse:1
+obverse:1
+reverse:1
+obverse:1
+obverse:2
+obverse:1
+obverse:2
+reverse:1
+obverse:1
+reverse:1
+obverse:1
+obverse:2
+obverse:1
+obverse:2
+reverse:1
+obverse:1
+obverse:2
+reverse:1
+reverse:2
+reverse:3
+reverse:4
+obverse:1
+obverse:2
+obverse:3
+obverse:4
+reverse:1
+reverse:2
+obverse:1
+obverse:2
+obverse:3
+reverse:1
+obverse:1
+obverse:2
+obverse:3
+reverse:1
+reverse:2
+obverse:1
+obverse:2
+reverse:1
+obverse:1
+obverse:2
+reverse:1
+obverse:1
+obverse:2
+obverse:3
+reverse:1
+reverse:2
+reverse:3
+obverse:1
+obverse:2
+obverse:1
+obverse:2
+obverse:3
+obverse:0
+obverse:1
+obverse:2
+reverse:1
+obverse:1
+obverse:2
+reverse:1
+reverse:2
+obverse:1
+obverse:2
+reverse:0
+obverse:1
+obverse:2
+obverse:3
+obverse:4
+reverse:0
+obverse:0
+obverse:1
+obverse:2
+reverse:1
+reverse:2
+reverse:3
+reverse:4
+obverse:1
+obverse:2
+obverse:3
+reverse:0
+obverse:1
+obverse:2
+reverse:0
+obverse:1
+obverse:2
+obverse:3
+reverse:0
+obverse:0
+obverse:1
+obverse:2
+obverse:1
+obverse:2
+obverse:3
+reverse:0
+obverse:1
+obverse:2
+reverse:0
+obverse:1
+obverse:2
+reverse:0
+obverse:1
+obverse:2
+obverse:3
+reverse:1
+reverse:2
+obverse:1
+obverse:2
+reverse:1
+reverse:2
+obverse:1
+obverse:2
+reverse:1
+obverse:1
+obverse:2
+obverse:3
+reverse:1
+reverse:2
+obverse:1
+obverse:2
+obverse:3
+reverse:1
+obverse:1
+obverse:2
+reverse:1
+obverse:1
+obverse:2
+obverse:3
+obverse:4
+reverse:1
+reverse:2
+reverse:3
+obverse:1
+obverse:2
+obverse:3
+reverse:1
+reverse:2
+obverse:1
+obverse:2
+obverse:3
+obverse:4
+obverse:5
+reverse:1
+reverse:2
+reverse:3
+obverse:1
+obverse:2
+reverse:1
+obverse:1
+obverse:2
+obverse:3
+reverse:1
+reverse:2
+reverse:3
+reverse:4
+obverse:1
+obverse:2
+reverse:1
+obverse:1
+obverse:2
+obverse:3
+reverse:1
+reverse:2
+obverse:1
+obverse:2
+reverse:1
+reverse:2
+obverse:1
+obverse:2
+reverse:1
+obverse:1
+obverse:2
+obverse:3
+reverse:1
+obverse:1
+obverse:2
+reverse:1
+reverse:2
+reverse:3
+obverse:1
+obverse:2
+obverse:3
+reverse:1
+reverse:2
+reverse:3
+obverse:1
+obverse:2
+reverse:1
+reverse:2
+reverse:3
+obverse:1
+obverse:2
+obverse:3
+reverse:1
+reverse:2
+obverse:1
+obverse:2
+reverse:1
+reverse:2
+obverse:1
+obverse:2
+obverse:3
+reverse:1
+reverse:2
+reverse:3
+obverse:1
+obverse:2
+obverse:3
+reverse:1
+obverse:1
+obverse:2
+reverse:1
+obverse:1
+obverse:2
+obverse:3
+reverse:1
+reverse:2
+reverse:3
+reverse:4
+reverse:5
+reverse:6
+reverse:7
+obverse:1
+reverse:1
+reverse:2
+obverse:1
+obverse:2
+reverse:1
+obverse:1
+obverse:2
+reverse:1
+obverse:1
+reverse:1
+obverse:1
+obverse:2
+reverse:1
+reverse:2
+reverse:3
+obverse:1
+obverse:2
+reverse:1
+obverse:1
+obverse:2
+reverse:1
+obverse:1
+obverse:2
+obverse:3
+reverse:1
+obverse:1
+obverse:2
+obverse:3
+obverse:4
+reverse:1
+reverse:2
+obverse:1
+obverse:2
+reverse:1
+reverse:2
+obverse:1
+obverse:2
+reverse:1
+obverse:1
+reverse:1
+obverse:0
+reverse:0
+obverse:1
+obverse:2
+reverse:1
+obverse:1
+obverse:2
+reverse:1
+reverse:2
+obverse:1
+reverse:1
+obverse:1
+reverse:1
+obverse:1
+obverse:2
+reverse:1
+reverse:2
+obverse:1
+obverse:2
+reverse:1
+reverse:2
+obverse:1
+obverse:2
+reverse:1
+reverse:2
+obverse:1
+obverse:2
+reverse:1
+obverse:1
+obverse:2
+reverse:1
+obverse:1
+obverse:2
+obverse:3
+reverse:1
+obverse:1
+obverse:2
+obverse:3
+obverse:4
+reverse:1
+reverse:2
+obverse:1
+obverse:2
+obverse:3
+obverse:4
+reverse:1
+obverse:1
+obverse:2
+obverse:3
+obverse:4
+reverse:1
+reverse:2
+obverse:1
+obverse:2
+reverse:1
+obverse:1
+obverse:2
+reverse:1
+reverse:2
+reverse:3
+obverse:1
+reverse:1
+obverse:1
+obverse:2
+reverse:1
+reverse:2
+obverse:1
+obverse:2
+reverse:1
+obverse:1
+reverse:1
+obverse:1
+reverse:1
+obverse:1
+reverse:1
+obverse:1
+obverse:2
+reverse:1
+obverse:1
+obverse:2
+obverse:3
+reverse:1
+reverse:2
+obverse:1
+reverse:1
+obverse:1
+obverse:2
+reverse:1
+obverse:1
+obverse:2
+obverse:3
+reverse:1
+obverse:1
+obverse:2
+obverse:3
+obverse:4
+obverse:5
+reverse:1
+obverse:1
+obverse:2
+obverse:3
+obverse:4
+reverse:1
+reverse:2
+obverse:1
+obverse:2
+obverse:3
+obverse:4
+reverse:1
+reverse:2
+reverse:3
+reverse:4
+obverse:1
+obverse:2
+reverse:1
+reverse:2
+obverse:1
+obverse:2
+obverse:2
+reverse:1
+reverse:2
+reverse:3
+obverse:1
+obverse:2
+reverse:1
+obverse:1
+obverse:2
+reverse:1
+obverse:1
+obverse:2
+reverse:1
+reverse:2
+reverse:3
+obverse:1
+obverse:2
+reverse:1
+obverse:1
+obverse:2
+obverse:1
+obverse:1
+obverse:2
+reverse:1
+reverse:2
+obverse:1
+reverse:1
+obverse:1
+reverse:1
+obverse:1
+obverse:2
+obverse:3
+reverse:1
+obverse:1
+obverse:2
+reverse:1
+obverse:1
+obverse:2
+reverse:1
+reverse:2
+obverse:0
+reverse:1
+reverse:2
+obverse:0
+reverse:1
+reverse:2
+obverse:0
+reverse:1
+reverse:2
+obverse:0
+reverse:1
+reverse:2
+obverse:1
+reverse:1
+reverse:2
+obverse:1
+obverse:2
+obverse:3
+reverse:1
+reverse:2
+obverse:1
+obverse:2
+reverse:1
+obverse:0
+reverse:0
+obverse:1
+obverse:2
+reverse:1
+obverse:1
+obverse:2
+obverse:1
+obverse:2
+reverse:1
+obverse:1
+obverse:2
+reverse:1
+obverse:1
+obverse:2
+obverse:1
+obverse:2
+obverse:1
+obverse:2
+reverse:1
+reverse:2
+reverse:1
+reverse:2
+obverse:1
+obverse:1
+obverse:2
+reverse:1
+obverse:1
+obverse:2
+reverse:1
+reverse:2
+obverse:1
+obverse:2
+obverse:3
+reverse:1
+reverse:2
+reverse:3
+obverse:1
+obverse:2
+obverse:1
+reverse:1
+obverse:1
+obverse:2
+reverse:1
+obverse:1
+obverse:2
+reverse:1
+reverse:2
+obverse:1
+obverse:2
+reverse:1
+obverse:1
+obverse:1
+obverse:2
+obverse:1
+obverse:2
+reverse:1
+reverse:2
+obverse:1
+obverse:2
+reverse:1
+obverse:1
+obverse:2
+reverse:1
+reverse:2
+obverse:1
+obverse:2
+obverse:1
+obverse:2
+reverse:1
+obverse:1
+obverse:1
+obverse:2
+reverse:1
+reverse:2
+top:1
+obverse:1
+obverse:1
+obverse:2
+reverse:1
+obverse:1
+obverse:2
+obverse:1
+obverse:2
+obverse:1
+obverse:2
+reverse:1
+reverse:2
+obverse:1
+obverse:1
+obverse:2
+reverse:1
+obverse:1
+obverse:2
+obverse:3
+reverse:1
+reverse:2
+obverse:1
+obverse:2
+obverse:1
+obverse:2
+obverse:1
+obverse:2
+reverse:1
+reverse:2
+obverse:1
+obverse:2
+obverse:1
+reverse:1
+reverse:2
+obverse:1
+obverse:1
+reverse:1
+obverse:1
+obverse:1
+obverse:2
+reverse:1
+obverse:0
+obverse:1
+obverse:1
+obverse:1
+reverse:1
+reverse:2
+obverse:1
+obverse:1
+obverse:1
+obverse:1
+obverse:1
+obverse:2
+obverse:1
+obverse:1
+obverse:1
+obverse:2
+reverse:1
+reverse:2
+obverse:1
+obverse:2
+reverse:1
+obverse:1
+obverse:2
+obverse:3
+reverse:1
+reverse:2
+obverse:1
+obverse:1
+obverse:2
+obverse:1
+obverse:2
+reverse:1
+reverse:2
+obverse:1
+obverse:1
+obverse:2
+obverse:1
+obverse:1
+obverse:2
+reverse:1
+obverse:1
+obverse:2
+reverse:1
+reverse:2
+obverse:1
+obverse:2
+obverse:3
+obverse:1
+obverse:2
+reverse:1
+reverse:2
+obverse:1
+reverse:1
+obverse:1
+obverse:1
+obverse:1
+obverse:2
+obverse:3
+obverse:4
+obverse:5
+obverse:6
+obverse:7
+reverse:1
+reverse:2
+reverse:3
+reverse:4
+obverse:1
+obverse:2
+obverse:3
+obverse:4
+obverse:5
+reverse:1
+reverse:2
+reverse:3
+obverse:1
+obverse:2
+obverse:3
+obverse:4
+obverse:5
+reverse:1
+reverse:2
+obverse:1
+obverse:2
+obverse:3
+obverse:1
+obverse:2
+reverse:1
+reverse:2
+obverse:1
+obverse:2
+obverse:3
+reverse:1
+reverse:2
+reverse:3
+obverse:1
+obverse:2
+obverse:1
+obverse:2
+obverse:3
+obverse:4
+reverse:1
+reverse:2
+reverse:3
+obverse:1
+obverse:2
+obverse:3
+reverse:1
+obverse:1
+obverse:1
+reverse:1
+obverse:1
+obverse:2
+obverse:3
+reverse:1
+reverse:2
+obverse:1
+obverse:2
+obverse:3
+obverse:4
+reverse:1
+obverse:1
+obverse:2
+obverse:3
+obverse:4
+obverse:5
+reverse:1
+reverse:2
+obverse:1
+obverse:2
+obverse:3
+obverse:4
+reverse:1
+reverse:2
+obverse:1
+obverse:2
+obverse:3
+obverse:4
+reverse:1
+reverse:2
+obverse:1
+obverse:2
+obverse:3
+obverse:4
+reverse:1
+reverse:2
+reverse:3
+obverse:1
+obverse:2
+obverse:3
+obverse:4
+reverse:1
+reverse:2
+reverse:3
+reverse:4
+obverse:1
+obverse:2
+obverse:3
+obverse:4
+obverse:5
+reverse:1
+reverse:2
+obverse:1
+obverse:2
+obverse:1
+obverse:2
+obverse:1
+obverse:2
+obverse:3
+obverse:4
+reverse:1
+reverse:2
+reverse:3
+reverse:4
+obverse:1
+obverse:2
+reverse:1
+reverse:2
+reverse:3
+obverse:1
+reverse:1
+obverse:1
+obverse:2
+reverse:1
+reverse:2
+obverse:1
+obverse:2
+obverse:3
+obverse:4
+reverse:1
+obverse:1
+obverse:2
+obverse:3
+reverse:1
+reverse:2
+reverse:3
+obverse:1
+obverse:2
+obverse:3
+obverse:1
+obverse:2
+obverse:3
+reverse:1
+reverse:2
+obverse:1
+obverse:2
+obverse:3
+reverse:1
+reverse:2
+obverse:1
+obverse:2
+obverse:3
+obverse:4
+reverse:1
+reverse:2
+obverse:1
+obverse:2
+obverse:3
+reverse:1
+obverse:1
+obverse:2
+obverse:3
+obverse:1
+obverse:2
+reverse:1
+reverse:2
+obverse:1
+obverse:2
+obverse:3
+reverse:1
+reverse:2
+obverse:1
+obverse:2
+obverse:1
+obverse:2
+obverse:1
+obverse:2
+obverse:1
+obverse:2
+obverse:3
+obverse:1
+reverse:1
+obverse:1
+obverse:2
+reverse:1
+obverse:1
+reverse:1
+obverse:1
+obverse:2
+obverse:3
+obverse:1
+obverse:2
+obverse:1
+reverse:1
+reverse:2
+obverse:1
+obverse:2
+obverse:1
+obverse:1
+obverse:2
+reverse:1
+obverse:1
+obverse:1
+obverse:1
+obverse:2
+reverse:1
+reverse:2
+reverse:3
+obverse:1
+reverse:1
+reverse:2
+obverse:1
+obverse:2
+reverse:1
+reverse:2
+obverse:1
+obverse:2
+obverse:1
+obverse:2
+reverse:1
+reverse:2
+obverse:1
+obverse:2
+obverse:1
+reverse:1
+obverse:1
+obverse:2
+reverse:1
+reverse:2
+obverse:1
+obverse:1
+obverse:2
+reverse:1
+obverse:1
+obverse:2
+reverse:1
+obverse:1
+obverse:2
+obverse:3
+obverse:1
+reverse:1
+obverse:1
+obverse:2
+reverse:1
+reverse:2
+obverse:1
+obverse:2
+reverse:1
+reverse:2
+surface:1
+surface:1
+obverse:1
+obverse:1
+obverse:2
+reverse:2
+obverse:2
+reverse:1
+reverse:2
+obverse:1
+obverse:1
+obverse:2
+obverse:1
+obverse:2
+reverse:1
+obverse:1
+obverse:1
+obverse:2
+reverse:1
+reverse:2
+obverse:1
+obverse:1
+obverse:1
+obverse:2
+obverse:1
+obverse:2
+obverse:1
+obverse:2
+obverse:1
+obverse:2
+obverse:1
+obverse:2
+obverse:1
+obverse:2
+obverse:1
+obverse:1
+obverse:2
+obverse:3
+obverse:1
+obverse:2
+obverse:1
+obverse:2
+obverse:1
+obverse:1
+obverse:2
+obverse:1
+obverse:2
+obverse:3
+obverse:1
+obverse:2
+obverse:1
+obverse:2
+obverse:3
+obverse:1
+obverse:2
+reverse:1
+obverse:1
+obverse:2
+obverse:1
+obverse:2
+obverse:1
+obverse:2
+obverse:3
+obverse:1
+obverse:2
+obverse:3
+reverse:1
+obverse:1
+obverse:1
+obverse:2
+obverse:1
+obverse:2
+obverse:1
+obverse:2
+obverse:3
+obverse:4
+obverse:1
+obverse:2
+reverse:1
+obverse:1
+obverse:2
+obverse:3
+obverse:4
+reverse:1
+reverse:2
+reverse:3
+obverse:1
+reverse:1
+reverse:2
+obverse:1
+obverse:2
+obverse:1
+obverse:2
+obverse:3
+reverse:1
+reverse:2
+obverse:1
+obverse:1
+obverse:2
+obverse:1
+obverse:2
+reverse:1
+reverse:2
+obverse:1
+obverse:1
+obverse:2
+obverse:1
+obverse:2
+reverse:1
+obverse:1
+obverse:1
+obverse:1
+obverse:1
+obverse:2
+obverse:1
+reverse:1
+reverse:2
+obverse:1
+obverse:1
+obverse:2
+reverse:1
+obverse:1
+obverse:2
+obverse:1
+obverse:1
+reverse:1
+obverse:1
+obverse:2
+reverse:1
+obverse:1
+obverse:2
+obverse:1
+obverse:1
+reverse:1
+obverse:1
+obverse:1
+obverse:1
+obverse:2
+obverse:1
+obverse:2
+reverse:1
+reverse:2
+reverse:3
+obverse:1
+obverse:2
+reverse:1
+reverse:2
+obverse:1
+obverse:2
+obverse:1
+obverse:2
+reverse:1
+obverse:1
+obverse:2
+reverse:1
+obverse:1
+obverse:2
+obverse:3
+obverse:4
+reverse:1
+reverse:2
+obverse:1
+reverse:1
+reverse:2
+obverse:1
+obverse:2
+obverse:1
+obverse:1
+obverse:2
+obverse:1
+obverse:1
+obverse:2
+obverse:1
+obverse:2
+obverse:3
+obverse:4
+reverse:1
+reverse:2
+obverse:1
+obverse:2
+obverse:1
+obverse:2
+reverse:1
+obverse:1
+obverse:2
+obverse:1
+obverse:1
+obverse:2
+obverse:3
+reverse:1
+obverse:1
+obverse:2
+obverse:1
+obverse:2
+obverse:1
+obverse:2
+reverse:1
+reverse:2
+obverse:1
+obverse:2
+reverse:1
+obverse:1
+obverse:2
+reverse:1
+obverse:1
+reverse:1
+obverse:1
+reverse:1
+obverse:1
+obverse:1
+obverse:2
+obverse:1
+obverse:2
+obverse:3
+reverse:1
+reverse:2
+reverse:3
+obverse:1
+obverse:1
+obverse:2
+reverse:1
+reverse:2
+obverse:1
+obverse:2
+obverse:3
+obverse:1
+obverse:2
+reverse:1
+obverse:1
+obverse:2
+reverse:1
+reverse:2
+obverse:1
+reverse:1
+obverse:1
+obverse:2
+reverse:1
+obverse:1
+obverse:2
+obverse:1
+obverse:2
+obverse:1
+obverse:1
+obverse:1
+obverse:2
+obverse:3
+reverse:1
+obverse:1
+obverse:2
+obverse:3
+reverse:1
+reverse:2
+obverse:1
+obverse:1
+obverse:2
+reverse:1
+reverse:2
+obverse:1
+obverse:2
+reverse:1
+reverse:2
+obverse:1
+obverse:1
+obverse:2
+reverse:1
+reverse:2
+obverse:1
+obverse:2
+obverse:3
+reverse:1
+reverse:2
+obverse:1
+obverse:2
+obverse:3
+reverse:1
+obverse:1
+obverse:2
+reverse:1
+reverse:2
+obverse:1
+obverse:2
+obverse:3
+reverse:1
+reverse:2
+obverse:1
+obverse:2
+reverse:1
+reverse:2
+obverse:1
+obverse:2
+obverse:3
+reverse:1
+obverse:1
+obverse:2
+obverse:3
+reverse:1
+reverse:2
+obverse:1
+obverse:1
+obverse:2
+reverse:1
+reverse:2
+obverse:1
+reverse:1
+obverse:1
+obverse:2
+reverse:1
+reverse:2
+obverse:1
+obverse:1
+obverse:2
+obverse:1
+obverse:2
+obverse:1
+obverse:2
+obverse:1
+obverse:2
+reverse:1
+obverse:1
+obverse:2
+reverse:1
+reverse:2
+reverse:3
+obverse:1
+obverse:2
+reverse:1
+obverse:1
+reverse:1
+reverse:2
+obverse:1
+obverse:2
+obverse:1
+obverse:1
+obverse:1
+obverse:1
+obverse:1
+obverse:2
+reverse:1
+obverse:1
+obverse:2
+obverse:1
+obverse:2
+reverse:1
+reverse:2
+obverse:1
+obverse:1
+obverse:2
+obverse:3
+reverse:1
+reverse:2
+obverse:1
+reverse:1
+obverse:1
+obverse:2
+reverse:1
+obverse:1
+obverse:2
+reverse:1
+obverse:1
+obverse:1
+obverse:1
+obverse:1
+obverse:2
+reverse:1
+obverse:1
+obverse:2
+obverse:3
+reverse:1
+reverse:2
+obverse:1
+reverse:1
+obverse:1
+obverse:1
+obverse:2
+reverse:1
+obverse:1
+obverse:2
+reverse:1
+obverse:1
+obverse:1
+obverse:2
+obverse:3
+reverse:1
+reverse:2
+obverse:1
+obverse:2
+reverse:1
+reverse:2
+obverse:1
+obverse:2
+reverse:1
+obverse:1
+obverse:2
+reverse:1
+obverse:1
+obverse:2
+reverse:1
+obverse:1
+obverse:2
+reverse:1
+obverse:1
+obverse:2
+obverse:1
+obverse:2
+obverse:3
+obverse:4
+reverse:1
+reverse:2
+obverse:1
+obverse:2
+reverse:1
+reverse:2
+obverse:1
+reverse:1
+reverse:2
+obverse:1
+obverse:2
+reverse:1
+reverse:2
+obverse:1
+obverse:2
+obverse:1
+obverse:1
+obverse:2
+obverse:3
+reverse:1
+obverse:1
+obverse:2
+reverse:1
+reverse:2
+obverse:1
+obverse:2
+obverse:3
+reverse:1
+reverse:2
+obverse:1
+obverse:2
+reverse:1
+reverse:2
+obverse:1
+obverse:2
+obverse:1
+obverse:1
+obverse:2
+reverse:1
+reverse:2
+obverse:1
+obverse:2
+reverse:1
+reverse:2
+obverse:1
+obverse:2
+obverse:3
+reverse:1
+obverse:1
+obverse:2
+obverse:1
+obverse:1
+obverse:2
+obverse:1
+obverse:2
+reverse:1
+obverse:1
+obverse:2
+obverse:3
+obverse:1
+obverse:2
+reverse:1
+obverse:1
+obverse:2
+reverse:1
+obverse:1
+obverse:2
+reverse:1
+reverse:2
+obverse:1
+obverse:2
+reverse:1
+obverse:1
+reverse:1
+reverse:2
+obverse:1
+obverse:2
+obverse:3
+obverse:4
+reverse:1
+obverse:1
+obverse:1
+obverse:2
+obverse:3
+reverse:1
+reverse:2
+obverse:1
+obverse:2
+obverse:3
+reverse:1
+reverse:2
+obverse:1
+obverse:2
+reverse:1
+obverse:1
+reverse:1
+obverse:1
+obverse:2
+reverse:1
+obverse:1
+obverse:2
+obverse:1
+obverse:2
+obverse:1
+obverse:2
+obverse:3
+obverse:1
+obverse:2
+obverse:3
+reverse:1
+reverse:2
+reverse:3
+obverse:1
+obverse:2
+obverse:3
+obverse:1
+obverse:2
+obverse:1
+obverse:2
+obverse:1
+reverse:1
+obverse:1
+obverse:2
+obverse:3
+reverse:1
+reverse:2
+reverse:3
+obverse:1
+obverse:2
+obverse:3
+reverse:1
+reverse:2
+obverse:1
+obverse:2
+obverse:3
+obverse:1
+obverse:2
+obverse:3
+reverse:1
+obverse:1
+obverse:2
+obverse:3
+reverse:1
+reverse:2
+reverse:3
+obverse:1
+obverse:2
+obverse:3
+obverse:4
+obverse:5
+obverse:6
+reverse:1
+reverse:2
+reverse:3
+reverse:4
+reverse:5
+obverse:1
+obverse:2
+reverse:1
+obverse:1
+obverse:2
+reverse:1
+obverse:1
+obverse:2
+obverse:3
+reverse:1
+reverse:2
+obverse:1
+obverse:2
+reverse:1
+obverse:1
+obverse:2
+obverse:1
+obverse:2
+obverse:3
+reverse:1
+reverse:2
+obverse:1
+obverse:2
+obverse:1
+obverse:2
+obverse:1
+obverse:2
+reverse:1
+obverse:1
+obverse:2
+obverse:3
+reverse:1
+reverse:2
+obverse:1
+obverse:1
+obverse:2
+obverse:1
+obverse:2
+obverse:3
+reverse:1
+reverse:2
+obverse:1
+obverse:2
+obverse:1
+obverse:2
+obverse:3
+reverse:1
+obverse:1
+obverse:2
+reverse:1
+obverse:1
+obverse:2
+obverse:3
+reverse:1
+reverse:2
+reverse:3
+obverse:1
+obverse:2
+reverse:1
+obverse:1
+obverse:2
+obverse:3
+reverse:1
+reverse:2
+reverse:3
+obverse:1
+obverse:2
+reverse:1
+reverse:2
+obverse:1
+obverse:1
+obverse:2
+reverse:1
+reverse:2
+obverse:1
+obverse:1
+obverse:1
+reverse:1
+obverse:1
+obverse:1
+obverse:2
+obverse:1
+obverse:2
+reverse:1
+reverse:2
+obverse:1
+obverse:2
+obverse:3
+reverse:1
+reverse:2
+obverse:1
+obverse:2
+obverse:1
+obverse:2
+reverse:1
+obverse:1
+obverse:2
+reverse:1
+reverse:2
+obverse:1
+obverse:2
+reverse:1
+obverse:1
+obverse:2
+obverse:3
+obverse:1
+reverse:1
+obverse:1
+obverse:2
+reverse:1
+obverse:1
+obverse:2
+obverse:1
+obverse:1
+obverse:2
+reverse:1
+obverse:1
+obverse:2
+reverse:1
+reverse:2
+obverse:1
+obverse:2
+reverse:1
+reverse:2
+obverse:1
+reverse:1
+obverse:1
+obverse:2
+obverse:1
+obverse:1
+obverse:2
+obverse:1
+obverse:2
+obverse:3
+obverse:1
+obverse:2
+reverse:1
+obverse:1
+obverse:2
+reverse:1
+reverse:2
+obverse:0
+obverse:1
+reverse:1
+obverse:0
+obverse:1
+reverse:1
+obverse:1
+obverse:2
+reverse:1
+reverse:2
+obverse:1
+obverse:2
+obverse:1
+obverse:2
+reverse:1
+reverse:2
+obverse:2
+obverse:1
+obverse:1
+obverse:2
+obverse:1
+obverse:1
+obverse:1
+obverse:1
+obverse:1
+obverse:1
+obverse:1
+obverse:1
+obverse:2
+obverse:1
+obverse:1
+obverse:1
+obverse:1
+obverse:1
+obverse:1
+obverse:2
+obverse:1
+obverse:1
+obverse:1
+obverse:2
+obverse:1
+obverse:1
+obverse:2
+obverse:3
+obverse:1
+obverse:1
+obverse:1
+reverse:1
+obverse:1
+reverse:1
+obverse:1
+obverse:1
+obverse:2
+reverse:1
+obverse:1
+obverse:1
+obverse:2
+obverse:1
+obverse:2
+obverse:3
+obverse:2
+obverse:3
+obverse:1
+obverse:2
+obverse:1
+obverse:2
+obverse:2
+obverse:3
+obverse:4
+obverse:5
+obverse:6
+obverse:1
+reverse:1
+obverse:1
+obverse:1
+obverse:2
+obverse:3
+surface:1
+obverse:2
+obverse:3
+obverse:4
+obverse:5
+obverse:6
+obverse:7
+obverse:1
+obverse:1
+obverse:2
+obverse:1
+obverse:1
+obverse:1
+obverse:2
+obverse:1
+obverse:1
+obverse:1
+reverse:1
+obverse:1
+obverse:1
+obverse:2
+obverse:1
+reverse:1
+reverse:2
+obverse:1
+obverse:2
+obverse:1
+obverse:1
+obverse:1
+reverse:1
+reverse:2
+obverse:1
+obverse:2
+obverse:3
+obverse:4
+obverse:5
+obverse:1
+obverse:1
+obverse:1
+obverse:1
+obverse:2
+obverse:1
+obverse:2
+obverse:1
+obverse:2
+obverse:1
+obverse:2
+obverse:1
+obverse:1
+obverse:1
+obverse:2
+obverse:1
+obverse:2
+obverse:1
+obverse:1
+obverse:2
+obverse:1
+obverse:2
+obverse:3
+obverse:4
+obverse:5
+obverse:1
+obverse:2
+reverse:1
+obverse:1
+obverse:1
+obverse:2
+obverse:3
+obverse:1
+obverse:2
+obverse:3
+obverse:1
+obverse:2
+obverse:1
+obverse:2
+obverse:2
+obverse:1
+obverse:1
+obverse:1
+obverse:1
+obverse:1
+obverse:1
+obverse:2
+obverse:1
+obverse:2
+obverse:3
+obverse:1
+obverse:1
+obverse:2
+obverse:3
+obverse:1
+obverse:1
+obverse:1
+obverse:2
+obverse:1
+obverse:2
+obverse:1
+obverse:2
+obverse:1
+obverse:1
+obverse:2
+obverse:1
+obverse:2
+obverse:3
+obverse:1
+obverse:2
+obverse:3
+obverse:1
+obverse:2
+obverse:3
+reverse:1
+reverse:2
+reverse:3
+obverse:1
+obverse:1
+reverse:1
+reverse:2
+obverse:1
+obverse:1
+obverse:1
+obverse:1
+obverse:2
+obverse:1
+obverse:2
+obverse:1
+obverse:2
+obverse:1
+obverse:2
+reverse:1
+obverse:1
+obverse:2
+obverse:3
+obverse:4
+reverse:1
+reverse:2
+obverse:1
+obverse:2
+reverse:1
+obverse:1
+reverse:1
+obverse:1
+obverse:1
+obverse:2
+reverse:1
+obverse:1
+obverse:2
+reverse:1
+obverse:1
+obverse:2
+obverse:3
+obverse:1
+obverse:2
+obverse:3
+reverse:1
+reverse:2
+obverse:1
+obverse:2
+reverse:1
+obverse:1
+obverse:2
+obverse:3
+obverse:1
+obverse:2
+obverse:3
+obverse:4
+reverse:1
+reverse:2
+reverse:3
+obverse:1
+obverse:2
+obverse:3
+reverse:1
+obverse:1
+obverse:2
+obverse:3
+reverse:1
+obverse:1
+obverse:2
+obverse:1
+obverse:2
+obverse:1
+obverse:1
+obverse:2
+obverse:1
+obverse:2
+reverse:1
+reverse:2
+obverse:1
+obverse:2
+reverse:1
+reverse:2
+obverse:1
+obverse:2
+obverse:3
+reverse:1
+obverse:1
+obverse:2
+reverse:1
+obverse:1
+obverse:2
+reverse:1
+obverse:1
+reverse:1
+reverse:2
+obverse:1
+obverse:2
+obverse:3
+obverse:1
+obverse:2
+obverse:3
+reverse:1
+reverse:2
+obverse:1
+obverse:2
+obverse:3
+reverse:1
+reverse:2
+obverse:1
+obverse:2
+reverse:1
+reverse:1
+reverse:2
+obverse:1
+obverse:2
+reverse:1
+obverse:1
+obverse:2
+obverse:1
+obverse:2
+obverse:3
+reverse:1
+reverse:2
+reverse:1
+reverse:2
+obverse:1
+obverse:2
+obverse:3
+obverse:4
+obverse:5
+obverse:6
+reverse:1
+reverse:2
+obverse:1
+obverse:2
+obverse:3
+reverse:1
+obverse:1
+obverse:2
+reverse:1
+obverse:1
+obverse:2
+reverse:1
+obverse:1
+obverse:2
+reverse:1
+reverse:2
+obverse:1
+obverse:2
+obverse:3
+obverse:4
+obverse:5
+reverse:1
+reverse:2
+obverse:1
+obverse:2
+reverse:1
+obverse:1
+obverse:2
+obverse:3
+reverse:1
+reverse:2
+obverse:1
+obverse:2
+obverse:3
+reverse:1
+obverse:1
+obverse:2
+obverse:3
+reverse:1
+reverse:2
+obverse:1
+obverse:2
+obverse:3
+reverse:1
+obverse:1
+obverse:2
+obverse:1
+obverse:2
+reverse:1
+obverse:1
+obverse:2
+obverse:3
+obverse:4
+reverse:1
+reverse:2
+reverse:3
+obverse:1
+obverse:2
+obverse:3
+obverse:4
+obverse:5
+obverse:6
+reverse:1
+reverse:2
+obverse:1
+obverse:2
+obverse:3
+obverse:4
+reverse:1
+reverse:2
+reverse:3
+obverse:1
+obverse:2
+obverse:3
+obverse:4
+reverse:1
+obverse:1
+obverse:2
+obverse:3
+obverse:4
+reverse:1
+reverse:2
+reverse:3
+reverse:4
+obverse:1
+obverse:2
+reverse:1
+obverse:1
+obverse:2
+obverse:3
+obverse:4
+reverse:1
+reverse:2
+reverse:3
+obverse:1
+obverse:2
+obverse:1
+obverse:2
+reverse:1
+obverse:1
+obverse:2
+obverse:3
+obverse:1
+obverse:2
+obverse:1
+obverse:2
+reverse:1
+obverse:1
+obverse:2
+reverse:1
+obverse:1
+obverse:1
+obverse:2
+obverse:1
+obverse:2
+obverse:3
+reverse:1
+reverse:2
+obverse:1
+obverse:2
+obverse:1
+obverse:2
+reverse:1
+obverse:1
+obverse:0
+obverse:1
+obverse:2
+obverse:3
+obverse:4
+obverse:5
+reverse:0
+obverse:1
+obverse:1
+obverse:1
+obverse:1
+obverse:1
+obverse:1
+obverse:1
+reverse:1
+obverse:1
+obverse:2
+obverse:3
+obverse:4
+reverse:1
+reverse:2
+reverse:3
+obverse:1
+obverse:2
+reverse:1
+obverse:1
+obverse:1
+obverse:1
+obverse:2
+obverse:1
+obverse:2
+obverse:1
+obverse:1
+obverse:1
+obverse:1
+obverse:2
+reverse:1
+obverse:1
+obverse:1
+obverse:1
+obverse:2
+obverse:1
+obverse:2
+reverse:1
+reverse:2
+obverse:1
+reverse:1
+obverse:1
+obverse:1
+obverse:1
+obverse:2
+obverse:3
+obverse:1
+obverse:2
+obverse:1
+obverse:2
+obverse:3
+obverse:4
+obverse:1
+obverse:2
+obverse:1
+obverse:2
+obverse:1
+obverse:2
+obverse:1
+obverse:2
+obverse:1
+obverse:2
+obverse:1
+obverse:2
+obverse:3
+obverse:1
+obverse:1
+obverse:2
+obverse:1
+obverse:2
+obverse:1
+obverse:2
+obverse:1
+obverse:2
+obverse:1
+obverse:2
+obverse:1
+obverse:2
+obverse:1
+obverse:1
+obverse:1
+obverse:2
+obverse:1
+reverse:1
+obverse:1
+reverse:1
+obverse:1
+obverse:1
+obverse:2
+obverse:1
+obverse:2
+obverse:1
+obverse:1
+obverse:1
+obverse:1
+obverse:2
+obverse:1
+obverse:1
+obverse:2
+obverse:1
+obverse:2
+obverse:1
+obverse:2
+reverse:1
+obverse:1
+obverse:2
+reverse:1
+obverse:1
+obverse:1
+obverse:2
+obverse:1
+obverse:2
+reverse:1
+obverse:1
+obverse:2
+obverse:3
+reverse:1
+obverse:1
+obverse:1
+obverse:2
+obverse:1
+obverse:2
+reverse:1
+obverse:1
+reverse:1
+obverse:1
+obverse:1
+obverse:1
+obverse:1
+obverse:1
+obverse:2
+obverse:3
+reverse:1
+reverse:2
+obverse:1
+obverse:1
+obverse:1
+reverse:1
+obverse:1
+obverse:1
+obverse:2
+obverse:1
+obverse:1
+obverse:2
+obverse:1
+obverse:1
+obverse:2
+reverse:1
+obverse:1
+obverse:1
+obverse:1
+obverse:2
+obverse:3
+reverse:1
+reverse:2
+obverse:1
+obverse:2
+obverse:1
+obverse:2
+obverse:3
+obverse:1
+obverse:2
+obverse:3
+reverse:1
+reverse:2
+obverse:1
+obverse:1
+obverse:2
+reverse:1
+obverse:1
+obverse:2
+bottom:1
+reverse:1
+obverse:1
+obverse:2
+obverse:3
+reverse:1
+obverse:1
+obverse:2
+obverse:1
+obverse:1
+obverse:1
+bottom:1
+obverse:1
+obverse:1
+obverse:1
+obverse:1
+obverse:1
+obverse:1
+obverse:1
+obverse:1
+obverse:1
+obverse:1
+obverse:1
+reverse:1
+obverse:1
+bottom:1
+obverse:1
+obverse:2
+obverse:1
+obverse:1
+obverse:2
+obverse:1
+obverse:2
+obverse:1
+obverse:2
+obverse:1
+obverse:1
+obverse:1
+obverse:1
+obverse:1
+obverse:1
+obverse:1
+obverse:1
+obverse:1
+obverse:1
+obverse:1
+obverse:2
+obverse:1
+obverse:1
+obverse:1
+obverse:1
+obverse:1
+obverse:1
+obverse:1
+obverse:1
+obverse:1
+obverse:1
+obverse:1
+obverse:1
+obverse:1
+obverse:2
+obverse:3
+obverse:4
+reverse:1
+reverse:2
+reverse:3
+reverse:4
+obverse:1
+obverse:2
+obverse:1
+obverse:1
+obverse:2
+reverse:1
+reverse:2
+obverse:1
+obverse:2
+reverse:1
+obverse:1
+obverse:2
+obverse:1
+obverse:1
+obverse:2
+obverse:3
+reverse:1
+reverse:2
+reverse:3
+obverse:1
+reverse:1
+obverse:1
+obverse:1
+reverse:1
+obverse:1
+obverse:1
+obverse:1
+obverse:1
+obverse:2
+obverse:1
+obverse:1
+obverse:1
+obverse:1
+obverse:1
+obverse:1
+obverse:2
+obverse:3
+obverse:4
+obverse:5
+reverse:1
+obverse:1
+obverse:2
+obverse:1
+obverse:2
+obverse:3
+reverse:1
+obverse:1
+obverse:2
+reverse:1
+obverse:1
+obverse:1
+obverse:2
+reverse:1
+obverse:1
+obverse:2
+obverse:3
+obverse:1
+obverse:2
+reverse:1
+reverse:2
+obverse:1
+obverse:1
+obverse:1
+obverse:2
+reverse:1
+obverse:1
+reverse:1
+obverse:1
+obverse:1
+obverse:1
+obverse:1
+reverse:1
+obverse:1
+reverse:1
+obverse:1
+obverse:1
+reverse:1
+reverse:2
+obverse:1
+obverse:1
+obverse:2
+obverse:1
+obverse:2
+bottom:1
+reverse:1
+obverse:1
+obverse:2
+reverse:1
+obverse:1
+obverse:2
+reverse:1
+obverse:1
+obverse:1
+obverse:2
+obverse:3
+obverse:4
+reverse:1
+reverse:2
+obverse:1
+obverse:2
+obverse:1
+obverse:1
+reverse:1
+obverse:1
+obverse:1
+bottom:1
+reverse:1
+obverse:1
+obverse:1
+obverse:2
+obverse:1
+obverse:2
+obverse:1
+obverse:1
+obverse:2
+obverse:3
+reverse:1
+reverse:2
+obverse:1
+obverse:2
+obverse:3
+obverse:1
+obverse:1
+obverse:1
+obverse:1
+obverse:1
+obverse:1
+reverse:1
+obverse:1
+obverse:1
+obverse:2
+reverse:1
+reverse:2
+obverse:1
+obverse:1
+obverse:2
+obverse:3
+reverse:1
+reverse:2
+obverse:1
+obverse:2
+obverse:3
+obverse:1
+obverse:2
+obverse:1
+obverse:1
+reverse:1
+obverse:1
+obverse:2
+obverse:3
+obverse:1
+obverse:1
+bottom:1
+bottom:2
+obverse:1
+reverse:1
+obverse:1
+obverse:1
+reverse:1
+obverse:1
+reverse:1
+obverse:1
+obverse:1
+obverse:2
+reverse:1
+obverse:1
+obverse:2
+obverse:1
+obverse:2
+reverse:1
+obverse:1
+obverse:1
+reverse:1
+obverse:1
+obverse:1
+obverse:1
+obverse:1
+obverse:1
+obverse:1
+obverse:2
+obverse:1
+obverse:2
+obverse:1
+obverse:2
+obverse:3
+reverse:1
+reverse:2
+obverse:1
+obverse:1
+obverse:1
+obverse:1
+obverse:1
+obverse:2
+obverse:1
+reverse:1
+obverse:1
+obverse:2
+obverse:3
+obverse:4
+reverse:1
+reverse:2
+reverse:3
+obverse:1
+obverse:1
+obverse:2
+obverse:1
+obverse:1
+obverse:1
+obverse:2
+obverse:3
+reverse:1
+obverse:1
+obverse:1
+obverse:2
+obverse:1
+obverse:1
+obverse:2
+reverse:1
+obverse:1
+reverse:1
+obverse:1
+obverse:1
+obverse:1
+obverse:2
+reverse:1
+obverse:1
+obverse:2
+obverse:1
+obverse:1
+obverse:1
+obverse:1
+obverse:1
+obverse:2
+obverse:1
+obverse:1
+obverse:1
+obverse:1
+obverse:2
+reverse:1
+obverse:1
+obverse:2
+obverse:1
+obverse:1
+reverse:1
+obverse:1
+reverse:1
+obverse:1
+obverse:1
+obverse:2
+obverse:1
+obverse:1
+obverse:1
+obverse:1
+reverse:1
+obverse:1
+obverse:2
+obverse:1
+obverse:2
+reverse:1
+obverse:1
+obverse:2
+obverse:3
+reverse:1
+obverse:1
+obverse:2
+obverse:1
+obverse:2
+reverse:1
+obverse:1
+obverse:2
+reverse:1
+obverse:1
+obverse:2
+reverse:1
+obverse:1
+obverse:2
+obverse:1
+obverse:2
+obverse:1
+obverse:1
+obverse:2
+reverse:1
+reverse:2
+obverse:1
+obverse:2
+reverse:1
+obverse:1
+obverse:1
+reverse:1
+obverse:1
+obverse:2
+obverse:1
+reverse:1
+obverse:1
+obverse:1
+obverse:2
+obverse:1
+reverse:1
+obverse:1
+obverse:2
+obverse:1
+obverse:1
+obverse:2
+obverse:1
+obverse:2
+obverse:3
+reverse:1
+obverse:1
+obverse:1
+obverse:2
+obverse:3
+reverse:1
+obverse:1
+obverse:2
+obverse:1
+obverse:2
+obverse:1
+obverse:1
+obverse:1
+obverse:1
+obverse:1
+obverse:1
+obverse:2
+obverse:3
+obverse:1
+obverse:1
+reverse:1
+obverse:1
+reverse:1
+obverse:1
+obverse:2
+reverse:1
+obverse:1
+obverse:1
+obverse:1
+obverse:1
+obverse:1
+obverse:1
+obverse:2
+obverse:1
+obverse:2
+obverse:1
+obverse:1
+obverse:2
+obverse:3
+obverse:1
+obverse:1
+obverse:1
+obverse:1
+obverse:2
+obverse:1
+obverse:2
+obverse:1
+obverse:1
+obverse:2
+reverse:1
+reverse:2
+reverse:3
+obverse:1
+reverse:1
+obverse:1
+reverse:1
+obverse:1
+obverse:2
+obverse:3
+obverse:1
+obverse:2
+reverse:1
+reverse:2
+obverse:1
+obverse:2
+obverse:1
+obverse:2
+obverse:1
+obverse:2
+reverse:1
+obverse:1
+reverse:1
+obverse:1
+obverse:2
+obverse:3
+obverse:4
+reverse:1
+obverse:1
+obverse:1
+obverse:2
+obverse:3
+obverse:1
+obverse:2
+obverse:3
+obverse:1
+obverse:1
+obverse:1
+obverse:2
+obverse:3
+obverse:1
+obverse:2
+reverse:1
+reverse:2
+obverse:1
+obverse:2
+bottom:1
+reverse:1
+obverse:1
+obverse:2
+obverse:1
+obverse:1
+obverse:2
+reverse:1
+obverse:1
+obverse:2
+reverse:1
+reverse:2
+obverse:1
+obverse:1
+reverse:1
+obverse:1
+obverse:2
+reverse:1
+obverse:1
+obverse:2
+obverse:3
+reverse:1
+obverse:1
+obverse:2
+obverse:1
+obverse:1
+obverse:2
+obverse:1
+reverse:1
+obverse:1
+obverse:1
+obverse:1
+reverse:1
+obverse:1
+obverse:1
+obverse:2
+obverse:1
+obverse:1
+obverse:1
+obverse:1
+obverse:1
+reverse:1
+obverse:1
+obverse:1
+obverse:1
+obverse:1
+obverse:2
+obverse:1
+obverse:1
+obverse:1
+obverse:1
+obverse:2
+reverse:1
+reverse:2
+obverse:1
+obverse:2
+reverse:1
+obverse:1
+obverse:2
+reverse:1
+obverse:1
+obverse:2
+reverse:1
+obverse:1
+reverse:1
+obverse:1
+obverse:2
+obverse:3
+obverse:1
+obverse:2
+obverse:1
+obverse:1
+obverse:2
+obverse:1
+obverse:1
+obverse:2
+obverse:1
+obverse:1
+reverse:1
+obverse:1
+obverse:1
+obverse:1
+obverse:0
+obverse:1
+obverse:1
+reverse:1
+obverse:1
+obverse:1
+obverse:1
+obverse:1
+obverse:1
+obverse:1
+obverse:1
+obverse:1
+obverse:2
+obverse:1
+reverse:1
+obverse:1
+obverse:1
+obverse:1
+obverse:1
+obverse:1
+obverse:1
+obverse:1
+obverse:1
+obverse:1
+reverse:1
+obverse:1
+obverse:1
+reverse:1
+obverse:1
+obverse:1
+obverse:1
+obverse:1
+reverse:1
+obverse:1
+obverse:2
+obverse:1
+obverse:1
+obverse:1
+obverse:1
+obverse:1
+obverse:2
+obverse:1
+obverse:1
+obverse:2
+reverse:1
+obverse:1
+reverse:1
+obverse:1
+obverse:2
+obverse:1
+obverse:1
+obverse:1
+obverse:1
+obverse:1
+obverse:1
+reverse:1
+obverse:1
+reverse:1
+obverse:1
+reverse:1
+obverse:1
+reverse:1
+obverse:1
+obverse:2
+obverse:1
+reverse:1
+obverse:1
+obverse:2
+obverse:3
+reverse:1
+reverse:2
+obverse:1
+obverse:1
+obverse:2
+reverse:1
+obverse:1
+obverse:1
+obverse:1
+reverse:1
+obverse:1
+obverse:2
+reverse:1
+obverse:1
+obverse:1
+obverse:1
+obverse:1
+obverse:2
+obverse:1
+reverse:1
+obverse:1
+obverse:1
+obverse:2
+obverse:1
+obverse:1
+obverse:1
+obverse:1
+obverse:1
+reverse:1
+obverse:1
+obverse:1
+obverse:1
+obverse:1
+obverse:1
+obverse:1
+reverse:1
+obverse:1
+obverse:1
+obverse:1
+obverse:1
+obverse:2
+obverse:1
+obverse:1
+obverse:1
+obverse:1
+obverse:1
+obverse:2
+reverse:1
+obverse:1
+obverse:2
+bottom:1
+obverse:1
+obverse:2
+reverse:1
+obverse:1
+obverse:2
+reverse:1
+obverse:1
+obverse:2
+reverse:1
+obverse:1
+obverse:2
+obverse:1
+obverse:1
+obverse:2
+reverse:1
+obverse:1
+obverse:2
+reverse:1
+obverse:1
+obverse:2
+obverse:3
+reverse:1
+obverse:1
+obverse:2
+reverse:1
+obverse:1
+obverse:2
+reverse:1
+obverse:1
+obverse:2
+obverse:3
+reverse:1
+obverse:1
+obverse:2
+obverse:1
+obverse:2
+obverse:1
+obverse:2
+reverse:1
+obverse:1
+obverse:1
+obverse:2
+obverse:3
+reverse:1
+obverse:1
+obverse:2
+obverse:3
+reverse:1
+obverse:1
+obverse:1
+reverse:1
+obverse:1
+reverse:1
+reverse:2
+obverse:1
+obverse:1
+obverse:2
+obverse:1
+obverse:1
+obverse:2
+reverse:1
+obverse:1
+obverse:1
+obverse:1
+reverse:1
+obverse:1
+reverse:1
+obverse:1
+obverse:2
+obverse:1
+obverse:1
+obverse:1
+obverse:2
+obverse:1
+obverse:1
+obverse:2
+reverse:1
+obverse:1
+obverse:2
+reverse:1
+obverse:1
+obverse:1
+reverse:1
+obverse:1
+obverse:1
+obverse:2
+obverse:1
+obverse:2
+obverse:1
+obverse:1
+bottom:1
+obverse:1
+obverse:1
+obverse:2
+reverse:1
+obverse:1
+obverse:2
+obverse:1
+obverse:2
+obverse:3
+obverse:4
+bottom:1
+obverse:1
+obverse:2
+obverse:3
+obverse:4
+obverse:1
+obverse:1
+obverse:1
+obverse:2
+obverse:3
+reverse:1
+reverse:2
+obverse:1
+obverse:2
+reverse:1
+obverse:1
+obverse:1
+reverse:1
+obverse:1
+reverse:1
+obverse:1
+obverse:2
+obverse:3
+reverse:1
+reverse:2
+obverse:1
+obverse:2
+obverse:3
+obverse:4
+obverse:5
+reverse:1
+obverse:1
+obverse:2
+reverse:1
+reverse:2
+obverse:1
+reverse:1
+obverse:1
+obverse:1
+obverse:2
+bottom:1
+reverse:1
+obverse:1
+obverse:1
+obverse:2
+obverse:3
+reverse:1
+reverse:2
+reverse:3
+obverse:1
+obverse:1
+reverse:1
+obverse:1
+obverse:1
+obverse:2
+obverse:1
+obverse:1
+obverse:2
+reverse:1
+obverse:1
+obverse:2
+reverse:1
+obverse:1
+obverse:2
+obverse:1
+obverse:2
+reverse:1
+obverse:1
+obverse:2
+reverse:1
+obverse:1
+obverse:2
+reverse:1
+obverse:1
+obverse:2
+obverse:1
+obverse:1
+obverse:2
+obverse:3
+reverse:1
+obverse:1
+obverse:2
+reverse:1
+obverse:1
+obverse:1
+obverse:1
+obverse:1
+obverse:1
+obverse:1
+obverse:1
+obverse:2
+obverse:1
+obverse:1
+obverse:1
+obverse:2
+obverse:3
+obverse:4
+reverse:1
+reverse:2
+obverse:1
+obverse:1
+obverse:1
+reverse:1
+obverse:1
+obverse:2
+obverse:1
+obverse:1
+obverse:1
+obverse:2
+obverse:1
+obverse:2
+obverse:3
+reverse:1
+reverse:2
+obverse:1
+obverse:2
+obverse:3
+reverse:1
+reverse:2
+obverse:1
+obverse:2
+reverse:1
+obverse:1
+obverse:2
+obverse:1
+obverse:2
+obverse:3
+reverse:1
+obverse:1
+reverse:1
+obverse:1
+obverse:2
+reverse:1
+reverse:2
+obverse:1
+obverse:2
+obverse:1
+obverse:2
+obverse:1
+obverse:2
+reverse:1
+reverse:2
+obverse:1
+obverse:1
+obverse:1
+obverse:1
+obverse:2
+obverse:1
+obverse:2
+obverse:3
+obverse:1
+obverse:2
+reverse:1
+reverse:2
+obverse:1
+obverse:2
+obverse:1
+obverse:1
+obverse:1
+obverse:2
+obverse:1
+reverse:1
+obverse:1
+obverse:1
+obverse:1
+obverse:2
+reverse:1
+obverse:1
+obverse:1
+reverse:1
+reverse:2
+obverse:1
+obverse:2
+reverse:1
+reverse:2
+obverse:1
+obverse:1
+obverse:1
+obverse:2
+obverse:1
+obverse:1
+obverse:1
+obverse:2
+obverse:3
+obverse:1
+obverse:1
+reverse:1
+obverse:1
+obverse:2
+obverse:1
+obverse:2
+obverse:3
+obverse:1
+obverse:1
+obverse:1
+obverse:1
+obverse:2
+obverse:1
+obverse:1
+obverse:1
+obverse:2
+obverse:1
+obverse:1
+obverse:2
+reverse:1
+obverse:1
+obverse:1
+obverse:1
+obverse:2
+obverse:1
+obverse:1
+obverse:1
+obverse:1
+obverse:1
+obverse:1
+obverse:1
+obverse:2
+obverse:3
+obverse:1
+reverse:1
+obverse:1
+obverse:2
+reverse:1
+obverse:1
+obverse:2
+reverse:1
+obverse:1
+reverse:1
+obverse:1
+obverse:1
+reverse:1
+obverse:1
+obverse:1
+obverse:1
+obverse:1
+obverse:1
+obverse:1
+obverse:1
+obverse:1
+obverse:2
+reverse:1
+obverse:1
+obverse:1
+bottom:1
+obverse:1
+obverse:2
+reverse:1
+obverse:1
+obverse:2
+reverse:1
+obverse:1
+obverse:1
+obverse:2
+reverse:1
+obverse:1
+obverse:1
+obverse:1
+obverse:2
+obverse:1
+obverse:1
+obverse:2
+obverse:3
+obverse:1
+obverse:1
+obverse:2
+obverse:3
+obverse:4
+obverse:1
+reverse:1
+reverse:2
+obverse:1
+obverse:2
+reverse:1
+obverse:1
+obverse:2
+obverse:3
+obverse:4
+reverse:1
+obverse:1
+obverse:2
+obverse:3
+obverse:4
+bottom:1
+reverse:1
+reverse:2
+reverse:3
+obverse:1
+obverse:2
+obverse:3
+reverse:1
+reverse:2
+obverse:1
+obverse:2
+obverse:1
+obverse:1
+obverse:2
+obverse:1
+obverse:2
+obverse:1
+reverse:1
+obverse:1
+obverse:1
+obverse:2
+obverse:1
+reverse:1
+obverse:1
+reverse:1
+obverse:1
+obverse:2
+reverse:1
+reverse:2
+obverse:1
+obverse:2
+reverse:1
+obverse:1
+obverse:2
+obverse:1
+obverse:2
+obverse:1
+reverse:1
+obverse:1
+obverse:2
+obverse:1
+obverse:2
+reverse:1
+obverse:1
+reverse:1
+obverse:1
+obverse:1
+obverse:1
+obverse:2
+obverse:3
+reverse:1
+obverse:1
+obverse:2
+obverse:3
+obverse:1
+obverse:2
+obverse:1
+obverse:2
+obverse:1
+bottom:1
+bottom:2
+obverse:1
+obverse:2
+reverse:1
+obverse:1
+obverse:1
+obverse:1
+reverse:1
+obverse:1
+obverse:1
+obverse:2
+reverse:1
+obverse:1
+reverse:1
+obverse:1
+obverse:1
+obverse:2
+obverse:1
+obverse:2
+obverse:1
+reverse:1
+obverse:1
+obverse:1
+obverse:2
+obverse:1
+reverse:1
+obverse:1
+obverse:1
+reverse:1
+obverse:1
+bottom:1
+reverse:1
+obverse:1
+obverse:1
+obverse:1
+obverse:1
+obverse:2
+obverse:1
+reverse:1
+reverse:2
+obverse:1
+reverse:1
+obverse:1
+obverse:1
+obverse:1
+obverse:1
+obverse:1
+obverse:1
+obverse:1
+reverse:1
+obverse:1
+obverse:1
+obverse:1
+obverse:1
+obverse:1
+obverse:1
+obverse:1
+obverse:2
+obverse:1
+obverse:1
+obverse:1
+reverse:1
+obverse:1
+obverse:2
+reverse:1
+obverse:1
+obverse:1
+reverse:1
+obverse:1
+obverse:1
+obverse:1
+obverse:1
+obverse:2
+obverse:1
+obverse:1
+obverse:2
+reverse:1
+obverse:1
+obverse:1
+obverse:1
+obverse:2
+obverse:1
+obverse:1
+obverse:1
+reverse:1
+obverse:1
+obverse:2
+reverse:1
+obverse:1
+obverse:1
+obverse:2
+obverse:1
+obverse:1
+obverse:1
+obverse:1
+obverse:1
+obverse:1
+obverse:1
+obverse:1
+obverse:2
+obverse:1
+obverse:1
+obverse:1
+obverse:1
+obverse:1
+obverse:1
+obverse:1
+obverse:1
+obverse:1
+obverse:1
+obverse:1
+obverse:1
+obverse:1
+obverse:1
+obverse:2
+obverse:1
+obverse:1
+obverse:2
+reverse:1
+obverse:1
+obverse:1
+obverse:1
+obverse:2
+obverse:1
+obverse:1
+obverse:1
+obverse:1
+obverse:1
+obverse:1
+obverse:1
+obverse:1
+obverse:1
+obverse:1
+obverse:1
+obverse:1
+obverse:1
+obverse:1
+obverse:1
+obverse:1
+obverse:1
+obverse:1
+obverse:1
+obverse:2
+reverse:1
+reverse:2
+obverse:1
+obverse:2
+reverse:1
+obverse:1
+obverse:2
+reverse:1
+obverse:1
+reverse:1
+obverse:1
+obverse:1
+obverse:1
+obverse:1
+reverse:1
+obverse:1
+obverse:1
+obverse:1
+obverse:1
+obverse:1
+obverse:1
+obverse:1
+obverse:2
+reverse:1
+obverse:1
+obverse:2
+obverse:1
+obverse:2
+obverse:1
+reverse:1
+obverse:1
+reverse:1
+obverse:1
+obverse:2
+obverse:1
+obverse:1
+obverse:2
+obverse:3
+reverse:1
+obverse:1
+obverse:2
+obverse:3
+reverse:1
+reverse:2
+obverse:1
+obverse:2
+obverse:1
+obverse:2
+obverse:1
+obverse:2
+obverse:1
+obverse:2
+obverse:3
+reverse:1
+obverse:1
+obverse:2
+obverse:3
+obverse:1
+obverse:2
+obverse:1
+obverse:2
+reverse:1
+reverse:2
+obverse:1
+obverse:2
+obverse:3
+obverse:1
+obverse:2
+obverse:1
+obverse:1
+obverse:1
+obverse:1
+obverse:1
+obverse:2
+obverse:1
+reverse:1
+obverse:1
+obverse:2
+reverse:1
+reverse:2
+obverse:1
+obverse:2
+obverse:3
+obverse:4
+obverse:5
+obverse:6
+reverse:1
+reverse:2
+obverse:1
+obverse:1
+reverse:1
+obverse:1
+obverse:2
+obverse:3
+reverse:1
+reverse:2
+obverse:1
+obverse:1
+obverse:1
+obverse:1
+obverse:1
+obverse:2
+obverse:1
+obverse:1
+obverse:1
+obverse:1
+obverse:1
+obverse:1
+obverse:2
+obverse:3
+obverse:1
+obverse:1
+obverse:1
+obverse:2
+obverse:3
+obverse:4
+obverse:1
+obverse:2
+obverse:1
+obverse:2
+obverse:1
+obverse:2
+reverse:1
+obverse:1
+obverse:1
+obverse:2
+obverse:1
+obverse:2
+obverse:3
+obverse:1
+obverse:2
+obverse:3
+obverse:4
+obverse:1
+obverse:1
+obverse:2
+obverse:3
+obverse:1
+obverse:1
+obverse:2
+obverse:3
+obverse:1
+obverse:2
+obverse:3
+obverse:1
+obverse:1
+obverse:2
+obverse:3
+obverse:4
+reverse:1
+obverse:1
+obverse:2
+obverse:3
+obverse:4
+obverse:5
+obverse:1
+obverse:2
+obverse:1
+obverse:1
+obverse:1
+obverse:2
+reverse:1
+reverse:2
+obverse:1
+obverse:2
+obverse:3
+obverse:1
+obverse:1
+obverse:1
+obverse:2
+obverse:1
+obverse:2
+obverse:1
+obverse:2
+obverse:1
+obverse:2
+obverse:1
+obverse:1
+obverse:1
+obverse:2
+obverse:3
+obverse:4
+obverse:5
+reverse:1
+reverse:2
+obverse:1
+obverse:1
+obverse:2
+reverse:1
+reverse:2
+obverse:1
+obverse:2
+obverse:3
+obverse:4
+reverse:1
+reverse:2
+obverse:1
+reverse:1
+obverse:1
+obverse:2
+obverse:1
+obverse:2
+reverse:1
+reverse:2
+reverse:3
+obverse:1
+obverse:1
+reverse:1
+obverse:1
+obverse:2
+reverse:1
+reverse:2
+obverse:1
+obverse:2
+obverse:1
+obverse:2
+reverse:1
+obverse:1
+obverse:2
+obverse:1
+obverse:1
+reverse:1
+obverse:1
+obverse:1
+obverse:1
+obverse:2
+obverse:1
+obverse:2
+obverse:1
+obverse:1
+obverse:1
+obverse:2
+obverse:1
+obverse:2
+obverse:1
+obverse:1
+obverse:2
+obverse:1
+obverse:1
+obverse:1
+obverse:1
+obverse:1
+obverse:1
+obverse:2
+obverse:1
+obverse:1
+obverse:2
+reverse:1
+reverse:2
+obverse:1
+reverse:1
+obverse:1
+obverse:2
+obverse:3
+obverse:1
+obverse:1
+obverse:1
+obverse:1
+obverse:2
+obverse:1
+reverse:1
+reverse:2
+reverse:3
+obverse:1
+obverse:2
+obverse:3
+obverse:1
+reverse:1
+obverse:1
+obverse:2
+obverse:1
+obverse:1
+obverse:2
+reverse:1
+obverse:1
+obverse:2
+reverse:1
+reverse:2
+obverse:1
+obverse:2
+reverse:1
+reverse:2
+reverse:3
+obverse:1
+obverse:1
+obverse:1
+obverse:2
+obverse:1
+obverse:2
+obverse:1
+obverse:1
+obverse:1
+obverse:1
+obverse:1
+reverse:1
+obverse:1
+obverse:1
+obverse:1
+obverse:1
+obverse:1
+obverse:1
+obverse:1
+obverse:1
+obverse:1
+reverse:1
+obverse:1
+reverse:1
+reverse:2
+obverse:1
+obverse:2
+reverse:1
+obverse:1
+obverse:2
+obverse:1
+obverse:1
+obverse:1
+obverse:1
+obverse:1
+obverse:2
+obverse:3
+obverse:1
+obverse:2
+obverse:3
+obverse:1
+obverse:2
+reverse:1
+obverse:1
+obverse:2
+reverse:1
+obverse:1
+obverse:2
+reverse:1
+obverse:1
+obverse:2
+obverse:1
+obverse:2
+reverse:1
+obverse:1
+obverse:2
+obverse:1
+reverse:1
+obverse:1
+obverse:1
+obverse:2
+obverse:3
+obverse:1
+obverse:1
+reverse:1
+obverse:1
+obverse:1
+obverse:1
+obverse:1
+obverse:1
+obverse:2
+reverse:1
+obverse:1
+obverse:2
+obverse:1
+obverse:2
+reverse:1
+obverse:1
+obverse:2
+reverse:1
+reverse:1
+obverse:1
+obverse:2
+reverse:1
+obverse:1
+obverse:1
+obverse:1
+obverse:1
+obverse:1
+obverse:1
+obverse:1
+obverse:1
+obverse:1
+obverse:1
+reverse:1
+obverse:1
+obverse:1
+obverse:1
+obverse:2
+obverse:1
+obverse:2
+obverse:1
+obverse:1
+obverse:1
+obverse:1
+obverse:1
+obverse:1
+obverse:1
+obverse:2
+obverse:1
+obverse:1
+obverse:2
+obverse:1
+obverse:2
+obverse:1
+obverse:1
+obverse:2
+obverse:1
+obverse:2
+obverse:1
+obverse:1
+obverse:2
+obverse:3
+obverse:1
+obverse:1
+obverse:1
+obverse:1
+obverse:1
+obverse:1
+obverse:1
+obverse:1
+obverse:1
+obverse:1
+obverse:2
+obverse:1
+obverse:1
+obverse:1
+obverse:1
+obverse:1
+obverse:2
+obverse:1
+obverse:2
+obverse:1
+obverse:1
+obverse:1
+obverse:1
+obverse:2
+reverse:1
+reverse:2
+obverse:1
+reverse:1
+obverse:1
+obverse:1
+obverse:1
+reverse:1
+obverse:1
+obverse:1
+obverse:2
+obverse:1
+obverse:2
+reverse:1
+reverse:2
+obverse:1
+obverse:1
+obverse:1
+reverse:1
+reverse:2
+obverse:1
+obverse:2
+reverse:1
+obverse:1
+obverse:2
+obverse:0
+obverse:1
+obverse:2
+reverse:1
+obverse:1
+obverse:2
+obverse:1
+obverse:2
+reverse:1
+obverse:1
+reverse:1
+obverse:1
+reverse:1
+obverse:1
+obverse:2
+obverse:3
+obverse:1
+obverse:2
+obverse:1
+obverse:1
+reverse:1
+obverse:0
+obverse:1
+obverse:1
+reverse:1
+obverse:1
+obverse:1
+obverse:2
+obverse:1
+obverse:0
+obverse:1
+obverse:1
+obverse:2
+reverse:1
+reverse:2
+obverse:1
+obverse:1
+obverse:1
+reverse:1
+obverse:1
+obverse:2
+obverse:1
+obverse:1
+obverse:2
+obverse:1
+obverse:2
+obverse:3
+obverse:4
+obverse:1
+obverse:1
+obverse:1
+obverse:1
+obverse:1
+obverse:2
+reverse:1
+obverse:1
+obverse:2
+obverse:1
+obverse:2
+obverse:1
+obverse:1
+obverse:2
+obverse:1
+obverse:1
+reverse:1
+obverse:1
+obverse:2
+obverse:1
+obverse:1
+obverse:1
+obverse:1
+obverse:2
+reverse:1
+reverse:2
+obverse:1
+obverse:1
+obverse:1
+obverse:1
+obverse:2
+reverse:1
+reverse:2
+obverse:1
+obverse:2
+reverse:1
+obverse:1
+obverse:2
+reverse:1
+obverse:1
+reverse:1
+obverse:1
+obverse:1
+obverse:2
+obverse:1
+obverse:2
+reverse:1
+obverse:1
+obverse:1
+obverse:1
+obverse:1
+obverse:1
+obverse:2
+obverse:1
+obverse:2
+obverse:3
+obverse:1
+obverse:1
+obverse:2
+obverse:3
+obverse:1
+obverse:1
+obverse:2
+reverse:1
+reverse:2
+obverse:1
+obverse:1
+obverse:1
+obverse:2
+obverse:3
+obverse:1
+obverse:1
+obverse:1
+obverse:2
+obverse:1
+obverse:1
+obverse:2
+obverse:1
+obverse:1
+obverse:1
+obverse:1
+obverse:2
+obverse:1
+obverse:1
+obverse:1
+obverse:1
+obverse:1
+obverse:1
+reverse:1
+obverse:1
+obverse:2
+obverse:1
+obverse:1
+reverse:1
+obverse:1
+obverse:1
+obverse:2
+obverse:3
+obverse:1
+reverse:1
+obverse:1
+obverse:1
+obverse:1
+obverse:2
+obverse:1
+obverse:1
+obverse:2
+obverse:3
+obverse:1
+obverse:2
+obverse:1
+obverse:1
+obverse:2
+reverse:1
+obverse:1
+obverse:2
+obverse:1
+obverse:1
+obverse:2
+obverse:1
+obverse:2
+reverse:1
+obverse:1
+obverse:1
+obverse:2
+obverse:3
+obverse:4
+obverse:5
+reverse:1
+reverse:2
+obverse:1
+obverse:2
+obverse:1
+obverse:1
+reverse:1
+reverse:1
+obverse:1
+obverse:2
+obverse:1
+obverse:2
+obverse:1
+obverse:2
+obverse:1
+obverse:2
+obverse:3
+reverse:1
+reverse:2
+reverse:3
+obverse:1
+obverse:2
+obverse:1
+obverse:1
+reverse:1
+obverse:1
+obverse:2
+reverse:1
+obverse:1
+obverse:2
+reverse:1
+obverse:1
+obverse:2
+obverse:1
+obverse:1
+obverse:2
+obverse:1
+obverse:2
+reverse:1
+obverse:1
+obverse:2
+obverse:1
+obverse:1
+obverse:2
+obverse:1
+obverse:2
+obverse:3
+obverse:4
+obverse:5
+reverse:1
+reverse:2
+reverse:3
+reverse:4
+obverse:1
+reverse:1
+obverse:1
+reverse:1
+obverse:1
+obverse:1
+obverse:1
+obverse:1
+obverse:2
+reverse:1
+reverse:2
+obverse:1
+obverse:2
+obverse:3
+reverse:1
+obverse:1
+obverse:2
+obverse:1
+reverse:1
+obverse:1
+obverse:2
+obverse:1
+obverse:2
+obverse:3
+obverse:1
+obverse:1
+obverse:2
+reverse:1
+obverse:1
+obverse:2
+reverse:1
+obverse:1
+obverse:2
+reverse:1
+obverse:1
+obverse:1
+obverse:1
+obverse:1
+reverse:1
+reverse:2
+obverse:1
+obverse:1
+obverse:1
+obverse:2
+obverse:1
+obverse:1
+obverse:1
+obverse:1
+obverse:2
+obverse:1
+obverse:1
+obverse:2
+obverse:1
+reverse:1
+obverse:1
+reverse:1
+obverse:1
+obverse:1
+obverse:1
+obverse:2
+reverse:1
+obverse:1
+obverse:2
+obverse:1
+reverse:1
+obverse:1
+obverse:1
+obverse:1
+obverse:2
+reverse:1
+reverse:2
+obverse:1
+obverse:2
+obverse:1
+obverse:1
+obverse:2
+reverse:1
+obverse:1
+reverse:1
+obverse:1
+obverse:1
+obverse:1
+obverse:2
+reverse:1
+reverse:2
+obverse:1
+obverse:2
+obverse:1
+reverse:1
+reverse:2
+obverse:1
+reverse:1
+obverse:1
+obverse:2
+obverse:3
+obverse:1
+reverse:0
+obverse:1
+obverse:2
+obverse:3
+obverse:4
+reverse:0
+obverse:1
+obverse:2
+obverse:3
+reverse:0
+obverse:1
+obverse:2
+obverse:3
+reverse:0
+obverse:1
+obverse:2
+obverse:3
+obverse:4
+obverse:5
+reverse:1
+reverse:2
+reverse:3
+reverse:4
+obverse:1
+obverse:2
+obverse:3
+obverse:4
+reverse:0
+obverse:1
+obverse:2
+obverse:3
+obverse:4
+reverse:0
+obverse:1
+obverse:2
+obverse:3
+obverse:4
+obverse:5
+reverse:0
+obverse:1
+obverse:2
+obverse:3
+obverse:4
+reverse:0
+obverse:1
+obverse:2
+obverse:3
+reverse:0
+obverse:1
+obverse:1
+obverse:1
+reverse:1
+obverse:1
+obverse:2
+obverse:1
+reverse:0
+obverse:1
+reverse:0
+obverse:0
+obverse:1
+obverse:2
+obverse:0
+reverse:0
+obverse:0
+obverse:1
+obverse:2
+reverse:1
+obverse:1
+obverse:2
+obverse:0
+obverse:0
+obverse:1
+obverse:2
+reverse:1
+reverse:2
+obverse:0
+obverse:1
+obverse:1
+obverse:2
+reverse:0
+obverse:0
+obverse:0
+obverse:1
+obverse:2
+obverse:1
+obverse:1
+obverse:2
+obverse:1
+obverse:2
+obverse:1
+obverse:2
+obverse:1
+obverse:1
+obverse:1
+obverse:2
+obverse:0
+obverse:0
+obverse:0
+obverse:0
+obverse:1
+obverse:1
+reverse:1
+obverse:1
+obverse:1
+obverse:1
+obverse:1
+obverse:1
+obverse:2
+reverse:1
+obverse:1
+obverse:2
+obverse:1
+reverse:1
+obverse:1
+obverse:2
+obverse:1
+obverse:2
+obverse:1
+obverse:1
+obverse:1
+obverse:1
+obverse:1
+obverse:1
+reverse:1
+obverse:1
+obverse:2
+obverse:1
+reverse:1
+obverse:1
+reverse:1
+obverse:1
+obverse:2
+reverse:1
+obverse:1
+obverse:2
+obverse:3
+reverse:1
+obverse:1
+obverse:2
+obverse:3
+reverse:1
+obverse:1
+reverse:1
+obverse:1
+obverse:1
+obverse:1
+obverse:1
+obverse:1
+obverse:1
+obverse:1
+obverse:1
+obverse:1
+obverse:1
+obverse:1
+obverse:1
+obverse:2
+obverse:1
+obverse:2
+obverse:1
+obverse:1
+obverse:1
+obverse:2
+obverse:1
+obverse:1
+obverse:1
+obverse:1
+obverse:1
+obverse:2
+obverse:1
+obverse:1
+obverse:2
+obverse:1
+obverse:1
+obverse:1
+obverse:1
+obverse:2
+obverse:1
+obverse:2
+obverse:3
+obverse:4
+obverse:1
+obverse:2
+obverse:3
+obverse:1
+obverse:1
+obverse:1
+reverse:1
+obverse:1
+obverse:2
+obverse:1
+obverse:1
+reverse:1
+obverse:1
+obverse:1
+obverse:2
+reverse:1
+obverse:1
+obverse:2
+obverse:3
+reverse:1
+obverse:1
+obverse:2
+reverse:1
+obverse:1
+obverse:2
+reverse:1
+obverse:1
+obverse:2
+obverse:3
+obverse:1
+obverse:2
+reverse:1
+obverse:1
+obverse:1
+obverse:1
+obverse:1
+reverse:1
+obverse:1
+obverse:2
+reverse:1
+obverse:1
+obverse:1
+obverse:1
+obverse:2
+obverse:3
+obverse:4
+obverse:1
+obverse:2
+obverse:1
+obverse:2
+obverse:1
+obverse:2
+reverse:1
+obverse:1
+obverse:2
+reverse:1
+obverse:1
+obverse:2
+reverse:1
+reverse:2
+reverse:3
+obverse:1
+obverse:2
+obverse:1
+obverse:2
+obverse:1
+obverse:2
+obverse:3
+obverse:1
+obverse:2
+obverse:1
+obverse:2
+obverse:1
+obverse:1
+obverse:2
+obverse:1
+obverse:1
+obverse:1
+obverse:1
+obverse:2
+reverse:1
+obverse:1
+obverse:2
+obverse:3
+reverse:1
+reverse:2
+obverse:1
+obverse:1
+obverse:1
+top:1
+obverse:1
+reverse:1
+obverse:1
+obverse:2
+reverse:1
+obverse:1
+reverse:1
+reverse:1
+reverse:2
+obverse:1
+reverse:1
+obverse:1
+reverse:1
+obverse:1
+obverse:1
+obverse:1
+obverse:1
+obverse:1
+obverse:2
+obverse:3
+reverse:1
+reverse:2
+obverse:1
+obverse:2
+reverse:1
+obverse:1
+obverse:1
+obverse:2
+obverse:1
+obverse:2
+obverse:3
+obverse:1
+obverse:2
+obverse:1
+reverse:1
+obverse:1
+obverse:1
+obverse:2
+reverse:1
+obverse:1
+obverse:1
+obverse:2
+obverse:3
+obverse:1
+obverse:1
+obverse:2
+obverse:1
+obverse:2
+obverse:3
+reverse:1
+obverse:1
+obverse:2
+obverse:1
+obverse:2
+obverse:3
+obverse:1
+obverse:2
+obverse:1
+obverse:1
+obverse:2
+reverse:1
+reverse:2
+obverse:1
+obverse:1
+reverse:1
+obverse:1
+obverse:1
+obverse:2
+reverse:1
+obverse:1
+obverse:2
+obverse:3
+reverse:1
+reverse:2
+obverse:1
+obverse:2
+obverse:1
+obverse:1
+obverse:1
+obverse:2
+obverse:1
+obverse:2
+obverse:1
+obverse:2
+obverse:1
+obverse:2
+obverse:3
+reverse:1
+reverse:2
+obverse:1
+reverse:1
+obverse:1
+obverse:1
+obverse:2
+reverse:1
+obverse:1
+obverse:1
+reverse:1
+obverse:1
+obverse:2
+reverse:1
+obverse:1
+obverse:1
+obverse:1
+obverse:1
+obverse:2
+reverse:1
+reverse:2
+obverse:1
+obverse:2
+reverse:1
+obverse:1
+obverse:2
+obverse:3
+reverse:1
+obverse:1
+obverse:2
+obverse:1
+obverse:2
+reverse:1
+obverse:1
+obverse:2
+obverse:1
+obverse:2
+obverse:1
+obverse:2
+obverse:3
+reverse:1
+reverse:2
+reverse:3
+obverse:1
+obverse:2
+reverse:1
+obverse:1
+obverse:2
+obverse:1
+obverse:2
+obverse:3
+reverse:1
+reverse:2
+obverse:1
+obverse:1
+obverse:2
+obverse:1
+obverse:1
+obverse:1
+reverse:1
+obverse:1
+obverse:1
+obverse:1
+obverse:1
+obverse:1
+obverse:1
+obverse:1
+obverse:1
+obverse:1
+obverse:2
+obverse:3
+reverse:1
+obverse:1
+obverse:2
+reverse:1
+obverse:1
+obverse:2
+obverse:3
+obverse:1
+reverse:1
+obverse:1
+obverse:1
+obverse:1
+obverse:1
+obverse:1
+obverse:2
+obverse:1
+obverse:1
+obverse:2
+obverse:3
+obverse:1
+obverse:1
+obverse:1
+obverse:1
+obverse:1
+obverse:1
+obverse:2
+obverse:1
+obverse:2
+obverse:1
+obverse:1
+obverse:1
+obverse:1
+obverse:1
+obverse:2
+obverse:3
+obverse:1
+obverse:1
+obverse:1
+obverse:1
+obverse:1
+obverse:1
+obverse:2
+obverse:1
+obverse:1
+obverse:1
+obverse:1
+obverse:1
+obverse:1
+obverse:1
+obverse:1
+obverse:1
+obverse:2
+obverse:1
+obverse:1
+obverse:1
+reverse:1
+obverse:1
+obverse:2
+obverse:1
+reverse:1
+obverse:1
+obverse:1
+obverse:2
+obverse:3
+bottom:1
+bottom:2
+obverse:1
+obverse:2
+obverse:3
+reverse:1
+reverse:2
+obverse:1
+obverse:2
+reverse:1
+reverse:2
+obverse:1
+obverse:1
+obverse:1
+obverse:1
+obverse:2
+obverse:3
+obverse:4
+obverse:1
+obverse:2
+obverse:1
+obverse:2
+obverse:1
+obverse:1
+obverse:2
+obverse:1
+obverse:2
+obverse:1
+obverse:1
+reverse:1
+obverse:1
+obverse:1
+reverse:1
+obverse:1
+obverse:1
+obverse:1
+obverse:2
+obverse:1
+obverse:1
+obverse:2
+obverse:1
+obverse:2
+obverse:1
+obverse:2
+obverse:1
+obverse:1
+obverse:1
+obverse:1
+obverse:2
+obverse:1
+obverse:1
+obverse:1
+obverse:1
+obverse:1
+obverse:2
+obverse:1
+obverse:2
+obverse:1
+obverse:1
+obverse:2
+obverse:1
+obverse:2
+obverse:1
+obverse:1
+reverse:1
+obverse:1
+obverse:2
+obverse:1
+obverse:2
+obverse:3
+obverse:1
+obverse:2
+obverse:3
+reverse:1
+top:1
+obverse:1
+obverse:2
+obverse:3
+reverse:1
+reverse:2
+obverse:1
+obverse:2
+obverse:3
+reverse:1
+reverse:2
+obverse:1
+obverse:1
+reverse:1
+obverse:1
+obverse:1
+obverse:2
+reverse:1
+obverse:1
+obverse:2
+obverse:1
+obverse:1
+obverse:1
+obverse:1
+obverse:2
+obverse:1
+obverse:1
+obverse:1
+obverse:2
+obverse:1
+obverse:1
+obverse:2
+obverse:1
+obverse:2
+obverse:1
+obverse:1
+obverse:1
+obverse:2
+obverse:1
+obverse:1
+obverse:2
+obverse:3
+obverse:2
+obverse:1
+obverse:1
+obverse:1
+obverse:2
+obverse:1
+obverse:2
+obverse:3
+reverse:1
+reverse:2
+obverse:1
+obverse:1
+obverse:2
+obverse:3
+obverse:1
+reverse:1
+obverse:1
+reverse:1
+obverse:1
+reverse:1
+reverse:2
+obverse:1
+obverse:1
+obverse:1
+obverse:2
+obverse:1
+obverse:2
+obverse:1
+obverse:1
+reverse:1
+obverse:1
+obverse:1
+reverse:1
+obverse:1
+obverse:1
+obverse:2
+obverse:1
+obverse:1
+obverse:2
+obverse:3
+obverse:1
+obverse:2
+reverse:1
+obverse:1
+obverse:2
+reverse:1
+obverse:1
+obverse:1
+obverse:2
+obverse:1
+reverse:1
+obverse:1
+obverse:1
+reverse:1
+obverse:1
+obverse:1
+obverse:2
+obverse:3
+reverse:1
+obverse:1
+obverse:1
+obverse:1
+obverse:1
+obverse:1
+obverse:1
+obverse:2
+reverse:1
+obverse:1
+obverse:1
+obverse:1
+obverse:2
+obverse:1
+obverse:1
+obverse:1
+obverse:1
+obverse:1
+obverse:1
+obverse:1
+obverse:2
+reverse:1
+obverse:1
+obverse:1
+reverse:1
+obverse:1
+obverse:2
+obverse:1
+reverse:1
+obverse:1
+obverse:1
+reverse:1
+obverse:1
+obverse:1
+obverse:2
+obverse:3
+obverse:4
+reverse:1
+reverse:2
+obverse:1
+obverse:1
+reverse:1
+obverse:1
+obverse:1
+obverse:1
+obverse:2
+obverse:1
+obverse:1
+reverse:1
+obverse:1
+obverse:1
+obverse:1
+obverse:1
+obverse:1
+obverse:1
+obverse:2
+reverse:1
+obverse:1
+obverse:2
+obverse:3
+obverse:1
+obverse:2
+obverse:1
+obverse:2
+obverse:1
+reverse:1
+obverse:1
+obverse:1
+obverse:2
+obverse:1
+reverse:1
+obverse:0
+reverse:0
+obverse:1
+obverse:2
+obverse:1
+obverse:1
+obverse:1
+obverse:1
+obverse:1
+reverse:1
+obverse:1
+obverse:2
+obverse:1
+obverse:2
+reverse:1
+reverse:2
+obverse:1
+obverse:2
+obverse:1
+obverse:2
+reverse:1
+obverse:1
+reverse:1
+obverse:1
+reverse:1
+obverse:1
+obverse:2
+obverse:1
+obverse:2
+obverse:1
+reverse:1
+obverse:1
+obverse:2
+reverse:1
+obverse:1
+obverse:2
+obverse:1
+obverse:2
+obverse:1
+obverse:1
+obverse:1
+obverse:1
+obverse:2
+obverse:1
+obverse:2
+obverse:1
+obverse:1
+obverse:1
+obverse:1
+obverse:1
+obverse:2
+obverse:3
+obverse:4
+obverse:1
+obverse:1
+reverse:1
+obverse:1
+obverse:1
+reverse:1
+obverse:1
+obverse:1
+obverse:1
+reverse:1
+obverse:1
+obverse:1
+reverse:1
+reverse:2
+obverse:1
+obverse:2
+obverse:3
+obverse:1
+obverse:2
+obverse:1
+reverse:1
+obverse:1
+obverse:2
+obverse:1
+reverse:1
+reverse:2
+obverse:1
+obverse:2
+obverse:3
+obverse:4
+reverse:1
+reverse:2
+obverse:1
+obverse:2
+obverse:3
+obverse:4
+obverse:1
+obverse:2
+obverse:1
+obverse:1
+obverse:2
+obverse:1
+obverse:1
+obverse:2
+obverse:1
+obverse:1
+reverse:1
+obverse:1
+reverse:1
+obverse:1
+obverse:1
+reverse:1
+obverse:1
+obverse:1
+obverse:2
+obverse:3
+obverse:1
+obverse:1
+obverse:1
+obverse:2
+obverse:1
+obverse:1
+reverse:1
+obverse:1
+obverse:2
+reverse:1
+obverse:1
+reverse:1
+obverse:1
+obverse:2
+obverse:1
+obverse:1
+reverse:1
+obverse:1
+obverse:1
+obverse:1
+obverse:1
+obverse:1
+obverse:1
+obverse:2
+reverse:1
+obverse:1
+obverse:2
+obverse:1
+reverse:1
+reverse:2
+obverse:1
+obverse:1
+obverse:2
+obverse:1
+obverse:2
+obverse:1
+reverse:1
+obverse:1
+obverse:1
+obverse:2
+obverse:1
+obverse:3
+reverse:1
+obverse:1
+obverse:1
+obverse:2
+obverse:1
+obverse:1
+obverse:2
+obverse:3
+obverse:1
+obverse:1
+obverse:2
+reverse:1
+obverse:1
+obverse:2
+reverse:1
+obverse:1
+obverse:1
+obverse:1
+reverse:1
+obverse:1
+obverse:2
+obverse:1
+obverse:2
+obverse:3
+obverse:4
+reverse:1
+obverse:1
+obverse:1
+obverse:1
+obverse:1
+obverse:2
+obverse:2
+obverse:3
+obverse:1
+obverse:2
+obverse:1
+obverse:2
+obverse:3
+obverse:4
+obverse:1
+obverse:1
+obverse:1
+obverse:1
+obverse:1
+obverse:2
+obverse:1
+obverse:2
+obverse:3
+obverse:4
+obverse:5
+reverse:1
+reverse:2
+reverse:3
+obverse:1
+obverse:1
+obverse:2
+obverse:1
+reverse:1
+reverse:2
+reverse:3
+obverse:1
+reverse:1
+obverse:1
+reverse:1
+obverse:1
+reverse:1
+reverse:2
+reverse:3
+obverse:1
+reverse:1
+obverse:1
+obverse:2
+reverse:1
+obverse:1
+obverse:2
+reverse:1
+reverse:2
+obverse:1
+obverse:1
+reverse:1
+obverse:1
+obverse:2
+reverse:1
+obverse:1
+obverse:2
+reverse:1
+obverse:1
+obverse:2
+reverse:1
+reverse:2
+obverse:1
+obverse:2
+reverse:1
+reverse:2
+obverse:1
+obverse:1
+obverse:2
+obverse:3
+reverse:0
+obverse:1
+obverse:1
+obverse:2
+obverse:3
+reverse:1
+reverse:2
+reverse:3
+reverse:4
+obverse:0
+obverse:1
+obverse:2
+reverse:0
+obverse:0
+obverse:2
+obverse:1
+obverse:2
+reverse:1
+obverse:1
+reverse:1
+obverse:1
+obverse:2
+obverse:3
+reverse:1
+obverse:1
+obverse:2
+reverse:1
+reverse:2
+reverse:3
+obverse:1
+obverse:1
+obverse:1
+obverse:2
+reverse:1
+obverse:1
+obverse:1
+obverse:1
+obverse:2
+obverse:1
+obverse:2
+obverse:1
+obverse:1
+obverse:1
+obverse:1
+obverse:2
+obverse:1
+obverse:1
+obverse:1
+reverse:1
+obverse:1
+reverse:1
+obverse:1
+obverse:1
+obverse:1
+obverse:2
+reverse:1
+obverse:1
+obverse:2
+reverse:1
+reverse:2
+obverse:1
+obverse:2
+reverse:1
+obverse:1
+obverse:1
+obverse:1
+obverse:1
+obverse:1
+obverse:1
+obverse:1
+obverse:1
+obverse:1
+obverse:1
+obverse:2
+obverse:3
+obverse:1
+obverse:1
+obverse:1
+reverse:1
+obverse:1
+obverse:1
+obverse:2
+reverse:1
+obverse:1
+obverse:1
+obverse:2
+reverse:1
+obverse:1
+obverse:2
+obverse:3
+obverse:1
+obverse:2
+reverse:1
+obverse:1
+obverse:2
+obverse:1
+obverse:2
+obverse:1
+obverse:2
+obverse:1
+reverse:1
+obverse:1
+obverse:1
+obverse:1
+obverse:1
+obverse:1
+obverse:2
+obverse:1
+obverse:2
+obverse:1
+obverse:1
+obverse:2
+reverse:1
+obverse:1
+obverse:1
+obverse:2
+obverse:1
+obverse:1
+obverse:1
+obverse:2
+obverse:3
+reverse:1
+reverse:2
+obverse:1
+obverse:2
+obverse:1
+obverse:2
+reverse:1
+obverse:1
+obverse:2
+obverse:1
+obverse:1
+obverse:1
+obverse:1
+obverse:2
+obverse:1
+obverse:2
+obverse:1
+obverse:2
+obverse:1
+obverse:2
+obverse:1
+obverse:1
+obverse:2
+obverse:1
+obverse:2
+reverse:1
+reverse:2
+obverse:1
+reverse:1
+obverse:1
+obverse:2
+obverse:1
+obverse:2
+obverse:1
+obverse:2
+obverse:3
+obverse:1
+obverse:1
+obverse:2
+reverse:1
+obverse:1
+obverse:2
+obverse:3
+obverse:4
+obverse:1
+obverse:2
+obverse:1
+obverse:1
+obverse:2
+obverse:1
+obverse:2
+reverse:1
+obverse:1
+reverse:1
+obverse:1
+obverse:2
+obverse:3
+reverse:1
+obverse:1
+obverse:2
+obverse:3
+obverse:1
+266424	1
 1
 1
 2
@@ -33,8 +14066,8 @@
 1
 2
 1'
-262542	2a'
-262544	2b'
+266446	2a'
+266448	2b'
 3'
 1'
 1
@@ -42,25 +14075,25 @@
 3
 4
 5
-262553	1a
-262556	1b1
-262558	1b2
-262560	1b3
-262562	2a
-262565	2b1
-262567	2b2
-262569	2b3'
-262571	2b4'
-262573	1a
-262576	1b1
+266457	1a
+266460	1b1
+266462	1b2
+266464	1b3
+266466	2a
+266469	2b1
+266471	2b2
+266473	2b3'
+266475	2b4'
+266477	1a
+266480	1b1
 1'
-262580	1a1'
-262582	1a2'
+266484	1a1'
+266486	1a2'
 2'
-262585	1a'
-262587	1b'
-262589	2a'
-262591	2b'
+266489	1a'
+266491	1b'
+266493	2a'
+266495	2b'
 1'
 2'
 3'
@@ -88,10 +14121,10 @@
 6
 1
 1
-262620	2a
-262622	2b
-262624	2c
-262626	2d
+266524	2a
+266526	2b
+266528	2c
+266530	2d
 3
 1
 2
@@ -457,8 +14490,8 @@
 4
 5
 6
-262993	1a
-262995	1b
+266897	1a
+266899	1b
 2
 1
 2
@@ -484,9 +14517,9 @@
 2
 3
 4
-263023	1a1
-263025	1a2
-263027	1b
+266927	1a1
+266929	1a2
+266931	1b
 2
 1
 1
@@ -495,58 +14528,24 @@
 4
 5
 6
-263038	1a1
-263040	1a2
-263042	1b
+266942	1a1
+266944	1a2
+266946	1b
 2
 3
 1
-263047	1a
-263049	1b
-263052	2a1
-263054	2a2
-263057	2b1
-263059	2b2
-263061	2c
-263064	3a1
-263066	3a2
-263068	3b
+266951	1a
+266953	1b
+266956	2a1
+266958	2a2
+266961	2b1
+266963	2b2
+266965	2c
+266968	3a1
+266970	3a2
+266972	3b
 1
 1
-1
-2
-3
-1
-2
-1
-1
-2
-3
-4
-5
-6
-1
-263086	2a1
-263088	2a2
-263090	2b
-3
-4
-5
-6
-1
-2
-3
-1
-2
-1
-1
-1
-1
-2
-1
-2
-3
-4
 1
 2
 3
@@ -560,57 +14559,18 @@
 5
 6
 1
-2
-1
-1
-2
-1
-1
-1
-1
-1
-2
-3
-1
-2
-1
-2
-3
-1
-1
-263141	1a
-263143	1b
-263145	2a
-263147	2b
-263149	3a
-263151	3b
-263153	4a
-263155	4b
-263157	5a
-263159	5b
-263161	6a
-263163	6b
-263165	1a
-263167	1b
-263169	2a
-263171	2b
-263173	3a
-263175	3b
-263177	4a
-263179	4b
-263181	5a
-263183	5b
-263185	6a
-263187	6b
-1
-2
-1
-2
-1
-2
+266990	2a1
+266992	2a2
+266994	2b
 3
 4
 5
+6
+1
+2
+3
+1
+2
 1
 1
 1
@@ -621,26 +14581,88 @@
 3
 4
 1
-1
-1
-2
-1
-2
-1
-1
 2
 3
+1
+2
+1
 1
 2
 3
 4
 5
 6
-7
-8
-9
-10
-11
+1
+2
+1
+1
+2
+1
+1
+1
+1
+1
+2
+3
+1
+2
+1
+2
+3
+1
+1
+267045	1a
+267047	1b
+267049	2a
+267051	2b
+267053	3a
+267055	3b
+267057	4a
+267059	4b
+267061	5a
+267063	5b
+267065	6a
+267067	6b
+267069	1a
+267071	1b
+267073	2a
+267075	2b
+267077	3a
+267079	3b
+267081	4a
+267083	4b
+267085	5a
+267087	5b
+267089	6a
+267091	6b
+1
+2
+1
+2
+1
+2
+3
+4
+5
+1
+1
+1
+1
+2
+1
+2
+3
+4
+1
+1
+1
+2
+1
+2
+1
+1
+2
+3
 1
 2
 3
@@ -658,1302 +14680,17 @@
 4
 5
 6
-1
-2
-3
-4
-5
-6
 7
 8
 9
 10
 11
-12
 1
 2
 3
 4
 5
 6
-7
-8
-9
-10
-11
-12
-1
-1
-1
-1
-2
-1
-2
-3
-4
-5
-6
-1
-2
-3
-4
-5
-6
-1
-2
-1
-2
-3
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-2
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-2
-3
-1
-2
-1
-1
-1
-2
-1
-1
-1
-1
-1
-1
-2
-1
-2
-3
-4
-5
-1
-1
-2
-3
-4
-1
-2
-1
-1
-1
-2
-3
-1
-2
-3
-263359	1a
-263361	1b
-263363	2a
-263365	2b
-263367	3a
-263369	3b
-4
-1
-2
-263374	1a
-263376	1b
-263378	2a
-263381	2b1
-263383	2b2
-263385	3a
-263387	3b
-1
-2
-3
-1
-263393	2a
-263396	2b1
-263398	2b2
-3
-4
-1
-1
-1
-1
-2
-263407	1a
-263409	1b
-263411	2a
-263413	2b
-263415	3a
-263417	3b
-263419	4a
-263421	4b
-1
-1
-1
-2
-3
-1
-2
-3
-1
-2
-3
-4
-1
-2
-3
-1
-2
-1
-2
-1
-1
-1
-1
-1
-1
-1
-2
-1
-1
-2
-3
-1
-1
-2
-1
-1
-2
-1
-2
-1
-1
-2
-1
-2
-1
-2
-1
-1
-1
-1
-2
-3
-4
-5
-1
-2
-3
-4
-1
-2
-3
-4
-5
-6
-1
-2
-3
-4
-1
-1
-2
-1
-1
-2
-1
-1
-2
-1
-2
-1
-1
-1
-1
-1
-1
-2
-3
-1
-2
-3
-1
-1
-1
-2
-1
-1
-1'
-2'
-1'
-2'
-1
-2
-3
-1
-2
-1
-1
-1
-1
-2
-3
-1
-1
-1
-1
-2
-3
-4
-1
-2
-3
-1
-2
-1
-1
-1
-2
-1
-2
-1
-2
-3
-4
-5
-1
-2
-3
-1
-1
-2
-3
-4
-1
-2
-1
-1
-1
-1
-1
-1
-2
-1
-1
-2
-1
-2
-1
-2
-3
-4
-1
-2
-3
-4
-1
-263588	2a
-263590	2b
-263593	2c1
-263595	2c2
-1
-1
-2
-3
-1
-2
-1
-2
-3
-1
-2
-1
-1
-1
-2
-3
-1
-2
-1
-1
-2
-1
-1
-1
-1
-1
-1
-2
-1
-1
-1
-1
-2
-3
-1
-2
-1
-1'
-1
-1
-2
-3
-1
-1
-2
-3
-1
-2
-1
-2
-1
-1
-1
-1
-1
-1
-1
-2
-1
-1
-1
-2
-1
-1
-2
-1
-1
-1
-2
-1
-2
-1
-2
-1
-1
-1
-2
-1
-1
-1
-2
-3
-1
-2
-3
-4
-5
-1
-2
-3
-1
-1
-2
-1
-2
-1
-2
-1
-1
-1
-2
-1
-1
-1
-1
-1
-1
-2
-1
-263706	2a
-263708	2b
-263710	3a
-263712	3b
-1
-1
-2
-1
-2
-1
-1
-2
-1
-2
-3
-1
-2
-3
-4
-1
-1
-2
-1
-2
-1
-2
-1
-2
-1
-2
-3
-4
-1
-2
-1
-1
-1
-1
-1
-1
-1
-2
-1
-1
-2
-3
-4
-5
-1
-2
-3
-4
-5
-1
-2
-1
-1
-1
-1
-1
-1
-1
-2
-1
-2
-3
-1
-2
-3
-4
-1
-2
-3
-4
-5
-1
-2
-3
-1
-1
-1
-2
-1
-1
-1
-1
-2
-3
-263798	4a
-263800	4b
-263802	5a
-263804	5b
-6
-7
-1
-2
-1
-2
-1
-2
-1
-2
-3
-4
-5
-6
-1
-2
-3
-4
-5
-6
-1
-1
-2
-3
-4
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-2
-3
-263846	1a
-263848	1b
-263850	2a
-263852	2b
-263854	2c
-263856	3a
-263858	3b
-263860	3c
-263862	1a
-263864	1b
-263866	1c
-263868	2a
-263870	2b
-263872	2c
-3
-1
-2
-3
-4
-1
-1
-2
-1
-1
-1
-2
-1
-2
-3
-1
-1
-1
-1
-1
-1
-2
-1
-2
-1
-1
-2
-3
-4
-5
-6
-1
-2
-3
-4
-5
-6
-1
-2
-3
-4
-1
-1
-2
-3
-1
-2
-3
-4
-5
-6
-1
-2
-3
-1
-1
-1
-2
-1
-1
-1
-2
-3
-1
-1
-2
-1
-2
-3
-4
-5
-1
-1
-1
-1
-2
-3
-1
-2
-263953	1a
-263955	1b
-263957	2a
-263959	2b
-263961	3a
-263963	3b
-263965	4a
-263967	4b
-263969	5a
-263971	5b
-263973	6a
-263975	6b
-263977	7a
-263980	7b1
-263982	7b2
-263984	8a
-263986	8b
-263988	9a
-263990	9b
-263992	1a
-263994	1b
-263996	2a
-263998	2b
-264000	3a
-264002	3b
-264004	4a
-264006	4b
-264008	5a
-264010	5b
-264012	6a
-264014	6b
-264016	7a
-264018	7b
-264020	8a
-264022	8b
-264024	1a
-264026	1b
-264028	2a
-264030	2b
-264032	3a
-264034	3b
-264036	4a
-264038	4b
-264041	5a1
-264043	5a2
-264045	5b
-264047	6a
-264049	6b
-1
-2
-3
-1
-2
-3
-4
-5
-6
-7
-8
-9
-1
-1
-2
-3
-4
-1
-1
-2
-3
-4
-5
-6
-1
-2
-3
-4
-5
-6
-7
-1
-2
-3
-4
-1
-2
-3
-4
-1
-1
-1
-2
-3
-4
-1
-2
-1
-2
-1
-264101	1a
-264104	1b1
-264106	1b2
-264108	1b3
-264110	2a
-264112	2b
-3
-1
-2
-1
-2
-1
-2
-3
-264123	1a1
-264125	1a2
-264127	1b
-2
-1
-264132	2a1
-264134	2a2
-264136	2b
-3
-1
-2
-3
-4
-1
-264144	1a
-264146	1b
-264148	2a
-264151	2b1
-264153	2b2
-264156	3a1
-264158	3a2
-264160	3b
-4
-1
-1
-1
-2
-3
-4
-1
-1
-2
-1
-1
-1
-2
-3
-1
-2
-1
-1
-1
-2
-1
-1
-1
-1
-1
-2
-1
-2
-1
-2
-264193	1a
-264196	1b1
-264198	1b2
-2
-3
-1
-2
-1
-2
-3
-1
-2
-3
-4
-1
-2
-1
-1
-2
-3
-4
-1
-1
-1
-264221	1a
-264223	1b
-2
-1
-2
-3
-1
-1
-2
-3
-4
-5
-6
-7
-1
-2
-3
-4
-5
-6
-7
-1
-2
-3
-1
-2
-3
-4
-1
-2
-3
-1
-1
-1
-2
-3
-4
-1
-2
-1
-2
-3
-1
-2
-3
-1
-2
-3
-1
-2
-3
-4
-5
-1
-1
-1
-1
-2
-1
-264282	2a
-264285	2b1
-264287	2b2
-1
-264290	2a
-264293	2b1
-264295	2b2
-1
-2
-3
-4
-1
-1
-2
-3
-1
-1
-2
-3
-1
-2
-1
-2
-3
-4
-1
-2
-264317	3a
-264320	3b1
-264322	3b2
-1
-1
-1
-2
-3
-1
-1
-2
-3
-4
-1
-2
-1
-2
-1
-2
-1
-1
-1'
-1'
-2'
-1'
-264347	1a1
-264349	1a2
-264351	1b
-1
-1
-1
-2
-3
-1
-2
-3
-1
-2
-3
-1
-2
-3
-4
-1
-2
-1
-1
-2
-3
-4
-1
-2
-3
-4
-5
-6
-7
-1
-2
-1
-2
-1
-2
-3
-4
-1
-1
-2
-1
-2
-3
-4
-1
-2
-3
-1
-1
-2
-3
-1
-2
-3
-1
-2
-3
-1
-2
-1
-1
-1
-2
-3
-4
-1
-2
-3
-1
-2
-3
-1
-2
-1
-2
-1
-2
-3
-1
-1
-2
-264434	3a
-264437	3b1
-264439	3b2
-1
-2
-1
-1
-2
-3
-1
-2
-3
-1
-1
-2
-1
-2
-1
-1
-2
-1
-1
-1
-2
-264463	1a1
-264465	1a2
-264467	1b
-2
-1
-1
-1
-1
-2
-1
-2
-3
-1
-1
-2
-3
-1
-2
-3
-4
-1
-1
-1
-1
-1
-1
-2
-3
-1
-2
-1
-264497	1
-264499	1a
-264501	1b
-264503	1c
-2
-1
-1
-1
-1
-1
-1
-2
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-2
-3
-264525	1a
-264527	1b
-2
-1
-1
-1
-1
-2
-1
-1
-1
-2
-1
-2
-3
-1
-1
-2
-1
-2
-1
-264548	2a
-264550	2b
-264552	3a
-264555	3b1
-264557	3b2
-1
-2
-3
-1
-1
-2
-1
-1
-1
-2
-3
-4
-5
-1
-2
-3
-4
-5
-6
-7
-1
-2
-3
-1
-1
-2
-3
-1
-1
-1
-2
-1
-2
-3
-264593	1a
-264595	1b
-264597	2a
-264599	2b
-264601	3a
-264603	3b
-1
-2
-3
-4
-5
-1
-1
-2
-1
-2
-1
-2
-1
-1
-1
-264620	1a
-264622	1b
-264624	1c
-264626	2a
-264628	2b
-264630	2c
-264632	3a
-264634	3b
-264636	3c
-264638	3d
-264640	3e
-264642	3f
-264644	4a
-264646	4b
-264648	4c
-264650	4d
-264652	4e
-264654	5a
-264656	5b
-264658	5c
-264660	5d
-264662	5e
-264665	5f1
-264667	5f2
-264669	5g
-264671	6a
-264673	6b
-264675	6c
-264677	6d
-264679	6e
-264681	6f
-264683	7a
-264685	7b
-264687	7c
-264689	7d
-264691	8a
-264693	8b
-264695	8c
-264697	9a
-264699	9b
-264701	9c
-264703	9d
-264705	9e
-264707	1a
-264709	2a
-264711	3a
-264713	4a
-1
-1
-1
-1
-2
-3
-264721	4a
-264724	4b1
-264726	4b2
-264728	4b3
-264730	4b4
-1
-1
-2
-3
-4
-1
-1
-1
-1
-2
-3
-4
-1
-2
-1
-2
-3
-1
-1
-2
-1
-1
-1
-1
-1
-1
-2
-3
-4
-5
-1
-2
-3
-4
-5
-1
-1
-2
-1
 1
 2
 3
@@ -1962,45 +14699,6 @@
 6
 7
 8
-9
-10
-11
-12
-13
-1
-2
-3
-4
-5
-6
-7
-8
-9
-10
-11
-12
-13
-14
-1
-2
-3
-4
-5
-6
-7
-8
-9
-10
-11
-12
-13
-1
-2
-3
-4
-5
-6
-7
 9
 10
 11
@@ -2015,293 +14713,13 @@
 8
 9
 10
-1
-2
-3
-4
-5
-6
-1
-2
-3
-4
-1
-2
-3
-4
-1
-2
-3
-4
-5
-1
-2
-3
-4
-5
-6
-7
-8
-1
-2
-10
 11
 12
-13
-1
-1
-2
-1
-1
-1
-2
-3
-1
-2
-3
-4
-1
-2
-3
-1
-2
-1
-1
-2
-3
-4
-1
-2
-1
-1
-2
-3
-1
-2
-1
-2
-264898	3a1
-264900	3a2
-264902	3b
-1
-1
-2
 1
 1
 1
 1
 2
-1
-2
-1
-1
-1
-1
-2
-3
-4
-1
-2
-3
-4
-5
-1
-2
-3
-1
-2
-3
-1
-2
-3
-1
-1
-2
-1
-1
-2
-3
-1
-2
-1
-2
-1
-1
-2
-1
-264950	2a
-264952	2b
-3
-264955	1a
-264957	1b
-264959	2a
-264961	2b
-264963	3a
-264965	3b
-264967	4a
-264969	4b
-264971	1a
-264973	1b
-264975	2a
-264977	2b
-264979	3a
-264981	3b
-4
-264984	1a
-264986	1b
-264988	2a
-264990	2b
-1
-2
-3
-264995	1a
-264997	2a
-264999	2b
-265001	3a
-265003	3b
-265005	3c
-265007	4a
-265009	4b
-265011	5a
-265013	5b
-1
-2
-1
-2
-1
-2
-265021	1a
-265023	1b
-1
-2
-1
-2
-3
-4
-1
-1
-2
-1
-1
-2
-3
-4
-1
-2
-3
-4
-1
-2
-1
-1
-2
-265048	1a
-265050	1b
-265052	2a
-265054	2b
-265056	3a
-265058	3b
-1
-2
-3
-1
-2
-1
-2
-3
-4
-265069	5a
-265071	5b
-1
-2
-3
-1
-2
-3
-4
-1
-1
-1
-2
-265084	1a
-265087	1b1
-265089	1b2
-265091	1b3
-2
-1
-1
-2
-1
-2
-3
-1
-2
-1
-1
-1
-2
-1
-1
-1
-1
-2
-3
-4
-1
-2
-1
-2
-3
-4
-5
-6
-7
-8
-9
-1
-2
-3
-1
-2
-3
-1
-2
-265132	3a
-265135	3b1
-265137	3b2
-265139	3b3
-1
-2
-3
-4
-5
-1
-2
-3
-4
-1
-2
-3
-1
-2
-3
-4
-1
-1
-1
-2
-3
-1
-2
-1
-1
-2
-3
-4
-1
-2
-3
-4
 1
 2
 3
@@ -2312,511 +14730,43 @@
 2
 3
 4
-1
-1
-2
-3
-4
-1
-2
-3
-1
-2
-3
-4
-5
-1
-2
-3
-4
-5
-1
-2
-3
-1
-1
-1
-1
-2
-3
-4
-5
-1
-2
-3
-4
-5
-1
-2
-3
-265220	1a
-265222	1b
-265224	2a
-265226	2b
-265228	3a
-265230	3b
-265232	4a
-265234	4b
-265236	1a
-265238	1b
-265240	2a
-265242	2b
-265245	3a1
-265247	3a2
-265249	3b
-1
-2
-3
-4
-1
-2
-3
-4
-5
-1
-2
-1
-2
-3
-4
-1
-2
-3
-4
-5
-6
-265272	1a
-265274	1b
-265276	2a
-265278	2b
-265280	1a
-265282	1b
-265284	2a
-265286	2b
-265288	3a
-265290	3b
-265292	1a
-265294	1b
-265296	2a
-265298	2b
-265300	3a
-265302	3b
-1
-2
-1
-2
-3
-4
-5
-1
-1
-1
-2
-3
-1
-2
-1
-1
-1
-2
-1
-2
-1
-2
-1
-1
-2
-1
-2
-1
-1
-2
-3
-1
-2
-3
-4
-1
-1
-1
-2
-3
-4
-1
-2
-3
-4
-5
-1
-1
-2
-265353	1a
-265355	1b
-265357	2a
-265359	2b
-265361	3a
-265363	3b
-265365	4a
-265367	4b
-5
-1
-2
-1
-2
-3
-1
-1
-2
-1
-2
-3
-1
-1
-2
-3
-1
-1
-2
-1
-2
-3
-4
-5
-6
-7
-1
-2
-1
-2
-1
-2
-3
-4
-1
-2
-3
-4
-5
-1
-2
-3
-4
-5
-1
-2
-3
-1
-1
-1
-265419	1a
-265421	1b
-265423	1c
-265425	2a
-265427	2b
-265429	2c
-265431	3a
-265433	3b
-265435	4a
-265437	4b
-265439	5a
-265441	5b
-6
-1
-1
-1
-2
-1
-1
-2
-1
-2
-1
-2
-3
-1
-2
-1
-1
-2
-3
-1
-2
-1
-1
-2
-3
-1
-1
-1
-2
-1
-2
-1
-1
-2
-3
-1
-2
-3
-1
-2
-1
-1
-2
-3
-4
-5
-1
-2
-3
-4
-1
-1
-1
-2
-3
-4
-5
-1
-2
-3
-4
-1
-2
-3
-4
-1
-2
-3
-4
-1
-1
-1
-2
-265516	3a
-265518	3b
-1
-2
-3
-265523	4a
-265525	4b
-1
-2
-1
-2
-1
-2
-1
-2
-265535	1a
-265537	1b
-265539	1c
-265541	2a
-265543	2b
-265545	3a
-265547	3b
-265549	4a
-265551	4b
-1
-2
-3
-4
-5
-265558	1a
-265560	1b
-2
-1
-1
-2
-3
-4
-1
-2
-1
-2
-1
-2
-1
-1
-265576	1a
-265578	1b
-265580	2a
-265582	2b
-265584	3a
-265586	3b
-1
-1
-2
-3
-4
-5
-1
-2
-3
-4
-1
-2
-3
-4
-5
-1
-2
-3
-1
-2
-265608	1a
-265610	1b
-265612	2a
-265614	2b
-1
-2
-3
-4
-1
-265621	1a
-265624	1b1
-265626	1b2
-2
-265629	3a
-265632	3b1
-265634	3b2
-265636	3b3
-4
-1
-2
-3
-1
-2
-1
-1
-2
-3
-4
-1
-1
-2
-1
-1
-2
-1
-1
-1
-1
-1
-1
-1
-1
-2
-3
-4
-5
-6
-7
-1
-2
-3
-1
-1
-1
-1
-1
-2
-3
-4
-1
-2
-3
-1
-1
-2
-3
-4
 5
 6
 1
 2
-3
-1
 1
 2
 3
 1
 1
-2
-3
-4
 1
 1
 1
 1
-2
-265707	1a
-265709	1b
-265711	2a
-265713	2b
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
 1
 2
 1
-2
 1
-2
-3
-265723	1a1
-265725	1a2
-265727	1a3
-265729	1b
-2
-3
-4
 1
-2
-3
-4
-265739	1a1
-265741	1a2
-265743	1a3
-265745	1b
-2
-3
-4
 1
-2
 1
-2
-3
 1
-2
 1
-2
-3
-4
 1
-2
-3
 1
-2
-3
-4
 1
-2
-3
-4
-5
-6
-7
-265775	1a
-265778	1b1
-265780	1b2
-2
-1
-2
-3
-1
-2
-3
-1
-2
-3
 1
 1
 1
@@ -2828,20 +14778,6 @@
 1
 1
 2
-3
-1
-1
-1
-2
-3
-4
-1
-2
-1
-2
-1
-1
-1
 1
 1
 1
@@ -2849,130 +14785,12 @@
 1
 1
 2
-1
-1
-1
-2
-1
-1
-2
-1
-1
-1
-2
-1
-1
-1
-1'
-1
-1
-2
-3
-1
-1'
-1
-2
-1
-2
-3
-1
-2
-3
-1
-1
-2
-1
-2
-1
-2
-1'
-1
-1
-2
-3
-4
-1
-1
-1
-2
-3
-1
-2
-1
-2
-1
-1
-2
-3
-1
-1
-1
-1
-2
-3
-4
-1
-1
-1
-1
-1
-2
-1
-2
-1
-2
-1
-2
-1
-2
-1
-2
-3
-1
-2
-3
-1
-2
-3
-1
-265910	1a
-265912	1b
-265914	2a
-265916	2b
-3
-1
-1
 1
 2
 3
 4
 5
 1
-2
-3
-1
-2
-1
-2
-3
-1
-1
-1
-1
-1
-265939	1a
-265943	1b1A
-265945	1b1B
-265947	1b2
-265949	2a
-265951	2b
-265953	3a
-265956	3b1
-265958	3b2
-265960	4a
-265963	4b1
-265965	4b2
-5
 1
 2
 3
@@ -2980,932 +14798,3147 @@
 1
 2
 1
-2
-1
-265977	2
-265979	2a
-265981	2b
-1
-2
-1
-2
-1
-1
-2
-1
-1
-2
-1
-1
-1
-2
-1
-1
-1
-2
-1
-1
-1
-1
-1
-1
-1
-1
-2
-1
-2
-1
-1
-2
-1
-1
-1
-2
-1
-1
-2
-1
-2
-3
-4
-1
-1
-2
-3
-1
-1
-2
-3
-1
-2
-1
-1
-1
-2
-3
-1
-2
-3
-4
-1
-2
-3
-1
-1
-2
-3
-1
-2
-266054	1a
-266056	1b
-2
-266060	1a1
-266062	1a2
-266064	1b
-2
-1
-1
-2
-3
-1
-2
-3
-1
-2
-3
-1
-2
-3
-266080	1a
-266082	1b
-2
-3
-1
-2
-1
-1
-2
-3
-4
-1
-2
-1
-2
-1
-266099	1a1
-266101	1a2
-266103	1b
-266105	2a
-266107	2b
-266109	3a
-266111	3b
-266113	4a
-266115	4b
-266117	5a
-266119	5b
-266122	1a1
-266124	1a2
-266126	1b
-2
-266129	1a
-266131	1b
-266133	2a
-266135	2b
-266137	3a
-266139	3b
-266141	4a
-266143	4b
-266145	1a
-266147	1b
-266149	2a
-266151	2b
-3
-4
-1
-2
-3
-4
-5
-1
-2
-3
-4
-5
-6
-1
-2
-3
-4
-5
-266171	1a
-266174	1b1
-266176	1b2
-266179	2a1
-266181	2a2
-266184	2b1
-266186	2b2
-1
-2
-266190	3a
-266192	3b
-266194	4a
-266196	4b
-1
-2
-3
-4
-1
-1
-2
-3
-4
-5
-6
-7
-1
-2
-3
-4
-5
-6
-1
-2
-3
-4
-5
-1
-2
-266223	3a
-266225	3b
-4
-1
-2
-3
-1
-1
-2
-3
-4
-1
-266237	2a
-266239	2b
-1
-1
-2
-3
-1
-1
-2
-3
-266249	1a
-266251	1b
-2
-266254	3a
-266256	3b
-266259	3c1
-266261	3c2
-266263	3c3
-1
-1
-2
-3
-1
-1
-2
-3
-4
-5
-6
-266276	7a
-266278	7b
-266280	7c
-266282	1a
-266285	1b1
-266287	1b2
-2
-3
-4
-5
-6
-7
-266295	8a
-266297	8b
-9
-266301	1a1
-266303	1a2
-266305	1b
-2
-3
-266309	4a
-266311	4b
-5
-6
-7
-8
-266317	9a
-266319	9b
-266321	10a
-266323	10b
-11
-1
-2
-3
-266330	4a1
-266332	4a2
-266334	4a3
-266336	4b
-266339	5a1
-266341	5a2
-266343	5a3
-266345	5b
-266347	1a
-266350	1b1
-266352	1b2
-266354	2a
-266357	2b1
-266359	2b2
-266361	3a
-266363	3b
-266365	4a
-266369	4b1A
-266371	4b1B
-266374	4b2A
-266376	4b2B
-266378	4b3
-266380	1a
-266383	1b1
-266385	1b2
-2
-3
-4
-1
-2
-3
-4
-5
-6
-7
-8
-9
-10
-1
-2
-3
-1
-266405	1a1
-266407	1a2
-266409	1b
-266411	2a
-266413	2b
-3
-4
-266417	1a
-266419	1b
-2
-3
-4
-5
-266425	6a
-266427	6b
-266429	7a
-266431	7b
-1
-1
-266435	2a
-266437	2b
-266439	2c
-3
-1
-2
-3
-1
-1
-2
-1
-2
-1
-266451	1a
-266454	1b1
-266456	1b2
-266459	1c1
-266461	1c2
-2
-1
-2
-3
-4
-1
-2
-3
-4
-5
-1
-266474	1a
-266477	1b1
-266479	1b2
-266481	1b3
-266483	2a
-266486	2b1
-1
-266489	2a
-266491	2b
-1
-1
-2
-3
-1
-2
-3
-266500	1a
-266502	1b
-2
-1
-2
-1
-1
-2
-3
-1
-2
-3
-266514	1a
-266516	1b
-2
-1
-2
-266521	3a
-266523	3b
-1
-2
-3
-1
-2
-3
-4
-1
-2
-3
-266535	1a
-266537	1b
-2
-1
-2
-1
-1
-2
-3
-1
-2
-3
-266549	1a
-266551	1b
-2
-1
-2
-1
-2
-1
-1
-266560	1a
-266562	1b
-2
-1
-1
-2
-3
-1
-1
-2
-3
-4
-1
-2
-1
-1
-1
-1
-266580	2a
-266583	2b1
-266585	2b2
-266587	3a
-266590	3b1
-266593	3b2A
-266595	3b2B
-1
-1
-1
-266601	2a1
-266603	2a2
-266605	2b
 1
-2
-266610	1a1
-266612	1a2
-266614	1b
-266616	1a
-266618	1b
-266620	2a
-266622	2b
-1
-1
-1
-2
-3
-1
-1
-2
-3
-4
-1
-2
-1
-1
-2
-3
-1
-2
-3
-266644	4a1
-266646	4a2
-266648	4b
-266651	5a1
-266653	5a2
-266655	5a3
-266657	5b
-1
-266661	1a1
-266663	1a2
-266665	1b
-266668	2a1
-266670	2a2
-266672	2b
-266675	3a1
-266677	3a2
-266679	3a3
-266681	3b
-266684	1a1
-266686	1a2
-266688	1a3
-266690	1b
-1
-2
-3
-4
-1
-2
-3
-4
-5
-1
-2
-3
-266704	4a
-266706	4b
-1
-2
-1
-2
-1
-2
-3
-4
-1
-2
-3
-1
-266721	2a1
-266723	2a2
-266725	2b
-3
-1
-2
-266730	1a
-266732	1b
-2
-266735	1a
-266737	1b
-2
-266740	3a
-266742	3b
-1
-2
-1
-2
-1
-2
-266750	1a
-266752	1b
-2
-3
-1
-266757	2a
-266759	2b
-3
-4
-1
-1
-1
-2
-3
-266768	1a
-266770	1b
-2
-3
-1
-2
-1
-1
-2
-1
-2
-1
-1
-2
-3
-266785	1a
-266787	1b
-2
-3
-1
-2
-1
-2
-1
-1
-1
-2
-1
-2
-3
-1
-1
-1
-2
-1
-1
-1
-2
-3
-4
-1
-2
-3
-4
-1
-1
-2
-3
-1
-1
-2
-1
-2
-1
-1
-2
-3
-1
-266830	2a
-266833	2b1
-266835	2b2
-266837	3a
-266840	3b1
-1
-1
-2
-1
-266847	2a1
-266849	2a2
-266851	2a3
-266853	2b
-1
-2
-266857	1a
-266859	1b
-2
-3
-1
-1
-2
-1
-2
-1
-2
-3
 1
 2
 3
-4
 1
 2
 3
-1
-2
-3
-266881	1a
-266883	1b
-3
-1
-1
-1
-1
-2
-3
-4
-5
-1
-1
-2
-3
-1
-1
-1
-2
-3
-4
-1
-2
-3
-1
-2
-3
-4
-1
-266912	1a
-266914	1b
-266916	2a
-266918	2b
-266920	3a
-266922	3b
-266924	4a
-266926	4b
-266928	5a
-266930	5b
-266932	6a
-266934	6b
-266936	1a
-266938	1b
-266940	2a
-266942	2b
-266944	3a
-266946	3b
-266948	4a
-266950	4b
-266952	5a
-266954	5b
-266956	5c
-266958	6a
-266961	6b1
-266963	6b2
-266965	7a
-266968	7b1
-266970	7b2
-266972	1a
-266974	1b
-2
-266977	3a
-266979	3b
-266981	4a
-266983	4b
-266985	5a
-266987	5b
-266989	6a
-266991	6b
-266993	7a
-266995	7b
-8
-266998	1a
-267000	1b
-267002	2a
-267004	2b
-267006	3a
-267008	3b
-267010	4a
-267012	4b
-267014	5a
-267016	5b
-267018	6a
-267020	6b
-267023	7a1
-267025	7a2
-267027	7b
-267029	8a
-267031	8b
-1
-2
-3
-4
-1
-1
-2
-3
-267041	1a
-267043	1b
-267045	2a
-267047	2b
-1
-2
-267052	3a1
-267054	3a2
-267056	3a3
-267058	3b
-1
-2
-1
-2
-1
-1
-1
-1
-2
-1
-1
-1
-2
-1
-2
-1
-267076	1a
-267079	1b1
-267081	1b2
-267083	2a
-267086	2b1
-267088	2b2
-3
-1
-1
-267093	1a
-267095	1b
-267097	2a
-267099	2b
-3
-1
-2
-1
-2
-3
-267107	1a
-267109	1b
-2
-1
-1
-267114	1a
-267117	1b1
-267119	1b2
-267121	1b3
-1
-1
-2
-1
-2
-1
-2
-1
-1
-1
-2
-1
-2
-1
-1
-1
-2
-3
-267141	1a
-267143	1b
-267145	2a
-267148	2b1
-267150	2b2
-3
-1
-1
-2
-267156	3a
-267159	3b1
-267161	3b2
-1
-1
-1
-267166	1a
-267169	1b1
-267171	1b2
-2
-3
-4
-1
-2
-1
-267180	2a1
-267182	2a2
-267184	2b
-3
-267188	4a1
-267190	4a2
-267192	4b
-1
-2
-3
-1
-2
-267199	3a
-267201	3b
-1
-2
-3
-267206	1a
-267209	1b1
-267211	1b2
-2
-1
-2
-1
-1
-2
-3
-4
-5
-1
-2
-3
-1
-2
-3
-1
-267229	1a
-267231	1b
-2
-3
-1
-1
-1
-2
-3
-4
-5
-6
-7
-1
-267245	1a
-267247	1b
-267249	2a
-267251	2b
-267253	3a
-267255	3b
-1
-2
-1
-1
-267262	2a1
-267264	2a2
-267266	2b
-267269	3a1
-267271	3a2
+267263	1a
+267265	1b
+267267	2a
+267269	2b
+267271	3a
 267273	3b
 4
 1
-267277	2a
-267280	2b1
-267282	2b2
+2
+267278	1a
+267280	1b
+267282	2a
+267285	2b1
+267287	2b2
+267289	3a
+267291	3b
+1
+2
+3
+1
+267297	2a
+267300	2b1
+267302	2b2
+3
+4
+1
+1
+1
+1
+2
+267311	1a
+267313	1b
+267315	2a
+267317	2b
+267319	3a
+267321	3b
+267323	4a
+267325	4b
+1
+1
+1
+2
+3
+1
+2
+3
+1
+2
+3
+4
+1
+2
+3
+1
+2
+1
+2
+1
+1
+1
+1
+1
+1
+1
+2
+1
+1
+2
+3
+1
+1
+2
+1
+1
+2
+1
+2
+1
+1
+2
+1
+2
+1
+2
+1
+1
+1
+1
+2
+3
+4
+5
+1
+2
+3
+4
+1
+2
+3
+4
+5
+6
+1
+2
+3
+4
+1
+1
+2
+1
+1
+2
+1
+1
+2
+1
+2
+1
+1
+1
+1
+1
+1
+2
+3
+1
+2
+3
+1
+1
+1
+2
+1
+1
+1'
+2'
+1'
+2'
+1
+2
+3
+1
+2
+1
+1
+1
+1
+2
+3
+1
+1
+1
+1
+2
+3
+4
+1
+2
+3
+1
+2
+1
+1
+1
+2
+1
+2
+1
+2
+3
+4
+5
+1
+2
+3
+1
+1
+2
+3
+4
+1
+2
+1
+1
+1
+1
+1
+1
+2
+1
+1
+2
+1
+2
+1
+2
+3
+4
+1
+2
+3
+4
+1
+267492	2a
+267494	2b
+267497	2c1
+267499	2c2
+1
+1
+2
+3
+1
+2
+1
+2
+3
+1
+2
+1
+1
+1
+2
+3
+1
+2
+1
+1
+2
+1
+1
+1
+1
+1
+1
+2
+1
+1
+1
+1
+2
+3
+1
+2
+1
+1'
+1
+1
+2
+3
+1
+1
+2
+3
+1
+2
+1
+2
+1
+1
+1
+1
+1
+1
+1
+2
+1
+1
+1
+2
+1
+1
+2
+1
+1
+1
+2
+1
+2
+1
+2
+1
+1
+1
+2
+1
+1
+1
+2
+3
+1
+2
+3
+4
+5
+1
+2
+3
+1
+1
+2
+1
+2
+1
+2
+1
+1
+1
+2
+1
+1
+1
+1
+1
+1
+2
+1
+267610	2a
+267612	2b
+267614	3a
+267616	3b
+1
+1
+2
+1
+2
+1
+1
+2
+1
+2
+3
+1
+2
+3
+4
+1
+1
+2
+1
+2
+1
+2
+1
+2
+1
+2
+3
+4
+1
+2
+1
+1
+1
+1
+1
+1
+1
+2
+1
+1
+2
+3
+4
+5
+1
+2
+3
+4
+5
+1
+2
+1
+1
+1
+1
+1
+1
+1
+2
+1
+2
+3
+1
+2
+3
+4
+1
+2
+3
+4
+5
+1
+2
+3
+1
+1
+1
+2
+1
+1
+1
+1
+2
+3
+267702	4a
+267704	4b
+267706	5a
+267708	5b
+6
+7
+1
+2
+1
+2
+1
+2
+1
+2
+3
+4
+5
+6
+1
+2
+3
+4
+5
+6
+1
+1
+2
+3
+4
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+2
+3
+267750	1a
+267752	1b
+267754	2a
+267756	2b
+267758	2c
+267760	3a
+267762	3b
+267764	3c
+267766	1a
+267768	1b
+267770	1c
+267772	2a
+267774	2b
+267776	2c
+3
+1
+2
+3
+4
+1
+1
+2
+1
+1
+1
+2
+1
+2
+3
+1
+1
+1
+1
+1
+1
+2
+1
+2
+1
+1
+2
+3
+4
+5
+6
+1
+2
+3
+4
+5
+6
+1
+2
+3
+4
+1
+1
+2
+3
+1
+2
+3
+4
+5
+6
+1
+2
+3
+1
+1
+1
+2
+1
+1
+1
+2
+3
+1
+1
+2
+1
+2
+3
+4
+5
+1
+1
+1
+1
+2
+3
+1
+2
+267857	1a
+267859	1b
+267861	2a
+267863	2b
+267865	3a
+267867	3b
+267869	4a
+267871	4b
+267873	5a
+267875	5b
+267877	6a
+267879	6b
+267881	7a
+267884	7b1
+267886	7b2
+267888	8a
+267890	8b
+267892	9a
+267894	9b
+267896	1a
+267898	1b
+267900	2a
+267902	2b
+267904	3a
+267906	3b
+267908	4a
+267910	4b
+267912	5a
+267914	5b
+267916	6a
+267918	6b
+267920	7a
+267922	7b
+267924	8a
+267926	8b
+267928	1a
+267930	1b
+267932	2a
+267934	2b
+267936	3a
+267938	3b
+267940	4a
+267942	4b
+267945	5a1
+267947	5a2
+267949	5b
+267951	6a
+267953	6b
+1
+2
+3
+1
+2
+3
+4
+5
+6
+7
+8
+9
+1
+1
+2
+3
+4
+1
+1
+2
+3
+4
+5
+6
+1
+2
+3
+4
+5
+6
+7
+1
+2
+3
+4
+1
+2
+3
+4
+1
+1
+1
+2
+3
+4
+1
+2
+1
+2
+1
+268005	1a
+268008	1b1
+268010	1b2
+268012	1b3
+268014	2a
+268016	2b
+3
+1
+2
+1
+2
+1
+2
+3
+268027	1a1
+268029	1a2
+268031	1b
+2
+1
+268036	2a1
+268038	2a2
+268040	2b
+3
+1
+2
+3
+4
+1
+268048	1a
+268050	1b
+268052	2a
+268055	2b1
+268057	2b2
+268060	3a1
+268062	3a2
+268064	3b
+4
+1
+1
+1
+2
+3
+4
+1
+1
+2
+1
+1
+1
+2
+3
+1
+2
+1
+1
+1
+2
+1
+1
+1
+1
+1
+2
+1
+2
+1
+2
+268097	1a
+268100	1b1
+268102	1b2
+2
+3
+1
+2
+1
+2
+3
+1
+2
+3
+4
+1
+2
+1
+1
+2
+3
+4
+1
+1
+1
+268125	1a
+268127	1b
+2
+1
+2
+3
+1
+1
+2
+3
+4
+5
+6
+7
+1
+2
+3
+4
+5
+6
+7
+1
+2
+3
+1
+2
+3
+4
+1
+2
+3
+1
+1
+1
+2
+3
+4
+1
+2
+1
+2
+3
+1
+2
+3
+1
+2
+3
+1
+2
+3
+4
+5
+1
+1
+1
+1
+2
+1
+268186	2a
+268189	2b1
+268191	2b2
+1
+268194	2a
+268197	2b1
+268199	2b2
+1
+2
+3
+4
+1
+1
+2
+3
+1
+1
+2
+3
+1
+2
+1
+2
+3
+4
+1
+2
+268221	3a
+268224	3b1
+268226	3b2
+1
+1
+1
+2
+3
+1
+1
+2
+3
+4
+1
+2
+1
+2
+1
+2
+1
+1
+1'
+1'
+2'
+1'
+268251	1a1
+268253	1a2
+268255	1b
+1
+1
+1
+2
+3
+1
+2
+3
+1
+2
+3
+1
+2
+3
+4
+1
+2
+1
+1
+2
+3
+4
+1
+2
+3
+4
+5
+6
+7
+1
+2
+1
+2
+1
+2
+3
+4
+1
+1
+2
+1
+2
+3
+4
+1
+2
+3
+1
+1
+2
+3
+1
+2
+3
+1
+2
+3
+1
+2
+1
+1
+1
+2
+3
+4
+1
+2
+3
+1
+2
+3
+1
+2
+1
+2
+1
+2
+3
+1
+1
+2
+268338	3a
+268341	3b1
+268343	3b2
+1
+2
+1
+1
+2
+3
+1
+2
+3
+1
+1
+2
+1
+2
+1
+1
+2
+1
+1
+1
+2
+268367	1a1
+268369	1a2
+268371	1b
+2
+1
+1
+1
+1
+2
+1
+2
+3
+1
+1
+2
+3
+1
+2
+3
+4
+1
+1
+1
+1
+1
+1
+2
+3
+1
+2
+1
+268401	1
+268403	1a
+268405	1b
+268407	1c
+2
+1
+1
+1
+1
+1
+1
+2
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+2
+3
+268429	1a
+268431	1b
+2
+1
+1
+1
+1
+2
+1
+1
+1
+2
+1
+2
+3
+1
+1
+2
+1
+2
+1
+268452	2a
+268454	2b
+268456	3a
+268459	3b1
+268461	3b2
+1
+2
+3
+1
+1
+2
+1
+1
+1
+2
+3
+4
+5
+1
+2
+3
+4
+5
+6
+7
+1
+2
+3
+1
+1
+2
+3
+1
+1
+1
+2
+1
+2
+3
+268497	1a
+268499	1b
+268501	2a
+268503	2b
+268505	3a
+268507	3b
+1
+2
+3
+4
+5
+1
+1
+2
+1
+2
+1
+2
+1
+1
+1
+268524	1a
+268526	1b
+268528	1c
+268530	2a
+268532	2b
+268534	2c
+268536	3a
+268538	3b
+268540	3c
+268542	3d
+268544	3e
+268546	3f
+268548	4a
+268550	4b
+268552	4c
+268554	4d
+268556	4e
+268558	5a
+268560	5b
+268562	5c
+268564	5d
+268566	5e
+268569	5f1
+268571	5f2
+268573	5g
+268575	6a
+268577	6b
+268579	6c
+268581	6d
+268583	6e
+268585	6f
+268587	7a
+268589	7b
+268591	7c
+268593	7d
+268595	8a
+268597	8b
+268599	8c
+268601	9a
+268603	9b
+268605	9c
+268607	9d
+268609	9e
+268611	1a
+268613	2a
+268615	3a
+268617	4a
+1
+1
+1
+1
+2
+3
+268625	4a
+268628	4b1
+268630	4b2
+268632	4b3
+268634	4b4
+1
+1
+2
+3
+4
+1
+1
+1
+1
+2
+3
+4
+1
+2
+1
+2
+3
+1
+1
+2
+1
+1
+1
+1
+1
+1
+2
+3
+4
+5
+1
+2
+3
+4
+5
+1
+1
+2
+1
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+1
+2
+3
+4
+5
+6
+7
+9
+10
+11
+12
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+1
+2
+3
+4
+5
+6
+1
+2
+3
+4
+1
+2
+3
+4
+1
+2
+3
+4
+5
+1
+2
+3
+4
+5
+6
+7
+8
+1
+2
+10
+11
+12
+13
+1
+1
+2
+1
+1
+1
+2
+3
+1
+2
+3
+4
+1
+2
+3
+1
+2
+1
+1
+2
+3
+4
+1
+2
+1
+1
+2
+3
+1
+2
+1
+2
+268802	3a1
+268804	3a2
+268806	3b
+1
+1
+2
+1
+1
+1
+1
+2
+1
+2
+1
+1
+1
+1
+2
+3
+4
+1
+2
+3
+4
+5
+1
+2
+3
+1
+2
+3
+1
+2
+3
+1
+1
+2
+1
+1
+2
+3
+1
+2
+1
+2
+1
+1
+2
+1
+268854	2a
+268856	2b
+3
+268859	1a
+268861	1b
+268863	2a
+268865	2b
+268867	3a
+268869	3b
+268871	4a
+268873	4b
+268875	1a
+268877	1b
+268879	2a
+268881	2b
+268883	3a
+268885	3b
+4
+268888	1a
+268890	1b
+268892	2a
+268894	2b
+1
+2
+3
+268899	1a
+268901	2a
+268903	2b
+268905	3a
+268907	3b
+268909	3c
+268911	4a
+268913	4b
+268915	5a
+268917	5b
+1
+2
+1
+2
+1
+2
+268925	1a
+268927	1b
+1
+2
+1
+2
+3
+4
+1
+1
+2
+1
+1
+2
+3
+4
+1
+2
+3
+4
+1
+2
+1
+1
+2
+268952	1a
+268954	1b
+268956	2a
+268958	2b
+268960	3a
+268962	3b
+1
+2
+3
+1
+2
+1
+2
+3
+4
+268973	5a
+268975	5b
+1
+2
+3
+1
+2
+3
+4
+1
+1
+1
+2
+268988	1a
+268991	1b1
+268993	1b2
+268995	1b3
+2
+1
+1
+2
+1
+2
+3
+1
+2
+1
+1
+1
+2
+1
+1
+1
+1
+2
+3
+4
+1
+2
+1
+2
+3
+4
+5
+6
+7
+8
+9
+1
+2
+3
+1
+2
+3
+1
+2
+269036	3a
+269039	3b1
+269041	3b2
+269043	3b3
+1
+2
+3
+4
+5
+1
+2
+3
+4
+1
+2
+3
+1
+2
+3
+4
+1
+1
+1
+2
+3
+1
+2
+1
+1
+2
+3
+4
+1
+2
+3
+4
+1
+2
+3
+4
+5
+6
+1
+2
+3
+4
+1
+1
+2
+3
+4
+1
+2
+3
+1
+2
+3
+4
+5
+1
+2
+3
+4
+5
+1
+2
+3
+1
+1
+1
+1
+2
+3
+4
+5
+1
+2
+3
+4
+5
+1
+2
+3
+269124	1a
+269126	1b
+269128	2a
+269130	2b
+269132	3a
+269134	3b
+269136	4a
+269138	4b
+269140	1a
+269142	1b
+269144	2a
+269146	2b
+269149	3a1
+269151	3a2
+269153	3b
+1
+2
+3
+4
+1
+2
+3
+4
+5
+1
+2
+1
+2
+3
+4
+1
+2
+3
+4
+5
+6
+269176	1a
+269178	1b
+269180	2a
+269182	2b
+269184	1a
+269186	1b
+269188	2a
+269190	2b
+269192	3a
+269194	3b
+269196	1a
+269198	1b
+269200	2a
+269202	2b
+269204	3a
+269206	3b
+1
+2
+1
+2
+3
+4
+5
+1
+1
+1
+2
+3
+1
+2
+1
+1
+1
+2
+1
+2
+1
+2
+1
+1
+2
+1
+2
+1
+1
+2
+3
+1
+2
+3
+4
+1
+1
+1
+2
+3
+4
+1
+2
+3
+4
+5
+1
+1
+2
+269257	1a
+269259	1b
+269261	2a
+269263	2b
+269265	3a
+269267	3b
+269269	4a
+269271	4b
+5
+1
+2
+1
+2
+3
+1
+1
+2
+1
+2
+3
+1
+1
+2
+3
+1
+1
+2
+1
+2
+3
+4
+5
+6
+7
+1
+2
+1
+2
+1
+2
+3
+4
+1
+2
+3
+4
+5
+1
+2
+3
+4
+5
+1
+2
+3
+1
+1
+1
+269323	1a
+269325	1b
+269327	1c
+269329	2a
+269331	2b
+269333	2c
+269335	3a
+269337	3b
+269339	4a
+269341	4b
+269343	5a
+269345	5b
+6
+1
+1
+1
+2
+1
+1
+2
+1
+2
+1
+2
+3
+1
+2
+1
+1
+2
+3
+1
+2
+1
+1
+2
+3
+1
+1
+1
+2
+1
+2
+1
+1
+2
+3
+1
+2
+3
+1
+2
+1
+1
+2
+3
+4
+5
+1
+2
+3
+4
+1
+1
+1
+2
+3
+4
+5
+1
+2
+3
+4
+1
+2
+3
+4
+1
+2
+3
+4
+1
+1
+1
+2
+269420	3a
+269422	3b
+1
+2
+3
+269427	4a
+269429	4b
+1
+2
+1
+2
+1
+2
+1
+2
+269439	1a
+269441	1b
+269443	1c
+269445	2a
+269447	2b
+269449	3a
+269451	3b
+269453	4a
+269455	4b
+1
+2
+3
+4
+5
+269462	1a
+269464	1b
+2
+1
+1
+2
+3
+4
+1
+2
+1
+2
+1
+2
+1
+1
+269480	1a
+269482	1b
+269484	2a
+269486	2b
+269488	3a
+269490	3b
+1
+1
+2
+3
+4
+5
+1
+2
+3
+4
+1
+2
+3
+4
+5
+1
+2
+3
+1
+2
+269512	1a
+269514	1b
+269516	2a
+269518	2b
+1
+2
+3
+4
+1
+269525	1a
+269528	1b1
+269530	1b2
+2
+269533	3a
+269536	3b1
+269538	3b2
+269540	3b3
+4
+1
+2
+3
+1
+2
+1
+1
+2
+3
+4
+1
+1
+2
+1
+1
+2
+1
+1
+1
+1
+1
+1
+1
+1
+2
+3
+4
+5
+6
+7
+1
+2
+3
+1
+1
+1
+1
+1
+2
+3
+4
+1
+2
+3
+1
+1
+2
+3
+4
+5
+6
+1
+2
+3
+1
+1
+2
+3
+1
+1
+2
+3
+4
+1
+1
+1
+1
+2
+269611	1a
+269613	1b
+269615	2a
+269617	2b
+1
+2
+1
+2
+1
+2
+3
+269627	1a1
+269629	1a2
+269631	1a3
+269633	1b
+2
+3
+4
+1
+2
+3
+4
+269643	1a1
+269645	1a2
+269647	1a3
+269649	1b
+2
+3
+4
+1
+2
+1
+2
+3
+1
+2
+1
+2
+3
+4
+1
+2
+3
+1
+2
+3
+4
+1
+2
+3
+4
+5
+6
+7
+269679	1a
+269682	1b1
+269684	1b2
+2
+1
+2
+3
+1
+2
+3
+1
+2
+3
+1
+1
+1
+2
+3
+1
+2
+1
+1
+1
+2
+3
+1
+1
+1
+2
+3
+4
+1
+2
+1
+2
+1
+1
+1
+1
+1
+1
+1
+1
+1
+2
+1
+1
+1
+2
+1
+1
+2
+1
+1
+1
+2
+1
+1
+1
+1'
+1
+1
+2
+3
+1
+1'
+1
+2
+1
+2
+3
+1
+2
+3
+1
+1
+2
+1
+2
+1
+2
+1'
+1
+1
+2
+3
+4
+1
+1
+1
+2
+3
+1
+2
+1
+2
+1
+1
+2
+3
+1
+1
+1
+1
+2
+3
+4
+1
+1
+1
+1
+1
+2
+1
+2
+1
+2
+1
+2
+1
+2
+1
+2
+3
+1
+2
+3
+1
+2
+3
+1
+269814	1a
+269816	1b
+269818	2a
+269820	2b
+3
+1
+1
+1
+2
+3
+4
+5
+1
+2
+3
+1
+2
+1
+2
+3
+1
+1
+1
+1
+1
+269843	1a
+269847	1b1A
+269849	1b1B
+269851	1b2
+269853	2a
+269855	2b
+269857	3a
+269860	3b1
+269862	3b2
+269864	4a
+269867	4b1
+269869	4b2
+5
+1
+2
+3
+4
+1
+2
+1
+2
+1
+269881	2
+269883	2a
+269885	2b
+1
+2
+1
+2
+1
+1
+2
+1
+1
+2
+1
+1
+1
+2
+1
+1
+1
+2
+1
+1
+1
+1
+1
+1
+1
+1
+2
+1
+2
+1
+1
+2
+1
+1
+1
+2
+1
+1
+2
+1
+2
+3
+4
+1
+1
+2
+3
+1
+1
+2
+3
+1
+2
+1
+1
+1
+2
+3
+1
+2
+3
+4
+1
+2
+3
+1
+1
+2
+3
+1
+2
+269958	1a
+269960	1b
+2
+269964	1a1
+269966	1a2
+269968	1b
+2
+1
+1
+2
+3
+1
+2
+3
+1
+2
+3
+1
+2
+3
+269984	1a
+269986	1b
+2
+3
+1
+2
+1
+1
+2
+3
+4
+1
+2
+1
+2
+1
+270003	1a1
+270005	1a2
+270007	1b
+270009	2a
+270011	2b
+270013	3a
+270015	3b
+270017	4a
+270019	4b
+270021	5a
+270023	5b
+270026	1a1
+270028	1a2
+270030	1b
+2
+270033	1a
+270035	1b
+270037	2a
+270039	2b
+270041	3a
+270043	3b
+270045	4a
+270047	4b
+270049	1a
+270051	1b
+270053	2a
+270055	2b
+3
+4
+1
+2
+3
+4
+5
+1
+2
+3
+4
+5
+6
+1
+2
+3
+4
+5
+270075	1a
+270078	1b1
+270080	1b2
+270083	2a1
+270085	2a2
+270088	2b1
+270090	2b2
+1
+2
+270094	3a
+270096	3b
+270098	4a
+270100	4b
+1
+2
+3
+4
+1
+1
+2
+3
+4
+5
+6
+7
+1
+2
+3
+4
+5
+6
+1
+2
+3
+4
+5
+1
+2
+270127	3a
+270129	3b
+4
+1
+2
+3
+1
+1
+2
+3
+4
+1
+270141	2a
+270143	2b
+1
+1
+2
+3
+1
+1
+2
+3
+270153	1a
+270155	1b
+2
+270158	3a
+270160	3b
+270163	3c1
+270165	3c2
+270167	3c3
+1
+1
+2
+3
+1
+1
+2
+3
+4
+5
+6
+270180	7a
+270182	7b
+270184	7c
+270186	1a
+270189	1b1
+270191	1b2
+2
+3
+4
+5
+6
+7
+270199	8a
+270201	8b
+9
+270205	1a1
+270207	1a2
+270209	1b
+2
+3
+270213	4a
+270215	4b
+5
+6
+7
+8
+270221	9a
+270223	9b
+270225	10a
+270227	10b
+11
+1
+2
+3
+270234	4a1
+270236	4a2
+270238	4a3
+270240	4b
+270243	5a1
+270245	5a2
+270247	5a3
+270249	5b
+270251	1a
+270254	1b1
+270256	1b2
+270258	2a
+270261	2b1
+270263	2b2
+270265	3a
+270267	3b
+270269	4a
+270273	4b1A
+270275	4b1B
+270278	4b2A
+270280	4b2B
+270282	4b3
+270284	1a
+270287	1b1
+270289	1b2
+2
+3
+4
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+1
+2
+3
+1
+270309	1a1
+270311	1a2
+270313	1b
+270315	2a
+270317	2b
+3
+4
+270321	1a
+270323	1b
+2
+3
+4
+5
+270329	6a
+270331	6b
+270333	7a
+270335	7b
+1
+1
+270339	2a
+270341	2b
+270343	2c
+3
+1
+2
+3
+1
+1
+2
+1
+2
+1
+270355	1a
+270358	1b1
+270360	1b2
+270363	1c1
+270365	1c2
+2
+1
+2
+3
+4
+1
+2
+3
+4
+5
+1
+270378	1a
+270381	1b1
+270383	1b2
+270385	1b3
+270387	2a
+270390	2b1
+1
+270393	2a
+270395	2b
+1
+1
+2
+3
+1
+2
+3
+270404	1a
+270406	1b
+2
+1
+2
+1
+1
+2
+3
+1
+2
+3
+270418	1a
+270420	1b
+2
+1
+2
+270425	3a
+270427	3b
+1
+2
+3
+1
+2
+3
+4
+1
+2
+3
+270439	1a
+270441	1b
+2
+1
+2
+1
+1
+2
+3
+1
+2
+3
+270453	1a
+270455	1b
+2
+1
+2
+1
+2
+1
+1
+270464	1a
+270466	1b
+2
+1
+1
+2
+3
+1
+1
+2
+3
+4
+1
+2
+1
+1
+1
+1
+270484	2a
+270487	2b1
+270489	2b2
+270491	3a
+270494	3b1
+270497	3b2A
+270499	3b2B
+1
+1
+1
+270505	2a1
+270507	2a2
+270509	2b
+1
+2
+270514	1a1
+270516	1a2
+270518	1b
+270520	1a
+270522	1b
+270524	2a
+270526	2b
+1
+1
+1
+2
+3
+1
+1
+2
+3
+4
+1
+2
+1
+1
+2
+3
+1
+2
+3
+270548	4a1
+270550	4a2
+270552	4b
+270555	5a1
+270557	5a2
+270559	5a3
+270561	5b
+1
+270565	1a1
+270567	1a2
+270569	1b
+270572	2a1
+270574	2a2
+270576	2b
+270579	3a1
+270581	3a2
+270583	3a3
+270585	3b
+270588	1a1
+270590	1a2
+270592	1a3
+270594	1b
+1
+2
+3
+4
+1
+2
+3
+4
+5
+1
+2
+3
+270608	4a
+270610	4b
+1
+2
+1
+2
+1
+2
+3
+4
+1
+2
+3
+1
+270625	2a1
+270627	2a2
+270629	2b
+3
+1
+2
+270634	1a
+270636	1b
+2
+270639	1a
+270641	1b
+2
+270644	3a
+270646	3b
+1
+2
+1
+2
+1
+2
+270654	1a
+270656	1b
+2
+3
+1
+270661	2a
+270663	2b
+3
+4
+1
+1
+1
+2
+3
+270672	1a
+270674	1b
+2
+3
+1
+2
+1
+1
+2
+1
+2
+1
+1
+2
+3
+270689	1a
+270691	1b
+2
+3
+1
+2
+1
+2
+1
+1
+1
+2
+1
+2
+3
+1
+1
+1
+2
+1
+1
+1
+2
+3
+4
+1
+2
+3
+4
+1
+1
+2
+3
+1
+1
+2
+1
+2
+1
+1
+2
+3
+1
+270734	2a
+270737	2b1
+270739	2b2
+270741	3a
+270744	3b1
+1
+1
+2
+1
+270751	2a1
+270753	2a2
+270755	2a3
+270757	2b
+1
+2
+270761	1a
+270763	1b
+2
+3
+1
+1
+2
+1
+2
+1
+2
+3
+1
+2
+3
+4
+1
+2
+3
+1
+2
+3
+270785	1a
+270787	1b
+3
+1
+1
+1
+1
+2
+3
+4
+5
+1
+1
+2
+3
+1
+1
+1
+2
+3
+4
+1
+2
+3
+1
+2
+3
+4
+1
+270816	1a
+270818	1b
+270820	2a
+270822	2b
+270824	3a
+270826	3b
+270828	4a
+270830	4b
+270832	5a
+270834	5b
+270836	6a
+270838	6b
+270840	1a
+270842	1b
+270844	2a
+270846	2b
+270848	3a
+270850	3b
+270852	4a
+270854	4b
+270856	5a
+270858	5b
+270860	5c
+270862	6a
+270865	6b1
+270867	6b2
+270869	7a
+270872	7b1
+270874	7b2
+270876	1a
+270878	1b
+2
+270881	3a
+270883	3b
+270885	4a
+270887	4b
+270889	5a
+270891	5b
+270893	6a
+270895	6b
+270897	7a
+270899	7b
+8
+270902	1a
+270904	1b
+270906	2a
+270908	2b
+270910	3a
+270912	3b
+270914	4a
+270916	4b
+270918	5a
+270920	5b
+270922	6a
+270924	6b
+270927	7a1
+270929	7a2
+270931	7b
+270933	8a
+270935	8b
+1
+2
+3
+4
+1
+1
+2
+3
+270945	1a
+270947	1b
+270949	2a
+270951	2b
+1
+2
+270956	3a1
+270958	3a2
+270960	3a3
+270962	3b
+1
+2
+1
+2
+1
+1
+1
+1
+2
+1
+1
+1
+2
+1
+2
+1
+270980	1a
+270983	1b1
+270985	1b2
+270987	2a
+270990	2b1
+270992	2b2
+3
+1
+1
+270997	1a
+270999	1b
+271001	2a
+271003	2b
+3
+1
+2
+1
+2
+3
+271011	1a
+271013	1b
+2
+1
+1
+271018	1a
+271021	1b1
+271023	1b2
+271025	1b3
+1
+1
+2
+1
+2
+1
+2
+1
+1
+1
+2
+1
+2
+1
+1
+1
+2
+3
+271045	1a
+271047	1b
+271049	2a
+271052	2b1
+271054	2b2
+3
+1
+1
+2
+271060	3a
+271063	3b1
+271065	3b2
+1
+1
+1
+271070	1a
+271073	1b1
+271075	1b2
+2
+3
+4
+1
+2
+1
+271084	2a1
+271086	2a2
+271088	2b
+3
+271092	4a1
+271094	4a2
+271096	4b
+1
+2
+3
+1
+2
+271103	3a
+271105	3b
+1
+2
+3
+271110	1a
+271113	1b1
+271115	1b2
+2
+1
+2
+1
+1
+2
+3
+4
+5
+1
+2
+3
+1
+2
+3
+1
+271133	1a
+271135	1b
+2
+3
+1
+1
+1
+2
+3
+4
+5
+6
+7
+1
+271149	1a
+271151	1b
+271153	2a
+271155	2b
+271157	3a
+271159	3b
+1
+2
+1
+1
+271166	2a1
+271168	2a2
+271170	2b
+271173	3a1
+271175	3a2
+271177	3b
+4
+1
+271181	2a
+271184	2b1
+271186	2b2
 3
 4
 1
@@ -3919,8 +17952,8 @@
 1
 1
 2
-267297	3a
-267299	3b
+271201	3a
+271203	3b
 1
 2
 3
@@ -3937,9 +17970,9 @@
 7
 1
 1
-267318	1a1
-267320	1a2
-267322	1b
+271222	1a1
+271224	1a2
+271226	1b
 1
 1
 2
@@ -3963,9 +17996,9 @@
 1
 1
 1
-267347	1a
-267350	1b1
-267352	1b2
+271251	1a
+271254	1b1
+271256	1b2
 1
 1
 1
@@ -3982,10 +18015,10 @@
 2
 1
 2
-267370	1a
-267372	1b
-267374	2a
-267376	2b
+271274	1a
+271276	1b
+271278	2a
+271280	2b
 1
 2
 1
@@ -4034,94 +18067,94 @@
 4
 1
 2
-267427	3a1
-267429	3a2
-267431	3b
+271331	3a1
+271333	3a2
+271335	3b
 4
 1
-267436	2a1
-267438	2b
-3
-4
-1
-2
-3
-267445	1a
-267447	1b
-2
-3
-1
-1
-2
-1
-267455	1a
-267457	1b
-2
-3
-1
-2
-3
-267464	1a
-267467	1b1
-267469	1b2
-1
-1
-2
-3
-1
-2
-1
-2
-3
-4
-1
-267482	2a
-267485	2b1
-267487	2b2
+271340	2a1
+271342	2b
 3
 4
 1
 2
+3
+271349	1a
+271351	1b
+2
+3
 1
 1
-267496	1a1
-267498	1a2
-267500	1b
+2
+1
+271359	1a
+271361	1b
+2
+3
+1
+2
+3
+271368	1a
+271371	1b1
+271373	1b2
 1
 1
 2
 3
+1
+2
+1
+2
+3
 4
-5
-267509	1a1
-267512	1a2A
-267514	1a2B
-267517	1b1
-267520	1b2A
-267522	1b2B
-267524	1c
-267526	2a
-267528	2b
-267530	2c
-267532	3a
-267534	3b
-267536	3c
-267538	3d
-267540	4a
-267542	4b
-267544	4c
-267546	5a
-267548	5b
-267550	1a
-267552	2a
-267554	2b
-267556	3a
-267558	3b
+1
+271386	2a
+271389	2b1
+271391	2b2
+3
+4
+1
+2
+1
+1
+271400	1a1
+271402	1a2
+271404	1b
+1
 1
 2
 3
 4
 5
+271413	1a1
+271416	1a2A
+271418	1a2B
+271421	1b1
+271424	1b2A
+271426	1b2B
+271428	1c
+271430	2a
+271432	2b
+271434	2c
+271436	3a
+271438	3b
+271440	3c
+271442	3d
+271444	4a
+271446	4b
+271448	4c
+271450	5a
+271452	5b
+271454	1a
+271456	2a
+271458	2b
+271460	3a
+271462	3b
+1
+2
+3
+4
+5
 1
 2
 1
@@ -4137,9 +18170,9 @@
 1
 1
 1
-267580	1a
-267583	1b1
-267585	1b2
+271484	1a
+271487	1b1
+271489	1b2
 1
 1
 1
@@ -4186,9 +18219,9 @@
 2
 1
 2
-267634	1a1
-267636	1a2
-267638	1b
+271538	1a1
+271540	1a2
+271542	1b
 1
 1
 1
@@ -4287,13 +18320,13 @@
 6
 7
 8
-267738	1a
-267741	1b1
-267743	1b2
-267745	1b3
-267747	1b4
-267749	1b5
-267751	1b6
+271642	1a
+271645	1b1
+271647	1b2
+271649	1b3
+271651	1b4
+271653	1b5
+271655	1b6
 2
 1
 2
@@ -4312,33 +18345,33 @@
 2
 1
 2
-267771	1a
-267773	1b
-267775	2a
-267777	2b
-267779	3a
-267781	3b
-267784	1a1
-267786	1a2
-267788	1b
-267791	2a1
-267793	2a2
-267795	2b
-267797	3a
-267799	3b
-267801	4a
-267803	4b
-267805	5a
-267807	5b
+271675	1a
+271677	1b
+271679	2a
+271681	2b
+271683	3a
+271685	3b
+271688	1a1
+271690	1a2
+271692	1b
+271695	2a1
+271697	2a2
+271699	2b
+271701	3a
+271703	3b
+271705	4a
+271707	4b
+271709	5a
+271711	5b
 1
 2
 3
 4
-267813	5a
-267816	5b1
-267818	5b2
-267820	6a
-267822	6b
+271717	5a
+271720	5b1
+271722	5b2
+271724	6a
+271726	6b
 7
 1
 1
@@ -4359,25 +18392,25 @@
 2
 3
 4
-267845	1a1
-267848	1a2A
-267850	1a2B
-267853	1b1
-267856	1b2A
-267858	1b2B
-267861	2a1
-267864	2a2A
-267866	2a2B
-267869	2b1
-267872	2b2A
-267874	2b2B
-267877	3a1
-267880	3a2A
-267882	3a2B
-267886	3b1A
-267888	3b1B
-267891	3b2A
-267893	3b2B
+271749	1a1
+271752	1a2A
+271754	1a2B
+271757	1b1
+271760	1b2A
+271762	1b2B
+271765	2a1
+271768	2a2A
+271770	2a2B
+271773	2b1
+271776	2b2A
+271778	2b2B
+271781	3a1
+271784	3a2A
+271786	3a2B
+271790	3b1A
+271792	3b1B
+271795	3b2A
+271797	3b2B
 1
 1
 1
@@ -4410,8 +18443,8 @@
 1
 2
 3
-267927	1a
-267929	1b
+271831	1a
+271833	1b
 2
 3
 1
@@ -4422,21 +18455,15 @@
 1
 1
 1
-267941	1a
-267943	1b
-2
-3
-4
-1
-2
-1
-1
-1
+271845	1a
+271847	1b
 2
 3
 4
-5
-6
+1
+2
+1
+1
 1
 2
 3
@@ -4448,114 +18475,16 @@
 3
 4
 5
-1
-2
-3
-4
-1
-2
-1
-1
-2
-3
-4
-1
-2
-3
-4
-5
-1
-2
-1
-1
-1
-2
-3
-4
-1
-2
-1
-2
-3
-1
-2
-1
-2
-3
-1
-1
-2
-3
-4
-5
-1
-1
-2
-3
-4
-1
-1
-268016	1a
-268019	1b1
-268021	1b2
-268023	2a
-268026	2b1
-268028	2b2
-1
-2
-3
-4
-1
-2
-1
-2
-1
-268039	2a
-268042	2b1
-268044	2b2
-268046	1a
-268048	1b
-2
-268051	1b
-1
-1
-1
-2
-1
-2
-1
-1
-1
-1
-2
-1
-1
-2
-1
-2
-3
-4
-1
-2
-3
-4
-1
-2
-3
-1
-2
-3
-4
-5
 6
-7
-8
 1
 2
+3
+4
+5
 1
-1
-1
-1
+2
+3
+4
 1
 2
 1
@@ -4563,7 +18492,89 @@
 2
 3
 4
+1
+2
+3
+4
 5
+1
+2
+1
+1
+1
+2
+3
+4
+1
+2
+1
+2
+3
+1
+2
+1
+2
+3
+1
+1
+2
+3
+4
+5
+1
+1
+2
+3
+4
+1
+1
+271920	1a
+271923	1b1
+271925	1b2
+271927	2a
+271930	2b1
+271932	2b2
+1
+2
+3
+4
+1
+2
+1
+2
+1
+271943	2a
+271946	2b1
+271948	2b2
+271950	1a
+271952	1b
+2
+271955	1b
+1
+1
+1
+2
+1
+2
+1
+1
+1
+1
+2
+1
+1
+2
+1
+2
+3
+4
+1
+2
+3
+4
+1
+2
+3
 1
 2
 3
@@ -4574,101 +18585,18 @@
 8
 1
 2
-3
-4
-5
-6
-1
-2
-1
-2
-1
-2
-1
-2
-3
-4
-1
-2
-3
 1
 1
-2
-3
-1
-1
-2
-3
-1
-1
-2
-1
-1
-2
-1
-2
-1
-2
-3
-1
-1
-2
 1
 1
 1
 2
 1
-1
-1
-268156	1a
-268158	1b
-268160	1c
-2
-1
-2
-268165	1a
-268168	1b1
-268170	1b2
-1
-2
-3
-1
-1
-2
-3
-1
-1
-2
-3
-1
-2
-1
-1
-1
-2
-1
-2
-1
-1
-2
-1
-2
-1
-2
-268198	1a
-268200	1b
-268202	2a
-268204	2b
-1
-1
-2
 1
 2
 3
 4
 5
-6
-7
 1
 2
 3
@@ -4685,6 +18613,111 @@
 6
 1
 2
+1
+2
+1
+2
+1
+2
+3
+4
+1
+2
+3
+1
+1
+2
+3
+1
+1
+2
+3
+1
+1
+2
+1
+1
+2
+1
+2
+1
+2
+3
+1
+1
+2
+1
+1
+1
+2
+1
+1
+1
+272060	1a
+272062	1b
+272064	1c
+2
+1
+2
+272069	1a
+272072	1b1
+272074	1b2
+1
+2
+3
+1
+1
+2
+3
+1
+1
+2
+3
+1
+2
+1
+1
+1
+2
+1
+2
+1
+1
+2
+1
+2
+1
+2
+272102	1a
+272104	1b
+272106	2a
+272108	2b
+1
+1
+2
+1
+2
+3
+4
+5
+6
+7
+1
+2
+3
+4
+5
+6
+7
+8
+1
+2
+3
+4
+5
+6
+1
+2
 3
 4
 1
@@ -4722,8 +18755,8 @@
 2
 1
 2
-268269	3a
-268271	3b
+272173	3a
+272175	3b
 1
 2
 1
@@ -4834,42 +18867,42 @@
 3
 4
 1
-268383	1a
-268385	1b
+272287	1a
+272289	1b
 2
 1
-268389	1a
-268391	1b
+272293	1a
+272295	1b
 2
-268394	3a
-268396	3b
+272298	3a
+272300	3b
 4
 1
 2
 3
 4
 1
-268404	2a
-268406	2b
+272308	2a
+272310	2b
 3
-268409	1a
-268412	1b1
-268414	1b2
+272313	1a
+272316	1b1
+272318	1b2
 2
-268417	3a
-268420	3b1
-268422	3b2
+272321	3a
+272324	3b1
+272326	3b2
 1
 2
 1
-268427	1a
-268429	1b
+272331	1a
+272333	1b
 2
-268432	3a
-268434	3b
-268436	4a
-268439	4b1
-268441	4b2
+272336	3a
+272338	3b
+272340	4a
+272343	4b1
+272345	4b2
 1
 1
 1
@@ -4881,248 +18914,27 @@
 3
 4
 5
-268454	1a
-268456	1b
-268458	2a
-268460	2b
-268462	3a
-268464	3b
+272358	1a
+272360	1b
+272362	2a
+272364	2b
+272366	3a
+272368	3b
 1
 2
 3
 1
-268470	1a
-268472	1b
-268474	2a
-268476	2b
+272374	1a
+272376	1b
+272378	2a
+272380	2b
 3
 1
 2
 1
-268482	2a
-268485	2b1
-268487	2b2
-3
-1
-1
-2
-3
-1
-2
-3
-1
-2
-3
-1
-2
-3
-1
-2
-1
-1
-2
-3
-1
-2
-3
-1
-2
-268514	1a
-268517	1b1
-268519	1b2
-268521	1b3
-268523	2a
-268525	2b
-268527	3a
-268529	3b
-268531	1a
-268533	1b
-268535	2a
-268537	2b
-268539	3a
-268541	3b
-268543	4a
-268545	4b
-268547	5a
-268549	5b
-1
-268553	2a1
-268555	2a2
-268557	2a3
-268560	2b1
-268562	2b2
-268564	3a
-268566	3b
-4
-5
-6
-1
-1
-268573	1a
-268575	1b
-268577	2a
-268579	2b
-268581	3a
-268583	3b
-1
-1
-2
-3
-1
-1
-2
-1
-1
-1
-2
-1
-2
-1
-1
-2
-1
-268602	2a
-268604	2b
-268606	3a
-268608	3b
-268610	4a
-268612	4b
-1
-2
-268616	1a
-268618	1b
-268620	2a
-268622	2b
-268624	3a
-268626	3b
-1
-2
-3
-1
-1
-268633	2a
-268635	2b
-3
-1
-2
-1
-1
-2
-1
-1
-2
-3
-1
-2
-1
-1
-2
-3
-1
-2
-268655	3a
-268657	3b
-1
-1
-1
-2
-1
-1
-2
-1
-1
-2
-1
-1
-1
-1
-2
-1
-1
-2
-1
-2
-3
-1
-2
-1
-1
-1
-2
-1
-1
-1
-2
-1
-1
-1
-2
-3
-4
-1
-1
-2
-3
-4
-268701	1a
-268703	1b
-2
-1
-2
-1
-1
-1
-1
-1
-2
-3
-4
-1
-2
-1
-2
-1
-1
-2
-3
-4
-5
-1
-2
-1
-1
-1
-2
-1
-1
-2
-3
-1
-1
-2
-1
-1
-2
-3
-1
-2
-3
-1
-2
-3
-1
-2
-3
-1
-1
-2
-3
-4
-1
-1
-2
-1
-2
+272386	2a
+272389	2b1
+272391	2b2
 3
 1
 1
@@ -5138,62 +18950,171 @@
 2
 3
 1
-1
 2
 1
 1
 2
 3
-4
-5
 1
 2
 3
+1
+2
+272418	1a
+272421	1b1
+272423	1b2
+272425	1b3
+272427	2a
+272429	2b
+272431	3a
+272433	3b
+272435	1a
+272437	1b
+272439	2a
+272441	2b
+272443	3a
+272445	3b
+272447	4a
+272449	4b
+272451	5a
+272453	5b
+1
+272457	2a1
+272459	2a2
+272461	2a3
+272464	2b1
+272466	2b2
+272468	3a
+272470	3b
 4
 5
 6
 1
 1
-1
-268794	1a
-268797	1b1
-268799	1b2
-268801	2a
-268804	2b1
-268806	2b2
-268808	2c
-1
+272477	1a
+272479	1b
+272481	2a
+272483	2b
+272485	3a
+272487	3b
 1
 1
 2
-1
-1
-1
-2
-1
-1
-1
-2
-1
-1
-268824	1a
-268828	1b1A
-268831	1b1B1
-268833	1b1B2
-268835	1b1B3
-268837	1b1B4
-268840	1b2A
-268842	1b2B
-268844	2a
-268848	2b1A
-268850	2b1B
-268853	2b2A
-268856	2b2B1
-268858	2b2B2
-1
-268861	2a
-268863	2b
 3
+1
+1
+2
+1
+1
+1
+2
+1
+2
+1
+1
+2
+1
+272506	2a
+272508	2b
+272510	3a
+272512	3b
+272514	4a
+272516	4b
+1
+2
+272520	1a
+272522	1b
+272524	2a
+272526	2b
+272528	3a
+272530	3b
+1
+2
+3
+1
+1
+272537	2a
+272539	2b
+3
+1
+2
+1
+1
+2
+1
+1
+2
+3
+1
+2
+1
+1
+2
+3
+1
+2
+272559	3a
+272561	3b
+1
+1
+1
+2
+1
+1
+2
+1
+1
+2
+1
+1
+1
+1
+2
+1
+1
+2
+1
+2
+3
+1
+2
+1
+1
+1
+2
+1
+1
+1
+2
+1
+1
+1
+2
+3
+4
+1
+1
+2
+3
+4
+272605	1a
+272607	1b
+2
+1
+2
+1
+1
+1
+1
+1
+2
+3
+4
+1
+2
+1
+2
+1
 1
 2
 3
@@ -5201,53 +19122,6 @@
 5
 1
 2
-3
-4
-268875	1a
-268877	1b
-2
-1
-2
-1
-2
-1
-2
-1
-2
-3
-268889	1a
-268891	1b
-268894	1c1
-268896	1c2
-268898	2a
-268900	2b
-3
-1
-1
-1
-1
-2
-3
-1
-2
-1
-1
-1
-2
-1
-1
-268917	1a
-268919	1b
-268921	2a
-268923	2b
-268925	3a
-268927	3b
-1
-2
-1
-1
-268933	2a
-268935	2b
 1
 1
 1
@@ -5257,37 +19131,54 @@
 2
 3
 1
-2
-268947	1a
-268949	1b
+1
 2
 1
 1
 2
+3
 1
-268956	1a
-268959	1b1
-268961	1b2
+2
+3
+1
+2
+3
+1
+2
+3
 1
 1
 2
 3
 4
 1
+1
 2
 1
-268971	1a
-268973	1b
-268975	2a
-268977	2b
-268979	3a
-268982	3b1
-268984	3b2
-268986	4a
-268988	4b
-268990	5a
-268992	5b
+2
+3
 1
+1
+2
+3
+1
+2
+3
+1
+2
+3
+1
+2
+3
+1
+1
+2
+1
+1
+2
+3
+4
+5
 1
 2
 3
@@ -5296,10 +19187,152 @@
 6
 1
 1
-269003	1a
-269005	1b
-269007	2a
-269009	2b
+1
+272698	1a
+272701	1b1
+272703	1b2
+272705	2a
+272708	2b1
+272710	2b2
+272712	2c
+1
+1
+1
+2
+1
+1
+1
+2
+1
+1
+1
+2
+1
+1
+272728	1a
+272732	1b1A
+272735	1b1B1
+272737	1b1B2
+272739	1b1B3
+272741	1b1B4
+272744	1b2A
+272746	1b2B
+272748	2a
+272752	2b1A
+272754	2b1B
+272757	2b2A
+272760	2b2B1
+272762	2b2B2
+1
+272765	2a
+272767	2b
+3
+1
+2
+3
+4
+5
+1
+2
+3
+4
+272779	1a
+272781	1b
+2
+1
+2
+1
+2
+1
+2
+1
+2
+3
+272793	1a
+272795	1b
+272798	1c1
+272800	1c2
+272802	2a
+272804	2b
+3
+1
+1
+1
+1
+2
+3
+1
+2
+1
+1
+1
+2
+1
+1
+272821	1a
+272823	1b
+272825	2a
+272827	2b
+272829	3a
+272831	3b
+1
+2
+1
+1
+272837	2a
+272839	2b
+1
+1
+1
+2
+1
+1
+2
+3
+1
+2
+272851	1a
+272853	1b
+2
+1
+1
+2
+1
+272860	1a
+272863	1b1
+272865	1b2
+1
+1
+2
+3
+4
+1
+2
+1
+272875	1a
+272877	1b
+272879	2a
+272881	2b
+272883	3a
+272886	3b1
+272888	3b2
+272890	4a
+272892	4b
+272894	5a
+272896	5b
+1
+1
+2
+3
+4
+5
+6
+1
+1
+272907	1a
+272909	1b
+272911	2a
+272913	2b
 1
 1
 1
@@ -5317,10 +19350,10 @@
 1
 2
 1
-269028	1a
-269030	1b
-269032	2a
-269034	2b
+272932	1a
+272934	1b
+272936	2a
+272938	2b
 3
 1
 2
@@ -5346,8 +19379,8 @@
 3
 4
 5
-269061	1a
-269063	1b
+272965	1a
+272967	1b
 2
 1
 1
@@ -5361,24 +19394,24 @@
 4
 5
 1
-269078	2a
-269080	2b
-269082	3a
-269084	3b
-269086	4a
-269088	4b
+272982	2a
+272984	2b
+272986	3a
+272988	3b
+272990	4a
+272992	4b
 1
-269091	2a
-269093	2b
-269095	3a
-269097	3b
-269099	4a
-269101	4b
+272995	2a
+272997	2b
+272999	3a
+273001	3b
+273003	4a
+273005	4b
 1
 2
 3
-269106	4a
-269108	4b
+273010	4a
+273012	4b
 1
 1
 2
@@ -5406,8 +19439,8 @@
 2
 3
 1
-269137	1a
-269139	1b
+273041	1a
+273043	1b
 2
 1
 2
@@ -5436,13 +19469,13 @@
 5
 6
 1
-269169	2a
-269171	2b
+273073	2a
+273075	2b
 3
-269174	4a
-269176	4b
-269178	5a
-269180	5b
+273078	4a
+273080	4b
+273082	5a
+273084	5b
 6
 1
 2
@@ -5451,8 +19484,8 @@
 1
 1
 2
-269190	3a
-269192	3b
+273094	3a
+273096	3b
 1
 2
 1
@@ -5468,347 +19501,6 @@
 1
 1
 2
-1
-1
-1
-2
-3
-4
-5
-6
-1
-2
-3
-1
-2
-3
-4
-5
-1
-1
-2
-3
-1
-1
-1
-2
-269233	1a
-269235	1b
-2
-269238	1a
-269240	1b
-1
-1
-1
-2
-3
-1
-1
-1
-2
-3
-1
-269253	1a
-269255	1b
-269257	2a
-269259	2b
-269261	2c
-1
-2
-3
-4
-269267	1a
-269269	1b
-269271	2a
-269273	2b
-269275	3a
-269277	3b
-269279	4a
-269281	4b
-5
-6
-1
-2
-3
-4
-5
-6
-1
-1
-2
-3
-1
-2
-3
-4
-5
-6
-1
-1
-2
-1
-2
-1
-2
-3
-1
-2
-3
-1
-2
-1
-2
-3
-1
-2
-3
-1
-2
-3
-4
-1
-1
-2
-3
-1
-2
-3
-4
-1
-2
-3
-1
-1
-2
-3
-1
-2
-3
-1
-1
-2
-1
-269346	1a
-269348	1b
-2
-3
-1
-2
-3
-4
-1
-1
-1
-2
-1
-1
-2
-3
-4
-1
-269366	1a
-269368	1b
-269370	2a
-269372	2b
-1
-1
-1
-2
-1
-1
-2
-3
-269382	1a
-269384	1b
-2
-269387	3a
-269389	3b
-1
-1
-2
-1
-2
-1
-2
-1
-1
-1
-2
-1
-2
-3
-4
-1
-2
-3
-1
-2
-3
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-2
-1
-1
-269426	1a
-269428	1b
-269430	2a
-269432	2b
-1
-2
-1
-1
-1
-1
-269440	1a
-269442	1b
-2
-3
-269446	4a
-269448	4b
-1
-2
-1
-1
-1
-2
-3
-1
-2
-1
-2
-3
-1
-2
-3
-1
-1
-2
-3
-1
-2
-3
-4
-5
-1
-2
-3
-4
-1
-1
-2
-3
-1
-1
-1
-2
-3
-1
-2
-3
-1
-1
-269492	1a
-269494	1b
-269497	1c1
-269499	1c2
-269501	2a
-269503	2b
-1
-1
-2
-3
-1
-2
-3
-4
-1
-2
-3
-1
-2
-269518	1a
-269521	1b1
-269523	1b2
-2
-1
-2
-3
-4
-1
-1
-1
-2
-3
-1
-2
-3
-4
-1
-2
-1
-2
-3
-4
-1
-2
-3
-4
-1
-2
-1
-2
-269553	3a
-269555	3b
-4
-1
-2
-3
-1
-2
-3
-1
-2
-3
-269567	1a
-269569	1b
-269571	2a
-269573	2b
-3
-1
-1
-2
-1
-1
-2
-1
-1
-269584	1a
-269586	1b
-269588	2a
-269590	2b
-269592	3a
-269594	3b
-269596	4a
-269598	4b
-269600	5a
-269602	5b
-1
-1
-2
-3
-1
-269609	2a
-269611	2b
-3
 1
 1
 1
@@ -5819,101 +19511,442 @@
 6
 1
 2
-1
-2
-1
-1
-269628	2a
-269631	2b1
-269633	2b2
 3
-269636	1a
-269639	1b1
-269641	1b2
-269643	1b3
-2
-3
-1
-269648	2a
-269650	2b
-1
-1
-2
-1
-1
-2
 1
 2
 3
-1
-1
-2
-1
-2
-1
-2
-1
-1
-2
-1
-2
-1
-2
-1
-2
-3
-1
-1
-1
-1
-1
-2
-3
-1
-1
-269687	1a
-269690	1b1
-269692	1b2
-269695	1c1
-269697	1c2
-269700	1d1
-269702	1d2
-269704	2a
-269706	2b
-269709	2c1
-269711	2c2
-269713	2d
-269715	3a
-269717	3b
-269719	3c
-269721	3d
 4
-269724	5a
-269726	5b
-269728	1a
-269730	1b
-269732	1c
-269734	2a
-269736	2b
-269738	2c
-269740	3a
-269743	3b1
-269745	3b2
-269747	3c
-269749	3d
-269751	4a
-269753	4b
-269755	5a
-269757	5b
-269759	5c
-269761	5d
+5
 1
-269764	2a
-269766	2b
-269768	3a
-269770	3b
-269772	4a
-269774	4b
+1
+2
+3
+1
+1
+1
+2
+273137	1a
+273139	1b
+2
+273142	1a
+273144	1b
+1
+1
+1
+2
+3
+1
+1
+1
+2
+3
+1
+273157	1a
+273159	1b
+273161	2a
+273163	2b
+273165	2c
+1
+2
+3
+4
+273171	1a
+273173	1b
+273175	2a
+273177	2b
+273179	3a
+273181	3b
+273183	4a
+273185	4b
+5
+6
+1
+2
+3
+4
+5
+6
+1
+1
+2
+3
+1
+2
+3
+4
+5
+6
+1
+1
+2
+1
+2
+1
+2
+3
+1
+2
+3
+1
+2
+1
+2
+3
+1
+2
+3
+1
+2
+3
+4
+1
+1
+2
+3
+1
+2
+3
+4
+1
+2
+3
+1
+1
+2
+3
+1
+2
+3
+1
+1
+2
+1
+273250	1a
+273252	1b
+2
+3
+1
+2
+3
+4
+1
+1
+1
+2
+1
+1
+2
+3
+4
+1
+273270	1a
+273272	1b
+273274	2a
+273276	2b
+1
+1
+1
+2
+1
+1
+2
+3
+273286	1a
+273288	1b
+2
+273291	3a
+273293	3b
+1
+1
+2
+1
+2
+1
+2
+1
+1
+1
+2
+1
+2
+3
+4
+1
+2
+3
+1
+2
+3
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+2
+1
+1
+273330	1a
+273332	1b
+273334	2a
+273336	2b
+1
+2
+1
+1
+1
+1
+273344	1a
+273346	1b
+2
+3
+273350	4a
+273352	4b
+1
+2
+1
+1
+1
+2
+3
+1
+2
+1
+2
+3
+1
+2
+3
+1
+1
+2
+3
+1
+2
+3
+4
+5
+1
+2
+3
+4
+1
+1
+2
+3
+1
+1
+1
+2
+3
+1
+2
+3
+1
+1
+273396	1a
+273398	1b
+273401	1c1
+273403	1c2
+273405	2a
+273407	2b
+1
+1
+2
+3
+1
+2
+3
+4
+1
+2
+3
+1
+2
+273422	1a
+273425	1b1
+273427	1b2
+2
+1
+2
+3
+4
+1
+1
+1
+2
+3
+1
+2
+3
+4
+1
+2
+1
+2
+3
+4
+1
+2
+3
+4
+1
+2
+1
+2
+273457	3a
+273459	3b
+4
+1
+2
+3
+1
+2
+3
+1
+2
+3
+273471	1a
+273473	1b
+273475	2a
+273477	2b
+3
+1
+1
+2
+1
+1
+2
+1
+1
+273488	1a
+273490	1b
+273492	2a
+273494	2b
+273496	3a
+273498	3b
+273500	4a
+273502	4b
+273504	5a
+273506	5b
+1
+1
+2
+3
+1
+273513	2a
+273515	2b
+3
+1
+1
+1
+2
+3
+4
+5
+6
+1
+2
+1
+2
+1
+1
+273532	2a
+273535	2b1
+273537	2b2
+3
+273540	1a
+273543	1b1
+273545	1b2
+273547	1b3
+2
+3
+1
+273552	2a
+273554	2b
+1
+1
+2
+1
+1
+2
+1
+2
+3
+1
+1
+2
+1
+2
+1
+2
+1
+1
+2
+1
+2
+1
+2
+1
+2
+3
+1
+1
+1
+1
+1
+2
+3
+1
+1
+273591	1a
+273594	1b1
+273596	1b2
+273599	1c1
+273601	1c2
+273604	1d1
+273606	1d2
+273608	2a
+273610	2b
+273613	2c1
+273615	2c2
+273617	2d
+273619	3a
+273621	3b
+273623	3c
+273625	3d
+4
+273628	5a
+273630	5b
+273632	1a
+273634	1b
+273636	1c
+273638	2a
+273640	2b
+273642	2c
+273644	3a
+273647	3b1
+273649	3b2
+273651	3c
+273653	3d
+273655	4a
+273657	4b
+273659	5a
+273661	5b
+273663	5c
+273665	5d
+1
+273668	2a
+273670	2b
+273672	3a
+273674	3b
+273676	4a
+273678	4b
 5
 6
 1
@@ -5923,9 +19956,9 @@
 1
 1
 1
-269785	1a
-269788	1b1
-269790	1b2
+273689	1a
+273692	1b1
+273694	1b2
 2
 1
 1
@@ -5946,50 +19979,50 @@
 5
 1
 2
-269812	3a
-269814	3b
-269816	4a
-269818	4b
-269820	5a
-269822	5b
-269824	6a
-269827	6b1
-269829	6b2
-269831	6b3
-269833	1a
-269835	1b
-269837	2a
-269839	2b
-269841	3a
-269843	3b
-269845	4a
-269847	4b
-269849	5a
-269851	5b
-269853	6a
-269855	6b
-269857	7a
-269859	7b
+273716	3a
+273718	3b
+273720	4a
+273722	4b
+273724	5a
+273726	5b
+273728	6a
+273731	6b1
+273733	6b2
+273735	6b3
+273737	1a
+273739	1b
+273741	2a
+273743	2b
+273745	3a
+273747	3b
+273749	4a
+273751	4b
+273753	5a
+273755	5b
+273757	6a
+273759	6b
+273761	7a
+273763	7b
 8
-269862	9a
-269864	9b
-269866	1a
-269869	1b1
-269871	1b2
-269873	2a
-269875	2b
-269878	3a1
-269880	3a2
-269882	3b
-269884	4a
-269886	4b
-269889	5a1
-269891	5a2
-269893	5b
-269895	6a
-269897	6b
-269899	7a
-269901	7b
+273766	9a
+273768	9b
+273770	1a
+273773	1b1
+273775	1b2
+273777	2a
+273779	2b
+273782	3a1
+273784	3a2
+273786	3b
+273788	4a
+273790	4b
+273793	5a1
+273795	5a2
+273797	5b
+273799	6a
+273801	6b
+273803	7a
+273805	7b
 1
 2
 3
@@ -6025,27 +20058,27 @@
 1
 1
 1
-269938	1a
-269941	1b1
-269943	1b2
-269945	2a
-269948	2b1
-269950	2b2
+273842	1a
+273845	1b1
+273847	1b2
+273849	2a
+273852	2b1
+273854	2b2
 1
 2
-269954	1a
-269957	1b1
-269959	1b2
-269961	2a
-269964	2b1
-269966	2b2
-269968	2b3
-269970	2b4
+273858	1a
+273861	1b1
+273863	1b2
+273865	2a
+273868	2b1
+273870	2b2
+273872	2b3
+273874	2b4
 1
 1
-269975	2a1
-269977	2a2
-269979	2b
+273879	2a1
+273881	2a2
+273883	2b
 3
 1
 2
@@ -6066,9 +20099,9 @@
 1
 1
 1
-270001	2a
-270004	2b1
-270006	2b2
+273905	2a
+273908	2b1
+273910	2b2
 1
 2
 1
@@ -6133,11 +20166,11 @@
 1
 1
 2
-270072	1a
-270075	1b1
-270077	1b2
-270079	2a
-270081	2b
+273976	1a
+273979	1b1
+273981	1b2
+273983	2a
+273985	2b
 1
 1
 1
@@ -6154,8 +20187,8 @@
 4
 5
 1
-270099	1a
-270101	1b
+274003	1a
+274005	1b
 2
 1
 2
@@ -6166,103 +20199,6 @@
 1
 2
 1
-1
-2
-3
-4
-5
-6
-1
-2
-3
-4
-5
-6
-1
-1
-1
-270128	1a
-270130	1b
-270132	2a
-270135	2b1
-270137	2b2
-270139	3a
-270142	3b1
-270144	3b2
-4
-5
-270148	1a
-270150	1b
-270152	2a
-270155	2b1
-270157	2b2
-3
-4
-5
-270162	1a
-270164	1b
-270166	2a
-270168	2b
-270170	3a
-270172	3b
-270174	4a
-270176	4b
-1
-2
-3
-1
-2
-3
-1
-1
-2
-1
-270188	2a
-270190	2b
-270192	3a
-270194	3b
-1
-2
-3
-1
-1
-1
-2
-1
-1
-1
-2
-270208	1a1
-270210	1a2
-270212	1b
-270215	2a1
-270217	2a2
-270219	2b
-1
-1
-2
-3
-1
-2
-1
-1
-2
-1
-1
-1
-2
-270234	3a
-270237	3b1
-270239	3b2
-1
-2
-3
-1
-2
-1
-1
-2
-3
 1
 2
 3
@@ -6272,6 +20208,103 @@
 1
 2
 3
+4
+5
+6
+1
+1
+1
+274032	1a
+274034	1b
+274036	2a
+274039	2b1
+274041	2b2
+274043	3a
+274046	3b1
+274048	3b2
+4
+5
+274052	1a
+274054	1b
+274056	2a
+274059	2b1
+274061	2b2
+3
+4
+5
+274066	1a
+274068	1b
+274070	2a
+274072	2b
+274074	3a
+274076	3b
+274078	4a
+274080	4b
+1
+2
+3
+1
+2
+3
+1
+1
+2
+1
+274092	2a
+274094	2b
+274096	3a
+274098	3b
+1
+2
+3
+1
+1
+1
+2
+1
+1
+1
+2
+274112	1a1
+274114	1a2
+274116	1b
+274119	2a1
+274121	2a2
+274123	2b
+1
+1
+2
+3
+1
+2
+1
+1
+2
+1
+1
+1
+2
+274138	3a
+274141	3b1
+274143	3b2
+1
+2
+3
+1
+2
+1
+1
+2
+3
+1
+2
+3
+4
+5
+6
+1
+2
+3
 1
 2
 3
@@ -6299,8 +20332,8 @@
 3
 4
 1
-270286	1a
-270288	1b
+274190	1a
+274192	1b
 2
 1
 1
@@ -6441,8 +20474,8 @@
 1
 1
 1
-270430	2
-270432	2a
+274334	2
+274336	2a
 3
 1
 1
@@ -6473,30 +20506,30 @@
 3b7
 3b8
 3b9
-270464	1a
-270467	1b1
-270469	1b2
+274368	1a
+274371	1b1
+274373	1b2
 2
 3
 1
 2
 3
 1
-270477	1a
-270479	1b
-270481	2a
-270484	2b1
-270486	2b2
-270488	1a
-270490	1b
-270492	2a
-270495	2b1
-270497	2b2
+274381	1a
+274383	1b
+274385	2a
+274388	2b1
+274390	2b2
+274392	1a
+274394	1b
+274396	2a
+274399	2b1
+274401	2b2
 1
 2
 1
-270502	2a
-270504	2b
+274406	2a
+274408	2b
 3
 1
 2
@@ -6505,16 +20538,16 @@
 5
 1
 2
-270514	1a
-270516	1b
-270518	2a
-270520	2b
-270522	3a
-270524	3b
-270526	4a
-270528	4b
-270530	5a
-270532	5b
+274418	1a
+274420	1b
+274422	2a
+274424	2b
+274426	3a
+274428	3b
+274430	4a
+274432	4b
+274434	5a
+274436	5b
 1
 2
 3
@@ -6535,15 +20568,15 @@
 1
 2
 1
-270554	1a
-270556	1b
-270558	1a
-270561	1b1
-270563	1b2
-270565	2a
-270567	2b
-270569	3a
-270571	3b
+274458	1a
+274460	1b
+274462	1a
+274465	1b1
+274467	1b2
+274469	2a
+274471	2b
+274473	3a
+274475	3b
 1
 1
 1
@@ -6565,58 +20598,58 @@
 2
 1
 1
-270594	1a
-270596	1b
-270598	1c
-270601	1d1
-270603	1d2
-270605	2a
-270607	2b
-270609	2c
-270611	3a
-270613	3b
-270615	4a
-270618	4b1
-270620	4b2
-270622	4c
-270624	1a
-270626	1b
-270628	1c
-270630	1d
-270632	2a
-270634	2b
-270636	2c
+274498	1a
+274500	1b
+274502	1c
+274505	1d1
+274507	1d2
+274509	2a
+274511	2b
+274513	2c
+274515	3a
+274517	3b
+274519	4a
+274522	4b1
+274524	4b2
+274526	4c
+274528	1a
+274530	1b
+274532	1c
+274534	1d
+274536	2a
+274538	2b
+274540	2c
 3
 4
 1
-270641	2a
-270643	2b
-270647	3a1A
-270649	3a1B
-270651	3a2
-270653	3b
+274545	2a
+274547	2b
+274551	3a1A
+274553	3a1B
+274555	3a2
+274557	3b
 4
 5
 6
-270658	7a
-270660	7b
-270662	8a
-270664	8b
+274562	7a
+274564	7b
+274566	8a
+274568	8b
 9
 1
-270668	2a
-270670	2b
-270672	3a
-270674	3b
-270676	4a
-270679	4b1
-270681	4b2
-270686	1a1A1
-270688	1a1A2
-270690	1a1B
-270693	1a2A
-270695	1a2B
-270697	1b
+274572	2a
+274574	2b
+274576	3a
+274578	3b
+274580	4a
+274583	4b1
+274585	4b2
+274590	1a1A1
+274592	1a1A2
+274594	1a1B
+274597	1a2A
+274599	1a2B
+274601	1b
 1
 2
 3
@@ -6742,13 +20775,13 @@
 123
 124
 125
-270824	a001
-270826	a002
-270828	a003
-270830	a004
-270832	a005
-270834	a006
-270836	a007
+274728	a001
+274730	a002
+274732	a003
+274734	a004
+274736	a005
+274738	a006
+274740	a007
 1
 1
 1
@@ -9327,14 +23360,14 @@
 95
 96
 97
-273416	a001
-273418	a002
-273420	a003
-273422	a004
-273424	a005
-273426	b001
-273428	b002
-273430	b003
+277320	a001
+277322	a002
+277324	a003
+277326	a004
+277328	a005
+277330	b001
+277332	b002
+277334	b003
 1'
 2'
 1
@@ -9528,10 +23561,10 @@
 91
 92
 93
-273625	A1
-273627	A2
-273629	A3
-273631	A4
+277529	A1
+277531	A2
+277533	A3
+277535	A4
 1'
 2'
 3'
@@ -9606,25 +23639,25 @@
 54
 55
 56
-273707	a001
-273709	a002
-273711	a003
-273713	a004
-273715	a005
-273717	a006
-273719	a007
-273721	a008
-273723	b001
-273725	b002
-273727	b003
-273729	c001
-273731	c002
-273733	c003
-273735	c004
-273737	c005
-273739	c006
-273741	c007
-273743	c008
+277611	a001
+277613	a002
+277615	a003
+277617	a004
+277619	a005
+277621	a006
+277623	a007
+277625	a008
+277627	b001
+277629	b002
+277631	b003
+277633	c001
+277635	c002
+277637	c003
+277639	c004
+277641	c005
+277643	c006
+277645	c007
+277647	c008
 1'
 2'
 3'
@@ -9742,17 +23775,17 @@
 67
 68
 69
-273862	70
-273864	70a
-273866	71
-273868	71a
+277766	70
+277768	70a
+277770	71
+277772	71a
 72
 73
 74
 75
-273874	76
-273876	76a
-273878	76b
+277778	76
+277780	76a
+277782	76b
 77
 78
 79
@@ -11529,18 +25562,18 @@
 46
 47
 48
-275656	49
-275658	49a
-275660	49b
+279560	49
+279562	49a
+279564	49b
 50
 51
 52
 53
 54
 55
-275668	56
-275670	56a
-275672	56b
+279572	56
+279574	56a
+279576	56b
 57
 58
 59
@@ -11578,9 +25611,9 @@
 120
 121
 122
-275711	A1
-275713	A2
-275715	A3
+279615	A1
+279617	A2
+279619	A3
 1
 2
 1
@@ -12135,36 +26168,36 @@
 32
 33
 34
-276271	A1
-276273	A2
-276275	A3
-276277	B1
-276279	B2
-276281	B3
-276283	B4
-276285	B5
-276287	C1
-276289	C2
-276291	C3
-276293	C4
-276295	C5
-276297	C6
-276299	C7
-276301	D1
-276303	D2
-276305	D3
-276307	D4
-276309	D5
-276311	D6
-276313	D7
-276315	D8
-276317	D9
-276319	D10
-276321	D11
-276323	D12
-276325	E1
-276327	E2
-276329	E3
+280175	A1
+280177	A2
+280179	A3
+280181	B1
+280183	B2
+280185	B3
+280187	B4
+280189	B5
+280191	C1
+280193	C2
+280195	C3
+280197	C4
+280199	C5
+280201	C6
+280203	C7
+280205	D1
+280207	D2
+280209	D3
+280211	D4
+280213	D5
+280215	D6
+280217	D7
+280219	D8
+280221	D9
+280223	D10
+280225	D11
+280227	D12
+280229	E1
+280231	E2
+280233	E3
 1
 2
 3
@@ -12641,8 +26674,8 @@
 3'
 1'
 2'
-276807	3a'
-276809	3b'
+280711	3a'
+280713	3b'
 4'
 5'
 1'
@@ -14377,8 +28410,8 @@
 56
 57
 58
-278545	A1
-278547	A2
+282449	A1
+282451	A2
 1
 2
 1
@@ -14399,115 +28432,115 @@
 16'
 17'
 1
-278569	1a
-278571	1b
-278573	2a
-278575	2b
-278577	3a
-278580	3b1
-278582	3b2
-278584	4a
-278587	4b1
-278589	4b2
-278591	5a
-278593	5b
-278595	6a
-278597	6b
-278599	1a
-278602	1b01
-278604	1b02
-278606	1b03
-278608	1b04
-278610	1b05
-278612	1b06
-278614	1b07
-278616	1b08
-278618	1b09
-278620	1b10
-278622	1b11
-278624	1b12
-278626	1b13
-278628	1b14
-278630	1b15
-278632	1b16
-278634	1b17
-278636	1b18
-278638	1b19
-278640	1b20
-278642	1b21
-278644	1b22
-278646	1b23
-278648	1b24
-278650	1b25
-278652	1b26
-278654	1b27
-278656	1b28
-278658	1b29
-278660	1b30
-278662	1b31
-278664	1b32
-278666	2a
-278669	2b1
-278671	2b2
-278673	2b3
-278675	2b4
-278677	2b5
-278679	2b6
-278681	2b7
-278683	2b8
-278685	2b9
-278687	3a
-278690	3b1
-278692	3b2
-278694	3b3
-278696	3b4
-278698	3b5
-278700	3b6
-278702	3b7
-278704	4a
-278707	4b1
-278709	4b2
-278711	5a
-278714	5b01
-278716	5b02
-278718	5b03
-278720	5b04
-278722	5b05
-278724	5b06
-278726	5b07
-278728	5b08
-278730	5b09
-278732	5b10
-278734	5b11
-278736	5b12
-278738	1a
-278741	1b01
-278743	1b02
-278745	1b03
-278747	1b04
-278749	1b05
-278751	1b06
-278753	1b07
-278755	1b08
-278757	1b09
-278759	1b10
-278761	1b11
-278763	2a
-278766	2b1
-278768	2b2
-278770	3a
-278773	3b1
-278775	3b2
-278777	3b3
-278779	4a
-278782	4b1
-278784	4b2
-278786	4b3
-278788	5a
-278791	5b1
-278793	5b2
-278795	5b3
-278797	5b4
+282473	1a
+282475	1b
+282477	2a
+282479	2b
+282481	3a
+282484	3b1
+282486	3b2
+282488	4a
+282491	4b1
+282493	4b2
+282495	5a
+282497	5b
+282499	6a
+282501	6b
+282503	1a
+282506	1b01
+282508	1b02
+282510	1b03
+282512	1b04
+282514	1b05
+282516	1b06
+282518	1b07
+282520	1b08
+282522	1b09
+282524	1b10
+282526	1b11
+282528	1b12
+282530	1b13
+282532	1b14
+282534	1b15
+282536	1b16
+282538	1b17
+282540	1b18
+282542	1b19
+282544	1b20
+282546	1b21
+282548	1b22
+282550	1b23
+282552	1b24
+282554	1b25
+282556	1b26
+282558	1b27
+282560	1b28
+282562	1b29
+282564	1b30
+282566	1b31
+282568	1b32
+282570	2a
+282573	2b1
+282575	2b2
+282577	2b3
+282579	2b4
+282581	2b5
+282583	2b6
+282585	2b7
+282587	2b8
+282589	2b9
+282591	3a
+282594	3b1
+282596	3b2
+282598	3b3
+282600	3b4
+282602	3b5
+282604	3b6
+282606	3b7
+282608	4a
+282611	4b1
+282613	4b2
+282615	5a
+282618	5b01
+282620	5b02
+282622	5b03
+282624	5b04
+282626	5b05
+282628	5b06
+282630	5b07
+282632	5b08
+282634	5b09
+282636	5b10
+282638	5b11
+282640	5b12
+282642	1a
+282645	1b01
+282647	1b02
+282649	1b03
+282651	1b04
+282653	1b05
+282655	1b06
+282657	1b07
+282659	1b08
+282661	1b09
+282663	1b10
+282665	1b11
+282667	2a
+282670	2b1
+282672	2b2
+282674	3a
+282677	3b1
+282679	3b2
+282681	3b3
+282683	4a
+282686	4b1
+282688	4b2
+282690	4b3
+282692	5a
+282695	5b1
+282697	5b2
+282699	5b3
+282701	5b4
 6
 1
 2
@@ -14532,29 +28565,29 @@
 1
 1
 1
-278823	1a
-278825	1b
-278827	1c
-278829	1d
-278831	2a
-278833	2b
-278835	2c
-278837	2d
-278839	3a
-278841	3b
-278843	3c
-278845	3d
-278847	4a
-278849	4b
-278851	4c
-278853	4d
-278855	5a
-278857	5b
-278859	5c
-278861	5d
+282727	1a
+282729	1b
+282731	1c
+282733	1d
+282735	2a
+282737	2b
+282739	2c
+282741	2d
+282743	3a
+282745	3b
+282747	3c
+282749	3d
+282751	4a
+282753	4b
+282755	4c
+282757	4d
+282759	5a
+282761	5b
+282763	5c
+282765	5d
 1
-278864	1a
-278866	1b
+282768	1a
+282770	1b
 2
 3
 4
@@ -14684,10 +28717,10 @@
 3
 4
 5
-278997	6a
-278999	6b
-279001	7a
-279003	7b
+282901	6a
+282903	6b
+282905	7a
+282907	7b
 8
 9
 1
@@ -14696,10 +28729,10 @@
 4
 5
 6
-279013	7a
-279015	7b
-279017	8a
-279019	8b
+282917	7a
+282919	7b
+282921	8a
+282923	8b
 9
 1
 2
@@ -14769,20 +28802,20 @@
 3
 4
 5
-279090	1a
-279093	1b1
-279095	1b2
-279097	1b3
-279099	2a
-279102	2b1
-279104	2b2
-279106	1a
-279108	1b
-279110	2a
-279112	2b
-279114	3a
-279116	3b
-279118	3c
+282994	1a
+282997	1b1
+282999	1b2
+283001	1b3
+283003	2a
+283006	2b1
+283008	2b2
+283010	1a
+283012	1b
+283014	2a
+283016	2b
+283018	3a
+283020	3b
+283022	3c
 4
 5
 6
@@ -14862,53 +28895,53 @@
 3
 1
 2
-279199	1a
-279202	1b1
-279204	1b2
-279206	1b3
-279208	1b4
-279210	1b5
+283103	1a
+283106	1b1
+283108	1b2
+283110	1b3
+283112	1b4
+283114	1b5
 2
 3
 4
 5
 6
-279217	1a
-279220	1b1
-279222	1b2
-279224	1b3
-279226	1b4
-279228	1b5
+283121	1a
+283124	1b1
+283126	1b2
+283128	1b3
+283130	1b4
+283132	1b5
 2
 3
 4
-5
-6
-7
-8
-9
-279238	1a
-279241	1b1
-279243	1b2
-279245	1b3
-2
-3
-279249	4a
-279252	4b1
-279254	4b2
-279256	4b3
-279258	4b4
 5
 6
 7
 8
 9
+283142	1a
+283145	1b1
+283147	1b2
+283149	1b3
+2
+3
+283153	4a
+283156	4b1
+283158	4b2
+283160	4b3
+283162	4b4
+5
+6
+7
+8
+9
 1
 2
 3
-279268	4a
-279271	4b1
-279273	4b2
+283172	4a
+283175	4b1
+283177	4b2
 5
 6
 1
@@ -14917,9 +28950,9 @@
 2
 3
 4
-279283	5a
-279286	5b1
-279288	5b2
+283187	5a
+283190	5b1
+283192	5b2
 1
 2
 3
@@ -14950,13 +28983,13 @@
 1
 2
 3
-279320	1a
-279322	1b
-279324	2b
-279326	3a
-279328	3b
-279330	4a
-279332	4b
+283224	1a
+283226	1b
+283228	2b
+283230	3a
+283232	3b
+283234	4a
+283236	4b
 1
 2
 3
@@ -14983,9 +29016,9 @@
 3
 4
 5
-279360	1a
-279363	1b1
-279365	1b2
+283264	1a
+283267	1b1
+283269	1b2
 2
 1
 2
@@ -14997,53 +29030,53 @@
 1
 1
 2
-279378	3a
-279380	3b
-4
-5
-6
-1
-279386	2a
-279388	2b
-3
-4
-5
-1
-1
-2
-3
-1
-2
-3
-4
-5
-1
-2
-1
-2
-1
-1
-2
-1
-2
-3
-4
-1
-2
-1
-2
-3
+283282	3a
+283284	3b
 4
 5
 6
 1
+283290	2a
+283292	2b
+3
+4
+5
+1
+1
+2
+3
+1
+2
+3
+4
+5
+1
+2
+1
 2
 1
 1
 2
-279426	3a
-279429	3b1
-279431	3b2
+1
+2
+3
+4
+1
+2
+1
+2
+3
+4
+5
+6
+1
+2
+1
+1
+2
+283330	3a
+283333	3b1
+283335	3b2
 1
 2
 3
@@ -15067,15 +29100,15 @@
 3
 4
 5
-279456	6a
-279459	6b1
-279461	6b2
-279463	7a
-279466	7b1
-279468	7b2
-279470	8a
-279473	8b1
-279475	8b2
+283360	6a
+283363	6b1
+283365	6b2
+283367	7a
+283370	7b1
+283372	7b2
+283374	8a
+283377	8b1
+283379	8b2
 9
 10
 11
@@ -15093,9 +29126,9 @@
 3
 4
 5
-279494	6a
-279497	6b1
-279499	6b2
+283398	6a
+283401	6b1
+283403	6b2
 1
 2
 3
@@ -15109,14 +29142,14 @@
 2
 3
 4
-279514	5a
-279516	5b
+283418	5a
+283420	5b
 1
 2
 3
-279521	4a
-279524	4b1
-279526	4b2
+283425	4a
+283428	4b1
+283430	4b2
 1
 2
 3
@@ -15124,32 +29157,32 @@
 5
 6
 1
-279535	1a
-279538	1b1
-279540	1b2
-279542	1b3
+283439	1a
+283442	1b1
+283444	1b2
+283446	1b3
 2
-279545	1a
-279548	1b1
-279550	1b2
+283449	1a
+283452	1b1
+283454	1b2
 2
 3
-279554	4a
-279557	4b1
-279559	4b2
+283458	4a
+283461	4b1
+283463	4b2
 5
-279563	6a1
-279565	6a2
-279567	1a
-279570	1b1
-279572	1b2
-279574	1b3
-279576	1b4
-279578	1b5
-279580	1b6
-279582	2a
-279584	2b
-279586	2c
+283467	6a1
+283469	6a2
+283471	1a
+283474	1b1
+283476	1b2
+283478	1b3
+283480	1b4
+283482	1b5
+283484	1b6
+283486	2a
+283488	2b
+283490	2c
 1
 2
 3
@@ -15162,41 +29195,36 @@
 1
 2
 3
-279601	1a1
-279603	1a2
-279606	1b1
-279608	1b2
-279610	1b3
+283505	1a1
+283507	1a2
+283510	1b1
+283512	1b2
+283514	1b3
 2
 1
-279614	1a
-279617	1b1
-279619	1b2
-279621	1b3
-279623	2a
-279626	2b1
-279628	2b2
-279630	2b3
-279633	2c1
-279635	2c2
+283518	1a
+283521	1b1
+283523	1b2
+283525	1b3
+283527	2a
+283530	2b1
+283532	2b2
+283534	2b3
+283537	2c1
+283539	2c2
 1
-279638	1a
-279640	1b
+283542	1a
+283544	1b
 1
 1
-1
-2
-3
 1
 2
 3
-4
-1
 1
 2
 3
 4
-5
+1
 1
 2
 3
@@ -15205,26 +29233,31 @@
 1
 2
 3
-279665	1a
-279668	1b1
-279670	1b2
-279672	2a
-279675	2b1
-279677	2b2
-3
 4
-279681	1a
-279684	1b1
-279686	1b2
-279688	2a
-279691	2b1
-279693	2b2
+5
 1
 2
 3
-279698	1a
-279700	1b
-279702	1c
+283569	1a
+283572	1b1
+283574	1b2
+283576	2a
+283579	2b1
+283581	2b2
+3
+4
+283585	1a
+283588	1b1
+283590	1b2
+283592	2a
+283595	2b1
+283597	2b2
+1
+2
+3
+283602	1a
+283604	1b
+283606	1c
 2
 3
 4
@@ -15245,23 +29278,23 @@
 1
 2
 3
-279724	4a
-279727	4b1
-279729	4b2
+283628	4a
+283631	4b1
+283633	4b2
 5
 1
 2
 3
 4
 5
-279737	1a
-279740	1b1
-279742	1b2
-279744	1b3
-279747	1c1
-279749	1c2
-279751	1c3
-279753	1c4
+283641	1a
+283644	1b1
+283646	1b2
+283648	1b3
+283651	1c1
+283653	1c2
+283655	1c3
+283657	1c4
 2a
 2b1
 2c1a
@@ -15276,35 +29309,13 @@
 2
 3
 1
-279769	1
-279772	1b1
-279774	1b2
+283673	1
+283676	1b1
+283678	1b2
 2
-279777	1a
-279780	1b1
-279782	1b2
-1
-2
-3
-4
-5
-6
-1
-1
-1
-1
-1
-279795	1a
-279798	1b1
-279800	1b2
-2
-3
-1
-2
-1
-2
-3
-4
+283681	1a
+283684	1b1
+283686	1b2
 1
 2
 3
@@ -15313,6 +29324,28 @@
 6
 1
 1
+1
+1
+1
+283699	1a
+283702	1b1
+283704	1b2
+2
+3
+1
+2
+1
+2
+3
+4
+1
+2
+3
+4
+5
+6
+1
+1
 2
 1
 2
@@ -15321,55 +29354,55 @@
 1
 1
 2
-279826	1a
-279828	1b
-279830	2a
-279832	2b
-279834	3a
-279836	3b
+283730	1a
+283732	1b
+283734	2a
+283736	2b
+283738	3a
+283740	3b
 1
 2
 3
 
-279842	1a
-279844	1b
-279846	2a
-279848	2b
-279850	3a
-279852	3b
-279854	4a
-279856	4b
-279858	5a
-279860	5b
-279862	6a
-279864	6b
-279866	7a
-279868	7b
-279870	1a
-279872	1b
-279874	2a
-279876	2b
-279878	3a
-279880	3b
-279882	4a
-279884	4b
-279886	5a
-279888	5b
-279890	6a
-279892	6b
-279894	7a
-279896	7b
-279898	8a
-279900	8b
-279902	9a
-279904	9b
-279906	10a
-279908	10b
-279910	1a
-279912	1b
+283746	1a
+283748	1b
+283750	2a
+283752	2b
+283754	3a
+283756	3b
+283758	4a
+283760	4b
+283762	5a
+283764	5b
+283766	6a
+283768	6b
+283770	7a
+283772	7b
+283774	1a
+283776	1b
+283778	2a
+283780	2b
+283782	3a
+283784	3b
+283786	4a
+283788	4b
+283790	5a
+283792	5b
+283794	6a
+283796	6b
+283798	7a
+283800	7b
+283802	8a
+283804	8b
+283806	9a
+283808	9b
+283810	10a
+283812	10b
+283814	1a
+283816	1b
 2
-279915	3a
-279917	3b
+283819	3a
+283821	3b
 4
 5
 6
@@ -15395,31 +29428,31 @@
 3
 1
 1
-279944	1a
-279946	1b
-279948	2a
-279950	2b
-279952	3a
-279954	3b
-279956	4a
-279959	4b1
-279961	4b2
-279963	5a
-279965	5b
+283848	1a
+283850	1b
+283852	2a
+283854	2b
+283856	3a
+283858	3b
+283860	4a
+283863	4b1
+283865	4b2
+283867	5a
+283869	5b
 1
 1
 2
 3
 4
-279972	1a
-279974	1b
-279976	2a
-279978	2b
-279980	3a
-279982	3b
+283876	1a
+283878	1b
+283880	2a
+283882	2b
+283884	3a
+283886	3b
 4
-279985	5a
-279987	5b
+283889	5a
+283891	5b
 1
 2
 1
@@ -15456,9 +29489,9 @@
 2
 1
 1
-280025	1a
-280027	1b
-280029	1c
+283929	1a
+283931	1b
+283933	1c
 2
 3
 1
@@ -15472,24 +29505,24 @@
 1
 1
 2
-280044	1a
-280047	1b1
-280049	1b2
-2
-3
-4
-5
-1
-280056	2a
-280058	2b
-1
-1
-1
+283948	1a
+283951	1b1
+283953	1b2
 2
 3
 4
 5
 1
+283960	2a
+283962	2b
+1
+1
+1
+2
+3
+4
+5
+1
 2
 3
 4
@@ -15507,55 +29540,55 @@
 1
 2
 1
-280085	1a
-280088	1b1
-280090	1b2
-280092	2a
-280094	2b
-280096	1a
-280098	1b
-280100	2a
-280102	2b
-280104	3a
-280106	3b
-280108	4a
-280110	4b
-280112	5a
-280114	5b
+283989	1a
+283992	1b1
+283994	1b2
+283996	2a
+283998	2b
+284000	1a
+284002	1b
+284004	2a
+284006	2b
+284008	3a
+284010	3b
+284012	4a
+284014	4b
+284016	5a
+284018	5b
 6
-280117	7a
-280119	7b
+284021	7a
+284023	7b
 8
 1
 2
 3
-280125	1a
-280127	1b
-280129	2a
-280131	2b
-280133	3a
-280135	3b
-280137	4a
-280139	4b
-280141	5a
-280143	5b
+284029	1a
+284031	1b
+284033	2a
+284035	2b
+284037	3a
+284039	3b
+284041	4a
+284043	4b
+284045	5a
+284047	5b
 6
-280146	1a
-280148	1b
-280150	2'a
-280152	2'b
+284050	1a
+284052	1b
+284054	2'a
+284056	2'b
 3
-280155	1a
-280158	1b1
-280160	1b2
+284059	1a
+284062	1b1
+284064	1b2
 2
-280163	3a
-280165	3b
+284067	3a
+284069	3b
 4
 5
-280169	1a
-280172	1b1
-280174	1b2
+284073	1a
+284076	1b1
+284078	1b2
 2
 3
 1
@@ -15583,23 +29616,23 @@
 1
 2
 3
-280203	4a
-280205	4b
+284107	4a
+284109	4b
 5
 6
 7
-280210	1a
-280213	1b1
-280215	1b2
-280217	1b3
-280219	2a
-280222	2b1
-280224	2b2
-280226	2b3
-280228	1a
-280231	1b1
-280233	1b2
-280235	1b3
+284114	1a
+284117	1b1
+284119	1b2
+284121	1b3
+284123	2a
+284126	2b1
+284128	2b2
+284130	2b3
+284132	1a
+284135	1b1
+284137	1b2
+284139	1b3
 1
 2
 3
@@ -15611,26 +29644,26 @@
 2
 3
 4
-280248	5a
-280250	5b
-280252	6a
-280254	6b
+284152	5a
+284154	5b
+284156	6a
+284158	6b
 1
 2
 1
-280259	1a
-280261	1b
-280263	2a
-280265	2b
-280267	3a
-280269	3b
+284163	1a
+284165	1b
+284167	2a
+284169	2b
+284171	3a
+284173	3b
 4
-280272	5a
-280274	5b
-280276	5c
-280278	1a
-280281	1b1
-280283	1b2
+284176	5a
+284178	5b
+284180	5c
+284182	1a
+284185	1b1
+284187	1b2
 2
 3
 1
@@ -15638,11 +29671,11 @@
 3
 4
 1
-280292	1a
-280294	1b
+284196	1a
+284198	1b
 2
-280297	3a
-280299	3b
+284201	3a
+284203	3b
 1
 2
 3
@@ -15663,8 +29696,8 @@
 3
 4
 5
-280321	6a
-280323	6b
+284225	6a
+284227	6b
 1
 2
 1
@@ -15680,8 +29713,8 @@
 1
 1
 2
-280340	1a
-280342	1b
+284244	1a
+284246	1b
 2
 3
 4
@@ -15711,27 +29744,27 @@
 9
 10
 1
-280373	1a
-280375	1b
-280377	2a
-280379	2b
-280381	3a
-280383	3b
+284277	1a
+284279	1b
+284281	2a
+284283	2b
+284285	3a
+284287	3b
 1
 2
 1
 2
 1
-280390	2a
-280392	2b
+284294	2a
+284296	2b
 3
-280395	4a
-280397	4b
+284299	4a
+284301	4b
 1
 2
 3
-280402	4a
-280404	4b
+284306	4a
+284308	4b
 1
 1
 2
@@ -15745,12 +29778,12 @@
 6
 1
 2
-280419	1a
-280421	1b
-280423	2a
-280425	2b
-280427	3a
-280429	3b
+284323	1a
+284325	1b
+284327	2a
+284329	2b
+284331	3a
+284333	3b
 1
 1
 2
@@ -15764,19 +29797,19 @@
 1
 1
 2
-280444	1a
-280447	1b1
-280449	1b2
+284348	1a
+284351	1b1
+284353	1b2
 2
-280452	3a
-280454	3b
-280456	3c
+284356	3a
+284358	3b
+284360	3c
 4
 5
 1
-280461	2a
-280463	2b
-280465	2c
+284365	2a
+284367	2b
+284369	2c
 3
 1
 2
@@ -15790,13 +29823,13 @@
 3'
 4'
 5'
-280480	1a
-280482	1b
-280484	2a
-280486	2b
-280488	1a
-280491	1b1
-280493	1b2
+284384	1a
+284386	1b
+284388	2a
+284390	2b
+284392	1a
+284395	1b1
+284397	1b2
 2
 3
 1
@@ -15808,8 +29841,8 @@
 7
 8
 1
-280506	2a
-280508	2b
+284410	2a
+284412	2b
 3
 4
 5
@@ -15819,29 +29852,29 @@
 1
 2
 3
-280520	4a1
-280522	4a2
-280524	4a3
-280526	4a4
-280529	4b1
-280531	4b2
-280533	1a
-280536	1b1
-280538	1b2
-280540	1a
-280543	1b1
-280546	1b2a
-280548	1b2b
-280550	2a
-280552	2b
-280554	2c
+284424	4a1
+284426	4a2
+284428	4a3
+284430	4a4
+284433	4b1
+284435	4b2
+284437	1a
+284440	1b1
+284442	1b2
+284444	1a
+284447	1b1
+284450	1b2a
+284452	1b2b
+284454	2a
+284456	2b
+284458	2c
 3
-280557	1a
-280559	1b
-280561	1a
-280563	1b
-280565	2a
-280567	2b
+284461	1a
+284463	1b
+284465	1a
+284467	1b
+284469	2a
+284471	2b
 1
 2
 3
@@ -15854,41 +29887,41 @@
 4
 5
 1
-280581	1a
-280583	1b
+284485	1a
+284487	1b
 2
 3
 1
-280588	1a
-280590	1b
-280592	2a
-280595	2b1
-280597	2b2
-280599	2b3
+284492	1a
+284494	1b
+284496	2a
+284499	2b1
+284501	2b2
+284503	2b3
 3
 4
 1
 2
 3
-280606	1a
-280608	1b
-280610	2a
-280612	2b
+284510	1a
+284512	1b
+284514	2a
+284516	2b
 3
-280615	1a
-280618	1b1
-280620	1b2
-280622	2a
-280625	2b1
-280627	2b2
-280629	3a
-280631	3b
-280633	1a
-280635	1b
-280637	1c
-280639	2a
-280642	2b1
-280644	2b2
+284519	1a
+284522	1b1
+284524	1b2
+284526	2a
+284529	2b1
+284531	2b2
+284533	3a
+284535	3b
+284537	1a
+284539	1b
+284541	1c
+284543	2a
+284546	2b1
+284548	2b2
 1
 1'
 2'
@@ -15913,10 +29946,10 @@
 1
 2
 3
-280670	1a
-280672	1b
-280674	2a
-280676	2b
+284574	1a
+284576	1b
+284578	2a
+284580	2b
 1
 1a1
 1b1
@@ -15929,8 +29962,8 @@
 4a1
 4b1
 4a2
-280690	1a
-280692	1b
+284594	1a
+284596	1b
 2
 3
 4
@@ -15946,54 +29979,54 @@
 6
 7
 8
-280709	1a
-280712	1b1
-280714	1b2
+284613	1a
+284616	1b1
+284618	1b2
 2
-280717	1a
-280720	1b1
-280722	1b2
+284621	1a
+284624	1b1
+284626	1b2
 2
 3
-280726	1a
-280728	1b
-280730	2a
-280732	2b
-280734	3a
-280736	3b
-280738	4a
-280740	4b
-280742	5a
-280744	5b
-280746	5c
+284630	1a
+284632	1b
+284634	2a
+284636	2b
+284638	3a
+284640	3b
+284642	4a
+284644	4b
+284646	5a
+284648	5b
+284650	5c
 6
-280749	7a
-280751	7b
-280753	7c
-280755	1a
-280757	1b
-280759	2a
-280761	2b
-280763	3a
-280765	3b
-280767	4a
-280769	4b
-280771	5a
-280773	5b
-280775	5c
-280777	6a
-280779	6b
-280781	7a
-280783	7b
-280785	7c
-280787	8a
-280789	8b
-280791	8c
+284653	7a
+284655	7b
+284657	7c
+284659	1a
+284661	1b
+284663	2a
+284665	2b
+284667	3a
+284669	3b
+284671	4a
+284673	4b
+284675	5a
+284677	5b
+284679	5c
+284681	6a
+284683	6b
+284685	7a
+284687	7b
+284689	7c
+284691	8a
+284693	8b
+284695	8c
 9
 10
-280795	11a
-280798	11b1
-280800	11b2
+284699	11a
+284702	11b1
+284704	11b2
 1
 2
 3
@@ -16005,14 +30038,14 @@
 2
 3
 4
-280813	1a
-280815	1b
-280817	2a
-280819	2b
-280821	3a
-280823	3b
-280825	4a
-280827	4b
+284717	1a
+284719	1b
+284721	2a
+284723	2b
+284725	3a
+284727	3b
+284729	4a
+284731	4b
 1
 1
 1
@@ -16021,8 +30054,8 @@
 4
 1
 2
-280837	3a
-280839	3b
+284741	3a
+284743	3b
 4
 5
 1
@@ -16040,61 +30073,61 @@
 1
 2
 3
-280858	1a
-280861	1b1
-280863	1b2
-280865	1b3
+284762	1a
+284765	1b1
+284767	1b2
+284769	1b3
 2
-280869	1a1
-280871	1a2
-280873	1a3
-280875	1a4
-280877	1a5
-280879	1b
-280881	2a
-280883	2b
-280886	3a1
-280888	3a2
-280890	3b
-280892	4a
-280895	4b1
-280897	4b2
-280899	1a
-280901	1b
-280903	2a
-280906	2b1
-280908	2b2
-280910	3a
-280913	3b1
-280915	3b2
-280917	3b3
+284773	1a1
+284775	1a2
+284777	1a3
+284779	1a4
+284781	1a5
+284783	1b
+284785	2a
+284787	2b
+284790	3a1
+284792	3a2
+284794	3b
+284796	4a
+284799	4b1
+284801	4b2
+284803	1a
+284805	1b
+284807	2a
+284810	2b1
+284812	2b2
+284814	3a
+284817	3b1
+284819	3b2
+284821	3b3
 4
-280920	5a
-280923	5b1
-280925	5b2
-280927	6a
-280930	6b1
-280932	6b2
-280934	1a
-280937	1b1
-280939	1b2
+284824	5a
+284827	5b1
+284829	5b2
+284831	6a
+284834	6b1
+284836	6b2
+284838	1a
+284841	1b1
+284843	1b2
 2
 3
-280943	1a
-280946	1b1
-280948	1b2
+284847	1a
+284850	1b1
+284852	1b2
 2
-280951	1a
-280954	1b1
-280956	1b2
+284855	1a
+284858	1b1
+284860	1b2
 2
 3
-280960	1a
-280963	1b1
-280965	1b2
-280967	2a
-280969	2b
-280971	2c
+284864	1a
+284867	1b1
+284869	1b2
+284871	2a
+284873	2b
+284875	2c
 1
 2
 1
@@ -16103,19 +30136,19 @@
 2
 3
 4
-280981	5a
-280983	5b
-280985	6a
-280987	6b
+284885	5a
+284887	5b
+284889	6a
+284891	6b
 7
 1
-280991	1a
-280993	1b
-280995	2a
-280997	2b
+284895	1a
+284897	1b
+284899	2a
+284901	2b
 3
-281000	4a
-281002	4b
+284904	4a
+284906	4b
 5
 6
 7
@@ -16125,15 +30158,15 @@
 3
 4
 5
-281013	6a
-281015	6b
-281017	7a
-281019	7b
+284917	6a
+284919	6b
+284921	7a
+284923	7b
 8
 9
 1
-281024	2a
-281026	2b
+284928	2a
+284930	2b
 1
 1
 2
@@ -16193,25 +30226,25 @@
 3'
 4'
 5'
-281087	1a
-281090	1b1
-281092	1b2
-281096	1c1a
-281098	1c1b
-281101	1c2a
-281104	1c2b1
-281106	1c2b2
-281108	1c2b3
+284991	1a
+284994	1b1
+284996	1b2
+285000	1c1a
+285002	1c1b
+285005	1c2a
+285008	1c2b1
+285010	1c2b2
+285012	1c2b3
 2
 1
 1
 2
-281114	3a
-281116	3b
+285018	3a
+285020	3b
 4
-281120	1a1
-281122	1a2
-281124	1b
+285024	1a1
+285026	1a2
+285028	1b
 2
 3
 1
@@ -16219,33 +30252,33 @@
 1
 1
 2
-281133	1a
-281136	1b1
-281138	1b2
-281140	1b3
+285037	1a
+285040	1b1
+285042	1b2
+285044	1b3
 2
 1
 2
 3
 1
-281147	1a
-281149	1b
-281151	2a
-281153	2b
-281156	3a1
-281158	3a2
-281160	3a3
-281162	3b
-281164	4a
-281166	4b
-281168	5a
-281170	5b
-281172	6a
-281174	6b
-281176	7a
-281178	7b
-281180	1a
-281182	1b
+285051	1a
+285053	1b
+285055	2a
+285057	2b
+285060	3a1
+285062	3a2
+285064	3a3
+285066	3b
+285068	4a
+285070	4b
+285072	5a
+285074	5b
+285076	6a
+285078	6b
+285080	7a
+285082	7b
+285084	1a
+285086	1b
 2
 3
 4
@@ -16257,9 +30290,9 @@
 2
 3
 4
-281195	1a
-281198	1b1
-281200	1b2
+285099	1a
+285102	1b1
+285104	1b2
 2
 1
 1
@@ -16278,8 +30311,8 @@
 2
 1
 1
-281220	2a
-281222	2b
+285124	2a
+285126	2b
 3
 4
 5
@@ -16302,27 +30335,27 @@
 10
 11
 1
-281246	1a
-281249	1b1
-281251	1b2
-281255	1c1a
-281257	1c1b
-281259	1c2
-281261	1c3
-281264	1c4a
-281266	1c4b
-281270	1c5a1
-281272	1c5a2
-281275	1c6a
-281277	1c6b
-281280	1c7a
-281282	1c7b
-281284	2a
-281286	2b
-281288	2c
+285150	1a
+285153	1b1
+285155	1b2
+285159	1c1a
+285161	1c1b
+285163	1c2
+285165	1c3
+285168	1c4a
+285170	1c4b
+285174	1c5a1
+285176	1c5a2
+285179	1c6a
+285181	1c6b
+285184	1c7a
+285186	1c7b
+285188	2a
+285190	2b
+285192	2c
 1
-281291	1a
-281293	2a
+285195	1a
+285197	2a
 3
 4
 1
@@ -16332,124 +30365,124 @@
 2
 1
 1
-281304	2a
-281307	2b1
-281309	2b2
+285208	2a
+285211	2b1
+285213	2b2
 3
 4
 1
 2
 3
 4
-281317	1a
-281319	1b
-281322	1c1
-281324	1c2
-281327	1d1
-281329	1d2
-281331	1d3
-281333	2a
-281335	2b
-281337	2c
-281339	3a
-281341	3b
-281343	4a
-281345	4b
-281347	5a
-281349	5b
-281351	1a
-281353	1b
-281355	1c
-281357	2a
-281359	2b
-281362	2c1
-281364	2c2
-281366	3a
-281368	3b
+285221	1a
+285223	1b
+285226	1c1
+285228	1c2
+285231	1d1
+285233	1d2
+285235	1d3
+285237	2a
+285239	2b
+285241	2c
+285243	3a
+285245	3b
+285247	4a
+285249	4b
+285251	5a
+285253	5b
+285255	1a
+285257	1b
+285259	1c
+285261	2a
+285263	2b
+285266	2c1
+285268	2c2
+285270	3a
+285272	3b
 4
-281371	5a
-281374	5b1
-281376	5b2
-281378	5c
-281380	6a
-281382	6b
-281384	6c
-281386	7a
-281388	7b
-281390	7c
+285275	5a
+285278	5b1
+285280	5b2
+285282	5c
+285284	6a
+285286	6b
+285288	6c
+285290	7a
+285292	7b
+285294	7c
 8
 1
 2
-281395	1'a
-281397	1'b
-281399	1'c
-281401	2'a
-281403	2'b
-281405	2'c
-281407	1a
-281410	1b1
-281412	1b2
-281414	2a
-281417	2b1
-281419	2b2
-281422	3a1
-281424	3a2
-281426	3a3
-281429	3b1
-281431	3b2
-281434	3c1
-281436	3c2
-281438	3c3
-281441	4a1
-281443	4a2
-281445	4a3
-281448	4b1
-281450	4b2
-281453	4c1
-281455	4c2
-281457	4c3
-281459	5a
-281461	5b
-281464	5c1
-281466	5c2
-281468	6a
-281471	6b1
-281473	6b2
-281475	6c
-281477	7a
-281479	7b
-281481	7c
-281483	1a
-281486	1b1
-281488	1b2
-281490	1b3
-281493	1c1
-281495	1c2
-281497	1c3
-281499	2a
-281501	2b
-281504	2c1
-281506	2c2
-281508	2c3
+285299	1'a
+285301	1'b
+285303	1'c
+285305	2'a
+285307	2'b
+285309	2'c
+285311	1a
+285314	1b1
+285316	1b2
+285318	2a
+285321	2b1
+285323	2b2
+285326	3a1
+285328	3a2
+285330	3a3
+285333	3b1
+285335	3b2
+285338	3c1
+285340	3c2
+285342	3c3
+285345	4a1
+285347	4a2
+285349	4a3
+285352	4b1
+285354	4b2
+285357	4c1
+285359	4c2
+285361	4c3
+285363	5a
+285365	5b
+285368	5c1
+285370	5c2
+285372	6a
+285375	6b1
+285377	6b2
+285379	6c
+285381	7a
+285383	7b
+285385	7c
+285387	1a
+285390	1b1
+285392	1b2
+285394	1b3
+285397	1c1
+285399	1c2
+285401	1c3
+285403	2a
+285405	2b
+285408	2c1
+285410	2c2
+285412	2c3
 3
 4
 5
 6
 1
 1
-281517	2a1
-281519	2a2
-281521	2b
+285421	2a1
+285423	2a2
+285425	2b
 3
-281524	4a
-281527	4b1
-281529	4b2
+285428	4a
+285431	4b1
+285433	4b2
 1
 2
 3
-281534	1a
-281537	1b1
-281539	1b2
+285438	1a
+285441	1b1
+285443	1b2
 2
 1
 1
@@ -16520,12 +30553,12 @@
 2
 3
 4
-281611	1a
-281614	1b1
-281616	1b2
-281618	2a
-281621	2b1
-281623	2b2
+285515	1a
+285518	1b1
+285520	1b2
+285522	2a
+285525	2b1
+285527	2b2
 3
 1
 2
@@ -16579,18 +30612,18 @@
 6
 7
 1
-281678	1a
-281680	1b
-281683	2a1
-281685	2a2
-281687	2a3
-281689	2b
-281692	3a1
-281694	3a2
-281696	3a3
-281698	3b
-281701	4a1
-281703	4a2
+285582	1a
+285584	1b
+285587	2a1
+285589	2a2
+285591	2a3
+285593	2b
+285596	3a1
+285598	3a2
+285600	3a3
+285602	3b
+285605	4a1
+285607	4a2
 1
 2
 3
@@ -16615,9 +30648,9 @@
 3
 1
 2
-281729	1a
-281732	1b1
-281734	1b2
+285633	1a
+285636	1b1
+285638	1b2
 1
 2
 3
@@ -16625,11 +30658,11 @@
 1
 2
 1
-281743	1a
-281745	1b
+285647	1a
+285649	1b
 2
-281748	3a
-281750	3b
+285652	3a
+285654	3b
 4
 5
 6
@@ -16645,10 +30678,10 @@
 4
 5
 6
-281768	1a1
-281770	1a2
-281773	1b1
-281775	1b2
+285672	1a1
+285674	1a2
+285677	1b1
+285679	1b2
 2
 1a
 1b
@@ -16690,14 +30723,14 @@
 2
 1
 2
-281818	1a
-281821	1b1
-281823	1b2
-281825	2a
-281829	2b1a
-281831	2b1b
-281834	2b2a
-281836	2b2b
+285722	1a
+285725	1b1
+285727	1b2
+285729	2a
+285733	2b1a
+285735	2b1b
+285738	2b2a
+285740	2b2b
 1
 2
 3
@@ -16727,22 +30760,22 @@
 2
 3
 4
-281867	1a
-281870	1b1
-281872	1b2
-281874	1b3
+285771	1a
+285774	1b1
+285776	1b2
+285778	1b3
 2
 3
 4
 5
 1
-281881	1a
-281884	1b1
-281886	1b2
-281888	1a
-281890	1b
-281892	2a
-281894	2b
+285785	1a
+285788	1b1
+285790	1b2
+285792	1a
+285794	1b
+285796	2a
+285798	2b
 1
 2
 1
@@ -16759,21 +30792,21 @@
 2
 1
 2
-281913	3a1
-281915	3a2
-281917	3b
-281919	4a
-281921	4b
-281923	5a
-281925	5b
-281927	6a
-281929	6b
-281931	7a
-281933	7b
-281935	1a
-281937	1b
-281939	2a
-281941	2b
+285817	3a1
+285819	3a2
+285821	3b
+285823	4a
+285825	4b
+285827	5a
+285829	5b
+285831	6a
+285833	6b
+285835	7a
+285837	7b
+285839	1a
+285841	1b
+285843	2a
+285845	2b
 3
 4
 5
@@ -16797,10 +30830,10 @@
 2
 3
 4
-281966	1a
-281969	1b1
-281971	1b2
-281973	1c
+285870	1a
+285873	1b1
+285875	1b2
+285877	1c
 2
 3
 4
@@ -16808,19 +30841,19 @@
 2
 3
 1
-281982	1a
-281984	1b
-281986	1c
-281988	2a
-281991	2b1
-281993	2b2
-281995	2c
-281997	3a
-281999	3b
-282001	4a
-282003	4b
-282005	5a
-282007	5b
+285886	1a
+285888	1b
+285890	1c
+285892	2a
+285895	2b1
+285897	2b2
+285899	2c
+285901	3a
+285903	3b
+285905	4a
+285907	4b
+285909	5a
+285911	5b
 1
 2
 1
@@ -16837,61 +30870,6 @@
 4
 1
 2
-1
-2
-3
-4
-5
-6
-1
-2
-2
-1
-2
-3
-1
-2
-282039	1a
-282041	1b
-282043	2a
-282046	2b1
-282048	2b2
-282050	1a
-282052	1b
-2
-1
-1
-2
-3
-4
-5
-6
-1
-1
-2
-3
-1
-2
-282068	3a
-282070	3b
-4
-5
-6
-7
-1
-2
-3
-4
-5
-6
-1
-2'
-3'
-1
-2
-3
-4
-5
 1
 2
 3
@@ -16900,73 +30878,128 @@
 6
 1
 2
+2
+1
+2
+3
+1
+2
+285943	1a
+285945	1b
+285947	2a
+285950	2b1
+285952	2b2
+285954	1a
+285956	1b
+2
+1
+1
+2
 3
 4
 5
 6
+1
+1
 2
 3
 1
 2
-3
-1
-2
-3
-1
-1'
-1'
-282113	1'a
-282115	1'b
-282117	2'a
-282119	2'b
-3'
-1
-1
-2
-1
-2
-3
-4
-5
-1
-2
-3
+285972	3a
+285974	3b
 4
 5
 6
 7
-282137	1a
-282139	1b
-2
-3
-4
-282144	5a
-282146	5b
-282148	6a
-282150	6b
-1
-282153	1a
-282155	1b
-282157	2a
-282159	2b
-1
-1'
-2'
-1
-1
-2
-3
-1'
-2'
-1'
-2'
-1
 1
 2
 3
 4
-282177	1a
-282179	1b
+5
+6
+1
+2'
+3'
+1
+2
+3
+4
+5
+1
+2
+3
+4
+5
+6
+1
+2
+3
+4
+5
+6
+2
+3
+1
+2
+3
+1
+2
+3
+1
+1'
+1'
+286017	1'a
+286019	1'b
+286021	2'a
+286023	2'b
+3'
+1
+1
+2
+1
+2
+3
+4
+5
+1
+2
+3
+4
+5
+6
+7
+286041	1a
+286043	1b
+2
+3
+4
+286048	5a
+286050	5b
+286052	6a
+286054	6b
+1
+286057	1a
+286059	1b
+286061	2a
+286063	2b
+1
+1'
+2'
+1
+1
+2
+3
+1'
+2'
+1'
+2'
+1
+1
+2
+3
+4
+286081	1a
+286083	1b
 2
 3
 4
@@ -16989,17 +31022,17 @@
 2
 3
 4
-282203	1a
-282205	1b
+286107	1a
+286109	1b
 2
-282208	3a
-282210	3b
+286112	3a
+286114	3b
 4
-282213	1a
-282216	1b1
-282218	1b2
-282220	1b3
-282222	1b4
+286117	1a
+286120	1b1
+286122	1b2
+286124	1b3
+286126	1b4
 1
 1'
 1'
@@ -17009,8 +31042,8 @@
 2
 3
 1
-282233	1a
-282235	1b
+286137	1a
+286139	1b
 2
 3
 1
@@ -17049,9 +31082,9 @@
 3'
 1
 1
-282275	1'a
-282277	1'b
-282279	1'c
+286179	1'a
+286181	1'b
+286183	1'c
 2'
 1
 1'
@@ -17082,8 +31115,8 @@
 1'
 2'
 1
-282311	1a
-282313	1b
+286215	1a
+286217	1b
 2
 1
 1
@@ -17096,8 +31129,8 @@
 1
 1
 2
-282327	3a
-282329	3b
+286231	3a
+286233	3b
 4
 1a1
 1b1
@@ -17108,34 +31141,34 @@
 3a1
 3b1
 3a2
-282341	1a
-282343	1b
-282345	2a
-282347	2b
-282349	3a
-282351	3b
-282353	4a
-282355	4b
-282357	5a
-282359	5b
+286245	1a
+286247	1b
+286249	2a
+286251	2b
+286253	3a
+286255	3b
+286257	4a
+286259	4b
+286261	5a
+286263	5b
 1
-282362	2a
-282364	2b
-282366	3a
-282368	3b
-282370	4a
-282372	4b
+286266	2a
+286268	2b
+286270	3a
+286272	3b
+286274	4a
+286276	4b
 5
 1
 2
 3
 1
 1
-282381	2a1
-282383	2a2
-282385	2b
-282387	1a
-282389	1b
+286285	2a1
+286287	2a2
+286289	2b
+286291	1a
+286293	1b
 2
 3
 1
@@ -17154,46 +31187,46 @@
 4
 5
 6
-282409	1a
-282411	1b
-282413	1c
-282415	1d
-282417	2a
-282419	2b
-282421	2c
-282423	2d
-282425	3a
-282427	3b
-282429	3c
-282431	3d
-282433	4a
-282435	4b
-282437	4c
-282439	4d
-282441	5a
-282443	5b
-282445	5c
-282447	5d
-282449	1a
-282451	1b
-282453	1c
-282455	2a
-282457	2b
-282459	2c
-282461	3a
-282463	3b
-282465	3c
-282467	4a
-282469	4b
-282471	4c
-282473	4d
-282475	5a
-282477	5b
-282479	5c
-282481	1a
-282483	1b
-282485	1c
-282487	1d
+286313	1a
+286315	1b
+286317	1c
+286319	1d
+286321	2a
+286323	2b
+286325	2c
+286327	2d
+286329	3a
+286331	3b
+286333	3c
+286335	3d
+286337	4a
+286339	4b
+286341	4c
+286343	4d
+286345	5a
+286347	5b
+286349	5c
+286351	5d
+286353	1a
+286355	1b
+286357	1c
+286359	2a
+286361	2b
+286363	2c
+286365	3a
+286367	3b
+286369	3c
+286371	4a
+286373	4b
+286375	4c
+286377	4d
+286379	5a
+286381	5b
+286383	5c
+286385	1a
+286387	1b
+286389	1c
+286391	1d
 2
 1
 2
@@ -17203,9 +31236,9 @@
 6
 1
 1
-282498	2a
-282500	2b
-282502	2c
+286402	2a
+286404	2b
+286406	2c
 3
 1
 1
@@ -17226,31 +31259,31 @@
 1
 1
 2
-282524	1a
-282526	1b
-282528	2a
-282530	2b
+286428	1a
+286430	1b
+286432	2a
+286434	2b
 3
 1
 2
-282535	1a
-282537	1b
+286439	1a
+286441	1b
 2
-282540	1a
-282542	1b
-282544	2a
-282546	2b
-282548	3a
-282550	3b
-282552	4a
-282554	4b
+286444	1a
+286446	1b
+286448	2a
+286450	2b
+286452	3a
+286454	3b
+286456	4a
+286458	4b
 1
-282557	1a
-282560	1b1
-282562	1b2
-282564	2a
-282567	2b1
-282569	2b2
+286461	1a
+286464	1b1
+286466	1b2
+286468	2a
+286471	2b1
+286473	2b2
 3
 1'
 2'
@@ -17265,18 +31298,18 @@
 1
 1
 1
-282585	1a
-282588	1b1
-282590	1b2
-282592	2a
-282595	2b1
-282597	2b2
-282599	3a
-282602	3b1
-282604	3b2
-282606	1a
-282609	1b1
-282611	1b2
+286489	1a
+286492	1b1
+286494	1b2
+286496	2a
+286499	2b1
+286501	2b2
+286503	3a
+286506	3b1
+286508	3b2
+286510	1a
+286513	1b1
+286515	1b2
 2
 1
 2
@@ -17322,10 +31355,10 @@
 1
 1
 2
-282658	1a
-282661	1b1
-282663	1b2
-282665	1b3
+286562	1a
+286565	1b1
+286567	1b2
+286569	1b3
 2
 3
 4
@@ -17361,19 +31394,19 @@
 5
 6
 7
-282702	1a
-282704	1b
-282706	2a
-282708	2b
+286606	1a
+286608	1b
+286610	2a
+286612	2b
 3
 4
 5
 6
-282714	1a
-282716	1b
+286618	1a
+286620	1b
 2
-282719	3a
-282721	3b
+286623	3a
+286625	3b
 4
 1
 2
@@ -17385,86 +31418,86 @@
 2
 1
 1
-282734	1a
-282737	1b1
-282739	1b2
+286638	1a
+286641	1b1
+286643	1b2
 2
 1
 2
 3
-282745	1a
-282748	1b1
-282750	1b2
+286649	1a
+286652	1b1
+286654	1b2
 1
 2
 1
-282755	1a
-282758	1b1
-282760	1b2
-282762	2a
-282764	2b
-282766	3a
-282768	3b
-282770	4a
-282772	4b
-282774	5a
-282777	5b1
-282779	5b2
-282781	6a
-282783	6b
-282785	6c
-282787	7a
-282790	7b1
-282792	7b2
-282794	1a
-282796	1b
-282798	2a
-282800	2b
-282802	3a
-282804	3b
-282806	4a
-282808	4b
+286659	1a
+286662	1b1
+286664	1b2
+286666	2a
+286668	2b
+286670	3a
+286672	3b
+286674	4a
+286676	4b
+286678	5a
+286681	5b1
+286683	5b2
+286685	6a
+286687	6b
+286689	6c
+286691	7a
+286694	7b1
+286696	7b2
+286698	1a
+286700	1b
+286702	2a
+286704	2b
+286706	3a
+286708	3b
+286710	4a
+286712	4b
 5
-282811	6a
-282814	6b1
-282816	6b2
-282818	6b3
-282820	7a
-282822	7b
-282824	1a
-282826	1b
-282828	2a
-282830	2b
-282832	3a
-282834	3b
-282836	4a
-282838	4b
+286715	6a
+286718	6b1
+286720	6b2
+286722	6b3
+286724	7a
+286726	7b
+286728	1a
+286730	1b
+286732	2a
+286734	2b
+286736	3a
+286738	3b
+286740	4a
+286742	4b
 5
-282841	1a
-282843	1b
-282845	2a
-282847	2b
+286745	1a
+286747	1b
+286749	2a
+286751	2b
 3
-282850	4a
-282852	4b
+286754	4a
+286756	4b
 5
-282855	6a
-282857	6b
+286759	6a
+286761	6b
 7
-282860	1a
-282862	1b
-282864	2a
-282867	2b1
-282869	2b2
+286764	1a
+286766	1b
+286768	2a
+286771	2b1
+286773	2b2
 3
 4
 5
 6
-282875	1
-282878	1b1
-282880	1b2
-282882	2a
-282884	2b
+286779	1
+286782	1b1
+286784	1b2
+286786	2a
+286788	2b
 3
 1a
 1b
@@ -17472,18 +31505,18 @@
 2b
 2
 1
-282893	1a
-282895	1b
-282897	2a
-282899	2b
-282901	3a
-282903	3b
-282905	4a
-282907	4b
-282909	5a
-282911	5b
-282913	6a
-282915	6b
+286797	1a
+286799	1b
+286801	2a
+286803	2b
+286805	3a
+286807	3b
+286809	4a
+286811	4b
+286813	5a
+286815	5b
+286817	6a
+286819	6b
 1
 2
 1'
@@ -17497,8 +31530,8 @@
 5'
 6'
 1
-282930	1a
-282932	1b
+286834	1a
+286836	1b
 2
 3
 4
@@ -17507,10 +31540,10 @@
 1
 2
 1
-282942	1a
-282944	1b
-282946	2a
-282948	2b
+286846	1a
+286848	1b
+286850	2a
+286852	2b
 3
 4
 5
@@ -17519,8 +31552,8 @@
 2
 3
 4
-282958	1a
-282960	1b
+286862	1a
+286864	1b
 2
 3
 1
@@ -17533,24 +31566,24 @@
 1
 1
 2
-282974	1
-282976	1b
-282979	1c1
-282981	1c2
-282983	2a
-282985	2b
-282987	2c
+286878	1
+286880	1b
+286883	1c1
+286885	1c2
+286887	2a
+286889	2b
+286891	2c
 1
-282990	2a
-282992	2b
+286894	2a
+286896	2b
 3
 4
 5
-282997	1a'
-282999	1b'
+286901	1a'
+286903	1b'
 2'
-283002	3a'
-283004	3b'
+286906	3a'
+286908	3b'
 4'
 1
 1
@@ -17562,10 +31595,10 @@
 4
 1
 2
-283017	3a
-283019	3b
-283021	4a
-283023	4b
+286921	3a
+286923	3b
+286925	4a
+286927	4b
 1
 2
 3
@@ -17575,13 +31608,13 @@
 1
 2
 1
-283034	1a
-283036	1b
-283038	2a
-283040	2b
-283042	3a
-283044	4a
-283046	4b
+286938	1a
+286940	1b
+286942	2a
+286944	2b
+286946	3a
+286948	4a
+286950	4b
 5
 1
 2
@@ -17614,8 +31647,8 @@
 2
 3
 1
-283080	1a
-283082	1b
+286984	1a
+286986	1b
 2
 1
 1
@@ -17647,30 +31680,30 @@
 1
 2
 3
-283115	1a
-283118	1b1
-283122	1b2a1
-283124	1b2a2
-283127	1b2b1
-283129	1b2b2
-283131	1c
-283133	2a
-283135	2b
-283137	2c
-283139	3a
-283141	3b
-283143	3c
-283145	4a
-283147	4b
+287019	1a
+287022	1b1
+287026	1b2a1
+287028	1b2a2
+287031	1b2b1
+287033	1b2b2
+287035	1c
+287037	2a
+287039	2b
+287041	2c
+287043	3a
+287045	3b
+287047	3c
+287049	4a
+287051	4b
 1
 2
 3
 4
 5
-283154	1a
-283157	1b1
-283159	1b2
-283161	1b3
+287058	1a
+287061	1b1
+287063	1b2
+287065	1b3
 2
 3
 4
@@ -17912,21 +31945,21 @@
 1
 1
 2
-283404	1
-283406	1a
-283408	1b
-283410	1
-283412	1a
-283414	1b
+287308	1
+287310	1a
+287312	1b
+287314	1
+287316	1a
+287318	1b
 1
 1
 2
 1
 1
 2
-283422	1a
-283425	1b1
-283427	1b2
+287326	1a
+287329	1b1
+287331	1b2
 2
 1
 1
@@ -17946,20 +31979,20 @@
 1
 2
 3
-283448	1a
-283450	1b
-283452	1c
-283454	2a
-283456	2b
-283458	2c
-283460	1a
-283462	1b
-283464	1c
-283466	1d
-283468	2a
-283470	2b
-283472	2c
-283474	3a
+287352	1a
+287354	1b
+287356	1c
+287358	2a
+287360	2b
+287362	2c
+287364	1a
+287366	1b
+287368	1c
+287370	1d
+287372	2a
+287374	2b
+287376	2c
+287378	3a
 1
 2
 3
@@ -17979,10 +32012,10 @@
 2
 3
 1
-283495	1a
-283498	1b1
-283500	1b2
-283502	1b3
+287399	1a
+287402	1b1
+287404	1b2
+287406	1b3
 1
 2
 3
@@ -18055,169 +32088,169 @@
 2
 3
 1
-283576	2a
-283578	2b
-283581	2c1
-283583	2c2
-283586	2d1
-283588	2d2
-283590	3a
-283592	3b
-283595	3c1
-283597	3c2
-283600	3d1
-283602	3d2
-283604	4a
-283606	4b
-283609	4c1
-283611	4c2
-283614	4d1
-283616	4d2
-283618	5a
-283621	5b1
-283623	5b2
-283625	5c
-283627	5d
+287480	2a
+287482	2b
+287485	2c1
+287487	2c2
+287490	2d1
+287492	2d2
+287494	3a
+287496	3b
+287499	3c1
+287501	3c2
+287504	3d1
+287506	3d2
+287508	4a
+287510	4b
+287513	4c1
+287515	4c2
+287518	4d1
+287520	4d2
+287522	5a
+287525	5b1
+287527	5b2
+287529	5c
+287531	5d
 6
 1
 2
-283632	1a
-283634	1b
-283636	2a
-283638	2b
-283640	3a
-283642	3b
-283644	4a
-283646	4b
-283648	5a
-283650	5b
-283652	1a
-283654	1b
-283656	2a
-283658	2b
+287536	1a
+287538	1b
+287540	2a
+287542	2b
+287544	3a
+287546	3b
+287548	4a
+287550	4b
+287552	5a
+287554	5b
+287556	1a
+287558	1b
+287560	2a
+287562	2b
 3
 1
 2
 3
 4
 5
-283666	1a
-283668	1b
-283670	2a
-283672	2b
-283674	3a
-283676	3b
-283678	4a
-283680	4b
-283682	5a
-283684	5b
-283686	6a
-283688	6b
+287570	1a
+287572	1b
+287574	2a
+287576	2b
+287578	3a
+287580	3b
+287582	4a
+287584	4b
+287586	5a
+287588	5b
+287590	6a
+287592	6b
 1
 2
 3
-283693	1a
-283695	1b
-1
-2
-3
-4
-5
-1
-2
-283704	1a
-283706	1b
-2
-283709	3a
-283711	3b
-283713	4a
-283715	4b
-5
-1
-283719	1a
-283721	1b
-2
+287597	1a
+287599	1b
 1
 2
 3
 4
 5
 1
+2
+287608	1a
+287610	1b
+2
+287613	3a
+287615	3b
+287617	4a
+287619	4b
+5
+1
+287623	1a
+287625	1b
+2
+1
+2
+3
+4
+5
+1
 1
 2
 1
 2
 3
 4
-283736	5a
-283739	5b1
-283741	5b2
+287640	5a
+287643	5b1
+287645	5b2
 1
 2
 1
 1
 2
-283748	1a
-283752	1b1a
-283755	1b1b01
-283757	1b1b02
-283759	1b1b03
-283761	1b1b04
-283763	1b1b05
-283765	1b1b06
-283767	1b1b07
-283769	1b1b08
-283771	1b1b09
-283773	1b1b10
-283775	1b1b11
-283777	1b1b12
-283779	1b1b13
-283781	1b1b14
-283783	1b1b15
-283785	1b1b16
-283787	1b1b17
-283789	1b1b18
-283791	1b1b19
-283793	1b1b20
-283796	1b2a
-283799	1b2b01
-283801	1b2b02
-283803	1b2b03
-283805	1b2b04
-283807	1b2b05
-283809	1b2b06
-283811	1b2b07
-283813	1b2b08
-283815	1b2b09
-283817	1b2b10
-283819	1b2b11
-283821	1b2b12
-283823	1b2b13
-283825	1b2b14
-283827	1b2b15
-283829	1b2b16
-283831	1b2b17
-283833	2a
-283837	2b1a
-283840	2b1b1
-283842	2b1b2
-283845	2b2a
-283848	2b2b1
-283850	3a
-283853	3b1
-283855	3b2
-283857	4a
-283860	4b1
-283862	4b2
-283864	4b3
-283866	5a
-283869	5b1
-283871	5b2
-283873	5b3
+287652	1a
+287656	1b1a
+287659	1b1b01
+287661	1b1b02
+287663	1b1b03
+287665	1b1b04
+287667	1b1b05
+287669	1b1b06
+287671	1b1b07
+287673	1b1b08
+287675	1b1b09
+287677	1b1b10
+287679	1b1b11
+287681	1b1b12
+287683	1b1b13
+287685	1b1b14
+287687	1b1b15
+287689	1b1b16
+287691	1b1b17
+287693	1b1b18
+287695	1b1b19
+287697	1b1b20
+287700	1b2a
+287703	1b2b01
+287705	1b2b02
+287707	1b2b03
+287709	1b2b04
+287711	1b2b05
+287713	1b2b06
+287715	1b2b07
+287717	1b2b08
+287719	1b2b09
+287721	1b2b10
+287723	1b2b11
+287725	1b2b12
+287727	1b2b13
+287729	1b2b14
+287731	1b2b15
+287733	1b2b16
+287735	1b2b17
+287737	2a
+287741	2b1a
+287744	2b1b1
+287746	2b1b2
+287749	2b2a
+287752	2b2b1
+287754	3a
+287757	3b1
+287759	3b2
+287761	4a
+287764	4b1
+287766	4b2
+287768	4b3
+287770	5a
+287773	5b1
+287775	5b2
+287777	5b3
 6
 1
-283877	1a
-283879	1b
+287781	1a
+287783	1b
 2
 1
 2
@@ -18232,16 +32265,16 @@
 4'
 5'
 6'
-283895	1a
-283897	1b
-283899	2a
-283901	2b
-283903	3a
-283905	3b
-283907	4a
-283909	4b
-283911	5a
-283913	5b
+287799	1a
+287801	1b
+287803	2a
+287805	2b
+287807	3a
+287809	3b
+287811	4a
+287813	4b
+287815	5a
+287817	5b
 1
 1
 1
@@ -18379,57 +32412,57 @@
 6
 7
 1
-284052	1a
-284054	1b
-284056	1c
-284058	2a
-284060	2b
-284062	2c
-284064	3a
-284066	3b
-284068	3c
-284070	4a
-284072	4b
-284074	4c
-284076	5a
-284078	5b
-284080	5c
-284082	6a
-284084	6b
-284086	6c
-284088	7a
-284090	7b
-284092	7c
-284094	1a
-284096	1b
-284098	1c
-284100	2a
-284102	2b
-284104	2c
-284106	3a
-284108	3b
-284110	3c
-284112	4a
-284114	4b
-284116	4c
-284118	5a
-284120	5b
-284122	5c
-284124	6a
-284126	6b
+287956	1a
+287958	1b
+287960	1c
+287962	2a
+287964	2b
+287966	2c
+287968	3a
+287970	3b
+287972	3c
+287974	4a
+287976	4b
+287978	4c
+287980	5a
+287982	5b
+287984	5c
+287986	6a
+287988	6b
+287990	6c
+287992	7a
+287994	7b
+287996	7c
+287998	1a
+288000	1b
+288002	1c
+288004	2a
+288006	2b
+288008	2c
+288010	3a
+288012	3b
+288014	3c
+288016	4a
+288018	4b
+288020	4c
+288022	5a
+288024	5b
+288026	5c
+288028	6a
+288030	6b
 1
 1
-284130	1a
-284132	1b
-284134	2a
-284137	2b1
-284139	2b2
-284141	2b3
-284143	2b4
-284145	3a
-284148	3b1
-284150	3b2
-284152	3b3
+288034	1a
+288036	1b
+288038	2a
+288041	2b1
+288043	2b2
+288045	2b3
+288047	2b4
+288049	3a
+288052	3b1
+288054	3b2
+288056	3b3
 1
 2
 3
@@ -18437,43 +32470,43 @@
 5
 6
 7
-284161	1a
-284163	1b
-284165	2a
-284167	2b
-284169	3a
-284171	3b
-284173	3c
-284175	4a
-284177	4b
-284179	4c
-284181	1a
-284183	1b
-284185	1c
-284187	1d
-284189	2a
-284191	2b
-284193	2c
-284195	2d
-284197	3a
-284199	3b
-284201	3c
-284203	3d
+288065	1a
+288067	1b
+288069	2a
+288071	2b
+288073	3a
+288075	3b
+288077	3c
+288079	4a
+288081	4b
+288083	4c
+288085	1a
+288087	1b
+288089	1c
+288091	1d
+288093	2a
+288095	2b
+288097	2c
+288099	2d
+288101	3a
+288103	3b
+288105	3c
+288107	3d
 1'
 2'
 3'
 4'
-284209	5a'
-284211	5b'
-284213	5c'
-284215	6a'
-284217	6b'
-284219	1a
-284221	1b
-284223	2a
-284225	2b
-284227	1a
-284229	1b
+288113	5a'
+288115	5b'
+288117	5c'
+288119	6a'
+288121	6b'
+288123	1a
+288125	1b
+288127	2a
+288129	2b
+288131	1a
+288133	1b
 2
 1
 2
@@ -18529,20 +32562,20 @@
 2
 3
 1
-284286	1a
-284288	1b
-284290	2a
-284292	2b
-284294	3a
-284296	3b
-284298	4a
-284300	4b
+288190	1a
+288192	1b
+288194	2a
+288196	2b
+288198	3a
+288200	3b
+288202	4a
+288204	4b
 5
 1
 2
 3
-284306	4a
-284308	4b
+288210	4a
+288212	4b
 5
 1
 2
@@ -18654,40 +32687,40 @@
 1
 2
 1
-284421	1a
-284423	1b
-284425	2a
-284427	2b
-284429	3a
-284431	3b
-284433	4a
-284435	4b
-284438	4c1
-284440	4c2
-284442	5a
-284445	5b1
-284447	5b2
-284449	5c
-284451	6a
-284453	6b
-284455	7a
-284457	7b
-284459	7c
+288325	1a
+288327	1b
+288329	2a
+288331	2b
+288333	3a
+288335	3b
+288337	4a
+288339	4b
+288342	4c1
+288344	4c2
+288346	5a
+288349	5b1
+288351	5b2
+288353	5c
+288355	6a
+288357	6b
+288359	7a
+288361	7b
+288363	7c
 8
-284462	1a
-284464	1b
-284466	2a
-284469	2b1
-284471	2b2
-284473	2c
-284475	3a
-284478	3b1
-284480	3b2
-284482	3b3
-284484	4a
-284487	4b1
-284489	4b2
-284491	4b3
+288366	1a
+288368	1b
+288370	2a
+288373	2b1
+288375	2b2
+288377	2c
+288379	3a
+288382	3b1
+288384	3b2
+288386	3b3
+288388	4a
+288391	4b1
+288393	4b2
+288395	4b3
 1
 1
 2
@@ -18737,12 +32770,12 @@
 5
 6
 1
-284542	1a
-284544	1b
-284546	2a
-284548	2b
-284550	3a
-284552	3b
+288446	1a
+288448	1b
+288450	2a
+288452	2b
+288454	3a
+288456	3b
 4
 1
 1
@@ -18796,12 +32829,12 @@
 8
 9
 10
-284607	11a
-284610	11b1
-284612	11b2
-284614	1a
-284617	1b1
-284619	1b2
+288511	11a
+288514	11b1
+288516	11b2
+288518	1a
+288521	1b1
+288523	1b2
 2
 1
 2
@@ -18819,9 +32852,9 @@
 4
 1
 2
-284638	1a
-284640	1b
-284642	1c
+288542	1a
+288544	1b
+288546	1c
 2
 1
 2
@@ -18845,8 +32878,8 @@
 3
 4
 5
-284667	6a
-284669	6b
+288571	6a
+288573	6b
 7
 8
 9
@@ -18884,75 +32917,75 @@
 3
 4
 5
-284708	1a
-284710	1b
+288612	1a
+288614	1b
 2
-284713	1a
-284715	1b
-2
-3
-4
-284720	5a
-284722	5b
-1
-2
-1
-2
-3
-1
-1
-2
-3
-1
-2
-1
-2
-1
-2
-3
-284740	1a
-284742	1b
-2
-3
-1
+288617	1a
+288619	1b
 2
 3
 4
+288624	5a
+288626	5b
+1
+2
 1
 2
 3
-4
-5
 1
-284756	1a
-284759	1b1
-284761	1b2
-284763	1b3
-284765	2a
-284768	2b1
-284770	2b2
-284772	2b3
-284774	3a
-284776	3b
-284778	1a
-284781	1b1
-284783	1b2
-284785	1b3
-284787	2a
-284790	2b1
-284792	2b2
-284794	3a
-284797	3b1
-284799	3b2
-284801	3b3
+1
+2
+3
+1
+2
+1
+2
+1
+2
+3
+288644	1a
+288646	1b
+2
+3
+1
+2
+3
 4
 1
 2
 3
 4
 5
-284809	1a
-284811	1b
+1
+288660	1a
+288663	1b1
+288665	1b2
+288667	1b3
+288669	2a
+288672	2b1
+288674	2b2
+288676	2b3
+288678	3a
+288680	3b
+288682	1a
+288685	1b1
+288687	1b2
+288689	1b3
+288691	2a
+288694	2b1
+288696	2b2
+288698	3a
+288701	3b1
+288703	3b2
+288705	3b3
+4
+1
+2
+3
+4
+5
+288713	1a
+288715	1b
 2
 1
 2
@@ -18961,9 +32994,9 @@
 5
 1
 2
-284821	3a
-284824	3b1
-284826	3b2
+288725	3a
+288728	3b1
+288730	3b2
 4
 1
 2
@@ -18972,13 +33005,6 @@
 3
 4
 1
-1
-2
-3
-4
-5
-6
-7
 1
 2
 3
@@ -18990,12 +33016,19 @@
 2
 3
 4
-284855	1a1
-284857	1a2
-284859	1b
-284861	2a
-284864	2b1
-284866	2b2
+5
+6
+7
+1
+2
+3
+4
+288759	1a1
+288761	1a2
+288763	1b
+288765	2a
+288768	2b1
+288770	2b2
 1
 2
 3
@@ -19023,34 +33056,34 @@
 9
 1
 2
-284896	1a1
-284898	1a2
-284901	1b1
-284903	1b2
-284905	1b3
-284907	1b4
-284909	1b5
+288800	1a1
+288802	1a2
+288805	1b1
+288807	1b2
+288809	1b3
+288811	1b4
+288813	1b5
 2
 1
 2
-284914	3a
-284916	3b
+288818	3a
+288820	3b
 1
 2
-284920	3a
-284922	3b
-1
-2
-3
-1
-2
-284929	3a
-284931	3b
+288824	3a
+288826	3b
 1
 2
 3
 1
 2
+288833	3a
+288835	3b
+1
+2
+3
+1
+2
 1
 2
 1
@@ -19061,9 +33094,9 @@
 1
 2
 3
-284948	4a
-284951	4b1
-284953	4b2
+288852	4a
+288855	4b1
+288857	4b2
 5
 1
 2
@@ -19107,10 +33140,10 @@
 6
 1
 2
-284998	1a
-285001	1b1
-285003	1b2
-285005	1b3
+288902	1a
+288905	1b1
+288907	1b2
+288909	1b3
 2
 1
 2
@@ -19187,24 +33220,24 @@
 7
 8
 9
-285083	10a
-285085	10b
+288987	10a
+288989	10b
 11
 12
 1
-285090	1
-285093	1a
-285095	1a1
-285097	1a2
-285100	1b
-285102	1b1
-285104	1b2
-285106	2
-285108	2a
-285110	2b
-285113	2c1
-285115	2c2
-285117	2c3
+288994	1
+288997	1a
+288999	1a1
+289001	1a2
+289004	1b
+289006	1b1
+289008	1b2
+289010	2
+289012	2a
+289014	2b
+289017	2c1
+289019	2c2
+289021	2c3
 1
 1
 2
@@ -19219,94 +33252,94 @@
 1
 2
 3
-285133	1a
-285135	1b
-285138	2a1
-285140	2a2
-285142	2a3
-285144	2a4
-285146	2b
-285148	3a
-285150	3b
-285152	4a
-285154	4b
-285156	5a
-285158	5b
-285160	1a
-285162	1b
-285164	2a
-285166	2b
-285168	3a
-285170	3b
+289037	1a
+289039	1b
+289042	2a1
+289044	2a2
+289046	2a3
+289048	2a4
+289050	2b
+289052	3a
+289054	3b
+289056	4a
+289058	4b
+289060	5a
+289062	5b
+289064	1a
+289066	1b
+289068	2a
+289070	2b
+289072	3a
+289074	3b
 4
 5
 6
 1
-285176	1a
-285179	1b1
-285181	1b2
-285183	1b3
+289080	1a
+289083	1b1
+289085	1b2
+289087	1b3
 2
 1
 2
-285188	1a
-285190	1b
-285192	2a
-285194	2b
-285196	3a
-285198	3b
-285200	4a
-285202	4b
-285204	5a
-285206	5b
-285208	6a
-285210	6b
+289092	1a
+289094	1b
+289096	2a
+289098	2b
+289100	3a
+289102	3b
+289104	4a
+289106	4b
+289108	5a
+289110	5b
+289112	6a
+289114	6b
 7
 8
 9
-285215	1a
-285217	1b
-285219	2a
-285221	2b
-285223	3a
-285225	3b
-285227	4a
-285229	4b
-285231	5a
-285234	5b1
-285236	5b2
-285238	6a
-285241	6b1
-285243	6b2
-285245	7a
-285248	7b1
-285250	7b2
-285252	1a
-285254	1b
-285256	2a
-285258	2b
-285260	3a
-285262	3b
-285264	4a
-285266	4b
-285268	5a
-285270	5b
+289119	1a
+289121	1b
+289123	2a
+289125	2b
+289127	3a
+289129	3b
+289131	4a
+289133	4b
+289135	5a
+289138	5b1
+289140	5b2
+289142	6a
+289145	6b1
+289147	6b2
+289149	7a
+289152	7b1
+289154	7b2
+289156	1a
+289158	1b
+289160	2a
+289162	2b
+289164	3a
+289166	3b
+289168	4a
+289170	4b
+289172	5a
+289174	5b
 6
 7
 8
 9
 10
 11
-285278	1a
-285281	1b1
-285283	1b2
+289182	1a
+289185	1b1
+289187	1b2
 2
 3
-285287	1a
-285290	1b1
-285292	1b2
-285294	1b3
-285296	1b4
+289191	1a
+289194	1b1
+289196	1b2
+289198	1b3
+289200	1b4
 1
 2
 3
@@ -19330,9 +33363,9 @@
 1
 1
 1
-285321	1a
-285324	1b1
-285326	1b2
+289225	1a
+289228	1b1
+289230	1b2
 2
 3
 4
@@ -19354,11 +33387,11 @@
 13
 14
 1
-285349	2a
-285351	2b
+289253	2a
+289255	2b
 3
-285354	4a
-285356	4b
+289258	4a
+289260	4b
 5
 6
 7
@@ -19378,10 +33411,10 @@
 2
 3
 4
-285377	1a
-285380	1b1
-285382	1b2
-285384	1b3
+289281	1a
+289284	1b1
+289286	1b2
+289288	1b3
 2
 3
 4
@@ -19389,13 +33422,13 @@
 2
 1
 2
-285393	1a
-285396	1b1
-285398	1b2
+289297	1a
+289300	1b1
+289302	1b2
 2
 3
-285402	4a
-285404	4b
+289306	4a
+289308	4b
 5
 6
 7
@@ -19403,11 +33436,11 @@
 2
 3
 4
-285413	5a
-285415	5b
+289317	5a
+289319	5b
 6
-285418	7a
-285420	7b
+289322	7a
+289324	7b
 8
 1
 2
@@ -19419,24 +33452,24 @@
 8
 9
 10
-285433	1a
-285436	1b1
-285438	1b2
-285441	1c1
-285444	1c2a
-285446	1c2b
-285449	1d1
-285453	2d2a
-285455	2d2b
+289337	1a
+289340	1b1
+289342	1b2
+289345	1c1
+289348	1c2a
+289350	1c2b
+289353	1d1
+289357	2d2a
+289359	2d2b
 3
 4
 5
-285460	1a
-285463	1b1
-285465	1b2
-285467	2a
-285470	2b1
-285472	2b2
+289364	1a
+289367	1b1
+289369	1b2
+289371	2a
+289374	2b1
+289376	2b2
 1
 2
 3
@@ -19470,14 +33503,6 @@
 2
 3
 4
-1
-2
-3
-4
-5
-1
-2
-3
 1
 2
 3
@@ -19486,6 +33511,14 @@
 1
 2
 3
+1
+2
+3
+4
+5
+1
+2
+3
 4
 1
 2
@@ -19500,17 +33533,17 @@
 3
 4
 1
-285537	2a
-285539	2b
+289441	2a
+289443	2b
 1
 2
 3
 1
 1
-285546	2a
-285548	2b
-285550	3a
-285552	3b
+289450	2a
+289452	2b
+289454	3a
+289456	3b
 4
 1
 2
@@ -19524,28 +33557,28 @@
 1
 2
 3
-285567	1a
-285569	1b
-285571	1c
-285573	2a
-285575	2b
-285577	3a
-285579	3b
-285581	4a
-285583	4b
-285585	5a
-285587	5b
-285589	5c
-285591	6a
-285594	6b1
-285596	6b2
-285598	1
-285600	1a
-285603	1b1
-285605	1b2
-285607	2a
-285610	2b1
-285612	2b2
+289471	1a
+289473	1b
+289475	1c
+289477	2a
+289479	2b
+289481	3a
+289483	3b
+289485	4a
+289487	4b
+289489	5a
+289491	5b
+289493	5c
+289495	6a
+289498	6b1
+289500	6b2
+289502	1
+289504	1a
+289507	1b1
+289509	1b2
+289511	2a
+289514	2b1
+289516	2b2
 1
 2
 3
@@ -19570,66 +33603,35 @@
 3
 4
 1
-285638	1a
-285641	1b1
-285643	1b2
-285645	2a
-285648	2b1
-285650	2b2
-285652	3a
-285655	3b1
-285657	3b2
+289542	1a
+289545	1b1
+289547	1b2
+289549	2a
+289552	2b1
+289554	2b2
+289556	3a
+289559	3b1
+289561	3b2
 1
 2
 3
-285662	4a
-285664	4b
+289566	4a
+289568	4b
 5
 6
 1
 2
 3
 4
-285672	5a
-285674	5b
+289576	5a
+289578	5b
 6
-285678	1a1
-285680	1a2
-285682	1a3
-285684	1b
+289582	1a1
+289584	1a2
+289586	1a3
+289588	1b
 4
 5
-1
-2
-3
-4
-5
-6
-1
-2
-3
-4
-285699	1a1
-285701	1a2
-285703	1b
-285705	2a
-285707	2b
-285709	3a
-285711	3b
-285713	4a
-285715	4b
-285717	5a
-285719	5b
-6
-285722	1a
-285724	1b
-2
-3
-4
-285730	5a1
-285732	5a2
-285734	5b
-6
 1
 2
 3
@@ -19639,75 +33641,34 @@
 1
 2
 3
-1
-2
-3
-1
-2
-285751	1a
-285753	1b
-285755	2a
-285757	2b
-285759	1a
-285761	1b
-285763	1a
-285765	1b
-1
-1
-1
-2
-285771	1a
-285773	1b
-2
-285776	1a
-285778	1b
-285780	1c
-285782	1a
-285784	1b
-285786	2a
-285789	2b1
-285791	2b2
-1
-2
-1
-2
-3
-1
+4
+289603	1a1
+289605	1a2
+289607	1b
+289609	2a
+289611	2b
+289613	3a
+289615	3b
+289617	4a
+289619	4b
+289621	5a
+289623	5b
+6
+289626	1a
+289628	1b
 2
 3
 4
-5
+289634	5a1
+289636	5a2
+289638	5b
+6
 1
 2
 3
 4
 5
 6
-7
-1
-2
-1
-285813	1a
-285815	1b
-2
-3
-4
-1
-2
-1
-1
-2
-3
-4
-1
-2
-3
-1
-2
-1
-1
-285834	2a
-285836	2b
 1
 2
 3
@@ -19716,113 +33677,39 @@
 3
 1
 2
-3
+289655	1a
+289657	1b
+289659	2a
+289661	2b
+289663	1a
+289665	1b
+289667	1a
+289669	1b
 1
+1
+1
+2
+289675	1a
+289677	1b
+2
+289680	1a
+289682	1b
+289684	1c
+289686	1a
+289688	1b
+289690	2a
+289693	2b1
+289695	2b2
+1
+2
 1
 2
 3
-1
-2
-3
-4
-1
-2
-1
-2
-1
-2
-1
-2
-3
-1
-285865	2a
-285867	2b
-285869	2c
-285871	3a
-285873	3b
-4
-1
-2
-1
-285879	1a
-285881	1b
-285883	1c
-285885	2a
-285887	2b
-3
-1
-1
-1
 1
 2
 3
 4
 5
-285898	1a
-285901	1b1
-285903	1b2
-285905	1b3
-2
-285908	1a
-285910	1b
-285912	2a
-285914	2b
-1
-285917	2a
-285919	2b
-285921	1a
-285923	1b
-285925	2a
-285927	2b
-3
-4
-1
-2
-1
-285934	1a
-285936	1b
-285938	1c
-285940	2a
-285942	2b
-285944	3a
-285946	3b
-285948	4a
-285950	4b
-285953	4c1
-285955	4c2
-285957	5a
-285959	5b
-285961	5c
-6
-285964	1a
-285966	1b
-2
-3
-1
-1
-2
-285973	1a
-285975	1b
-2
-3
-285979	4a
-285981	4b
-5
-1
-2
-3
-4
-5
-1
-285991	2a1
-285993	2a2
-285996	2b1
-285998	2b2
-286000	2b3
-286002	2b4
-1
-2
-1
 1
 2
 3
@@ -19832,43 +33719,143 @@
 7
 1
 2
+1
+289717	1a
+289719	1b
+2
+3
+4
+1
+2
+1
+1
+2
+3
+4
+1
+2
+3
+1
+2
+1
+1
+289738	2a
+289740	2b
+1
+2
+3
+1
+2
+3
+1
+2
+3
+1
+1
+2
+3
+1
+2
+3
+4
+1
+2
+1
+2
+1
+2
+1
+2
+3
+1
+289769	2a
+289771	2b
+289773	2c
+289775	3a
+289777	3b
+4
+1
+2
+1
+289783	1a
+289785	1b
+289787	1c
+289789	2a
+289791	2b
+3
+1
+1
+1
+1
+2
 3
 4
 5
+289802	1a
+289805	1b1
+289807	1b2
+289809	1b3
+2
+289812	1a
+289814	1b
+289816	2a
+289818	2b
+1
+289821	2a
+289823	2b
+289825	1a
+289827	1b
+289829	2a
+289831	2b
+3
+4
+1
+2
+1
+289838	1a
+289840	1b
+289842	1c
+289844	2a
+289846	2b
+289848	3a
+289850	3b
+289852	4a
+289854	4b
+289857	4c1
+289859	4c2
+289861	5a
+289863	5b
+289865	5c
 6
-7
-8
-1
+289868	1a
+289870	1b
 2
 3
 1
-286026	2a
-286029	2b1
-286031	2b2
 1
 2
-1
+289877	1a
+289879	1b
+2
+3
+289883	4a
+289885	4b
+5
 1
 2
 3
 4
 5
-6
-7
-8
 1
-2
-3
-4
-5
-6
+289895	2a1
+289897	2a2
+289900	2b1
+289902	2b2
+289904	2b3
+289906	2b4
 1
 2
 1
-2
-3
-4
-5
 1
 2
 3
@@ -19884,7 +33871,16 @@
 6
 7
 8
-9
+1
+2
+3
+1
+289930	2a
+289933	2b1
+289935	2b2
+1
+2
+1
 1
 2
 3
@@ -19898,36 +33894,21 @@
 3
 4
 5
+6
 1
 2
 1
 2
-286090	1a
-286092	1b
-2
-286095	3a
-286097	3b
+3
 4
-1
-2
-1
-1
-2
-3
-1
-2
-1
-2
+5
 1
 2
 3
-1
-2
-3
-1
-2
-3
-1
+4
+5
+6
+7
 1
 2
 3
@@ -19944,19 +33925,71 @@
 5
 6
 7
+8
 1
 2
 3
 4
-286140	1a
-286143	1b1
-286145	1b2
-286147	2a
-286150	2b1
-286152	2b2
-286154	3a
-286157	3b1
-286159	3b2
+5
+1
+2
+1
+2
+289994	1a
+289996	1b
+2
+289999	3a
+290001	3b
+4
+1
+2
+1
+1
+2
+3
+1
+2
+1
+2
+1
+2
+3
+1
+2
+3
+1
+2
+3
+1
+1
+2
+3
+4
+5
+6
+7
+8
+9
+1
+2
+3
+4
+5
+6
+7
+1
+2
+3
+4
+290044	1a
+290047	1b1
+290049	1b2
+290051	2a
+290054	2b1
+290056	2b2
+290058	3a
+290061	3b1
+290063	3b2
 4
 1
 2
@@ -19975,8 +34008,8 @@
 1
 1
 1
-286179	2a
-286181	2b
+290083	2a
+290085	2b
 3
 1
 1
@@ -20005,27 +34038,27 @@
 3
 1
 2
-286211	1a
-286214	1b1
-286216	1b2
-286218	2a
-286221	2b1
-286223	2b2
-286225	3a
-286228	3b1
-286230	3b2
-286232	1a
-286235	2b1
-286237	2b2
+290115	1a
+290118	1b1
+290120	1b2
+290122	2a
+290125	2b1
+290127	2b2
+290129	3a
+290132	3b1
+290134	3b2
+290136	1a
+290139	2b1
+290141	2b2
 1
 1
 2
 3
 1
-286244	1a
-286247	1b1
-286249	1b2
-286251	1b3
+290148	1a
+290151	1b1
+290153	1b2
+290155	1b3
 2
 3
 1
@@ -20042,10 +34075,10 @@
 1
 2
 3
-286269	4a
-286271	4b
-286273	5a
-286275	5b
+290173	4a
+290175	4b
+290177	5a
+290179	5b
 1
 1
 2
@@ -20083,9 +34116,9 @@
 1
 2
 1
-286314	1a
-286317	1b1
-286319	1b2
+290218	1a
+290221	1b1
+290223	1b2
 2
 3
 4
@@ -20146,8 +34179,8 @@
 2
 3
 1
-286381	2a
-286383	2b
+290285	2a
+290287	2b
 3
 4
 5
@@ -20170,41 +34203,41 @@
 4
 5
 6
-286407	1
-286409	1a
-286412	1b1
-286414	1b2
+290311	1
+290313	1a
+290316	1b1
+290318	1b2
 1
-286417	1a
-286420	1b1
-286422	1b2
-286424	1a
-286427	1b1
-286429	1b2
-286431	1b3
-286433	1b4
-286435	2a
-286438	2b1
-286440	2b2
-286442	2b3
-286444	2b4
+290321	1a
+290324	1b1
+290326	1b2
+290328	1a
+290331	1b1
+290333	1b2
+290335	1b3
+290337	1b4
+290339	2a
+290342	2b1
+290344	2b2
+290346	2b3
+290348	2b4
 1
-1
-2
 1
 2
 1
 2
-3
 1
 2
 3
-286458	1a1
-286460	1a2
-286462	1a3
-286464	1a4
-286467	1b1
-286469	1b2
+1
+2
+3
+290362	1a1
+290364	1a2
+290366	1a3
+290368	1a4
+290371	1b1
+290373	1b2
 2
 1
 1
@@ -20219,8 +34252,8 @@
 1
 2
 3
-286485	4a
-286487	4b
+290389	4a
+290391	4b
 5
 6
 1
@@ -20228,9 +34261,9 @@
 3
 4
 5
-286496	1a
-286499	1b1
-286501	1b2
+290400	1a
+290403	1b1
+290405	1b2
 2
 3
 4
@@ -20321,10 +34354,10 @@
 11
 1
 2
-286593	3a
-286595	3b
-286597	4a
-286599	4b
+290497	3a
+290499	3b
+290501	4a
+290503	4b
 1
 1
 2
@@ -20374,14 +34407,14 @@
 1
 1
 1
-286650	1a
-286653	1b1
-286655	1b2
-286657	1b3
-286659	1b4
-286662	1c1
-286664	1c2
-286666	1c3
+290554	1a
+290557	1b1
+290559	1b2
+290561	1b3
+290563	1b4
+290566	1c1
+290568	1c2
+290570	1c3
 2
 1
 2
@@ -20415,265 +34448,265 @@
 2'
 3'
 4'
-286701	5a'
-286703	5b'
-286705	5c'
+290605	5a'
+290607	5b'
+290609	5c'
 1
 2
 3
-286710	1
-286712	1a
-286715	1b1
-286717	1b2
-286719	2a
-286722	2b1
-286724	2b2
-286726	1a
-286729	1b1
-286731	1b2
-286733	2a
-286736	2b1
-286738	2b2
-286740	2b3
-3
-1
-2
-1
-2
+290614	1
+290616	1a
+290619	1b1
+290621	1b2
+290623	2a
+290626	2b1
+290628	2b2
+290630	1a
+290633	1b1
+290635	1b2
+290637	2a
+290640	2b1
+290642	2b2
+290644	2b3
 3
 1
 2
 1
 2
 3
-4
 1
 2
-286756	1a
-286758	1b
-2
-286761	1a
-286764	1b1
-286766	1b2
-286768	1b3
-286770	1b4
-286772	1b5
-286774	2a
-286777	2b1
-286779	2b2
-286781	2b3
-286783	2b4
-1
 1
 2
 3
 4
-5
 1
+2
+290660	1a
+290662	1b
+2
+290665	1a
+290668	1b1
+290670	1b2
+290672	1b3
+290674	1b4
+290676	1b5
+290678	2a
+290681	2b1
+290683	2b2
+290685	2b3
+290687	2b4
 1
-286793	2a
-286796	2b1
-286798	2b2
-3
-4
 1
 2
 3
 4
 5
 1
-2
+1
+290697	2a
+290700	2b1
+290702	2b2
 3
 4
-5
-6
-286813	1a
-286815	1b
-286817	1c
-1
-1
-1
-1
-1
-1
-286825	2a
-286827	2b
-286829	3a
-286832	3b1
-286834	3b2
-1
-1
-1
-2
-286840	1a
-286842	1b
-286844	2a
-286846	2b
-286848	3a
-286850	3b
-286852	1a
-286855	1b1
-286857	1b2
-286859	1b3
-2
-3
-1
-2
-1
-2
-3
-286868	1a
-286871	1b1
-286873	1b2
-286875	1c
-2
-1
-1
-1
-2
-1
-1
-1
-1
-1
-1
-2
-1
-2
-1
-2
-1
-1
-2
-1
-2
-1
-2
-1
-1
-1
-2
-3
-4
-1
-2
-1
-2
-3
-1
-2
-1
-1
-1
-2
-1
-1
-2
-1
-2
-1
-2
-3
-1
-1
-2
-3
-4
-1
-2
-3
-4
-1
-1
-1
-2
-1
-1
-2
-3
-4
-1
-1
-2
-3
-1
-2
-3
-1
-2
-3
-286953	1a
-286955	1b
-286957	2a
-286959	2b
-286961	1a
-286963	1b
-1
-2
-3
-4
-1
-1
-286971	1a
-286973	1b
-2
-286976	1a
-286978	1b
-286980	1a
-286982	1b
-286984	2a
-286986	2b
-286988	3a
-286990	3b
-1
-1
-2
-286995	1a
-286998	1b1
-287000	1b2
-287002	1b3
-287004	1b4
-287006	1c
-287008	2a
-287010	2b
-287012	2c
-287014	1
-287016	1a
-287018	1b
-2
-3
-287022	1a
-287024	1b
-287026	2a
-287028	2b
-3
-287031	4a
-287033	4b
-5
-6
-7
 1
 2
 3
 4
 5
-287043	1a
-287046	1b1
-287048	1b2
-2
-3
-287052	4a
-287054	4b
-5
-287057	6a
-287059	6b
-7
 1
 2
 3
 4
 5
 6
+290717	1a
+290719	1b
+290721	1c
+1
+1
+1
+1
+1
+1
+290729	2a
+290731	2b
+290733	3a
+290736	3b1
+290738	3b2
+1
+1
+1
+2
+290744	1a
+290746	1b
+290748	2a
+290750	2b
+290752	3a
+290754	3b
+290756	1a
+290759	1b1
+290761	1b2
+290763	1b3
+2
+3
+1
+2
+1
+2
+3
+290772	1a
+290775	1b1
+290777	1b2
+290779	1c
+2
+1
+1
+1
+2
+1
+1
+1
+1
+1
+1
+2
+1
+2
+1
+2
+1
+1
+2
+1
+2
+1
+2
+1
+1
+1
+2
+3
+4
+1
+2
+1
+2
+3
+1
+2
+1
+1
+1
+2
+1
+1
+2
+1
+2
+1
+2
+3
+1
+1
+2
+3
+4
+1
+2
+3
+4
+1
+1
+1
+2
+1
+1
+2
+3
+4
+1
+1
+2
+3
+1
+2
+3
+1
+2
+3
+290857	1a
+290859	1b
+290861	2a
+290863	2b
+290865	1a
+290867	1b
+1
+2
+3
+4
+1
+1
+290875	1a
+290877	1b
+2
+290880	1a
+290882	1b
+290884	1a
+290886	1b
+290888	2a
+290890	2b
+290892	3a
+290894	3b
+1
+1
+2
+290899	1a
+290902	1b1
+290904	1b2
+290906	1b3
+290908	1b4
+290910	1c
+290912	2a
+290914	2b
+290916	2c
+290918	1
+290920	1a
+290922	1b
+2
+3
+290926	1a
+290928	1b
+290930	2a
+290932	2b
+3
+290935	4a
+290937	4b
+5
+6
+7
+1
+2
+3
+4
+5
+290947	1a
+290950	1b1
+290952	1b2
+2
+3
+290956	4a
+290958	4b
+5
+290961	6a
+290963	6b
+7
+1
+2
+3
+4
+5
+6
 7
 1
 2
@@ -20703,23 +34736,23 @@
 2
 1
 2
-287097	1a
-287099	1b
-287101	2a
-287103	2b
+291001	1a
+291003	1b
+291005	2a
+291007	2b
 1
 1
 1
-287108	1a
-287110	1b
-287112	2a
-287114	2b
+291012	1a
+291014	1b
+291016	2a
+291018	2b
 3
-287117	4a
-287120	4b1
-287122	4b2
-287124	5a
-287126	5b
+291021	4a
+291024	4b1
+291026	4b2
+291028	5a
+291030	5b
 1
 2
 1
@@ -20734,154 +34767,8 @@
 2
 1
 1
-287142	1a
-287144	1b
-2
-1
-2
-1
-1
-2
-3
-4
-1
-287156	2a1
-287158	2a2
-287160	2b
-1
-2
-287164	1a
-287167	1b1
-287169	1b2
-287171	2a
-287173	2b
-1
-1
-1
-1
-1
-1
-1
-1
-2
-1
-287185	1a
-287188	1b1
-287190	1b2
-287192	1b3
-287194	1b4
-2
-3
-1
-2
-3
-287201	1a
-287203	2a
-287205	2b
-287207	3a
-287209	3b
-287211	4a
-287213	4b
-287215	1a
-287217	2a
-287219	2b
-287221	1a
-287223	2a
-1
-2
-1
-2
-3
-4
-1
-287232	1a
-287234	1b
-2
-1
-1
-2
-3
-1
-1
-1
-2
-3
-1
-2
-1
-2
-1
-1
-2
-1
-1
-1
-1
-1
-1
-2
-1
-2
-287262	1a
-287266	1b1A
-287268	1b1B
-287270	1b1C
-287273	1b2A
-287275	1b2B
-287277	1b2C
-287279	2a
-287282	2b1
-287284	2b2
-287286	1a
-287288	1b
-287290	2a
-287292	2b
-1
-1
-287296	2a
-287298	2b
-3
-4
-1
-2
-1
-1
-2
-1
-2
-3
-1
-287311	1a
-287313	1b
-287315	2a
-287317	2b
-1
-287320	2a
-287322	2b
-287324	3a
-287326	3b
-1
-2
-1
-2
-3
-1
-287334	1a
-287336	1b
-287338	2a
-287340	2b
-287342	3a
-287344	3b
-1
-2
-3
-1
-2
-1
-2
-3
-1
-1
+291046	1a
+291048	1b
 2
 1
 2
@@ -20889,11 +34776,157 @@
 1
 2
 3
+4
+1
+291060	2a1
+291062	2a2
+291064	2b
+1
+2
+291068	1a
+291071	1b1
+291073	1b2
+291075	2a
+291077	2b
+1
+1
+1
+1
+1
+1
+1
+1
+2
+1
+291089	1a
+291092	1b1
+291094	1b2
+291096	1b3
+291098	1b4
+2
+3
+1
+2
+3
+291105	1a
+291107	2a
+291109	2b
+291111	3a
+291113	3b
+291115	4a
+291117	4b
+291119	1a
+291121	2a
+291123	2b
+291125	1a
+291127	2a
+1
+2
 1
 2
 3
 4
 1
+291136	1a
+291138	1b
+2
+1
+1
+2
+3
+1
+1
+1
+2
+3
+1
+2
+1
+2
+1
+1
+2
+1
+1
+1
+1
+1
+1
+2
+1
+2
+291166	1a
+291170	1b1A
+291172	1b1B
+291174	1b1C
+291177	1b2A
+291179	1b2B
+291181	1b2C
+291183	2a
+291186	2b1
+291188	2b2
+291190	1a
+291192	1b
+291194	2a
+291196	2b
+1
+1
+291200	2a
+291202	2b
+3
+4
+1
+2
+1
+1
+2
+1
+2
+3
+1
+291215	1a
+291217	1b
+291219	2a
+291221	2b
+1
+291224	2a
+291226	2b
+291228	3a
+291230	3b
+1
+2
+1
+2
+3
+1
+291238	1a
+291240	1b
+291242	2a
+291244	2b
+291246	3a
+291248	3b
+1
+2
+3
+1
+2
+1
+2
+3
+1
+1
+2
+1
+2
+1
+1
+2
+3
+1
+2
+3
+4
+1
 1
 1
 1
@@ -20902,26 +34935,26 @@
 1
 2
 3
-287376	1a
-287378	1b
-287380	2a
-287382	2b
-287384	3a
-287386	3b
-287388	4a
-287390	4b
+291280	1a
+291282	1b
+291284	2a
+291286	2b
+291288	3a
+291290	3b
+291292	4a
+291294	4b
 5
-287393	1a
-287395	1b
-287397	1c
-287399	2a
-287401	2b
-287403	3a
-287405	3b
-287407	4a
-287409	4b
-287411	5a
-287413	5b
+291297	1a
+291299	1b
+291301	1c
+291303	2a
+291305	2b
+291307	3a
+291309	3b
+291311	4a
+291313	4b
+291315	5a
+291317	5b
 1
 1
 2
@@ -20939,12 +34972,12 @@
 2
 1
 1
-287432	1a
-287435	1b1
-287437	1b2
-287439	1b3
-287441	1b4
-287443	1b5
+291336	1a
+291339	1b1
+291341	1b2
+291343	1b3
+291345	1b4
+291347	1b5
 2
 1
 1
@@ -20968,9 +35001,9 @@
 1
 2
 3
-287468	1a
-287471	1b1
-287473	1b2
+291372	1a
+291375	1b1
+291377	1b2
 2
 3
 1
@@ -21004,9 +35037,9 @@
 3
 1
 1
-287508	1a
-287511	1b1
-287513	1b2
+291412	1a
+291415	1b1
+291417	1b2
 2
 3
 1
@@ -21016,22 +35049,22 @@
 1
 1
 1
-287524	1a
-287526	1b
-287528	2a
-287530	2b
-287532	1a
-287534	1b
-287536	2a
-287538	2b
-287540	1a
-287542	1b
-287544	2a
-287547	2b1
-287549	2b2
-287551	3a
-287554	3b1
-287556	3b2
+291428	1a
+291430	1b
+291432	2a
+291434	2b
+291436	1a
+291438	1b
+291440	2a
+291442	2b
+291444	1a
+291446	1b
+291448	2a
+291451	2b1
+291453	2b2
+291455	3a
+291458	3b1
+291460	3b2
 4
 1
 1
@@ -21102,8 +35135,8 @@
 1
 2
 3
-287628	1a
-287630	1b
+291532	1a
+291534	1b
 2
 3
 4
@@ -21117,18 +35150,18 @@
 2
 3
 1
-287645	1a
-287647	1b
-287649	2a
-287651	2b
+291549	1a
+291551	1b
+291553	2a
+291555	2b
 3
 4
 5
 1
 2
-287658	1a
-287661	1b1
-287663	1b2
+291562	1a
+291565	1b1
+291567	1b2
 2
 1
 2
@@ -21182,16 +35215,16 @@
 2
 3
 4
-287718	1a
-287720	1b
-287722	2a
-287724	2b
-287726	3a
-287728	3b
-287730	4a
-287732	4b
-287734	5a
-287736	5b
+291622	1a
+291624	1b
+291626	2a
+291628	2b
+291630	3a
+291632	3b
+291634	4a
+291636	4b
+291638	5a
+291640	5b
 1
 2
 1
@@ -21205,62 +35238,28 @@
 2
 3
 1
-287751	1a
-287754	1b1
-287756	1b2
+291655	1a
+291658	1b1
+291660	1b2
 1
 1
-287760	1a
-287763	1b1
-287765	1b2
+291664	1a
+291667	1b1
+291669	1b2
 2
-287768	1a
-287770	1b
-287772	2a
-287774	2b
-287776	2c
-287778	3a
-287780	3b
-287783	3c1
-287785	3c2
-287787	3c3
-287789	3d
-1
-2
+291672	1a
+291674	1b
+291676	2a
+291678	2b
+291680	2c
+291682	3a
+291684	3b
+291687	3c1
+291689	3c2
+291691	3c3
+291693	3d
 1
 2
-3
-4
-1
-1
-2
-1
-2
-3
-1
-2
-3
-4
-1
-2
-1
-2
-1
-2
-287813	3a
-287815	3b
-4
-1
-1
-2
-3
-287822	1a
-287824	1b
-2
-4
-1
-2
-1
 1
 2
 3
@@ -21270,6 +35269,40 @@
 2
 1
 2
+3
+1
+2
+3
+4
+1
+2
+1
+2
+1
+2
+291717	3a
+291719	3b
+4
+1
+1
+2
+3
+291726	1a
+291728	1b
+2
+4
+1
+2
+1
+1
+2
+3
+4
+1
+1
+2
+1
+2
 1
 1
 2
@@ -21281,74 +35314,74 @@
 3
 4
 1
-287851	1a
-287854	1b1
-287856	1b2
-287858	1a
-287861	1b1
-287863	2a
-287866	2b1
-287868	2b2
-287871	3b3
-287874	4b4
+291755	1a
+291758	1b1
+291760	1b2
+291762	1a
+291765	1b1
+291767	2a
+291770	2b1
+291772	2b2
+291775	3b3
+291778	4b4
 1
 1
-287878	2a
-287881	2b1
-287883	2b2
-287885	2b3
-1
-2
-287889	3a
-287891	3b
-1
+291782	2a
+291785	2b1
+291787	2b2
+291789	2b3
 1
 2
-3
+291793	3a
+291795	3b
 1
-287898	1a
-287900	2a
-287902	2b
-287904	3a
-287906	3b
-287908	4a
-1
-287911	2a
-287913	2b
-287915	2c
-287917	3a
-287919	3b
-287921	3c
-287923	3d
-287925	3e
-287927	4a
-287929	4b
-287931	4c
-287933	4d
-287935	4e
-287937	4f
-287939	4g
-287941	4h
-287943	4i
-287945	4j
-287947	4k
-287949	4l
-287951	4m
-287953	4n
-287955	4o
-287957	4p
-287959	4q
-1
-2
-1
-2
 1
 2
 3
-287968	1a
-287970	1b
-287972	2a
-287974	2b
+1
+291802	1a
+291804	2a
+291806	2b
+291808	3a
+291810	3b
+291812	4a
+1
+291815	2a
+291817	2b
+291819	2c
+291821	3a
+291823	3b
+291825	3c
+291827	3d
+291829	3e
+291831	4a
+291833	4b
+291835	4c
+291837	4d
+291839	4e
+291841	4f
+291843	4g
+291845	4h
+291847	4i
+291849	4j
+291851	4k
+291853	4l
+291855	4m
+291857	4n
+291859	4o
+291861	4p
+291863	4q
+1
+2
+1
+2
+1
+2
+3
+291872	1a
+291874	1b
+291876	2a
+291878	2b
 1
 2
 1
@@ -21360,13 +35393,13 @@
 1
 2
 1
-287987	2a
-287989	2b
-287992	3a1
-287994	3a2
-287996	3b
-287998	4a
-288000	4b
+291891	2a
+291893	2b
+291896	3a1
+291898	3a2
+291900	3b
+291902	4a
+291904	4b
 5
 1
 2
@@ -21376,8 +35409,8 @@
 1
 2
 3
-288011	1a
-288013	1b
+291915	1a
+291917	1b
 2
 3
 1
@@ -21392,16 +35425,16 @@
 1
 2
 3
-288029	1a
-288031	1b
-288033	2a
-288035	2b
-288037	2c
-288039	1a
-288042	1b1
-288044	1b2
-288046	2a
-288048	2b
+291933	1a
+291935	1b
+291937	2a
+291939	2b
+291941	2c
+291943	1a
+291946	1b1
+291948	1b2
+291950	2a
+291952	2b
 3
 1
 2
@@ -21410,286 +35443,84 @@
 2
 3
 1
-288058	2a
-288061	2b1
-288064	2b2A
-288066	2b2B
-288068	3a
-288070	3b
-288072	1
-288074	1a
-288076	1b
-288078	1c
+291962	2a
+291965	2b1
+291968	2b2A
+291970	2b2B
+291972	3a
+291974	3b
+291976	1
+291978	1a
+291980	1b
+291982	1c
 2
 3
 1
-288083	2
-288085	2a
-288087	2b
-288089	2c
+291987	2
+291989	2a
+291991	2b
+291993	2c
 1
 1
 1
 1
-288095	1a
-288098	1b1
-288100	1b2
-288102	1b3
-288104	1b4
+291999	1a
+292002	1b1
+292004	1b2
+292006	1b3
+292008	1b4
 2
-288107	1a
-288110	1b1
-288112	1b2
-288114	1b3
+292011	1a
+292014	1b1
+292016	1b2
+292018	1b3
 2
-288117	3a
-288119	3b
-288121	4a
-288123	4b
+292021	3a
+292023	3b
+292025	4a
+292027	4b
 5
 1
-288127	2a
-288130	2b1
-288132	2b2
-288134	2b3
-288136	2b4
-288138	3a
-288140	3b
+292031	2a
+292034	2b1
+292036	2b2
+292038	2b3
+292040	2b4
+292042	3a
+292044	3b
 1
 1
 2
 1
-288146	1a
-288148	1b
-288151	1c1
-288153	1c2
-288155	2a
-288157	2b
-288159	3a
-288162	3b1
-288164	3b2
-288166	1a
-288169	1b1
-288171	1b2
-288173	2a
-288176	2b1
-288178	2b2
-288180	2b3
-288182	2b4
-1
-2
-3
-4
-1
-1
-288190	2a
-288193	2b1
-288195	2b2
-288197	2b3
-1
-2
-1
-2
-3
-4
-5
-1
-2
-1
-2
-1
-2
-1
-2
-3
-1
-1
-1
-288218	1a
-288220	1b
-288222	2a
-288224	2b
-3
-1
-1
-1
-2
-1
-2
-1
-2
-288235	1a
-288237	1b
-288239	2a
-288242	2b1
-288244	2b2
-1
-1
-2
-3
-1
-2
-1
-288253	2a
-288255	2b
-3
-1
-2
-3
-1
-2
-1
-1
-1
-1
-288267	1a
-288269	1b
-288271	2a
-288273	2b
-3
-1
-2
-1
-1
+292050	1a
+292052	1b
+292055	1c1
+292057	1c2
+292059	2a
+292061	2b
+292063	3a
+292066	3b1
+292068	3b2
+292070	1a
+292073	1b1
+292075	1b2
+292077	2a
+292080	2b1
+292082	2b2
+292084	2b3
+292086	2b4
 1
 2
 3
 4
 1
 1
-2
-1
-1
-1
-288290	1a
-288292	1b
-1
+292094	2a
+292097	2b1
+292099	2b2
+292101	2b3
 1
 2
-3
-1
-1
-2
-3
-1
-288303	1a
-288305	1b
-288307	2a
-288309	2b
-3
-1
-1
-2
-3
-1
-1
-2
-1
-2
-3
-1
-2
-3
-1
-288326	1a
-288328	1b
-288330	2a
-1
-1
-1
-2
-1
-2
-1
-2
-3
-1
-2
-3
-1
-1
-2
-3
-1
-1
-2
-1
-1
-2
-1
-1
-1
-1
-1
-1
-2
-1
-2
-1
-2
-1
-288366	1a
-288368	1b
-288370	2a
-288372	2b
-1
-2
-1
-2
-3
-1
-1
-2
-3
-4
-1
-1
-288386	2a
-288388	2b
-3
-1
-2
-1
-2
-1
-2
-3
-1
-1
-2
-288401	3a
-288405	3b1A
-288408	3b1B1
-288410	3b1B2
-288412	3b1B3
-288414	3b1B4
-288416	3b2
-4
-288419	5a
-288421	5b
-1
-2
-1
-1
-1
-2
-3
-1
-2
-288432	1a
-288434	1b
-2
-3
-1
-2
-1
-2
-3
-4
-1
-2
-3
-4
 1
 2
 3
@@ -21699,6 +35530,208 @@
 2
 1
 2
+1
+2
+1
+2
+3
+1
+1
+1
+292122	1a
+292124	1b
+292126	2a
+292128	2b
+3
+1
+1
+1
+2
+1
+2
+1
+2
+292139	1a
+292141	1b
+292143	2a
+292146	2b1
+292148	2b2
+1
+1
+2
+3
+1
+2
+1
+292157	2a
+292159	2b
+3
+1
+2
+3
+1
+2
+1
+1
+1
+1
+292171	1a
+292173	1b
+292175	2a
+292177	2b
+3
+1
+2
+1
+1
+1
+2
+3
+4
+1
+1
+2
+1
+1
+1
+292194	1a
+292196	1b
+1
+1
+2
+3
+1
+1
+2
+3
+1
+292207	1a
+292209	1b
+292211	2a
+292213	2b
+3
+1
+1
+2
+3
+1
+1
+2
+1
+2
+3
+1
+2
+3
+1
+292230	1a
+292232	1b
+292234	2a
+1
+1
+1
+2
+1
+2
+1
+2
+3
+1
+2
+3
+1
+1
+2
+3
+1
+1
+2
+1
+1
+2
+1
+1
+1
+1
+1
+1
+2
+1
+2
+1
+2
+1
+292270	1a
+292272	1b
+292274	2a
+292276	2b
+1
+2
+1
+2
+3
+1
+1
+2
+3
+4
+1
+1
+292290	2a
+292292	2b
+3
+1
+2
+1
+2
+1
+2
+3
+1
+1
+2
+292305	3a
+292309	3b1A
+292312	3b1B1
+292314	3b1B2
+292316	3b1B3
+292318	3b1B4
+292320	3b2
+4
+292323	5a
+292325	5b
+1
+2
+1
+1
+1
+2
+3
+1
+2
+292336	1a
+292338	1b
+2
+3
+1
+2
+1
+2
+3
+4
+1
+2
+3
+4
+1
+2
+3
+4
+5
+1
+2
+1
+2
 3
 1
 2
@@ -21715,13 +35748,13 @@
 2
 1
 2
-288474	1a1
-288476	1a2
-288478	1b
-288480	2a
-288482	2b
-288485	2c1
-288487	2c2
+292378	1a1
+292380	1a2
+292382	1b
+292384	2a
+292386	2b
+292389	2c1
+292391	2c2
 1
 2
 3
@@ -21741,11 +35774,11 @@
 1
 1
 1
-288508	2a
-288510	2b
+292412	2a
+292414	2b
 3
-288513	1a
-288515	1b
+292417	1a
+292419	1b
 2
 3
 1
@@ -21766,8 +35799,8 @@
 2
 1
 1
-288537	1a
-288539	1b
+292441	1a
+292443	1b
 2
 1
 1
@@ -21810,9 +35843,9 @@
 1
 2
 3
-288583	1a
-288585	1b
-288587	1c
+292487	1a
+292489	1b
+292491	1c
 2
 1
 2
@@ -21828,16 +35861,16 @@
 2
 4
 5
-288604	1a
-288607	1b1
-288609	1b2
+292508	1a
+292511	1b1
+292513	1b2
 2
 3
-288613	1a
-288615	1b
+292517	1a
+292519	1b
 2
-288618	3a
-288620	3b
+292522	3a
+292524	3b
 4
 5
 1
@@ -21866,34 +35899,34 @@
 2
 3
 1
-288650	1a
-288652	1b
-288654	2a
-288656	2b
-288658	3a
-288660	3b
-288662	4a
-288664	4b
-288666	5a
-288668	5b
-288670	6a
-288672	6b
-288674	7a
-288676	7b
-288678	8a
-288680	8b
-288682	1a
-288684	1b
-288686	2a
-288688	2b
+292554	1a
+292556	1b
+292558	2a
+292560	2b
+292562	3a
+292564	3b
+292566	4a
+292568	4b
+292570	5a
+292572	5b
+292574	6a
+292576	6b
+292578	7a
+292580	7b
+292582	8a
+292584	8b
+292586	1a
+292588	1b
+292590	2a
+292592	2b
 3
 1
-288692	1a
-288694	1b
-288696	2a
-288698	2b
-288700	3a
-288702	3b
+292596	1a
+292598	1b
+292600	2a
+292602	2b
+292604	3a
+292606	3b
 4
 5
 6
@@ -21912,8 +35945,8 @@
 7
 8
 9
-288722	10a
-288724	10b
+292626	10a
+292628	10b
 11
 1
 2
@@ -21927,11 +35960,11 @@
 10
 1
 2
-288739	1a
-288741	1b
+292643	1a
+292645	1b
 2
-288744	3a
-288746	3b
+292648	3a
+292650	3b
 4
 1
 2
@@ -21971,8 +36004,8 @@
 1
 2
 3
-288787	1a
-288789	1b
+292691	1a
+292693	1b
 1
 2
 1
@@ -22006,9 +36039,9 @@
 1
 1
 1
-288824	2
-288826	2a
-288828	2b
+292728	2
+292730	2a
+292732	2b
 3
 4
 1
@@ -22019,12 +36052,12 @@
 3
 1
 2
-288840	1a
-288842	1b
-288844	2a
-288846	2b
-288848	3a
-288850	3b
+292744	1a
+292746	1b
+292748	2a
+292750	2b
+292752	3a
+292754	3b
 4
 1
 2
@@ -22052,48 +36085,6 @@
 4
 1
 1
-1
-2
-3
-4
-5
-6
-7
-1
-2
-3
-4
-5
-6
-1
-1
-2
-3
-288896	1a
-288898	1b
-288900	2a
-288902	2b
-288904	3a
-288906	3b
-4
-1
-2
-288911	3a
-288913	3b
-4
-288916	1a
-288918	1b
-2
-288921	3a
-1
-2
-288925	3a
-288927	3b
-288929	4a
-288931	4b
-288933	5a
-288935	5b
-6
 1
 2
 3
@@ -22107,23 +36098,65 @@
 4
 5
 6
-288951	1a
-288953	1b
+1
+1
+2
+3
+292800	1a
+292802	1b
+292804	2a
+292806	2b
+292808	3a
+292810	3b
+4
+1
+2
+292815	3a
+292817	3b
+4
+292820	1a
+292822	1b
+2
+292825	3a
+1
+2
+292829	3a
+292831	3b
+292833	4a
+292835	4b
+292837	5a
+292839	5b
+6
+1
+2
+3
+4
+5
+6
+7
+1
+2
+3
+4
+5
+6
+292855	1a
+292857	1b
 2
 1
 2
-288958	1a
-288960	1b
-288962	2a
-288964	2b
-288966	3a
-288969	3b1
-288971	3b2
-288973	3b3
-288976	3c1
-288978	3c2
-288981	3d1
-288983	3d2
+292862	1a
+292864	1b
+292866	2a
+292868	2b
+292870	3a
+292873	3b1
+292875	3b2
+292877	3b3
+292880	3c1
+292882	3c2
+292885	3d1
+292887	3d2
 1
 1
 1
@@ -22147,64 +36180,64 @@
 1
 2
 3
-289008	1a
-289010	1b
-289012	1c
-289014	2a
-289016	2b
-289018	2c
-289020	3a
-289022	3b
-289024	4a
-289026	4b
-289028	4c
-289030	4d
-289032	4e
-289034	5a
-289036	5b
-289038	5c
-289040	5d
-289042	6a
-289044	6b
-289046	6c
-289048	7a
-289050	7b
-289052	7c
-289054	7d
-289056	7e
-289058	8a
-289060	8b
-289062	8c
-289064	8d
-289066	8e
-289068	9a
-289070	9b
-289072	9c
-289074	9d
-289076	9e
+292912	1a
+292914	1b
+292916	1c
+292918	2a
+292920	2b
+292922	2c
+292924	3a
+292926	3b
+292928	4a
+292930	4b
+292932	4c
+292934	4d
+292936	4e
+292938	5a
+292940	5b
+292942	5c
+292944	5d
+292946	6a
+292948	6b
+292950	6c
+292952	7a
+292954	7b
+292956	7c
+292958	7d
+292960	7e
+292962	8a
+292964	8b
+292966	8c
+292968	8d
+292970	8e
+292972	9a
+292974	9b
+292976	9c
+292978	9d
+292980	9e
 1
 2
 3
 4
 1
 2
-289084	3a
-289086	3b
+292988	3a
+292990	3b
 4
-289089	1a
-289091	1b
-289093	1c
+292993	1a
+292995	1b
+292997	1c
 2
 3
 4
 5
 6
 1
-289102	1a1
-289104	1a2
-289106	1b
-289108	2a
-289110	2b
+293006	1a1
+293008	1a2
+293010	1b
+293012	2a
+293014	2b
 3
 4
 5
@@ -22385,8 +36418,8 @@
 2
 3
 1
-289292	1a
-289294	1b
+293196	1a
+293198	1b
 2
 1
 1
@@ -22407,38 +36440,38 @@
 1
 2
 1
-289316	1a
-289318	1b
+293220	1a
+293222	1b
 2
-289321	1a
-289323	1b
-2
-1
+293225	1a
+293227	1b
 2
 1
 2
-3
-289331	1a
-289333	1b
-2
-1
 1
 2
 3
+293235	1a
+293237	1b
+2
 1
-289341	2a
-289343	2b
+1
+2
 3
 1
-289347	1b
-289349	2a
-289351	2b
-289353	3a
-289355	3b
+293245	2a
+293247	2b
+3
+1
+293251	1b
+293253	2a
+293255	2b
+293257	3a
+293259	3b
 4
-289358	5a
-289361	5b1
-289363	5b2
+293262	5a
+293265	5b1
+293267	5b2
 1
 1
 2
@@ -22450,12 +36483,12 @@
 2
 3
 1
-289376	1a
-289379	1b1
-289381	1b2
-289383	1c
-289385	1a
-289387	1b
+293280	1a
+293283	1b1
+293285	1b2
+293287	1c
+293289	1a
+293291	1b
 2
 3
 4
@@ -22482,8 +36515,8 @@
 1
 2
 3
-289415	1a
-289417	1b
+293319	1a
+293321	1b
 2
 1
 2
@@ -22496,15 +36529,15 @@
 2
 1
 2
-289431	3a
-289434	3b1
+293335	3a
+293338	3b1
 1
-289437	1a
-289440	1b1
-289442	1b2
+293341	1a
+293344	1b1
+293346	1b2
 2
-289445	3a
-289448	3b1
+293349	3a
+293352	3b1
 1
 2
 3
@@ -22517,109 +36550,31 @@
 2
 3
 1
-289463	1a1
-289465	1a2
-289467	1b
+293367	1a1
+293369	1a2
+293371	1b
 1
-289470	2a
-289473	2b1
-289475	2b2
-289477	2b3
-289479	1a
-289481	1b
-289483	2a
-289486	2b1
-289488	2b2
-1
-2
-3
-1
-2
-3
-289497	1a1
-289499	1a2
-289501	1b
-289503	2a
-289505	2b
-1
-1
-2
-3
-1
-1
-2
+293374	2a
+293377	2b1
+293379	2b2
+293381	2b3
+293383	1a
+293385	1b
+293387	2a
+293390	2b1
+293392	2b2
 1
 2
 3
 1
 2
 3
-289520	1
-289522	1a
-3
+293401	1a1
+293403	1a2
+293405	1b
+293407	2a
+293409	2b
 1
-289526	2a
-289529	2b1
-289531	2b2
-289533	1a
-289535	1b
-289537	2a
-289539	2b
-1
-289542	2a
-289544	2b
-289546	1a
-289549	1b1
-289551	1b2
-1
-1
-2
-3
-1
-2
-289559	1a
-289561	1b
-2
-3
-1
-1
-289567	1a
-289569	1b
-2
-1
-2
-1
-1
-2
-289577	1a
-289579	1b
-2
-1
-2
-1
-289585	2a
-289587	2b
-1
-2
-1
-1
-1
-2
-289595	1a
-289597	1b
-2
-289600	1a
-289602	1b
-1
-1
-2
-289607	1a
-289609	1b
-2
-1
-289613	1a
-289615	1b
-2
 1
 2
 3
@@ -22628,27 +36583,105 @@
 2
 1
 2
+3
 1
 2
 3
-289629	1a
-289631	1b
-2
-1
-2
-1
-2
-289638	1a
-289640	1b
-2
-1
-1
-289645	2a
-289647	2b
+293424	1
+293426	1a
 3
-289650	1a
-289653	1b1
-289655	1b2
+1
+293430	2a
+293433	2b1
+293435	2b2
+293437	1a
+293439	1b
+293441	2a
+293443	2b
+1
+293446	2a
+293448	2b
+293450	1a
+293453	1b1
+293455	1b2
+1
+1
+2
+3
+1
+2
+293463	1a
+293465	1b
+2
+3
+1
+1
+293471	1a
+293473	1b
+2
+1
+2
+1
+1
+2
+293481	1a
+293483	1b
+2
+1
+2
+1
+293489	2a
+293491	2b
+1
+2
+1
+1
+1
+2
+293499	1a
+293501	1b
+2
+293504	1a
+293506	1b
+1
+1
+2
+293511	1a
+293513	1b
+2
+1
+293517	1a
+293519	1b
+2
+1
+2
+3
+1
+1
+2
+1
+2
+1
+2
+3
+293533	1a
+293535	1b
+2
+1
+2
+1
+2
+293542	1a
+293544	1b
+2
+1
+1
+293549	2a
+293551	2b
+3
+293554	1a
+293557	1b1
+293559	1b2
 2
 1'
 2'
@@ -22673,10 +36706,10 @@
 1
 2
 3
-289681	4a
-289683	4b
-289685	5a
-289687	5b
+293585	4a
+293587	4b
+293589	5a
+293591	5b
 6
 7
 1
@@ -22697,26 +36730,26 @@
 5
 6
 7
-289709	8a
-289711	8b
-289714	8c1
-289716	8c2
-289718	8c3
-289720	8c4
-289722	9a
-289725	9b1
-289727	9b2
+293613	8a
+293615	8b
+293618	8c1
+293620	8c2
+293622	8c3
+293624	8c4
+293626	9a
+293629	9b1
+293631	9b2
 1
 2
 1
 2
-289733	3a
-289735	3b
-289737	3c
+293637	3a
+293639	3b
+293641	3c
 4
 5
-289741	6a
-289743	6b
+293645	6a
+293647	6b
 7
 8
 9
@@ -22724,19 +36757,19 @@
 11
 12
 1
-289753	1a1
-289755	1a2
-289757	1a3
-289759	1b
-289761	2a
-289764	2b1
-289766	2b2
-289768	2b3
-289770	2b4
-289772	3a
-289775	3b1
-289777	3b2
-289779	3b3
+293657	1a1
+293659	1a2
+293661	1a3
+293663	1b
+293665	2a
+293668	2b1
+293670	2b2
+293672	2b3
+293674	2b4
+293676	3a
+293679	3b1
+293681	3b2
+293683	3b3
 4
 5
 6
@@ -22744,18 +36777,18 @@
 8
 9
 10
-289788	11a
-289790	11b
-289792	1a
-289794	1b
+293692	11a
+293694	11b
+293696	1a
+293698	1b
 2
 1
 1
 2
 1
 2
-289803	3a1
-289805	3a2
+293707	3a1
+293709	3a2
 1
 2
 3
@@ -22772,61 +36805,20 @@
 1
 2
 3
-289824	1a1
-289826	1a2
-289828	1b
-289831	1a1
-289833	1a2
-289835	1b
+293728	1a1
+293730	1a2
+293732	1b
+293735	1a1
+293737	1a2
+293739	1b
 2
 1
 2
-289840	1a
-289843	1b1
-289845	1b2
-289847	2a
-289849	2b
-1
-2
-1
-2
-1
-2
-3
-289859	1a1
-289861	1a2
-289863	1b
-289865	2a
-289867	2b
-3
-4
-1
-2
-1
-2
-3
-289876	1a
-289878	1b
-1
-289882	1a1
-289884	1a2
-289886	1b
-1
-1
-289890	2a
-289892	2b
-1
-2
-1
-1
-1
-1
-1
-1
-1
-2
-1
-2
+293744	1a
+293747	1b1
+293749	1b2
+293751	2a
+293753	2b
 1
 2
 1
@@ -22834,157 +36826,11 @@
 1
 2
 3
-4
-1
-2
-1
-289917	1a
-289919	1b
-1
-1
-1
-2
-3
-1
-1
-2
-1
-2
-3
-1
-289933	1a
-289935	1b
-2
-289938	1a
-2
-289941	1a
-289943	1b
-2
-1
-1
-2
-1
-289950	1a
-289952	1b
-2
-289956	1a1
-289958	1a2
-289960	1b
-1
-1
-2
-2
-1
-1
-1
-2
-3
-1
-1
-2
-1
-2
-1
-1
-1
-1
-2
-1
-1
-1
-1
-1
-2
-3
-1
-1
-1
-2
-3
-4
-1
-1
-1
-1
-2
-3
-1
-2
-1
-2
-3
-1
-2
-1
-1
-1
-2
-1
-1
-2
-3
-1
-1
-2
-1
-1
-2
-3
-1
-1
-2
-1
-1
-2
-1
-2
-1
-1
-2
-3
-4
-5
-1
-2
-3
-4
-1
-2
-3
-4
-1
-1
-1
-1
-2
-1
-2
-1
-2
-1
-2
-1
-1
-2
-1
-290060	1a1
-290062	1a2
-290064	1b
-290066	1a
-290068	1b
-2
-3
-1
-2
-1
-1
-1
-1
-2
-3
-4
-1
-2
+293763	1a1
+293765	1a2
+293767	1b
+293769	2a
+293771	2b
 3
 4
 1
@@ -22992,342 +36838,19 @@
 1
 2
 3
-4
+293780	1a
+293782	1b
 1
-2
-3
-1
-1
-2
-1
-2
-3
-4
-1
-1
-2
-3
-1
-2
-3
-4
-5
-1
-2
-3
-1
-1
-1
-290116	2a
-290118	2b
-1
-1
-1
-290123	1a
-290126	1b1
-290128	1b2
-2
-3
-290132	4a
-290135	4b1
-290137	4b2
-290140	5a1
-290142	5a2
-290144	5b
-1
-2
-1
-1
-2
-3
-4
-1
-2
-3
-4
-5
-1
-2
-1
-1
-290162	2a
-290164	2b
-290166	3a
-290168	3b
-1
-1
-2
-3
-1
-2
-3
-4
-1
-2
-1
-2
-3
-1
-1
-1
-2
-3
-1
-2
-3
-1
-2
-290193	1a
-290195	1b
-2
-3
-4
-1
-2
-1
-1
-2
-1
-2
-3
-4
-5
-6
-7
-1
-2
-3
-4
-5
-1
-1
-2
-1
-2
-1
-2
-1
-1
-1
-2
-3
-4
-1
-1
-2
-1
-2
-3
-1
-2
-3
-4
-1
-1
-2
-1
-1
-2
-3
-1
-2
-3
-4
-1
-2
-1
-2
-3
-1
-2
-3
-1
-2
-3
-1
-2
-3
-1
-1
-1
-2
-1
-1
-1
-2
-1
-2
-1
-1
-2
-3
-1
-2
-1
+293786	1a1
+293788	1a2
+293790	1b
 1
 1
+293794	2a
+293796	2b
 1
-1
-1
-2
-3
-1
-2
-290291	1
-290293	1a
-290297	1b1A
-290299	1b1B
-290301	1b2
-290304	1b3A
-290306	1b3B
-2
-1
-1
-1
-1
-1
-1
-1
-2
-290317	1a
-290319	1b
-290321	2a
-290323	2b
-290325	3a
-290327	3b
-1
-2
-3
-4
-1
-2
-1
-2
-1
-1
-2
-3
-290341	1a
-290343	1b
-1
-1
-2
-290349	1a1
-290351	1a2
-290353	1b
-290356	2a1
-290358	2a2
-290360	2b
-1
-2
-290365	3a1
-290367	3a2
-290369	3a3
-290371	3b
-1
-1
-2
-3
-1
-2
-1
-2
-3
-1
-2
-1
-2
-1
-1
-290388	2a
-290391	2b1
-290393	2b2
-290395	2b3
-1
-2
-1
-2
-1
-1
-1
-1
-1
-1
-2
-1
-1
-1
-1
-2
-1
-2
-1
-290416	1a
-290418	1b
-2
-1
-1
-1
-1
-1
-1
-2
-1
-1
-1
-1
-2
-1
-2
-1
-2
-1
-2
-3
-1
-2
-1
 2
 1
-2
-3
-1
-2
-1
-1
-2
-3
-1
-2
-3
-4
-5
-6
-7
-8
-1
-1
-1
-1
-1
-2
-3
-1
-1
-1
-2
-1
-2
-1
-1
-2
-1
-2
-1
-1
-2
-3
-4
 1
 1
 1
@@ -23348,55 +36871,107 @@
 1
 2
 1
+293821	1a
+293823	1b
+1
+1
+1
 2
 3
 1
-290507	2a
-290509	2b
-3
 1
 2
+1
+2
+3
+1
+293837	1a
+293839	1b
+2
+293842	1a
+2
+293845	1a
+293847	1b
+2
+1
+1
+2
+1
+293854	1a
+293856	1b
+2
+293860	1a1
+293862	1a2
+293864	1b
+1
+1
+2
+2
+1
+1
+1
+2
+3
+1
+1
+2
+1
+2
+1
+1
+1
+1
+2
+1
+1
+1
+1
+1
+2
+3
+1
+1
 1
 2
 3
 4
 1
-2
-3
-1
-1
-1
-1
-1
-2
-1
-2
-3
-4
-1
-1
-2
-3
-1
-1
-2
-1
-1
 1
 1
 1
 2
 3
-4
+1
+2
 1
 2
 3
-4
+1
+2
+1
+1
+1
+2
 1
 1
 2
 3
-4
+1
+1
+2
+1
+1
+2
+3
+1
+1
+2
+1
+1
+2
+1
+2
+1
 1
 2
 3
@@ -23409,7 +36984,29 @@
 1
 2
 3
+4
 1
+1
+1
+1
+2
+1
+2
+1
+2
+1
+2
+1
+1
+2
+1
+293964	1a1
+293966	1a2
+293968	1b
+293970	1a
+293972	1b
+2
+3
 1
 2
 1
@@ -23418,6 +37015,92 @@
 1
 2
 3
+4
+1
+2
+3
+4
+1
+2
+1
+2
+3
+4
+1
+2
+3
+1
+1
+2
+1
+2
+3
+4
+1
+1
+2
+3
+1
+2
+3
+4
+5
+1
+2
+3
+1
+1
+1
+294020	2a
+294022	2b
+1
+1
+1
+294027	1a
+294030	1b1
+294032	1b2
+2
+3
+294036	4a
+294039	4b1
+294041	4b2
+294044	5a1
+294046	5a2
+294048	5b
+1
+2
+1
+1
+2
+3
+4
+1
+2
+3
+4
+5
+1
+2
+1
+1
+294066	2a
+294068	2b
+294070	3a
+294072	3b
+1
+1
+2
+3
+1
+2
+3
+4
+1
+2
+1
+2
+3
+1
 1
 1
 2
@@ -23426,21 +37109,15 @@
 2
 3
 1
-1
-1
-1
-1
+2
+294097	1a
+294099	1b
 2
 3
+4
 1
 2
-3
 1
-1
-1
-1
-2
-3
 1
 2
 1
@@ -23456,158 +37133,18 @@
 4
 5
 1
-2
-3
-4
-1
-2
-1
-2
-3
-1
-2
-290624	1a
-290626	1b
-2
-1
-1
-2
-1
-1
-2
-1
-1
-1
-2
-3
-1
-2
-290642	1a
-290644	1b
-290646	2a
-290648	2b
-1
 1
 2
 1
 2
 1
 2
-3
-1
-2
 1
 1
-1
-1
-2
-3
-1
-1
-1
-290669	2a
-290672	2b1
-290674	2b2
-1
-1
-1
-1
-1
-1
-1
-2
-1
-2
-1
-1
-2
-3
-1
-2
-1
-2
-3
-1
-1
-2
-1
-2
-3
-1
-1
-2
-3
-290705	1a
-290707	1b
-290709	2a
-290711	2b
-290713	3a
-290715	3b
-1
-2
-3
-4
-5
-6
-1
-2
-3
-4
-5
-6
-1
-290730	1a
-290732	1b
-290734	1c
-1
-1
-1
-2
-1
-2
-3
-4
-5
-1
-2
-3
-4
-5
-1
-4
-5
-6
-1
-2
-3
-1
-2
-3
-1
-2
-3
-1
-1
-2
-3
-4
-290768	5a
-290770	5b
-290772	6a
-290774	6b
-1
-1
-1
-2
-1
-1
-1
-2
 1
 2
 3
-1
-2
+4
 1
 1
 2
@@ -23619,16 +37156,36 @@
 3
 4
 1
-290800	2a
-290802	2b
-290804	3a
-290806	3b
-4
+1
+2
 1
 1
 2
 3
 1
+2
+3
+4
+1
+2
+1
+2
+3
+1
+2
+3
+1
+2
+3
+1
+2
+3
+1
+1
+1
+2
+1
+1
 1
 2
 1
@@ -23636,7 +37193,143 @@
 1
 1
 2
+3
 1
+2
+1
+1
+1
+1
+1
+1
+2
+3
+1
+2
+294195	1
+294197	1a
+294201	1b1A
+294203	1b1B
+294205	1b2
+294208	1b3A
+294210	1b3B
+2
+1
+1
+1
+1
+1
+1
+1
+2
+294221	1a
+294223	1b
+294225	2a
+294227	2b
+294229	3a
+294231	3b
+1
+2
+3
+4
+1
+2
+1
+2
+1
+1
+2
+3
+294245	1a
+294247	1b
+1
+1
+2
+294253	1a1
+294255	1a2
+294257	1b
+294260	2a1
+294262	2a2
+294264	2b
+1
+2
+294269	3a1
+294271	3a2
+294273	3a3
+294275	3b
+1
+1
+2
+3
+1
+2
+1
+2
+3
+1
+2
+1
+2
+1
+1
+294292	2a
+294295	2b1
+294297	2b2
+294299	2b3
+1
+2
+1
+2
+1
+1
+1
+1
+1
+1
+2
+1
+1
+1
+1
+2
+1
+2
+1
+294320	1a
+294322	1b
+2
+1
+1
+1
+1
+1
+1
+2
+1
+1
+1
+1
+2
+1
+2
+1
+2
+1
+2
+3
+1
+2
+1
+2
+1
+2
+3
+1
+2
+1
+1
+2
+3
 1
 2
 3
@@ -23646,6 +37339,346 @@
 7
 8
 1
+1
+1
+1
+1
+2
+3
+1
+1
+1
+2
+1
+2
+1
+1
+2
+1
+2
+1
+1
+2
+3
+4
+1
+1
+1
+1
+1
+1
+2
+1
+2
+1
+2
+1
+2
+1
+2
+3
+4
+1
+2
+1
+2
+3
+1
+294411	2a
+294413	2b
+3
+1
+2
+1
+2
+3
+4
+1
+2
+3
+1
+1
+1
+1
+1
+2
+1
+2
+3
+4
+1
+1
+2
+3
+1
+1
+2
+1
+1
+1
+1
+1
+2
+3
+4
+1
+2
+3
+4
+1
+1
+2
+3
+4
+1
+2
+3
+4
+5
+1
+2
+3
+4
+1
+2
+3
+1
+1
+2
+1
+1
+1
+1
+2
+3
+1
+1
+2
+3
+1
+2
+3
+1
+1
+1
+1
+1
+2
+3
+1
+2
+3
+1
+1
+1
+1
+2
+3
+1
+2
+1
+2
+3
+4
+5
+6
+7
+1
+2
+3
+4
+5
+1
+2
+3
+4
+1
+2
+1
+2
+3
+1
+2
+294528	1a
+294530	1b
+2
+1
+1
+2
+1
+1
+2
+1
+1
+1
+2
+3
+1
+2
+294546	1a
+294548	1b
+294550	2a
+294552	2b
+1
+1
+2
+1
+2
+1
+2
+3
+1
+2
+1
+1
+1
+1
+2
+3
+1
+1
+1
+294573	2a
+294576	2b1
+294578	2b2
+1
+1
+1
+1
+1
+1
+1
+2
+1
+2
+1
+1
+2
+3
+1
+2
+1
+2
+3
+1
+1
+2
+1
+2
+3
+1
+1
+2
+3
+294609	1a
+294611	1b
+294613	2a
+294615	2b
+294617	3a
+294619	3b
+1
+2
+3
+4
+5
+6
+1
+2
+3
+4
+5
+6
+1
+294634	1a
+294636	1b
+294638	1c
+1
+1
+1
+2
+1
+2
+3
+4
+5
+1
+2
+3
+4
+5
+1
+4
+5
+6
+1
+2
+3
+1
+2
+3
+1
+2
+3
+1
+1
+2
+3
+4
+294672	5a
+294674	5b
+294676	6a
+294678	6b
+1
+1
+1
+2
+1
+1
+1
+2
+1
+2
+3
+1
+2
+1
+1
+2
+1
+2
+3
+1
+2
+3
+4
+1
+294704	2a
+294706	2b
+294708	3a
+294710	3b
+4
+1
+1
+2
+3
+1
+1
+2
+1
+2
+1
+1
+2
+1
+1
+2
+3
+4
+5
+6
+7
+8
+1
 2
 3
 4
@@ -23708,10 +37741,10 @@
 1
 1
 2
-290893	1a
-290895	1b
-290897	2a
-290899	2b
+294797	1a
+294799	1b
+294801	2a
+294803	2b
 1
 1
 1
@@ -23748,7 +37781,7 @@
 4
 1
 1
-290937	2a
+294841	2a
 3
 4
 1
@@ -23756,16 +37789,16 @@
 2
 3
 4
-290946	1a
-290948	1b
-290950	2a
-290952	2b
-290954	3a
-290956	3b
-290958	1a
-290960	1b
-290962	2a
-290964	2b
+294850	1a
+294852	1b
+294854	2a
+294856	2b
+294858	3a
+294860	3b
+294862	1a
+294864	1b
+294866	2a
+294868	2b
 1
 1
 1
@@ -23780,13 +37813,13 @@
 2
 1
 1
-290980	1a
-290982	1b
+294884	1a
+294886	1b
 2
 3
 1
-290987	2a
-290989	2b
+294891	2a
+294893	2b
 1
 1
 1
@@ -23806,38 +37839,38 @@
 2
 1
 2
-291010	1a
-291013	1b1
-291015	1b2
-291017	2a
-291019	2b
-3
-4
-1
-2
-1
-2
-3
-291028	1a
-291030	1b
-291032	2a
-291034	2b
-1
-1
-2
-1
-2
-1
-1
-1
-2
-3
-1
-2
+294914	1a
+294917	1b1
+294919	1b2
+294921	2a
+294923	2b
 3
 4
-291050	1a
-291052	1b
+1
+2
+1
+2
+3
+294932	1a
+294934	1b
+294936	2a
+294938	2b
+1
+1
+2
+1
+2
+1
+1
+1
+2
+3
+1
+2
+3
+4
+294954	1a
+294956	1b
 2
 3
 5
@@ -23862,10 +37895,10 @@
 1
 2
 3
-291078	4a
-291081	4b1
-291083	4b2
-291085	4b3
+294982	4a
+294985	4b1
+294987	4b2
+294989	4b3
 1
 1
 1
@@ -23890,15 +37923,15 @@
 2
 3
 4
-291111	1a
-291113	1b
-291115	2a
-291117	2b
-291119	3a
-291121	3b
-291123	4a
-291125	4b
-291127	5a
+295015	1a
+295017	1b
+295019	2a
+295021	2b
+295023	3a
+295025	3b
+295027	4a
+295029	4b
+295031	5a
 1
 2
 3
@@ -23907,39 +37940,20 @@
 1
 1
 1
-291137	1a
-291139	1b
-291141	2a
-291143	2b
+295041	1a
+295043	1b
+295045	2a
+295047	2b
 1
-291146	1a
-291148	1b
-291150	2a
-291152	2b
-1
-1
-2
-291157	1a
-291159	1b
-2
-1
-1
+295050	1a
+295052	1b
+295054	2a
+295056	2b
 1
 1
 2
-1
-1
-2
-1
-291171	2a
-291173	2b
-1
-1
-2
-3
-4
-1
-1
+295061	1a
+295063	1b
 2
 1
 1
@@ -23947,24 +37961,12 @@
 1
 2
 1
-2
-1
-2
-3
-1
-291194	1a
-291196	2a
-291198	2b
-291200	3a
-291202	3b
-291204	4a
 1
 2
 1
-2
+295075	2a
+295077	2b
 1
-2
-3
 1
 2
 3
@@ -23976,51 +37978,31 @@
 1
 1
 1
+2
 1
 2
 1
-1
-1
 2
+3
 1
-1
-1
-2
-1
-1
-1
-1
-1
-1
-1
-2
-1
-1
-2
-1
+295098	1a
+295100	2a
+295102	2b
+295104	3a
+295106	3b
+295108	4a
 1
 2
 1
 2
 1
-1
-1
-1
 2
+3
 1
 2
 3
 4
 1
-2
-3
-4
-1
-2
-3
-1
-1
-2
 1
 2
 1
@@ -24028,13 +38010,31 @@
 1
 1
 1
+2
 1
-291277	1a
-291280	1b1
-291282	1b2
-291284	1b3
-291286	2a
-291289	2b1
+1
+1
+2
+1
+1
+1
+2
+1
+1
+1
+1
+1
+1
+1
+2
+1
+1
+2
+1
+1
+2
+1
+2
 1
 1
 1
@@ -24047,31 +38047,7 @@
 1
 2
 3
-1
-1
-2
-3
-1
-2
-1
-1
-2
-1
-2
-1
-1
-2
-1
-291318	1a
-291320	1b
-2
-1
-2
-3
-1
-1
-1
-2
+4
 1
 2
 3
@@ -24081,43 +38057,30 @@
 1
 2
 1
-2
-1
-2
-1
-1
-2
-1
-1
-2
 1
 1
 1
-2
 1
 1
+295181	1a
+295184	1b1
+295186	1b2
+295188	1b3
+295190	2a
+295193	2b1
 1
-2
-1
-2
-3
 1
 1
 1
 2
-1
-2
-1
-1
-2
-3
-1
 1
 2
 3
 4
 1
 2
+3
+1
 1
 2
 3
@@ -24125,9 +38088,23 @@
 2
 1
 1
+2
+1
+2
+1
+1
+2
+1
+295222	1a
+295224	1b
+2
+1
+2
+3
 1
 1
 1
+2
 1
 2
 3
@@ -24136,20 +38113,31 @@
 2
 1
 2
+1
+2
+1
+2
+1
+1
+2
+1
+1
+2
+1
+1
+1
+2
+1
+1
+1
+2
+1
+2
 3
 1
 1
 1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
+2
 1
 2
 1
@@ -24164,6 +38152,51 @@
 1
 2
 1
+2
+3
+1
+2
+1
+1
+1
+1
+1
+1
+2
+3
+1
+1
+2
+1
+2
+3
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+2
+1
+1
+2
+3
+1
+1
+2
+3
+4
+1
+2
+1
 1
 1
 1
@@ -24179,89 +38212,89 @@
 3
 1
 1
-291437	1a
-291440	1b01
-291442	1b02
-291444	1b03
-291446	1b04
-291448	1b05
-291450	1b06
-291452	1b07
-291454	1b08
-291456	1b09
-291458	1b10
-291460	1b11
-291462	1b12
-291464	1b13
-291466	1b14
-291468	1b15
-291470	1b16
-291472	1b17
-291474	2a
-291477	2b1
-291479	2b2
-291481	3a
-291484	3b1
-291486	3b2
-291488	3b3
-291490	4a
-291492	4b
-291494	5a
-291497	5b1
-291499	5b2
-291501	5b3
-291503	5b4
-291505	5b5
-291507	5b6
-291509	5b7
-291511	5b8
-291513	5b9
-291515	1a
-291518	1b01
-291520	1b02
-291522	1b03
-291524	1b04
-291526	1b05
-291528	1b06
-291530	1b07
-291532	1b08
-291534	1b09
-291536	1b10
-291538	1b11
-291540	1b12
-291542	1b13
-291544	1b14
-291546	1b15
-291548	1b16
-291550	1b17
-291552	1b18
-291554	1b19
-291556	2a
-291559	2b1
-291561	2b2
-291563	2b3
-291565	2b4
-291567	2b5
-291569	2b6
-291571	3a
-291574	3b1
-291576	3b2
-291578	3b3
-291580	3b4
-291582	3b5
-291584	4a
-291587	4b02
-291589	4b03
-291591	4b04
-291593	4b05
-291595	4b06
-291597	4b07
-291599	4b08
-291601	4b09
-291603	4b10
-291605	4b11
-291607	4b12
-291609	4b13
+295341	1a
+295344	1b01
+295346	1b02
+295348	1b03
+295350	1b04
+295352	1b05
+295354	1b06
+295356	1b07
+295358	1b08
+295360	1b09
+295362	1b10
+295364	1b11
+295366	1b12
+295368	1b13
+295370	1b14
+295372	1b15
+295374	1b16
+295376	1b17
+295378	2a
+295381	2b1
+295383	2b2
+295385	3a
+295388	3b1
+295390	3b2
+295392	3b3
+295394	4a
+295396	4b
+295398	5a
+295401	5b1
+295403	5b2
+295405	5b3
+295407	5b4
+295409	5b5
+295411	5b6
+295413	5b7
+295415	5b8
+295417	5b9
+295419	1a
+295422	1b01
+295424	1b02
+295426	1b03
+295428	1b04
+295430	1b05
+295432	1b06
+295434	1b07
+295436	1b08
+295438	1b09
+295440	1b10
+295442	1b11
+295444	1b12
+295446	1b13
+295448	1b14
+295450	1b15
+295452	1b16
+295454	1b17
+295456	1b18
+295458	1b19
+295460	2a
+295463	2b1
+295465	2b2
+295467	2b3
+295469	2b4
+295471	2b5
+295473	2b6
+295475	3a
+295478	3b1
+295480	3b2
+295482	3b3
+295484	3b4
+295486	3b5
+295488	4a
+295491	4b02
+295493	4b03
+295495	4b04
+295497	4b05
+295499	4b06
+295501	4b07
+295503	4b08
+295505	4b09
+295507	4b10
+295509	4b11
+295511	4b12
+295513	4b13
 1
 2
 3
@@ -24327,27 +38360,27 @@
 1
 1
 2
-291676	1a
-291679	1b1
-291681	1b2
-291683	1b3
-291685	2a
-291688	2b1
-291690	2b2
-291692	2b3
-291694	3a
-291697	3b1
-291699	3b2
-291701	4a
-291704	4b1
-291706	4b2
-291708	4b3
-291710	4b4
-291712	4b5
-291714	4b6
-291716	4b7
-291718	1a
-291720	1b
+295580	1a
+295583	1b1
+295585	1b2
+295587	1b3
+295589	2a
+295592	2b1
+295594	2b2
+295596	2b3
+295598	3a
+295601	3b1
+295603	3b2
+295605	4a
+295608	4b1
+295610	4b2
+295612	4b3
+295614	4b4
+295616	4b5
+295618	4b6
+295620	4b7
+295622	1a
+295624	1b
 2
 3
 4
@@ -24355,9 +38388,9 @@
 1
 2
 1
-291730	2a1
-291732	2a2
-291734	2b
+295634	2a1
+295636	2a2
+295638	2b
 3
 4
 5
@@ -24365,8 +38398,8 @@
 1
 2
 3
-291743	4a
-291745	4b
+295647	4a
+295649	4b
 5
 6
 7
@@ -24440,24 +38473,24 @@
 4
 5
 6
-291820	1a
-291823	1b1
-291825	1b2
-291827	1b3
-291829	1c
-291831	2a
-291834	2b1
-291836	2b2
-291838	2b3
-291840	2b4
-291842	2b5
-291844	2b6
-291846	2b7
-291848	2b8
-291850	2c
-291852	3a
-291854	3b
-291856	3c
+295724	1a
+295727	1b1
+295729	1b2
+295731	1b3
+295733	1c
+295735	2a
+295738	2b1
+295740	2b2
+295742	2b3
+295744	2b4
+295746	2b5
+295748	2b6
+295750	2b7
+295752	2b8
+295754	2c
+295756	3a
+295758	3b
+295760	3c
 1
 1b
 1a
@@ -24473,11 +38506,11 @@
 1
 1
 1
-291873	1a
-291875	1b
-291877	2a
-291880	2b1
-291882	2b2
+295777	1a
+295779	1b
+295781	2a
+295784	2b1
+295786	2b2
 1
 2
 3
@@ -24489,10 +38522,10 @@
 2
 3
 4
-291895	5a
-291897	5b
-291899	6a
-291901	6b
+295799	5a
+295801	5b
+295803	6a
+295805	6b
 7
 8
 9
@@ -24506,35 +38539,35 @@
 7
 8
 1
-291916	2a
-291918	2b
+295820	2a
+295822	2b
 3
-291921	4a
-291923	4b
+295825	4a
+295827	4b
 5
 6
-291927	7a
-291929	7b
+295831	7a
+295833	7b
 8
 1
 2
 1
-291935	1a
-291938	1b1
-291940	1b2
-291942	2a
-291946	2b1
-291948	2b1A
-291950	2b1B
-291953	2b2
-291955	2b2A
-291957	2b2B
-291959	2b2C
-291961	2b2D
-291963	3a
-291965	3b
-291968	3c1
-291970	3c2
+295839	1a
+295842	1b1
+295844	1b2
+295846	2a
+295850	2b1
+295852	2b1A
+295854	2b1B
+295857	2b2
+295859	2b2A
+295861	2b2B
+295863	2b2C
+295865	2b2D
+295867	3a
+295869	3b
+295872	3c1
+295874	3c2
 1
 1
 2
@@ -24549,24 +38582,24 @@
 1
 1
 2
-291986	1a
-291988	1b
-291990	2a
-291992	2b
-291994	3a
-291996	3b
-291998	4a
-292000	4b
+295890	1a
+295892	1b
+295894	2a
+295896	2b
+295898	3a
+295900	3b
+295902	4a
+295904	4b
 1
-292003	1a
-292006	1b1
-292008	1b2
-292010	2a
-292013	2b1
-292015	2b2
-292017	3a
-292020	3b1
-292022	3b2
+295907	1a
+295910	1b1
+295912	1b2
+295914	2a
+295917	2b1
+295919	2b2
+295921	3a
+295924	3b1
+295926	3b2
 4
 1
 2
@@ -24584,28 +38617,14 @@
 13
 1
 2
-292042	3a1
-292044	3a2
-292046	3b
+295946	3a1
+295948	3a2
+295950	3b
 4
 5
 6
 7
 8
-9
-10
-11
-12
-13
-14
-1
-2
-3
-4
-5
-6
-8
-7
 9
 10
 11
@@ -24616,24 +38635,23 @@
 2
 3
 4
-292078	5a1
-292080	5a2
-292082	5b
+5
 6
-7
 8
+7
 9
 10
 11
 12
 13
 14
-15
 1
 2
 3
 4
-5
+295982	5a1
+295984	5a2
+295986	5b
 6
 7
 8
@@ -24669,9 +38687,24 @@
 8
 9
 10
-292134	11a
-292137	11b1
-292139	11b2
+11
+12
+13
+14
+15
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+296038	11a
+296041	11b1
+296043	11b2
 12
 13
 1
@@ -24737,99 +38770,83 @@
 2
 3
 1
-292206	1a
-292209	1b1
-292211	1b2
-292213	1b3
-292215	2a
-292218	2b1
-292220	2b2
-292222	2b3
-292224	2b4
-292226	2b5
-292228	2b6
-292230	2b7
-292232	3a
-292235	3b1
-292237	3b2
-292239	3b3
-292241	4a
-292244	4b1
-292246	4b2
-292248	5a
-292250	5b
-292252	6a
-292254	6b
-292256	7a
-292258	7b
-292260	8a
-292263	8b1
-292265	8b2
-292267	9a
-292269	9b
-292271	10a
-292274	10b1
-292276	10b2
-292278	10b3
-292280	10b4
-292282	10b5
-292284	1a
-292287	1b1
-292289	1b2
-292291	2a
-292294	2b1
-292296	2b2
-292298	3a
-292300	3b
-292302	4a
-292304	4b
+296110	1a
+296113	1b1
+296115	1b2
+296117	1b3
+296119	2a
+296122	2b1
+296124	2b2
+296126	2b3
+296128	2b4
+296130	2b5
+296132	2b6
+296134	2b7
+296136	3a
+296139	3b1
+296141	3b2
+296143	3b3
+296145	4a
+296148	4b1
+296150	4b2
+296152	5a
+296154	5b
+296156	6a
+296158	6b
+296160	7a
+296162	7b
+296164	8a
+296167	8b1
+296169	8b2
+296171	9a
+296173	9b
+296175	10a
+296178	10b1
+296180	10b2
+296182	10b3
+296184	10b4
+296186	10b5
+296188	1a
+296191	1b1
+296193	1b2
+296195	2a
+296198	2b1
+296200	2b2
+296202	3a
+296204	3b
+296206	4a
+296208	4b
 5
-292307	1a
-292310	1b1
-292312	1b2
-292314	1b3
-292316	1b4
-292318	2a
-292321	2b1
-292323	2b2
-292325	2b3
-292327	2b4
+296211	1a
+296214	1b1
+296216	1b2
+296218	1b3
+296220	1b4
+296222	2a
+296225	2b1
+296227	2b2
+296229	2b3
+296231	2b4
 1
 2
 3
 4
 5
 1
-292335	1a
-292338	1b1
-292340	1b2
-292342	1b3
-292344	1b4
+296239	1a
+296242	1b1
+296244	1b2
+296246	1b3
+296248	1b4
 2
 3
-292348	1a
-292351	1b1
-292353	1b2
-292355	1b3
-2
-3
-1
-1
-2
-3
-4
-5
-6
-1
+296252	1a
+296255	1b1
+296257	1b2
+296259	1b3
 2
 3
 1
-2
-1
-2
-3
-4
-5
 1
 2
 3
@@ -24837,159 +38854,175 @@
 5
 6
 1
+2
+3
+1
+2
+1
+2
+3
+4
+5
+1
+2
+3
+4
+5
+6
 1
 1
-292385	1a
-292388	1b1
-292390	1b2
-292392	1b3
-292394	1b4
-292396	1b5
-292398	2a
-292401	2b1
-292403	2b2
-292405	2b3
-292407	2b4
-292409	3a
-292412	3b1
-292414	3b2
-292416	3b3
-292418	3b4
-292420	3b5
-292422	4a
-292425	4b1
-292427	4b2
-292429	5a
-292432	5b1
-292434	5b2
-292436	5b3
-292438	1a
-292441	1b1
-292443	1b2
+1
+296289	1a
+296292	1b1
+296294	1b2
+296296	1b3
+296298	1b4
+296300	1b5
+296302	2a
+296305	2b1
+296307	2b2
+296309	2b3
+296311	2b4
+296313	3a
+296316	3b1
+296318	3b2
+296320	3b3
+296322	3b4
+296324	3b5
+296326	4a
+296329	4b1
+296331	4b2
+296333	5a
+296336	5b1
+296338	5b2
+296340	5b3
+296342	1a
+296345	1b1
+296347	1b2
 2
 1
 2
 1
-292449	1a
-292451	1b
-292453	2a
-292455	2b
-292457	3a
-292459	3b
-292461	4a
-292463	4b
-292465	5a
-292467	5b
-292469	6a
-292471	6b
-292473	7a
-292475	7b
-292477	8a
-292479	8b
-292481	9a
-292483	9b
-292485	10a
-292487	10b
+296353	1a
+296355	1b
+296357	2a
+296359	2b
+296361	3a
+296363	3b
+296365	4a
+296367	4b
+296369	5a
+296371	5b
+296373	6a
+296375	6b
+296377	7a
+296379	7b
+296381	8a
+296383	8b
+296385	9a
+296387	9b
+296389	10a
+296391	10b
 1
-292490	2a
-292492	2b
-292494	3a
-292496	3b
-292498	4a
-292500	4b
-292502	5a
-292504	5b
-292506	6a
-292508	6b
-292510	7a
-292512	7b
-292514	8a
-292516	8b
-292518	9a
-292520	9b
-292522	10a
-292524	10b
-292526	11a
-292528	11b
-292530	12a
-292532	12b
-292534	13a
-292536	13b
-292538	1a
-292540	1b
-292542	2a
-292544	2b
-292546	3a
-292548	3b
-292550	4a
-292552	4b
-292554	5a
-292556	5b
-292558	6a
-292560	6b
-292562	7a
-292564	7b
-292566	8a
-292568	8b
-292570	9a
-292572	9b
-292574	10a
-292576	10b
-292578	11a
-292580	11b
-292582	12a
-292584	12b
+296394	2a
+296396	2b
+296398	3a
+296400	3b
+296402	4a
+296404	4b
+296406	5a
+296408	5b
+296410	6a
+296412	6b
+296414	7a
+296416	7b
+296418	8a
+296420	8b
+296422	9a
+296424	9b
+296426	10a
+296428	10b
+296430	11a
+296432	11b
+296434	12a
+296436	12b
+296438	13a
+296440	13b
+296442	1a
+296444	1b
+296446	2a
+296448	2b
+296450	3a
+296452	3b
+296454	4a
+296456	4b
+296458	5a
+296460	5b
+296462	6a
+296464	6b
+296466	7a
+296468	7b
+296470	8a
+296472	8b
+296474	9a
+296476	9b
+296478	10a
+296480	10b
+296482	11a
+296484	11b
+296486	12a
+296488	12b
 13
-292587	14a
-292589	14b
-292591	15a
-292593	15b
-292595	1a
-292597	1b
-292599	2a
-292601	2b
-292603	3a
-292605	3b
-292607	4a
-292609	4b
-292611	5a
-292613	5b
-292615	6a
-292617	6b
-292619	7a
-292621	7b
-292623	8a
-292625	8b
-292627	9a
-292629	9b
-292631	10a
-292633	10b
-292635	11a
-292637	11b
-292639	12a
-292641	12b
-292643	1a
-292645	1b
-292647	2a
-292649	2b
-292651	3a
-292653	3b
-292655	4a
-292657	4b
-292659	5a
-292661	5b
-292663	6a
-292665	6b
+296491	14a
+296493	14b
+296495	15a
+296497	15b
+296499	1a
+296501	1b
+296503	2a
+296505	2b
+296507	3a
+296509	3b
+296511	4a
+296513	4b
+296515	5a
+296517	5b
+296519	6a
+296521	6b
+296523	7a
+296525	7b
+296527	8a
+296529	8b
+296531	9a
+296533	9b
+296535	10a
+296537	10b
+296539	11a
+296541	11b
+296543	12a
+296545	12b
+296547	1a
+296549	1b
+296551	2a
+296553	2b
+296555	3a
+296557	3b
+296559	4a
+296561	4b
+296563	5a
+296565	5b
+296567	6a
+296569	6b
 7
-292668	8a
-292670	8b
-292672	9a
-292674	9b
-292676	10a
-292678	10b
+296572	8a
+296574	8b
+296576	9a
+296578	9b
+296580	10a
+296582	10b
 11
-292681	12a
-292683	12b
+296585	12a
+296587	12b
 1
 1
 2
@@ -25000,14 +39033,14 @@
 1
 1
 1
-292695	2a
-292697	2b
-292699	3a
-292701	3b
+296599	2a
+296601	2b
+296603	3a
+296605	3b
 4
 5
-292705	6a
-292707	6b
+296609	6a
+296611	6b
 7
 8
 1
@@ -25017,8 +39050,8 @@
 5
 6
 7
-292718	8a
-292720	8b
+296622	8a
+296624	8b
 9
 10
 1
@@ -25026,79 +39059,62 @@
 3
 4
 5
-292729	6a
-292731	6b
+296633	6a
+296635	6b
 7
 8
 9
-292736	1a
-292738	1b
+296640	1a
+296642	1b
 2
-292741	3a
-292743	3b
+296645	3a
+296647	3b
 4
-292746	5a
-292748	5b
+296650	5a
+296652	5b
 6
-292751	7a
-292754	7b1
-292756	7b2
+296655	7a
+296658	7b1
+296660	7b2
 8
-292759	1a
-292762	1b1
-292764	1b2
-292766	2a
-292769	2b1
-292771	2b2
-292773	3a
-292776	3b1
-292779	3b2A
-292782	3b2B1
-292784	3b2B2
+296663	1a
+296666	1b1
+296668	1b2
+296670	2a
+296673	2b1
+296675	2b2
+296677	3a
+296680	3b1
+296683	3b2A
+296686	3b2B1
+296688	3b2B2
 4
 5
-292788	6a
-292791	6b1
-292793	6b2
-292795	6b3
-292797	6b4
-292799	1a
-292802	1b1
-292804	1b2
-292806	1b3
-292808	1b4
-292810	2a
-292813	2b1
-292815	2b2
-292817	3a
-292820	3b1
-292822	3b2
-292824	3b3
-292826	1a
-292828	1b
+296692	6a
+296695	6b1
+296697	6b2
+296699	6b3
+296701	6b4
+296703	1a
+296706	1b1
+296708	1b2
+296710	1b3
+296712	1b4
+296714	2a
+296717	2b1
+296719	2b2
+296721	3a
+296724	3b1
+296726	3b2
+296728	3b3
+296730	1a
+296732	1b
 2
 3
 4
 5
 6
 7
-1
-2
-3
-4
-5
-6
-7
-8
-9
-10
-11
-1
-2
-3
-4
-5
-6
 1
 2
 3
@@ -25115,197 +39131,7 @@
 3
 4
 5
-1
-2
-3
-4
-5
 6
-7
-1
-2
-3
-4
-1
-1
-2
-3
-4
-5
-6
-1
-2
-3
-292890	1a
-292893	1b1
-292895	1b2
-292897	1b3
-292899	1b4
-292901	2a
-292903	2b
-3
-4
-5
-1
-292909	1a
-292912	1b1
-292914	1b2
-292916	2a
-292919	2b1
-292921	2b2
-292923	2b3
-292925	3a
-292928	3b1
-292930	3b2
-292932	4a
-292934	4b
-5
-1
-1
-1
-2
-3
-1
-2
-3
-4
-5
-6
-1
-2
-292950	3a
-292952	3b
-292954	4a
-292956	4b
-1
-2
-3
-4
-5
-6
-1
-2
-3
-1
-1
-2
-3
-4
-5
-6
-1
-2
-3
-4
-1
-2
-3
-4
-5
-1
-2
-3
-1
-2
-3
-4
-5
-6
-1
-1
-2
-3
-4
-5
-1
-292999	1a
-293001	1b
-2
-3
-4
-5
-1
-2
-1
-2
-1
-293012	1a
-293015	1b1
-293017	1b2
-293019	1b3
-293021	1b4
-293023	1b5
-293025	1b6
-293027	1b7
-293029	1b8
-293031	1b9
-293033	2a
-293036	2b1
-293038	2b2
-293040	2b3
-293042	2b4
-293044	2b5
-293046	2b6
-293048	2b7
-293050	3a
-293053	3b1
-293055	3b2
-293057	4a
-293060	4b1
-293062	4b2
-293064	5a
-293067	5b1
-293069	5b2
-293071	5b3
-293073	6a
-293076	6b1
-293078	6b2
-293080	6b3
-293082	6b4
-293084	6b5
-293086	1a
-293089	1b1
-293091	1b2
-293093	2a
-293096	2b1
-293098	2b2
-293100	2b3
-3
-1
-1
-2
-3
-4
-5
-6
-7
-8
-1
-2
-3
-4
-5
-6
-7
-1
-2
-3
-4
-5
-6
-7
-8
-1
-1
-2
-3
-4
-5
-6
-7
-8
-9
-10
 1
 2
 3
@@ -25317,7 +39143,202 @@
 9
 10
 11
-12
+1
+2
+3
+4
+5
+1
+2
+3
+4
+5
+6
+7
+1
+2
+3
+4
+1
+1
+2
+3
+4
+5
+6
+1
+2
+3
+296794	1a
+296797	1b1
+296799	1b2
+296801	1b3
+296803	1b4
+296805	2a
+296807	2b
+3
+4
+5
+1
+296813	1a
+296816	1b1
+296818	1b2
+296820	2a
+296823	2b1
+296825	2b2
+296827	2b3
+296829	3a
+296832	3b1
+296834	3b2
+296836	4a
+296838	4b
+5
+1
+1
+1
+2
+3
+1
+2
+3
+4
+5
+6
+1
+2
+296854	3a
+296856	3b
+296858	4a
+296860	4b
+1
+2
+3
+4
+5
+6
+1
+2
+3
+1
+1
+2
+3
+4
+5
+6
+1
+2
+3
+4
+1
+2
+3
+4
+5
+1
+2
+3
+1
+2
+3
+4
+5
+6
+1
+1
+2
+3
+4
+5
+1
+296903	1a
+296905	1b
+2
+3
+4
+5
+1
+2
+1
+2
+1
+296916	1a
+296919	1b1
+296921	1b2
+296923	1b3
+296925	1b4
+296927	1b5
+296929	1b6
+296931	1b7
+296933	1b8
+296935	1b9
+296937	2a
+296940	2b1
+296942	2b2
+296944	2b3
+296946	2b4
+296948	2b5
+296950	2b6
+296952	2b7
+296954	3a
+296957	3b1
+296959	3b2
+296961	4a
+296964	4b1
+296966	4b2
+296968	5a
+296971	5b1
+296973	5b2
+296975	5b3
+296977	6a
+296980	6b1
+296982	6b2
+296984	6b3
+296986	6b4
+296988	6b5
+296990	1a
+296993	1b1
+296995	1b2
+296997	2a
+297000	2b1
+297002	2b2
+297004	2b3
+3
+1
+1
+2
+3
+4
+5
+6
+7
+8
+1
+2
+3
+4
+5
+6
+7
+1
+2
+3
+4
+5
+6
+7
+8
+1
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
 1
 2
 3
@@ -25332,151 +39353,6 @@
 12
 1
 2
-1
-2
-3
-4
-5
-6
-1
-2
-3
-293173	1a
-293175	1b
-293177	2a
-293179	2b
-293181	2c
-3
-293184	4a
-293186	4b
-5
-293189	6a
-293191	6b
-1
-2
-1
-2
-3
-4
-5
-6
-7
-1
-1
-1
-2
-3
-1
-1
-2
-3
-1
-2
-1
-2
-1
-2
-3
-4
-5
-6
-1
-2
-3
-4
-5
-6
-1
-1
-2
-1
-1
-2
-3
-4
-5
-1
-2
-3
-4
-5
-6
-1
-293243	1a
-293245	1b
-293247	2a
-293249	2b
-293251	3a
-293253	3b
-293255	4a
-293257	4b
-293259	5a
-293261	5b
-293263	6a
-293265	6b
-293267	1a
-293269	1b
-293271	2a
-293273	2b
-293275	3a
-293277	3b
-293279	4a
-293281	4b
-293283	5a
-293285	5b
-293287	6a
-293289	6b
-293291	7a
-293293	7b
-293295	8a
-293297	8b
-293299	1a
-293301	1b
-293303	2a
-293305	2b
-293307	3a
-293309	3b
-293311	4a
-293313	4b
-5
-6
-7
-8
-9
-1
-2
-293323	1a1
-293325	1a2
-2
-1
-1
-2
-3
-4
-1
-2
-3
-4
-5
-6
-1
-2
-3
-4
-5
-1
-2
-3
-4
-5
-1
-2
-3
-4
-1
-2
-1
-2
 3
 4
 5
@@ -25484,10 +39360,167 @@
 7
 8
 9
+10
+11
+12
 1
 2
-293366	3a
-293368	3b
+1
+2
+3
+4
+5
+6
+1
+2
+3
+297077	1a
+297079	1b
+297081	2a
+297083	2b
+297085	2c
+3
+297088	4a
+297090	4b
+5
+297093	6a
+297095	6b
+1
+2
+1
+2
+3
+4
+5
+6
+7
+1
+1
+1
+2
+3
+1
+1
+2
+3
+1
+2
+1
+2
+1
+2
+3
+4
+5
+6
+1
+2
+3
+4
+5
+6
+1
+1
+2
+1
+1
+2
+3
+4
+5
+1
+2
+3
+4
+5
+6
+1
+297147	1a
+297149	1b
+297151	2a
+297153	2b
+297155	3a
+297157	3b
+297159	4a
+297161	4b
+297163	5a
+297165	5b
+297167	6a
+297169	6b
+297171	1a
+297173	1b
+297175	2a
+297177	2b
+297179	3a
+297181	3b
+297183	4a
+297185	4b
+297187	5a
+297189	5b
+297191	6a
+297193	6b
+297195	7a
+297197	7b
+297199	8a
+297201	8b
+297203	1a
+297205	1b
+297207	2a
+297209	2b
+297211	3a
+297213	3b
+297215	4a
+297217	4b
+5
+6
+7
+8
+9
+1
+2
+297227	1a1
+297229	1a2
+2
+1
+1
+2
+3
+4
+1
+2
+3
+4
+5
+6
+1
+2
+3
+4
+5
+1
+2
+3
+4
+5
+1
+2
+3
+4
+1
+2
+1
+2
+3
+4
+5
+6
+7
+8
+9
+1
+2
+297270	3a
+297272	3b
 4
 5
 6
@@ -25510,22 +39543,22 @@
 4
 5
 1
-293392	1a
-293394	1b
-293396	2a
-293398	2b
-293400	3a
-293402	3b
-293404	4a
-293406	4b
-293408	5a
-293410	5b
-293412	6a
-293414	6b
-293416	1a
-293418	1b
-293420	2a
-293422	2b
+297296	1a
+297298	1b
+297300	2a
+297302	2b
+297304	3a
+297306	3b
+297308	4a
+297310	4b
+297312	5a
+297314	5b
+297316	6a
+297318	6b
+297320	1a
+297322	1b
+297324	2a
+297326	2b
 4
 1
 1
@@ -25554,30 +39587,30 @@
 4
 5
 6
-293452	1a
-293454	1b
-293456	2a
-293458	2b
-293460	3a
-293463	3b1
-293465	3b2
-293467	4a
-293470	4b1
-293472	4b2
-293474	4b3
-293476	4b4
-293478	4b5
+297356	1a
+297358	1b
+297360	2a
+297362	2b
+297364	3a
+297367	3b1
+297369	3b2
+297371	4a
+297374	4b1
+297376	4b2
+297378	4b3
+297380	4b4
+297382	4b5
 5
 1a
 1b2
 1b1
 2
 3
-293486	1a
-293488	1b
-293490	2a
-293493	2b1
-293495	2b2
+297390	1a
+297392	1b
+297394	2a
+297397	2b1
+297399	2b2
 3
 4
 1
@@ -25627,32 +39660,32 @@
 1
 2
 3
-293546	1a
-293548	1b
-293550	2a
-293552	2b
+297450	1a
+297452	1b
+297454	2a
+297456	2b
 3
 4
-293556	1a
-293558	1b
-293560	2a
-293562	2b
+297460	1a
+297462	1b
+297464	2a
+297466	2b
 3
 4
 5
 6
-293568	1a
-293570	1b
-293572	2a
-293574	2b
+297472	1a
+297474	1b
+297476	2a
+297478	2b
 3
 4
-293578	1a
-293581	1b1
-293583	1b2
-293585	2a
-293588	2b1
-293590	2b2
+297482	1a
+297485	1b1
+297487	1b2
+297489	2a
+297492	2b1
+297494	2b2
 3
 4
 5
@@ -25666,17 +39699,17 @@
 1
 2
 3
-293605	4a
-293607	4b
-293609	4c
+297509	4a
+297511	4b
+297513	4c
 5
 6
 1
 2
 3
 4
-293617	5a
-293619	5b
+297521	5a
+297523	5b
 6
 7
 1
@@ -25717,20 +39750,20 @@
 1
 1
 1
-293661	2a
-293664	2b1
-293666	2b2
-293668	3a
-293671	3b1
-293673	3b2
-293675	4a
-293678	4b1
-293680	4b2
-293682	5a
-293685	5b1
-293687	5b2
-293689	5b3
-293691	5b4
+297565	2a
+297568	2b1
+297570	2b2
+297572	3a
+297575	3b1
+297577	3b2
+297579	4a
+297582	4b1
+297584	4b2
+297586	5a
+297589	5b1
+297591	5b2
+297593	5b3
+297595	5b4
 6
 1
 2
@@ -25738,41 +39771,41 @@
 4
 5
 1
-293701	1a1
-293703	1a2
-293706	1b1
-293708	1b2
-293710	1b3
-293712	2a
-293715	2b1
-293717	2b2
+297605	1a1
+297607	1a2
+297610	1b1
+297612	1b2
+297614	1b3
+297616	2a
+297619	2b1
+297621	2b2
 1
-293720	1a
-293723	1b1
-293725	1b2
-293728	2a1
-293730	2a2
-293735	2b1A1
-293737	2b1A2
-293739	2b1B
-293741	2b2
+297624	1a
+297627	1b1
+297629	1b2
+297632	2a1
+297634	2a2
+297639	2b1A1
+297641	2b1A2
+297643	2b1B
+297645	2b2
 1
 1
-293745	2a
-293748	2b1
-293750	2b2
-293752	2b3
-293754	2b4
-293756	2b5
-293758	2b6
-293760	2b7
-293762	3a
-293765	3b1
-293767	3b2
-293769	3b3
-293771	3b4
-293773	3b5
-293775	3b6
+297649	2a
+297652	2b1
+297654	2b2
+297656	2b3
+297658	2b4
+297660	2b5
+297662	2b6
+297664	2b7
+297666	3a
+297669	3b1
+297671	3b2
+297673	3b3
+297675	3b4
+297677	3b5
+297679	3b6
 1a
 1b1
 1b3
@@ -25809,9 +39842,9 @@
 1
 1
 2
-293814	3a1
-293816	3a2
-293818	3b
+297718	3a1
+297720	3a2
+297722	3b
 1
 2
 3
@@ -25838,19 +39871,19 @@
 3
 1
 1
-293846	2a
-293848	2b
-293850	3a
-293852	3b
-293854	4a
-293856	4b
+297750	2a
+297752	2b
+297754	3a
+297756	3b
+297758	4a
+297760	4b
 5
-293859	1a
-293861	1b
-293863	2a
-293865	2b
-293867	3a
-293869	3b
+297763	1a
+297765	1b
+297767	2a
+297769	2b
+297771	3a
+297773	3b
 1
 1
 2
@@ -25868,195 +39901,6 @@
 1
 2
 3
-1
-1
-1
-2
-3
-4
-5
-1
-2
-3
-4
-1
-2
-1
-1
-1
-2
-1
-2
-3
-1
-1
-1
-1
-293912	1a
-293914	1b
-293916	1c
-293918	2a
-293921	2b1
-293923	2b2
-293925	2b3
-293927	2b4
-293929	2c
-293931	3a
-293933	3b
-293935	3c
-293937	4a
-293939	1a
-293941	1b
-293943	1c
-293945	2a
-293948	2b1
-293950	2b2
-293952	2c
-293954	3a
-293956	3b
-293958	3c
-293960	4a
-293962	4b
-293964	4c
-293966	1a
-293968	1b
-293970	1c
-1
-2
-3
-5
-4
-1
-293978	1a
-293980	1b
-293982	2a
-293984	2b
-293986	3a
-293988	3b
-293990	1a
-293992	1b
-293994	2a
-293996	2b
-293998	3a
-294000	3b
-1
-1
-1
-2
-294006	3a
-294008	3b
-4
-5
-1
-2
-3
-4
-1
-2
-3
-4
-1
-294021	1a
-294023	1b
-294025	2a
-294027	2b
-294029	3a
-294031	3b
-294033	4a
-294035	4b
-1
-1
-1
-294040	1a
-294042	1b
-294044	2a
-294046	2b
-294048	3a
-294050	3b
-294052	1a
-294054	1b
-294056	2a
-294058	2b
-1
-2
-3
-1
-2
-1
-2
-3
-1
-2
-3
-4
-5
-1
-2
-1
-1
-2
-294078	1a
-294081	1b1
-294083	1b2
-294085	2a
-294088	2b1
-294090	2b2
-294092	2b3
-1
-2
-1
-2
-3
-4
-1
-2
-3
-4
-5
-294105	1a
-294107	1b
-2
-3
-294111	4a
-294113	4b
-294115	5a
-294117	5b
-1
-1
-1
-294122	1a
-294124	1b
-294126	2a
-294128	2b
-294130	3a
-294132	3b
-294134	4a
-294136	4b
-294138	1a
-294140	1b
-294142	2a
-294144	2b
-294146	3a
-294148	3b
-1
-2
-1
-2
-3
-4
-1
-1
-1
-2
-3
-1
-2
-3
-4
-1
-2
-3
-4
 1
 1
 1
@@ -26067,47 +39911,167 @@
 1
 2
 3
+4
+1
+2
+1
+1
+1
+2
+1
+2
+3
+1
+1
+1
+1
+297816	1a
+297818	1b
+297820	1c
+297822	2a
+297825	2b1
+297827	2b2
+297829	2b3
+297831	2b4
+297833	2c
+297835	3a
+297837	3b
+297839	3c
+297841	4a
+297843	1a
+297845	1b
+297847	1c
+297849	2a
+297852	2b1
+297854	2b2
+297856	2c
+297858	3a
+297860	3b
+297862	3c
+297864	4a
+297866	4b
+297868	4c
+297870	1a
+297872	1b
+297874	1c
+1
+2
+3
+5
+4
+1
+297882	1a
+297884	1b
+297886	2a
+297888	2b
+297890	3a
+297892	3b
+297894	1a
+297896	1b
+297898	2a
+297900	2b
+297902	3a
+297904	3b
+1
+1
+1
+2
+297910	3a
+297912	3b
+4
+5
+1
+2
+3
+4
+1
+2
+3
+4
+1
+297925	1a
+297927	1b
+297929	2a
+297931	2b
+297933	3a
+297935	3b
+297937	4a
+297939	4b
+1
+1
+1
+297944	1a
+297946	1b
+297948	2a
+297950	2b
+297952	3a
+297954	3b
+297956	1a
+297958	1b
+297960	2a
+297962	2b
+1
+2
+3
+1
+2
+1
+2
+3
 1
 2
 3
 4
 5
 1
-294185	1a
-294188	1b1
-294190	1b2
-294192	1b3
-294194	1b4
-294196	2a
-294199	2b1
-294201	2b2
+2
 1
-294204	1a
-294207	1b1
-294210	1b2A
-294212	1b2B
-294215	1b3A
-294217	1b3B
+1
+2
+297982	1a
+297985	1b1
+297987	1b2
+297989	2a
+297992	2b1
+297994	2b2
+297996	2b3
+1
+2
+1
 2
 3
+4
 1
 2
-294223	1a
-294226	1b1
-294228	1b2
-294230	1b3
-294232	1b4
-294234	1b5
-294236	1b6
-294238	2a
-294241	2b1
-294243	2b2
-294245	2b3
 3
-1
+4
+5
+298009	1a
+298011	1b
 2
-294250	1a
-294252	1b
+3
+298015	4a
+298017	4b
+298019	5a
+298021	5b
+1
+1
+1
+298026	1a
+298028	1b
+298030	2a
+298032	2b
+298034	3a
+298036	3b
+298038	4a
+298040	4b
+298042	1a
+298044	1b
+298046	2a
+298048	2b
+298050	3a
+298052	3b
+1
 2
 1
 2
@@ -26115,16 +40079,79 @@
 4
 1
 1
-2
 1
 2
+3
+1
+2
+3
+4
+1
+2
+3
+4
+1
 1
 1
 2
 3
 4
 5
-6
+1
+2
+3
+1
+2
+3
+4
+5
+1
+298089	1a
+298092	1b1
+298094	1b2
+298096	1b3
+298098	1b4
+298100	2a
+298103	2b1
+298105	2b2
+1
+298108	1a
+298111	1b1
+298114	1b2A
+298116	1b2B
+298119	1b3A
+298121	1b3B
+2
+3
+1
+2
+298127	1a
+298130	1b1
+298132	1b2
+298134	1b3
+298136	1b4
+298138	1b5
+298140	1b6
+298142	2a
+298145	2b1
+298147	2b2
+298149	2b3
+3
+1
+2
+298154	1a
+298156	1b
+2
+1
+2
+3
+4
+1
+1
+2
+1
+2
+1
 1
 2
 3
@@ -26133,71 +40160,77 @@
 6
 1
 2
-1
-2
-3
-4
-1
-2
-3
-4
-1
-1
-2
-1
-2
-1
-1
-2
-3
-1
-294297	1a
-294300	1b1
-294302	1b2
-294304	1b3
-2
-3
-294308	1a
-294310	1b
-2
-3
-1
-1
-2
-1
-1
-1
-1
-1
-1
-2
-3
-1
-1
-2
-1
-1
-1
-2
-294332	1a
-294334	1b
-294336	2a
-294338	2b
-3
-4
-5
-1
-294344	2a
-294347	2b1
-294349	2b2
 3
 4
 5
 6
 1
 2
-294357	3a
-294359	3b
+1
+2
+3
+4
+1
+2
+3
+4
+1
+1
+2
+1
+2
+1
+1
+2
+3
+1
+298201	1a
+298204	1b1
+298206	1b2
+298208	1b3
+2
+3
+298212	1a
+298214	1b
+2
+3
+1
+1
+2
+1
+1
+1
+1
+1
+1
+2
+3
+1
+1
+2
+1
+1
+1
+2
+298236	1a
+298238	1b
+298240	2a
+298242	2b
+3
+4
+5
+1
+298248	2a
+298251	2b1
+298253	2b2
+3
+4
+5
+6
+1
+2
+298261	3a
+298263	3b
 4
 1
 1
@@ -26263,24 +40296,24 @@
 1
 2
 1
-294426	1a
-294428	1b
-294430	1c
-294432	2a
-294434	2b
-294436	2c
-294438	3a
-294440	3b
-294442	3c
-294444	4a
-294446	4b
-294448	4c
-294450	5a
-294452	5b
-294454	5c
-294456	6a
-294458	6b
-294460	6c
+298330	1a
+298332	1b
+298334	1c
+298336	2a
+298338	2b
+298340	2c
+298342	3a
+298344	3b
+298346	3c
+298348	4a
+298350	4b
+298352	4c
+298354	5a
+298356	5b
+298358	5c
+298360	6a
+298362	6b
+298364	6c
 1
 2
 1
@@ -26314,122 +40347,122 @@
 2
 3
 4
-294495	1a
-294497	1b
+298399	1a
+298401	1b
 2
-294500	3a
-294502	3b
-294504	4a
-294506	4b
-294508	5a
-294510	5b
-294512	6a
-294514	6b
-294516	7a
-294518	7b
-294520	8a
-294522	8b
-294524	9a
-294526	9b
-294528	1a
-294530	1b
-294532	2a
-294534	2b
-294536	3a
-294538	3b
-294540	4a
-294542	4b
-294544	5a
-294546	5b
-294548	6a
-294550	6b
-294552	7a
-294554	7b
-294556	8a
-294558	8b
-294560	9a
-294562	9b
-294564	1a
-294566	1b
-294568	2a
-294570	2b
-294572	3a
-294574	3b
-294576	4a
-294578	4b
-294580	5a
-294582	5b
-294584	6a
-294586	6b
-294588	7a
-294590	7b
-294592	8a
-294594	8b
-294596	9a
-294598	9b
-294600	10a
-294602	10b
-294604	11a
-294606	11b
-294608	1a
-294610	1b
-294612	2a
-294614	2b
-294616	3a
-294618	3b
-294620	4a
-294622	4b
-294624	5a
-294626	5b
-294628	6a
-294630	6b
-294632	7a
-294634	7b
-294636	8a
-294638	8b
-294640	9a
-294642	9b
-294644	10a
-294646	10b
-294648	1a
-294650	1b
-294652	2a
-294654	2b
-294656	3a
-294658	3b
-294660	4a
-294662	4b
-294664	5a
-294666	5b
-294668	6a
-294670	6b
-294672	7a
-294674	7b
-294676	1a
-294678	1b
-294680	2a
-294682	2b
-294684	3a
-294686	3b
-294688	4a
-294690	4b
-294692	5a
-294694	5b
-294696	6a
-294698	6b
-294700	7a
-294702	7b
-294704	8a
-294706	8b
-294708	1a
-294710	1b
-294712	2a
-294714	2b
+298404	3a
+298406	3b
+298408	4a
+298410	4b
+298412	5a
+298414	5b
+298416	6a
+298418	6b
+298420	7a
+298422	7b
+298424	8a
+298426	8b
+298428	9a
+298430	9b
+298432	1a
+298434	1b
+298436	2a
+298438	2b
+298440	3a
+298442	3b
+298444	4a
+298446	4b
+298448	5a
+298450	5b
+298452	6a
+298454	6b
+298456	7a
+298458	7b
+298460	8a
+298462	8b
+298464	9a
+298466	9b
+298468	1a
+298470	1b
+298472	2a
+298474	2b
+298476	3a
+298478	3b
+298480	4a
+298482	4b
+298484	5a
+298486	5b
+298488	6a
+298490	6b
+298492	7a
+298494	7b
+298496	8a
+298498	8b
+298500	9a
+298502	9b
+298504	10a
+298506	10b
+298508	11a
+298510	11b
+298512	1a
+298514	1b
+298516	2a
+298518	2b
+298520	3a
+298522	3b
+298524	4a
+298526	4b
+298528	5a
+298530	5b
+298532	6a
+298534	6b
+298536	7a
+298538	7b
+298540	8a
+298542	8b
+298544	9a
+298546	9b
+298548	10a
+298550	10b
+298552	1a
+298554	1b
+298556	2a
+298558	2b
+298560	3a
+298562	3b
+298564	4a
+298566	4b
+298568	5a
+298570	5b
+298572	6a
+298574	6b
+298576	7a
+298578	7b
+298580	1a
+298582	1b
+298584	2a
+298586	2b
+298588	3a
+298590	3b
+298592	4a
+298594	4b
+298596	5a
+298598	5b
+298600	6a
+298602	6b
+298604	7a
+298606	7b
+298608	8a
+298610	8b
+298612	1a
+298614	1b
+298616	2a
+298618	2b
 3
 1
-294718	2a
-294721	2b1
-294723	2b2
+298622	2a
+298625	2b1
+298627	2b2
 3
 1
 2
@@ -26484,8 +40517,8 @@
 6
 1
 2
-294779	1a
-294781	1b
+298683	1a
+298685	1b
 2
 3
 1
@@ -26519,10 +40552,10 @@
 1
 1
 2
-294816	3a
-294819	3b1
-294821	3b2
-294823	3b3
+298720	3a
+298723	3b1
+298725	3b2
+298727	3b3
 1
 1
 2
@@ -26541,92 +40574,92 @@
 3
 1
 1
-294843	1a
-294845	1b
-294847	2a
-294849	2b
-294851	3a
-294853	3b
-294855	4a
-294857	4b
-294859	5a
-294861	5b
-294863	6a
-294865	6b
-294867	7a
-294869	7b
+298747	1a
+298749	1b
+298751	2a
+298753	2b
+298755	3a
+298757	3b
+298759	4a
+298761	4b
+298763	5a
+298765	5b
+298767	6a
+298769	6b
+298771	7a
+298773	7b
 8
-294872	9a
-294874	9b
-294876	10a
-294878	10b
-294880	1a
-294882	1b
-294884	2a
-294886	2b
-294888	3a
-294890	3b
-294892	4a
-294894	4b
-294896	5a
-294898	5b
-294900	6a
-294902	6b
-294904	7a
-294906	7b
-294908	8a
-294910	8b
-294912	1a
-294914	1b
-294916	6a
-294918	6b
-294920	7a
-294922	7b
-294924	8a
-294926	8b
+298776	9a
+298778	9b
+298780	10a
+298782	10b
+298784	1a
+298786	1b
+298788	2a
+298790	2b
+298792	3a
+298794	3b
+298796	4a
+298798	4b
+298800	5a
+298802	5b
+298804	6a
+298806	6b
+298808	7a
+298810	7b
+298812	8a
+298814	8b
+298816	1a
+298818	1b
+298820	6a
+298822	6b
+298824	7a
+298826	7b
+298828	8a
+298830	8b
 1
 1
 2
 3
 1
 1
-294934	2a
-294936	2b
+298838	2a
+298840	2b
 3
-294939	4a
-294941	4b
+298843	4a
+298845	4b
 5
 1
 2
-294946	3a
-294948	3b
-294950	4a
-294952	4b
-294954	5a
-294956	5b
-294958	1a
-294960	1b
+298850	3a
+298852	3b
+298854	4a
+298856	4b
+298858	5a
+298860	5b
+298862	1a
+298864	1b
 1
-294963	1a
-294966	1b1
-294968	1b2
-294970	1b3
-294972	1b4
-294974	1b5
-294976	1b6
-294978	2a
-294982	2b1A
-294984	2b1B
-294986	2b1C
-294989	2b2A
-294992	2b2B1
-294994	2b2B2
-294996	2b2C
+298867	1a
+298870	1b1
+298872	1b2
+298874	1b3
+298876	1b4
+298878	1b5
+298880	1b6
+298882	2a
+298886	2b1A
+298888	2b1B
+298890	2b1C
+298893	2b2A
+298896	2b2B1
+298898	2b2B2
+298900	2b2C
 3
 1
-295000	2a
-295003	2b1
-295005	2b2
+298904	2a
+298907	2b1
+298909	2b2
 3
 1
 1
@@ -26660,12 +40693,12 @@
 2
 3
 1
-295040	1a
-295042	1b
-295044	2a
-295046	2b
-295048	3a
-295050	3b
+298944	1a
+298946	1b
+298948	2a
+298950	2b
+298952	3a
+298954	3b
 1
 1
 2
@@ -26675,8 +40708,8 @@
 3
 1
 1
-295061	1a
-295063	1b
+298965	1a
+298967	1b
 1
 1
 1
@@ -26696,8 +40729,8 @@
 1
 1
 1
-295084	2a
-295086	2b
+298988	2a
+298990	2b
 1
 1
 1
@@ -26725,36 +40758,36 @@
 2
 3
 1
-295115	2a
-295117	2b
+299019	2a
+299021	2b
 3
 4
 1
 1
 1
-295124	1a
-295126	1b
-295128	2a
-295130	2b
-295132	3a
-295134	3b
-295136	4a
-295138	4b
+299028	1a
+299030	1b
+299032	2a
+299034	2b
+299036	3a
+299038	3b
+299040	4a
+299042	4b
 1
 1
 1
 2
 1
 1
-295146	2a
-295149	2b1
-295151	2b2
+299050	2a
+299053	2b1
+299055	2b2
 3
 1
 2
-295156	3a
-295159	3b1
-295161	3b2
+299060	3a
+299063	3b1
+299065	3b2
 1
 1
 1
@@ -26769,19 +40802,19 @@
 1
 1
 2
-295177	3a
-295180	3b1
-295183	3b2A
-295185	3b2B
-295187	3b2C
-295189	4a
-295192	4b1
-295194	4b2
-295196	4b3
+299081	3a
+299084	3b1
+299087	3b2A
+299089	3b2B
+299091	3b2C
+299093	4a
+299096	4b1
+299098	4b2
+299100	4b3
 1
-295199	2a
-295202	2b1
-295204	2b2
+299103	2a
+299106	2b1
+299108	2b2
 1
 2
 3
@@ -26859,27 +40892,27 @@
 2
 1
 2
-295283	1a
-295286	1b1
-295288	1b2
-295290	1b3
-295292	1b4
-295294	1b5
-295296	1b6
-295298	2a
-295301	2b1
-295303	2b2
-295305	1a
-295308	1b1
-295310	1b2
-295312	1b3
-295314	2a
-295317	2b1
-295319	2b2
-295321	2b3
-295323	1a
-295326	1b1
-295328	1b2
+299187	1a
+299190	1b1
+299192	1b2
+299194	1b3
+299196	1b4
+299198	1b5
+299200	1b6
+299202	2a
+299205	2b1
+299207	2b2
+299209	1a
+299212	1b1
+299214	1b2
+299216	1b3
+299218	2a
+299221	2b1
+299223	2b2
+299225	2b3
+299227	1a
+299230	1b1
+299232	1b2
 2
 3
 1
@@ -26893,34 +40926,34 @@
 1
 2
 3
-295343	1a
-295346	1b1
-295348	1b2
-295350	1b3
-295352	1b4
-295354	1b5
-295356	1b6
-295358	1b7
-295360	1a
-295363	1b1
-295365	1b2
-295367	1b3
-295369	1b4
-295371	1b5
-295373	1b6
-295375	1b7
-295377	1b8
-295379	1b9
-295381	2a
-295383	2b
-295385	3a
-295388	3b1
-295390	3b2
-295392	3b3
-295394	3b4
-295396	3b5
-295398	3b6
-295400	3b7
+299247	1a
+299250	1b1
+299252	1b2
+299254	1b3
+299256	1b4
+299258	1b5
+299260	1b6
+299262	1b7
+299264	1a
+299267	1b1
+299269	1b2
+299271	1b3
+299273	1b4
+299275	1b5
+299277	1b6
+299279	1b7
+299281	1b8
+299283	1b9
+299285	2a
+299287	2b
+299289	3a
+299292	3b1
+299294	3b2
+299296	3b3
+299298	3b4
+299300	3b5
+299302	3b6
+299304	3b7
 4
 1
 2
@@ -26939,11 +40972,11 @@
 2c2
 1
 1
-295420	1a
-295422	1b
+299324	1a
+299326	1b
 2
-295425	1a
-295427	1b
+299329	1a
+299331	1b
 2
 1
 1
@@ -26975,39 +41008,19 @@
 3
 4
 1
-295460	1a
-295463	1b1
-295465	1b2
+299364	1a
+299367	1b1
+299369	1b2
 2
-295468	3a
-295471	3b1
+299372	3a
+299375	3b1
 1
-295474	1a
-295476	1b
-2
-1
-1
-1
-1
-1
-2
-3
-4
-1
-2
-3
-1
-2
-3
-1
-2
-3
-1
+299378	1a
+299380	1b
 2
 1
 1
-2
-3
+1
 1
 1
 2
@@ -27016,31 +41029,51 @@
 1
 2
 3
+1
+2
+3
+1
+2
+3
+1
+2
+1
+1
+2
+3
+1
+1
+2
+3
+4
+1
+2
+3
 4
 1
 1
-295513	2a
-295516	2b1
-295518	2b2
-295520	3a
-295523	3b1
-295525	3b2
+299417	2a
+299420	2b1
+299422	2b2
+299424	3a
+299427	3b1
+299429	3b2
 4
 1
-295529	2a
-295531	2b
-295533	3a
-295536	3b1
-295538	3b2
+299433	2a
+299435	2b
+299437	3a
+299440	3b1
+299442	3b2
 4
-295541	1a
-295544	1b1
-295546	1b2
-295548	1b3
-295550	2a
-295553	2b1
-295555	2b2
-295557	2b3
+299445	1a
+299448	1b1
+299450	1b2
+299452	1b3
+299454	2a
+299457	2b1
+299459	2b2
+299461	2b3
 1
 2
 3
@@ -27138,24 +41171,24 @@
 3
 1
 2
-295656	1a
-295658	1b
-295660	2a
-295662	2b
-295664	1a
-295667	1b1
-295669	1b2
-295671	2a
-295673	2b
-295675	1a
-295677	1b
-295679	1a
-295681	1b
+299560	1a
+299562	1b
+299564	2a
+299566	2b
+299568	1a
+299571	1b1
+299573	1b2
+299575	2a
+299577	2b
+299579	1a
+299581	1b
+299583	1a
+299585	1b
 1
 2
 3
-295686	4a
-295688	4b
+299590	4a
+299592	4b
 5
 1
 2
@@ -27254,42 +41287,42 @@
 4b
 5a
 5b
-295788	1a
-295791	2a1
-295793	2a2
-295795	2a3
-295799	2b1A
-295801	2b1B
-295804	2b2A
-295806	2b2B
-295809	2b3A
-295811	2b3B
-295814	2b4A
-295816	2b4B
-295819	2b5A
-295821	2b5B
-295823	3a
-295827	3b1A
-295829	3b1B
-295832	3b2A
-295834	3b2B
-295837	3b3A
-295839	3b3B
+299692	1a
+299695	2a1
+299697	2a2
+299699	2a3
+299703	2b1A
+299705	2b1B
+299708	2b2A
+299710	2b2B
+299713	2b3A
+299715	2b3B
+299718	2b4A
+299720	2b4B
+299723	2b5A
+299725	2b5B
+299727	3a
+299731	3b1A
+299733	3b1B
+299736	3b2A
+299738	3b2B
+299741	3b3A
+299743	3b3B
 1
-295842	1a
-295846	1b1A
-295848	1b1B
-295851	1b2A
-295853	1b2B
-295856	1b3A
-295858	1b3B
-295860	2a
-295864	2b1A
-295866	2b1B
-295869	2b2A
-295871	2b2B
-295874	2b3A
-295876	2b3B
+299746	1a
+299750	1b1A
+299752	1b1B
+299755	1b2A
+299757	1b2B
+299760	1b3A
+299762	1b3B
+299764	2a
+299768	2b1A
+299770	2b1B
+299773	2b2A
+299775	2b2B
+299778	2b3A
+299780	2b3B
 1
 2
 3
@@ -27300,36 +41333,33 @@
 4
 1
 1
-295888	2a
-295891	2b1
-295893	2b2
-295895	3a
-295898	3b1
-295900	3b2
-295902	3b3
-295904	3b4
+299792	2a
+299795	2b1
+299797	2b2
+299799	3a
+299802	3b1
+299804	3b2
+299806	3b3
+299808	3b4
 4
-295907	1a
-295910	1b1
-295912	1b2
-295914	1b3
-295916	2a
-295919	2b1
+299811	1a
+299814	1b1
+299816	1b2
+299818	1b3
+299820	2a
+299823	2b1
 1
 1
 2
 3
 1
-295926	1a
-295928	1b
-295930	2a
-295932	2b
+299830	1a
+299832	1b
+299834	2a
+299836	2b
 3
 1
 1
-1
-2
-3
 1
 2
 3
@@ -27337,59 +41367,17 @@
 2
 3
 1
-295947	1a
-295949	1b
-295951	2a
-295954	2b1
-295956	2b2
-295958	3a
-295961	3b1
-295963	3b2
-1
-2
-1
-1
-2
-3
-4
-1
-2
-3
-4
-1
-1
-2
-3
-4
-1
-1
-1
-1
-2
-3
-4
-5
-6
-7
-8
-1
-2
-1
 2
 3
 1
-1
-2
-1
-1
-2
-3
-1
-2
-3
-4
-5
-1
+299851	1a
+299853	1b
+299855	2a
+299858	2b1
+299860	2b2
+299862	3a
+299865	3b1
+299867	3b2
 1
 2
 1
@@ -27397,69 +41385,6 @@
 2
 3
 4
-5
-1
-2
-3
-4
-5
-1
-1
-2
-3
-4
-5
-1
-1
-2
-1
-296033	1a
-296036	1b1
-296038	1b2
-296040	1b3
-2
-1
-296044	1a
-296047	1b1
-296049	1b2
-296051	1b3
-1
-1
-2
-3
-4
-5
-2
-1
-1
-2
-296063	3a
-296065	3b
-296067	4a
-296069	4b
-5
-6
-1
-2
-3
-4
-1
-1
-296079	2a
-296081	2b
-296083	3a
-296085	3b
-4
-1
-1
-296090	1a
-296092	1b
-296094	2a
-296096	2b
-296098	3a
-296100	3b
-296102	4a
-296104	4b
 1
 2
 3
@@ -27468,163 +41393,9 @@
 1
 2
 3
-1
-296115	2a
-296117	3a
-296119	3b
-1
-2
-1
-2
-3
-4
-296127	1a
-296129	1b
-296131	2a
-296133	2b
-296135	3a
-296137	3b
-296139	1a
-296141	1b
-296143	2a
-296145	2b
-1
-1
-1
-2
-3
-1
-2
-1
-1
-2
-3
-1
-1
-2
-3
-1
-2
-3
-1
-1
-2
-3
-1
-1
-1
-2
-1
-1
-1
-1
-1
-2
-1
-1
-2
-1
-2
-1
-1
-1
-1
-2
-1
-1
-2
-1
-1
-2
-3
-1
-2
-1
-2
-3
-1
-1
-1
-2
-3
-1
-1
-2
-3
 4
 1
-2
-296213	1a
-296216	1b1
-296218	1b2
-296220	1b3
-296222	1b4
-296224	1b5
-296226	1b6
-296228	2a
-296230	2b
-296232	3a
-296234	3b
-296236	4a
-296238	4b
-296240	5a
-296242	5b
-296244	6a
-296246	6b
 1
-1
-1
-296251	2a
-296254	2b1
-296256	2b2
-296258	2b3
-296260	3a
-296262	3b
-296264	4a
-296266	4b
-296268	5a
-296270	5b
-296272	6a
-296274	6b
-7
-1
-296278	2a
-296281	2b1
-296283	2b2
-296285	3a
-296287	3b
-4
-296290	5a
-296293	5b1
-296295	5b2
-6
-7
-296299	1a
-296302	1b1
-296304	1b2
-296306	2a
-296309	2b1
-296311	2b2
-296313	2b3
-296315	1a
-296318	1b1
-296320	1b2
-296322	1c
-296324	2a
-296327	2b1
-296329	2b2
-296331	1a
-296334	1aB1
-296336	1aB2
-296338	2a
-296341	2b1
-296343	2b2
-296345	2b3
-3
-296348	4a
-296351	4b1
-296353	4b2
-5
 1
 1
 2
@@ -27634,8 +41405,270 @@
 6
 7
 8
-296365	9a
-296367	9b
+1
+2
+1
+2
+3
+1
+1
+2
+1
+1
+2
+3
+1
+2
+3
+4
+5
+1
+1
+2
+1
+1
+2
+3
+4
+5
+1
+2
+3
+4
+5
+1
+1
+2
+3
+4
+5
+1
+1
+2
+1
+299937	1a
+299940	1b1
+299942	1b2
+299944	1b3
+2
+1
+299948	1a
+299951	1b1
+299953	1b2
+299955	1b3
+1
+1
+2
+3
+4
+5
+2
+1
+1
+2
+299967	3a
+299969	3b
+299971	4a
+299973	4b
+5
+6
+1
+2
+3
+4
+1
+1
+299983	2a
+299985	2b
+299987	3a
+299989	3b
+4
+1
+1
+299994	1a
+299996	1b
+299998	2a
+300000	2b
+300002	3a
+300004	3b
+300006	4a
+300008	4b
+1
+2
+3
+4
+1
+1
+2
+3
+1
+300019	2a
+300021	3a
+300023	3b
+1
+2
+1
+2
+3
+4
+300031	1a
+300033	1b
+300035	2a
+300037	2b
+300039	3a
+300041	3b
+300043	1a
+300045	1b
+300047	2a
+300049	2b
+1
+1
+1
+2
+3
+1
+2
+1
+1
+2
+3
+1
+1
+2
+3
+1
+2
+3
+1
+1
+2
+3
+1
+1
+1
+2
+1
+1
+1
+1
+1
+2
+1
+1
+2
+1
+2
+1
+1
+1
+1
+2
+1
+1
+2
+1
+1
+2
+3
+1
+2
+1
+2
+3
+1
+1
+1
+2
+3
+1
+1
+2
+3
+4
+1
+2
+300117	1a
+300120	1b1
+300122	1b2
+300124	1b3
+300126	1b4
+300128	1b5
+300130	1b6
+300132	2a
+300134	2b
+300136	3a
+300138	3b
+300140	4a
+300142	4b
+300144	5a
+300146	5b
+300148	6a
+300150	6b
+1
+1
+1
+300155	2a
+300158	2b1
+300160	2b2
+300162	2b3
+300164	3a
+300166	3b
+300168	4a
+300170	4b
+300172	5a
+300174	5b
+300176	6a
+300178	6b
+7
+1
+300182	2a
+300185	2b1
+300187	2b2
+300189	3a
+300191	3b
+4
+300194	5a
+300197	5b1
+300199	5b2
+6
+7
+300203	1a
+300206	1b1
+300208	1b2
+300210	2a
+300213	2b1
+300215	2b2
+300217	2b3
+300219	1a
+300222	1b1
+300224	1b2
+300226	1c
+300228	2a
+300231	2b1
+300233	2b2
+300235	1a
+300238	1aB1
+300240	1aB2
+300242	2a
+300245	2b1
+300247	2b2
+300249	2b3
+3
+300252	4a
+300255	4b1
+300257	4b2
+5
+1
+1
+2
+3
+4
+5
+6
+7
+8
+300269	9a
+300271	9b
 1
 2
 3
@@ -27716,9 +41749,9 @@
 1
 1
 2
-296449	1a
-296452	1b1
-296454	1b2
+300353	1a
+300356	1b1
+300358	1b2
 2
 1
 2
@@ -27810,13 +41843,13 @@
 1
 2
 1
-296547	1a
-296549	1b
-296551	2a
-296553	2b
-296555	3a
-296557	3b
-296559	3c
+300451	1a
+300453	1b
+300455	2a
+300457	2b
+300459	3a
+300461	3b
+300463	3c
 4
 1
 2
@@ -27849,89 +41882,89 @@
 1'
 2'
 1
-296593	1a
-296595	1b
-296597	2a
-296599	2b
-296601	3a
-296603	3b
-296605	4a
-296607	4b
-296609	5a
-296611	5b
-296613	1a
-296615	1b
-296617	2a
-296619	2b
-296621	3a
-296623	3b
-296625	4a
-296627	4b
-296629	5a
-296631	5b
-296633	6a
-296635	6b
-296637	1a
-296639	1b
-296641	2a
-296643	2b
-296645	3a
-296647	3b
-296649	4a
-296651	4b
-296653	5a
-296655	5b
-296657	6a
-296659	6b
-296661	7a
-296663	7b
-296665	8a
-296667	8b
-296669	9a
-296671	9b
-296673	1a
-296675	1b
-296677	2a
-296679	2b
-296681	3a
-296683	3b
-296685	4a
-296687	4b
-296689	5a
-296691	5b
-296693	6a
-296695	6b
-296697	7a
-296699	7b
+300497	1a
+300499	1b
+300501	2a
+300503	2b
+300505	3a
+300507	3b
+300509	4a
+300511	4b
+300513	5a
+300515	5b
+300517	1a
+300519	1b
+300521	2a
+300523	2b
+300525	3a
+300527	3b
+300529	4a
+300531	4b
+300533	5a
+300535	5b
+300537	6a
+300539	6b
+300541	1a
+300543	1b
+300545	2a
+300547	2b
+300549	3a
+300551	3b
+300553	4a
+300555	4b
+300557	5a
+300559	5b
+300561	6a
+300563	6b
+300565	7a
+300567	7b
+300569	8a
+300571	8b
+300573	9a
+300575	9b
+300577	1a
+300579	1b
+300581	2a
+300583	2b
+300585	3a
+300587	3b
+300589	4a
+300591	4b
+300593	5a
+300595	5b
+300597	6a
+300599	6b
+300601	7a
+300603	7b
 2a
 2b
 3
 1a
 1b
-296706	1a
-296708	1b
-296710	2a
-296712	2b
-296714	3a
-296716	3b
-296718	4a
-296720	4b
-296722	5a
-296724	5b
-296726	6a
-296728	6b
-296730	7a
-296732	7b
-296734	8a
-296736	8b
-296738	1a
-296740	1b
-296742	2a
-296744	2b
-296746	3a
-296748	3b
-296750	4a
-296752	4b
+300610	1a
+300612	1b
+300614	2a
+300616	2b
+300618	3a
+300620	3b
+300622	4a
+300624	4b
+300626	5a
+300628	5b
+300630	6a
+300632	6b
+300634	7a
+300636	7b
+300638	8a
+300640	8b
+300642	1a
+300644	1b
+300646	2a
+300648	2b
+300650	3a
+300652	3b
+300654	4a
+300656	4b
 5
 1
 2
@@ -28004,16 +42037,16 @@
 2
 3
 4
-296826	1a
-296829	1b1
-296831	1b2
-296833	1b3
-296835	1b4
-296837	2a
-296840	2b1
-296842	2b2
-296844	2b3
-296846	2b4
+300730	1a
+300733	1b1
+300735	1b2
+300737	1b3
+300739	1b4
+300741	2a
+300744	2b1
+300746	2b2
+300748	2b3
+300750	2b4
 1
 2
 3
@@ -28097,9 +42130,9 @@
 5
 1
 2
-296931	3a
-296934	3b1
-296936	3b2
+300835	3a
+300838	3b1
+300840	3b2
 4
 5
 1
@@ -28112,97 +42145,12 @@
 3
 1
 1
-296950	2a
-296952	2b
-296954	3a
-296956	3b
-296958	4a
-296960	4b
-5
-6
-1
-2
-3
-4
-5
-1
-1
-1
-2
-1
-2
-1
-1
-2
-3
-4
-1
-1
-1
-2
-3
-4
-1
-2
-3
-1
-2
-3
-1
-2
-3
-1
-296996	1a
-296998	1b
-2
-3
-1
-2
-3
-1
-1
-1
-1
-2
-1
-1
-2
-3
-4
-5
-297016	6a
-297019	6b1
-297021	6b2
-297023	6b3
-1
-2
-3
-4
-1
-1
-297031	1a
-297033	1b
-297036	2a1
-297038	2a2
-297040	2a3
-297042	2b
-297044	3a
-297046	3b
-297048	4a
-297050	4b
-297052	5a
-297054	5b
-297056	1a
-297058	1b
-297060	2a
-297062	2b
-297064	3a
-297066	3b
-4
-1
-2
-3
-4
+300854	2a
+300856	2b
+300858	3a
+300860	3b
+300862	4a
+300864	4b
 5
 6
 1
@@ -28210,14 +42158,99 @@
 3
 4
 5
-6
-297081	1a
-297084	1b1
-297086	1b2
+1
+1
+1
 2
-297089	1a
-297092	1b1
-297094	1b2
+1
+2
+1
+1
+2
+3
+4
+1
+1
+1
+2
+3
+4
+1
+2
+3
+1
+2
+3
+1
+2
+3
+1
+300900	1a
+300902	1b
+2
+3
+1
+2
+3
+1
+1
+1
+1
+2
+1
+1
+2
+3
+4
+5
+300920	6a
+300923	6b1
+300925	6b2
+300927	6b3
+1
+2
+3
+4
+1
+1
+300935	1a
+300937	1b
+300940	2a1
+300942	2a2
+300944	2a3
+300946	2b
+300948	3a
+300950	3b
+300952	4a
+300954	4b
+300956	5a
+300958	5b
+300960	1a
+300962	1b
+300964	2a
+300966	2b
+300968	3a
+300970	3b
+4
+1
+2
+3
+4
+5
+6
+1
+2
+3
+4
+5
+6
+300985	1a
+300988	1b1
+300990	1b2
+2
+300993	1a
+300996	1b1
+300998	1b2
 2
 3
 4
@@ -28267,67 +42300,67 @@
 9b
 10a
 10b
-297145	1a
-297147	1b
-297149	2a
-297151	2b
-297153	3a
-297155	3b
-297157	4a
-297159	4b
-297161	5a
-297163	5b
-297165	6a
-297167	6b
-297169	7a
-297171	7b
+301049	1a
+301051	1b
+301053	2a
+301055	2b
+301057	3a
+301059	3b
+301061	4a
+301063	4b
+301065	5a
+301067	5b
+301069	6a
+301071	6b
+301073	7a
+301075	7b
 8
 9
 10
 11
 12
 13
-297179	1a
-297181	1b
+301083	1a
+301085	1b
 2
-297184	3a
-297186	3b
-297188	4a
-297190	4b
-297192	5a
-297194	5b
-297196	6a
-297198	6b
-297200	7a
-297202	7b
+301088	3a
+301090	3b
+301092	4a
+301094	4b
+301096	5a
+301098	5b
+301100	6a
+301102	6b
+301104	7a
+301106	7b
 8
 9
 10
 11
-297208	1a
-297210	1b
+301112	1a
+301114	1b
 2
 3
 4
 5
-297216	6a
-297218	6b
+301120	6a
+301122	6b
 7
 8
 1
 1
 2
 3
-297226	4a
-297228	4b
+301130	4a
+301132	4b
 5
 1
 2
 3
 4
 1
-297236	2a
-297238	2b
+301140	2a
+301142	2b
 1
 2
 1
@@ -28335,34 +42368,17 @@
 2
 3
 4
-297247	5a
-297250	5b1
-297252	5b2
+301151	5a
+301154	5b1
+301156	5b2
 6
 7
 1
 2
 3
-297259	4a
-297262	4b1
-297264	4b2
-5
-6
-7
-1
-2
-3
-4
-5
-297274	6a
-297276	6b
-1
-2
-3
-1
-2
-3
-4
+301163	4a
+301166	4b1
+301168	4b2
 5
 6
 7
@@ -28371,9 +42387,11 @@
 3
 4
 5
-6
-7
-8
+301178	6a
+301180	6b
+1
+2
+3
 1
 2
 3
@@ -28381,12 +42399,6 @@
 5
 6
 7
-1
-1
-2
-3
-4
-1
 1
 2
 3
@@ -28403,18 +42415,39 @@
 6
 7
 1
+1
+2
+3
+4
+1
+1
 2
 3
 4
 5
-297331	1a1A
-297334	1a1B1
-297336	1a1B2
-297338	1a2
-297341	1b1
-297343	1b2
-297345	1b3
-297347	1c
+6
+7
+8
+1
+2
+3
+4
+5
+6
+7
+1
+2
+3
+4
+5
+301235	1a1A
+301238	1a1B1
+301240	1a1B2
+301242	1a2
+301245	1b1
+301247	1b2
+301249	1b3
+301251	1c
 2
 3
 1
@@ -28436,15 +42469,15 @@
 3
 4
 1
-297371	2a1
-297373	2a2
-297375	2b
-297378	1a1
-297380	1a2
-297382	1b
-297385	2a1
-297387	2a2
-297389	2b
+301275	2a1
+301277	2a2
+301279	2b
+301282	1a1
+301284	1a2
+301286	1b
+301289	2a1
+301291	2a2
+301293	2b
 1
 2
 3
@@ -28476,8 +42509,8 @@
 3
 1
 1
-297422	1a
-297424	1b
+301326	1a
+301328	1b
 2
 3
 1
@@ -28485,9 +42518,9 @@
 2
 3
 4
-297433	5a
-297436	5b1
-297438	5b2
+301337	5a
+301340	5b1
+301342	5b2
 6
 1'
 2'
@@ -28500,8 +42533,8 @@
 1
 2
 3
-297452	4a
-297454	4b
+301356	4a
+301358	4b
 1
 1
 1
@@ -28569,69 +42602,39 @@
 6
 7
 8
-297523	1a
-297526	1b1
-297528	1b2
-297530	1b3
-297532	1b4
-297535	1c1
-297537	1c2
-297539	1c3
-297541	1c4
-297543	2a
-297547	2b1A
-297550	2b1B1
-297552	2b1B2
-297554	2b1B3
-297556	2b1B4
-297559	2b2A
-297562	2b2B1
-297564	2b2B2
-297566	2b2B3
+301427	1a
+301430	1b1
+301432	1b2
+301434	1b3
+301436	1b4
+301439	1c1
+301441	1c2
+301443	1c3
+301445	1c4
+301447	2a
+301451	2b1A
+301454	2b1B1
+301456	2b1B2
+301458	2b1B3
+301460	2b1B4
+301463	2b2A
+301466	2b2B1
+301468	2b2B2
+301470	2b2B3
 1
 1
 2
 3
-297572	4
-297574	4a
-297577	4b1
-297579	4b2
-297581	4b3
-297583	4b4
-297585	4b5
+301476	4
+301478	4a
+301481	4b1
+301483	4b2
+301485	4b3
+301487	4b4
+301489	4b5
 1
 1
 2
-1
-1
-2
-3
-4
-5
-1
-2
-3
-4
-5
-1
-297602	1a
-297604	1b
-297606	2a
-297608	2b
-297610	3a
-297612	3b
-1
-2
-1
-1
-1
-2
-3
-4
-1
-2
-3
-4
 1
 1
 2
@@ -28642,36 +42645,66 @@
 2
 3
 4
+5
+1
+301506	1a
+301508	1b
+301510	2a
+301512	2b
+301514	3a
+301516	3b
 1
 2
 1
-297639	1a
-297641	1b
-297643	2a
-297645	2b
+1
+1
+2
 3
-297648	1a
-297650	1b
-297652	1a
-297654	1b
-297656	1c
-297658	1d
-297660	2a
-297662	2b
-297664	2c
-297666	2d
-297668	3a
-297670	3b
-297672	3c
-297674	3d
-297676	4a
-297678	4b
-297680	4c
-297682	4d
-297684	5a
-297686	5b
-297688	5c
-297690	5d
+4
+1
+2
+3
+4
+1
+1
+2
+3
+4
+5
+1
+2
+3
+4
+1
+2
+1
+301543	1a
+301545	1b
+301547	2a
+301549	2b
+3
+301552	1a
+301554	1b
+301556	1a
+301558	1b
+301560	1c
+301562	1d
+301564	2a
+301566	2b
+301568	2c
+301570	2d
+301572	3a
+301574	3b
+301576	3c
+301578	3d
+301580	4a
+301582	4b
+301584	4c
+301586	4d
+301588	5a
+301590	5b
+301592	5c
+301594	5d
 6
 1a1
 1a2
@@ -28692,59 +42725,59 @@
 5b
 6
 3b2
-297712	1a
-297715	1b1
-297717	1b2
-297719	1b3
-297721	1b4
-297723	2a
-297726	2b1
-297728	2b2
-297730	2b3
-297732	2b4
-297734	1a
-297737	1b1
-297739	1b2
-297741	1b3
-297743	1b4
-297745	2a
-297748	2b1
-297750	2b2
-297752	2b3
-297754	2b4
-297756	2b5
+301616	1a
+301619	1b1
+301621	1b2
+301623	1b3
+301625	1b4
+301627	2a
+301630	2b1
+301632	2b2
+301634	2b3
+301636	2b4
+301638	1a
+301641	1b1
+301643	1b2
+301645	1b3
+301647	1b4
+301649	2a
+301652	2b1
+301654	2b2
+301656	2b3
+301658	2b4
+301660	2b5
 1
 2
 3
 4
 1
-297764	1a1
-297766	1a2
-297768	1b
-297771	2a1
-297773	2a2
-297775	2b
-297778	3a1
-297780	3a2
-297782	3b
-297785	4a1
-297787	4a2
-297789	4b
-297792	1a1
-297794	1a2
-297796	1b
-297799	2a1
-297801	2a2
-297803	2a3
-297805	2b
-297808	3a1
-297810	3a2
-297812	3b
-297814	4a
-297816	4b
+301668	1a1
+301670	1a2
+301672	1b
+301675	2a1
+301677	2a2
+301679	2b
+301682	3a1
+301684	3a2
+301686	3b
+301689	4a1
+301691	4a2
+301693	4b
+301696	1a1
+301698	1a2
+301700	1b
+301703	2a1
+301705	2a2
+301707	2a3
+301709	2b
+301712	3a1
+301714	3a2
+301716	3b
+301718	4a
+301720	4b
 1
-297819	2a
-297821	2b
+301723	2a
+301725	2b
 3
 1
 2
@@ -28752,9 +42785,9 @@
 2
 3
 1
-297831	1a1
-297833	1a2
-297835	1b
+301735	1a1
+301737	1a2
+301739	1b
 2
 3
 1
@@ -28765,51 +42798,28 @@
 1
 2
 3
-297847	1a
-297849	1b
-297851	2a
-297853	2b
-3
-4
-1
-297858	1a
-297861	1b1
-297863	1b2
-297865	1b3
-2
+301751	1a
+301753	1b
+301755	2a
+301757	2b
 3
 4
 1
+301762	1a
+301765	1b1
+301767	1b2
+301769	1b3
 2
 3
 4
-5
-297875	6a
-297877	6b
-1
-1
-2
 1
 2
 3
 4
 5
-6
+301779	6a
+301781	6b
 1
-2
-3
-4
-5
-1
-2
-3
-4
-5
-1
-1
-2
-3
-4
 1
 2
 1
@@ -28818,9 +42828,23 @@
 4
 5
 6
-7
-8
-9
+1
+2
+3
+4
+5
+1
+2
+3
+4
+5
+1
+1
+2
+3
+4
+1
+2
 1
 2
 3
@@ -28832,6 +42856,15 @@
 9
 1
 2
+3
+4
+5
+6
+7
+8
+9
+1
+2
 4
 5
 6
@@ -28839,9 +42872,9 @@
 8
 1
 2
-297932	1a
-297935	1b1
-297937	1b2
+301836	1a
+301839	1b1
+301841	1b2
 2
 1
 2
@@ -28873,12 +42906,12 @@
 3
 1
 1
-297970	1a
-297973	1b1
-297975	1b2
-297977	2a
-297980	2b1
-297982	2b2
+301874	1a
+301877	1b1
+301879	1b2
+301881	2a
+301884	2b1
+301886	2b2
 1
 1
 1
@@ -28887,14 +42920,14 @@
 4
 5
 6
-297992	1a
-297994	1b
-297996	2a
-297998	2b
-298000	3a
-298002	3b
-298004	4a
-298006	4b
+301896	1a
+301898	1b
+301900	2a
+301902	2b
+301904	3a
+301906	3b
+301908	4a
+301910	4b
 1
 2
 3
@@ -28917,51 +42950,45 @@
 5
 1
 1
-298030	1a
-298033	1b1
-298035	1b2
-298037	2a
-298039	2b
-298041	2c
-298043	3a
-298045	3b
-298047	4a
-298049	4b
-298051	5a
-298053	5b
+301934	1a
+301937	1b1
+301939	1b2
+301941	2a
+301943	2b
+301945	2c
+301947	3a
+301949	3b
+301951	4a
+301953	4b
+301955	5a
+301957	5b
 1
 2
-298057	3a
-298059	3b
-298061	1a
-298063	1b
-298065	1c
-298067	1d
-298069	2a
-298071	2b
-298073	2c
-298075	2d
-298077	3a
-298079	3b
-298081	3c
-298083	3d
-298085	4a
-298087	4b
-298089	4c
-298091	4d
+301961	3a
+301963	3b
+301965	1a
+301967	1b
+301969	1c
+301971	1d
+301973	2a
+301975	2b
+301977	2c
+301979	2d
+301981	3a
+301983	3b
+301985	3c
+301987	3d
+301989	4a
+301991	4b
+301993	4c
+301995	4d
 1
 2
-1
-1
-2
-3
-1
-1
 1
 1
 2
 3
-4
+1
 1
 1
 1
@@ -28969,32 +42996,16 @@
 3
 4
 1
+1
+1
 2
 3
 4
-5
 1
 2
 3
 4
 5
-6
-1
-2
-3
-4
-5
-1
-298129	1a
-298132	1b1
-298134	1b2
-298136	1b3
-298138	1b4
-2
-3
-4
-5
-1
 1
 2
 3
@@ -29006,16 +43017,38 @@
 3
 4
 5
+1
+302033	1a
+302036	1b1
+302038	1b2
+302040	1b3
+302042	1b4
+2
+3
+4
+5
+1
+1
+2
+3
+4
+5
 6
 1
-298158	1a
-298160	1b
-298162	2a
-298164	2b
-298166	3a
-298168	3b
-298170	4a
-298172	4b
+2
+3
+4
+5
+6
+1
+302062	1a
+302064	1b
+302066	2a
+302068	2b
+302070	3a
+302072	3b
+302074	4a
+302076	4b
 5
 1
 2
@@ -29078,8 +43111,8 @@
 2'
 3'
 1'
-298236	2a'
-298238	2b'
+302140	2a'
+302142	2b'
 3'
 4'
 1'
@@ -29115,34 +43148,34 @@
 1
 2
 3
-298275	4a
-298277	4b
+302179	4a
+302181	4b
 1
 2
 1
-298282	1a
-298285	1b1
-298287	1b2
-298289	2a
-298292	2b1
-298294	2b2
+302186	1a
+302189	1b1
+302191	1b2
+302193	2a
+302196	2b1
+302198	2b2
 1
 2
 3
 1
 2
-298301	3a
-298303	3b
+302205	3a
+302207	3b
 4
 1
 2
 1
 2
-298310	1a'
-298312	1b'
-298314	1c'
-298316	2a'
-298318	2b'
+302214	1a'
+302216	1b'
+302218	1c'
+302220	2a'
+302222	2b'
 3
 1'
 1
@@ -29175,242 +43208,175 @@
 1
 2
 1
-298352	1a
-298354	1b
-298356	1c
-298358	2a
-298360	2b
-298362	2c
-298364	3a
-298366	3b
-298368	3c
-298370	1a
-298372	1b
-298374	1c
-298376	2a
-298378	2b
-298380	2c
+302256	1a
+302258	1b
+302260	1c
+302262	2a
+302264	2b
+302266	2c
+302268	3a
+302270	3b
+302272	3c
+302274	1a
+302276	1b
+302278	1c
+302280	2a
+302282	2b
+302284	2c
 3
 1
 2
 3
 1
-298388	1a1
-298390	1a2
-298393	1b1
-298395	1b2
-298398	2a1
-298400	2a2
-298403	2b1
-298405	2b2
-298408	3a1
-298410	3a2
-298412	3b
-298415	4a1
-298417	4a2
-298419	4b
-298422	5a1
-298424	5a2
-298427	5b1
-298429	5b2
+302292	1a1
+302294	1a2
+302297	1b1
+302299	1b2
+302302	2a1
+302304	2a2
+302307	2b1
+302309	2b2
+302312	3a1
+302314	3a2
+302316	3b
+302319	4a1
+302321	4a2
+302323	4b
+302326	5a1
+302328	5a2
+302331	5b1
+302333	5b2
 1
 2
 3
 1
-298436	1a1
-298438	1a2
-298440	1b
-298443	2a1
-298445	2a2
-298447	2b
-298450	3a1
-298452	3a2
-298454	3b
-298457	4a1
-298459	4a2
-298462	4b1
-298464	4b2
-298467	5a1
-298469	5a2
-298471	5b
+302340	1a1
+302342	1a2
+302344	1b
+302347	2a1
+302349	2a2
+302351	2b
+302354	3a1
+302356	3a2
+302358	3b
+302361	4a1
+302363	4a2
+302366	4b1
+302368	4b2
+302371	5a1
+302373	5a2
+302375	5b
 6
 1
 2
 3
 1
-298479	1a1
-298481	1a2
-298484	1b1
-298486	1b2
-298489	2a1
-298491	2a2
-298494	2b1
-298496	2b2
-298499	3a1
-298501	3a2
-298504	3b1
-298506	3b2
-298509	4a1
-298511	4a2
-298514	4b1
-298516	4b2
-298519	5a1
-298521	5a2
-298524	5b1
-298526	5b2
+302383	1a1
+302385	1a2
+302388	1b1
+302390	1b2
+302393	2a1
+302395	2a2
+302398	2b1
+302400	2b2
+302403	3a1
+302405	3a2
+302408	3b1
+302410	3b2
+302413	4a1
+302415	4a2
+302418	4b1
+302420	4b2
+302423	5a1
+302425	5a2
+302428	5b1
+302430	5b2
 1
 2
 3
 1
-298533	1a1
-298535	1a2
-298538	1b1
-298540	1b2
-298543	2a1
-298545	2a2
-298547	2b
-298550	3a1
-298552	3a2
-298554	3b
-298557	4a1
-298559	4a2
-298561	4b
-298564	5a1
-298566	5a2
-298568	5b
+302437	1a1
+302439	1a2
+302442	1b1
+302444	1b2
+302447	2a1
+302449	2a2
+302451	2b
+302454	3a1
+302456	3a2
+302458	3b
+302461	4a1
+302463	4a2
+302465	4b
+302468	5a1
+302470	5a2
+302472	5b
 6
 1
 2
 3
 1
-298575	1a
-298577	1b
-2
-3
-4
-5
-6
-1
-2
-1
-1
-2
-3
-4
-1
+302479	1a
+302481	1b
 2
 3
 4
 5
 6
 1
-298598	1a
-298600	1b
-298602	2a
-298606	2b1A
-298608	2b1B
-298611	2b2A
-298613	2b2B
-298616	2b3A
-298618	2b3B
-298621	2b4A
-298623	2b4B
-3
-1
-2
-1
 2
 1
 1
-1
-298633	2a
-298635	2b
-1
-1
-2
-3
-1
-2
-1
-1
-1
-2
-298647	1a
-298649	1b
 2
 3
 4
-5
-1
-298656	1a
-298658	1b
 1
 2
 3
 4
 5
+6
 1
+302502	1a
+302504	1b
+302506	2a
+302510	2b1A
+302512	2b1B
+302515	2b2A
+302517	2b2B
+302520	2b3A
+302522	2b3B
+302525	2b4A
+302527	2b4B
+3
+1
+2
+1
+2
+1
+1
+1
+302537	2a
+302539	2b
+1
+1
+2
+3
+1
+2
 1
 1
 1
 2
-1
-2
-298672	1a
-298675	1b1
-298677	1b2
-1
-2
-1
-1
-2
-1
-1
-2
-1
-1
-1
+302551	1a
+302553	1b
 2
 3
 4
+5
 1
-1
-1
-2
-3
-4
-1
-2
-3
-1
-2
-1
-1
-2
-1
-2
-1
-1
-1
-1
-1
-2
-3
-1
-2
-298718	1a
-298721	1b1
-298723	1b2
-298726	2a1
-298728	2a2
-298731	2b1
-298733	2b2
-298735	2b3
-1
-1
-1
-2
-1
+302560	1a
+302562	1b
 1
 2
 3
@@ -29419,19 +43385,86 @@
 1
 1
 1
-298751	1a1
-298753	1a2
-298755	1b
-298758	2a1
-298760	2a2
-298762	2b
-298765	3a1
-298767	3a2
-298769	3b
+1
+2
+1
+2
+302576	1a
+302579	1b1
+302581	1b2
+1
+2
 1
 1
-298773	1a
-298775	1b
+2
+1
+1
+2
+1
+1
+1
+2
+3
+4
+1
+1
+1
+2
+3
+4
+1
+2
+3
+1
+2
+1
+1
+2
+1
+2
+1
+1
+1
+1
+1
+2
+3
+1
+2
+302622	1a
+302625	1b1
+302627	1b2
+302630	2a1
+302632	2a2
+302635	2b1
+302637	2b2
+302639	2b3
+1
+1
+1
+2
+1
+1
+2
+3
+4
+5
+1
+1
+1
+302655	1a1
+302657	1a2
+302659	1b
+302662	2a1
+302664	2a2
+302666	2b
+302669	3a1
+302671	3a2
+302673	3b
+1
+1
+302677	1a
+302679	1b
 1
 2
 1
@@ -29469,10 +43502,10 @@
 2
 1
 1
-298814	1a
-298816	1b
-298818	2a
-298820	2b
+302718	1a
+302720	1b
+302722	2a
+302724	2b
 3
 1
 2
@@ -29483,8 +43516,8 @@
 2
 1
 1
-298832	1a
-298834	1b
+302736	1a
+302738	1b
 2
 1
 2
@@ -29508,18 +43541,18 @@
 1
 2
 3
-298859	1a
-298861	1b
-298863	2a
-298865	2b
-298867	4a
-298869	4b
-298871	5a
-298873	5b
-298875	1a
-298877	1b
-298879	2a
-298881	2b
+302763	1a
+302765	1b
+302767	2a
+302769	2b
+302771	4a
+302773	4b
+302775	5a
+302777	5b
+302779	1a
+302781	1b
+302783	2a
+302785	2b
 4
 1
 2
@@ -29532,8 +43565,8 @@
 5
 6
 7
-298895	1a
-298897	1b
+302799	1a
+302801	1b
 2
 3
 4
@@ -29547,9 +43580,9 @@
 1
 1
 2
-298912	1a
-298915	1b1
-298917	1b2
+302816	1a
+302819	1b1
+302821	1b2
 2
 1
 1
@@ -29559,10 +43592,10 @@
 5
 6
 1
-298928	2a
-298930	2b
-298932	3a
-298934	3b
+302832	2a
+302834	2b
+302836	3a
+302838	3b
 4
 5
 6
@@ -29580,23 +43613,23 @@
 4
 5
 6
-298953	1a
-298955	1b
-298957	2a
-298959	2b
+302857	1a
+302859	1b
+302861	2a
+302863	2b
 3
 1
 2
 1
 1
-298967	1a1
-298969	1a2
-298972	1b1
-298974	1b2
+302871	1a1
+302873	1a2
+302876	1b1
+302878	1b2
 2
 1
-298978	1a
-298980	1b
+302882	1a
+302884	1b
 2
 1
 1
@@ -29606,9 +43639,9 @@
 3
 1
 1
-298991	2a
-298994	2b1
-298996	2b2
+302895	2a
+302898	2b1
+302900	2b2
 1
 1
 2
@@ -29667,10 +43700,10 @@
 3
 1
 2
-299056	3a
-299059	3b1
-299061	3b2
-299063	3b3
+302960	3a
+302963	3b1
+302965	3b2
+302967	3b3
 1
 1
 1
@@ -29689,10 +43722,10 @@
 1
 1
 1
-299083	1a
-299085	1b
-299087	2a
-299089	2b
+302987	1a
+302989	1b
+302991	2a
+302993	2b
 1
 2
 3
@@ -29721,11 +43754,11 @@
 1
 1
 1
-299119	2a
-299122	2b1
-299124	2b2
-299126	3
-299128	3a
+303023	2a
+303026	2b1
+303028	2b2
+303030	3
+303032	3a
 1
 2
 1
@@ -29771,16 +43804,16 @@
 4
 1
 2
-299175	1a
-299177	1b
+303079	1a
+303081	1b
 2
 3
 4
 5
 6
 7
-299185	1a
-299187	1b
+303089	1a
+303091	1b
 2
 3
 4
@@ -29811,21 +43844,6 @@
 3
 4
 5
-1
-2
-3
-4
-5
-6
-7
-1
-299227	2a
-299230	2b1
-299232	2b2
-299234	2b3
-299236	3a
-299239	3b1
-299241	3b2
 1
 2
 3
@@ -29834,23 +43852,38 @@
 6
 7
 1
+303131	2a
+303134	2b1
+303136	2b2
+303138	2b3
+303140	3a
+303143	3b1
+303145	3b2
+1
 2
 3
 4
-299255	1a1
-299257	1a2
-299261	1b1A
-299263	1b1B
-299266	1b2A
-299268	1b2B
-299270	1b3
-299273	2a1
-299275	2a2
-299279	2b1A
-299281	2b1B
-299284	2b2A
-299286	2b2B
-299288	2b3
+5
+6
+7
+1
+2
+3
+4
+303159	1a1
+303161	1a2
+303165	1b1A
+303167	1b1B
+303170	1b2A
+303172	1b2B
+303174	1b3
+303177	2a1
+303179	2a2
+303183	2b1A
+303185	2b1B
+303188	2b2A
+303190	2b2B
+303192	2b3
 3
 1
 2
@@ -29877,14 +43910,14 @@
 2
 3
 1
-299316	1a
-299319	1b1
-299321	1b2
-299323	2a
-299326	2b1
-299328	2b2
-299330	3a
-299332	3b
+303220	1a
+303223	1b1
+303225	1b2
+303227	2a
+303230	2b1
+303232	2b2
+303234	3a
+303236	3b
 4
 5
 6
@@ -29932,73 +43965,42 @@
 3
 4
 5
-299381	6a
-299383	6b
+303285	6a
+303287	6b
 7
 8
 1
 2
 3
 4
-299391	1a
-299395	1b1A
-299397	1b1B
-299399	1b2
-299401	1b3
+303295	1a
+303299	1b1A
+303301	1b1B
+303303	1b2
+303305	1b3
 2
 1
 1
 1
-299407	1a
-299409	1b
-299411	2a
-299413	2b
-299416	3a1
-299418	3a2
-299420	3b
-299422	4a
-299424	4b
-299426	5a
-299428	5b
-299430	6a
-299432	6b
-299434	7a
-299436	7b
-299438	1a
-299440	1b
-299442	2a
-299444	2b
-3
-4
-5
-6
-7
-8
-9
-10
-1
-2
-3
-4
-5
-1
-2
-3
-4
-5
-6
-7
-8
-9
-299468	1a
-299470	1b
-299472	2a
-299475	2b1
-299477	2b2
-3
-4
-1
-2
+303311	1a
+303313	1b
+303315	2a
+303317	2b
+303320	3a1
+303322	3a2
+303324	3b
+303326	4a
+303328	4b
+303330	5a
+303332	5b
+303334	6a
+303336	6b
+303338	7a
+303340	7b
+303342	1a
+303344	1b
+303346	2a
+303348	2b
 3
 4
 5
@@ -30008,6 +44010,37 @@
 9
 10
 1
+2
+3
+4
+5
+1
+2
+3
+4
+5
+6
+7
+8
+9
+303372	1a
+303374	1b
+303376	2a
+303379	2b1
+303381	2b2
+3
+4
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+1
 1
 2
 3
@@ -30017,18 +44050,18 @@
 7
 8
 1
-299501	1a
-299504	1b1
-299506	1b2
-299509	1b3A
-299511	1b3B
-299513	1b4
-299515	1b5
-299517	2a
-299520	2b1
-299522	2b2
-299524	2b3
-299526	2b4
+303405	1a
+303408	1b1
+303410	1b2
+303413	1b3A
+303415	1b3B
+303417	1b4
+303419	1b5
+303421	2a
+303424	2b1
+303426	2b2
+303428	2b3
+303430	2b4
 3
 1
 2
@@ -30041,20 +44074,20 @@
 4
 5
 6
-299540	1a
-299543	1b1
-299545	1b2
-299547	2a
-299550	2b1
-299552	2b2
+303444	1a
+303447	1b1
+303449	1b2
+303451	2a
+303454	2b1
+303456	2b2
 3
-299555	4a
-299558	4b1
-299560	4b2
-299562	5a
-299565	5b1
-299567	5b2
-299569	5b3
+303459	4a
+303462	4b1
+303464	4b2
+303466	5a
+303469	5b1
+303471	5b2
+303473	5b3
 6
 1
 2
@@ -30080,8 +44113,8 @@
 1
 2
 3
-299596	4a
-299598	4b
+303500	4a
+303502	4b
 5
 6
 7
@@ -30118,8 +44151,8 @@
 8
 1
 2
-299636	3a
-299638	3b
+303540	3a
+303542	3b
 1
 2
 3
@@ -30250,18 +44283,18 @@
 3
 1
 1
-299770	1a
-299772	1b
-299774	2a
-299776	2b
-299778	3a
-299780	3b
-299782	4a
-299784	4b
-299786	5a
-299788	5b
-299790	6a
-299792	6b
+303674	1a
+303676	1b
+303678	2a
+303680	2b
+303682	3a
+303684	3b
+303686	4a
+303688	4b
+303690	5a
+303692	5b
+303694	6a
+303696	6b
 1
 1
 2
@@ -30271,123 +44304,114 @@
 6
 7
 8
-299804	1a1
-299806	1a2
-299808	1a3
-299810	1b
-299812	2a
-299814	2b
+303708	1a1
+303710	1a2
+303712	1a3
+303714	1b
+303716	2a
+303718	2b
 3
-299817	1a
-299819	1b
-299821	2a
-299824	2b1
-299826	2b2
-3
-4
-1
-2
-299832	1a
-299834	1b
-299836	2a
-299839	2b1
-299841	2b2
+303721	1a
+303723	1b
+303725	2a
+303728	2b1
+303730	2b2
 3
 4
 1
 2
-299847	3a
-299849	3b
-4
-5
-6
-299854	1a
-299856	1b
-299858	2a
-299860	2b
+303736	1a
+303738	1b
+303740	2a
+303743	2b1
+303745	2b2
 3
 4
 1
 2
-3
-4
-5
-299869	1a
-299871	1b
-299873	2a
-299875	2b
-299877	3a
-299879	3b
-299881	4a
-299883	4b
-1
-2
-1
-1
-1
-299890	1a
-299892	1b
-2
-299895	1a
-299897	1b
-299899	2a
-299901	2b
-3
-1
-1
-1
-2
-3
-299909	1a
-299911	1b
-299913	2a
-299916	2b1
-299918	2b2
-3
-4
-1
-2
-3
-4
-1
-2
-299928	1a
-299930	1b
-299932	1a
-299934	1b
-299936	2a
-299938	2b
-299940	3a
-299942	3b
-299944	4a
-299946	4b
-299948	5a
-299950	5b
-299952	6a
-299954	6b
-299956	7a
-299958	7b
-299960	1a
-299962	1b
-299964	2a
-299966	2b
-299968	3a
-299971	3b1
-299973	3b2
-299975	4a
-299978	4b1
-299980	4b2
-5
-6
-1
-2
-3
+303751	3a
+303753	3b
 4
 5
 6
-7
-8
-9
+303758	1a
+303760	1b
+303762	2a
+303764	2b
+3
+4
+1
+2
+3
+4
+5
+303773	1a
+303775	1b
+303777	2a
+303779	2b
+303781	3a
+303783	3b
+303785	4a
+303787	4b
+1
+2
+1
+1
+1
+303794	1a
+303796	1b
+2
+303799	1a
+303801	1b
+303803	2a
+303805	2b
+3
+1
+1
+1
+2
+3
+303813	1a
+303815	1b
+303817	2a
+303820	2b1
+303822	2b2
+3
+4
+1
+2
+3
+4
+1
+2
+303832	1a
+303834	1b
+303836	1a
+303838	1b
+303840	2a
+303842	2b
+303844	3a
+303846	3b
+303848	4a
+303850	4b
+303852	5a
+303854	5b
+303856	6a
+303858	6b
+303860	7a
+303862	7b
+303864	1a
+303866	1b
+303868	2a
+303870	2b
+303872	3a
+303875	3b1
+303877	3b2
+303879	4a
+303882	4b1
+303884	4b2
+5
+6
 1
 2
 3
@@ -30397,11 +44421,20 @@
 7
 8
 9
-300002	1a
-300004	1b
-300006	2a
-300009	2b1
-300011	2b2
+1
+2
+3
+4
+5
+6
+7
+8
+9
+303906	1a
+303908	1b
+303910	2a
+303913	2b1
+303915	2b2
 3
 4
 1
@@ -30420,11 +44453,11 @@
 3
 4
 5
-300031	1a
-300033	1b
-300035	2a
-300038	2b1
-300040	2b2
+303935	1a
+303937	1b
+303939	2a
+303942	2b1
+303944	2b2
 3
 1
 1
@@ -30435,22 +44468,22 @@
 2
 3
 1
-300052	1a
-300054	1b
-300056	2a
-300058	2b
-300060	3a
-300062	3b
-300064	4a
-300066	4b
-300068	5a
-300070	5b
-300072	6a
-300074	6b
-300076	7a
-300078	7b
-300080	8a
-300082	8b
+303956	1a
+303958	1b
+303960	2a
+303962	2b
+303964	3a
+303966	3b
+303968	4a
+303970	4b
+303972	5a
+303974	5b
+303976	6a
+303978	6b
+303980	7a
+303982	7b
+303984	8a
+303986	8b
 1
 1
 2
@@ -30460,9 +44493,9 @@
 6
 7
 8
-300093	9a
-300095	9b
-300097	9c
+303997	9a
+303999	9b
+304001	9c
 1
 2
 3
@@ -30473,14 +44506,14 @@
 8
 9
 10
-300109	11a
-300112	11b1
-300114	11b2
-300116	1a
-300118	1b
-300120	2a
-300123	2b1
-300125	2b2
+304013	11a
+304016	11b1
+304018	11b2
+304020	1a
+304022	1b
+304024	2a
+304027	2b1
+304029	2b2
 3
 4
 1
@@ -30542,22 +44575,22 @@
 3
 4
 1
-300188	1a
-300191	1b1
-300193	1b2
+304092	1a
+304095	1b1
+304097	1b2
 2
 3
-300197	1a
-300200	1b1
-300202	1b2
-300204	1b3
-300206	1b4
-300208	1b5
+304101	1a
+304104	1b1
+304106	1b2
+304108	1b3
+304110	1b4
+304112	1b5
 2
-300211	1a
-300214	1b1
-300216	1b2
-300218	1b3
+304115	1a
+304118	1b1
+304120	1b2
+304122	1b3
 2
 3
 1
@@ -30570,28 +44603,28 @@
 1
 1
 2
-300232	3a
-300234	3b
-300236	4a
-300239	4b1
-300241	4b2
-300243	5a
-300245	5b
+304136	3a
+304138	3b
+304140	4a
+304143	4b1
+304145	4b2
+304147	5a
+304149	5b
 1
 2
-300249	3a
-300251	3b
-300253	4a
-300256	4b1
-300258	4b2
+304153	3a
+304155	3b
+304157	4a
+304160	4b1
+304162	4b2
 5
 1
 1
 2
-300264	3a
-300266	3b
-300268	4a
-300270	4b
+304168	3a
+304170	3b
+304172	4a
+304174	4b
 5
 1
 1
@@ -30610,109 +44643,6 @@
 1
 2
 3
-1
-2
-3
-4
-5
-6
-7
-1
-2
-3
-4
-5
-6
-7
-1
-300306	1a1
-300308	1a2
-300310	1a3
-300312	1b
-300314	1c
-300316	1d
-300318	1e
-300320	2a
-300322	2b
-300324	2c
-300326	3a
-300329	3b1
-300331	3b2
-1
-2
-3
-4
-5
-6
-1
-300340	2a
-300342	2b
-1
-1
-1
-1
-300348	1a
-300351	1b1
-300353	1b2
-2
-3
-1
-2
-3
-4
-1
-1
-2
-3
-4
-5
-6
-1
-1
-2
-3
-1
-2
-3
-1
-2
-3
-1
-2
-3
-4
-5
-1
-2
-3
-1
-1
-2
-3
-4
-5
-6
-7
-1
-2
-3
-1
-2
-3
-4
-300401	1a
-300403	1b
-300405	2a
-300408	2b1
-300410	2b2
-300412	2b3
-1
-2
-300416	3a
-300418	3b
-300420	4a
-300422	4b
-5
 1
 2
 3
@@ -30726,6 +44656,109 @@
 4
 5
 6
+7
+1
+304210	1a1
+304212	1a2
+304214	1a3
+304216	1b
+304218	1c
+304220	1d
+304222	1e
+304224	2a
+304226	2b
+304228	2c
+304230	3a
+304233	3b1
+304235	3b2
+1
+2
+3
+4
+5
+6
+1
+304244	2a
+304246	2b
+1
+1
+1
+1
+304252	1a
+304255	1b1
+304257	1b2
+2
+3
+1
+2
+3
+4
+1
+1
+2
+3
+4
+5
+6
+1
+1
+2
+3
+1
+2
+3
+1
+2
+3
+1
+2
+3
+4
+5
+1
+2
+3
+1
+1
+2
+3
+4
+5
+6
+7
+1
+2
+3
+1
+2
+3
+4
+304305	1a
+304307	1b
+304309	2a
+304312	2b1
+304314	2b2
+304316	2b3
+1
+2
+304320	3a
+304322	3b
+304324	4a
+304326	4b
+5
+1
+2
+3
+4
+5
+6
+7
+1
+2
+3
+4
+5
+6
 1
 2
 3
@@ -30739,13 +44772,13 @@
 1
 1
 1
-300451	1a
-300453	1b
-300455	2a
-300457	2b
-300459	3a
-300461	1a
-300463	1b
+304355	1a
+304357	1b
+304359	2a
+304361	2b
+304363	3a
+304365	1a
+304367	1b
 2
 3
 4
@@ -30758,45 +44791,45 @@
 2
 1
 2
-300477	1a
-300479	1b
+304381	1a
+304383	1b
 2
 1
-300483	1a
-300485	1b
-300487	2a
-300489	2b
+304387	1a
+304389	1b
+304391	2a
+304393	2b
 1
 1
 1
 1
-300495	2a
-300497	2b
-300499	3a
-300501	3b
+304399	2a
+304401	2b
+304403	3a
+304405	3b
 4
 1
 2
-300506	1a
-300508	1b
+304410	1a
+304412	1b
 2
 1
-300512	1a
-300514	1b
-300516	2a
-300518	2b
-300520	3a
-300522	3b
+304416	1a
+304418	1b
+304420	2a
+304422	2b
+304424	3a
+304426	3b
 4
 1
 2
 1
 1
-300529	1a
-300531	1b
-300533	2a
-300535	2b
-300537	3a
+304433	1a
+304435	1b
+304437	2a
+304439	2b
+304441	3a
 1
 2
 3
@@ -30818,56 +44851,56 @@
 2
 1
 1
-300560	1a
-300562	1b
-300564	2a
-300566	2b
-300568	3a
-300570	3b
-300572	4a
-300574	4b
-300576	5a
-300578	5b
-300580	6a
-300582	6b
+304464	1a
+304466	1b
+304468	2a
+304470	2b
+304472	3a
+304474	3b
+304476	4a
+304478	4b
+304480	5a
+304482	5b
+304484	6a
+304486	6b
 7
-300585	1a
-300587	1b
-300589	2a
-300591	2b
-300593	2c
+304489	1a
+304491	1b
+304493	2a
+304495	2b
+304497	2c
 3
-300596	1a
-300598	1b
-300600	2a
-300602	2b
-300604	3a
-300606	3b
-300608	4a
-300610	4b
-300612	5a
-300614	5b
-300616	6a
-300618	6b
-300620	7a
-300622	7b
-300624	8a
-300626	8b
-300628	9a
-300631	9b1
-300633	9b2
-300635	1a
-300637	1b
-300639	2a
-300641	2b
-300643	3a
-300645	3b
-300647	4a
-300649	4b
-300651	5a
-300653	5b
-300655	6a
-300657	6b
+304500	1a
+304502	1b
+304504	2a
+304506	2b
+304508	3a
+304510	3b
+304512	4a
+304514	4b
+304516	5a
+304518	5b
+304520	6a
+304522	6b
+304524	7a
+304526	7b
+304528	8a
+304530	8b
+304532	9a
+304535	9b1
+304537	9b2
+304539	1a
+304541	1b
+304543	2a
+304545	2b
+304547	3a
+304549	3b
+304551	4a
+304553	4b
+304555	5a
+304557	5b
+304559	6a
+304561	6b
 7
 8
 9
@@ -30875,36 +44908,36 @@
 1
 2
 3
-300666	1a
-300669	1b1
-300671	1b2
-300674	1b3A
-300676	1b3B
-300679	1b4A
-300681	1b4B
-300683	2a
-300685	2b
-300687	2c
+304570	1a
+304573	1b1
+304575	1b2
+304578	1b3A
+304580	1b3B
+304583	1b4A
+304585	1b4B
+304587	2a
+304589	2b
+304591	2c
 3
 4
-300691	1a
-300693	1b
-300696	1c1
-300698	1c2
-300700	2a
-300702	2b
-300705	2c1
-300707	2c2
-300709	3a
-300711	3b
-300713	3c
-300715	4a
-300717	4b
-300719	4c
-300721	5a
-300723	5b
-300725	6a
-300727	6b
+304595	1a
+304597	1b
+304600	1c1
+304602	1c2
+304604	2a
+304606	2b
+304609	2c1
+304611	2c2
+304613	3a
+304615	3b
+304617	3c
+304619	4a
+304621	4b
+304623	4c
+304625	5a
+304627	5b
+304629	6a
+304631	6b
 1
 2
 3
@@ -30916,76 +44949,76 @@
 1
 1
 1
-300740	1a
-300742	1b
+304644	1a
+304646	1b
 2
 1
 2
 3
-300748	1a
-300750	1b
-300752	2a
-300754	2b
-300756	3a
-300758	3b
-4
-5
-300762	1a
-300764	1b
-300766	1c
-300768	1d
-300770	2a
-300772	2b
-300774	3a
-300776	3b
-300778	3c
+304652	1a
+304654	1b
+304656	2a
+304658	2b
+304660	3a
+304662	3b
 4
 5
+304666	1a
+304668	1b
+304670	1c
+304672	1d
+304674	2a
+304676	2b
+304678	3a
+304680	3b
+304682	3c
+4
+5
 1
 1
 2
 1
-300786	1a
-300788	1b
-300790	2a
-300792	2b
+304690	1a
+304692	1b
+304694	2a
+304696	2b
 1
 2
 1
 1
 2
 3
-300800	4a
-300803	4b1
-300805	4b2
+304704	4a
+304707	4b1
+304709	4b2
 1
 2
 3
 4
-300811	1a
-300814	1b1
-300816	1b2
+304715	1a
+304718	1b1
+304720	1b2
 2
 1
-300820	1a
-300822	1b
-300824	2a
-300826	2b
+304724	1a
+304726	1b
+304728	2a
+304730	2b
 3
-300829	4a
-300831	4b
+304733	4a
+304735	4b
 1
 2
 1
 2
 3
 1
-300839	1a
-300842	1b1
-300844	1b2
-300847	1c1
-300849	1c2
-300851	1d
+304743	1a
+304746	1b1
+304748	1b2
+304751	1c1
+304753	1c2
+304755	1d
 2
 1
 1
@@ -30997,13 +45030,13 @@
 1
 2
 3
-300864	4a
-300866	4b
-300868	5a
-300870	5b
-300872	6a
-300875	6b1
-300877	6b2
+304768	4a
+304770	4b
+304772	5a
+304774	5b
+304776	6a
+304779	6b1
+304781	6b2
 1
 2
 3
@@ -31102,8 +45135,8 @@
 3
 4
 5
-300977	1a
-300979	1b
+304881	1a
+304883	1b
 2
 1
 2
@@ -31124,52 +45157,52 @@
 2
 3
 4
-301001	1
-301003	1a
-301005	1b
-301007	1c
-301009	1d
-2
-3
-4
-5
-1
-301016	2a
-301018	2b
-3
-4
-5
-1
-2
-1
-1
-1
-2
-1
-2
-3
-1
-1
-1
-2
-3
-1
-2
-3
-1
+304905	1
+304907	1a
+304909	1b
+304911	1c
+304913	1d
 2
 3
 4
 5
 1
+304920	2a
+304922	2b
+3
+4
+5
+1
+2
+1
+1
+1
+2
+1
 2
 3
-301048	1a
-301050	1b
-301052	2a
-301054	2b
-301056	3a
-301058	3b
+1
+1
+1
+2
+3
+1
+2
+3
+1
+2
+3
+4
+5
+1
+2
+3
+304952	1a
+304954	1b
+304956	2a
+304958	2b
+304960	3a
+304962	3b
 1
 1
 1
@@ -31192,22 +45225,22 @@
 1
 2
 3
-301082	4a
-301084	4b
+304986	4a
+304988	4b
 5
 6
 7
 8
 1
-301091	1a
-301094	1b1
-301096	1b2
-301098	2a
-301101	2b1
-301103	2b2
-301105	3a
-301108	3b1
-301110	3b2
+304995	1a
+304998	1b1
+305000	1b2
+305002	2a
+305005	2b1
+305007	2b2
+305009	3a
+305012	3b1
+305014	3b2
 4
 1
 2
@@ -31267,10 +45300,10 @@
 1
 2
 3
-301171	1a
-301173	1b
-301175	2a
-301177	2b
+305075	1a
+305077	1b
+305079	2a
+305081	2b
 1
 1
 1
@@ -31291,12 +45324,12 @@
 1
 2
 1
-301199	1a
-301201	1b
-301203	1c
-301205	2a
-301207	2b
-301209	2c
+305103	1a
+305105	1b
+305107	1c
+305109	2a
+305111	2b
+305113	2c
 3
 4
 1
@@ -31312,9 +45345,9 @@
 1
 2
 1
-301226	2a
-301229	2b1
-301231	2b2
+305130	2a
+305133	2b1
+305135	2b2
 3
 1
 1
@@ -31323,180 +45356,152 @@
 1
 2
 1
-301241	1a
-301244	1b1
-301246	1b2
-301248	2a
-301251	2b1
-301253	2b2
-301255	3a
-301258	3b1
-301260	3b2
-301262	4a
-301265	4b1
-301267	4b2
-301269	4b3
-301271	5a
-301274	5b1
-301276	5b2
-301278	6a
-301281	6b1
-301283	6b2
-301285	7a
-301287	7b
-301289	8a
-301291	8b
-301293	9a
-301296	9b1
-301298	9b2
-301300	1a
-301302	1b
-301304	2a
-301307	2b1
-301309	2b2
-301311	3a
-301314	3b1
-301316	3b2
-301318	4a
-301321	4b1
-301323	4b2
-301325	5a
-301328	5b1
-301330	5b2
-301332	6a
-301335	6b1
-301337	6b2
-301339	7a
-301342	7b1
-301344	7b2
-301346	8a
-301349	8b1
-301351	8b2
+305145	1a
+305148	1b1
+305150	1b2
+305152	2a
+305155	2b1
+305157	2b2
+305159	3a
+305162	3b1
+305164	3b2
+305166	4a
+305169	4b1
+305171	4b2
+305173	4b3
+305175	5a
+305178	5b1
+305180	5b2
+305182	6a
+305185	6b1
+305187	6b2
+305189	7a
+305191	7b
+305193	8a
+305195	8b
+305197	9a
+305200	9b1
+305202	9b2
+305204	1a
+305206	1b
+305208	2a
+305211	2b1
+305213	2b2
+305215	3a
+305218	3b1
+305220	3b2
+305222	4a
+305225	4b1
+305227	4b2
+305229	5a
+305232	5b1
+305234	5b2
+305236	6a
+305239	6b1
+305241	6b2
+305243	7a
+305246	7b1
+305248	7b2
+305250	8a
+305253	8b1
+305255	8b2
 9
-301354	1a
-301357	1b1
-301359	1b2
-301361	2a
-301363	2b
-301365	3a
-301368	3b1
-301370	3b2
-301372	4a
-301374	4b
-301376	5a
-301378	5b
-301380	6a
-301383	6b1
-301385	6b2
-301387	7a
-301390	7b1
-301392	7b2
-301394	8a
-301397	8b1
-301399	8b2
-301401	9a
-301404	9b1
-301406	9b2
+305258	1a
+305261	1b1
+305263	1b2
+305265	2a
+305267	2b
+305269	3a
+305272	3b1
+305274	3b2
+305276	4a
+305278	4b
+305280	5a
+305282	5b
+305284	6a
+305287	6b1
+305289	6b2
+305291	7a
+305294	7b1
+305296	7b2
+305298	8a
+305301	8b1
+305303	8b2
+305305	9a
+305308	9b1
+305310	9b2
 1
 2
 1
-301411	1a
-301414	1b1
-301416	1b2
-301418	2a
-301421	2b1
-301423	2b2
-301425	3a
-301428	3b1
-301430	3b2
-301432	4a
-301435	4b1
-301437	4b2
-301439	4b3
-301441	5a
-301443	5b
-301445	1a
-301447	1b
-301449	2a
-301451	2b
-301453	3a
-301456	3b1
-301458	3b2
-301460	4a
-301463	4b1
-301465	4b2
-301467	5a
-301469	5b
-301471	1a
-301473	1b
-301475	2a
-301477	2b
-301479	3a
-301481	3b
-301483	4a
-301485	4b
-301487	5a
-301490	5b1
-301492	5b2
-301494	6a
-301496	6b
-301498	1a
-301500	1b
-301502	2a
-301504	2b
-301506	3a
-301508	3b
-301510	4a
-301512	4b
-301514	5a
-301516	5b
-301518	6a
-301521	6b1
-301523	6b2
-301525	7a
-301527	7b
-301529	8a
-301531	8b
-301533	1a
-301536	1b1
-301538	1b2
-301540	2a
-301543	2b1
-301545	2b2
-301547	3a
-301550	3b1
-301552	3b2
-301554	4a
-301557	4b1
-301559	4b2
-1
-1
-2
-3
-4
-5
-6
-7
-8
-1
-2
-3
-4
-5
-6
-7
-8
-1
-1
-2
-3
-1
-2
-3
-4
-301587	5a1
-301589	5a2
-301591	5b
+305315	1a
+305318	1b1
+305320	1b2
+305322	2a
+305325	2b1
+305327	2b2
+305329	3a
+305332	3b1
+305334	3b2
+305336	4a
+305339	4b1
+305341	4b2
+305343	4b3
+305345	5a
+305347	5b
+305349	1a
+305351	1b
+305353	2a
+305355	2b
+305357	3a
+305360	3b1
+305362	3b2
+305364	4a
+305367	4b1
+305369	4b2
+305371	5a
+305373	5b
+305375	1a
+305377	1b
+305379	2a
+305381	2b
+305383	3a
+305385	3b
+305387	4a
+305389	4b
+305391	5a
+305394	5b1
+305396	5b2
+305398	6a
+305400	6b
+305402	1a
+305404	1b
+305406	2a
+305408	2b
+305410	3a
+305412	3b
+305414	4a
+305416	4b
+305418	5a
+305420	5b
+305422	6a
+305425	6b1
+305427	6b2
+305429	7a
+305431	7b
+305433	8a
+305435	8b
+305437	1a
+305440	1b1
+305442	1b2
+305444	2a
+305447	2b1
+305449	2b2
+305451	3a
+305454	3b1
+305456	3b2
+305458	4a
+305461	4b1
+305463	4b2
 1
 1
 2
@@ -31514,467 +45519,6 @@
 6
 7
 8
-9
-10
-11
-1
-2
-3
-1
-1
-1
-301619	1a
-301623	1b1A
-301625	1b1B
-301628	1b2A
-301630	1b2B
-301632	2a
-301636	2b1A
-301638	2b1B
-301641	2b2A
-301643	2b2B
-301645	3a
-301648	3b1
-301650	3b2
-4
-301653	1a
-301657	1b1A
-301659	1b1B
-301662	1b2A
-301664	1b2B
-301666	2a
-301669	2b1
-301671	2b2
-301673	3a
-301675	3b
-4
-5
-1
-1
-2
-3
-1
-2
-301685	1a
-301689	1b1A
-301691	1b1B
-301694	1b2A
-301696	1b2B
-301698	2a
-301700	2b
-1
-1
-301704	1
-301706	1a
-301708	1b
-1
-1
-1
-2
-3
-4
-5
-6
-7
-8
-9
-1
-2
-3
-301724	4a
-301726	4b
-5
-6
-7
-301731	8
-301733	8a
-301735	8b
-9
-1
-2
-3
-4
-5
-6
-7
-1
-2
-3
-4
-5
-6
-7
-1
-2
-3
-4
-1
-2
-3
-1
-2
-3
-1
-2
-1
-2
-1
-1
-301768	1a
-301772	1b1
-301774	1b1A
-301776	1b1B
-301778	1b2
-1
-1
-2
-1
-2
-3
-4
-5
-6
-7
-1
-2
-3
-4
-5
-6
-1
-1
-1
-2
-3
-4
-1
-2
-3
-1
-2
-3
-4
-5
-6
-7
-1
-2
-3
-1
-2
-3
-1
-301819	2a
-301821	2b
-3
-1
-1
-1
-2
-3
-4
-1
-2
-3
-4
-1
-2
-1
-2
-3
-4
-5
-6
-7
-1
-2
-3
-4
-5
-1
-1
-1
-1
-1
-1
-2
-3
-1
-2
-3
-1
-2
-1
-2
-3
-4
-5
-6
-7
-8
-9
-1
-2
-3
-4
-5
-6
-7
-8
-9
-1
-2
-3
-4
-5
-6
-7
-8
-1
-2
-3
-4
-5
-6
-7
-8
-1
-1
-1
-301898	1a
-301901	1b1
-301903	1b2
-301905	1b3
-301907	2a
-301909	2b
-301911	1a
-301914	1b1
-301916	1b2
-301918	1b3
-2
-3
-4
-1
-2
-3
-1
-301927	1a
-301929	1b
-301931	2a
-301933	2b
-301935	3a
-301937	3b
-301939	4a
-301941	4b
-301944	5a1
-301946	5a2
-301948	5b
-301950	6a
-301952	6b
-301954	7a
-301957	7b1
-301959	7b2
-301961	8a
-301964	8b1
-301966	8b2
-301968	1a
-301971	1b1
-301973	1b2
-301976	2a1
-301978	2a2
-301980	2b
-3
-4
-301984	5a
-301986	5b
-301988	6a
-301990	6b
-7
-301993	1a
-301996	1b1
-301998	1b2
-302001	2a1
-302003	2a2
-302005	2b
-302007	1a
-302009	1b
-302011	2a
-302013	2b
-302015	3a
-302017	3b
-302019	1a
-302021	1b
-2
-1
-2
-1
-2
-1
-2
-1
-1
-1
-2
-3
-4
-5
-1
-2
-1
-2
-3
-4
-5
-6
-7
-1
-2
-3
-4
-5
-1
-2
-3
-4
-5
-1
-1
-2
-3
-4
-5
-1
-2
-3
-1
-2
-3
-4
-302070	1a1
-302072	1a2
-302075	1b1
-302077	1b2
-302079	1b3
-2
-302082	1a
-302085	1b1
-302087	1b2
-302089	2a
-302092	2b1
-302094	2b2
-3
-1
-2
-3
-4
-5
-6
-7
-8
-9
-10
-1
-2
-3
-4
-5
-6
-7
-8
-9
-10
-1
-2
-3
-4
-5
-6
-7
-8
-302126	1a1
-302128	1a2
-302132	1b1A
-302135	1b1B1
-302137	1b1B2
-302140	1b2A
-302143	1b2B1
-302145	1b2B2
-302148	1b3A
-302151	1b3B1
-302153	1b3B2
-302156	1b4A
-302159	1b4B1
-302161	1b4B2
-2
-1
-2
-3
-4
-1
-302169	2a
-302172	2b1
-302174	2b2
-3
-4
-1
-2
-3
-1
-2
-3
-1
-302185	1a
-302187	1b
-302189	2a
-302191	2b
-1
-2
-3
-4
-1
-2
-3
-4
-5
-1
-2
-3
-1
-2
-1
-2
-3
-4
-1
-2
-1
-1
-302215	1a
-302217	1b
-302220	2a1
-302222	2a2
-302224	2b
-1
-2
-1
-2
-1
-1
-1
-2
-3
-4
-1
-2
-3
-4
-5
-6
-1
-2
-3
-1
-2
 1
 1
 2
@@ -31983,262 +45527,10 @@
 2
 3
 4
+305491	5a1
+305493	5a2
+305495	5b
 1
-1
-302257	1a
-302259	1b
-2
-302262	3a
-302264	3b
-302266	4a
-302268	4b
-1
-2
-1
-1
-1
-2
-3
-4
-5
-6
-1
-2
-3
-4
-5
-6
-7
-302288	1a1
-302290	1a2
-302292	1a3
-302294	1b
-2
-1
-1
-1
-2
-3
-4
-5
-6
-1
-2
-3
-1
-2
-1
-1
-2
-3
-1
-2
-3
-4
-5
-1
-1
-1
-2
-3
-4
-5
-6
-1
-2
-3
-1
-1
-2
-1
-2
-1
-2
-302337	1a
-302339	1b
-302341	2a
-302343	2b
-3
-4
-1
-2
-1
-2
-3
-1
-1
-2
-1
-1
-2
-3
-1
-2
-1
-2
-1
-2
-1
-302366	1a
-302368	1b
-2
-3
-4
-5
-1
-2
-3
-302377	4a
-302379	4b
-5
-6
-1
-2
-3
-4
-5
-6
-1
-2
-3
-4
-5
-6
-1
-2
-3
-4
-1
-2
-1
-1
-1
-1
-302405	2a
-302408	2b1
-1
-1
-1
-1
-2
-1
-2
-3
-4
-1
-1
-1
-1
-2
-1
-1
-1
-1
-2
-1
-2
-3
-302432	1a
-302434	1b
-302436	2a
-302438	2b
-302442	1a1A
-302444	1a1B
-302446	1a2
-302448	1a3
-302450	1a4
-302453	1b1
-302455	1b2
-302459	1c1A
-302461	1c1B
-302464	1c2A
-302466	1c2B
-302469	2a1
-302471	2a2
-302473	2a3
-302476	2b1
-302478	2b2
-302480	2b3
-302482	1a
-302485	1b1
-302487	1b2
-302489	2a
-302492	2b1
-302494	2b2
-3
-1
-2
-302499	1a
-302502	1b1
-302504	1b2
-2
-1
-2
-3
-4
-5
-1
-1
-2
-3
-1
-2
-3
-1
-1
-1
-2
-3
-4
-1
-1
-2
-3
-1
-1
-2
-1
-302533	1
-302535	1a
-302537	1b
-1
-1
-2
-3
-4
-1
-2
-1
-1
-2
-3
-4
-1
-1
-1
-2
-302555	1a
-302558	1b1
-302560	1b2
-302564	1c1A
-302566	1c1B
-302569	1c2A
-302571	1c2B
-2
-302574	1a
-302577	1b1
-302579	1b2
-2
-1
-2
-3
-1
-2
-3
-302588	1a
-302591	1b1
-302593	1b2
-2
 1
 2
 3
@@ -32261,220 +45553,55 @@
 1
 2
 3
+1
+1
+1
+305523	1a
+305527	1b1A
+305529	1b1B
+305532	1b2A
+305534	1b2B
+305536	2a
+305540	2b1A
+305542	2b1B
+305545	2b2A
+305547	2b2B
+305549	3a
+305552	3b1
+305554	3b2
 4
-5
-6
-7
-8
-9
-10
-1
-2
-3
-302628	1a
-302631	1b1
-302633	1b2
-302635	1a
-302637	1b
-302639	2a
-302641	2b
-3
-1
-2
-3
-1
-2
-1
-2
-3
-1
-2
-1
-1
-2
-3
-4
-1
-2
-1
-1
-2
-3
-1
-2
-3
-4
-5
-6
-1
-2
-3
-4
-5
-1
-2
-3
+305557	1a
+305561	1b1A
+305563	1b1B
+305566	1b2A
+305568	1b2B
+305570	2a
+305573	2b1
+305575	2b2
+305577	3a
+305579	3b
 4
 5
 1
 1
-1
-2
-3
-4
-1
-2
-3
-4
-5
-1
-1
-1
-2
-3
-4
-1
-302699	1a
-302702	1b1
-302704	1b2
-1
-2
-3
-4
-1
-2
-3
-4
-1
-1
-2
-3
-4
-1
-1
-1
-2
-1
-1
-1
-302726	1a
-302729	1b1
-302731	1b2
-302733	2a
-302736	2b1
-1
-2
-3
-4
-5
-6
-7
-8
-1
-2
-3
-4
-5
-302751	6a
-302754	6b1
-302756	6b2
-7
-8
-1
-2
-3
-4
-5
-6
-302767	7a1
-302769	7a2
-302771	7b
-8
-1
-2
-3
-4
-5
-6
-7
-302781	1a
-302784	1b1
-302786	1b2
-302789	1c1
-302791	1c2
-302793	2a
-302796	2b1
-302798	2b2
-302801	2c1
-302803	2c2
-1
-2
-302807	1a
-302809	1b
-2
-302812	3a
-302814	3b
-4
-1
-1
-2
-1
-1
 2
 3
 1
 2
-3
-1
-2
-302829	1a
-302831	1b
-2
-3
-1
-2
-1
-2
-3
+305589	1a
+305593	1b1A
+305595	1b1B
+305598	1b2A
+305600	1b2B
+305602	2a
+305604	2b
 1
 1
-1
-302843	1a
-302845	1b
-1
-2
-302850	3a1
-302852	3a2
-302854	3b
-4
-5
-1
-2
-3
-4
-5
-6
-1
-302865	1a
-302868	1b1
-302870	1b2
-2
-1
-2
-302876	3a1
-302878	3a2
-302880	3b
-1
-302883	2a
-302885	2b
+305608	1
+305610	1a
+305612	1b
 1
 1
-1
-2
-3
-4
-5
-6
 1
 2
 3
@@ -32487,11 +45614,33 @@
 1
 2
 3
+305628	4a
+305630	4b
+5
+6
+7
+305635	8
+305637	8a
+305639	8b
+9
+1
+2
+3
 4
-302908	1a
-302911	1b1
-302913	1b2
+5
+6
+7
 1
+2
+3
+4
+5
+6
+7
+1
+2
+3
+4
 1
 2
 3
@@ -32501,33 +45650,14 @@
 1
 2
 1
-1
 2
 1
-2
-302929	1a
-302932	1b1
-302934	1b2
-2
-3
-302938	1a
-302941	1b1
-302943	1b2
-2
-3
 1
-2
-302949	1a
-302952	1b1
-302954	1b2
-302956	2a
-302959	2b1
-302961	2b2
-1
-1
-2
-3
-1
+305672	1a
+305676	1b1
+305678	1b1A
+305680	1b1B
+305682	1b2
 1
 1
 2
@@ -32536,60 +45666,8 @@
 3
 4
 5
-1
-2
-3
-4
-5
-1
-1
-2
-3
-4
-5
-1
-2
-3
-1
-1
-1
-302993	2a
-302995	2b
-3
-302998	4a
-303000	4b
-1
-2
-3
-4
-1
-2
-3
-4
-5
-1
-303012	1a
-303015	1b1
-303017	1b2
-1
-2
-1
-2
-1
-303025	1a1
-303027	1a2
-303030	1b1
-303032	1b2
-2
-303035	3a
-303038	3b1
-303040	3b2
-4
-1
-2
-3
-4
-1
+6
+7
 1
 2
 3
@@ -32597,20 +45675,6 @@
 5
 6
 1
-2
-3
-1
-1
-2
-3
-4
-5
-6
-1
-2
-3
-1
-2
 1
 1
 2
@@ -32619,170 +45683,58 @@
 1
 2
 3
-4
-5
-6
-1
-2
-1
-2
-3
-1
-2
-1
-1
-2
-3
-1
-1
-2
-1
-1
-1
-2
-3
-1
-2
-3
-4
-5
-1
-2
-3
-4
-5
-1
-2
-3
-1
-2
-3
-1
-1
-2
-3
-1
-2
-3
-4
-1
-1
-2
-3
-1
-1
-2
-1
-2
-3
-303133	1a
-303135	1b
-303137	2a
-303139	2b
-303141	2c
-1
-2
-3
-4
-5
-1
-2
-3
-4
-5
-1
-2
-3
-1
-1
-1
-2
-1
-1
-2
-3
-1
 1
 2
 3
 4
 5
 6
-303171	1a
-303173	1b
-303175	2a
-303177	2b
-3
-4
-5
-1
-303183	2a
-303186	2b1
-303188	2b2
-3
-1
+7
 1
 2
 3
 1
 2
-1
-2
 3
 1
-1
-2
+305723	2a
+305725	2b
 3
-4
-5
-1
-2
-3
-303209	4a
-303212	4b1
-303214	4b2
-1
-2
-3
-4
 1
 1
 1
 2
 3
 4
+1
+2
+3
+4
+1
+2
 1
 2
 3
 4
 5
 6
+7
 1
-2
-3
-4
-303237	1a1
-303239	1a2
-303241	1b
 2
 3
 4
 5
-6
+1
+1
+1
+1
 1
 1
 2
 3
-4
 1
 2
 3
-1
-2
-3
-1
-2
-1
 1
 2
 1
@@ -32801,80 +45753,16 @@
 5
 6
 7
-1
-2
-1
-2
-3
-4
-1
-1
-2
-3
-4
-1
-2
-3
-4
-1
-2
-3
-1
-2
-3
-4
-5
-6
-7
-1
-2
-3
-4
-5
-6
-7
-1
-2
-3
-1
-2
-3
-1
-2
-3
-4
-5
-6
-7
-8
-1
-2
-3
-4
-5
-6
-7
 8
 9
 1
 2
 3
 4
-1
-2
-1
-2
-3
-4
-5
-1
-2
-1
-2
-3
-4
 5
 6
+7
+8
 1
 2
 3
@@ -32885,80 +45773,84 @@
 8
 1
 1
+1
+305802	1a
+305805	1b1
+305807	1b2
+305809	1b3
+305811	2a
+305813	2b
+305815	1a
+305818	1b1
+305820	1b2
+305822	1b3
+2
+3
+4
+1
+2
+3
+1
+305831	1a
+305833	1b
+305835	2a
+305837	2b
+305839	3a
+305841	3b
+305843	4a
+305845	4b
+305848	5a1
+305850	5a2
+305852	5b
+305854	6a
+305856	6b
+305858	7a
+305861	7b1
+305863	7b2
+305865	8a
+305868	8b1
+305870	8b2
+305872	1a
+305875	1b1
+305877	1b2
+305880	2a1
+305882	2a2
+305884	2b
+3
+4
+305888	5a
+305890	5b
+305892	6a
+305894	6b
+7
+305897	1a
+305900	1b1
+305902	1b2
+305905	2a1
+305907	2a2
+305909	2b
+305911	1a
+305913	1b
+305915	2a
+305917	2b
+305919	3a
+305921	3b
+305923	1a
+305925	1b
+2
+1
+2
+1
+2
+1
+2
+1
+1
+1
 2
 3
 4
 5
-6
-1
-2
-3
-4
-5
-1
-2
-1
-2
-3
-4
-1
-1
-1
-2
-3
-1
-2
-303387	1a
-303389	1b
-2
-303392	1a
-303394	1b
-1
-1
-1
-2
-1
-303401	1a
-303403	1b
-303405	2a
-303407	2b
-303409	3a
-303411	3b
-303413	1a
-303416	2a1
-303418	2a2
-303420	2b
-303422	3a
-303424	3b
-1
-303427	1a
-303429	1b
-303431	2a
-303434	2b1
-303436	2b2
-303439	2b3A
-303441	2b3B
-1
-1
-2
-1
-2
-1
-1
-1
-1
-303452	2a
-303454	2b
-1
-2
-3
-1
-1
-1
-1
-2
-3
-4
 1
 2
 1
@@ -32969,26 +45861,41 @@
 6
 7
 1
+2
+3
+4
+5
 1
 2
-303478	3a
-303480	3b
-303482	4a
-303484	4b
-303486	5a
-303488	5b
-6
-1
+3
+4
+5
 1
 1
 2
 3
 4
 5
-6
-7
-8
-9
+1
+2
+3
+1
+2
+3
+4
+305974	1a1
+305976	1a2
+305979	1b1
+305981	1b2
+305983	1b3
+2
+305986	1a
+305989	1b1
+305991	1b2
+305993	2a
+305996	2b1
+305998	2b2
+3
 1
 2
 3
@@ -33009,74 +45916,6 @@
 8
 9
 10
-11
-12
-1
-1
-2
-303527	1a
-303531	1b1A
-303533	1b1B
-303536	1b2A
-303538	1b2B
-2
-303541	3a
-303543	3b
-303545	3c
-303547	3d
-1
-2
-1
-2
-303553	1a
-303555	1b
-303557	2a
-303559	2b
-303561	3a
-303563	3b
-4
-303566	5a
-303568	5b
-1
-2
-3
-1
-2
-1
-303576	2a
-303578	2b
-3
-1
-303582	1a
-303584	1b
-303586	2a
-303588	2b
-3
-4
-303592	5a
-303594	5b
-303596	6a
-303598	6b
-303600	1a
-303602	1b
-303604	2a
-303606	2b
-303608	3a
-303610	3b
-4
-1
-2
-3
-4
-5
-6
-1
-2
-3
-4
-5
-1
-1
 1
 2
 3
@@ -33085,1852 +45924,3046 @@
 6
 7
 8
-1
-2
-3
-4
-5
-6
-1
-2
-303642	1a
-303644	1b
-2
-3
-303648	4a
-303650	4b
-5
-6
-7
-303655	1a
-303657	1b
-2
-303660	1a
-303662	1b
-2
-3
-303666	1a
-303669	1b1
-303671	1b2
-303673	2a
-303676	2b1
-303678	2b2
-1
-2
-1
-1
-2
-3
-4
-1
-303688	2a
-303690	2b
-303692	3a
-303694	3b
-303696	1a
-303699	1b1
-303701	1b2
-303703	1a
-303705	1b
-2
-3
-303709	4a
-303711	4b
-5
-6
-1
-2
-303717	1a
-303719	1b
-2
-303722	1a
-303725	1b1
-303727	1b2
-303729	2a
-303732	2b1
-303734	2b2
-1
-2
-1
-1
-2
-3
-1
-1
-1
-1
-1
-2
-3
-4
-1
-303751	2a
-303753	2b
-3
-1
-2
-1
-303759	1a
-303761	1b
-2
-1
-2
-3
-4
-1
-2
-3
-1
-303773	1a1
-303775	1a2
-303777	1b
-303779	2a
-303781	2b
-303783	2c
-303785	2d
-303787	3a
-303789	3b
-303791	3c
-303793	3d
-4
-1
-2
-1
-1
-2
-3
-4
-5
-6
-7
-1
-2
-3
-4
-5
-6
-7
-1
-2
-3
-1
-1
-303818	2a
-303821	2b1
-303823	2b2
-303825	2b3
-303827	2b4
-3
-4
-5
-6
-1
-2
-3
-303836	4a
-303839	4b1
-303841	4b2
-303843	4b3
-303845	4b4
-5
-1
-1
-2
-1
-303852	1a
-303854	1b
-303856	2a
-303858	2b
-303860	3a
-303862	3b
-303864	4a
-303866	4b
-5
-303869	1a
-303871	1b
-303873	2a
-303875	2b
-303877	3a
-303879	3b
-303881	4a
-303883	4b
-5
-1
-2
-303888	3a
-303890	3b
-4
-303893	5a
-303896	5b1
-303899	5c1
-303901	5c2
-1
-2
-1
-303906	1a
-303909	1b1
-303911	1b2
-303913	2a
-303916	2b1
-303918	2b2
-303920	3a
-303922	3b
-303924	4a
-303926	4b
-5
-303929	1a
-303932	1b1
-303934	1b2
-2
-3
-1
-2
-1
-1
-2
-3
-1
-1
-2
-3
-1
-2
-3
-4
-1
-2
-3
-4
-5
-6
-7
-1
-1
-2
-1
-303963	1a
-303965	1b
-2
-3
-4
-5
-1
-2
-3
-4
-303975	1a
-303977	1b
-2
-3
-1
-2
-3
-1
-1
-1
-2
-3
-4
-5
-6
-1
-2
-3
-4
-5
-6
-1
-303999	1a
-304001	1b
-304003	2a
-304005	2b
-304007	3a
-304009	3b
-304011	4a
-304013	4b
-304015	5a
-304017	5b
-304019	6a
-304021	6b
-304023	1a
-304025	1b
-304027	2a
-304029	2b
-304031	3a
-304033	3b
-304035	1a
-304037	1b
-304039	2a
-304041	2b
-304043	3a
-304045	3b
-1
-2
-304049	1a
-304052	1b1
-304054	1b2
-304056	2a
-304059	2b1
-304061	2b2
-304063	3a
-304066	3b1
-304068	3b2
-304070	4a
-304073	4b1
-304075	4b2
-304077	5a
-304080	5b1
-304082	5b2
-304084	6a
-304087	6b1
-304089	6b2
-7
-304092	1a
-304095	1b1
-304097	1b2
-304099	2a
-304102	2b1
-304104	2b2
-304106	3a
-304109	3b1
-304111	3b2
-304113	4a
-304116	4b1
-304118	4b2
-5
-1
-2
-1
-1
-2
-1
-1
-1
-2
-3
-1
-304132	2a
-304134	2b
-304137	1a1
-304139	1a2
-304141	1a3
-304143	1b
-2
-1
-2
-3
-1
-2
-3
-4
-5
-1
-2
-3
-4
-5
-6
-1
-2
-3
-1
-2
-3
-4
-1
-1
-1
-2
-1
-2
-3
-1
-2
-1
-1
-1
-1
-1
-304181	1a
-304183	1b
-304185	2a
-304188	2b1
-304190	2b2
-304192	1a
-304194	1b
-304196	2a
-304198	2b
-3
-1
-2
-3
-4
-5
-6
-1
-2
-3
-4
-5
-1
-2
-3
-4
-5
-6
-1
-2
-1
-2
-3
-4
-1
-2
-1
-2
-3
-4
-1
-2
-3
-4
-5
-1
-2
-1
-1
-304239	1
-304241	1a
-304243	2
-304245	2a
-3
-1
-2
-1
-2
-3
-4
-1
-2
-1
-1
-1
-1
-1
-2
-1
-2
-3
-4
-1
-1
-1
-2
-1
-1
-2
-1
-2
-3
-1
-2
-1
-1
-1
-2
-1
-2
-1
-2
-3
-1
-2
-3
-1
-1
-2
-3
-1
-2
-3
-4
-5
-1
-1
-1
-2
-1
-2
-1
-1
-1
-1
-1
-2
-3
-1
-2
-1
-304315	1a
-304318	1b1
-304320	1b2
-304322	2a
-304324	2b
-1
-2
-3
-1
-1
-2
-3
-4
-1
-2
-3
-1
-304338	1
-304340	1a
-304342	2
-304344	2a
-304346	2b
-304348	2c
-304350	3
-304352	3a
-304354	4
-304356	4a
-304358	4b
-304360	5
-304362	5a
-304364	6
-304366	6a
-1
-2
-3
-4
-5
-1
-1
-1
-2
-3
-1
-2
-3
-1
-1
-2
-1
-2
-1
-2
-1
-1
-1
-2
-1
-1
-2
-304395	3a
-304397	3b
-304399	4a
-304401	4b
-304403	4c
-304405	5a
-304407	5b
-304409	5c
-304411	6a
-304413	6b
-1
-2
-304417	3a
-304419	3b
-4
-5
-6
-1
-2
-1
-2
-1
-2
-3
-1
-2
-3
-1
-2
-3
-4
-1
-2
-3
-1
-2
-3
-1
-1
-2
-1
-2
-1
-2
-3
-1
-1
-2
-1
-304456	1
-304458	1a
-2
-1
-2
-3
-304464	1
-304466	1a
-2
-1
-1
-1
-2
-1
-1
-2
-1
-1
-2
-304479	3a
-304483	3b1A
-304486	3b1B1
-304489	3b2A
-304492	3b2B1
-304494	3b2B2
-1
-2
-3
-1
-2
-3
-4
-1
-1
-1
-2
-1
-2
-1
-2
-1
-1
-2
-1
-2
-1
-2
-3
-1
-2
-3
-4
-1
-1
-1
-2
-1
-2
-3
-1
-1
-2
-3
-1
-2
-3
-304537	1a
-304540	1b1
-304542	1b2
-2
-3
-1
-1
-2
-3
-1
-1
-1
-1
-2
-1
-2
-1
-2
-1
-1
-2
-1
-304563	2a
-304565	2b
-3
-4
-5
-6
-7
-1
-1
-1
-2
-1
-304577	2
-304579	2a
-1
-2
-1
-2
-1
-1
-2
-3
-1
-2
-1
-1
-1
-2
-3
-4
-5
-1
-1
-1
-2
-3
-4
-5
-6
-7
-8
-9
-1
-1
-1
-2
-3
-1
-2
-1
-1
-2
-3
-4
-1
-2
-1
-1
-1
-2
-1
-1
-1
-2
-3
-4
-1
-2
-304635	1
-304637	1a
-304639	2
-304641	2a
-304643	2b
-3
-1
-2
-3
-4
-5
-1
-2
-3
-1
-1
-1
-2
-1
-2
-3
-4
-1
-2
-3
-1
-1
-1
-2
-3
-4
-1
-2
-1
-2
-1
-1
-1
-2
-1
-2
-3
-1
-1
-2
-1
-2
-3
-4
-5
-6
-1
-1
-1
-2
-1
-304696	1a
-304698	1b
-2
-1
-2
-1
-1
-2
-1
-2
-3
-4
-1
-304711	1
-304713	1a
-304715	1b
-2
-1
-1
-2
-1
-2
-1
-2
-3
-1
-2
-1
-2
-1
-1
-2
-1
-2
-3
-4
-1
-2
-304739	1a
-304742	1b1
-304744	1b2
-304746	1c
-304748	2a
-304750	2b
-1
-2
-3
-4
-5
-1
-2
-3
-1
-2
-3
-304763	1a
-304765	1b
-2
-3
-304769	1a
-304771	1b
-304773	1c
-304775	2a
-304777	2b
-304779	2c
-3
-1
-1
-2
-3
-1
-1
-2
-3
-4
-1
-304793	1a1
-304795	1a2
-304797	1b
-304800	2a1
-304802	2a2
-304804	2b
-3
-1
-1
-304809	1a
-304811	1b
-2
-1
-304815	1a
-304818	1b1
-304820	1b2
-304822	2a
-304824	2b
-304826	1a
-304829	1b1
-304831	1b2
-304833	2a
-304836	2b1
-304838	2b2
-304840	3a
-304843	3b1
-304845	3b2
-4
-1
-2
-304850	3a
-304852	3b
-304854	4a
-304856	4b
-5
-1
-1
-2
-3
-1
-2
-1
-304866	1a
-304869	1b1
-304871	1b2
-2
-304874	3a
-304877	3b1
-304879	3b2
-1
-2
-304883	3a
-304886	3b1
-304888	3b2
-304890	3b3
-1
-304894	1a1
-304896	1a2
-304898	1a3
-304900	1b
-304902	2a
-304905	2b1
-304907	2b2
-304909	2b3
-1
-2
-3
-304914	4a
-304917	4b1
-304919	4b2
-304921	4b3
-1
-304925	1a1
-304927	1a2
-304929	1b
-1
-1
-2
-3
-1
-1
-1
-304938	2a
-304940	2b
-304942	3a
-304944	3b
-304946	4a
-304948	4b
-304950	1a
-304952	1b
-304954	2a
-304956	2b
-304958	3a
-304960	3b
-304962	4a
-304964	4b
-304966	5a
-304968	5b
-6
-1
-2
-3
-304974	4a
-304976	4b
-304978	1a
-304981	1b1
-304983	1b2
-304985	2a
-304987	2b
-304989	3a
-304992	3b1
-304994	3b2
-304996	4a
-304998	1a
-305000	1b
-305002	1c
-305004	2a
-305006	2b
-305008	2c
-305010	3a
-305012	3b
-4
-5
-6
-7
-8
-1
-305021	2a1
-305023	2a2
-305025	2b
-3
-305028	4a
-305031	4b1
-305033	4b2
-305035	5a
-305037	5b
-305039	6a
-305041	7a
-305044	8a1
-305046	8a2
-305048	8b
-9
-305052	10a1
-305054	10a2
-305056	10b
-305058	1a
-305060	1b
-305062	2a
-305064	2b
-305067	3a1
-305069	3a2
-305071	3b
-305073	4a
-305075	4b
-305077	5a
-305080	5b1
-305082	5b2
-305084	6a
-305086	6b
-305088	7a
-305091	7b1
-305093	7b2
-9
-1
-305097	2a
-305100	2b1
-305102	2b2
-305104	2b3
-305106	3a
-305109	3b1
-305111	3b2
-1
-2
-3
-4
-5
-6
-7
-8
-9
-1
-1
-3
-8
-1
-2
-4
-8
-1
-2
-3
-305133	1a
-305135	1b
-2
-4
-5
-6
-1
-305142	2a
-305145	2b1
-305147	2b2
-305149	3a
-305152	3b1
-305154	3b2
-305156	4a
-305158	4b
-305160	5a
-305162	5b
-1
-2
-4
-305167	5a
-305169	5b
-6
-1
-1
-305174	2a
-305176	2b
-3
-4
-5
-7
-1
-2
-3
-1
-305186	2a
-305188	2b
-305190	3a
-305192	3b
-4
-5
-6
-7
-1
-2
-305200	1a
-305202	1b
-2
-3
-4
-5
-305208	1a
-305210	1b
-305212	1c
-305214	2a
-305217	2b1
-305219	2b2
-305221	2c
-305223	3a
-305226	3b
-305230	3b1A1
-305232	3b1A2
-305234	3b1B
-305238	3b2A1
-305240	3b2A2
-305242	4a
-305244	4b
-1
-2
-305248	3a
-305253	3b1A1
-305255	3b1A2
-305257	3b1B
-305259	3b2
-305262	3b3A
-305265	3b3B1
-305267	3b3B2
-305269	4a
-305271	4b
-305273	5a
-305275	5b
-1
-2
-3
-305280	1a
-305282	1b
-2
-305285	3a
-305287	3b
-1
-2
-3
-4
-1
-305294	1a
-305299	1b1A1
-305301	1b1A2
-305303	1b1B
-305305	1b2
-305307	2a
-305309	2b
-3
-4
-5
-1
-2
-3
-4
-5
-6
-1
-2
-3
-305323	4a
-305325	4b
-5
-6
-1
-1
-2
-3
-4
-1
-2
-3
-4
-5
-1
-1
-305342	1a1
-305344	1a2
-305346	1b
-305349	2a1
-305351	2a2
-305353	2b
-305355	2c
-305358	3a1
-305360	3a2
-305362	3b
-305365	4a1
-305367	4a2
-305369	4b
-305372	1a1
-305374	1a2
-305376	1b
-305379	2a1
-305381	2a2
-305383	2b
-305386	3a1
-305388	3a2
-305390	3b
-4
-1
-1
-2
-3
-1
-2
-3
-305400	1a
-305402	1b
-2
-1
-1
-2
-1
-1
-2
-3
-305412	4a
-305414	4b
-5
-305417	6a
-305420	6b1
-305422	6b2
-305424	6b3
-305426	7a
-305428	7b
-305430	1a
-305432	1b
-2
-305435	3a
-305437	3b
-4
-305440	5a
-305442	5b
-6
-7
-8
-305447	9a
-305449	9b
-305451	10a
-305454	10b1
-305456	10b2
-305458	10b3
-1
-2
-3
-305463	4a
-305465	4b
-1
-2
-3
-4
-1
-305472	2a
-305474	2b
-305476	3a
-305478	3b
-1
-1
-2
-3
-4
-5
-6
-7
-8
-1
-1
-2
-3
-4
-5
-6
-1
-2
-1
-1
-2
-3
-1
-305504	1a1
-305506	1a2
-305508	1b
-2
-1
-2
-3
-1
-2
-3
-1
-1
-1
-2
-3
-1
-2
-305524	1a
-305526	1b
-2
-305530	1a1
-305532	1a2
-305535	1b1
-305537	1b2
-305539	1c
-305542	2a1
-305544	2a2
-305547	2b1
-305549	2b2
-305551	2c
-305554	3a1
-305556	3a2
-305559	3b1
-305561	3b2
-305563	3c
-305566	4a1
-305568	4a2
-305571	4b1
-305573	4b2
-305575	4c
-5
-1
+306030	1a1
+306032	1a2
+306036	1b1A
+306039	1b1B1
+306041	1b1B2
+306044	1b2A
+306047	1b2B1
+306049	1b2B2
+306052	1b3A
+306055	1b3B1
+306057	1b3B2
+306060	1b4A
+306063	1b4B1
+306065	1b4B2
 2
-305581	3a1
-305583	3a2
-305585	3b
-305588	4a1
-305590	4a2
-305592	4b
-305594	5a
-305596	5b
 1
 2
 3
 4
-5
 1
-2
-3
-4
-1
-2
-3
-1
-2
-305612	3a
-305614	3b
-305616	4a
-305618	4b
-305620	5a
-305622	5b
-305625	1a1
-305627	1a2
-305629	1b
-1
-1
-1
-2
-3
-4
-5
-1
-2
-3
-305641	4a
-305643	4b
-305645	5a
-305647	5b
-6
-7
-8
-1
-2
-3
-4
-5
-6
-7
-8
-9
-1
-2
-3
-4
-5
-6
-7
-8
-1
-2
-3
-4
-5
-6
-7
-1
-1
-2
-3
-4
-5
-6
-7
-8
-9
-1
-1
-305688	1a
-305691	1b1
-305693	1b2
-2
-305696	1a
-305698	1b
-2
-1
-2
-1
-2
-3
-1
-2
-3
-305709	1a
-305711	1b
-2
-3
-1
-2
-305717	3
-305719	3a
-1
-2
-1
-305724	1a
-305727	1b1
-305729	1b2
-305731	1b3
-305734	2a1
-305736	2a2
-305738	2b
-3
-4
-5
-1
-2
-3
-4
-5
-1
-2
-3
-305752	4a1
-305754	4a2
-305756	4b
-5
-6
-1
-1
-2
-3
-4
-1
-2
-3
-4
-5
-6
-7
-1
-2
-3
-4
-305776	1a
-305778	1b
-305780	2a
-305782	2b
-305784	2c
-305786	1a
-305788	1b
-305790	2a
-305793	2b1
-305795	2b2
-305797	3a
-305799	3b
-305801	4a
-305803	4b
-305805	5a
-6
-1
-2
-3
-4
-5
-6
-7
-8
-9
-10
-1
-305819	1a
-305821	1b
-305823	1c
-305825	2a
-305827	2b
-305829	2c
-305831	3a
-305833	3b
-305835	3c
-305838	3d1
-305840	3d2
-305842	4a
-305844	4b
-305847	4c1
-305849	4c2
-305851	4c3
-305853	4d
-305856	4e1
-305858	4e2
-305860	5a
-305862	5b
-305864	1a
-305866	1b
-305868	1c
-305870	2a
-305873	2b1
-305875	2b2
-305877	2b3
-305880	2c1
-305882	2c2
-305884	2c3
-305886	3a
-305888	3b
-1
-305892	1a1
-305894	1a2
-305896	1b
-305899	2a1
-305901	2a2
-305903	2b
-1
-305907	2a1
-305909	2a2
-305911	2b
-3
-4
-305916	1a1
-305918	1a2
-305920	1b
-2
-3
-305924	1a
-305926	1b
-2
-1
-1
-2
-3
-1
-305934	2a
-305936	2b
-3
-4
-1
-2
-1
-2
-1
-305945	2a
-305948	2b1
-305951	2b2A
-305953	2b2B
-305955	2b3
-305958	2b4A
-305960	2b4B
-305962	2b4C
-3
-305966	4a1
-305968	4a2
-305970	4b
-305972	1a
-305975	1b1
-305977	1b2
-305979	1b3
-305981	1b4
-305983	1b5
-2
-3
-4
-305988	1a
-305991	1b1
-305993	1b2
-305995	2a
-305997	2b
-1
-2
-3
-4
-5
-6
-7
-8
-9
-1
-2
-1
-2
-3
-4
-5
-1
-2
-3
-4
-5
-6
-7
-1
-2
-3
-4
-5
-6
-7
-8
-1
-2
-3
-306033	1a
-306035	1b
-2
-1
-1
-306040	2a
-306042	2b
+306073	2a
+306076	2b1
+306078	2b2
 3
 4
 1
 2
 3
 1
-306050	1a
-306052	1b
 2
 3
-4
-5
-306059	1a1
-306061	1a2
-306063	1b
-1
-306066	2a
-306069	2b1
-306071	2b2
-306073	2b3
-306075	2b4
-306077	2b5
 1
-306080	2a
-306083	2b1
-306085	2b2
-306087	2b3
 306089	1a
-306092	1b1
-306094	1b2
-306096	1b3
-306098	2a
-306100	2b
+306091	1b
+306093	2a
+306095	2b
+1
+2
 3
 4
 1
 2
 3
 4
-306108	5a
-306110	5b
-306112	6a
-306114	6b
+5
+1
+2
+3
+1
+2
+1
+2
+3
+4
+1
+2
+1
+1
+306119	1a
+306121	1b
+306124	2a1
+306126	2a2
+306128	2b
+1
+2
+1
+2
+1
 1
 1
 2
 3
 4
-306121	1a
-306123	1b
-306125	2a
-306127	2b
-306129	3a
-306131	3b
-306133	4a
-306135	4b
-306137	5a
-306140	5b1
-306142	5b2
-306144	1a
-306147	1b1
-306150	1b2A
-306152	1b2B
-306154	1c
-306156	2a
-306160	2b1A
-306163	2b1B1
-306165	2b1B2
-306168	2b2A
-306171	2b2B1
-306173	2b2B2
-306175	2b3
-306177	2c
-306180	3a1
-306182	3a2
-306184	3a3
-306186	3b
-306189	1a1
-306191	1a2
-306193	1b
-306196	2a1
-306199	2a2A
-306201	2a2B
-306203	2a3
-306205	2a4
-306207	2a5
-306209	2b
-306212	3a1
-306214	3a2
-306216	3b
-306218	4a
-306221	4b1
-306223	4b2
-306225	1a
-306227	1b
-306230	2a1
-306234	2a2A1
-306236	2a2A2
-306238	2a2B
-306240	2a3
-306242	2a4
-306244	2a5
-306246	2b
-306248	3a
-306250	3b
-306252	4a
-306254	4b
-306256	1a
-306260	1b1A
-306263	1b1B1
-306265	1b1B2
-306268	1b2A
-306271	1b2B1
-306273	1b2B2
-306275	1b2B3
-306277	1b2B4
-306279	1b3
-306281	2a
-306285	2b1A
-306288	2b1B1
-306290	2b1B2
-306292	2b1B3
-306294	2b1B4
-306296	2b1B5
-306298	2b1B6
-306300	2b2
-306302	2b3
-3
-1
-1
-306308	1a1
-306311	1a2A
-306313	1a2B
-306315	1b
-306318	2a1
-306320	2a2
-306322	2b
-306324	3a
-306326	3b
-306328	4a
-306330	4b
-306332	5a
-306334	5b
-306336	6a
-306338	6b
-306340	7a
-306342	7b
-1
-2
-306346	3a
-306349	3b1
-306351	3b2
-306353	4a
-306355	4b
-306357	5a
-306360	5b1
-306362	5b2
-306364	6a
-306367	6b1
-306369	6b2
-306371	6b3
-306373	7a
-306376	7b1
-306378	7b2
-306380	8a
-306383	8b1
-306385	8b2
-306387	8b3
 1
 2
 3
 4
 5
 6
-306395	7a
-306398	7b1
-306400	7b2
+1
+2
+3
+1
+2
+1
+1
+2
+3
+1
+2
+3
+4
+1
+1
+306161	1a
+306163	1b
+2
+306166	3a
+306168	3b
+306170	4a
+306172	4b
+1
+2
+1
+1
+1
+2
+3
+4
+5
+6
+1
+2
+3
+4
+5
+6
+7
+306192	1a1
+306194	1a2
+306196	1a3
+306198	1b
+2
+1
+1
+1
+2
+3
+4
+5
+6
+1
+2
+3
+1
+2
+1
+1
+2
+3
+1
+2
+3
+4
+5
+1
+1
+1
+2
+3
+4
+5
+6
+1
+2
+3
+1
+1
+2
+1
+2
+1
+2
+306241	1a
+306243	1b
+306245	2a
+306247	2b
+3
+4
+1
+2
+1
+2
+3
+1
+1
+2
+1
+1
+2
+3
+1
+2
+1
+2
+1
+2
+1
+306270	1a
+306272	1b
+2
+3
+4
+5
+1
+2
+3
+306281	4a
+306283	4b
+5
+6
+1
+2
+3
+4
+5
+6
+1
+2
+3
+4
+5
+6
+1
+2
+3
+4
+1
+2
+1
+1
+1
+1
+306309	2a
+306312	2b1
+1
+1
+1
+1
+2
+1
+2
+3
+4
+1
+1
+1
+1
+2
+1
+1
+1
+1
+2
+1
+2
+3
+306336	1a
+306338	1b
+306340	2a
+306342	2b
+306346	1a1A
+306348	1a1B
+306350	1a2
+306352	1a3
+306354	1a4
+306357	1b1
+306359	1b2
+306363	1c1A
+306365	1c1B
+306368	1c2A
+306370	1c2B
+306373	2a1
+306375	2a2
+306377	2a3
+306380	2b1
+306382	2b2
+306384	2b3
+306386	1a
+306389	1b1
+306391	1b2
+306393	2a
+306396	2b1
+306398	2b2
+3
+1
+2
+306403	1a
+306406	1b1
+306408	1b2
+2
+1
+2
+3
+4
+5
+1
+1
+2
+3
+1
+2
+3
+1
+1
+1
+2
+3
+4
+1
+1
+2
+3
+1
+1
+2
+1
+306437	1
+306439	1a
+306441	1b
+1
+1
+2
+3
+4
+1
+2
+1
+1
+2
+3
+4
+1
+1
+1
+2
+306459	1a
+306462	1b1
+306464	1b2
+306468	1c1A
+306470	1c1B
+306473	1c2A
+306475	1c2B
+2
+306478	1a
+306481	1b1
+306483	1b2
+2
+1
+2
+3
+1
+2
+3
+306492	1a
+306495	1b1
+306497	1b2
+2
+1
+2
+3
+4
+5
+6
+7
 8
 1
 2
 3
-306406	1a
-306408	1b
+4
+5
+6
+7
+8
+9
+10
+11
+1
 2
 3
-306412	4a
-306414	4b
+4
+5
+6
+7
+8
+9
+10
+1
+2
+3
+306532	1a
+306535	1b1
+306537	1b2
+306539	1a
+306541	1b
+306543	2a
+306545	2b
+3
+1
+2
+3
+1
+2
+1
+2
+3
+1
+2
+1
+1
+2
+3
+4
+1
+2
+1
+1
+2
+3
+1
+2
+3
+4
+5
+6
+1
+2
+3
+4
+5
+1
+2
+3
+4
+5
+1
+1
+1
+2
+3
+4
+1
+2
+3
+4
+5
+1
+1
+1
+2
+3
+4
+1
+306603	1a
+306606	1b1
+306608	1b2
+1
+2
+3
+4
+1
+2
+3
+4
+1
+1
+2
+3
+4
+1
+1
+1
+2
+1
+1
+1
+306630	1a
+306633	1b1
+306635	1b2
+306637	2a
+306640	2b1
+1
+2
+3
+4
+5
+6
+7
+8
+1
+2
+3
+4
+5
+306655	6a
+306658	6b1
+306660	6b2
+7
+8
+1
+2
+3
+4
+5
+6
+306671	7a1
+306673	7a2
+306675	7b
+8
+1
+2
+3
+4
+5
+6
+7
+306685	1a
+306688	1b1
+306690	1b2
+306693	1c1
+306695	1c2
+306697	2a
+306700	2b1
+306702	2b2
+306705	2c1
+306707	2c2
+1
+2
+306711	1a
+306713	1b
+2
+306716	3a
+306718	3b
+4
+1
+1
+2
+1
+1
+2
+3
+1
+2
+3
+1
+2
+306733	1a
+306735	1b
+2
+3
+1
+2
+1
+2
+3
+1
+1
+1
+306747	1a
+306749	1b
+1
+2
+306754	3a1
+306756	3a2
+306758	3b
+4
+5
+1
+2
+3
+4
+5
+6
+1
+306769	1a
+306772	1b1
+306774	1b2
+2
+1
+2
+306780	3a1
+306782	3a2
+306784	3b
+1
+306787	2a
+306789	2b
+1
+1
+1
+2
+3
+4
+5
+6
+1
+2
+3
+4
+5
+6
+7
+8
+9
+1
+2
+3
+4
+306812	1a
+306815	1b1
+306817	1b2
+1
+1
+2
+3
+1
+2
+3
+1
+2
+1
+1
+2
+1
+2
+306833	1a
+306836	1b1
+306838	1b2
+2
+3
+306842	1a
+306845	1b1
+306847	1b2
+2
+3
+1
+2
+306853	1a
+306856	1b1
+306858	1b2
+306860	2a
+306863	2b1
+306865	2b2
+1
+1
+2
+3
+1
+1
+1
+2
+1
+2
+3
+4
+5
+1
+2
+3
+4
+5
+1
+1
+2
+3
+4
+5
+1
+2
+3
+1
+1
+1
+306897	2a
+306899	2b
+3
+306902	4a
+306904	4b
+1
+2
+3
+4
+1
+2
+3
+4
+5
+1
+306916	1a
+306919	1b1
+306921	1b2
+1
+2
+1
+2
+1
+306929	1a1
+306931	1a2
+306934	1b1
+306936	1b2
+2
+306939	3a
+306942	3b1
+306944	3b2
+4
+1
+2
+3
+4
+1
+1
+2
+3
+4
+5
+6
+1
+2
+3
+1
+1
+2
+3
+4
+5
+6
+1
+2
+3
+1
+2
+1
+1
+2
+3
+4
+1
+2
+3
+4
+5
+6
+1
+2
+1
+2
+3
+1
+2
+1
+1
+2
+3
+1
+1
+2
+1
+1
+1
+2
+3
+1
+2
+3
+4
+5
+1
+2
+3
+4
+5
+1
+2
+3
+1
+2
+3
+1
+1
+2
+3
+1
+2
+3
+4
+1
+1
+2
+3
+1
+1
+2
+1
+2
+3
+307037	1a
+307039	1b
+307041	2a
+307043	2b
+307045	2c
+1
+2
+3
+4
+5
+1
+2
+3
+4
+5
+1
+2
+3
+1
+1
+1
+2
+1
+1
+2
+3
+1
+1
+2
+3
+4
+5
+6
+307075	1a
+307077	1b
+307079	2a
+307081	2b
+3
+4
+5
+1
+307087	2a
+307090	2b1
+307092	2b2
+3
+1
+1
+2
+3
+1
+2
+1
+2
+3
+1
+1
+2
+3
+4
+5
+1
+2
+3
+307113	4a
+307116	4b1
+307118	4b2
+1
+2
+3
+4
+1
+1
+1
+2
+3
+4
+1
+2
+3
+4
+5
+6
+1
+2
+3
+4
+307141	1a1
+307143	1a2
+307145	1b
+2
+3
+4
+5
+6
+1
+1
+2
+3
+4
+1
+2
+3
+1
+2
+3
+1
+2
+1
+1
+2
+1
+2
+3
+4
+5
+6
+7
+8
+9
+1
+2
+3
+4
+5
+6
+7
+1
+2
+1
+2
+3
+4
+1
+1
+2
+3
+4
+1
+2
+3
+4
+1
+2
+3
+1
+2
+3
+4
+5
+6
+7
+1
+2
+3
+4
+5
+6
+7
+1
+2
+3
+1
+2
+3
+1
+2
+3
+4
+5
+6
+7
+8
+1
+2
+3
+4
+5
+6
+7
+8
+9
+1
+2
+3
+4
+1
+2
+1
+2
+3
+4
+5
+1
+2
+1
+2
+3
+4
+5
+6
+1
+2
+3
+4
+5
+6
+7
+8
+1
+1
+2
+3
+4
+5
+6
+1
+2
+3
+4
+5
+1
+2
+1
+2
+3
+4
+1
+1
+1
+2
+3
+1
+2
+307291	1a
+307293	1b
+2
+307296	1a
+307298	1b
+1
+1
+1
+2
+1
+307305	1a
+307307	1b
+307309	2a
+307311	2b
+307313	3a
+307315	3b
+307317	1a
+307320	2a1
+307322	2a2
+307324	2b
+307326	3a
+307328	3b
+1
+307331	1a
+307333	1b
+307335	2a
+307338	2b1
+307340	2b2
+307343	2b3A
+307345	2b3B
+1
+1
+2
+1
+2
+1
+1
+1
+1
+307356	2a
+307358	2b
+1
+2
+3
+1
+1
+1
+1
+2
+3
+4
+1
+2
+1
+2
+3
+4
+5
+6
+7
+1
+1
+2
+307382	3a
+307384	3b
+307386	4a
+307388	4b
+307390	5a
+307392	5b
+6
+1
+1
+1
+2
+3
+4
+5
+6
+7
+8
+9
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+1
+1
+2
+307431	1a
+307435	1b1A
+307437	1b1B
+307440	1b2A
+307442	1b2B
+2
+307445	3a
+307447	3b
+307449	3c
+307451	3d
+1
+2
+1
+2
+307457	1a
+307459	1b
+307461	2a
+307463	2b
+307465	3a
+307467	3b
+4
+307470	5a
+307472	5b
+1
+2
+3
+1
+2
+1
+307480	2a
+307482	2b
+3
+1
+307486	1a
+307488	1b
+307490	2a
+307492	2b
+3
+4
+307496	5a
+307498	5b
+307500	6a
+307502	6b
+307504	1a
+307506	1b
+307508	2a
+307510	2b
+307512	3a
+307514	3b
+4
+1
+2
+3
+4
+5
+6
+1
+2
+3
+4
+5
+1
+1
+1
+2
+3
+4
+5
+6
+7
+8
+1
+2
+3
+4
+5
+6
+1
+2
+307546	1a
+307548	1b
+2
+3
+307552	4a
+307554	4b
+5
+6
+7
+307559	1a
+307561	1b
+2
+307564	1a
+307566	1b
+2
+3
+307570	1a
+307573	1b1
+307575	1b2
+307577	2a
+307580	2b1
+307582	2b2
+1
+2
+1
+1
+2
+3
+4
+1
+307592	2a
+307594	2b
+307596	3a
+307598	3b
+307600	1a
+307603	1b1
+307605	1b2
+307607	1a
+307609	1b
+2
+3
+307613	4a
+307615	4b
+5
+6
+1
+2
+307621	1a
+307623	1b
+2
+307626	1a
+307629	1b1
+307631	1b2
+307633	2a
+307636	2b1
+307638	2b2
+1
+2
+1
+1
+2
+3
+1
+1
+1
+1
+1
+2
+3
+4
+1
+307655	2a
+307657	2b
+3
+1
+2
+1
+307663	1a
+307665	1b
+2
+1
+2
+3
+4
+1
+2
+3
+1
+307677	1a1
+307679	1a2
+307681	1b
+307683	2a
+307685	2b
+307687	2c
+307689	2d
+307691	3a
+307693	3b
+307695	3c
+307697	3d
+4
+1
+2
+1
+1
+2
+3
+4
+5
+6
+7
+1
+2
+3
+4
+5
+6
+7
+1
+2
+3
+1
+1
+307722	2a
+307725	2b1
+307727	2b2
+307729	2b3
+307731	2b4
+3
+4
+5
+6
+1
+2
+3
+307740	4a
+307743	4b1
+307745	4b2
+307747	4b3
+307749	4b4
+5
+1
+1
+2
+1
+307756	1a
+307758	1b
+307760	2a
+307762	2b
+307764	3a
+307766	3b
+307768	4a
+307770	4b
+5
+307773	1a
+307775	1b
+307777	2a
+307779	2b
+307781	3a
+307783	3b
+307785	4a
+307787	4b
+5
+1
+2
+307792	3a
+307794	3b
+4
+307797	5a
+307800	5b1
+307803	5c1
+307805	5c2
+1
+2
+1
+307810	1a
+307813	1b1
+307815	1b2
+307817	2a
+307820	2b1
+307822	2b2
+307824	3a
+307826	3b
+307828	4a
+307830	4b
+5
+307833	1a
+307836	1b1
+307838	1b2
+2
+3
+1
+2
+1
+1
+2
+3
+1
+1
+2
+3
+1
+2
+3
+4
+1
+2
+3
+4
+5
+6
+7
+1
+1
+2
+1
+307867	1a
+307869	1b
+2
+3
+4
+5
+1
+2
+3
+4
+307879	1a
+307881	1b
+2
+3
+1
+2
+3
+1
+1
+1
+2
+3
+4
+5
+6
+1
+2
+3
+4
+5
+6
+1
+307903	1a
+307905	1b
+307907	2a
+307909	2b
+307911	3a
+307913	3b
+307915	4a
+307917	4b
+307919	5a
+307921	5b
+307923	6a
+307925	6b
+307927	1a
+307929	1b
+307931	2a
+307933	2b
+307935	3a
+307937	3b
+307939	1a
+307941	1b
+307943	2a
+307945	2b
+307947	3a
+307949	3b
+1
+2
+307953	1a
+307956	1b1
+307958	1b2
+307960	2a
+307963	2b1
+307965	2b2
+307967	3a
+307970	3b1
+307972	3b2
+307974	4a
+307977	4b1
+307979	4b2
+307981	5a
+307984	5b1
+307986	5b2
+307988	6a
+307991	6b1
+307993	6b2
+7
+307996	1a
+307999	1b1
+308001	1b2
+308003	2a
+308006	2b1
+308008	2b2
+308010	3a
+308013	3b1
+308015	3b2
+308017	4a
+308020	4b1
+308022	4b2
+5
+1
+2
+1
+1
+2
+1
+1
+1
+2
+3
+1
+308036	2a
+308038	2b
+308041	1a1
+308043	1a2
+308045	1a3
+308047	1b
+2
+1
+2
+3
+1
+2
+3
+4
+5
+1
+2
+3
+4
+5
+6
+1
+2
+3
+1
+2
+3
+4
+1
+1
+1
+2
+1
+2
+3
+1
+2
+1
+1
+1
+1
+1
+308085	1a
+308087	1b
+308089	2a
+308092	2b1
+308094	2b2
+308096	1a
+308098	1b
+308100	2a
+308102	2b
+3
+1
+2
+3
+4
+5
+6
+1
+2
+3
+4
+5
+1
+2
+3
+4
+5
+6
+1
+2
+1
+2
+3
+4
+1
+2
+1
+2
+3
+4
+1
+2
+3
+4
+5
+1
+2
+1
+1
+308143	1
+308145	1a
+308147	2
+308149	2a
+3
+1
+2
+1
+2
+3
+4
+1
+2
+1
+1
+1
+1
+1
+2
+1
+2
+3
+4
+1
+1
+1
+2
+1
+1
+2
+1
+2
+3
+1
+2
+1
+1
+1
+2
+1
+2
+1
+2
+3
+1
+2
+3
+1
+1
+2
+3
+1
+2
+3
+4
+5
+1
+1
+1
+2
+1
+2
+1
+1
+1
+1
+1
+2
+3
+1
+2
+1
+308219	1a
+308222	1b1
+308224	1b2
+308226	2a
+308228	2b
+1
+2
+3
+1
+1
+2
+3
+4
+1
+2
+3
+1
+308242	1
+308244	1a
+308246	2
+308248	2a
+308250	2b
+308252	2c
+308254	3
+308256	3a
+308258	4
+308260	4a
+308262	4b
+308264	5
+308266	5a
+308268	6
+308270	6a
+1
+2
+3
+4
+5
+1
+1
+1
+2
+3
+1
+2
+3
+1
+1
+2
+1
+2
+1
+2
+1
+1
+1
+2
+1
+1
+2
+308299	3a
+308301	3b
+308303	4a
+308305	4b
+308307	4c
+308309	5a
+308311	5b
+308313	5c
+308315	6a
+308317	6b
+1
+2
+308321	3a
+308323	3b
+4
+5
+6
+1
+2
+1
+2
+1
+2
+3
+1
+2
+3
+1
+2
+3
+4
+1
+2
+3
+1
+2
+3
+1
+1
+2
+1
+2
+1
+2
+3
+1
+1
+2
+1
+308360	1
+308362	1a
+2
+1
+2
+3
+308368	1
+308370	1a
+2
+1
+1
+1
+2
+1
+1
+2
+1
+1
+2
+308383	3a
+308387	3b1A
+308390	3b1B1
+308393	3b2A
+308396	3b2B1
+308398	3b2B2
+1
+2
+3
+1
+2
+3
+4
+1
+1
+1
+2
+1
+2
+1
+2
+1
+1
+2
+1
+2
+1
+2
+3
+1
+2
+3
+4
+1
+1
+1
+2
+1
+2
+3
+1
+1
+2
+3
+1
+2
+3
+308441	1a
+308444	1b1
+308446	1b2
+2
+3
+1
+1
+2
+3
+1
+1
+1
+1
+2
+1
+2
+1
+2
+1
+1
+2
+1
+308467	2a
+308469	2b
+3
+4
+5
+6
+7
+1
+1
+1
+2
+1
+308481	2
+308483	2a
+1
+2
+1
+2
+1
+1
+2
+3
+1
+2
+1
+1
+1
+2
+3
+4
+5
+1
+1
+1
+2
+3
+4
+5
+6
+7
+8
+9
+1
+1
+1
+2
+3
+1
+2
+1
+1
+2
+3
+4
+1
+2
+1
+1
+1
+2
+1
+1
+1
+2
+3
+4
+1
+2
+308539	1
+308541	1a
+308543	2
+308545	2a
+308547	2b
+3
+1
+2
+3
+4
+5
+1
+2
+3
+1
+1
+1
+2
+1
+2
+3
+4
+1
+2
+3
+1
+1
+1
+2
+3
+4
+1
+2
+1
+2
+1
+1
+1
+2
+1
+2
+3
+1
+1
+2
+1
+2
+3
+4
+5
+6
+1
+1
+1
+2
+1
+308600	1a
+308602	1b
+2
+1
+2
+1
+1
+2
+1
+2
+3
+4
+1
+308615	1
+308617	1a
+308619	1b
+2
+1
+1
+2
+1
+2
+1
+2
+3
+1
+2
+1
+2
+1
+1
+2
+1
+2
+3
+4
+1
+2
+308643	1a
+308646	1b1
+308648	1b2
+308650	1c
+308652	2a
+308654	2b
+1
+2
+3
+4
+5
+1
+2
+3
+1
+2
+3
+308667	1a
+308669	1b
+2
+3
+308673	1a
+308675	1b
+308677	1c
+308679	2a
+308681	2b
+308683	2c
+3
+1
+1
+2
+3
+1
+1
+2
+3
+4
+1
+308697	1a1
+308699	1a2
+308701	1b
+308704	2a1
+308706	2a2
+308708	2b
+3
+1
+1
+308713	1a
+308715	1b
+2
+1
+308719	1a
+308722	1b1
+308724	1b2
+308726	2a
+308728	2b
+308730	1a
+308733	1b1
+308735	1b2
+308737	2a
+308740	2b1
+308742	2b2
+308744	3a
+308747	3b1
+308749	3b2
+4
+1
+2
+308754	3a
+308756	3b
+308758	4a
+308760	4b
+5
+1
+1
+2
+3
+1
+2
+1
+308770	1a
+308773	1b1
+308775	1b2
+2
+308778	3a
+308781	3b1
+308783	3b2
+1
+2
+308787	3a
+308790	3b1
+308792	3b2
+308794	3b3
+1
+308798	1a1
+308800	1a2
+308802	1a3
+308804	1b
+308806	2a
+308809	2b1
+308811	2b2
+308813	2b3
+1
+2
+3
+308818	4a
+308821	4b1
+308823	4b2
+308825	4b3
+1
+308829	1a1
+308831	1a2
+308833	1b
+1
+1
+2
+3
+1
+1
+1
+308842	2a
+308844	2b
+308846	3a
+308848	3b
+308850	4a
+308852	4b
+308854	1a
+308856	1b
+308858	2a
+308860	2b
+308862	3a
+308864	3b
+308866	4a
+308868	4b
+308870	5a
+308872	5b
+6
+1
+2
+3
+308878	4a
+308880	4b
+308882	1a
+308885	1b1
+308887	1b2
+308889	2a
+308891	2b
+308893	3a
+308896	3b1
+308898	3b2
+308900	4a
+308902	1a
+308904	1b
+308906	1c
+308908	2a
+308910	2b
+308912	2c
+308914	3a
+308916	3b
+4
+5
+6
+7
+8
+1
+308925	2a1
+308927	2a2
+308929	2b
+3
+308932	4a
+308935	4b1
+308937	4b2
+308939	5a
+308941	5b
+308943	6a
+308945	7a
+308948	8a1
+308950	8a2
+308952	8b
+9
+308956	10a1
+308958	10a2
+308960	10b
+308962	1a
+308964	1b
+308966	2a
+308968	2b
+308971	3a1
+308973	3a2
+308975	3b
+308977	4a
+308979	4b
+308981	5a
+308984	5b1
+308986	5b2
+308988	6a
+308990	6b
+308992	7a
+308995	7b1
+308997	7b2
+9
+1
+309001	2a
+309004	2b1
+309006	2b2
+309008	2b3
+309010	3a
+309013	3b1
+309015	3b2
+1
+2
+3
+4
+5
+6
+7
+8
+9
+1
+1
+3
+8
+1
+2
+4
+8
+1
+2
+3
+309037	1a
+309039	1b
+2
+4
+5
+6
+1
+309046	2a
+309049	2b1
+309051	2b2
+309053	3a
+309056	3b1
+309058	3b2
+309060	4a
+309062	4b
+309064	5a
+309066	5b
+1
+2
+4
+309071	5a
+309073	5b
+6
+1
+1
+309078	2a
+309080	2b
+3
+4
+5
+7
+1
+2
+3
+1
+309090	2a
+309092	2b
+309094	3a
+309096	3b
+4
+5
+6
+7
+1
+2
+309104	1a
+309106	1b
+2
+3
+4
+5
+309112	1a
+309114	1b
+309116	1c
+309118	2a
+309121	2b1
+309123	2b2
+309125	2c
+309127	3a
+309130	3b
+309134	3b1A1
+309136	3b1A2
+309138	3b1B
+309142	3b2A1
+309144	3b2A2
+309146	4a
+309148	4b
+1
+2
+309152	3a
+309157	3b1A1
+309159	3b1A2
+309161	3b1B
+309163	3b2
+309166	3b3A
+309169	3b3B1
+309171	3b3B2
+309173	4a
+309175	4b
+309177	5a
+309179	5b
+1
+2
+3
+309184	1a
+309186	1b
+2
+309189	3a
+309191	3b
+1
+2
+3
+4
+1
+309198	1a
+309203	1b1A1
+309205	1b1A2
+309207	1b1B
+309209	1b2
+309211	2a
+309213	2b
+3
+4
+5
+1
+2
+3
+4
+5
+6
+1
+2
+3
+309227	4a
+309229	4b
+5
+6
+1
+1
+2
+3
+4
+1
+2
+3
+4
+5
+1
+1
+309246	1a1
+309248	1a2
+309250	1b
+309253	2a1
+309255	2a2
+309257	2b
+309259	2c
+309262	3a1
+309264	3a2
+309266	3b
+309269	4a1
+309271	4a2
+309273	4b
+309276	1a1
+309278	1a2
+309280	1b
+309283	2a1
+309285	2a2
+309287	2b
+309290	3a1
+309292	3a2
+309294	3b
+4
+1
+1
+2
+3
+1
+2
+3
+309304	1a
+309306	1b
+2
+1
+1
+2
+1
+1
+2
+3
+309316	4a
+309318	4b
+5
+309321	6a
+309324	6b1
+309326	6b2
+309328	6b3
+309330	7a
+309332	7b
+309334	1a
+309336	1b
+2
+309339	3a
+309341	3b
+4
+309344	5a
+309346	5b
+6
+7
+8
+309351	9a
+309353	9b
+309355	10a
+309358	10b1
+309360	10b2
+309362	10b3
+1
+2
+3
+309367	4a
+309369	4b
+1
+2
+3
+4
+1
+309376	2a
+309378	2b
+309380	3a
+309382	3b
+1
+1
+2
+3
+4
+5
+6
+7
+8
+1
+1
+2
+3
+4
+5
+6
+1
+2
+1
+1
+2
+3
+1
+309408	1a1
+309410	1a2
+309412	1b
+2
+1
+2
+3
+1
+2
+3
+1
+1
+1
+2
+3
+1
+2
+309428	1a
+309430	1b
+2
+309434	1a1
+309436	1a2
+309439	1b1
+309441	1b2
+309443	1c
+309446	2a1
+309448	2a2
+309451	2b1
+309453	2b2
+309455	2c
+309458	3a1
+309460	3a2
+309463	3b1
+309465	3b2
+309467	3c
+309470	4a1
+309472	4a2
+309475	4b1
+309477	4b2
+309479	4c
+5
+1
+2
+309485	3a1
+309487	3a2
+309489	3b
+309492	4a1
+309494	4a2
+309496	4b
+309498	5a
+309500	5b
+1
+2
+3
+4
+5
+1
+2
+3
+4
+1
+2
+3
+1
+2
+309516	3a
+309518	3b
+309520	4a
+309522	4b
+309524	5a
+309526	5b
+309529	1a1
+309531	1a2
+309533	1b
+1
+1
+1
+2
+3
+4
+5
+1
+2
+3
+309545	4a
+309547	4b
+309549	5a
+309551	5b
+6
+7
+8
+1
+2
+3
+4
+5
+6
+7
+8
+9
+1
+2
+3
+4
+5
+6
+7
+8
+1
+2
+3
+4
+5
+6
+7
+1
+1
+2
+3
+4
+5
+6
+7
+8
+9
+1
+1
+309592	1a
+309595	1b1
+309597	1b2
+2
+309600	1a
+309602	1b
+2
+1
+2
+1
+2
+3
+1
+2
+3
+309613	1a
+309615	1b
+2
+3
+1
+2
+309621	3
+309623	3a
+1
+2
+1
+309628	1a
+309631	1b1
+309633	1b2
+309635	1b3
+309638	2a1
+309640	2a2
+309642	2b
+3
+4
+5
+1
+2
+3
+4
+5
+1
+2
+3
+309656	4a1
+309658	4a2
+309660	4b
+5
+6
+1
+1
+2
+3
+4
+1
+2
+3
+4
+5
+6
+7
+1
+2
+3
+4
+309680	1a
+309682	1b
+309684	2a
+309686	2b
+309688	2c
+309690	1a
+309692	1b
+309694	2a
+309697	2b1
+309699	2b2
+309701	3a
+309703	3b
+309705	4a
+309707	4b
+309709	5a
+6
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+1
+309723	1a
+309725	1b
+309727	1c
+309729	2a
+309731	2b
+309733	2c
+309735	3a
+309737	3b
+309739	3c
+309742	3d1
+309744	3d2
+309746	4a
+309748	4b
+309751	4c1
+309753	4c2
+309755	4c3
+309757	4d
+309760	4e1
+309762	4e2
+309764	5a
+309766	5b
+309768	1a
+309770	1b
+309772	1c
+309774	2a
+309777	2b1
+309779	2b2
+309781	2b3
+309784	2c1
+309786	2c2
+309788	2c3
+309790	3a
+309792	3b
+1
+309796	1a1
+309798	1a2
+309800	1b
+309803	2a1
+309805	2a2
+309807	2b
+1
+309811	2a1
+309813	2a2
+309815	2b
+3
+4
+309820	1a1
+309822	1a2
+309824	1b
+2
+3
+309828	1a
+309830	1b
+2
+1
+1
+2
+3
+1
+309838	2a
+309840	2b
+3
+4
+1
+2
+1
+2
+1
+309849	2a
+309852	2b1
+309855	2b2A
+309857	2b2B
+309859	2b3
+309862	2b4A
+309864	2b4B
+309866	2b4C
+3
+309870	4a1
+309872	4a2
+309874	4b
+309876	1a
+309879	1b1
+309881	1b2
+309883	1b3
+309885	1b4
+309887	1b5
+2
+3
+4
+309892	1a
+309895	1b1
+309897	1b2
+309899	2a
+309901	2b
+1
+2
+3
+4
+5
+6
+7
+8
+9
+1
+2
+1
+2
+3
+4
+5
+1
+2
+3
+4
+5
+6
+7
+1
+2
+3
+4
+5
+6
+7
+8
+1
+2
+3
+309937	1a
+309939	1b
+2
+1
+1
+309944	2a
+309946	2b
+3
+4
+1
+2
+3
+1
+309954	1a
+309956	1b
+2
+3
+4
+5
+309963	1a1
+309965	1a2
+309967	1b
+1
+309970	2a
+309973	2b1
+309975	2b2
+309977	2b3
+309979	2b4
+309981	2b5
+1
+309984	2a
+309987	2b1
+309989	2b2
+309991	2b3
+309993	1a
+309996	1b1
+309998	1b2
+310000	1b3
+310002	2a
+310004	2b
+3
+4
+1
+2
+3
+4
+310012	5a
+310014	5b
+310016	6a
+310018	6b
+1
+1
+2
+3
+4
+310025	1a
+310027	1b
+310029	2a
+310031	2b
+310033	3a
+310035	3b
+310037	4a
+310039	4b
+310041	5a
+310044	5b1
+310046	5b2
+310048	1a
+310051	1b1
+310054	1b2A
+310056	1b2B
+310058	1c
+310060	2a
+310064	2b1A
+310067	2b1B1
+310069	2b1B2
+310072	2b2A
+310075	2b2B1
+310077	2b2B2
+310079	2b3
+310081	2c
+310084	3a1
+310086	3a2
+310088	3a3
+310090	3b
+310093	1a1
+310095	1a2
+310097	1b
+310100	2a1
+310103	2a2A
+310105	2a2B
+310107	2a3
+310109	2a4
+310111	2a5
+310113	2b
+310116	3a1
+310118	3a2
+310120	3b
+310122	4a
+310125	4b1
+310127	4b2
+310129	1a
+310131	1b
+310134	2a1
+310138	2a2A1
+310140	2a2A2
+310142	2a2B
+310144	2a3
+310146	2a4
+310148	2a5
+310150	2b
+310152	3a
+310154	3b
+310156	4a
+310158	4b
+310160	1a
+310164	1b1A
+310167	1b1B1
+310169	1b1B2
+310172	1b2A
+310175	1b2B1
+310177	1b2B2
+310179	1b2B3
+310181	1b2B4
+310183	1b3
+310185	2a
+310189	2b1A
+310192	2b1B1
+310194	2b1B2
+310196	2b1B3
+310198	2b1B4
+310200	2b1B5
+310202	2b1B6
+310204	2b2
+310206	2b3
+3
+1
+1
+310212	1a1
+310215	1a2A
+310217	1a2B
+310219	1b
+310222	2a1
+310224	2a2
+310226	2b
+310228	3a
+310230	3b
+310232	4a
+310234	4b
+310236	5a
+310238	5b
+310240	6a
+310242	6b
+310244	7a
+310246	7b
+1
+2
+310250	3a
+310253	3b1
+310255	3b2
+310257	4a
+310259	4b
+310261	5a
+310264	5b1
+310266	5b2
+310268	6a
+310271	6b1
+310273	6b2
+310275	6b3
+310277	7a
+310280	7b1
+310282	7b2
+310284	8a
+310287	8b1
+310289	8b2
+310291	8b3
+1
+2
+3
+4
+5
+6
+310299	7a
+310302	7b1
+310304	7b2
+8
+1
+2
+3
+310310	1a
+310312	1b
+2
+3
+310316	4a
+310318	4b
 5
 8
 9
@@ -34975,33 +49008,33 @@
 1
 2
 3
-306461	1a1
-306463	1a2
-306465	1b
+310365	1a1
+310367	1a2
+310369	1b
 2
 1
 2
 3
-306471	1a
-306473	1b
-306475	1a
-306477	1b
-306479	2a
-306481	2b
+310375	1a
+310377	1b
+310379	1a
+310381	1b
+310383	2a
+310385	2b
 3
 4
 5
 6
 1
-306488	2a
-306490	2b
-306492	2c
-306494	3a
-306496	3b
+310392	2a
+310394	2b
+310396	2c
+310398	3a
+310400	3b
 4
-306499	1a
-306502	1b1
-306504	1b2
+310403	1a
+310406	1b1
+310408	1b2
 2
 3
 4
@@ -35022,15 +49055,15 @@
 1
 2
 3
-306526	4a
-306528	4b
+310430	4a
+310432	4b
 5
 1
 2
 1
-306534	1a
-306537	1b1
-306539	1b2
+310438	1a
+310441	1b1
+310443	1b2
 2
 1
 2
@@ -35071,10 +49104,10 @@
 2
 3
 4
-306581	1a
-306583	1b
-306585	2a
-306587	2b
+310485	1a
+310487	1b
+310489	2a
+310491	2b
 1
 2
 3
@@ -35084,10 +49117,10 @@
 2
 3
 1
-306598	1a
-306600	1b
-306602	2a
-306604	2b
+310502	1a
+310504	1b
+310506	2a
+310508	2b
 1
 2
 1
@@ -35166,8 +49199,8 @@
 2
 1
 2
-306684	3a
-306686	3b
+310588	3a
+310590	3b
 1
 2
 1
@@ -35177,9 +49210,9 @@
 5
 6
 7
-306698	1a1
-306700	1a2
-306702	1b
+310602	1a1
+310604	1a2
+310606	1b
 2
 3
 4
@@ -35371,8 +49404,8 @@
 1
 1
 1
-306895	1a
-306897	1b
+310799	1a
+310801	1b
 2
 1
 1
@@ -35482,15 +49515,15 @@
 1
 1
 1
-307008	1a
-307010	1b
-307012	1c
-307015	2a1
-307017	2a2
-307020	2b1
-307022	2b2
-307025	2c1
-307027	2c2
+310912	1a
+310914	1b
+310916	1c
+310919	2a1
+310921	2a2
+310924	2b1
+310926	2b2
+310929	2c1
+310931	2c2
 1
 1
 1
@@ -35601,1530 +49634,6 @@
 5
 1
 2
-1
-2
-1
-2
-3
-4
-5
-6
-1
-2
-1
-1
-1
-1
-1
-1
-1
-1
-2
-1
-1
-1
-1
-1
-1
-1
-1
-2
-3
-4
-5
-6
-7
-1
-2
-3
-4
-5
-6
-7
-1
-2
-3
-4
-5
-6
-7
-1
-2
-3
-4
-5
-1
-2
-3
-4
-5
-1
-1
-2
-3
-4
-5
-1
-2
-3
-1
-2
-3
-4
-5
-1
-2
-3
-4
-1
-2
-3
-4
-1
-2
-1
-2
-3
-4
-1
-2
-1
-1
-2
-3
-1
-2
-3
-1
-2
-3
-1
-1
-2
-1
-2
-1
-2
-1
-2
-1
-1
-2
-1
-1
-2
-1
-2
-1
-2
-1
-2
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-2
-307269	1a
-307271	1b
-2
-1
-2
-3
-307277	1a
-307279	1b
-1
-1
-2
-1
-2
-3
-1
-1
-2
-1
-1
-1
-2
-3
-4
-5
-1
-2
-3
-4
-5
-1
-1
-2
-3
-4
-1
-1
-1
-1
-2
-3
-4
-1
-2
-3
-1
-2
-3
-4
-5
-1
-1
-2
-3
-4
-5
-1
-2
-1
-2
-3
-4
-1
-2
-3
-4
-1
-1
-2
-1
-1
-2
-1
-1
-1
-1
-1
-1
-2
-1
-2
-1
-2
-1
-1
-2
-3
-1
-2
-3
-4
-1
-2
-3
-4
-5
-1
-2
-3
-1
-2
-3
-1
-2
-3
-4
-1
-2
-3
-4
-1
-2
-3
-4
-1
-1
-1
-1
-2
-1
-1
-1
-1
-1
-2
-1
-2
-3
-1
-2
-3
-1
-1
-1
-1
-2
-3
-1
-2
-3
-4
-1
-2
-1
-2
-3
-1
-2
-1
-2
-1
-1
-2
-3
-4
-1
-2
-3
-1
-1
-1
-1
-2
-1
-2
-1
-2
-3
-1
-1
-2
-3
-1
-1
-1
-2
-1
-1
-1
-2
-3
-1
-1
-2
-3
-4
-1
-2
-1
-1
-2
-3
-4
-1
-1
-1
-2
-1
-1
-2
-1
-2
-1
-2
-1
-1
-2
-1
-1
-2
-1
-1
-2
-1
-1
-1
-2
-3
-1
-2
-1
-2
-3
-4
-1
-2
-3
-4
-1
-2
-3
-4
-5
-6
-1
-2
-3
-4
-5
-1
-2
-3
-1
-1
-1
-2
-3
-1
-1
-2
-3
-1
-1
-2
-3
-1
-2
-3
-1
-2
-1
-1
-1
-2
-3
-1
-2
-3
-1
-2
-3
-4
-1
-1
-2
-1
-2
-1
-1
-1
-1
-1
-2
-1
-2
-3
-1
-2
-1
-1
-2
-1
-1
-2
-1
-1
-2
-1
-1
-1
-1
-2
-3
-1
-1
-2
-1
-1
-2
-3
-1
-1
-1
-1
-2
-1
-1
-2
-1
-1
-1
-2
-1
-2
-1
-1
-1
-1
-2
-3
-4
-1
-2
-1
-1
-2
-1
-1
-1
-1
-1
-1
-1
-1
-2
-3
-4
-1
-2
-3
-4
-5
-1
-1
-1
-1
-1
-1
-2
-3
-1
-2
-3
-1
-1
-1
-1
-2
-3
-4
-1
-2
-3
-4
-5
-1
-2
-3
-4
-1
-1
-2
-1
-1
-2
-3
-4
-1
-2
-1
-2
-1
-2
-3
-1
-2
-1
-1
-2
-1
-2
-1
-1
-2
-3
-1
-2
-1
-2
-1
-1
-1
-2
-1
-2
-1
-1
-2
-1
-2
-1
-1
-1
-2
-1
-1
-1
-2
-1
-1
-1
-1
-2
-1
-2
-3
-1
-2
-1
-2
-1
-1
-1
-1
-1
-2
-3
-4
-5
-6
-1
-2
-3
-4
-1
-2
-3
-1
-2
-1
-1
-1
-1
-2
-3
-4
-5
-1
-2
-3
-4
-5
-1
-2
-3
-4
-1
-1
-2
-3
-1
-2
-3
-1
-2
-3
-4
-1
-2
-1
-1
-1
-1
-2
-1
-1
-2
-1
-2
-1
-1
-2
-3
-4
-5
-1
-2
-3
-4
-1
-307782	1a
-307784	1b
-2
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-2
-1
-1
-2
-1
-1
-2
-1
-2
-3
-1
-1
-1
-1
-1
-1
-2
-3
-1
-2
-3
-1
-1
-1
-1
-1
-1
-1
-1
-1
-2
-3
-1
-2
-1
-2
-3
-1
-2
-3
-1
-2
-1
-2
-3
-1
-1
-2
-3
-4
-1
-2
-3
-1
-2
-3
-1
-1
-1
-2
-1
-2
-1
-2
-1
-2
-1
-307864	1a
-307866	1b
-1
-2
-1
-1
-2
-3
-4
-5
-6
-1
-2
-3
-4
-5
-1
-2
-3
-4
-1
-2
-3
-4
-1
-1
-2
-3
-4
-1
-2
-3
-4
-1
-2
-3
-4
-1
-1
-2
-3
-4
-5
-1
-2
-3
-4
-5
-6
-1
-2
-3
-4
-5
-1
-1
-1
-2
-3
-1
-2
-1
-1
-2
-3
-1
-2
-1
-2
-3
-1
-2
-1
-2
-3
-4
-5
-1
-2
-3
-4
-5
-1
-1
-1
-2
-3
-4
-1
-2
-3
-4
-1
-1
-2
-1
-1
-1
-2
-3
-4
-1
-2
-1
-2
-3
-1
-1
-1
-1
-1
-2
-1
-2
-3
-1
-1
-2
-3
-4
-5
-1
-2
-3
-4
-5
-1
-2
-3
-4
-1
-1
-2
-3
-4
-1
-2
-1
-1
-2
-1
-1
-1
-1
-1
-1
-1
-1
-1
-2
-1
-1
-1
-1
-1
-1
-1
-1
-2
-1
-308026	1a
-308028	1b
-2
-3
-1
-2
-1
-1
-1
-1
-1
-2
-3
-1
-2
-308043	1a
-308045	1b
-2
-308048	3a
-308050	3b
-1
-1
-2
-1
-1
-1
-2
-1
-2
-3
-1
-1
-2
-3
-1
-2
-3
-1
-1
-1
-1
-2
-3
-1
-2
-3
-1
-1
-2
-3
-1
-2
-3
-4
-1
-1
-2
-1
-1
-1
-2
-1
-1
-2
-1
-1
-1
-1
-1
-2
-1
-2
-1
-1
-1
-1
-1
-1
-1
-1
-2
-1
-1
-1
-2
-1
-2
-1
-1
-1
-1
-1
-1
-308125	1a
-308127	1b
-308129	1c
-308131	1d
-2
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-2
-1
-1
-1
-1
-1
-1
-2
-1
-1
-1
-2
-1
-1
-2
-1
-1
-1
-2
-3
-1
-1
-1
-1
-1
-1
-1
-2
-3
-1
-1
-1
-1
-1
-1
-1
-1
-2
-1
-1
-1
-1
-2
-3
-4
-5
-1
-2
-3
-4
-5
-1
-2
-3
-4
-5
-1
-2
-3
-1
-1
-1
-2
-1
-2
-1
-1
-2
-1
-1
-1
-1
-2
-1
-1
-1
-2
-1
-1
-1
-1
-1
-1
-1
-1
-2
-3
-1
-1
-2
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-2
-1
-1
-2
-3
-1
-1
-1
-1
-2
-1
-1
-1
-2
-3
-1
-2
-3
-1
-1
-2
-3
-1
-1
-1
-2
-3
-1
-2
-3
-1
-1
-2
-3
-1
-308290	2a1
-308292	2a2
-308294	2a3
-308296	2b
-1
-1
-2
-1
-2
-1
-1
-2
-1
-1
-1
-2
-1
-1
-1
-2
-3
-4
-1
-2
-3
-4
-5
-1
-1
-1
-2
-3
-1
-1
-2
-1
-2
-3
-1
-2
-1
-1
-2
-3
-4
-5
-1
-2
-3
-4
-1
-2
-3
-4
-1
-1
-1
-1
-2
-3
-4
-5
-1
-1
-2
-1
-2
-1
-1
-1
-2
-3
-1
-2
-3
-4
-1
-2
-1
-1
-2
-1
-2
-3
-1
-1
-1
-1
-1
-1
-2
-3
-1
-2
-1
-1
-1
-2
-1
-1
-1
-2
-1
-1
-308399	1a1
-308401	1a2
-308403	1b
-1
-1
-1
-1
-1
-1
-2
-3
-1
-1
-1
-1
-2
-3
-1
-1
-1
-2
-3
-4
-5
-6
-7
-1
-2
-3
-4
-5
-6
-7
-1
-1
-2
-3
-1
-1
-1
-1
-2
-3
-1
-1
-2
-1
-2
-3
-1
-1
-1
-1
-1
-2
-1
-1
-1
-2
-3
-4
-1
-2
-3
-4
-5
-1
-1
-1
-2
-3
-4
-1
-2
-3
-4
-5
-1
-2
-3
-1
-2
-3
-4
-5
-1
-1
-1
-2
-3
-1
-2
-3
-1
-2
-3
-1
-2
-1
-1
-1
-2
-3
-4
-1
-2
-3
-1
-1
-2
-1
-1
-2
-1
-1
-1
-1
-1
-1
-1
-1
-1
-2
-3
-1
-2
-1
-1
-2
-3
-4
-1
-2
-3
-4
-5
-1
-2
-3
-4
-1
-2
-3
-4
-5
-6
-7
-1
-2
-3
-4
-5
-6
-7
-1
-2
-3
-4
-1
-1
-2
-1
-2
-1
-2
-1
-2
-1
-1
-1
-1
-2
-3
-4
-1
-2
-3
-4
-5
-6
-1
-1
-1
-1
-2
-3
-4
-1
-2
-3
-4
-1
-2
-3
-4
-5
-1
-2
-3
-4
-5
-1
-2
-3
-1
-2
-3
-308610	4a1
-308612	4a2
-308614	4a3
-308616	4a4
-308618	4b
-1
-1
-1
-1
-1
-2
-1
-2
-3
-1
-1
-2
-1
-1
-1
-2
-1
-1
-1
-2
-3
-1
-1
-2
-3
-4
-5
-1
-2
-3
-1
-1
-2
-3
-4
-1
-2
-3
-1
-1
-2
-3
-1
-2
-3
-1
-1
-2
-3
-4
-1
-2
-3
-1
-1
-2
-3
-1
-1
-1
-1
-2
-3
-1
-2
-3
-1
-1
-1
-1
-1
-1
-2
-1
-1
-1
 1
 2
 1
@@ -37134,332 +49643,21 @@
 5
 6
 1
-1
-2
-1
-2
-3
-1
-2
-3
-1
-2
-3
-1
-1
-2
-3
-1
-2
-1
-2
-1
-1
-2
-1
-2
-1
-2
-1
-1
-2
-1
-1
-1
-2
-3
-1
-1
-2
-1
-2
-1
-2
-1
-2
-3
-1
-2
-1
-1
-1
-2
-3
-1
-2
-3
-1
-1
-2
-1
-2
-1
-2
-1
-2
-3
-1
-2
-1
-1
-1
-1
-2
-1
-2
-1
-2
-1
-1
-2
-3
-4
-1
-2
-1
-2
-1
-1
-2
-3
-1
-2
-3
-1
-1
-1
-2
-1
-1
-1
-2
-3
-4
-1
-2
-3
-4
-1
-2
-3
-1
-2
-3
-1
-2
-1
-2
-3
-1
-2
-1
-1
-1
-1
-1
-2
-1
-1
-2
-3
-1
-1
-1
-1
-1
-2
-1
-2
-3
-1
-2
-3
-1
-1
-1
-1
-1
-1
-2
-1
-2
-1
-2
-3
-1
-1
-1
-2
-1
-2
-3
-1
-1
-1
-1
-2
-1
-2
-1
-2
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-2
-3
-1
-1
-1
-2
-1
-1
-1
-1
-1
-2
-1
-1
-1
-1
-1
-2
-1
-1
-2
-1
-2
-3
-4
-5
-1
 2
-3
-4
 1
-2
-3
-1
-1
-1
-1
-2
-1
-2
-1
-2
-3
-1
-2
-1
-1
-2
-1
-1
-1
-1
-1
-2
-3
-1
-1
-1
-2
-1
-1
-1
-308952	1a1
-308954	1a2
-308956	1b
-308959	2a1
-308961	2a2
-308963	2b
-308966	1a1
-308968	1a2
-308970	1b
-1
-1
 1
-2
-3
-1
-1
-2
-3
-4
-1
-2
-3
-4
-1
-1
-2
-1
-1
-1
-1
-2
-3
-1
 1
 1
 1
 1
-2
-1
-1
-1
-2
-1
-2
-1
 1
-2
-3
-1
-2
-3
-4
-5
-1
-2
-3
-4
-5
-6
 1
 2
-3
-4
-5
-6
 1
-2
 1
-2
-309032	3a
-309034	3b
 1
-2
-3
-4
 1
 1
-309043	2a1
-309045	2a2
-309047	2b
 1
 1
 1
@@ -37482,480 +49680,2315 @@
 4
 5
 6
-1
-2
-3
-4
-1
-1
-2
-3
-4
-5
-1
-2
-3
-4
-5
-6
-1
-2
-3
-4
-5
-6
-1
-2
-3
-1
-1
-2
-3
-4
-5
-6
-1
-2
-3
-4
-5
-6
-1
-1
-2
-3
-4
-5
-1
-2
-3
-4
-5
-1
-2
-3
-4
-5
-1
-2
-3
-4
-5
-6
-1
-2
-3
-4
-1
-2
-3
-4
-5
-1
-2
-3
-4
-5
-1
-1
-2
-1
-1
-1
-1
-1
-2
-1
-1
-2
-1
-2
-3
-1
-2
-1
-1
-2
-3
-4
-1
-309169	2a1
-309171	2a2
-309173	2b
-3
-1
-2
-1
-2
-1
-1
-1
-2
-1
-1
-1
-2
-1
-1
-2
-3
-1
-1
-2
-3
-1
-1
-2
-1
-1
-2
-1
-2
-1
-1
-2
-1
-2
-1
-1
-2
-3
-1
-2
-3
-4
-1
-2
-3
-1
-2
-1
-1
-1
-1
-1
-2
-3
-1
-1
-2
-1
-2
-3
-1
-1
-1
-1
-2
-3
-4
-1
-1
-2
-3
-1
-1
-1
-2
-1
-1
-1
-2
-3
-1
-1
-2
-1
-1
-1
-1
-1
-1
-1
-1
-2
-1
-1
-1
-2
-1
-2
-1
-1
-1
-1
-1
-1
-2
-3
-1
-1
-2
-3
-4
-1
-1
-1
-1
-2
-1
-1
-2
-1
-1
-1
-1
-1
-1
-1
-1
-1
-2
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-2
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-2
-3
-4
-1
-1
-1
-1
-1
-2
-3
-1
-2
-1
-1
-1
-2
-3
-1
-2
-3
-1
-1
-2
-1
-1
-2
-1
-1
-2
-1
-1
-2
-3
-1
-2
-3
-1
-2
-3
-1
-1
-1
-1
-1
-1
-2
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-2
-3
-1
-1
-1
-1
-2
-1
-2
-1
-1
-1
-1
-1
-1
-2
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-2
-3
-4
-1
-2
-3
-1
-2
-3
-1
-2
-1
-2
-3
-1
-1
-2
-1
-2
-3
-4
-5
-1
-2
-3
-1
-2
-3
-4
-309454	1a
-309456	1b
-309458	2a
-309460	2b
-309462	3a
-309464	3b
-309466	4a
-309468	4b
-309470	5a
-309472	5b
-1
-2
-1
-1
-2
-1
-1
-1
-1
-1
-2
-1
-1
-2
-309488	1a
-309490	1b
-1
-1
-2
-1
-1
-1
-2
-3
-4
-1
-1
-1
-2
-3
-4
-1
-1
-1
-2
-3
-1
-1
-2
-1
-1
-2
-1
-2
-3
-4
-1
-2
-3
-4
-5
-1
-2
-1
-2
-3
-309532	1a
-309534	1b
-309536	2a
-309538	2b
-309540	3a
-309542	3b
-309544	4a
-309546	4b
-309548	5a
-309550	5b
-309552	6a
-309554	6b
 7
-309557	1a
-309559	1b
-309561	2a
-309563	2b
-309565	3a
-309567	3b
-309569	4a
-309571	4b
-309573	5a
-309575	5b
-309577	6a
-309579	6b
-309581	7a
-309583	7b
-309585	8a
-309587	8b
+1
+2
+3
+4
+5
+1
+2
+3
+4
+5
+1
+1
+2
+3
+4
+5
+1
+2
+3
+1
+2
+3
+4
+5
+1
+2
+3
+4
+1
+2
+3
+4
+1
+2
+1
+2
+3
+4
+1
+2
+1
+1
+2
+3
+1
+2
+3
+1
+2
+3
+1
+1
+2
+1
+2
+1
+2
+1
+2
+1
+1
+2
+1
+1
+2
+1
+2
+1
+2
+1
+2
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+2
+311173	1a
+311175	1b
+2
+1
+2
+3
+311181	1a
+311183	1b
+1
+1
+2
+1
+2
+3
+1
+1
+2
+1
+1
+1
+2
+3
+4
+5
+1
+2
+3
+4
+5
+1
+1
+2
+3
+4
+1
+1
+1
+1
+2
+3
+4
+1
+2
+3
+1
+2
+3
+4
+5
+1
+1
+2
+3
+4
+5
+1
+2
+1
+2
+3
+4
+1
+2
+3
+4
+1
+1
+2
+1
+1
+2
+1
+1
+1
+1
+1
+1
+2
+1
+2
+1
+2
+1
+1
+2
+3
+1
+2
+3
+4
+1
+2
+3
+4
+5
+1
+2
+3
+1
+2
+3
+1
+2
+3
+4
+1
+2
+3
+4
+1
+2
+3
+4
+1
+1
+1
+1
+2
+1
+1
+1
+1
+1
+2
+1
+2
+3
+1
+2
+3
+1
+1
+1
+1
+2
+3
+1
+2
+3
+4
+1
+2
+1
+2
+3
+1
+2
+1
+2
+1
+1
+2
+3
+4
+1
+2
+3
+1
+1
+1
+1
+2
+1
+2
+1
+2
+3
+1
+1
+2
+3
+1
+1
+1
+2
+1
+1
+1
+2
+3
+1
+1
+2
+3
+4
+1
+2
+1
+1
+2
+3
+4
+1
+1
+1
+2
+1
+1
+2
+1
+2
+1
+2
+1
+1
+2
+1
+1
+2
+1
+1
+2
+1
+1
+1
+2
+3
+1
+2
+1
+2
+3
+4
+1
+2
+3
+4
+1
+2
+3
+4
+5
+6
+1
+2
+3
+4
+5
+1
+2
+3
+1
+1
+1
+2
+3
+1
+1
+2
+3
+1
+1
+2
+3
+1
+2
+3
+1
+2
+1
+1
+1
+2
+3
+1
+2
+3
+1
+2
+3
+4
+1
+1
+2
+1
+2
+1
+1
+1
+1
+1
+2
+1
+2
+3
+1
+2
+1
+1
+2
+1
+1
+2
+1
+1
+2
+1
+1
+1
+1
+2
+3
+1
+1
+2
+1
+1
+2
+3
+1
+1
+1
+1
+2
+1
+1
+2
+1
+1
+1
+2
+1
+2
+1
+1
+1
+1
+2
+3
+4
+1
+2
+1
+1
+2
+1
+1
+1
+1
+1
+1
+1
+1
+2
+3
+4
+1
+2
+3
+4
+5
+1
+1
+1
+1
+1
+1
+2
+3
+1
+2
+3
+1
+1
+1
+1
+2
+3
+4
+1
+2
+3
+4
+5
+1
+2
+3
+4
+1
+1
+2
+1
+1
+2
+3
+4
+1
+2
+1
+2
+1
+2
+3
+1
+2
+1
+1
+2
+1
+2
+1
+1
+2
+3
+1
+2
+1
+2
+1
+1
+1
+2
+1
+2
+1
+1
+2
+1
+2
+1
+1
+1
+2
+1
+1
+1
+2
+1
+1
+1
+1
+2
+1
+2
+3
+1
+2
+1
+2
+1
+1
+1
+1
+1
+2
+3
+4
+5
+6
+1
+2
+3
+4
+1
+2
+3
+1
+2
+1
+1
+1
+1
+2
+3
+4
+5
+1
+2
+3
+4
+5
+1
+2
+3
+4
+1
+1
+2
+3
+1
+2
+3
+1
+2
+3
+4
+1
+2
+1
+1
+1
+1
+2
+1
+1
+2
+1
+2
+1
+1
+2
+3
+4
+5
+1
+2
+3
+4
+1
+311686	1a
+311688	1b
+2
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+2
+1
+1
+2
+1
+1
+2
+1
+2
+3
+1
+1
+1
+1
+1
+1
+2
+3
+1
+2
+3
+1
+1
+1
+1
+1
+1
+1
+1
+1
+2
+3
+1
+2
+1
+2
+3
+1
+2
+3
+1
+2
+1
+2
+3
+1
+1
+2
+3
+4
+1
+2
+3
+1
+2
+3
+1
+1
+1
+2
+1
+2
+1
+2
+1
+2
+1
+311768	1a
+311770	1b
+1
+2
+1
+1
+2
+3
+4
+5
+6
+1
+2
+3
+4
+5
+1
+2
+3
+4
+1
+2
+3
+4
+1
+1
+2
+3
+4
+1
+2
+3
+4
+1
+2
+3
+4
+1
+1
+2
+3
+4
+5
+1
+2
+3
+4
+5
+6
+1
+2
+3
+4
+5
+1
+1
+1
+2
+3
+1
+2
+1
+1
+2
+3
+1
+2
+1
+2
+3
+1
+2
+1
+2
+3
+4
+5
+1
+2
+3
+4
+5
+1
+1
+1
+2
+3
+4
+1
+2
+3
+4
+1
+1
+2
+1
+1
+1
+2
+3
+4
+1
+2
+1
+2
+3
+1
+1
+1
+1
+1
+2
+1
+2
+3
+1
+1
+2
+3
+4
+5
+1
+2
+3
+4
+5
+1
+2
+3
+4
+1
+1
+2
+3
+4
+1
+2
+1
+1
+2
+1
+1
+1
+1
+1
+1
+1
+1
+1
+2
+1
+1
+1
+1
+1
+1
+1
+1
+2
+1
+311930	1a
+311932	1b
+2
+3
+1
+2
+1
+1
+1
+1
+1
+2
+3
+1
+2
+311947	1a
+311949	1b
+2
+311952	3a
+311954	3b
+1
+1
+2
+1
+1
+1
+2
+1
+2
+3
+1
+1
+2
+3
+1
+2
+3
+1
+1
+1
+1
+2
+3
+1
+2
+3
+1
+1
+2
+3
+1
+2
+3
+4
+1
+1
+2
+1
+1
+1
+2
+1
+1
+2
+1
+1
+1
+1
+1
+2
+1
+2
+1
+1
+1
+1
+1
+1
+1
+1
+2
+1
+1
+1
+2
+1
+2
+1
+1
+1
+1
+1
+1
+312029	1a
+312031	1b
+312033	1c
+312035	1d
+2
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+2
+1
+1
+1
+1
+1
+1
+2
+1
+1
+1
+2
+1
+1
+2
+1
+1
+1
+2
+3
+1
+1
+1
+1
+1
+1
+1
+2
+3
+1
+1
+1
+1
+1
+1
+1
+1
+2
+1
+1
+1
+1
+2
+3
+4
+5
+1
+2
+3
+4
+5
+1
+2
+3
+4
+5
+1
+2
+3
+1
+1
+1
+2
+1
+2
+1
+1
+2
+1
+1
+1
+1
+2
+1
+1
+1
+2
+1
+1
+1
+1
+1
+1
+1
+1
+2
+3
+1
+1
+2
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+2
+1
+1
+2
+3
+1
+1
+1
+1
+2
+1
+1
+1
+2
+3
+1
+2
+3
+1
+1
+2
+3
+1
+1
+1
+2
+3
+1
+2
+3
+1
+1
+2
+3
+1
+312194	2a1
+312196	2a2
+312198	2a3
+312200	2b
+1
+1
+2
+1
+2
+1
+1
+2
+1
+1
+1
+2
+1
+1
+1
+2
+3
+4
+1
+2
+3
+4
+5
+1
+1
+1
+2
+3
+1
+1
+2
+1
+2
+3
+1
+2
+1
+1
+2
+3
+4
+5
+1
+2
+3
+4
+1
+2
+3
+4
+1
+1
+1
+1
+2
+3
+4
+5
+1
+1
+2
+1
+2
+1
+1
+1
+2
+3
+1
+2
+3
+4
+1
+2
+1
+1
+2
+1
+2
+3
+1
+1
+1
+1
+1
+1
+2
+3
+1
+2
+1
+1
+1
+2
+1
+1
+1
+2
+1
+1
+312303	1a1
+312305	1a2
+312307	1b
+1
+1
+1
+1
+1
+1
+2
+3
+1
+1
+1
+1
+2
+3
+1
+1
+1
+2
+3
+4
+5
+6
+7
+1
+2
+3
+4
+5
+6
+7
+1
+1
+2
+3
+1
+1
+1
+1
+2
+3
+1
+1
+2
+1
+2
+3
+1
+1
+1
+1
+1
+2
+1
+1
+1
+2
+3
+4
+1
+2
+3
+4
+5
+1
+1
+1
+2
+3
+4
+1
+2
+3
+4
+5
+1
+2
+3
+1
+2
+3
+4
+5
+1
+1
+1
+2
+3
+1
+2
+3
+1
+2
+3
+1
+2
+1
+1
+1
+2
+3
+4
+1
+2
+3
+1
+1
+2
+1
+1
+2
+1
+1
+1
+1
+1
+1
+1
+1
+1
+2
+3
+1
+2
+1
+1
+2
+3
+4
+1
+2
+3
+4
+5
+1
+2
+3
+4
+1
+2
+3
+4
+5
+6
+7
+1
+2
+3
+4
+5
+6
+7
+1
+2
+3
+4
+1
+1
+2
+1
+2
+1
+2
+1
+2
+1
+1
+1
+1
+2
+3
+4
+1
+2
+3
+4
+5
+6
+1
+1
+1
+1
+2
+3
+4
+1
+2
+3
+4
+1
+2
+3
+4
+5
+1
+2
+3
+4
+5
+1
+2
+3
+1
+2
+3
+312514	4a1
+312516	4a2
+312518	4a3
+312520	4a4
+312522	4b
+1
+1
+1
+1
+1
+2
+1
+2
+3
+1
+1
+2
+1
+1
+1
+2
+1
+1
+1
+2
+3
+1
+1
+2
+3
+4
+5
+1
+2
+3
+1
+1
+2
+3
+4
+1
+2
+3
+1
+1
+2
+3
+1
+2
+3
+1
+1
+2
+3
+4
+1
+2
+3
+1
+1
+2
+3
+1
+1
+1
+1
+2
+3
+1
+2
+3
+1
+1
+1
+1
+1
+1
+2
+1
+1
+1
+1
+2
+1
+2
+3
+4
+5
+6
+1
+1
+2
+1
+2
+3
+1
+2
+3
+1
+2
+3
+1
+1
+2
+3
+1
+2
+1
+2
+1
+1
+2
+1
+2
+1
+2
+1
+1
+2
+1
+1
+1
+2
+3
+1
+1
+2
+1
+2
+1
+2
+1
+2
+3
+1
+2
+1
+1
+1
+2
+3
+1
+2
+3
+1
+1
+2
+1
+2
+1
+2
+1
+2
+3
+1
+2
+1
+1
+1
+1
+2
+1
+2
+1
+2
+1
+1
+2
+3
+4
+1
+2
+1
+2
+1
+1
+2
+3
+1
+2
+3
+1
+1
+1
+2
+1
+1
+1
+2
+3
+4
+1
+2
+3
+4
+1
+2
+3
+1
+2
+3
+1
+2
+1
+2
+3
+1
+2
+1
+1
+1
+1
+1
+2
+1
+1
+2
+3
+1
+1
+1
+1
+1
+2
+1
+2
+3
+1
+2
+3
+1
+1
+1
+1
+1
+1
+2
+1
+2
+1
+2
+3
+1
+1
+1
+2
+1
+2
+3
+1
+1
+1
+1
+2
+1
+2
+1
+2
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+2
+3
+1
+1
+1
+2
+1
+1
+1
+1
+1
+2
+1
+1
+1
+1
+1
+2
+1
+1
+2
+1
+2
+3
+4
+5
+1
+2
+3
+4
+1
+2
+3
+1
+1
+1
+1
+2
+1
+2
+1
+2
+3
+1
+2
+1
+1
+2
+1
+1
+1
+1
+1
+2
+3
+1
+1
+1
+2
+1
+1
+1
+312856	1a1
+312858	1a2
+312860	1b
+312863	2a1
+312865	2a2
+312867	2b
+312870	1a1
+312872	1a2
+312874	1b
+1
+1
+1
+2
+3
+1
+1
+2
+3
+4
+1
+2
+3
+4
+1
+1
+2
+1
+1
+1
+1
+2
+3
+1
+1
+1
+1
+1
+2
+1
+1
+1
+2
+1
+2
+1
+1
+2
+3
+1
+2
+3
+4
+5
+1
+2
+3
+4
+5
+6
+1
+2
+3
+4
+5
+6
+1
+2
+1
+2
+312936	3a
+312938	3b
+1
+2
+3
+4
+1
+1
+312947	2a1
+312949	2a2
+312951	2b
+1
+1
+1
+2
+3
+4
+5
+6
+7
+1
+2
+3
+4
+5
+6
+7
+1
+2
+3
+4
+5
+6
+1
+2
+3
+4
+1
+1
+2
+3
+4
+5
+1
+2
+3
+4
+5
+6
+1
+2
+3
+4
+5
+6
+1
+2
+3
+1
+1
+2
+3
+4
+5
+6
+1
+2
+3
+4
+5
+6
+1
+1
+2
+3
+4
+5
+1
+2
+3
+4
+5
+1
+2
+3
+4
+5
+1
+2
+3
+4
+5
+6
+1
+2
+3
+4
+1
+2
+3
+4
+5
+1
+2
+3
+4
+5
+1
+1
+2
+1
+1
+1
+1
+1
+2
+1
+1
+2
+1
+2
+3
+1
+2
+1
+1
+2
+3
+4
+1
+313073	2a1
+313075	2a2
+313077	2b
+3
+1
+2
+1
+2
+1
+1
+1
+2
+1
+1
+1
+2
+1
+1
+2
+3
+1
+1
+2
+3
+1
+1
+2
+1
+1
+2
+1
+2
+1
+1
+2
+1
+2
+1
+1
+2
+3
+1
+2
+3
+4
+1
+2
+3
+1
+2
+1
+1
+1
+1
+1
+2
+3
+1
+1
+2
+1
+2
+3
+1
+1
+1
+1
+2
+3
+4
+1
+1
+2
+3
+1
+1
+1
+2
+1
+1
+1
+2
+3
+1
+1
+2
+1
+1
+1
+1
+1
+1
+1
+1
+2
+1
+1
+1
+2
+1
+2
+1
+1
+1
+1
+1
+1
+2
+3
+1
+1
+2
+3
+4
+1
+1
+1
+1
+2
+1
+1
+2
+1
+1
+1
+1
+1
+1
+1
+1
+1
+2
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+2
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+2
+3
+4
+1
+1
+1
+1
+1
+2
+3
+1
+2
+1
+1
+1
+2
+3
+1
+2
+3
+1
+1
+2
+1
+1
+2
+1
+1
+2
+1
+1
+2
+3
+1
+2
+3
+1
+2
+3
+1
+1
+1
+1
+1
+1
+2
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+2
+3
+1
+1
+1
+1
+2
+1
+2
+1
+1
+1
+1
+1
+1
+2
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+2
+3
+4
+1
+2
+3
+1
+2
+3
+1
+2
+1
+2
+3
+1
+1
+2
+1
+2
+3
+4
+5
+1
+2
+3
+1
+2
+3
+4
+313358	1a
+313360	1b
+313362	2a
+313364	2b
+313366	3a
+313368	3b
+313370	4a
+313372	4b
+313374	5a
+313376	5b
+1
+2
+1
+1
+2
+1
+1
+1
+1
+1
+2
+1
+1
+2
+313392	1a
+313394	1b
+1
+1
+2
+1
+1
+1
+2
+3
+4
+1
+1
+1
+2
+3
+4
+1
+1
+1
+2
+3
+1
+1
+2
+1
+1
+2
+1
+2
+3
+4
+1
+2
+3
+4
+5
+1
+2
+1
+2
+3
+313436	1a
+313438	1b
+313440	2a
+313442	2b
+313444	3a
+313446	3b
+313448	4a
+313450	4b
+313452	5a
+313454	5b
+313456	6a
+313458	6b
+7
+313461	1a
+313463	1b
+313465	2a
+313467	2b
+313469	3a
+313471	3b
+313473	4a
+313475	4b
+313477	5a
+313479	5b
+313481	6a
+313483	6b
+313485	7a
+313487	7b
+313489	8a
+313491	8b
 9
 1
 2
@@ -38020,9 +52053,9 @@
 1
 1
 1
-309654	1a1
-309656	1a2
-309658	1b
+313558	1a1
+313560	1a2
+313562	1b
 1
 1
 2
@@ -38036,14 +52069,14 @@
 3
 1
 1
-309673	1a
-309675	1b
-309677	2a
-309679	2b
-309681	3a
-309683	3b
-309685	1a
-309687	1b
+313577	1a
+313579	1b
+313581	2a
+313583	2b
+313585	3a
+313587	3b
+313589	1a
+313591	1b
 1
 2
 3
@@ -38133,8 +52166,8 @@
 2
 3
 1
-309778	2a
-309780	2b
+313682	2a
+313684	2b
 3
 4
 1
@@ -38276,9 +52309,9 @@
 2
 3
 1
-309924	1a1
-309926	1a2
-309928	1b
+313828	1a1
+313830	1a2
+313832	1b
 1
 2
 1
@@ -38363,18 +52396,18 @@
 2
 3
 1
-310015	1a1
-310017	1a2
-310019	1a3
-310021	1b
-310024	2a1
-310026	2a2
-310028	2a3
-310030	2b
-310033	3a1
-310035	3a2
-310037	3a3
-310039	3b
+313919	1a1
+313921	1a2
+313923	1a3
+313925	1b
+313928	2a1
+313930	2a2
+313932	2a3
+313934	2b
+313937	3a1
+313939	3a2
+313941	3a3
+313943	3b
 1
 1
 2
@@ -38454,47 +52487,47 @@
 1
 1
 1
-310121	2a1
-310123	2a2
-310125	2b
+314025	2a1
+314027	2a2
+314029	2b
 3
 1
 2
-310131	1a1
-310133	1a2
-310135	1b
-310138	2a1
-310140	2a2
-310142	2b
+314035	1a1
+314037	1a2
+314039	1b
+314042	2a1
+314044	2a2
+314046	2b
 1
 1
-1
-2
-3
-4
-1
-1
-1
-1
-2
-3
-1
-1
-2
-3
 1
 2
 3
 4
 1
+1
+1
+1
+2
+3
+1
+1
+2
+3
+1
+2
+3
+4
+1
 2
 1
 1
-310168	1a
-310170	1b
-310172	1c
-310174	2a
-310176	2b
+314072	1a
+314074	1b
+314076	1c
+314078	2a
+314080	2b
 1
 2
 3
@@ -38507,20 +52540,20 @@
 1
 2
 1
-310190	1a
-310193	1b1
-310195	1b2
-310197	2a
-310200	2b1
-310202	2b2
-310204	1a
-310207	1b1
-310209	1b2
-310211	2
-310214	2b1
-310216	2b2
-310218	3a
-310221	3b1
+314094	1a
+314097	1b1
+314099	1b2
+314101	2a
+314104	2b1
+314106	2b2
+314108	1a
+314111	1b1
+314113	1b2
+314115	2
+314118	2b1
+314120	2b2
+314122	3a
+314125	3b1
 1
 2
 3
@@ -38535,37 +52568,37 @@
 2
 3
 1
-310237	1a
-310239	1b
-310241	2a
-310243	2b
+314141	1a
+314143	1b
+314145	2a
+314147	2b
 3
-310246	4a
-310248	4b
+314150	4a
+314152	4b
 5
 6
-310252	1a
-310254	1b
-310256	2a
-310258	2b
-310260	3a
-310262	3b
-310264	4a
-310266	4b
-310268	5a
-310270	5b
-310272	1a
-310274	1b
+314156	1a
+314158	1b
+314160	2a
+314162	2b
+314164	3a
+314166	3b
+314168	4a
+314170	4b
+314172	5a
+314174	5b
+314176	1a
+314178	1b
 2
 1
 2
 1
-310280	2a
-310282	2b
-310284	3a
-310286	3b
-310288	4a
-310290	4b
+314184	2a
+314186	2b
+314188	3a
+314190	3b
+314192	4a
+314194	4b
 1
 1
 1
@@ -38610,8 +52643,8 @@
 1
 2
 1
-310336	1a
-310338	1b
+314240	1a
+314242	1b
 2
 1
 2
@@ -38637,23 +52670,15 @@
 1
 1
 2
-1
-2
-3
-4
-5
-1
-1
-1
-1
-1
 1
 2
 3
 4
 5
 1
-2
+1
+1
+1
 1
 1
 2
@@ -38662,11 +52687,7 @@
 5
 1
 2
-3
-4
 1
-2
-3
 1
 2
 3
@@ -38675,107 +52696,10 @@
 1
 2
 3
-1
-2
-3
 4
 1
-1
-1
 2
 3
-1
-1
-2
-1
-310416	1a
-310418	1b
-2
-1
-2
-1
-2
-3
-1
-1
-310428	2a
-310431	2b1
-310433	2b2
-1
-2
-1
-1
-1
-1
-1
-1
-2
-3
-4
-1
-1
-2
-1
-2
-3
-1
-1
-2
-3
-1
-1
-1
-2
-3
-1
-2
-1
-1
-2
-3
-1
-2
-1
-2
-3
-1
-1
-2
-1
-1
-1
-1
-2
-1
-1
-1
-1
-1
-1
-1
-2
-1
-1
-2
-1
-1
-2
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-2
-3
-1
-2
-1
-2
 1
 2
 3
@@ -38786,6 +52710,115 @@
 3
 1
 2
+3
+4
+1
+1
+1
+2
+3
+1
+1
+2
+1
+314320	1a
+314322	1b
+2
+1
+2
+1
+2
+3
+1
+1
+314332	2a
+314335	2b1
+314337	2b2
+1
+2
+1
+1
+1
+1
+1
+1
+2
+3
+4
+1
+1
+2
+1
+2
+3
+1
+1
+2
+3
+1
+1
+1
+2
+3
+1
+2
+1
+1
+2
+3
+1
+2
+1
+2
+3
+1
+1
+2
+1
+1
+1
+1
+2
+1
+1
+1
+1
+1
+1
+1
+2
+1
+1
+2
+1
+1
+2
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+2
+3
+1
+2
+1
+2
+1
+2
+3
+4
+5
+1
+2
+3
+1
+2
 1
 2
 1
@@ -38833,8 +52866,8 @@
 1
 1
 1
-310567	2a
-310569	2b
+314471	2a
+314473	2b
 1
 2
 3
@@ -38937,8 +52970,8 @@
 1'
 1
 2
-310673	3a
-310675	3b
+314577	3a
+314579	3b
 1
 2
 1
@@ -39055,10 +53088,10 @@
 1
 2
 1
-310793	1a
-310795	1b
-310797	2a
-310799	2b
+314697	1a
+314699	1b
+314701	2a
+314703	2b
 1
 2
 1
@@ -39309,8 +53342,8 @@
 2
 1
 2
-311051	3a
-311053	3b
+314955	3a
+314957	3b
 4
 5
 1
@@ -39431,23 +53464,23 @@
 3
 1
 2
-311175	1a
-311177	1b
-311179	2a
-311181	2b
-311183	3a
-311185	3b
-311187	4a
-311189	4b
-311191	5a
-311193	5b
-311195	1a
-311197	1b
-311199	1c
-311201	2a
-311203	2b
-311205	3a
-311207	3b
+315079	1a
+315081	1b
+315083	2a
+315085	2b
+315087	3a
+315089	3b
+315091	4a
+315093	4b
+315095	5a
+315097	5b
+315099	1a
+315101	1b
+315103	1c
+315105	2a
+315107	2b
+315109	3a
+315111	3b
 1
 2
 3
@@ -39488,10 +53521,10 @@
 4
 1
 1
-311249	2a
-311251	2b
-311254	2c1
-311256	2c2
+315153	2a
+315155	2b
+315158	2c1
+315160	2c2
 1
 2
 1
@@ -39500,8 +53533,8 @@
 2
 3
 1
-311266	1a
-311268	1b
+315170	1a
+315172	1b
 1
 2
 1
@@ -39793,9 +53826,9 @@
 2
 3
 1'
-311561	2a'
-311563	2b'
-311565	2c'
+315465	2a'
+315467	2b'
+315469	2c'
 1
 1
 1
@@ -39808,9 +53841,9 @@
 1
 1
 1
-311579	1a
-311582	1b1
-311584	1b2
+315483	1a
+315486	1b1
+315488	1b2
 1
 2
 1
@@ -39822,8 +53855,8 @@
 1
 2'
 1
-311597	2a
-311599	2b
+315501	2a
+315503	2b
 3
 1
 1
@@ -39915,8 +53948,8 @@
 3
 1
 2
-311692	1a
-311694	1b
+315596	1a
+315598	1b
 1
 2
 1
@@ -39984,8 +54017,8 @@
 2
 1
 1
-311763	2a
-311765	2b
+315667	2a
+315669	2b
 3
 1
 1
@@ -40069,10 +54102,10 @@
 2
 3
 4
-311850	1a
-311852	1b
-311854	2a
-311856	2b
+315754	1a
+315756	1b
+315758	2a
+315760	2b
 3
 4
 1
@@ -40089,488 +54122,6 @@
 1
 2
 1
-1
-2
-3
-4
-5
-1
-2
-3
-4
-5
-6
-1
-2
-3
-4
-5
-1
-2
-3
-4
-1
-2
-1
-1
-2
-3
-1
-2
-1
-1
-2
-3
-1
-1
-2
-3
-1
-2
-3
-1
-2
-1
-2
-1
-1
-1
-2
-1
-1
-2
-3
-1
-2
-1
-2
-1
-1
-2
-3
-4
-1
-2
-3
-4
-5
-1
-1
-2
-3
-1
-2
-1
-2
-3
-1
-2
-3
-4
-1
-1
-2
-1
-1
-1
-2
-1
-1
-2
-3
-4
-5
-1
-2
-3
-4
-5
-1
-1
-2
-3
-4
-5
-1
-2
-3
-4
-1
-1
-2
-3
-4
-5
-1
-2
-3
-4
-1
-2
-3
-1
-2
-1
-2
-3
-1
-311999	1a
-312001	1b
-312003	2a
-312005	2b
-312007	3a
-312009	3b
-1
-1
-1
-2
-1
-312016	1a
-312019	1b1
-312021	1b2
-2
-1
-1
-2
-1
-1
-2
-1
-1
-2
-3
-1
-2
-1
-1
-2
-1
-1
-1
-2
-3
-1
-2
-1
-2
-3
-1
-2
-3
-1
-2
-3
-1
-2
-3
-1
-2
-1
-2
-3
-4
-1
-2
-1
-2
-3
-4
-1
-1
-1
-2
-1
-1
-1
-2
-312079	1a1
-312081	1a2
-312083	1b
-1
-1
-1
-2
-1
-1
-312091	1a
-312093	1b
-312095	2a
-312097	2b
-1
-2
-3
-4
-1
-2
-3
-4
-5
-1
-2
-3
-1
-2
-1
-2
-3
-1
-2
-1
-2
-3
-4
-1
-2
-3
-4
-5
-1
-2
-1
-1
-2
-3
-1
-1
-2
-3
-1
-2
-1
-1
-1
-2
-1
-2
-1
-2
-3
-1
-2
-1
-1
-312153	1a1
-312155	1a2
-312157	1b
-312160	1a1
-312162	1a2
-312164	1b
-1
-1
-2
-3
-1
-2
-3
-4
-1
-2
-3
-4
-1
-1
-312180	2a
-312182	2b
-312184	3a
-312186	3b
-312188	4a
-312190	4b
-312192	5a
-312194	5b
-312196	1a
-312198	1b
-312200	2a
-312202	2b
-3
-4
-1
-2
-1
-2
-3
-4
-1
-1
-2
-1
-2
-1
-1
-2
-3
-1
-2
-3
-4
-1
-2
-3
-1
-2
-3
-1
-2
-3
-1
-2
-3
-1
-312238	1a
-312240	1b
-312242	2a
-312244	2b
-3
-312247	4a
-312249	4b
-312251	4c
-312253	5a
-312255	5b
-312257	1a
-312259	1b
-2
-312262	3a
-312264	3b
-312266	4a
-312268	4b
-5
-312271	6a
-312273	6b
-1
-312276	2a
-312278	2b
-312280	3a
-312282	3b
-312284	4a
-312286	4b
-312288	1a
-312290	1b
-312292	2a
-312294	3
-312296	3b
-4
-5
-6
-7
-1
-2
-1
-2
-3
-4
-312308	1a
-312310	1b
-312312	2a
-312314	2b
-312316	3a
-312318	3b
-1
-2
-3
-1
-2
-3
-312326	4a
-312328	4b
-1
-2
-3
-1
-312335	1a1
-312337	1a2
-312339	1a3
-312341	1b
-2
-312344	1a
-312346	1b
-312348	2a
-312350	2b
-312352	3a
-312354	3b
-1
-2
-1
-2
-3
-4
-5
-1
-2
-3
-1
-2
-3
-1
-1
-2
-1
-1
-2
-3
-1
-2
-3
-4
-1
-2
-3
-1
-1
-2
-3
-4
-1
-2
-3
-4
-1
-1
-2
-3
-4
-1
-2
-3
-1
-1
-1
-1
-1
-2
-3
-4
-1
-2
-3
-4
-5
-1
-1
-2
-3
-4
-1
-2
-3
-1
-2
-3
-1
-2
-1
-2
-3
-4
-1
-2
-1
-2
-1
-2
-3
-1
-1
-2
-3
 1
 2
 3
@@ -40585,6 +54136,66 @@
 1
 2
 3
+4
+5
+1
+2
+3
+4
+1
+2
+1
+1
+2
+3
+1
+2
+1
+1
+2
+3
+1
+1
+2
+3
+1
+2
+3
+1
+2
+1
+2
+1
+1
+1
+2
+1
+1
+2
+3
+1
+2
+1
+2
+1
+1
+2
+3
+4
+1
+2
+3
+4
+5
+1
+1
+2
+3
+1
+2
+1
+2
+3
 1
 2
 3
@@ -40592,48 +54203,27 @@
 1
 1
 2
-3
-4
+1
+1
+1
+2
+1
 1
 2
 3
 4
+5
 1
 2
 3
 4
+5
+1
 1
 2
 3
 4
-1
-2
-3
-1
-1
-2
-3
-1
-1
-1
-1
-1
-2
-1
-1
-1
-1
-1
-1
-1
-1
-1
-2
-3
-1
-2
-3
-4
+5
 1
 2
 3
@@ -40649,26 +54239,6 @@
 3
 4
 1
-1
-2
-3
-1
-2
-3
-1
-2
-1
-2
-3
-1
-1
-2
-1
-1
-2
-1
-2
-1
 2
 3
 1
@@ -40677,50 +54247,33 @@
 2
 3
 1
+315903	1a
+315905	1b
+315907	2a
+315909	2b
+315911	3a
+315913	3b
 1
 1
 1
+2
 1
+315920	1a
+315923	1b1
+315925	1b2
 2
 1
 1
 2
 1
 1
-1
-1
-1
 2
 1
-1
-1
-1
-2
-1
-1
-1
-1
-1
-2
 1
 2
 3
 1
-1
-1
-312578	2a
-312580	2b
-312582	3a
-312584	3b
-1
-1
-1
-1
 2
-1
-2
-1
-1
 1
 1
 2
@@ -40729,41 +54282,17 @@
 1
 2
 3
-4
-1
-2
-3
-4
-1
-1
-1
-1
-2
-1
-2
-3
-4
-1
-2
-1
-1
-2
-3
-4
-1
-2
-3
-4
-1
-2
-1
-1
 1
 2
 1
 2
 3
 1
+2
+3
+1
+2
+3
 1
 2
 3
@@ -40777,108 +54306,33 @@
 2
 1
 2
-1
-2
-1
-2
-3
-1
-2
-1
-1
-1
-2
-1
-2
-1
-1
-2
-1
-1
-2
-1
-2
-1
-3
-1
-1
-2
-1
-1
-2
-1
-2
 3
 4
 1
 1
 1
+2
+1
+1
+1
+2
+315983	1a1
+315985	1a2
+315987	1b
+1
+1
 1
 2
 1
+1
+315995	1a
+315997	1b
+315999	2a
+316001	2b
 1
 2
 3
 4
-1
-2
-1
-2
-3
-1
-2
-3
-1
-2
-3
-1
-2
-3
-1
-1
-2
-1
-1
-2
-1
-2
-3
-1
-1
-2
-1
-2
-1
-1
-1
-2
-1
-1
-1
-2
-1
-2
-1
-2
-1
-1
-2
-1
-1
-1
-1
-2
-1
-2
-1
-1
-1
-1
-2
-1
-1
-2
-3
 1
 2
 3
@@ -40891,149 +54345,79 @@
 2
 1
 2
-1
-1
-2
-1
-312769	1a
-312771	1b
-312773	2a
-312775	2b
-3
-312778	1a
-312780	1b
-2
-3
-312784	4a
-312786	4b
-1
-2
-1
-1
-1
-2
 3
 1
 2
-1
-2
-1
-2
-3
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-2
-1
-2
-1
-1
-1
-2
-1
-2
-1
-1
-2
-1
-1
-2
-1
-2
-3
-1
-2
-1
-1
-2
-1
-2
-3
-1
-1
-1
-2
-3
-1
-1
-2
-3
-1
-1
-2
-3
-1
-2
-3
-4
-1
-1
-1
-1
-2
-1
-2
-1
-1
-2
-1
-1
-1
-1
-1
-1
-2
-1
-2
-3
-1
-2
-1
-1
-2
-1
-312882	1a1
-312884	1a2
-312886	1b
-312888	2a
-312890	2b
-1
-1
-1
-312896	1a1
-312898	1a2
-312900	1b
-1
-1
-1
-2
-1
-2
-1
-1
-1
 1
 2
 3
 4
-1
-2
-1
-1
-2
 1
 2
 3
 4
 5
-6
+1
+2
+1
+1
+2
+3
+1
+1
+2
+3
+1
+2
+1
+1
+1
+2
+1
+2
+1
+2
+3
+1
+2
+1
+1
+316057	1a1
+316059	1a2
+316061	1b
+316064	1a1
+316066	1a2
+316068	1b
+1
+1
+2
+3
+1
+2
+3
+4
+1
+2
+3
+4
+1
+1
+316084	2a
+316086	2b
+316088	3a
+316090	3b
+316092	4a
+316094	4b
+316096	5a
+316098	5b
+316100	1a
+316102	1b
+316104	2a
+316106	2b
+3
+4
+1
+2
 1
 2
 3
@@ -41044,47 +54428,6 @@
 1
 2
 1
-2
-1
-2
-3
-1
-2
-3
-4
-1
-1
-2
-1
-1
-1
-1
-1
-1
-2
-1
-1
-1
-1
-1
-2
-1
-2
-3
-4
-1
-2
-3
-4
-1
-1
-2
-1
-1
-1
-1
-2
-3
 1
 2
 3
@@ -41094,147 +54437,88 @@
 4
 1
 2
-1
+3
 1
 2
 3
 1
-312992	2a1
-312994	2a2
-312996	2b
-3
-1
 2
+3
 1
 2
 3
 1
-1
-313007	1a1
-313009	1a2
-313011	1b
-313014	1a1
-313017	1a1
-313019	1a2
-313021	1b
-1
-1
-1
-2
-1
-2
-1
-1
-2
-1
-1
-2
-1
-1
-1
-2
-1
-2
-1
-1
-1
-2
-1
-2
+316142	1a
+316144	1b
+316146	2a
+316148	2b
 3
-4
-1
+316151	4a
+316153	4b
+316155	4c
+316157	5a
+316159	5b
+316161	1a
+316163	1b
 2
-3
+316166	3a
+316168	3b
+316170	4a
+316172	4b
+5
+316175	6a
+316177	6b
+1
+316180	2a
+316182	2b
+316184	3a
+316186	3b
+316188	4a
+316190	4b
+316192	1a
+316194	1b
+316196	2a
+316198	3
+316200	3b
 4
 5
 6
 7
 1
 2
-3
-4
-5
-6
-7
 1
 2
 3
 4
-5
-6
-1
-1
-1
-1
-1
-1
-2
-1
+316212	1a
+316214	1b
+316216	2a
+316218	2b
+316220	3a
+316222	3b
 1
 2
 3
 1
 2
 3
+316230	4a
+316232	4b
 1
 2
 3
 1
+316239	1a1
+316241	1a2
+316243	1a3
+316245	1b
 2
-3
-1
-2
-3
-1
-1
-1
-2
-3
-1
-1
-1
-2
-3
-1
-2
-3
-4
-1
-2
-313108	3
-313110	3a
-1
-1
-1
-1
-1
-1
-2
-1
-1
-1
-1
-1
-1
-1
-1
-1
-2
-3
-1
-1
-2
-1
-2
-1
-1
-1
-1
-1
-1
-1
-2
+316248	1a
+316250	1b
+316252	2a
+316254	2b
+316256	3a
+316258	3b
 1
 2
 1
@@ -41244,41 +54528,10 @@
 5
 1
 2
-1
-2
-1
-1
-1
-2
-1
-2
-1
-1
-1
-2
-1
-1
-2
-1
-1
-1
-1
-2
-1
-1
-2
-1
-2
-1
-1
-2
-1
-1
+3
 1
 2
 3
-1
-1
 1
 1
 2
@@ -41289,24 +54542,29 @@
 1
 2
 3
-1
-1
-2
-3
-313202	1a1
-313204	1a2
-313206	1b
-313209	2a1
-313211	2a2
-313213	2b
-313216	3a1
-313218	3a2
+4
 1
 2
 3
 1
+1
 2
 3
+4
+1
+2
+3
+4
+1
+1
+2
+3
+4
+1
+2
+3
+1
+1
 1
 1
 1
@@ -41318,118 +54576,11 @@
 3
 4
 5
-6
-1
-1
-1
-1
-1
-1
-2
-1
-1
-313248	1a1
-313250	1a2
-313252	1a3
-313254	1b
-1
-2
-3
-1
-313260	1a
-313262	1b
-1
-2
-1
-2
-3
-1
-2
-1
-1
-1
-2
-1
-1
-2
-1
-2
-1
-1
-2
-1
-2
-1
-1
-1
-313288	1a
-313290	1b
-313292	2a
-313294	2b
-313296	3a
-313298	3b
-313300	4a
-313302	4b
-313304	5a
-313306	5b
-313308	1a
-313310	1b
-313312	2a
-313314	2b
-313316	1a
-313318	1b
-313320	1c
-313322	2a
-313324	2b
-1
-2
-1
-2
-1
-1
-1
-2
-1
-1
-1
-1
-1
-1
-1
-1
-2
-1
-2
-1
-1
-1
-1
-313349	1a
-313351	1b
-1
-2
-3
-1
-1
-2
-1
-313360	1a
-313362	1b
-313365	2a1
-313367	2a2
-313369	2b
-1
-1
-1
-2
-313376	1a1
-313378	1a2
-313380	1b
 1
 1
 2
 3
-1
+4
 1
 2
 3
@@ -41443,43 +54594,21 @@
 3
 4
 1
+2
+1
+2
+1
+2
+3
 1
 1
-1
+2
+3
 1
 2
 3
 4
 5
-6
-1
-1
-1
-1
-1
-313414	2a
-313416	2b
-1
-1
-1
-2
-1
-1
-2
-3
-1
-2
-3
-1
-1
-1
-2
-3
-1
-2
-1
-1
-1
 1
 2
 3
@@ -41489,16 +54618,464 @@
 1
 2
 3
+1
+2
+3
+4
+1
+1
+2
+3
+4
+1
+2
+3
+4
+1
+2
+3
+4
+1
+2
+3
+4
+1
+2
+3
+1
+1
+2
+3
+1
+1
+1
+1
+1
+2
+1
+1
+1
+1
+1
+1
+1
+1
+1
+2
+3
+1
+2
+3
+4
+1
+2
+3
+4
+1
+1
+2
+3
+4
+5
+1
+2
+3
+4
+1
+1
+2
+3
+1
+2
+3
+1
+2
+1
+2
+3
+1
+1
+2
+1
+1
+2
+1
+2
+1
+2
+3
+1
+2
+1
+2
+3
+1
+1
+1
+1
+1
+2
+1
+1
+2
+1
+1
+1
+1
+1
+2
+1
+1
+1
+1
+2
+1
+1
+1
+1
+1
+2
+1
+2
+3
+1
+1
+1
+316482	2a
+316484	2b
+316486	3a
+316488	3b
+1
+1
+1
+1
+2
+1
+2
+1
+1
+1
+1
+2
+1
+1
+1
+2
+3
+4
+1
+2
+3
+4
+1
+1
+1
+1
+2
+1
+2
+3
+4
+1
+2
+1
+1
+2
+3
+4
+1
+2
+3
+4
+1
+2
+1
+1
+1
+2
+1
+2
+3
+1
+1
+2
+3
+1
+2
+1
+2
+3
+4
+1
+2
+1
+2
+1
+2
+1
+2
+3
+1
+2
+1
+1
+1
+2
+1
+2
+1
+1
+2
+1
+1
+2
+1
+2
+1
+3
+1
+1
+2
+1
+1
+2
+1
+2
+3
+4
+1
+1
+1
+1
+2
+1
+1
+2
+3
+4
+1
+2
+1
+2
+3
+1
+2
+3
+1
+2
+3
+1
+2
+3
+1
+1
+2
+1
+1
+2
+1
+2
+3
+1
+1
+2
+1
+2
+1
+1
+1
+2
+1
+1
+1
+2
+1
+2
+1
+2
+1
+1
+2
+1
+1
+1
+1
+2
+1
+2
+1
+1
+1
+1
+2
+1
+1
+2
+3
+1
+2
+3
+4
+5
+1
+2
+3
+1
+2
+1
+2
+1
+1
+2
+1
+316673	1a
+316675	1b
+316677	2a
+316679	2b
+3
+316682	1a
+316684	1b
+2
+3
+316688	4a
+316690	4b
+1
+2
+1
+1
+1
+2
+3
+1
+2
+1
+2
+1
+2
+3
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+2
+1
+2
+1
+1
+1
+2
+1
+2
+1
+1
+2
+1
+1
+2
+1
+2
+3
+1
+2
+1
+1
+2
+1
+2
+3
+1
+1
+1
+2
+3
+1
+1
+2
+3
+1
+1
+2
+3
+1
+2
+3
+4
+1
+1
+1
+1
+2
+1
+2
+1
+1
+2
+1
+1
+1
+1
+1
+1
+2
+1
+2
+3
+1
+2
+1
+1
+2
+1
+316786	1a1
+316788	1a2
+316790	1b
+316792	2a
+316794	2b
+1
+1
+1
+316800	1a1
+316802	1a2
+316804	1b
+1
+1
+1
+2
+1
+2
+1
+1
+1
+1
+2
+3
+4
+1
+2
+1
+1
+2
+1
+2
+3
 4
 5
 6
 1
 2
+3
+4
+1
 1
 2
 1
 2
-1
 1
 2
 1
@@ -41509,56 +55086,96 @@
 3
 4
 1
-2
-3
-1
 1
 2
 1
 1
-2
-3
 1
-3
+1
 1
 1
 2
-3
-4
-5
 1
-2
-3
-4
-5
 1
-2
+1
 1
 1
 2
-3
-1
-1
 1
 2
 3
 4
-5
-6
 1
+2
+3
+4
 1
 1
 2
-1
-1
 1
 1
 1
 1
 2
 3
+1
+2
+3
+1
+2
+3
 4
-5
+1
+2
+1
+1
+2
+3
+1
+316896	2a1
+316898	2a2
+316900	2b
+3
+1
+2
+1
+2
+3
+1
+1
+316911	1a1
+316913	1a2
+316915	1b
+316918	1a1
+316921	1a1
+316923	1a2
+316925	1b
+1
+1
+1
+2
+1
+2
+1
+1
+2
+1
+1
+2
+1
+1
+1
+2
+1
+2
+1
+1
+1
+2
+1
+2
+3
+4
 1
 2
 3
@@ -41574,17 +55191,85 @@
 6
 7
 1
+2
+3
+4
+5
+6
 1
+1
+1
+1
+1
+1
+2
+1
+1
+2
+3
+1
+2
+3
+1
+2
+3
+1
+2
+3
+1
+2
+3
+1
+1
+1
+2
+3
+1
+1
+1
+2
+3
 1
 2
 3
 4
-313539	1a1
-313541	1a2
-313543	1b
+1
+2
+317012	3
+317014	3a
+1
+1
+1
+1
+1
+1
+2
+1
+1
+1
+1
+1
+1
+1
+1
 1
 2
 3
+1
+1
+2
+1
+2
+1
+1
+1
+1
+1
+1
+1
+2
+1
+2
 1
 2
 3
@@ -41592,91 +55277,39 @@
 5
 1
 2
-3
-313556	1a
-313558	1b
-313560	2a
-313562	2b
-313564	3a
-313566	3b
-313568	3c
-313570	4a
-313572	4b
-313574	1a
-313576	1b
-313578	2a
-313580	2b
-313582	2c
+1
+2
+1
+1
 1
 2
 1
 2
 1
+1
+1
+2
+1
+1
+2
+1
+1
+1
+1
+2
+1
+1
 2
 1
 2
 1
+1
 2
-3
-1
-1
-1
-1
 1
 1
 1
 2
 3
-4
-1
-1
-1
-2
-3
-1
-2
-3
-1
-1
-1
-1
-2
-1
-2
-1
-1
-1
-1
-1
-1
-1
-2
-3
-1
-2
-1
-2
-1
-1
-1
-1
-1
-1
-2
-3
-1
-313642	1
-313644	1a
-313646	1b
-2
-1
-2
-3
-1
-2
-3
-1
-1
 1
 1
 1
@@ -41688,27 +55321,161 @@
 3
 1
 2
+3
+1
+1
+2
+3
+317106	1a1
+317108	1a2
+317110	1b
+317113	2a1
+317115	2a2
+317117	2b
+317120	3a1
+317122	3a2
+1
+2
+3
+1
+2
+3
+1
 1
 1
 2
 3
 4
-1
-2
-3
-1
-1
-2
-3
-1
-1
-2
-1
 1
 2
 3
 4
 5
+6
+1
+1
+1
+1
+1
+1
+2
+1
+1
+317152	1a1
+317154	1a2
+317156	1a3
+317158	1b
+1
+2
+3
+1
+317164	1a
+317166	1b
+1
+2
+1
+2
+3
+1
+2
+1
+1
+1
+2
+1
+1
+2
+1
+2
+1
+1
+2
+1
+2
+1
+1
+1
+317192	1a
+317194	1b
+317196	2a
+317198	2b
+317200	3a
+317202	3b
+317204	4a
+317206	4b
+317208	5a
+317210	5b
+317212	1a
+317214	1b
+317216	2a
+317218	2b
+317220	1a
+317222	1b
+317224	1c
+317226	2a
+317228	2b
+1
+2
+1
+2
+1
+1
+1
+2
+1
+1
+1
+1
+1
+1
+1
+1
+2
+1
+2
+1
+1
+1
+1
+317253	1a
+317255	1b
+1
+2
+3
+1
+1
+2
+1
+317264	1a
+317266	1b
+317269	2a1
+317271	2a2
+317273	2b
+1
+1
+1
+2
+317280	1a1
+317282	1a2
+317284	1b
+1
+1
+2
+3
+1
+1
+2
+3
+1
+2
+3
+1
+2
+1
+2
+3
+4
+1
 1
 1
 1
@@ -41718,6 +55485,113 @@
 4
 5
 6
+1
+1
+1
+1
+1
+317318	2a
+317320	2b
+1
+1
+1
+2
+1
+1
+2
+3
+1
+2
+3
+1
+1
+1
+2
+3
+1
+2
+1
+1
+1
+1
+2
+3
+4
+5
+6
+1
+2
+3
+4
+5
+6
+1
+2
+1
+2
+1
+2
+1
+1
+2
+1
+2
+3
+1
+2
+3
+4
+1
+2
+3
+1
+1
+2
+1
+1
+2
+3
+1
+3
+1
+1
+2
+3
+4
+5
+1
+2
+3
+4
+5
+1
+2
+1
+1
+2
+3
+1
+1
+1
+2
+3
+4
+5
+6
+1
+1
+1
+2
+1
+1
+1
+1
+1
+1
+2
+3
+4
+5
 1
 2
 3
@@ -41727,6 +55601,148 @@
 7
 1
 2
+3
+4
+5
+6
+7
+1
+1
+1
+2
+3
+4
+317443	1a1
+317445	1a2
+317447	1b
+1
+2
+3
+1
+2
+3
+4
+5
+1
+2
+3
+317460	1a
+317462	1b
+317464	2a
+317466	2b
+317468	3a
+317470	3b
+317472	3c
+317474	4a
+317476	4b
+317478	1a
+317480	1b
+317482	2a
+317484	2b
+317486	2c
+1
+2
+1
+2
+1
+2
+1
+2
+1
+2
+3
+1
+1
+1
+1
+1
+1
+1
+2
+3
+4
+1
+1
+1
+2
+3
+1
+2
+3
+1
+1
+1
+1
+2
+1
+2
+1
+1
+1
+1
+1
+1
+1
+2
+3
+1
+2
+1
+2
+1
+1
+1
+1
+1
+1
+2
+3
+1
+317546	1
+317548	1a
+317550	1b
+2
+1
+2
+3
+1
+2
+3
+1
+1
+1
+1
+1
+1
+2
+1
+1
+2
+3
+1
+2
+1
+1
+2
+3
+4
+1
+2
+3
+1
+1
+2
+3
+1
+1
+2
+1
+1
+2
+3
+4
+5
+1
 1
 1
 1
@@ -41744,6 +55760,23 @@
 7
 1
 2
+1
+1
+1
+2
+3
+4
+5
+6
+1
+2
+3
+4
+5
+6
+7
+1
+2
 3
 4
 5
@@ -41820,9 +55853,9 @@
 1
 1
 1
-313800	2a
-313803	2b1
-313805	2b2
+317704	2a
+317707	2b1
+317709	2b2
 3
 1
 2
@@ -41859,96 +55892,14 @@
 1
 1
 2
-313843	3a
-313845	3b
+317747	3a
+317749	3b
 1
 1
 1
 2
 1
 2
-1
-2
-3
-4
-5
-6
-1
-2
-3
-4
-5
-1
-2
-1
-1
-2
-3
-4
-1
-1
-1
-1
-1
-2
-1
-1
-1
-2
-1
-1
-1
-1
-1
-1
-1
-2
-1
-1
-2
-313892	3a
-313894	3b
-1
-1
-2
-1
-2
-1
-1
-1
-2
-1
-2
-3
-1
-1
-1
-2
-3
-1
-2
-3
-4
-1
-1
-2
-3
-1
-2
-1
-1
-2
-3
-4
-1
-2
-1
-1
-1
-2
-3
-4
-5
 1
 2
 3
@@ -41958,6 +55909,88 @@
 1
 2
 3
+4
+5
+1
+2
+1
+1
+2
+3
+4
+1
+1
+1
+1
+1
+2
+1
+1
+1
+2
+1
+1
+1
+1
+1
+1
+1
+2
+1
+1
+2
+317796	3a
+317798	3b
+1
+1
+2
+1
+2
+1
+1
+1
+2
+1
+2
+3
+1
+1
+1
+2
+3
+1
+2
+3
+4
+1
+1
+2
+3
+1
+2
+1
+1
+2
+3
+4
+1
+2
+1
+1
+1
+2
+3
+4
+5
+1
+2
+3
+4
+5
+6
+1
+2
+3
 1
 1
 1
@@ -41989,10 +56022,10 @@
 1
 2
 1
-313977	2a
-313979	2b
-313981	3a
-313983	3b
+317881	2a
+317883	2b
+317885	3a
+317887	3b
 1
 2
 3
@@ -42127,24 +56160,24 @@
 1
 1
 2
-314120	1a1
-314122	1a2
-314124	1b
-314127	2a1
-314129	2a2
-314131	2b
-314134	3a1
-314136	3a2
-314138	3b
-314141	1a1
-314143	1a2
-314145	1b
-314148	2a1
-314150	2a2
-314152	2b
-314155	3a1
-314157	3a2
-314159	3b
+318024	1a1
+318026	1a2
+318028	1b
+318031	2a1
+318033	2a2
+318035	2b
+318038	3a1
+318040	3a2
+318042	3b
+318045	1a1
+318047	1a2
+318049	1b
+318052	2a1
+318054	2a2
+318056	2b
+318059	3a1
+318061	3a2
+318063	3b
 1
 2
 3
@@ -42155,14 +56188,14 @@
 4
 1
 2
-314171	1a
-314173	1b
-314175	1c
-314177	2a
-314179	2b
-314181	2c
-314183	3a
-314185	3b
+318075	1a
+318077	1b
+318079	1c
+318081	2a
+318083	2b
+318085	2c
+318087	3a
+318089	3b
 1
 2
 3

@@ -10,9 +10,9 @@
 @valueType=str
 @version=0.1
 @writtenBy=Text-Fabric
-@dateWritten=2018-02-21T21:15:58Z
+@dateWritten=2018-02-23T12:13:03Z
 
-153354	obverse
+157258	obverse
 obverse
 obverse
 reverse
@@ -9454,7 +9454,7 @@ obverse
 reverse
 obverse
 obverse
-192635	uncertain
+196539	uncertain
 uncertain
 uncertain
 uncertain

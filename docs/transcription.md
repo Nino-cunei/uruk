@@ -61,18 +61,22 @@ Examples of a repeats (the first three are numerals):
     3(N57)#
     1(N24')
     4(LAGAB~a)
+    N(N01)|#
 
-We store the number before the brackets in a feature called *repeat*. Within the
-brackets you find the *grapheme*, possibly augmented with *prime* and *variants*
-and *modifiers*.
+We store the number before the brackets in a feature called *repeat*. If the
+number is `N`, it means that a number is missing. In this case we set the repeat
+to `-1`.
+
+Within the brackets you find the *grapheme*, possibly augmented with *prime* and
+*variants* and *modifiers*.
 
 Modifiers may also occur after the closing bracket of a repeat.
 
 After the closing bracket the repeated grapheme may be augmented with *flags*.
 
-A modifier is generally stored in the feature *modifier*.
-But a modifier within the brackets of a repeat is stored in the feature *modifierInner*.
-In this way you can distinguish between the two cases later on.
+A modifier is generally stored in the feature *modifier*. But a modifier within
+the brackets of a repeat is stored in the feature *modifierInner*. In this way
+you can distinguish between the two cases later on.
 
 ### Ordinary signs ###
 
@@ -118,8 +122,8 @@ might be a completely different grapheme.
 Note that a variant of a numeral is written within the brackets.
 
 We collect the variant in the feature *variant=letter* or *variantOuter=letter*.
-If the variant is directly on a sign, we use *variant*, if it is on a
-complex quad, we use *variantOuter*.
+If the variant is directly on a sign, we use *variant*, if it is on a complex
+quad, we use *variantOuter*.
 
 If there are more, we collect the values in a comma separated list.
 
@@ -152,7 +156,7 @@ We collect the modifier in the sign feature *modifier=letter*.
 
 If there are more, we collect the values in a comma separated list.
 
-##### Order of variants and modifiers
+##### Order of variants and modifiers #####
 
 Variants and modifiers may occur both, and in both orders.
 
@@ -161,8 +165,8 @@ Examples (both in the same tablet P257531:
     2.b. 2(N05) 2(N42~a) , HI@g~a
     1.a. 2(N01) , U4 SZEN~c@t
 
-We consider the order *variant-modifier* as the default.
-The other order is marked as *modifierFirst=1*.
+We consider the order *variant-modifier* as the default. The other order is
+marked as *modifierFirst=1*.
 
 #### Flags ####
 
@@ -210,8 +214,8 @@ The full form indicates that the sign has been corrected (like in Hebrew
 The sign between the brackets is what is written (ketiv), the sign before the
 `!` is the corrected form (qere).
 
-Collected as *written=written*.
-In this case, we do not set the *remarkable* feature to 1.
+Collected as *written=written*. In this case, we do not set the *remarkable*
+feature to 1.
 
 Example:
 
@@ -298,7 +302,9 @@ There is no space between the operators and the sub-*quads*.
 
 We represent the structure of quads and subquads by means of edges:
 
-*   *sub*: from quad to any *quad* or *sign* embedded in it;
+*   *sub*: from quad to any *quad* embedded in it; there is no *sub* edge between
+    a deepest quad and the sign in it; in order to get at the sign in such a quad,
+    use `L.d()`;
 *   *op*: from sign or sub-*quad* to right sibling;
 
 For *op* we have:
@@ -536,6 +542,14 @@ A node of type *column* corresponds to the material after the *column* specifier
 and before the next next *column* specifier or the end of a *face* or *tablet*.
 
 **This node type is section level 2.**
+
+The number of a column is stored in the feature *number*. However, this number
+is not suitable as a section nunmber, because a tablet may have multiple faces
+(which we do not take as a section level), and each of the faces restart the
+column numbering.
+
+We add a feature *fullNumber* to columns, filled with the type of the face (see
+below) and the column number, separated by a `:`.
 
 There might be a prime `'` after the number, but before the last `.` If present,
 it indicates that the number does not count objects on the tablet in its

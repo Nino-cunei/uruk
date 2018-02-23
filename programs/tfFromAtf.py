@@ -16,14 +16,14 @@ HELP = '''tfFromAtf.py -FLAG
 where FLAG is one of:
 
 -p: parse only, no TF generation
--v: validate: parsing and TF generation
+-v: validate: parsing and TF generation and loading
+    but the TF is put in a temp directory
+-V: validate: parsing and TF generation but not loading
     but the TF is put in a temp directory
 -x: suppress printing showcases for debug
 -t: load and precompute TF (in production location)
 -T: load and precompute TF (in temp location)
-
-If one of the flags is given, debug generation
-is tur
+-h: print this help and quit
 '''
 
 doParse = True
@@ -39,6 +39,9 @@ if FLAG:
         doLoad = False
     elif FLAG == '-v':
         tfInTemp = True
+    elif FLAG == '-V':
+        tfInTemp = True
+        doLoad = False
     elif FLAG == '-x':
         debug = False
     elif FLAG == '-t':
@@ -49,8 +52,10 @@ if FLAG:
         doTf = False
         tfInTemp = True
     else:
-        print(f'Unknown flag "{FLAG}"')
+        if FLAG != '-h':
+            print(f'Unknown flag "{FLAG}"')
         print(HELP)
+        sys.exit()
 
 REPO = 'Nino-cunei'
 ORIGIN = 'cdli'
@@ -80,10 +85,16 @@ SHOWCASES = set(
     P001687
     P002090
     P002113
+    P002202
+    P002852
     P004639
+    P004747
+    P005112
     P006275
     P006284
+    P006326
     P006427
+    P006428
     P006437
     P252175
     P252184
@@ -133,7 +144,8 @@ specificMetaData = dict(
     fragment='level between tablet and face',
     fullNumber=(
         'hierarchical number given to'
-        'terminal cases in transcription lines'
+        'terminal cases in transcription lines;'
+        'also the combination of face type and column number on columns'
     ),
     grapheme='name of a grapheme (glyph)',
     identifier='additional information pertaining to the name of a face',
@@ -161,11 +173,11 @@ specificMetaData = dict(
     remarkable='corresponds to ! flag in transcription ',
     repeat=(
         'number indicating the number of repeats of a grapheme,'
-        'especially in numerals'
+        'especially in numerals; -1 comes from repeat N in transcription'
     ),
     srcLn='transcribed line',
     srcLnNum='line number in transcription file',
-    sub='connects line or case with subcases, or quad with sub-quads or signs',
+    sub='connects line or case with sub-cases, or quad with sub-quads',
     text='text of comment nodes',
     type='type of a face',
     uncertain='corresponds to ?-flag in transcription',
@@ -187,7 +199,7 @@ numFeatures = set(
 
 oText = {
     'levels': 'tablet,face,column,line,case,cluster,quad,comment,sign',
-    'sectionFeatures': 'catalogId,number,number',
+    'sectionFeatures': 'catalogId,fullNumber,number',
     'sectionTypes': 'tablet,column,line',
     'fmt:text-orig-full': '{grapheme}',
     'fmt:text-trans-plain': '{srcLn}\\n',
@@ -232,6 +244,11 @@ OPERATORS = set('''
     +
 '''.strip().split())
 
+VARMOD = set('''
+    ~
+    @
+'''.strip().split())
+
 MODIFIERS = set(
     '''
     c
@@ -270,7 +287,7 @@ linePat = re.compile("([0-9a-zA-Z.'-]+)\s*(.*)")
 numPartsPat = re.compile('([0-9-]+|[a-zA-Z]+)')
 
 stripCommas = re.compile('\s*,\s*')
-repeatEscapePat = re.compile("([0-9]+)\(([A-Za-z0-9@'~]+)\)")
+repeatEscapePat = re.compile("([0-9N]+)\(([A-Za-z0-9@'~]+)\)")
 repeatPat = re.compile('^«([^=]*)=([^»]*)»$')
 
 writtenEscapePat = re.compile('!\(([^)]*)\)')
@@ -466,6 +483,7 @@ def parseCorpora():
                             prevNum = None
                         curColumn = {
                             'number': colNum,
+                            'fullNumber': f'{curFace["type"]}:{colNum}',
                             'lines': [],
                             'srcLn': line,
                             'srcLnNum': ln,
@@ -531,6 +549,7 @@ def parseCorpora():
                 # )
                 curColumn = {
                     'number': '0',
+                    'fullNumber': f'{curFace["type"]}:0',
                     'lines': [],
                     'srcLn': line,
                     'srcLnNum': ln,
@@ -590,7 +609,10 @@ def parseCorpora():
 
 
 def repeatEscapeRepl(match):
-    return f'«{match.group(1)}={match.group(2)}»'
+    repeat = match.group(1)
+    if repeat == 'N':
+        repeat = -1
+    return f'«{repeat}={match.group(2)}»'
 
 
 def writtenEscapeRepl(match):
@@ -627,13 +649,13 @@ def parseLine(material, p):
     material = writtenEscapePat.sub(writtenEscapeRepl, material)
     # translate ... to …
     material = material.replace('...', '…')
-    quads = material.split()
+    outerQuads = material.split()
     startPoints = {}
     clusters = []
-    newQuads = []
-    for (q, quad) in enumerate(quads):
+    outerQuadStructs = []
+    for (q, outerQuad) in enumerate(outerQuads):
         stop = False
-        rest = quad
+        rest = outerQuad
 
         while not stop:
             fq = rest[0]
@@ -672,11 +694,11 @@ def parseLine(material, p):
                 stop = True
         quadInfo = {}
         if rest.startswith('|'):
-            (rest, quadInfo) = getPieceInfo(quad, rest, p, outer=True)
-        newQuad = parseQuad(rest, p)
+            (rest, quadInfo) = getPieceInfo(outerQuad, rest, p, outer=True)
+        outerQuadStruct = parseOuterQuad(rest, p)
         if quadInfo:
-            newQuad.setdefault('info', {}).update(quadInfo)
-        newQuads.append(newQuad)
+            outerQuadStruct.setdefault('info', {}).update(quadInfo)
+        outerQuadStructs.append(outerQuadStruct)
     if startPoints:
         error(
             'cluster: missing closing bracket(s)',
@@ -684,7 +706,7 @@ def parseLine(material, p):
             p,
         )
 
-    result = {'quads': newQuads}
+    result = {'quads': outerQuadStructs}
     if clusters:
         result['clusters'] = clusters
     return result
@@ -774,7 +796,7 @@ def getPieceInfo(quad, piece, p, inRepeat=False, outer=None, empty_ok=False):
     return (base, pieceInfo)
 
 
-def parseQuad(quad, p):
+def parseOuterQuad(quad, p):
     base = quad
     if base != '':
         if base[0] == '|':
@@ -795,8 +817,28 @@ def parseQuad(quad, p):
             if base[-1] == '|':
                 diag('quad: missing start "|"', f'"{base}" in "{quad}"', p)
                 base = base[0:-1]
-    struct = quadStructure(base, p)
-    return struct
+
+    (result, restPos) = parseBrackets(base, 0, False, p)
+    if restPos < len(base):
+        pb = base[0:restPos]
+        pa = base[restPos:]
+        error('quad: trailing characters', f'"{pb}▲{pa}"', p)
+    result = associateVariants(result)
+    return transformQuad(result, p)
+
+
+def associateVariants(quads):
+    newQuads = []
+    for quad in quads:
+        if type(quad) is str:
+            if quad[0] in VARMOD:
+                prevNewQuad = newQuads[-1]
+                newQuads[-1] = [prevNewQuad, quad]
+            else:
+                newQuads.append(quad)
+        else:
+            newQuads.append(associateVariants(quad))
+    return newQuads
 
 
 def parseTerminal(string):
@@ -853,17 +895,9 @@ def parseBrackets(string, fromPos, wantClose, p):
     return (result, fromPos)
 
 
-def quadStructure(string, p):
-    (result, restPos) = parseBrackets(string, 0, False, p)
-    if restPos < len(string):
-        pb = string[0:restPos]
-        pa = string[restPos:]
-        error('quad: trailing characters', f'"{pb}▲{pa}"', p)
-    return transformQuad(result, p)
-
-
 def transformQuad(quads, p):
     dest = []
+    lastOp = None
     for quad in quads:
         if type(quad) is str:
             ls = len(quad)
@@ -872,8 +906,12 @@ def transformQuad(quads, p):
             signs = operatorPat.split(quad)
             if signs[0] == '':
                 signs = signs[1:]
+                operator = quad[k] if k < ls else ''
+                k += 1
+                dest[-1]['op'] = operator
             if signs[-1] == '':
                 signs = signs[0:-1]
+                lastOp = quad[-1]
             for (g, sign) in enumerate(signs):
                 (base, info) = getPieceInfo(
                     quad,
@@ -888,7 +926,10 @@ def transformQuad(quads, p):
                 rInfo = {}
                 if g == 0 and base == '':
                     if info:
-                        dest[-1].setdefault('info', {}).update(info)
+                        target = dest[-1]
+                        # if 'quads' in target:
+                        #    target = target['quads'][-1]
+                        target.setdefault('info', {}).update(info)
                 else:
                     parts = repeatPat.findall(base)
                     signData = {}
@@ -911,15 +952,25 @@ def transformQuad(quads, p):
                     if operator != '':
                         signData['op'] = operator
                     signDatas.append(signData)
+            if lastOp:
+                if len(signDatas) != 0:
+                    signDatas[-1]['op'] = lastOp
 
             if len(signDatas):
-                if len(signDatas) == 1:
-                    dest.append(signDatas[0])
-                else:
-                    dest.append({'quads': signDatas})
+                thisSignData = (
+                    signDatas[0] if len(signDatas) == 1 and not lastOp else {
+                        'quads': signDatas
+                    }
+                )
+                dest.append(thisSignData)
         else:
             subQuad = transformQuad(quad, p)
-            dest.append(subQuad)
+            target = dest
+            if len(target):
+                lastDest = target[-1]
+                if 'quads' in lastDest and 'op' in lastDest['quads'][-1]:
+                    target = lastDest['quads']
+            target.append(subQuad)
     result = (dest[0] if len(dest) == 1 else {'quads': dest})
     return result
 
@@ -1145,6 +1196,7 @@ def makeTf(tablets):
         for ft in '''
             number
             prime
+            fullNumber
             badNumbering
             srcLn
             srcLnNum
@@ -1263,19 +1315,22 @@ def makeTf(tablets):
         return len(quads)
 
     def doQuad(q, quad, prevQuad, prevType, prevNode, parentType, parentNode):
-        nodeType = 'quad'
-        cur[nodeType] += 1
-        curNode = cur[nodeType]
+        if 'grapheme' in quad:
+            (nodeType, curNode) = doSign(quad)
+        else:
+            nodeType = 'quad'
+            cur[nodeType] += 1
+            curNode = cur[nodeType]
         if parentType is not None:
             edgeFeatures['sub'][(parentType,
                                  parentNode)].add((nodeType, curNode))
-        if q > 1:
+        if q > 0:
             op = prevQuad.get('op', None)
             if op is not None:
                 edgeFeaturesV['op'][(prevType, prevNode)][(nodeType,
                                                            curNode)] = op
-        context.append((nodeType, curNode))
         if 'quads' in quad:
+            context.append((nodeType, curNode))
             doInfo(quad, curNode, nodeType)
             (pQuad, pType, pNode) = (None, None, None)
             for (iq, iquad) in enumerate(quad['quads']):
@@ -1283,9 +1338,7 @@ def makeTf(tablets):
                     iq, iquad, pQuad, pType, pNode, nodeType, curNode
                 )
                 pQuad = iquad
-        if 'grapheme' in quad:
-            doSign(quad)
-        context.pop()
+            context.pop()
         return (nodeType, curNode)
 
     def doSign(sign):
@@ -1301,6 +1354,7 @@ def makeTf(tablets):
         doInfo(sign, curSlot, nodeType)
         for (nt, curNode) in context:
             oSlots[(nt, curNode)].add(curSlot)
+        return (nodeType, curSlot)
 
     def doEmptySign():
         doSign({'grapheme': ''})
@@ -1411,6 +1465,8 @@ def makeTf(tablets):
         )['valueType'] = 'int' if ft in numFeatures else 'str'
         if ft in specificMetaData:
             metaData[ft]['description'] = specificMetaData[ft]
+    for ft in edgeFeaturesV:
+        metaData[ft]['edgeValues'] = True
 
     print(f'Remove existing TF directory')
     rmtree(TF_DIR)
