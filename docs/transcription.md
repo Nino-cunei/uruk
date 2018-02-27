@@ -805,7 +805,7 @@ We also make a feature **identifier**, which contains the identifier if the
 If there are columns outside a *face*, we act as if we have seen a `@noface`,
 i.e. we insert a *face* with the name `noface`.
 
-### fragment ###
+### Fragment ###
 
 There is another subdivision, very occasionally:
 
