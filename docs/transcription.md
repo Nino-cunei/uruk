@@ -55,7 +55,7 @@ feature | values | in ATF | description
 **damage** | `0` `1` | `\|(SZAxHI@g~a)~b\|#` | indicates the presence of the *damage* flag `#`
 **modifier** | `n` `g` `t` | `E2~bx1(N57)@t` | a modifier `@` of a (sub)-[*quad*](#quad) as a whole
 **remarkable** | `1` `0` | no examples | indicates the presence of the *remarkable* flag `!`
-**uncertain** | `1` `0` | `|NINDA2xAN|?` | indicates the presence of the *uncertain* flag `?`
+**uncertain** | `1` `0` | `\|NINDA2xAN\|?` | indicates the presence of the *uncertain* flag `?`
 **variantOuter** | `a` | `(U8xTAR)~b` | a variant `~` of a(sub)-[*quad*](#quad)
 **written** |  | no examples | indicates the presence of a flag with a correction `!(`*grapheme*`)`
 
