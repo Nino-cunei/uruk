@@ -38,6 +38,12 @@ Status
 
 This is **work in progress!**
 
+*   2018-02-27 Work on collation methods has started in the 
+    [collation](tutorial/collation.ipynb) notebook.
+*   2018-02-26 The tutorial is getting in shape. It is a full tour around the TF-API
+    and most traits of the data in the Uruk corpus.
+*   2018-02-23 The TF data has been rigorously checked. All aspects of the encoding
+    into ATF can be reproduced exactly from the TF source.
 *   2018-02-14 Text-Fabric data generated, but not throughly tested. A very basic
     [tutorial](tutorial/start.ipynb)
     has been written.
