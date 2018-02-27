@@ -85,7 +85,7 @@ numbered with a hierarchical number.
 
 feature | values | in ATF | description
 ------- | ------ | ------ | -----------
-**crossref** | `Q000026.007` | `>>Q000026 007` crossreference to *tablet*.*line* in same or other corpus 
+**crossref** | `Q000026.007` | `>>Q000026 007` crossreference to *tablet*.*line* in same or other corpus | 
 **fullNumber** | `1` `1a` `1b1` | `1.` `1.a.` `1.b1.` | hierarchical number of a [*case*](#case); present on each transcription [*line*](#line) with text material
 **number** | `a` `1` |  | relative number of a [*case*](#case) within its containing case or lin column; see also **fullNumber**
 **origNumber** | `1` |  | original number of a [*case*](#case) if there were conversion issues; see also **badNumbering**
@@ -103,8 +103,8 @@ Subdivision of a containing [*column*](#column) or [*face*](#face). Lines maybe
 divided in [*cases*](#case); if there is no subdivision. There is a single
 [*case*](#case) as big as the line.
 
-feature | values | in ATF | description | 
-------- | ------ | ------ | ----------- | ---
+feature | values | in ATF | description
+------- | ------ | ------ | -----------
 **number** | `1` |  | relative number of a [*line*](#line) within its containing column; see also **fullNumber**.
 
 [*comment*](#comment)
