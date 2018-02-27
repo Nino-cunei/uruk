@@ -17,6 +17,47 @@ Nodes and edges can be annotated with supplemental information. Text-Fabric
 support 3 section levels. You may point to three types of nodes and declare them
 to be sections of level 1, 2 and 3.
 
+Reference table of features
+===========================
+
+*(Keep this under your pillow)*
+
+Node features
+-------------
+
+Feature | Node type | values | description
+---|---|---|---
+badNumbering | column | `1` `2` | whether there are issues with the numbering of lines and cases in the column
+catalogId | tablet | `P005381` | the identification of a tablet
+collation | sign quad | `0` `1` | indicates the presence of the *collation* flag `*` (not in this corpus)
+crossref | case | `Q000026.007` | crossreference to tablet.line in same or other corpus, in ATF: `>>Q000026 007 `
+damage | sign quad | `0` `1` | indicates the presence of the *damage* flag `#`, in ATF: `IDIGNA#` `|(SZAxHI@g~a)~b|#`
+fragment | face | `a` `b` | fragment of the tablet the face is on, in ATF: `@fragment a` (very rare in the Uruk corpus)
+fullNumber
+grapheme | sign | `N14` `GISZ` |the name of a sign (excluding repeats and augments)
+repeat | sign | `7` | marks repetition of a grapheme, in ATF: `4(N01)` (the number before the brackets) 
+modifier | sign quad | `n` `g` | a modifier of a grapheme or (sub)-quad, in ATF: `@n` `@g`
+modifierFirst | sign quad | `0` `1` | whether the modifier comes before the variant or not
+modifierInner | sign | `n` `g` | a modifier that occurs inside a *repeat*, in ATF: `7(N34@f)`
+prime    | sign | `0` `1`      | whether a sign has a prime `'`
+uncertain | sign quad | `0` `1` | indicates the presence of the *uncertain* flag `?`, in ATF: `SZITA~a1#?` `A2#?`
+variant  | sign | `a` `b` | an allograph of a grapheme, in ATF: `~a` `~b`
+variantOuter  | quad | `a` `b` | an allograph of a(sub)-quad, in ATF: `~a` `~b`
+remarkable | sign quad | `0` `1` | indicates the presence of the *remarkable* flag `!`, in ATF: `ABGAL!`
+written | sign quad | `KASKAL` | indicates the presence of a flag with a correction `!(`*grapheme*`)`, in ATF: ` APIN!(KASKAL)` `URU~a1!(GURUSZ~a)?`
+
+**in progress**
+
+Edge features
+--------------
+
+Feature | from | to | values | description
+---|---|---|---|---
+comments | comment | tablet face column line case | none | links a "comment" line to the node it is a comment to. Comments are metadata lines (`#`), object descriptions (`@object`) and rulings (`$`) 
+
+**in progress**
+
+
 Slots and node types
 ====================
 
@@ -49,7 +90,6 @@ Graphemes may be *augmented* with
 *   variants
 *   flags
 *   modifiers
-*   modifiersOuter
 
 Graphemes may be repeated. Numerals are repeated quite often.
 
@@ -68,7 +108,7 @@ number is `N`, it means that a number is missing. In this case we set the repeat
 to `-1`.
 
 Within the brackets you find the *grapheme*, possibly augmented with *prime* and
-*variants* and *modifiers*.
+*variant* and *modifier*.
 
 Modifiers may also occur after the closing bracket of a repeat.
 
