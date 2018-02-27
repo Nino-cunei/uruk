@@ -1,14 +1,18 @@
-About
-=====
+Feature documentation
+=====================
 
-We describe how we model a few corpora of tablet transcriptions into
-[Text-Fabric](https://github.com/Dans-labs/text-fabric/wiki) format.
+Here you find a description of the transcriptions of the Uruk corpora, the
+Text-Fabric model in general, and the node types, features and edges for the
+Uruk corpora in particular.
 
-More about the transcription of tablets can be found on the
-[ORACC site](http://oracc.museum.upenn.edu/doc/help/editinginatf/primer/inlinetutorial/index.html).
+Conversion from ATF to TF
+-------------------------
 
-We mention the concepts behind the transcriptions and how they translate to the
-Text-Fabric model.
+Below is a description of tablet transcriptions in
+[ATF](http://oracc.museum.upenn.edu/doc/help/editinginatf/primer/inlinetutorial/index.html)
+and an account how we transform them into
+[Text-Fabric](https://github.com/Dans-labs/text-fabric/wiki) format by means of
+[tfFromAtf.py](https://github.com/Dans-labs/Nino-cunei/blob/master/programs/tfFromAtf.py).
 
 The Text-Fabric model views the text as a series of atomic units, called
 *slots*. In this corpus [*signs*](#sign) are the slots.
@@ -192,20 +196,20 @@ feature | values | in ATF | description
 **srcLn** |  |  | the literal text in the transcription at the start of the object; see [source data](#source-data)
 **srcLnNum** |  |  | the line number of the transcription line at the start of the object; see [source data](#source-data)
 
-Slots and node types
-====================
-
-We discuss the node types we are going to construct. A node type corresponds to
-a textual object. Some node types will be marked as a section level.
-
 Source data
------------
+===========
 
 All nodes that correspond directly to a line in the corpus, also get features by
 which you can retrieve the original transcription:
 
-*   *srcLn* the literal contents of the line in the source
-*   *srcLnNum* the line number of the corresponding line in the source
+*   **srcLn** the literal contents of the line in the source;
+*   **srcLnNum** the line number of the corresponding line in the source.
+
+Slots
+=====
+
+We discuss the node types we are going to construct. A node type corresponds to
+a textual object. Some node types will be marked as a section level.
 
 Sign
 ----
@@ -404,6 +408,9 @@ Note that flags on a numeral are written within the brackets.
 There may be multiple flags:
 
     1.  1(N48) 7(N34) 3(N14) , BARA2~a#
+
+The other nodes
+===============
 
 Quad
 ----
@@ -853,8 +860,8 @@ missing, we insert a special [*sign*](#sign). This is a sign with **grapheme** =
 `''`, the empty string.
 
 Not that quite a few of the empty [*signs*](#sign) we thus create, are for
-[*comments*](#comment). These are the only [*signs*](#sign) that do not occur within
-[*quads*](#quad).
+[*comments*](#comment). These are the only [*signs*](#sign) that do not occur
+within [*quads*](#quad).
 
 Warning
 =======
