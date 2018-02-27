@@ -22,47 +22,68 @@ Reference table of features
 
 *(Keep this under your pillow)*
 
+Node types
+----------
+
+Node type | description
+--------- | -----------
+[*sign*](#sign) | basic unit containing a single `grapheme` and zero or more *augments*
+[*quad*](#quad) | composite of *signs*, the composite itself may be augmented
+[*cluster*](#cluster) | grouped sequence of *quads* and *signs*; there asre different types of these bracketings; they may be nested
+[*case*](#case) | subdivision of a containing *line* or *case*; the lowest level *cases* contain sequences of *quads* and *signs*; *cases* are numbered with a hierarchical number
+[*line*](#line) | subdivision of a containing *column* or *face*; *lines* maybe divided in *cases*; if there is no subdivision, there is a single *case* as big as the *line*;
+[*comment*](#comment) | metadata (`#`), object information (`@object`) or ruling (`$`), targeted to *tablets*, *faces*, *columns*, *lines* or *cases*
+[*column*](#column) | primary division of a *face*; *columns* are divided into *lines*; *columns* are numbered
+[*face*](#face) | one of the sides of a *tablet*; *faces* have a type: obverse or reverse (there are a few other types too)
+[*tablet*](#tablet) | a complete *tablet*, identified by its *catalogId* such as P005381
+
 Node features
 -------------
 
-Feature | Node type | values | description
----|---|---|---
-badNumbering | column | `1` `2` | whether there are issues with the numbering of lines and cases in the column
-catalogId | tablet | `P005381` | the identification of a tablet
-collation | sign quad | `0` `1` | indicates the presence of the *collation* flag `*` (not in this corpus)
-crossref | case | `Q000026.007` | crossreference to tablet.line in same or other corpus, in ATF: `>>Q000026 007 `
-damage | sign quad | `0` `1` | indicates the presence of the *damage* flag `#`, in ATF: `IDIGNA#` `|(SZAxHI@g~a)~b|#`
-fragment | face | `a` `b` | fragment of the tablet the face is on, in ATF: `@fragment a` (very rare in the Uruk corpus)
-fullNumber
-grapheme | sign | `N14` `GISZ` |the name of a sign (excluding repeats and augments)
-repeat | sign | `7` | marks repetition of a grapheme, in ATF: `4(N01)` (the number before the brackets) 
-modifier | sign quad | `n` `g` | a modifier of a grapheme or (sub)-quad, in ATF: `@n` `@g`
-modifierFirst | sign quad | `0` `1` | whether the modifier comes before the variant or not
-modifierInner | sign | `n` `g` | a modifier that occurs inside a *repeat*, in ATF: `7(N34@f)`
-prime    | sign | `0` `1`      | whether a sign has a prime `'`
-uncertain | sign quad | `0` `1` | indicates the presence of the *uncertain* flag `?`, in ATF: `SZITA~a1#?` `A2#?`
-variant  | sign | `a` `b` | an allograph of a grapheme, in ATF: `~a` `~b`
-variantOuter  | quad | `a` `b` | an allograph of a(sub)-quad, in ATF: `~a` `~b`
-remarkable | sign quad | `0` `1` | indicates the presence of the *remarkable* flag `!`, in ATF: `ABGAL!`
-written | sign quad | `KASKAL` | indicates the presence of a flag with a correction `!(`*grapheme*`)`, in ATF: ` APIN!(KASKAL)` `URU~a1!(GURUSZ~a)?`
+Feature | Node type | values | in ATF | description
+------- | --------- | ------ | ------ | -----------
+[badNumbering](#column) | *column* | `1` `2` |  | whether there are issues with the numbering of *lines* and *cases* in the *column*
+[catalogId](#tablet) | *tablet* | `P005381` | `&P005381` | the identification of a *tablet*
+[collation](#sign) | *sign* *quad* | `0` `1` | `*` | indicates the presence of the *collation* flag `*` (not in this corpus)
+[crossref](#case) | *case* | `Q000026.007` | `>>Q000026 007` crossreference to *tablet*.*line* in same or other corpus | 
+[damage](#sign) | *sign* *quad* | `0` `1` | `IDIGNA#` `|(SZAxHI@g~a)~b|#` | indicates the presence of the *damage* flag `#`
+[fragment](#face) | *face* | `a` `b` | `@fragment a` | fragment of the *tablet* the *face* is on (very rare in the Uruk corpus)
+[fullNumber](#case) | *case* | `1` `1a` `1b1` | `1.` `1.a.` `1.b1.` | hierarchical number of a *case*; present on each transcription *line* with text material
+[grapheme](#sign) | *sign* | `N14` `GISZ` | `N14` `GISZ` | the name of a *sign* (excluding repeats and augments)
+[identifier](#face) | *face* | `a` `X` | `@surface a` `@surface X` | addition of to the *face* identifier
+[repeat](#sign) | *sign* | `4` | `4(N01)` | marks repetition of a grapheme
+[modifier](#sign) | *sign* *quad* | `n` `g` `t` | `GUM@n~b` `KUR@g~a` `E2~bx1(N57)@t` | a modifier `@` of a grapheme or (sub)-*quad*
+[modifierFirst](#sign) | *sign* *quad* | `1` `0` | `URUDU@g~c` resp. `AB~a@g` | whether the modifier `@` comes before the variant `~` or not
+[modifierInner](#sign) | *sign* | `f` | `7(N34@f)` | a modifier `@` that occurs inside a *repeat*
+[prime](#sign) | *sign* *column* *case* | `1` `0` | `1(N24')` `@column 1'` `1.c'. N? , X` | whether a *sign* or number has a prime `'`
+[srcLn](#source-data) | *tablet* *face* *column* *case* *comment* |  | the literal text in the transcription at the start of the object | 
+[srcLnNum](#source-data) | *tablet* *face* *column* *case* *comment* |  | the line number of the transcription line at the start of the object | 
+[uncertain](#sign) | *sign* *quad* | `1` `0` | `SZITA~a1#?` `A2#?` | indicates the presence of the *uncertain* flag `?`
+[variant](#sign) | *sign* | `a` `b` | `APIN~a` `SIG2~a1` | a variant `~` aka allograph of a grapheme
+[variantOuter](#quad) | *quad* | `a` | `(U8xTAR)~b` | a variant `~` of a(sub)-*quad*
+[remarkable](#sign) | *sign* *quad* | `1` `0` | `ABGAL!` | indicates the presence of the *remarkable* flag `!`
+[type](#face) | *face* | `a` `X` | `@surface a` `@surface X` | addition of to the *face* identifier
+[written](#sign) | *sign* *quad* | `KASKAL` | `APIN!(KASKAL)` `URU~a1!(GURUSZ~a)?` | indicates the presence of a flag with a correction `!(`*grapheme*`)`
 
 **in progress**
 
 Edge features
---------------
+-------------
 
 Feature | from | to | values | description
----|---|---|---|---
-comments | comment | tablet face column line case | none | links a "comment" line to the node it is a comment to. Comments are metadata lines (`#`), object descriptions (`@object`) and rulings (`$`) 
+------- | ---- | --- | ------ | -----------
+[comments](#comment) | *comment* | *tablet* *face* *column* *line* *case* | none | links a *comment* to the node it is a comment to
 
 **in progress**
-
 
 Slots and node types
 ====================
 
 We discuss the node types we are going to construct. A node type corresponds to
 a textual object. Some node types will be marked as a section level.
+
+Source data
+-----------
 
 All nodes that correspond directly to a line in the corpus, also get features by
 which you can retrieve the original transcription:
@@ -537,10 +558,10 @@ anchor them to the text.
 The type of comment is stored in the feature *type*:
 
 transcription | *type* feature | description
----|---|---
+------------- | -------------- | -----------
 `$` | `ruling` | a rule like marking on the tablet
 `#` | `meta` | metadata
-`@object` | `object` | object description 
+`@object` | `object` | object description
 
 The line number and the text on the line are collected in features *srcLnNum*
 and *srcLn* respectively.
