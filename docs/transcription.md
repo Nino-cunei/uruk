@@ -161,13 +161,13 @@ feature | values | in ATF | description
 The main entity of which the corpus is composed, representing the transcription
 of a complete clay tablet.
 
-feature | values | in ATF | description | 
-------- | ------ | ------ | ----------- | ---
-**catalogId** | [*tablet*](#tablet) | `P005381` | `&P005381` | the identification of a [*tablet*](#tablet)
-**name** | `MSVO 3, 70` | `&P005381 = MSVO 3, 70` | the part after the `=` in the identification line of a [*tablet*](#tablet) | 
-**period** | `uruk-iii` `uruk-iv` |  | the period the tablet belongs to, derived from the source file name | 
-**srcLn** |  |  | the literal text in the transcription at the start of the object; see [source data](#source-data) | 
-**srcLnNum** |  |  | the line number of the transcription line at the start of the object; see [source data](#source-data) | 
+feature | values | in ATF | description
+------- | ------ | ------ | -----------
+**catalogId** | `P005381` | `&P005381` | the identification of a [*tablet*](#tablet)
+**name** | `MSVO 3, 70` | `&P005381 = MSVO 3, 70` | the part after the `=` in the identification line of a tablet
+**period** | `uruk-iii` `uruk-iv` |  | the period the tablet belongs to, derived from the source file name
+**srcLn** |  |  | the literal text in the transcription at the start of the object; see [source data](#source-data)
+**srcLnNum** |  |  | the line number of the transcription line at the start of the object; see [source data](#source-data)
 
 Slots and node types
 ====================
