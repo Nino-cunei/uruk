@@ -37,7 +37,7 @@ Reference table of features
 
 *(Keep this under your pillow)*
 
-[*sign*](#sign)
+## Node type [*sign*](#sign)
 
 Basic unit containing a single `grapheme` and zero or more *augments*.
 
@@ -60,7 +60,7 @@ edges | to | values | description
 ----- | --- | ------ | -----------
 **op** | [*quad*](#quad) [*sign*](#sign) | `x` `+` `.` | links a quad or sign to its right sibling in a containing quad; the value of the edge contains the [operator](#operators) used in the composition
 
-[*quad*](#quad)
+## Node type [*quad*](#quad)
 
 Composite of [*signs*](#sign). The composite itself may be augmented.
 
@@ -79,7 +79,7 @@ edges | to | values | description
 **op** | [*quad*](#quad) [*sign*](#sign) | `x` `+` `.` | links a quad or sign to its right sibling in a containing quad; the value of the edge contains the [operator](#operators) used in the composition
 **sub** | [*quad*](#quad) [*cluster*](#cluster) [*case*](#case) | none | links the parent node in a nested structure to its child nodes
 
-[*cluster*](#cluster)
+## Node type [*cluster*](#cluster)
 
 Grouped sequence of [*quads*](#quad) and [*signs*](#sign). There are different
 types of these bracketings. Clusters may be nested.
@@ -92,7 +92,7 @@ edges | to | values | description
 ----- | --- | ------ | -----------
 **sub** | [*quad*](#quad) [*cluster*](#cluster) [*case*](#case) | none | links the parent node in a nested structure to its child nodes
 
-[*case*](#case)
+## Node type [*case*](#case)
 
 Subdivision of a containing [*line*](#line) or [*case*](#case). The lowest level
 cases contain sequences of [*quads*](#quad) and [*signs*](#sign). Cases are
@@ -112,7 +112,7 @@ edges | to | values | description
 ----- | --- | ------ | -----------
 **sub** | [*quad*](#quad) [*cluster*](#cluster) [*case*](#case) | none | links the parent node in a nested structure to its child nodes
 
-[*line*](#line)
+## Node type [*line*](#line)
 
 Subdivision of a containing [*column*](#column) or [*face*](#face). Lines maybe
 divided in [*cases*](#case); if there is no subdivision. There is a single
@@ -122,7 +122,7 @@ feature | values | in ATF | description
 ------- | ------ | ------ | -----------
 **number** | `1` |  | relative number of a [*line*](#line) within its containing column; see also **fullNumber**.
 
-[*comment*](#comment)
+## Node type [*comment*](#comment)
 
 There are several types of comment nodes:
 
@@ -146,7 +146,7 @@ edges | to | values | description
 ----- | --- | ------ | -----------
 **comments** | various | none | links a [*comment*](#comment) to its target node
 
-[*column*](#column)
+## Node type [*column*](#column)
 
 Primary division of a [*face*](#face). Columns are divided into
 [*lines*](#line); [*columns*](#column) are numbered.
@@ -159,7 +159,7 @@ feature | values | in ATF | description
 **srcLn** |  |  | the literal text in the transcription at the start of the object; see [source data](#source-data)
 **srcLnNum** |  |  | the line number of the transcription line at the start of the object; see [source data](#source-data)
 
-[*face*](#face)
+## Node type [*face*](#face)
 
 One of the sides of a [*tablet*](#tablet).
 
@@ -171,7 +171,7 @@ feature | values | in ATF | description
 **srcLnNum** |  |  | the line number of the transcription line at the start of the object; see [source data](#source-data)
 **type** | `obverse` `reverse` | `@obverse` `@reverse` | type of face, additional specs after the keyword go into **identifier**
 
-[*tablet*](#tablet)
+## Node type [*tablet*](#tablet)
 
 The main entity of which the corpus is composed, representing the transcription
 of a complete clay tablet.
