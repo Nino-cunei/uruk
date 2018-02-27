@@ -2,7 +2,7 @@ About
 =====
 
 We describe how we model a few corpora of tablet transcriptions into
-[Text-Fabric](https://github.com/Dans-labs/text-fabric) format.
+[Text-Fabric](https://github.com/Dans-labs/text-fabric/wiki) format.
 
 More about the transcription of tablets can be found on the
 [ORACC site](http://oracc.museum.upenn.edu/doc/help/editinginatf/primer/inlinetutorial/index.html).
@@ -11,11 +11,26 @@ We mention the concepts behind the transcriptions and how they translate to the
 Text-Fabric model.
 
 The Text-Fabric model views the text as a series of atomic units, called
-*slots*. On top of that, textual objects can be represented as *nodes*. Every
-node is linked to a subset of slots. Nodes can be related by means of edges.
-Nodes and edges can be annotated with supplemental information. Text-Fabric
-support 3 section levels. You may point to three types of nodes and declare them
-to be sections of level 1, 2 and 3.
+*slots*. In this corpus [*signs*](#sign) are the slots.
+
+On top of that, more complex textual objects can be represented as *nodes*. In
+this corpus we have node types for:
+[*sign*](#sign), [*quad*](#quad), [*cluster*](#cluster),
+[*case*](#case), [*line*](#line), [*comment*](#comment), [*column*](#column),
+[*face*](#face), [*tablet*](#tablet),
+
+The type of every node is given by the feature [**otype**](https://github.com/Dans-labs/text-fabric/wiki/Api#warp-feature-otype).
+Every node is linked to a subset of slots by [**oslots**](https://github.com/Dans-labs/text-fabric/wiki/Api#warp-feature-oslots).
+
+Nodes can be related by means of edges.
+
+Nodes and edges can be annotated with features. See the table below.
+
+Text-Fabric supports three customizable section levels.
+In this corpus they are
+[*tablet*](#tablet),
+[*column*](#column),
+[*line*](#line).
 
 Reference table of features
 ===========================
