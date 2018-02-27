@@ -22,59 +22,152 @@ Reference table of features
 
 *(Keep this under your pillow)*
 
-Node types
-----------
+[*sign*](#sign)
 
-Node type | description
---------- | -----------
-[*sign*](#sign) | basic unit containing a single `grapheme` and zero or more *augments*
-[*quad*](#quad) | composite of *signs*, the composite itself may be augmented
-[*cluster*](#cluster) | grouped sequence of *quads* and *signs*; there asre different types of these bracketings; they may be nested
-[*case*](#case) | subdivision of a containing *line* or *case*; the lowest level *cases* contain sequences of *quads* and *signs*; *cases* are numbered with a hierarchical number
-[*line*](#line) | subdivision of a containing *column* or *face*; *lines* maybe divided in *cases*; if there is no subdivision, there is a single *case* as big as the *line*;
-[*comment*](#comment) | metadata (`#`), object information (`@object`) or ruling (`$`), targeted to *tablets*, *faces*, *columns*, *lines* or *cases*
-[*column*](#column) | primary division of a *face*; *columns* are divided into *lines*; *columns* are numbered
-[*face*](#face) | one of the sides of a *tablet*; *faces* have a type: obverse or reverse (there are a few other types too)
-[*tablet*](#tablet) | a complete *tablet*, identified by its *catalogId* such as P005381
+Basic unit containing a single `grapheme` and zero or more *augments*.
 
-Node features
--------------
+feature | values | in ATF | description
+------- | ------ | ------ | -----------
+**collation** | `0` `1` | `*` | indicates the presence of the *collation* flag `*` (not in this corpus)
+**damage** | `0` `1` | `IDIGNA#` | indicates the presence of the *damage* flag `#`
+**grapheme** | `N14` `GISZ` | `N14` `GISZ` | the name of a [*sign*](#sign) (excluding repeats and augments)
+**modifier** | `n` `g` `t` | `GUM@n~b` `KUR@g~a` | a modifier `@` of a grapheme in a sign
+**modifierFirst** | `1` `0` | `URUDU@g~c` resp. `AB~a@g` | whether the modifier `@` comes before the variant `~` or not
+**modifierInner** | `f` | `7(N34@f)` | a modifier `@` that occurs inside a *repeat*
+**prime** | `1` `0` | `1(N24')` | whether a [*sign*](#sign) has a prime `'`
+**remarkable** | `1` `0` | `ABGAL!` | indicates the presence of the *remarkable* flag `!`
+**repeat** | `4` | `4(N01)` | marks repetition of a grapheme
+**uncertain** | `1` `0` | `DU6~b?` | indicates the presence of the *uncertain* flag `?`
+**variant** | `a` `b` | `APIN~a` `SIG2~a1` | a variant `~` aka allograph of a grapheme
+**written** | `KASKAL` | `APIN!(KASKAL)` | indicates the presence of a flag with a correction `!(`*grapheme*`)`
 
-Feature | Node type | values | in ATF | description
-------- | --------- | ------ | ------ | -----------
-[badNumbering](#column) | *column* | `1` `2` |  | whether there are issues with the numbering of *lines* and *cases* in the *column*
-[catalogId](#tablet) | *tablet* | `P005381` | `&P005381` | the identification of a *tablet*
-[collation](#sign) | *sign* *quad* | `0` `1` | `*` | indicates the presence of the *collation* flag `*` (not in this corpus)
-[crossref](#case) | *case* | `Q000026.007` | `>>Q000026 007` crossreference to *tablet*.*line* in same or other corpus | 
-[damage](#sign) | *sign* *quad* | `0` `1` | `IDIGNA#` `|(SZAxHI@g~a)~b|#` | indicates the presence of the *damage* flag `#`
-[fragment](#face) | *face* | `a` `b` | `@fragment a` | fragment of the *tablet* the *face* is on (very rare in the Uruk corpus)
-[fullNumber](#case) | *case* | `1` `1a` `1b1` | `1.` `1.a.` `1.b1.` | hierarchical number of a *case*; present on each transcription *line* with text material
-[grapheme](#sign) | *sign* | `N14` `GISZ` | `N14` `GISZ` | the name of a *sign* (excluding repeats and augments)
-[identifier](#face) | *face* | `a` `X` | `@surface a` `@surface X` | addition of to the *face* identifier
-[repeat](#sign) | *sign* | `4` | `4(N01)` | marks repetition of a grapheme
-[modifier](#sign) | *sign* *quad* | `n` `g` `t` | `GUM@n~b` `KUR@g~a` `E2~bx1(N57)@t` | a modifier `@` of a grapheme or (sub)-*quad*
-[modifierFirst](#sign) | *sign* *quad* | `1` `0` | `URUDU@g~c` resp. `AB~a@g` | whether the modifier `@` comes before the variant `~` or not
-[modifierInner](#sign) | *sign* | `f` | `7(N34@f)` | a modifier `@` that occurs inside a *repeat*
-[prime](#sign) | *sign* *column* *case* | `1` `0` | `1(N24')` `@column 1'` `1.c'. N? , X` | whether a *sign* or number has a prime `'`
-[srcLn](#source-data) | *tablet* *face* *column* *case* *comment* |  | the literal text in the transcription at the start of the object | 
-[srcLnNum](#source-data) | *tablet* *face* *column* *case* *comment* |  | the line number of the transcription line at the start of the object | 
-[uncertain](#sign) | *sign* *quad* | `1` `0` | `SZITA~a1#?` `A2#?` | indicates the presence of the *uncertain* flag `?`
-[variant](#sign) | *sign* | `a` `b` | `APIN~a` `SIG2~a1` | a variant `~` aka allograph of a grapheme
-[variantOuter](#quad) | *quad* | `a` | `(U8xTAR)~b` | a variant `~` of a(sub)-*quad*
-[remarkable](#sign) | *sign* *quad* | `1` `0` | `ABGAL!` | indicates the presence of the *remarkable* flag `!`
-[type](#face) | *face* | `a` `X` | `@surface a` `@surface X` | addition of to the *face* identifier
-[written](#sign) | *sign* *quad* | `KASKAL` | `APIN!(KASKAL)` `URU~a1!(GURUSZ~a)?` | indicates the presence of a flag with a correction `!(`*grapheme*`)`
+edges | to | values | description
+----- | --- | ------ | -----------
+**op** | [*quad*](#quad) [*sign*](#sign) | `x` `+` `.` | links a quad or sign to its right sibling in a containing quad; the value of the edge contains the [operator](#operators) used in the composition
 
-**in progress**
+[*quad*](#quad)
 
-Edge features
--------------
+Composite of [*signs*](#sign). The composite itself may be augmented.
 
-Feature | from | to | values | description
-------- | ---- | --- | ------ | -----------
-[comments](#comment) | *comment* | *tablet* *face* *column* *line* *case* | none | links a *comment* to the node it is a comment to
+feature | values | in ATF | description
+------- | ------ | ------ | -----------
+**collation** | `0` `1` | `*` | indicates the presence of the *collation* flag `*` (not in this corpus)
+**damage** | `0` `1` | `(SZAxHI@g~a)~b|#` | indicates the presence of the *damage* flag `#`
+**modifier** | `n` `g` `t` | `E2~bx1(N57)@t` | a modifier `@` of a (sub)-[*quad*](#quad) as a whole
+**remarkable** | `1` `0` | no examples | indicates the presence of the *remarkable* flag `!`
+**uncertain** | `1` `0` | `|NINDA2xAN|?` | indicates the presence of the *uncertain* flag `?`
+**variantOuter** | `a` | `(U8xTAR)~b` | a variant `~` of a(sub)-[*quad*](#quad)
+**written** |  | no examples | indicates the presence of a flag with a correction `!(`*grapheme*`)`
 
-**in progress**
+edges | to | values | description
+----- | --- | ------ | -----------
+**op** | [*quad*](#quad) [*sign*](#sign) | `x` `+` `.` | links a quad or sign to its right sibling in a containing quad; the value of the edge contains the [operator](#operators) used in the composition
+**sub** | [*quad*](#quad) [*cluster*](#cluster) [*case*](#case) | none | links the parent node in a nested structure to its child nodes
+
+[*cluster*](#cluster)
+
+Grouped sequence of [*quads*](#quad) and [*signs*](#sign). There are different
+types of these bracketings. Clusters may be nested.
+
+feature | values | in ATF | description
+------- | ------ | ------ | -----------
+**type** | `uncertain` `properName` `supplied` | `[ ]` `( )a` `< >` | type of cluster
+
+edges | to | values | description
+----- | --- | ------ | -----------
+**sub** | [*quad*](#quad) [*cluster*](#cluster) [*case*](#case) | none | links the parent node in a nested structure to its child nodes
+
+[*case*](#case)
+
+Subdivision of a containing [*line*](#line) or [*case*](#case). The lowest level
+cases contain sequences of [*quads*](#quad) and [*signs*](#sign). Cases are
+numbered with a hierarchical number.
+
+feature | values | in ATF | description
+------- | ------ | ------ | -----------
+**crossref** | `Q000026.007` | `>>Q000026 007` crossreference to [*tablet*](#tablet).[*line*](#line) in same or other corpus | 
+**fullNumber** | `1` `1a` `1b1` | `1.` `1.a.` `1.b1.` | hierarchical number of a [*case*](#case); present on each transcription [*line*](#line) with text material
+**number** | `a` `1` |  | relative number of a [*case*](#case) within its containing case or lin column; see also **fullNumber**
+**origNumber** | `1` |  | original number of a [*case*](#case) if there were conversion issues; see also **badNumbering**
+**prime** | `1.c'. N? , X` | whether a case number has a prime `'` | 
+**srcLn** |  |  | the literal text in the transcription at the start of the object; see [source data](#source-data)
+**srcLnNum** |  |  | the line number of the transcription line at the start of the object; see [source data](#source-data)
+
+edges | to | values | description
+----- | --- | ------ | -----------
+**sub** | [*quad*](#quad) [*cluster*](#cluster) [*case*](#case) | none | links the parent node in a nested structure to its child nodes
+
+[*line*](#line)
+
+Subdivision of a containing [*column*](#column) or [*face*](#face). Lines maybe
+divided in [*cases*](#case); if there is no subdivision. There is a single
+[*case*](#case) as big as the line.
+
+feature | values | in ATF | description | 
+------- | ------ | ------ | ----------- | ---
+**number** | [*line*](#line) | `1` |  | relative number of a [*line*](#line) within its containing column; see also **fullNumber**
+
+[*comment*](#comment)
+
+There are several types of comment nodes:
+
+*   metadata (`#`)
+*   object information (`@object`)
+*   ruling (`$`)
+
+Comments are targeted to [*tablets*](#tablet), [*faces*](#face),
+[*columns*](#column), [*lines*](#line) or [*cases*](#case).
+
+feature | values | in ATF | description
+------- | ------ | ------ | -----------
+**srcLn** |  |  | the literal text in the transcription at the start of the object; see [source data](#source-data)
+**srcLnNum** |  |  | the line number of the transcription line at the start of the object; see [source data](#source-data)
+**text** | `atf: lang qpc` | `#atf: lang qpc` | text of a m`meta`data comment
+**text** | `composite text` | `@object composite text` | text of an `object` comment
+**text** | `beginning broken` | `$ beginning broken` | text of `ruling`
+**type** | `meta` `object` `ruling` | `#` `$` `@object` | type of comment line; see also **text**
+
+edges | to | values | description
+----- | --- | ------ | -----------
+**comments** | various | none | links a [*comment*](#comment) to its target node
+
+[*column*](#column)
+
+Primary division of a [*face*](#face). Columns are divided into
+[*lines*](#line); [*columns*](#column) are numbered.
+
+feature | values | in ATF | description
+------- | ------ | ------ | -----------
+**badNumbering** | `1` `2` |  | whether there are issues with the numbering of [*lines*](#line) and [*cases*](#case) in the [*column*](#column); case numbers in TF may be different from the originals in transcription: see also **origNumber**
+**number** | `1` `2` | `@column 1` `@column 2'` | column number; without prime, see also **prime**
+**prime** | `1` `0` | `@column 1'` | whether a column number has a prime `'`
+**srcLn** |  |  | the literal text in the transcription at the start of the object; see [source data](#source-data)
+**srcLnNum** |  |  | the line number of the transcription line at the start of the object; see [source data](#source-data)
+
+[*face*](#face)
+
+One of the sides of a [*tablet*](#tablet).
+
+feature | values | in ATF | description
+------- | ------ | ------ | -----------
+**fragment** | `a` `b` | `@fragment a` | fragment of the [*tablet*](#tablet) the [*face*](#face) is on (very rare in the Uruk corpus)
+**identifier** | `a` `X` | `@surface a` `@surface X` | addition of to the [*face*](#face) identifier
+**srcLn** |  |  | the literal text in the transcription at the start of the object; see [source data](#source-data)
+**srcLnNum** |  |  | the line number of the transcription line at the start of the object; see [source data](#source-data)
+**type** | `obverse` `reverse` | `@obverse` `@reverse` | type of face, additional specs after the keyword go into **identifier**
+
+[*tablet*](#tablet)
+
+The main entity of which the corpus is composed, representing the transcription
+of a complete clay tablet.
+
+feature | values | in ATF | description | 
+------- | ------ | ------ | ----------- | ---
+**catalogId** | [*tablet*](#tablet) | `P005381` | `&P005381` | the identification of a [*tablet*](#tablet)
+**name** | `MSVO 3, 70` | `&P005381 = MSVO 3, 70` | the part after the `=` in the identification line of a [*tablet*](#tablet) | 
+**period** | `uruk-iii` `uruk-iv` |  | the period the tablet belongs to, derived from the source file name | 
+**srcLn** |  |  | the literal text in the transcription at the start of the object; see [source data](#source-data) | 
+**srcLnNum** |  |  | the line number of the transcription line at the start of the object; see [source data](#source-data) | 
 
 Slots and node types
 ====================
@@ -96,7 +189,7 @@ Sign
 
 This is the basic unit of writing.
 
-**The node type *sign* is our slot type in Text-Fabric.**
+**The node type [*sign*](#sign) is our slot type in Text-Fabric.**
 
 ### Signs in general ###
 
@@ -160,8 +253,8 @@ other cluster, see below.
 ### Augments ###
 
 We describe the various kinds of augments. Not only individual signs may be
-augmented, also more complex node types such as *quads* (see below) may be
-augmented.
+augmented, also more complex node types such as [*quads*](#quad) (see below) may
+be augmented.
 
 #### Prime ####
 
@@ -170,8 +263,8 @@ feature *prime=1*.
 
 #### Variants ####
 
-*Quads* and *signs* may have variants, also called *allographs*. This is
-indicated by a `~` and then a sequence of letter and digits except the letter
+*Quads* and [*signs*](#sign) may have variants, also called *allographs*. This
+is indicated by a `~` and then a sequence of letter and digits except the letter
 `x`. `x` is an *operator*, see below.
 
 This indicates that the tablet has a variant of the grapheme in question. That
@@ -231,7 +324,7 @@ marked as *modifierFirst=1*.
 
 #### Flags ####
 
-*Quads* and *signs* may have *flags*. *Subquads* do not have them. In
+*Quads* and [*signs*](#sign) may have *flags*. *Subquads* do not have them. In
 transcription they show up as a special trailing character. Flags code for
 things like damage, uncertainty, and correction.
 
@@ -291,9 +384,9 @@ There may be multiple flags:
 Quad
 ----
 
-A *quad* is an atomic piece of space on a tablet in a geometrical sense. Quads
-are filled with a single *sign* or a composition of signs. The composition may
-be a nest of *quads* and *signs*.
+A [*quad*](#quad) is an atomic piece of space on a tablet in a geometrical
+sense. Quads are filled with a single [*sign*](#sign) or a composition of signs.
+The composition may be a nest of [*quads*](#quad) and [*signs*](#sign).
 
 We get quads from transcription lines by splitting the line material (the part
 after the number) on white space.
@@ -313,34 +406,36 @@ a few exceptions):
 
     5.  1(N01) , |DUG~bx1(N57)|
 
-The quad `|DUG~bx1(N57)|` is the composition of two sub-*quads* : `DUG~b` and
-`1(N57)`, composed by operator `x`.
+The quad `|DUG~bx1(N57)|` is the composition of two sub-[*quads*](#quad) :
+`DUG~b` and `1(N57)`, composed by operator `x`.
 
 There are several operators, and the composition may involve several levels. If
 that is the case, brackets specify the construction:
 
     2.  4(N01) 1(N39~a) 1(N24) , |NINDA2x(HI@g~a.1(N06))|
 
-The *quad* `|NINDA2x(HI@g~a.1(N06))|` is the composition by `x` of sub-*quads*
-`NINDA2` and `HI@g~a.1(N06)` and the latter is the composition by `.` of
-sub-*quads* `HI@g~a` and `.1(N06)`.
+The [*quad*](#quad) `|NINDA2x(HI@g~a.1(N06))|` is the composition by `x` of
+sub-[*quads*](#quad) `NINDA2` and `HI@g~a.1(N06)` and the latter is the
+composition by `.` of sub-[*quads*](#quad) `HI@g~a` and `.1(N06)`.
 
 We can now state the rules a bit more precisely.
 
 If we take line material, remove `,` and then split on whitespace, we get the
-objects that correspond to *quads*.
+objects that correspond to [*quads*](#quad).
 
 Every quad is one of:
 
-*   a single *sign*, possibly augmented, or
-*   a composite of outermost *quads*, delimited by `| |`
+*   a single [*sign*](#sign), possibly augmented, or
+*   a composite of outermost [*quads*](#quad), delimited by `| |`
 
 Every non-outermost quad is one of:
 
-*   a single *sign*, possibly augmented (as in quad)
-*   a composite of sub-*quads*, which is
+*   a single [*sign*](#sign), possibly augmented (as in quad)
+*   a composite of sub-[*quads*](#quad), which is
     *   a string, possibly delimited by `( )`, possibly augmented; the immediate
-        sub-*quads* are obtained by splitting on one of the operators.
+        sub-[*quads*](#quad) are obtained by splitting on one of the operators.
+
+### Operators ###
 
 Operators are single characters, one of `x % & . : +`.
 
@@ -357,29 +452,29 @@ is not a modifier, except:
 In all these cases, `@` does not seem an operator. So we remove `@` from the
 list of operators.
 
-There is no space between the operators and the sub-*quads*.
+There is no space between the operators and the sub-[*quads*](#quad).
 
 ### Edges for (sub)quads ###
 
 We represent the structure of quads and subquads by means of edges:
 
-*   *sub*: from quad to any *quad* embedded in it; there is no *sub* edge between
-    a deepest quad and the sign in it; in order to get at the sign in such a quad,
-    use `L.d()`;
-*   *op*: from sign or sub-*quad* to right sibling;
+*   *sub*: from quad to any [*quad*](#quad) embedded in it; there is no *sub* edge
+    between a deepest quad and the sign in it; in order to get at the sign in such
+    a quad, use `L.d()`;
+*   *op*: from sign or sub-[*quad*](#quad) to right sibling;
 
 For *op* we have:
 
 *   edges are labeled with the operator that connects the two operands;
-*   outermost quads do not have *op* edges (as opposed to sub-*quads*).
+*   outermost quads do not have *op* edges (as opposed to sub-[*quads*](#quad)).
 
 Note that in TF we can traverse edges in both directions.
 
 Cluster
 -------
 
-One or more *quads* may be bracketed by `( )` or by `[ ]` or by `< >`: together
-they form a *cluster*.
+One or more [*quads*](#quad) may be bracketed by `( )` or by `[ ]` or by `< >`:
+together they form a [*cluster*](#cluster).
 
     2.c. , (|GIR3~cxSZE3|# NUN~a# [...])a
 
@@ -420,17 +515,17 @@ clusters to embedded clusters.
 Case
 ----
 
-A numbered transcription line corresponds to a *case*. A sequence of *quads*
-forms a case.
+A numbered transcription line corresponds to a [*case*](#case). A sequence of
+[*quads*](#quad) forms a case.
 
 Cases represent squares on a tablet.
 
-Those cases may be grouped into bigger *cases*, and ultimately they are grouped
-in *lines*, based on their number.
+Those cases may be grouped into bigger [*cases*](#case), and ultimately they are
+grouped in [*lines*](#line), based on their number.
 
-All cases in a *line* (see below) that start with the same number, form a bigger
-*case*. The number itself is recorded in the feature *number* on the node type
-*case*.
+All cases in a [*line*](#line) (see below) that start with the same number, form
+a bigger [*case*](#case). The number itself is recorded in the feature *number*
+on the node type [*case*](#case).
 
 So cases with numbers `1a`, `1b`, and `2` form two lines: one with number `1`,
 containing cases `1a` and `1b`, and one with number `2`, containing just case
@@ -438,8 +533,8 @@ containing cases `1a` and `1b`, and one with number `2`, containing just case
 
 If the numbers show deeper hierarchy, we build up cases. Cases with numbers
 `1a1`, `1a2`, `1b`, and `2` form (again) two lines. The line with number `1` has
-two *cases*: one with number `1a`, containing cases `1a1` and `1a2`, and one
-with number `1b`, containing just case `1b`.
+two [*cases*](#case): one with number `1a`, containing cases `1a1` and `1a2`,
+and one with number `1b`, containing just case `1b`.
 
 If a line is not subdivided in multiple cases, we still say that the line
 contains one case.
@@ -449,13 +544,14 @@ This is an example case.
     1.b1. , (EN~a DU ZATU759)a
 
 Note that the number is a hierarchical number, with alternating digits and
-letters. We strip the `.`s. The number is used to group the lines into *cases*,
-see below.
+letters. We strip the `.`s. The number is used to group the lines into
+[*cases*](#case), see below.
 
 Like the numbers of columns, case numbers may have a `'` at the end. But unlike
 column numbers, there might be primes on individual parts of the hierarchical
-number. In the presence of a prime anywhere, we add to the *line* a feature
-*countPresent* with value `1`. We do not strip any prime from the number.
+number. In the presence of a prime anywhere, we add to the [*line*](#line) a
+feature *countPresent* with value `1`. We do not strip any prime from the
+number.
 
 We store the full hierarchical number of the "terminal" cases (the ones without
 sub-cases) in the feature *fullNumber*.
@@ -536,8 +632,9 @@ in a comma separated list.
 Comments
 --------
 
-Lines starting with `$` or `#` are comments to the current object (*tablet*,
-*face*, *column*, or *line*, see below).
+Lines starting with `$` or `#` are comments to the current object
+([*tablet*](#tablet), [*face*](#face), [*column*](#column), or [*line*](#line),
+see below).
 
 Lines starting with `@object` are comments to the current object.
 
@@ -597,13 +694,13 @@ we get the object to which comment `c` is targeted.
 Line
 ----
 
-A node of type *line* corresponds to all cases whose numbers start with the same
-decimal number.
+A node of type [*line*](#line) corresponds to all cases whose numbers start with
+the same decimal number.
 
 **This node type is section level 3.**
 
-If we encounter a line without a preceding *column* specifier (see below), we
-proceed as if we have seen a `@column 0`.
+If we encounter a line without a preceding [*column*](#column) specifier (see
+below), we proceed as if we have seen a `@column 0`.
 
 The number of a line is always a single number, without a hierarchical
 structure.
@@ -611,14 +708,15 @@ structure.
 Column
 ------
 
-Cases are grouped into *columns*.
+Cases are grouped into [*columns*](#column).
 
 Columns are marked by lines like
 
     @column number
 
-A node of type *column* corresponds to the material after the *column* specifier
-and before the next next *column* specifier or the end of a *face* or *tablet*.
+A node of type [*column*](#column) corresponds to the material after the
+[*column*](#column) specifier and before the next next [*column*](#column)
+specifier or the end of a [*face*](#face) or [*tablet*](#tablet).
 
 **This node type is section level 2.**
 
@@ -635,13 +733,13 @@ it indicates that the number does not count objects on the tablet in its
 original state, but in its present state. If the tablet is damaged, material is
 missing, and the missing items are not numbered.
 
-In the presence of a prime, we add to the *column* a feature *prime* with value
-`1` and we remove the prime from the column number.
+In the presence of a prime, we add to the [*column*](#column) a feature *prime*
+with value `1` and we remove the prime from the column number.
 
 Face
 ----
 
-Columns are grouped into *faces*.
+Columns are grouped into [*faces*](#face).
 
 Faces are marked by lines like
 
@@ -659,8 +757,9 @@ There are a few other possibilities:
     @surface identifier
     @seal identifier
 
-A node of type *face* corresponds to the material after a *face* specifier and
-before the next *face* specifier or the end of a *tablet*.
+A node of type [*face*](#face) corresponds to the material after a
+[*face*](#face) specifier and before the next [*face*](#face) specifier or the
+end of a [*tablet*](#tablet).
 
 **This node type is not a section level!**
 
@@ -681,16 +780,16 @@ There is another subdivision, very occasionally:
 
     @fragment identifier
 
-This is really between *tablet* and *face*. But it occurs only in one tablet,
-which is too rare to merit a separate node type.
+This is really between [*tablet*](#tablet) and [*face*](#face). But it occurs
+only in one tablet, which is too rare to merit a separate node type.
 
-We make a feature *fragment* for node type *face*, which will be filled by the
-identifier of a preceding `@fragment`.
+We make a feature *fragment* for node type [*face*](#face), which will be filled
+by the identifier of a preceding `@fragment`.
 
 Tablet
 ------
 
-*Faces* are grouped into *tablets*.
+*Faces* are grouped into [*tablets*](#tablet).
 
 *Tablets* are marked by lines like
 
@@ -705,10 +804,10 @@ Here we collect `P002174` as the *catalogId* of the tablet, and
 `ATU 6, pl. 48, W 14731,?4` as the tablet *name*.
 
 We also add the name of the corpus as a feature *period* to the node type
-*tablet*.
+[*tablet*](#tablet).
 
-A node of type *tablet* corresponds to the material after a *tablet* specifier
-and before the next *tablet* specifier.
+A node of type [*tablet*](#tablet) corresponds to the material after a
+[*tablet*](#tablet) specifier and before the next [*tablet*](#tablet) specifier.
 
 **This node type is section level 1.**
 

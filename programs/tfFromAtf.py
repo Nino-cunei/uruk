@@ -180,9 +180,13 @@ specificMetaData = dict(
     ),
     srcLn='transcribed line',
     srcLnNum='line number in transcription file',
-    sub='connects line or case with sub-cases, or quad with sub-quads',
+    sub=(
+        'connects line or case with sub-cases,'
+        ' quad with sub-quads;'
+        ' clusters with sub-clusters'
+    ),
     text='text of comment nodes',
-    type='type of a face; type of a comment',
+    type='type of a face; type of a comment; type of a cluster',
     uncertain='corresponds to ?-flag in transcription',
     variant='allograph for a sign, corresponds to ~x in transcription',
     variantOuter='allograph for a quad, corresponds to ~x in transcription',
@@ -1323,7 +1327,7 @@ def makeTf(tablets):
                 for kind in startClusters[q]:
                     cur[nodeType] += 1
                     curNode = cur[nodeType]
-                    nodeFeatures['kind'][(nodeType, curNode)] = kind
+                    nodeFeatures['type'][(nodeType, curNode)] = kind
                     for (cNodeType, cNode) in context:
                         if cNodeType == nodeType:
                             edgeFeatures['sub'][(nodeType, cNode)].add(
