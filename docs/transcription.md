@@ -34,6 +34,14 @@ Nodes and edges can be annotated with features. See the table below.
 Text-Fabric supports three customizable section levels. In this corpus they are
 [*tablet*](#tablet), [*column*](#column), [*line*](#line).
 
+Other docs
+----------
+[Text-Fabric API](https://github.com/Dans-labs/text-fabric/wiki/Api)
+
+[Cunei API](https://github.com/Dans-labs/Nino-cunei/blob/master/docs/cunei.md)
+
+[Utils API](https://github.com/Dans-labs/Nino-cunei/blob/master/docs/utils.md)
+
 Reference table of features
 ===========================
 

@@ -24,6 +24,24 @@ class Compare(object):
         self.tempDir = tempDir
         os.makedirs(tempDir, exist_ok=True)
 
+    def getSource(self, node, nodeType=None, lineNumbers=False):
+        api = self.api
+        F = api.F
+        L = api.L
+        sourceLines = []
+        lineNumber = ''
+        if lineNumbers:
+            lineNumber = f'{F.srcLnNum.v(node):>5}: '
+        sourceLines.append(f'{lineNumber}{F.srcLn.v(node)}')
+        for child in L.d(node, nodeType):
+            sourceLine = F.srcLn.v(child)
+            lineNumber = ''
+            if sourceLine:
+                if lineNumbers:
+                    lineNumber = f'{F.srcLnNum.v(child):>5}: '
+                sourceLines.append(f'{lineNumber}{sourceLine}')
+        return sourceLines
+
     def readCorpora(self):
         files = glob(f'{self.sourceDir}/*.txt')
         tablets = set()
@@ -85,9 +103,11 @@ class Compare(object):
                 equal = False
                 break
             n += 1
+        good = False
         if equal and minimum == maximum:
             print(f'IDENTICAL: all {maximum} items')
             self._printResult('=', resultTf)
+            good = True
         else:
             firstDiff = n
             print(
@@ -120,6 +140,7 @@ class Compare(object):
                     print(f'{"TF":<5} and {lTf - k} more')
                     print(f'{"GREP":<5} and {lGrep - k} more')
         print(f'Number of results: TF {len(resultTf)}; GREP {len(resultGrep)}')
+        return good
 
     def _printResult(self, prefix, result, last=False):
         if last:

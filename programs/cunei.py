@@ -7,6 +7,8 @@ FLAGS = (
     ('uncertain', '?'),
 )
 
+OUTER_QUAD_TYPES = {'sign', 'quad'}
+
 CLUSTER_BEGIN = {'[': ']', '<': '>', '(': ')'}
 CLUSTER_END = {y: x for (x, y) in CLUSTER_BEGIN.items()}
 CLUSTER_KIND = {'[': 'uncertain', '(': 'properName', '<': 'supplied'}
@@ -21,6 +23,9 @@ class Cunei(object):
     def atfFromSign(self, n, flags=False):
         F = self.api.F
         Fs = self.api.Fs
+        if F.otype.v(n) != 'sign':
+            return '«no sign»'
+
         grapheme = F.grapheme.v(n)
         if grapheme == '…':
             grapheme = '...'
@@ -68,9 +73,12 @@ class Cunei(object):
         E = api.E
         F = api.F
         Fs = api.Fs
+        if F.otype.v(n) != 'quad':
+            return '«no quad»'
+
         children = E.sub.f(n)
         if not children or len(children) < 2:
-            return f'quad with less than two sub-quads should not happen'
+            return f'«quad with less than two sub-quads»'
         result = ''
         for child in children:
             nextChildren = E.op.f(child)
@@ -124,10 +132,24 @@ class Cunei(object):
 
         return result
 
+    def atfFromOuterQuad(self, n, flags=False):
+        api = self.api
+        F = api.F
+        nodeType = F.otype.v(n)
+        if nodeType == 'sign':
+            return self.atfFromSign(n, flags=flags)
+        elif nodeType == 'quad':
+            return self.atfFromQuad(n, flags=flags, outer=True)
+        else:
+            return '«no outer quad»'
+
     def atfFromCluster(self, n, seen=None):
         api = self.api
         F = api.F
         E = api.E
+        if F.otype.v(n) != 'cluster':
+            return '«no cluster»'
+
         typ = F.type.v(n)
         (bOpen, bClose) = CLUSTER_BRACKETS[typ]
         if bClose == ')':
@@ -156,3 +178,16 @@ class Cunei(object):
                 )
             result.append(thisResult)
         return f'{bOpen}{" ".join(result)}{bClose}'
+
+    def getOuterQuads(self, n):
+        api = self.api
+        F = api.F
+        E = api.E
+        L = api.L
+        return [
+            quad for quad in L.d(n)
+            if (
+                F.otype.v(quad) in OUTER_QUAD_TYPES and
+                all(F.otype.v(parent) != 'quad' for parent in E.sub.t(quad))
+            )
+        ]
