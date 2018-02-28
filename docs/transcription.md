@@ -39,7 +39,7 @@ Reference table of features
 
 *(Keep this under your pillow)*
 
-<img align="left" src="images/P005381-obverse-lineart-annot.png" width="50%"/>
+![objects](images/P005381-obverse-lineart-annot.png)
 
 Node type [*sign*](#sign)
 -------------------------
