@@ -10,9 +10,9 @@
 @valueType=str
 @version=0.1
 @writtenBy=Text-Fabric
-@dateWritten=2018-03-01T12:39:06Z
+@dateWritten=2018-03-01T13:05:20Z
 
-148517	HJN 0044
+148421	HJN 0044
 HJN 0045
 www archaeo-auction 003
 www archaeo-auction 004
@@ -1862,8 +1862,6 @@ CDLI Lexical Archaic Unidentified, ex. 128
 CDLI Seals 001379 (physical)
 CDLI Seals 001388 (physical)
 CDLI Seals 001827 (physical)
-CDLI Seals 002857 (composite)
-CDLI Seals 003473 (composite) City Seal
 CDLI Seals 003832 (physical)
 CDLI Seals 006525 (physical)
 CDLI Seals 006526 (physical)
@@ -1977,40 +1975,24 @@ CDLI Seals 007150 (physical)
 CDLI Seals 007151 (physical)
 CDLI Seals 007152 (physical)
 CDLI Seals 007153 (physical)
-CDLI Seals 003008 (composite)
-CDLI Seals 003016 (composite)
 CDLI Seals 008610 (physical)
-CDLI Seals 003385 (composite)
 CDLI Seals 008612 (physical)
-CDLI Seals 004070 (composite)
-CDLI Seals 004085 (composite)
-CDLI Seals 004107 (composite)
 CDLI Seals 008616 (physical)
 CDLI Seals 008617 (physical)
 CDLI Seals 008618 (physical)
 CDLI Seals 008619 (physical)
-CDLI Seals 005044 (composite)
-CDLI Seals 005045 (composite)
 CDLI Seals 008622 (physical)
 CDLI Seals 008623 (physical)
 CDLI Seals 008624 (physical)
 CDLI Seals 008625 (physical)
 CDLI Seals 008626 (physical)
 CDLI Seals 008627 (physical)
-CDLI Seals 005571 (composite)
 CDLI Seals 008629 (physical)
-CDLI Seals 005639 (composite)
-CDLI Seals 005684 (composite)
-CDLI Seals 005685 (composite)
 CDLI Seals 008633 (physical)
-CDLI Seals 005724 (composite)
 CDLI Seals 008635 (physical)
 CDLI Seals 008636 (physical)
 CDLI Seals 008637 (physical)
 CDLI Seals 008638 (physical)
-CDLI Seals 006007 (composite)
-CDLI Seals 006082 (composite)
-CDLI Seals 006159 (composite)
 CDLI Seals 008643 (physical)
 CDLI Seals 008644 (physical)
 CDLI Seals 008645 (physical)
