@@ -301,7 +301,7 @@ TWEAK_MATERIAL = (
     (';', ','),
     ('sag-apin', 'sag-apin'),
     ('@inversum', '@v'),
-    (('KI@', -1), 'KI!'),
+    (('KI@', -1), 'KI#'),
 )
 
 linePat = re.compile("([0-9a-zA-Z.'-]+)\s*(.*)")
