@@ -64,6 +64,7 @@ VERSION = '0.1'
 
 REPO_DIR = os.path.expanduser(f'~/github/Dans-labs/{REPO}')
 SOURCE_DIR = f'{REPO_DIR}/sources/{ORIGIN}'
+META_DIR = f'{REPO_DIR}/sources/{ORIGIN}/meta'
 TEMP_DIR = f'{REPO_DIR}/_temp'
 DEBUG_FILE = f'{TEMP_DIR}/cldi_uruk.txt'
 REPORT_DIR = f'{REPO_DIR}/reports'
@@ -183,6 +184,7 @@ specificMetaData = dict(
         'indicates damage of signs or quads,'
         'corresponds to #-flag in transcription'
     ),
+    excavation='excavation number of tablet',
     fragment='level between tablet and face',
     fullNumber=(
         'hierarchical number given to'
@@ -365,6 +367,62 @@ for cdir in (TEMP_DIR, REPORT_DIR, TF_DIR):
     os.makedirs(cdir, exist_ok=True)
 
 
+def readMeta():
+    excavationByTablet = {}
+    excavationByNumber = collections.defaultdict(list)
+    excPat = 'Exc'
+    excavPat = 'Excavation no.:'
+    excavStr = None
+    files = glob(f'{META_DIR}/*.txt')
+    for f in files:
+        (dirF, fileF) = os.path.split(f)
+        (period, ext) = os.path.splitext(fileF)
+        with open(f) as fh:
+            for (ln, line) in enumerate(fh):
+                line = line.rstrip('\n')
+                if line == '':
+                    excavStr = None
+                elif line.startswith(excPat):
+                    if not line.startswith(excavPat):
+                        print(f'WARNING: {period}:{ln} SKIP "{line}"')
+                        continue
+                    excavStr = line.rsplit(':', maxsplit=1)[1].strip()
+                elif line[0] == '&':
+                    comps = line[1:].split('=', 1)
+                    tablet = comps[0].strip()
+                    good = True
+                    if excavStr is None:
+                        print(
+                            f'WARNING: {period}:{ln}'
+                            f' NO EXCAVATION for "{tablet}"'
+                        )
+                        good = False
+                    if tablet in excavationByTablet:
+                        print(f'WARNING: {period}:{ln} DUPLICATE "{tablet}"')
+                        good = False
+                    if good:
+                        if excavStr != '':
+                            excavationByTablet[tablet] = excavStr
+                            excavationByNumber[excavStr].append(tablet)
+    fileName = 'excavationByTablet.tsv'
+    filePath = f'{REPORT_DIR}/{fileName}'
+    with open(filePath, 'w') as fh:
+        fh.write('tablet\texcavationNumbers\n')
+        for (tablet, excavs) in sorted(excavationByTablet.items()):
+            fh.write(f'{tablet}\t{excavs}\n')
+    fileName = 'excavationByNumber.tsv'
+    filePath = f'{REPORT_DIR}/{fileName}'
+    with open(filePath, 'w') as fh:
+        fh.write('excavationNumbers\ttablets\n')
+        for (excavs, tablets) in sorted(excavationByNumber.items()):
+            fh.write(f'{excavs}\t{",".join(tablets)}\n')
+    print(
+        f'{len(excavationByTablet)} tablets have one of'
+        f' {len(excavationByNumber)} excavation numbers'
+    )
+    return excavationByTablet
+
+
 def readCorpora():
     files = glob(f'{SOURCE_DIR}/*.txt')
     tablets = set()
@@ -399,7 +457,7 @@ def diag(msg, info, p):
     diags.append((msg, info, p))
 
 
-def parseCorpora():
+def parseCorpora(excavations):
     tablets = []
     tabletIndex = {}
     curTablet = None
@@ -464,6 +522,8 @@ def parseCorpora():
                     'srcLn': line,
                     'srcLnNum': ln,
                 }
+                if tNum in excavations:
+                    curTablet['excavation'] = excavations[tNum]
                 curFragment = None
                 curFace = None
                 curColumn = None
@@ -1217,6 +1277,7 @@ def makeTf(tablets):
             catalogId
             name
             period
+            excavation
             srcLn
             srcLnNum
         '''.strip().split():
@@ -1575,7 +1636,8 @@ def loadTf():
 
 def main():
     if doParse:
-        tablets = parseCorpora()
+        excavations = readMeta()
+        tablets = parseCorpora(excavations)
         if errors:
             return
     if doTf:
