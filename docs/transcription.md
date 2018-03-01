@@ -66,6 +66,7 @@ feature | values | in ATF | description
 **remarkable** | `1` `0` | `ABGAL!` | indicates the presence of the *remarkable* flag `!`
 **repeat** | `4` | `4(N01)` | marks repetition of a grapheme
 **uncertain** | `1` `0` | `DU6~b?` | indicates the presence of the *uncertain* flag `?`
+**type** | `empty` `unknown` `numeral` `ideograph` | `...` `X` `N01` `GISZ` | the type of the grapheme of the *sign*
 **variant** | `a` `b` | `APIN~a` `SIG2~a1` | a variant `~` aka allograph of a grapheme
 **written** | `KASKAL` | `APIN!(KASKAL)` | indicates the presence of a flag with a correction `!(`*grapheme*`)`
 
@@ -288,6 +289,19 @@ missing graphemes.
 
 We treat the `...` sign as a single sign `…`, and we treat the cluster as any
 other cluster.
+
+### Type ###
+
+Not everything we see in the transcription as graphemes is a proper grapheme.
+That is why we also have a feature **type** that makes it easy to detect what is the case.
+
+TF | ATF | type | explanation
+-- | --- | ---- | ---
+   | *not present* | `empty` | these are signs inserted by the conversion where it was needed to fit the model of Text-Fabric
+`…` | `...` | `ellipsis` | one or more missing signs
+`X` | `X`   | `unknown`  | an unknown sign
+`N01` | `N01` | `numeral` | a numeral, usually as a repeat: `7(N01)`
+`GISZ` | `GISZ` | `ideograph` | an ordinary grapheme
 
 ### Augments ###
 

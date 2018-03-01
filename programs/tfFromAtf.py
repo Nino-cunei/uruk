@@ -227,7 +227,10 @@ specificMetaData = dict(
         ' clusters with sub-clusters'
     ),
     text='text of comment nodes',
-    type='type of a face; type of a comment; type of a cluster',
+    type=(
+        'type of a face; type of a comment; type of a cluster;'
+        'type of a sign'
+    ),
     uncertain='corresponds to ?-flag in transcription',
     variant='allograph for a sign, corresponds to ~x in transcription',
     variantOuter='allograph for a quad, corresponds to ~x in transcription',
@@ -1072,6 +1075,14 @@ def transformQuad(quads, p):
                             p,
                         )
                     signData['grapheme'] = base
+                    signData['type'] = 'ideograph'
+                    if len(base) >= 2:
+                        if base[0] == 'N' and base[1].isdecimal():
+                            signData['type'] = 'numeral'
+                    elif base == '…':
+                        signData['type'] = 'ellipsis'
+                    elif base == 'X':
+                        signData['type'] = 'unknown'
                     info.update(rInfo)
                     if info:
                         signData['info'] = info
@@ -1487,6 +1498,7 @@ def makeTf(tablets):
         curSlot += 1
         for ft in '''
             grapheme
+            type
             repeat
         '''.strip().split():
             if ft in sign:
@@ -1497,7 +1509,7 @@ def makeTf(tablets):
         return (nodeType, curSlot)
 
     def doEmptySign():
-        doSign({'grapheme': ''})
+        doSign({'grapheme': '', 'type': 'empty'})
 
     def doInfo(data, node, nodeType):
         infoData = data.get('info', {})
