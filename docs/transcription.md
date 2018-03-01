@@ -297,7 +297,7 @@ That is why we also have a feature **type** that makes it easy to detect what is
 
 TF | ATF | type | explanation
 -- | --- | ---- | ---
-   | *not present* | `empty` | these are signs inserted by the conversion where it was needed to fit the model of Text-Fabric
+``   | *not present* | `empty` | these are signs inserted by the conversion where it was needed to fit the model of Text-Fabric
 `…` | `...` | `ellipsis` | one or more missing signs
 `X` | `X`   | `unknown`  | an unknown sign
 `N01` | `N01` | `numeral` | a numeral, usually as a repeat: `7(N01)`
