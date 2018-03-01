@@ -191,3 +191,34 @@ class Cunei(object):
                 all(F.otype.v(parent) != 'quad' for parent in E.sub.t(quad))
             )
         ]
+
+    def nodeFromCase(self, passage):
+        api = self.api
+        F = api.F
+        L = api.L
+        T = api.T
+        section = passage[0:2]
+        caseNum = passage[2].replace('.', '')
+        column = T.nodeFromSection(section)
+        if column is None:
+            return None
+        cases = [
+            c
+            for c in L.d(column, otype='case')
+            if F.fullNumber.v(c) == caseNum
+        ]
+        if not cases:
+            return None
+        return cases[0]
+
+    def caseFromNode(self, n):
+        api = self.api
+        F = api.F
+        T = api.T
+        section = T.sectionFromNode(n)
+        if section is None:
+            return None
+        fullNumber = F.fullNumber.v(n)
+        if fullNumber is None:
+            return None
+        return (section[0], section[1], fullNumber)

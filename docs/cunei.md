@@ -143,3 +143,40 @@ that by inspecting the **sub** edges that land into a quad or sign:
 However, there might be *clusters* around the node, and such a cluster will have
 an outgoing **sub** edge to the node. Hence we should test whether all incoming
 **sub** edges are not originating from an other quad.
+
+### nodeFromCase ###
+
+Very much like the built-in
+[T.nodeFromSection](https://github.com/Dans-labs/text-fabric/wiki/Api#sectioning)
+of Text-Fabric. It gives you a node, if you specify a terminal case, i.e. a
+transcription line.
+
+**Takes**
+
+*   a 3-tuple `(` *tabletNumber*, *face*:*columnNumber*, *hierarchical line
+    number* `)`; the hierarchical number may contain the original `.` that they
+    often have in the transcriptions, but you may also leave them out;
+
+**Returns**
+
+*   the corresponding node, which will be of a terminal *case*, having as
+    **fullNumber** the value you supplied as *hierarchical line number*. If no
+    such node exists, you get `None` back.
+
+### caseFromNode ###
+
+Very much like the built-in
+[T.sectionFromNode](https://github.com/Dans-labs/text-fabric/wiki/Api#sectioning)
+of Text-Fabric. It gives you a section tuple, if you give it the node a terminal
+case, i.e. a transcription line.
+
+**Takes**
+
+*   the node of a terminal case (these are the cases that have a full hierarchical
+    number; these cases correspond to the individual numbered lines in
+    the transcription sources;
+
+**Returns**
+
+*   a 3-tuple `(` *tabletNumber*, *face*:*columnNumber*, *hierarchical line
+    number* `)`; the hierarchical number will not contain `.`s.
