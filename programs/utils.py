@@ -15,6 +15,44 @@ CLUSTER_END = {y: x for (x, y) in CLUSTER_BEGIN.items()}
 CLUSTER_KIND = {'[': 'uncertain', '(': 'properName', '<': 'supplied'}
 CLUSTER_BRACKETS = dict((name, (bOpen, CLUSTER_BEGIN[bOpen]))
                         for (bOpen, name) in CLUSTER_KIND.items())
+BLACKLIST = set(
+    '''
+    P464118
+    P471689
+    P471682
+    P471685
+    P471683
+    P471691
+    P471694
+    P471693
+    P471688
+    P471687
+    P471692
+    P471684
+    P491489
+    P471686
+    P471690
+    P431151
+    P455567
+    P456183
+    P455718
+    P455726
+    P456095
+    P456780
+    P456795
+    P456817
+    P457754
+    P457755
+    P458281
+    P458349
+    P458394
+    P458395
+    P458434
+    P458717
+    P458792
+    P458869
+'''.strip().split()
+)
 
 
 class Compare(object):
@@ -56,7 +94,7 @@ class Compare(object):
                     if len(line) and line[0] == '&':
                         comps = line[1:].split('=', 1)
                         curTablet = comps[0].strip()
-                        if curTablet in tablets:
+                        if curTablet in tablets or curTablet in BLACKLIST:
                             skipTablet = True
                         else:
                             skipTablet = False

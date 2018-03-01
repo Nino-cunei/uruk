@@ -10,9 +10,9 @@
 @valueType=str
 @version=0.1
 @writtenBy=Text-Fabric
-@dateWritten=2018-03-01T12:39:07Z
+@dateWritten=2018-03-01T13:05:21Z
 
-178341	version: 0.1
+178208	version: 0.1
 atf: lang qpc
 version: 0.1
 atf: lang qpc
@@ -5784,12 +5784,6 @@ seal
 atf: lang sux
 seal
 (no linguistic content)
-atf: lang sux
-seal
-(no linguistic content)
-atf: lang sux
-seal
-n lines broken
 atf: lang qpc
 seal
 (no legend)
@@ -6129,28 +6123,7 @@ seal
 atf: lang nlc
 seal
 (no linguistic content)
-atf: lang sux
-seal
-(no linguistic content)
-atf: lang sux
-seal
-(no linguistic content)
 atf: lang nlc
-seal
-(no linguistic content)
-atf: lang sux
-seal
-(no linguistic content)
-atf: lang nlc
-seal
-(no linguistic content)
-atf: lang sux
-seal
-( no linguistic content)
-atf: lang sux
-seal
-( no linguistic content)
-atf: lang sux
 seal
 (no linguistic content)
 atf: lang nlc
@@ -6165,10 +6138,7 @@ seal
 atf: lang nlc
 seal
 (no linguistic content)
-atf: lang sux
-seal
-(no linguistic content)
-atf: lang sux
+atf: lang nlc
 seal
 (no linguistic content)
 atf: lang nlc
@@ -6189,25 +6159,7 @@ seal
 atf: lang nlc
 seal
 (no linguistic content)
-atf: lang sux
-seal
-(no linguistic content)
 atf: lang nlc
-seal
-(no linguistic content)
-atf: lang sux
-seal
-( no linguistic content)
-atf: lang sux
-seal
-(no linguistic content)
-atf: lang sux
-seal
-(no linguistic content)
-atf: lang nlc
-seal
-(no linguistic content)
-atf: lang sux
 seal
 (no linguistic content)
 atf: lang nlc
@@ -6222,13 +6174,7 @@ seal
 atf: lang nlc
 seal
 (no linguistic content)
-atf: lang sux
-seal
-(no linguistic content)
-atf: lang sux
-seal
-(no linguistic content)
-atf: lang sux
+atf: lang nlc
 seal
 (no linguistic content)
 atf: lang nlc
