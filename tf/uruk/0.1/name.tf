@@ -10,9 +10,9 @@
 @valueType=str
 @version=0.1
 @writtenBy=Text-Fabric
-@dateWritten=2018-02-27T14:24:00Z
+@dateWritten=2018-03-01T12:39:06Z
 
-150862	HJN 0044
+148517	HJN 0044
 HJN 0045
 www archaeo-auction 003
 www archaeo-auction 004
@@ -1193,7 +1193,6 @@ BagM 22, 162, W 24246,BIS
 BSOAS 62, 116
 CDLB 2003/4
 CDLB nn, CMAA 020-C0003
-CDLI Lexical 000002 (Archaic Lu2 A) composite
 CDLI Lexical 000002, ex. 001
 CDLI Lexical 000002, ex. 002
 CDLI Lexical 000002, ex. 003
@@ -1381,7 +1380,6 @@ CDLI Lexical 000002, ex. 190
 CDLI Lexical 000002, ex. 192
 CDLI Lexical 000002, ex. 193
 CDLI Lexical 000002, ex. 194
-CDLI Lexical 000007 (Archaic Officials) composite
 CDLI Lexical 000007, ex. 001
 CDLI Lexical 000007, ex. 002
 CDLI Lexical 000007, ex. 003
@@ -1398,7 +1396,6 @@ CDLI Lexical 000007, ex. 013
 CDLI Lexical 000007, ex. 014
 CDLI Lexical 000007, ex. 015
 CDLI Lexical 000007, ex. 016
-CDLI Lexical 000011 (Archaic Animals) composite
 CDLI Lexical 000011, ex. 01
 CDLI Lexical 000011, ex. 02
 CDLI Lexical 000011, ex. 03
@@ -1425,7 +1422,6 @@ CDLI Lexical 000011, ex. 23
 CDLI Lexical 000011, ex. 24
 CDLI Lexical 000011, ex. 25
 CDLI Lexical 000011, ex. 026
-CDLI Lexical 000013 (Archaic Fish) composite
 CDLI Lexical 000013, ex. 01
 CDLI Lexical 000013, ex. 02
 CDLI Lexical 000013, ex. 03
@@ -1448,19 +1444,16 @@ CDLI Lexical 000013, ex. 19
 CDLI Lexical 000013, ex. 20
 CDLI Lexical 000013, ex. 21
 CDLI Lexical 000013, ex. 22
-CDLI Lexical 000017 (Archaic Birds) composite
 CDLI Lexical 000017, ex. 01
 CDLI Lexical 000017, ex. 02
 CDLI Lexical 000017, ex. 03
 CDLI Lexical 000017, ex. 04
 CDLI Lexical 000017, ex. 05
 CDLI Lexical 000017, ex. 06
-CDLI Lexical 000019 (Archaic Plant) composite
 CDLI Lexical 000019, ex. 01
 CDLI Lexical 000019, ex. 02
 CDLI Lexical 000019, ex. 03
 CDLI Lexical 000019, ex. 04
-CDLI Lexical 000022 (Archaic Wood) composite
 CDLI Lexical 000022, ex. 01
 CDLI Lexical 000022, ex. 02
 CDLI Lexical 000022, ex. 03
@@ -1493,7 +1486,6 @@ CDLI Lexical 000022, ex. 29
 CDLI Lexical 000022, ex. 30
 CDLI Lexical 000022, ex. 31
 CDLI Lexical 000022, ex. 32
-CDLI Lexical 000023 (Archaic Vessels) composite
 CDLI Lexical 000023, ex. 001
 CDLI Lexical 000023, ex. 002
 CDLI Lexical 000023, ex. 003
@@ -1590,7 +1582,6 @@ CDLI Lexical 000023, ex. 095
 CDLI Lexical 000023, ex. 096
 CDLI Lexical 000023, ex. 097
 CDLI Lexical 000023, ex. 098
-CDLI Lexical 000026 (Archaic Metal) composite
 CDLI Lexical 000026, ex. 01
 CDLI Lexical 000026, ex. 02
 CDLI Lexical 000026, ex. 03
@@ -1645,7 +1636,6 @@ CDLI Lexical 000026, ex. 52
 CDLI Lexical 000026, ex. 53
 PCTSC, MS 2900/06
 CDLI Lexical 000026, ex. 56
-CDLI Lexical 000028 (Archaic Grain) composite
 CDLI Lexical 000028, ex. 01
 CDLI Lexical 000028, ex. 02
 CDLI Lexical 000028, ex. 03
@@ -1655,7 +1645,6 @@ CDLI Lexical 000028, ex. 06
 CDLI Lexical 000028, ex. 07
 CDLI Lexical 000028, ex. 08
 CDLI Lexical 000028, ex. 09
-CDLI Lexical 000030 (Archaic Tribute) composite
 CDLI Lexical 000030, ex. 01
 CDLI Lexical 000030, ex. 02
 CDLI Lexical 000030, ex. 03
@@ -1713,7 +1702,6 @@ CDLI Lexical 000030, ex. 54
 CDLI Lexical 000030, ex. 55
 CDLI Lexical 000030, ex. 56
 CDLI Lexical 000030, ex. 57
-CDLI Lexical 000034 (Archaic Cities) composite
 CDLI Lexical 000034, ex. 01
 CDLI Lexical 000034, ex. 02
 CDLI Lexical 000034, ex. 03
@@ -1731,7 +1719,6 @@ CDLI Lexical 000034, ex. 14
 CDLI Lexical 000034, ex. 15
 CDLI Lexical 000034, ex. 16
 CDLI Lexical 000034, ex. 17
-CDLI Lexical 0000archun36 (Archaic Unidentified 36) composite
 CDLI Lexical 0000archun36, ex. 01
 CDLI Lexical 0000archun36, ex. 02
 ATU 3, pl. 078, W 21208,50
@@ -1872,8 +1859,6 @@ CDLI Lexical Archaic Unidentified, ex. 125
 CDLI Lexical Archaic Unidentified, ex. 126
 CDLI Lexical Archaic Unidentified, ex. 127
 CDLI Lexical Archaic Unidentified, ex. 128
-CDLI Lexical needed (Archaic Geography) composite
-CDLI Lexical 0000nn (Archaic Pigs) composite
 CDLI Seals 001379 (physical)
 CDLI Seals 001388 (physical)
 CDLI Seals 001827 (physical)
@@ -5791,7 +5776,6 @@ CDLI Lexical 000023, ex. 093
 CDLI Lexical 000026, ex. 45
 CDLI Lexical Archaic Unidentified, ex. 024
 CDLI Seals 001410 (physical)
-CDLI Seals xxx
 CDLI Seals 008604 (physical)
 CDLI Seals 008605 (physical)
 CDLI Seals 008606 (physical)

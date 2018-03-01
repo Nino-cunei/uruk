@@ -10,9 +10,9 @@
 @valueType=str
 @version=0.1
 @writtenBy=Text-Fabric
-@dateWritten=2018-02-27T14:24:01Z
+@dateWritten=2018-03-01T12:39:07Z
 
-180733	version: 0.1
+178341	version: 0.1
 atf: lang qpc
 version: 0.1
 atf: lang qpc
@@ -2469,8 +2469,6 @@ atf: lang qpc
 version: 0.1
 atf: lang qpc
 atf: lang qpc
-composite text
-atf: lang qpc
 rest broken
 atf: lang qpc
 atf: lang qpc
@@ -3259,10 +3257,6 @@ beginning broken
 broken
 rest broken
 atf: lang qpc
-composite text
-n lines broken
-rest broken
-atf: lang qpc
 beginning broken
 rest broken
 beginning broken
@@ -3351,13 +3345,6 @@ rest broken
 atf: lang qpc
 beginning broken
 broken
-rest broken
-atf: lang qpc
-composite text
-n lines broken
-n lines broken
-n lines broken
-n lines broken
 rest broken
 atf: lang qpc
 beginning broken
@@ -3479,16 +3466,6 @@ rest broken
 hybrid additions
 (not given)
 atf: lang qpc
-composite text
-n lines broken
-see ED version Q000014
-n lines broken
-see ED version Q000014
-n lines broken
-n lines broken
-n lines broken
-rest broken
-atf: lang qpc
 beginning broken
 broken
 rest broken
@@ -3586,12 +3563,6 @@ beginning broken
 beginning broken
 blank space
 atf: lang qpc
-composite text
-n lines broken
-n lines broken
-n lines broken
-n lines broken
-atf: lang qpc
 beginning broken
 beginning broken
 rest broken
@@ -3622,15 +3593,6 @@ rest broken
 rest broken
 with design ?
 atf: lang qpc
-composite text
-beginning broken
-n lines broken
-n lines broken
-n lines broken
-n lines broken
-n lines broken
-rest broken
-atf: lang qpc
 beginning broken
 beginning broken
 beginning broken
@@ -3649,8 +3611,6 @@ atf: lang qpc
 beginning broken
 broken
 rest broken
-atf: lang qpc
-composite text
 atf: lang qpc
 beginning broken
 broken
@@ -3829,8 +3789,6 @@ beginning broken
 rest broken
 beginning broken
 rest broken
-atf: lang qpc
-composite text
 atf: lang qpc
 rest broken
 rest broken
@@ -4299,10 +4257,6 @@ beginning broken
 beginning broken
 beginning broken
 atf: lang qpc
-composite text
-n lines broken
-n lines broken
-atf: lang qpc
 rest broken
 rest broken
 atf: lang qpc
@@ -4582,14 +4536,6 @@ atf: lang qpc
 beginning broken
 beginning broken
 beginning broken
-atf: lang qpc
-composite text
-n lines broken
-n lines broken
-n lines broken
-n lines broken
-n lines broken
-n lines broken
 atf: lang qpc
 beginning broken
 rest broken
@@ -4635,8 +4581,6 @@ atf: lang qpc
 beginning broken
 beginning broken
 blank space
-atf: lang qpc
-composite text
 atf: lang qpc
 beginning broken
 rest broken
@@ -4942,8 +4886,6 @@ rest broken
 beginning broken
 rest broken
 atf: lang qpc
-composite text
-atf: lang qpc
 beginning broken
 beginning broken
 beginning broken
@@ -5033,12 +4975,6 @@ atf: lang qpc
 beginning broken
 beginning broken
 rest broken
-rest broken
-atf: lang qpc
-composite text
-beginning broken
-n lines broken
-n lines broken
 rest broken
 atf: lang qpc
 beginning broken
@@ -5840,10 +5776,6 @@ rest broken
 beginning broken
 rest broken
 (colophon)
-atf: lang qpc
-composite text
-atf: lang qpc
-composite text
 atf: lang qpc
 seal
 atf: lang nlc
@@ -14555,9 +14487,6 @@ beginning broken
 (colophon)
 atf: lang nlc
 seal
-(no linguistic content)
-atf: lang sux
-composite text
 (no linguistic content)
 atf: lang nlc
 seal

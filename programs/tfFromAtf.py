@@ -113,6 +113,27 @@ SHOWCASES = set(
 '''.strip().split()
 )
 
+BLACKLIST = set(
+    '''
+    P464118
+    P471689
+    P471682
+    P471685
+    P471683
+    P471691
+    P471694
+    P471693
+    P471688
+    P471687
+    P471692
+    P471684
+    P491489
+    P471686
+    P471690
+    P431151
+'''.strip().split()
+)
+
 commonMetaData = dict(
     dataset=CORPUS,
     version=VERSION,
@@ -340,7 +361,7 @@ def readCorpora():
                 if len(line) and line[0] == '&':
                     comps = line[1:].split('=', 1)
                     curTablet = comps[0].strip()
-                    if curTablet in tablets:
+                    if curTablet in tablets or curTablet in BLACKLIST:
                         skipTablet = True
                     else:
                         skipTablet = False
