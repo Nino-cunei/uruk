@@ -203,6 +203,7 @@ feature | values | in ATF | description
 **catalogId** | `P005381` | `&P005381` | the identification of a [*tablet*](#tablet)
 **name** | `MSVO 3, 70` | `&P005381 = MSVO 3, 70` | the part after the `=` in the identification line of a tablet
 **period** | `uruk-iii` `uruk-iv` |  | the period the tablet belongs to, derived from the source file name
+**excavation** | `W 24217,c` `Ashm 1924,0924` |  | the identifier of the excavation place of the tablet
 **srcLn** |  |  | the literal text in the transcription at the start of the object; see [source data](#source-data)
 **srcLnNum** |  |  | the line number of the transcription line at the start of the object; see [source data](#source-data)
 
@@ -855,6 +856,10 @@ Our corpora are just sets of *tablets*. The position of a particular tablet in
 the whole set is not meaningful. The main identification of tablets is by their
 **catalogId** (in this case *P number*), not by any sequence number within the
 corpus.
+
+We also added the feature **excavation**, containing the excavation number(s) of
+the tablet. These numbers are given in the full source files as metadata;
+they are not in the pure transcription files on which the rest of the conversion is based.
 
 Subsequent lines starting with `#` or `@object` are treated as
 [*comments*](#comment).

@@ -19,6 +19,11 @@ On the [search page](https://cdli.ucla.edu/search/search.php) we entered under
 page, we have chosen `Download transliterations`. Below we list the download
 links per corpus.
 
+We have also chosen `Download all text`.
+What you get then is the same transliteration, but each tablet is preceded with metadata.
+We have picked the lines starting with `Excavation nr` to get the excavation numbers.
+For all other purposes is it more convenient to work with the pure transcription files.
+
 In this repo we convert the following corpora to Text-Fabric:
 
 *   Uruk III -
