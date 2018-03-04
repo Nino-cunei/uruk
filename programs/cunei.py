@@ -291,7 +291,8 @@ for <i>k</i> one of
                     theImage = self._useImage(image)
                     result.append(
                         f'''
-<img src="{theImage}" style="display: inline;" {attStr} />
+<!--<img src="{theImage}" style="display: inline;" {attStr} />-->
+<iframe src="{theImage}" style="display: inline;" {attStr} />
 '''
                     )
             else:
