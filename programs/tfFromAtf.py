@@ -63,7 +63,7 @@ CORPUS = 'uruk'
 VERSION = '0.1'
 
 REPO_DIR = os.path.expanduser(f'~/github/Dans-labs/{REPO}')
-SOURCE_DIR = f'{REPO_DIR}/sources/{ORIGIN}'
+SOURCE_DIR = f'{REPO_DIR}/sources/{ORIGIN}/transcriptions'
 META_DIR = f'{REPO_DIR}/sources/{ORIGIN}/meta'
 TEMP_DIR = f'{REPO_DIR}/_temp'
 DEBUG_FILE = f'{TEMP_DIR}/cldi_uruk.txt'
