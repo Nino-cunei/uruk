@@ -9,7 +9,7 @@ The module
 contains a number of handy functions to deal with TF nodes for cuneiform tablets
 and
 [ATF](http://oracc.museum.upenn.edu/doc/help/editinginatf/primer/inlinetutorial/index.html)
-transcriptions of them.
+transcriptions of them and [CDLI](https://cdli.ucla.edu) lineart.
 
 Set up
 ------
@@ -33,10 +33,14 @@ api of Text-Fabric:
 SOURCE = 'uruk'
 VERSION = '0.1'
 CORPUS = f'{REPO}/tf/{SOURCE}/{VERSION}'
+IMAGE_DIR = f'{REPO}/source/cdli/images'
 TF = Fabric(locations=[CORPUS], modules=[''], silent=False )
 api = TF.load('')
-CUNEI = Cunei(api)
+CUNEI = Cunei(api, IMAGE_DIR)
 ```
+
+When `Cunei` is initializing, it scans the `IMAGE_DIR` and reports how many
+lineart images it sees.
 
 Usage
 -----
@@ -173,10 +177,38 @@ case, i.e. a transcription line.
 **Takes**
 
 *   the node of a terminal case (these are the cases that have a full hierarchical
-    number; these cases correspond to the individual numbered lines in
-    the transcription sources;
+    number; these cases correspond to the individual numbered lines in the
+    transcription sources;
 
 **Returns**
 
 *   a 3-tuple `(` *tabletNumber*, *face*:*columnNumber*, *hierarchical line
     number* `)`; the hierarchical number will not contain `.`s.
+
+### lineart ###
+
+Fetches lineart for a node, and return it in a way that it can be embedded in an
+output cell.
+
+**Takes**
+
+*   one or more nodes; as far as they are of type `tablet`, `quad` or `sign`,
+    lineart will be looked up for them;
+*   an optional key (a string), specifying which of the available linearts for
+    this node you want to use; if you want to know which keys are available
+    for a node, call `lineart` with `key='xxx'`, or any non-existing key;
+*   an optional list of key=value, such as `width=100`, `height=200`.
+
+The result will be returned as a *row* of images.
+Subsequent calls to `lineart()` will result in vertically stacked rows.
+So you can control the two-dimensional layout of your images.
+
+**Implementation details**
+
+The images will be called in by a little piece of generated HTML, using
+the `<img/>` tag.
+This only works if the image is within reach.
+To the images will be copied to a sister directory of the notebook.
+The name of this directory is `cdli-imagery`.
+It will be created on-the-fly when needed.
+Copying will only be done if needed.

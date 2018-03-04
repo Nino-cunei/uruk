@@ -1,4 +1,19 @@
+import os
+import re
+import collections
+from glob import glob
+from shutil import copyfile
+from IPython.display import HTML
+
 LIMIT = 20
+
+TABLET_TO = '{}/tablets/lineart'
+TABLET_EXT = 'pdf'
+
+IDEO_TO = '{}/ideographs/lineart'
+IDEO_EXT = 'jpg'
+
+LOCAL_DIR = 'cdli-imagery'
 
 FLAGS = (
     ('damage', '#'),
@@ -17,8 +32,12 @@ CLUSTER_BRACKETS = dict((name, (bOpen, CLUSTER_BEGIN[bOpen]))
 
 
 class Cunei(object):
-    def __init__(self, api):
+    def __init__(self, api, imageDir):
         self.api = api
+        self.imageDir = imageDir
+        self._getTabletImages()
+        self._getIdeoImages()
+        self.cwd = os.getcwd()
 
     def atfFromSign(self, n, flags=False):
         F = self.api.F
@@ -203,8 +222,7 @@ class Cunei(object):
         if column is None:
             return None
         cases = [
-            c
-            for c in L.d(column, otype='case')
+            c for c in L.d(column, otype='case')
             if F.fullNumber.v(c) == caseNum
         ]
         if not cases:
@@ -222,3 +240,115 @@ class Cunei(object):
         if fullNumber is None:
             return None
         return (section[0], section[1], fullNumber)
+
+    def lineart(self, ns, key=None, **options):
+        api = self.api
+        F = api.F
+        if type(ns) is int:
+            ns = [ns]
+        result = []
+        attStr = ' '.join(
+            f'{key}="{value}"' for (key, value) in options.items()
+        )
+        for n in ns:
+            nType = F.otype.v(n)
+            if nType in OUTER_QUAD_TYPES:
+                ideo = self.atfFromOuterQuad(n)
+                image = self.ideo.get(ideo, None)
+                if image is None:
+                    result.append(
+                        f'''
+<b>no lineart</b> for ideograph <code>{ideo}</code>
+'''
+                    )
+                theImage = self._useImage(image)
+                result.append(
+                    f'''
+<img src="{theImage}" style="display: inline;" {attStr} />
+'''
+                )
+                # return Image(filename=image, **options)
+            elif nType == 'tablet':
+                pNum = F.catalogId.v(n)
+                images = self.tabletLineart.get(pNum, None)
+                if images is None:
+                    result.append(
+                        f'''
+<b>no lineart</b> for tablet <code>{pNum}</code>
+'''
+                    )
+                image = images.get(key or '', None)
+                if image is None:
+                    result.append(
+                        f'''
+<b>try</b>
+<code>key='</code><i>k</i><code>'</code>
+for <i>k</i> one of
+<code>{'</code> <code>'.join(sorted(images.keys()))}</code>
+'''
+                    )
+                else:
+                    theImage = self._useImage(image)
+                    result.append(
+                        f'''
+<img src="{theImage}" style="display: inline;" {attStr} />
+'''
+                    )
+            else:
+                result.append(
+                    f'''
+<b>no lineart</b> for <code>{nType}</code>s
+'''
+                )
+        resultStr = '\n'.join(result)
+        return HTML(
+            f'''
+        <div>
+            {resultStr}
+        </div>
+'''
+        )
+
+    def _useImage(self, image):
+        (imageDir, imageName) = os.path.split(image)
+        localDir = f'{self.cwd}/{LOCAL_DIR}'
+        if not os.path.exists(localDir):
+            os.makedirs(localDir, exist_ok=True)
+        localImage = f'{localDir}/{imageName}'
+        if (
+            not os.path.exists(localImage) or
+            os.path.getmtime(image) > os.path.getmtime(localImage)
+        ):
+            copyfile(image, localImage)
+        return f'{LOCAL_DIR}/{imageName}'
+
+    def _getIdeoImages(self):
+        ideoDir = IDEO_TO.format(self.imageDir)
+        filePaths = glob(f'{ideoDir}/*.{IDEO_EXT}')
+        ideo = {}
+        for filePath in filePaths:
+            (fileDir, fileName) = os.path.split(filePath)
+            (base, ext) = os.path.splitext(fileName)
+            ideo[base] = filePath
+        self.ideo = ideo
+        print(f'Found {len(ideo)} ideographs')
+
+    def _getTabletImages(self):
+        tabletDir = TABLET_TO.format(self.imageDir)
+        filePaths = glob(f'{tabletDir}/*.{TABLET_EXT}')
+        tabletLineart = {}
+        pNumPat = re.compile('P[0-9]+')
+        theKeys = collections.Counter()
+        for filePath in filePaths:
+            (fileDir, fileName) = os.path.split(filePath)
+            (base, ext) = os.path.splitext(fileName)
+            pNums = pNumPat.findall(base)
+            if not pNums:
+                print(f'skipped non-tablet "{fileName}"')
+                continue
+            pNum = pNums[0]
+            key = base.replace('_l', '').replace(pNum, '')
+            theKeys[key] += 1
+            tabletLineart.setdefault(pNum, {})[key] = filePath
+        self.tabletLineart = tabletLineart
+        print(f'Found {len(tabletLineart)} tablet linearts')
