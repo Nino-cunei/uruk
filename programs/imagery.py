@@ -15,14 +15,14 @@ commands:
 
 REPO_DIR = os.path.expanduser('~/github/Dans-labs/Nino-cunei')
 TABLET_FROM = f'{REPO_DIR}/_downloads/cdli_epstextcopies'
-TABLET_TO = f'{REPO_DIR}/sources/images/tablets/lineart'
+TABLET_TO = f'{REPO_DIR}/sources/cdli/images/tablets/lineart'
 TABLET_COMMAND = '/usr/local/bin/ps2pdf'
 TABLET_OPTIONS_IN = ['-dEPSCrop']
 TABLET_OPTIONS_OUT = []
 TABLET_EXT = ('eps', 'pdf')
 
 IDEO_FROM = f'{REPO_DIR}/_downloads/archsignfiles_jpg'
-IDEO_TO = f'{REPO_DIR}/sources/images/ideographs/lineart'
+IDEO_TO = f'{REPO_DIR}/sources/cdli/images/ideographs/lineart'
 IDEO_COMMAND = '/usr/local/bin/magick'
 IDEO_OPTIONS_IN = []
 IDEO_OPTIONS_OUT = ['-trim', '+repage']
