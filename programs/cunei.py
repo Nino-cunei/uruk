@@ -46,8 +46,9 @@ def dm(md):
 
 
 class Cunei(object):
-    def __init__(self, repoDir):
-        repo = os.path.expanduser(repoDir)
+    def __init__(self, repoBase, repoRel, name):
+        repoBase = os.path.expanduser(repoBase)
+        repo = f'{repoBase}/{repoRel}'
         self.repo = repo
         self.sourceDir = f'{repo}/{SOURCE_DIR}'
         self.imageDir = f'{repo}/{IMAGE_DIR}'
@@ -65,6 +66,17 @@ class Cunei(object):
         self._getTabletImages()
         self._getIdeoImages()
         self.cwd = os.getcwd()
+        cwdPat = re.compile(f'^.*{re.escape(repoRel)}\/(.*)')
+        cwdRel = cwdPat.findall(self.cwd)
+        if cwdRel:
+            cwdRel = cwdRel[0]
+        else:
+            cwdRel = None
+        nbLink = (
+            None if name is None or cwdRel is None else
+            f'http://nbviewer.jupyter.org/github'
+            f'/{repoRel}/blob/master/{cwdRel}/{name}.ipynb'
+        )
         transLink = (
             'https://github.com/Dans-labs/Nino-cunei'
             '/blob/master/docs/transcription.md'
@@ -77,6 +89,12 @@ class Cunei(object):
 [Text-Fabric API](https://github.com/Dans-labs/text-fabric)
 '''
         )
+        if nbLink:
+            dm(f'''
+Go to
+[nbviewer]({nbLink})
+to view this notebook with all its pdf images.
+''')
 
     def getSource(self, node, nodeType=None, lineNumbers=False):
         api = self.api
@@ -248,7 +266,7 @@ class Cunei(object):
             )
             seen.add(child)
             if thisResult is None:
-                print(
+                dm(
                     f'TF: child of cluster has type {childType}:'
                     ' should not happen'
                 )
