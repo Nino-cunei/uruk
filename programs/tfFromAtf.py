@@ -57,12 +57,11 @@ if FLAG:
         print(HELP)
         sys.exit()
 
-REPO = 'Nino-cunei'
 ORIGIN = 'cdli'
 CORPUS = 'uruk'
 VERSION = '0.1'
 
-REPO_DIR = os.path.expanduser(f'~/github/Dans-labs/{REPO}')
+REPO_DIR = os.path.expanduser(f'~/github/Nino-cunei/{CORPUS}')
 SOURCE_DIR = f'{REPO_DIR}/sources/{ORIGIN}/transcriptions'
 META_DIR = f'{REPO_DIR}/sources/{ORIGIN}/meta'
 TEMP_DIR = f'{REPO_DIR}/_temp'

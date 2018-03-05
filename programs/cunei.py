@@ -78,14 +78,14 @@ class Cunei(object):
             f'/{repoRel}/blob/master/{cwdRel}/{name}.ipynb'
         )
         transLink = (
-            'https://github.com/Dans-labs/Nino-cunei'
+            f'https://github.com/{repoRel}'
             '/blob/master/docs/transcription.md'
         )
         dm(
             f'''
 **Documentation:**
 [Feature docs]({transLink})
-[Cunei API](https://github.com/Dans-labs/Nino-cunei/blob/master/docs/cunei.md)
+[Cunei API](https://github.com/{repoRel}/blob/master/docs/cunei.md)
 [Text-Fabric API](https://github.com/Dans-labs/text-fabric)
 '''
         )
