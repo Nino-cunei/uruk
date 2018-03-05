@@ -17,6 +17,9 @@ REPORT_DIR = 'reports'
 
 LIMIT = 20
 
+PHOTO_TO = '{}/tablets/photos'
+PHOTO_EXT = 'jpg'
+
 TABLET_TO = '{}/tablets/lineart'
 TABLET_EXT = 'pdf'
 
@@ -24,6 +27,13 @@ IDEO_TO = '{}/ideographs/lineart'
 IDEO_EXT = 'jpg'
 
 LOCAL_DIR = 'cdli-imagery'
+
+PHOTO_URL = f'https://cdli.ucla.edu/dl/photo/{{}}_d.{PHOTO_EXT}'
+# CDLI_URL = 'https://cdli.ucla.edu/search/archival_view.php?ObjectID='
+CDLI_URL = (
+    'https://cdli.ucla.edu/search/search_results.php?'
+    'SearchMode=Text&ObjectID={}'
+)
 
 FLAGS = (
     ('damage', '#'),
@@ -40,9 +50,33 @@ CLUSTER_KIND = {'[': 'uncertain', '(': 'properName', '<': 'supplied'}
 CLUSTER_BRACKETS = dict((name, (bOpen, CLUSTER_BEGIN[bOpen]))
                         for (bOpen, name) in CLUSTER_KIND.items())
 
+FLEX_STYLE = (
+    'display: flex;'
+    'flex-flow: row nowrap;'
+    'justify-content: center;'
+    'align-items: center;'
+    'align-content: center;'
+)
+
+ITEM_STYLE = ('padding: 0.5rem;')
+
 
 def dm(md):
     display(Markdown(md))
+
+
+def _wrapCdli(piece, pNum):
+    return (
+        '<a title="to CDLI archival page" target="_blank"'
+        f' href="{CDLI_URL.format(pNum)}">{piece}</a>'
+    )
+
+
+def _wrapPhoto(piece, pNum):
+    return (
+        '<a title="to higher resolution photo on CDLI" target="_blank"'
+        f' href="{PHOTO_URL.format(pNum)}">{piece}</a>'
+    )
 
 
 class Cunei(object):
@@ -64,6 +98,7 @@ class Cunei(object):
         loadableFeatures = allFeatures['nodes'] + allFeatures['edges']
         TF.load(loadableFeatures, add=True, silent=True)
         self.api = api
+        self._getTabletPhotos()
         self._getTabletImages()
         self._getIdeoImages()
         self.cwd = os.getcwd()
@@ -91,11 +126,13 @@ class Cunei(object):
 '''
         )
         if nbLink:
-            dm(f'''
+            dm(
+                f'''
 Go to
 [nbviewer]({nbLink})
 to view this notebook with all its pdf images.
-''')
+'''
+            )
 
     def getSource(self, node, nodeType=None, lineNumbers=False):
         api = self.api
@@ -318,6 +355,56 @@ to view this notebook with all its pdf images.
             return None
         return (section[0], section[1], fullNumber)
 
+    def photo(self, ns, showLink=True, **options):
+        api = self.api
+        F = api.F
+        if type(ns) is int:
+            ns = [ns]
+        result = []
+        attStr = ' '.join(
+            f'{key}="{value}"' for (key, value) in options.items()
+        )
+        for n in ns:
+            nType = F.otype.v(n)
+            if nType == 'tablet':
+                pNum = F.catalogId.v(n)
+                image = self.tabletPhotos.get(pNum, None)
+                if image is None:
+                    tabletStr = _wrapCdli('<code>{pNum}</code>', pNum)
+                    thisResult = (
+                        f'<span><b>no photo</b> for tablet {tabletStr}</span>'
+                    )
+                else:
+                    theImage = self._useImage(image)
+                    displayValue = 'block' if showLink else 'inline'
+                    imageStr = (
+                        f'<img src="{theImage}"'
+                        f' style="display: {displayValue}; max-height: 200;" {attStr} />'
+                    )
+                    thisResult = _wrapPhoto(imageStr, pNum)
+                if showLink:
+                    thisResult = f'''
+<div style="display: inline;">{thisResult} {self.cdli(n)}</div>
+'''
+
+                result.append(thisResult)
+            else:
+                result.append(
+                    f'''
+<span><b>no photos</b> for <code>{nType}</code>s</span>
+'''
+                )
+        resultStr = f'</div>\n<div style="{ITEM_STYLE}">'.join(result)
+        return HTML(
+            f'''
+        <div style="{FLEX_STYLE}">
+            <div style="{ITEM_STYLE}">
+                {resultStr}
+            </div>
+        </div>
+'''
+        )
+
     def lineart(self, ns, key=None, **options):
         api = self.api
         F = api.F
@@ -335,7 +422,7 @@ to view this notebook with all its pdf images.
                 if image is None:
                     result.append(
                         f'''
-<b>no lineart</b> for ideograph <code>{ideo}</code>
+<span><b>no lineart</b> for ideograph <code>{ideo}</code></span>
 '''
                     )
                 else:
@@ -349,44 +436,51 @@ to view this notebook with all its pdf images.
                 pNum = F.catalogId.v(n)
                 images = self.tabletLineart.get(pNum, None)
                 if images is None:
-                    result.append(
-                        f'''
-<b>no lineart</b> for tablet <code>{pNum}</code>
-'''
-                    )
+                    tabletStr = _wrapCdli('<code>{pNum}</code>', pNum)
+                    thisResult = f' <b>no lineart</b> for tablet {tabletStr}'
+                    result.append(thisResult)
                 else:
                     image = images.get(key or '', None)
                     if image is None:
                         result.append(
                             f'''
-<b>try</b>
+<span><b>try</b>
 <code>key='</code><i>k</i><code>'</code>
 for <i>k</i> one of
 <code>{'</code> <code>'.join(sorted(images.keys()))}</code>
+</span>
 '''
                         )
                     else:
                         theImage = self._useImage(image)
-                        result.append(
-                            f'''
-<img src="{theImage}" style="display: inline;" {attStr} />
-<!--<iframe src="{theImage}" style="display: inline;" {attStr} />-->
-'''
+                        imageStr = (
+                            f'<img src="{theImage}"'
+                            f' style="display: inline;" {attStr} />'
                         )
+                        thisResult = _wrapCdli(imageStr, pNum)
+                        result.append(thisResult)
             else:
                 result.append(
                     f'''
-<b>no lineart</b> for <code>{nType}</code>s
+<span><b>no lineart</b> for <code>{nType}</code>s</span>
 '''
                 )
-        resultStr = '\n'.join(result)
+        resultStr = f'</div>\n<div style="{ITEM_STYLE}">'.join(result)
         return HTML(
             f'''
-        <div>
-            {resultStr}
+        <div style="{FLEX_STYLE}">
+            <div style="{ITEM_STYLE}">
+                {resultStr}
+            </div>
         </div>
 '''
         )
+
+    def cdli(self, n):
+        api = self.api
+        F = api.F
+        pNum = F.catalogId.v(n)
+        return _wrapCdli('on CDLI', pNum)
 
     def _useImage(self, image):
         (imageDir, imageName) = os.path.split(image)
@@ -431,3 +525,14 @@ for <i>k</i> one of
             tabletLineart.setdefault(pNum, {})[key] = filePath
         self.tabletLineart = tabletLineart
         print(f'Found {len(tabletLineart)} tablet linearts')
+
+    def _getTabletPhotos(self):
+        photoDir = PHOTO_TO.format(self.imageDir)
+        filePaths = glob(f'{photoDir}/*.{PHOTO_EXT}')
+        tabletPhotos = {}
+        for filePath in filePaths:
+            (fileDir, fileName) = os.path.split(filePath)
+            (pNum, ext) = os.path.splitext(fileName)
+            tabletPhotos[pNum] = filePath
+        self.tabletPhotos = tabletPhotos
+        print(f'Found {len(tabletPhotos)} tablet photos')
