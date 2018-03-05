@@ -66,16 +66,16 @@ class Cunei(object):
         self._getTabletImages()
         self._getIdeoImages()
         self.cwd = os.getcwd()
-        cwdPat = re.compile(f'^.*{re.escape(repoRel)}\/(.*)')
+        cwdPat = re.compile(f'^.*/github/([^/]+)/([^/]+)((?:/.+)?)$', re.I)
         cwdRel = cwdPat.findall(self.cwd)
         if cwdRel:
-            cwdRel = cwdRel[0]
+            (thisOrg, thisRepo, thisPath) = cwdRel[0]
         else:
             cwdRel = None
         nbLink = (
             None if name is None or cwdRel is None else
             f'http://nbviewer.jupyter.org/github'
-            f'/{repoRel}/blob/master/{cwdRel}/{name}.ipynb'
+            f'/{thisOrg}/{thisRepo}/blob/master{thisPath}/{name}.ipynb'
         )
         transLink = (
             f'https://github.com/{repoRel}'
