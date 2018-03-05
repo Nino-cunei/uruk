@@ -56,29 +56,10 @@ BLACKLIST = set(
 
 
 class Compare(object):
-    def __init__(self, api, sourceDir, tempDir):
-        self.api = api
-        self.sourceDir = sourceDir
-        self.tempDir = tempDir
-        os.makedirs(tempDir, exist_ok=True)
-
-    def getSource(self, node, nodeType=None, lineNumbers=False):
-        api = self.api
-        F = api.F
-        L = api.L
-        sourceLines = []
-        lineNumber = ''
-        if lineNumbers:
-            lineNumber = f'{F.srcLnNum.v(node):>5}: '
-        sourceLines.append(f'{lineNumber}{F.srcLn.v(node)}')
-        for child in L.d(node, nodeType):
-            sourceLine = F.srcLn.v(child)
-            lineNumber = ''
-            if sourceLine:
-                if lineNumbers:
-                    lineNumber = f'{F.srcLnNum.v(child):>5}: '
-                sourceLines.append(f'{lineNumber}{sourceLine}')
-        return sourceLines
+    def __init__(self, cunei):
+        self.api = cunei.api
+        self.sourceDir = f'{cunei.sourceDir}/transcriptions'
+        self.tempDir = cunei.tempDir
 
     def readCorpora(self):
         files = glob(f'{self.sourceDir}/*.txt')

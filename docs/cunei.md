@@ -26,20 +26,16 @@ sys.path.append(PROGRAM_DIR)
 from cunei import Cunei
 ```
 
-In order to use it, you have to instantiate the `Cunei` object by passing it the
-api of Text-Fabric:
+To use it:
 
-```python
-SOURCE = 'uruk'
-VERSION = '0.1'
-CORPUS = f'{REPO}/tf/{SOURCE}/{VERSION}'
-IMAGE_DIR = f'{REPO}/source/cdli/images'
-TF = Fabric(locations=[CORPUS], modules=[''], silent=False )
-api = TF.load('')
-CUNEI = Cunei(api, IMAGE_DIR)
+```
+CN = Cunei(REPO)
+CN.api.makeAvailableIn(globals())
 ```
 
-When `Cunei` is initializing, it scans the `IMAGE_DIR` and reports how many
+It will start Text-Fabric and load all features for you.
+
+When `Cunei` is initializing, it scans the image directory of the repo and reports how many
 lineart images it sees.
 
 Usage
@@ -49,11 +45,35 @@ Now you can call the methods of *cunei*, as follows. One of the methods is
 `getOuterQuads(node)`. To call it, say
 
 ```python
-outerQuads = Cunei.getOuterQuads(line)
+outerQuads = CN.getOuterQuads(line)
 ```
 
 API
 ---
+
+### getSource ###
+
+Delivers the transcription source of a node. This works for the higher level
+nodes that correspond to one or more source lines: tablets, faces, columns,
+comments, cases (only the lowest level cases that correspond to numbered
+transcription lines).
+
+**Takes**
+
+*   `node` the node for which the source lines should be retrieved;
+*   `nodeType=None` only fetch source lines for sub-nodes of this type;
+*   `lineNumbers=False` add line numbers to the result, these numbers say where
+    the source line occurs in the source file;
+
+**Returns**
+
+*   a list of source lines (strings).
+
+**Implementation details**
+
+The conversion of ATF to Text-Fabric has saved the original source lines and
+their line numbers in the features `srcLn` and `srcLnNum` respectively. This
+function makes use of those features.
 
 ### atfFromSign ###
 

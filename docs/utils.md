@@ -51,30 +51,6 @@ sourceLines = COMP.getSource(tablet)
 API
 ---
 
-### getSource ###
-
-Delivers the transcription source of a node. This works for the higher level
-nodes that correspond to one or more source lines: tablets, faces, columns,
-comments, cases (only the lowest level cases that correspond to numbered
-transcription lines).
-
-**Takes**
-
-*   `node` the node for which the source lines should be retrieved;
-*   `nodeType=None` only fetch source lines for sub-nodes of this type;
-*   `lineNumbers=False` add line numbers to the result, these numbers say where
-    the source line occurs in the source file;
-
-**Returns**
-
-*   a list of source lines (strings).
-
-**Implementation details**
-
-The conversion of ATF to Text-Fabric has saved the original source lines and
-their line numbers in the features `srcLn` and `srcLnNum` respectively. This
-function makes use of those features.
-
 ### readCorpora ###
 
 Read the ATF files from the `SOURCE_DIR`.

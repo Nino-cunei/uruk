@@ -3,7 +3,17 @@ import re
 import collections
 from glob import glob
 from shutil import copyfile
-from IPython.display import HTML
+from IPython.display import display, Markdown, HTML
+
+from tf.fabric import Fabric
+
+SOURCE = 'uruk'
+VERSION = '0.1'
+CORPUS = f'tf/{SOURCE}/{VERSION}'
+SOURCE_DIR = 'sources/cdli'
+IMAGE_DIR = f'{SOURCE_DIR}/images'
+TEMP_DIR = '_temp'
+REPORT_DIR = 'reports'
 
 LIMIT = 20
 
@@ -31,13 +41,60 @@ CLUSTER_BRACKETS = dict((name, (bOpen, CLUSTER_BEGIN[bOpen]))
                         for (bOpen, name) in CLUSTER_KIND.items())
 
 
+def dm(md):
+    display(Markdown(md))
+
+
 class Cunei(object):
-    def __init__(self, api, imageDir):
+    def __init__(self, repoDir):
+        repo = os.path.expanduser(repoDir)
+        self.repo = repo
+        self.sourceDir = f'{repo}/{SOURCE_DIR}'
+        self.imageDir = f'{repo}/{IMAGE_DIR}'
+        self.tempDir = f'{repo}/{TEMP_DIR}'
+        self.reportDir = f'{repo}/{REPORT_DIR}'
+        for cdir in (TEMP_DIR, REPORT_DIR):
+            os.makedirs(cdir, exist_ok=True)
+        corpus = f'{repo}/{CORPUS}'
+        TF = Fabric(locations=[corpus], modules=[''], silent=True)
+        api = TF.load('', silent=True)
+        allFeatures = TF.explore(silent=True, show=True)
+        loadableFeatures = allFeatures['nodes'] + allFeatures['edges']
+        TF.load(loadableFeatures, add=True, silent=True)
         self.api = api
-        self.imageDir = imageDir
         self._getTabletImages()
         self._getIdeoImages()
         self.cwd = os.getcwd()
+        transLink = (
+            'https://github.com/Dans-labs/Nino-cunei'
+            '/blob/master/docs/transcription.md'
+        )
+        dm(
+            f'''
+**Documentation:**
+[Feature docs]({transLink})
+[Cunei API](https://github.com/Dans-labs/Nino-cunei/blob/master/docs/cunei.md)
+[Text-Fabric API](https://github.com/Dans-labs/text-fabric)
+'''
+        )
+
+    def getSource(self, node, nodeType=None, lineNumbers=False):
+        api = self.api
+        F = api.F
+        L = api.L
+        sourceLines = []
+        lineNumber = ''
+        if lineNumbers:
+            lineNumber = f'{F.srcLnNum.v(node):>5}: '
+        sourceLines.append(f'{lineNumber}{F.srcLn.v(node)}')
+        for child in L.d(node, nodeType):
+            sourceLine = F.srcLn.v(child)
+            lineNumber = ''
+            if sourceLine:
+                if lineNumbers:
+                    lineNumber = f'{F.srcLnNum.v(child):>5}: '
+                sourceLines.append(f'{lineNumber}{sourceLine}')
+        return sourceLines
 
     def atfFromSign(self, n, flags=False):
         F = self.api.F
@@ -261,13 +318,13 @@ class Cunei(object):
 <b>no lineart</b> for ideograph <code>{ideo}</code>
 '''
                     )
-                theImage = self._useImage(image)
-                result.append(
-                    f'''
+                else:
+                    theImage = self._useImage(image)
+                    result.append(
+                        f'''
 <img src="{theImage}" style="display: inline;" {attStr} />
 '''
-                )
-                # return Image(filename=image, **options)
+                    )
             elif nType == 'tablet':
                 pNum = F.catalogId.v(n)
                 images = self.tabletLineart.get(pNum, None)
@@ -277,24 +334,25 @@ class Cunei(object):
 <b>no lineart</b> for tablet <code>{pNum}</code>
 '''
                     )
-                image = images.get(key or '', None)
-                if image is None:
-                    result.append(
-                        f'''
+                else:
+                    image = images.get(key or '', None)
+                    if image is None:
+                        result.append(
+                            f'''
 <b>try</b>
 <code>key='</code><i>k</i><code>'</code>
 for <i>k</i> one of
 <code>{'</code> <code>'.join(sorted(images.keys()))}</code>
 '''
-                    )
-                else:
-                    theImage = self._useImage(image)
-                    result.append(
-                        f'''
-<!--<img src="{theImage}" style="display: inline;" {attStr} />-->
-<iframe src="{theImage}" style="display: inline;" {attStr} />
+                        )
+                    else:
+                        theImage = self._useImage(image)
+                        result.append(
+                            f'''
+<img src="{theImage}" style="display: inline;" {attStr} />
+<!--<iframe src="{theImage}" style="display: inline;" {attStr} />-->
 '''
-                    )
+                        )
             else:
                 result.append(
                     f'''
