@@ -1,0 +1,9 @@
+&P252180 = MS 3169
+4. UB URI3~a (|BAD+DISZ|)~a EN~a 
+
+Is this a cluster? Then I expect (|BAD+DISZ|)a 
+(without the tilde).
+Or is it a variant, then I expect |(BAD+DISZ)~a|
+(bars outside).
+
+

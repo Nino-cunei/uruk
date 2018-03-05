@@ -8,7 +8,7 @@ from IPython.display import display, Markdown, HTML
 from tf.fabric import Fabric
 
 SOURCE = 'uruk'
-VERSION = '0.1'
+VERSION = '0.2'
 CORPUS = f'tf/{SOURCE}/{VERSION}'
 SOURCE_DIR = 'sources/cdli'
 IMAGE_DIR = f'{SOURCE_DIR}/images'
@@ -50,6 +50,7 @@ class Cunei(object):
         repoBase = os.path.expanduser(repoBase)
         repo = f'{repoBase}/{repoRel}'
         self.repo = repo
+        self.version = VERSION
         self.sourceDir = f'{repo}/{SOURCE_DIR}'
         self.imageDir = f'{repo}/{IMAGE_DIR}'
         self.tempDir = f'{repo}/{TEMP_DIR}'
@@ -123,7 +124,8 @@ to view this notebook with all its pdf images.
         grapheme = F.grapheme.v(n)
         if grapheme == '…':
             grapheme = '...'
-        prime = "'" if F.prime.v(n) else ''
+        primeN = F.prime.v(n)
+        prime = ("'" * primeN) if primeN else ''
 
         variantValue = F.variant.v(n)
         variant = f'~{variantValue}' if variantValue else ''

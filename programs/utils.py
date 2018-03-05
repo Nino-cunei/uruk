@@ -58,7 +58,7 @@ BLACKLIST = set(
 class Compare(object):
     def __init__(self, cunei):
         self.api = cunei.api
-        self.sourceDir = f'{cunei.sourceDir}/transcriptions'
+        self.sourceDir = f'{cunei.sourceDir}/transcriptions/{cunei.version}'
         self.tempDir = cunei.tempDir
 
     def readCorpora(self):

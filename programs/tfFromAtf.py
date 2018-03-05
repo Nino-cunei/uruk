@@ -11,7 +11,7 @@ from tf.fabric import Fabric
 
 # FLAGS
 
-HELP = '''tfFromAtf.py -FLAG
+HELP = '''tfFromAtf.py version -FLAG
 
 where FLAG is one of:
 
@@ -32,7 +32,13 @@ doLoad = True
 tfInTemp = False
 debug = True
 
-FLAG = len(sys.argv) > 1 and sys.argv[1]
+if len(sys.argv) <= 1:
+    print(HELP)
+    sys.exit()
+
+VERSION = sys.argv[1]
+
+FLAG = len(sys.argv) > 2 and sys.argv[2]
 if FLAG:
     if FLAG == '-p':
         doTf = False
@@ -59,11 +65,10 @@ if FLAG:
 
 ORIGIN = 'cdli'
 CORPUS = 'uruk'
-VERSION = '0.1'
 
 REPO_DIR = os.path.expanduser(f'~/github/Nino-cunei/{CORPUS}')
-SOURCE_DIR = f'{REPO_DIR}/sources/{ORIGIN}/transcriptions'
-META_DIR = f'{REPO_DIR}/sources/{ORIGIN}/meta'
+SOURCE_DIR = f'{REPO_DIR}/sources/{ORIGIN}/transcriptions/{VERSION}'
+META_DIR = f'{REPO_DIR}/sources/{ORIGIN}/meta/{VERSION}'
 TEMP_DIR = f'{REPO_DIR}/_temp'
 DEBUG_FILE = f'{TEMP_DIR}/cldi_uruk.txt'
 REPORT_DIR = f'{REPO_DIR}/reports'
@@ -71,6 +76,11 @@ ERROR_FILE = f'{REPORT_DIR}/errors.tsv'
 DIAG_FILE = f'{REPORT_DIR}/diagnostics.tsv'
 TF_BASE = TEMP_DIR if tfInTemp else REPO_DIR
 TF_DIR = f'{TF_BASE}/tf/{CORPUS}/{VERSION}'
+
+if not os.path.exists(META_DIR):
+    print(f'No directory {META_DIR}')
+    print(f'Unknown version "{VERSION}"')
+    sys.exit()
 
 # -1 is unlimited
 
@@ -212,7 +222,7 @@ specificMetaData = dict(
     op='operator connecting left to right operand in a quad',
     origNumber='contains the source value for fullNumber if it deviates',
     period='period that characterises the tablet corpus',
-    prime='indicates the presence of a prime (single quote)',
+    prime='indicates the presence/multiplicity of a prime (single quote)',
     remarkable='corresponds to ! flag in transcription ',
     repeat=(
         'number indicating the number of repeats of a grapheme,'
@@ -326,9 +336,10 @@ TWEAK_HEADS = (
     ('@column3', '@column 3'),
 )
 
-TWEAK_LINES = (('1.1(', '1. 1('), )
+TWEAK_LINES01 = (('1.1(', '1. 1('), )
+TWEAK_LINES = (((69856, '3.a'), '3.b'), )
 
-TWEAK_MATERIAL = (
+TWEAK_MATERIAL01 = (
     ('U2@~b', 'U2~b'),
     ('4"', "4'"),
     ('[,', ''),
@@ -346,6 +357,7 @@ TWEAK_MATERIAL = (
     ('@inversum', '@v'),
     (('KI@', -1), 'KI#'),
 )
+TWEAK_MATERIAL = (('|)~a', '|)a'), )
 
 linePat = re.compile("([0-9a-zA-Z.'-]+)\s*(.*)")
 numPartsPat = re.compile('([0-9-]+|[a-zA-Z]+)')
@@ -375,37 +387,53 @@ def readMeta():
     excPat = 'Exc'
     excavPat = 'Excavation no.:'
     excavStr = None
+    transStr = 'Transliteration:'
+    transStrE = 'Primary publication:'
     files = glob(f'{META_DIR}/*.txt')
     for f in files:
         (dirF, fileF) = os.path.split(f)
         (period, ext) = os.path.splitext(fileF)
+        transFile = f'{SOURCE_DIR}/{fileF}'
+        transSkip = True
         with open(f) as fh:
-            for (ln, line) in enumerate(fh):
-                line = line.rstrip('\n')
-                if line == '':
-                    excavStr = None
-                elif line.startswith(excPat):
-                    if not line.startswith(excavPat):
-                        print(f'WARNING: {period}:{ln} SKIP "{line}"')
-                        continue
-                    excavStr = line.rsplit(':', maxsplit=1)[1].strip()
-                elif line[0] == '&':
-                    comps = line[1:].split('=', 1)
-                    tablet = comps[0].strip()
-                    good = True
-                    if excavStr is None:
-                        print(
-                            f'WARNING: {period}:{ln}'
-                            f' NO EXCAVATION for "{tablet}"'
-                        )
-                        good = False
-                    if tablet in excavationByTablet:
-                        print(f'WARNING: {period}:{ln} DUPLICATE "{tablet}"')
-                        good = False
-                    if good:
-                        if excavStr != '':
-                            excavationByTablet[tablet] = excavStr
-                            excavationByNumber[excavStr].append(tablet)
+            with open(transFile, 'w') as wh:
+                for (ln, line) in enumerate(fh):
+                    line = line.rstrip('\n')
+                    if line.startswith(transStrE):
+                        transSkip = True
+                    if not transSkip:
+                        wh.write(f'{line}\n')
+                    if line.strip() == '':
+                        excavStr = None
+                        if not transSkip:
+                            wh.write('\n' * 2)
+                        transSkip = True
+                    elif line.startswith(transStr):
+                        transSkip = False
+                    elif line.startswith(excPat):
+                        if not line.startswith(excavPat):
+                            print(f'WARNING: {period}:{ln} SKIP "{line}"')
+                            continue
+                        excavStr = line.rsplit(':', maxsplit=1)[1].strip()
+                    elif line[0] == '&':
+                        comps = line[1:].split('=', 1)
+                        tablet = comps[0].strip()
+                        good = True
+                        if excavStr is None:
+                            print(
+                                f'WARNING: {period}:{ln}'
+                                f' NO EXCAVATION for "{tablet}"'
+                            )
+                            good = False
+                        if tablet in excavationByTablet:
+                            print(
+                                f'WARNING: {period}:{ln} DUPLICATE "{tablet}"'
+                            )
+                            good = False
+                        if good:
+                            if excavStr != '':
+                                excavationByTablet[tablet] = excavStr
+                                excavationByNumber[excavStr].append(tablet)
     fileName = 'excavationByTablet.tsv'
     filePath = f'{REPORT_DIR}/{fileName}'
     with open(filePath, 'w') as fh:
@@ -583,9 +611,9 @@ def parseCorpora(excavations):
                 else:
                     if kind in COLUMN:
                         colNum = '1' if ident is None else ident
-                        countPresent = False
+                        prime = False
                         if "'" in colNum:
-                            countPresent = True
+                            prime = True
                             colNum = colNum.replace("'", '')
                         if curFace is None:
                             diag(
@@ -614,7 +642,7 @@ def parseCorpora(excavations):
                         curNums = set()
                         curLine = None
                         prevNum = None
-                        if countPresent:
+                        if prime:
                             curColumn['prime'] = 1
                         curFace['columns'].append(curColumn)
                     else:
@@ -666,8 +694,14 @@ def parseCorpora(excavations):
             if skip:
                 continue
             for (pat, rep) in TWEAK_LINES:
-                if line.startswith(pat):
-                    diag('tweak', f'"{pat}" => "{rep}"', p)
+                if type(pat) is tuple:
+                    (lineNum, pat) = pat
+                else:
+                    lineNum = None
+                if ((lineNum is None or ln == lineNum)
+                    and line.startswith(pat)):
+                    lnRep = f' on line {lineNum}'
+                    diag('tweak', f'"{pat}" {lnRep} => "{rep}"', p)
                     line = line.replace(pat, rep)
             if curColumn is None:
                 # diag(
@@ -698,9 +732,9 @@ def parseCorpora(excavations):
                 lineNumber = match.group(1).replace('.', '')
                 prevNum = lineNumber
                 material = match.group(2).strip()
-            countPresent = False
+            prime = False
             if "'" in lineNumber:
-                countPresent = True
+                prime = True
             if lineNumber in curNums:
                 error(
                     'line: duplicate number in column',
@@ -720,7 +754,7 @@ def parseCorpora(excavations):
             }
             if origNumber is not None:
                 curLine['origNumber'] = ''
-            if countPresent:
+            if prime:
                 curLine['prime'] = 1
             curColumn['lines'].append(curLine)
     print(f'{"total":<10} at tablet {len(tablets):>5}')
@@ -904,12 +938,15 @@ def getPieceInfo(quad, piece, p, inRepeat=False, outer=None, empty_ok=False):
             continue
 
         # primes
-        if base != '' and base[-1] == "'":
+        primeFound = False
+        while base != '' and base[-1] == "'":
+            primeFound = True
             base = base[0:-1]
             if 'prime' in pieceInfo:
-                basep = f"{base}'"
-                error(f'prime: repeated', f'"{basep} in "{quad}"', p)
-            pieceInfo['prime'] = 1
+                pieceInfo['prime'] += 1
+            else:
+                pieceInfo['prime'] = 1
+        if primeFound:
             continue
 
         stop = True
@@ -927,24 +964,29 @@ def getPieceInfo(quad, piece, p, inRepeat=False, outer=None, empty_ok=False):
 def parseOuterQuad(quad, p):
     base = quad
     if base != '':
-        if base[0] == '|':
-            if len(base) == 1:
-                error('quad: empty', '"|"', p)
-                base = ''
-            else:
-                if base[-1] == '|':
-                    if len(base) == 2:
-                        error('quad: empty', '"||"', p)
-                        base = ''
-                    else:
-                        base = base[1:-1]
-                else:
-                    error('quad: missing end "|"', base, p)
-                    base = base[1:]
-        else:
-            if base[-1] == '|':
+        if operatorPat.search(base):
+            if base[0] != '|' and base[-1] != '|':
+                diag(
+                    'quad: not surrounded by "|"s',
+                    f'"{base}" in "{quad}"', p
+                )
+            elif base[0] != '|':
                 diag('quad: missing start "|"', f'"{base}" in "{quad}"', p)
-                base = base[0:-1]
+            elif base[-1] != '|':
+                diag('quad: missing end "|"', f'"{base}" in "{quad}"', p)
+        else:
+            if base[0] == '|' and base[-1] == '|':
+                diag(
+                    'quad: simple quad surrounded by "|"s',
+                    f'"{base}" in "{quad}"', p
+                )
+            elif base[0] == '|':
+                diag('quad: spurious start "|"', f'"{base}" in "{quad}"', p)
+            elif base[-1] == '|':
+                diag('quad: spurious end "|"', f'"{base}" in "{quad}"', p)
+        base = base.strip('|')
+        if len(base) == 0:
+            error('quad: empty', '"|"', p)
 
     (result, restPos) = parseBrackets(base, 0, False, p)
     if restPos < len(base):
@@ -1237,6 +1279,8 @@ def printErrors(errors, diag=False):
     errorsStr = f'{errorStr}s'
     if not errors:
         print(f'OK, no {errorsStr}')
+        if os.path.exists(fileName):
+            os.remove(fileName)
     else:
         errorGroups = {}
         for (msg, info, p) in errors:
@@ -1513,7 +1557,7 @@ def makeTf(tablets):
     def doInfo(data, node, nodeType):
         infoData = data.get('info', {})
         if 'prime' in infoData:
-            nodeFeatures['prime'][(nodeType, node)] = 1
+            nodeFeatures['prime'][(nodeType, node)] = infoData['prime']
         if 'variants' in infoData:
             nodeFeatures['variant'][(nodeType,
                                      node)] = ','.join(infoData['variants'])
