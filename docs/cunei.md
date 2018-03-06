@@ -212,6 +212,8 @@ Delivers a link to a tablet page on CDLI, to be placed in an output cell.
 **Takes**
 
 * a node of type `tablet`;
+* an optional `linkText=None` with the text of the link;
+  if None, the P-number of the tablet will be used.
 
 **Returns**
 

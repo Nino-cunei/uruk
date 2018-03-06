@@ -53,9 +53,9 @@ CLUSTER_BRACKETS = dict((name, (bOpen, CLUSTER_BEGIN[bOpen]))
 FLEX_STYLE = (
     'display: flex;'
     'flex-flow: row nowrap;'
-    'justify-content: center;'
-    'align-items: center;'
-    'align-content: center;'
+    'justify-content: flex-start;'
+    'align-items: flex-start;'
+    'align-content: flex-start;'
 )
 
 ITEM_STYLE = ('padding: 0.5rem;')
@@ -87,10 +87,6 @@ class Cunei(object):
         self.version = VERSION
         self.sourceDir = f'{repo}/{SOURCE_DIR}'
         self.imageDir = f'{repo}/{IMAGE_DIR}'
-        self.tempDir = f'{repo}/{TEMP_DIR}'
-        self.reportDir = f'{repo}/{REPORT_DIR}'
-        for cdir in (TEMP_DIR, REPORT_DIR):
-            os.makedirs(cdir, exist_ok=True)
         corpus = f'{repo}/{CORPUS}'
         TF = Fabric(locations=[corpus], modules=[''], silent=True)
         api = TF.load('', silent=True)
@@ -133,6 +129,11 @@ Go to
 to view this notebook with all its pdf images.
 '''
             )
+        thisRepoDir = f'{repoBase}/{thisOrg}/{thisRepo}'
+        self.tempDir = f'{thisRepoDir}/{TEMP_DIR}'
+        self.reportDir = f'{thisRepoDir}/{REPORT_DIR}'
+        for cdir in (self.tempDir, self.reportDir):
+            os.makedirs(cdir, exist_ok=True)
 
     def getSource(self, node, nodeType=None, lineNumbers=False):
         api = self.api
@@ -141,8 +142,11 @@ to view this notebook with all its pdf images.
         sourceLines = []
         lineNumber = ''
         if lineNumbers:
-            lineNumber = f'{F.srcLnNum.v(node):>5}: '
-        sourceLines.append(f'{lineNumber}{F.srcLn.v(node)}')
+            lineNo = F.srcLnNum.v(node)
+            lineNumber = f'{lineNo:>5} ' if lineNo else ''
+        sourceLine = F.srcLn.v(node)
+        if sourceLine:
+            sourceLines.append(f'{lineNumber}{sourceLine}')
         for child in L.d(node, nodeType):
             sourceLine = F.srcLn.v(child)
             lineNumber = ''
@@ -436,8 +440,8 @@ to view this notebook with all its pdf images.
                 pNum = F.catalogId.v(n)
                 images = self.tabletLineart.get(pNum, None)
                 if images is None:
-                    tabletStr = _wrapCdli('<code>{pNum}</code>', pNum)
-                    thisResult = f' <b>no lineart</b> for tablet {tabletStr}'
+                    tabletStr = _wrapCdli(f'<code>{pNum}</code>', pNum)
+                    thisResult = f' <b>no lineart</b> for tablet {pNum}'
                     result.append(thisResult)
                 else:
                     image = images.get(key or '', None)
@@ -476,11 +480,13 @@ for <i>k</i> one of
 '''
         )
 
-    def cdli(self, n):
+    def cdli(self, n, linkText=None):
         api = self.api
         F = api.F
         pNum = F.catalogId.v(n)
-        return _wrapCdli('on CDLI', pNum)
+        if linkText is None:
+            linkText = pNum
+        return _wrapCdli(linkText, pNum)
 
     def _useImage(self, image):
         (imageDir, imageName) = os.path.split(image)
