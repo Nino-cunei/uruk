@@ -5,7 +5,6 @@ from glob import glob
 from subprocess import run
 from shutil import rmtree
 from urllib.request import urlopen
-from time import sleep
 
 help = '''
 python3 imagery command
@@ -20,7 +19,7 @@ commands:
 '''
 
 SOURCE = 'uruk'
-VERSION = '0.2'
+VERSION = '1.0'
 REPO_DIR = os.path.expanduser(f'~/github/Nino-cunei/{SOURCE}')
 CATALOG = f'{REPO_DIR}/tf/{SOURCE}/{VERSION}/catalogID.tf'
 QUALITY = '30%'

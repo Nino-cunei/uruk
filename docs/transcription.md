@@ -36,6 +36,7 @@ Text-Fabric supports three customizable section levels. In this corpus they are
 
 Other docs
 ----------
+
 [Text-Fabric API](https://github.com/Dans-labs/text-fabric/wiki/Api)
 
 [Cunei API](https://github.com/Dans-labs/Nino-cunei/blob/master/docs/cunei.md)
@@ -62,7 +63,7 @@ feature | values | in ATF | description
 **modifier** | `n` `g` `t` | `GUM@n~b` `KUR@g~a` | a modifier `@` of a grapheme in a sign
 **modifierFirst** | `1` `0` | `URUDU@g~c` resp. `AB~a@g` | whether the modifier `@` comes before the variant `~` or not
 **modifierInner** | `f` | `7(N34@f)` | a modifier `@` that occurs inside a *repeat*
-**prime** | `1` `0` | `1(N24')` | whether a [*sign*](#sign) has a prime `'`
+**prime** | `2` `1` `0` | `1(N24')` | whether a [*sign*](#sign) has a prime `'` and if so, how many of them
 **remarkable** | `1` `0` | `ABGAL!` | indicates the presence of the *remarkable* flag `!`
 **repeat** | `4` | `4(N01)` | marks repetition of a grapheme
 **uncertain** | `1` `0` | `DU6~b?` | indicates the presence of the *uncertain* flag `?`
@@ -120,7 +121,7 @@ feature | values | in ATF | description
 **crossref** | `Q000026.007` | `>>Q000026 007` crossreference to *tablet*.*line* in same or other corpus | 
 **fullNumber** | `1` `1a` `1b1` | `1.` `1.a.` `1.b1.` | hierarchical number of a [*case*](#case); present on each transcription [*line*](#line) with text material
 **number** | `a` `1` |  | relative number of a [*case*](#case) within its containing case or lin column; see also **fullNumber**
-**origNumber** | `1` |  | original number of a [*case*](#case) if there were conversion issues; see also **badNumbering**
+origNumber | `1` |  | original number of a [*case*](#case) if there were conversion issues; see also **badNumbering**; not in final dataset
 **prime** | `1.c'. N? , X` | whether a case number has a prime `'` | 
 **srcLn** |  |  | the literal text in the transcription at the start of the object; see [source data](#source-data)
 **srcLnNum** |  |  | the line number of the transcription line at the start of the object; see [source data](#source-data)
@@ -173,7 +174,7 @@ Primary division of a [*face*](#face). Columns are divided into
 
 feature | values | in ATF | description
 ------- | ------ | ------ | -----------
-**badNumbering** | `1` `2` |  | whether there are issues with the numbering of [*lines*](#line) and [*cases*](#case) in the [*column*](#column); case numbers in TF may be different from the originals in transcription: see also **origNumber**
+badNumbering | `1` `2` |  | whether there are issues with the numbering of [*lines*](#line) and [*cases*](#case) in the [*column*](#column); case numbers in TF may be different from the originals in transcription: see also **origNumber**; not in final dataset
 **fullNumber** | `obverse:2` `reverse:1` | **number** of a *column* preceded by the **type** of its [*face*](#face) | 
 **number** | `1` `2` | `@column 1` `@column 2'` | column number; without prime, see also **prime**
 **prime** | `1` `0` | `@column 1'` | whether a column number has a prime `'`
@@ -239,7 +240,7 @@ it in the sign feature **grapheme**.
 
 Graphemes may be *augmented* with
 
-*   a prime
+*   primes
 *   variants
 *   flags
 *   modifiers
@@ -260,8 +261,8 @@ We store the number before the brackets in a feature called **repeat**. If the
 number is `N`, it means that a number is missing. In this case we set the
 **repeat** to `-1`.
 
-Within the brackets you find the *grapheme*, possibly augmented with *prime* and
-*variant* and *modifier*.
+Within the brackets you find the *grapheme*, possibly augmented with *prime*s
+and *variant*s and *modifier*s.
 
 Modifiers may also occur after the closing bracket of a repeat.
 
@@ -293,13 +294,14 @@ other cluster.
 ### Type ###
 
 Not everything we see in the transcription as graphemes is a proper grapheme.
-That is why we also have a feature **type** that makes it easy to detect what is the case.
+That is why we also have a feature **type** that makes it easy to detect what is
+the case.
 
 TF | ATF | type | explanation
--- | --- | ---- | ---
-``   | *not present* | `empty` | these are signs inserted by the conversion where it was needed to fit the model of Text-Fabric
+--- | --- | ---- | -----------
+`` \| *not present* \| `empty` \| these are signs inserted by the conversion where it was needed to fit the model of Text-Fabric |  |  | 
 `…` | `...` | `ellipsis` | one or more missing signs
-`X` | `X`   | `unknown`  | an unknown sign
+`X` | `X` | `unknown` | an unknown sign
 `N01` | `N01` | `numeral` | a numeral, usually as a repeat: `7(N01)`
 `GISZ` | `GISZ` | `ideograph` | an ordinary grapheme
 
@@ -312,7 +314,8 @@ augmented.
 #### Prime ####
 
 If there is a prime `'` at the end of a numeral grapheme, we collect it in
-feature **prime** = `1`.
+feature **prime** = `1`. In rare cases, there are two primes. We store it as
+**prime** = `2`.
 
 #### Variants ####
 
@@ -629,6 +632,9 @@ parts that distinguish the sub-*cases* within their containing *case*.
 
 ### Bad numbering ###
 
+**N.B.: This section is obsolete. The final version of the data does not have
+this kind of problem.**
+
 Sometimes a column is badly numbered. These are the things that might occur:
 
 1.  multiple lines with the same number
@@ -872,8 +878,9 @@ the whole set is not meaningful. The main identification of tablets is by their
 corpus.
 
 We also added the feature **excavation**, containing the excavation number(s) of
-the tablet. These numbers are given in the full source files as metadata;
-they are not in the pure transcription files on which the rest of the conversion is based.
+the tablet. These numbers are given in the full source files as metadata; they
+are not in the pure transcription files on which the rest of the conversion is
+based.
 
 Subsequent lines starting with `#` or `@object` are treated as
 [*comments*](#comment).

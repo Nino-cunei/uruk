@@ -43,6 +43,9 @@ Status
 
 This is **work in progress!**
 
+*   2018-03-06 Definitive data version 1.0 imported. No errors or diagnostics.
+    Added over 5000 low resolution CDLI photos for tablets.
+    Photos and linearts are always linked to the online data on CDLI.
 *   2018-03-05 Reorganization of functionality, addition of lineart, repos have moved
     house from Dans-labs to Nino-cunei; tutorials and primers have been split off
     the data repo, which is now called `uruk`.
@@ -65,7 +68,7 @@ Getting started
 ==============
 
 Start with the
-[tutorial](tutorial/start.ipynb).
+[tutorial](http://nbviewer.jupyter.org/github/Nino-cunei/tutorials/blob/master/start.ipynb).
 
 Authors
 =======

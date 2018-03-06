@@ -8,7 +8,7 @@ from IPython.display import display, Markdown, HTML
 from tf.fabric import Fabric
 
 SOURCE = 'uruk'
-VERSION = '0.2'
+VERSION = '1.0'
 CORPUS = f'tf/{SOURCE}/{VERSION}'
 SOURCE_DIR = 'sources/cdli'
 IMAGE_DIR = f'{SOURCE_DIR}/images'

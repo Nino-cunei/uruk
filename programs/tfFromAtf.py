@@ -337,7 +337,8 @@ TWEAK_HEADS = (
 )
 
 TWEAK_LINES01 = (('1.1(', '1. 1('), )
-TWEAK_LINES = (((69856, '3.a'), '3.b'), )
+TWEAK_LINES02 = (((69856, '3.a'), '3.b'), )
+TWEAK_LINES = ()
 
 TWEAK_MATERIAL01 = (
     ('U2@~b', 'U2~b'),
@@ -357,7 +358,8 @@ TWEAK_MATERIAL01 = (
     ('@inversum', '@v'),
     (('KI@', -1), 'KI#'),
 )
-TWEAK_MATERIAL = (('|)~a', '|)a'), )
+TWEAK_MATERIAL02 = (('|)~a', '|)a'), )
+TWEAK_MATERIAL = ()
 
 linePat = re.compile("([0-9a-zA-Z.'-]+)\s*(.*)")
 numPartsPat = re.compile('([0-9-]+|[a-zA-Z]+)')
@@ -377,7 +379,7 @@ operatorPat = re.compile(f'[{"".join(OPERATORS)}]')
 
 pp = pprint.PrettyPrinter(indent=2, width=100, compact=False)
 
-for cdir in (TEMP_DIR, REPORT_DIR, TF_DIR):
+for cdir in (SOURCE_DIR, TEMP_DIR, REPORT_DIR, TF_DIR):
     os.makedirs(cdir, exist_ok=True)
 
 

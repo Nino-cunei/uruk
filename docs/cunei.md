@@ -9,7 +9,7 @@ The module
 contains a number of handy functions to deal with TF nodes for cuneiform tablets
 and
 [ATF](http://oracc.museum.upenn.edu/doc/help/editinginatf/primer/inlinetutorial/index.html)
-transcriptions of them and [CDLI](https://cdli.ucla.edu) lineart.
+transcriptions of them and [CDLI](https://cdli.ucla.edu) photos and lineart.
 
 Set up
 ------
@@ -36,7 +36,7 @@ CN.api.makeAvailableIn(globals())
 It will start Text-Fabric and load all features for you.
 
 When `Cunei` is initializing, it scans the image directory of the repo and reports how many
-lineart images it sees.
+photos and lineart images it sees.
 
 Usage
 -----
@@ -205,22 +205,39 @@ case, i.e. a transcription line.
 *   a 3-tuple `(` *tabletNumber*, *face*:*columnNumber*, *hierarchical line
     number* `)`; the hierarchical number will not contain `.`s.
 
-### lineart ###
+### cdli ###
 
-Fetches lineart for a node, and return it in a way that it can be embedded in an
-output cell.
+Delivers a link to a tablet page on CDLI, to be placed in an output cell.
 
 **Takes**
 
-*   one or more nodes; as far as they are of type `tablet`, `quad` or `sign`,
-    lineart will be looked up for them;
-*   an optional key (a string), specifying which of the available linearts for
+* a node of type `tablet`;
+
+**Returns**
+
+* a HTML link to CDLI, down to the page of this individual tablet.
+
+### photo and lineart ###
+
+Fetches a photo or lineart for a node, and return it in a way that it can be embedded in an
+output cell.
+The image that shows up is clickable. Photos link through to an online, higher resolution
+version on CDLI. Lineart links through to the tablet page on CDLI.
+Photos will have, by default, a caption that links to the tablet page on CDLI. 
+
+**Takes**
+
+*   (**photo** and **lineart**) one or more nodes; as far as they are of type `tablet`, `quad` or `sign`,
+    a photo or lineart will be looked up for them;
+*   (**lineart** only) an optional key (a string), specifying which of the available linearts for
     this node you want to use; if you want to know which keys are available
     for a node, call `lineart` with `key='xxx'`, or any non-existing key;
-*   an optional list of key=value, such as `width=100`, `height=200`.
+*   (**photo** and **lineart**) an optional list of key=value, such as `width=100`, `height=200`.
+*   (**photo** only) an optional `showLink=True` to control whether a CDLI link to the tablet page
+    must be put under the image. Default it will be placed.
 
 The result will be returned as a *row* of images.
-Subsequent calls to `lineart()` will result in vertically stacked rows.
+Subsequent calls to `photo()` and `lineart()` will result in vertically stacked rows.
 So you can control the two-dimensional layout of your images.
 
 **Implementation details**
