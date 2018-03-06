@@ -4,6 +4,7 @@ import collections
 from glob import glob
 from shutil import copyfile
 from IPython.display import display, Markdown, HTML
+from urllib.parse import quote
 
 from tf.fabric import Fabric
 
@@ -21,7 +22,7 @@ PHOTO_TO = '{}/tablets/photos'
 PHOTO_EXT = 'jpg'
 
 TABLET_TO = '{}/tablets/lineart'
-TABLET_EXT = 'pdf'
+TABLET_EXT = 'jpg'
 
 IDEO_TO = '{}/ideographs/lineart'
 IDEO_EXT = 'jpg'
@@ -79,6 +80,12 @@ def _wrapPhoto(piece, pNum):
     )
 
 
+def _sanitize(s):
+    return s
+    return quote(s)
+    return s.replace('|', '%7C').replace('+', '%2B')
+
+
 class Cunei(object):
     def __init__(self, repoBase, repoRel, name):
         repoBase = os.path.expanduser(repoBase)
@@ -126,7 +133,6 @@ class Cunei(object):
                 f'''
 Go to
 [nbviewer]({nbLink})
-to view this notebook with all its pdf images.
 '''
             )
         thisRepoDir = f'{repoBase}/{thisOrg}/{thisRepo}'
@@ -379,7 +385,7 @@ to view this notebook with all its pdf images.
                         f'<span><b>no photo</b> for tablet {tabletStr}</span>'
                     )
                 else:
-                    theImage = self._useImage(image)
+                    theImage = self._useImage(image, 'photo', n)
                     displayValue = 'block' if showLink else 'inline'
                     imageStr = (
                         f'<img src="{theImage}"'
@@ -430,7 +436,7 @@ to view this notebook with all its pdf images.
 '''
                     )
                 else:
-                    theImage = self._useImage(image)
+                    theImage = self._useImage(image, 'lineart', n)
                     result.append(
                         f'''
 <img src="{theImage}" style="display: inline;" {attStr} />
@@ -456,7 +462,7 @@ for <i>k</i> one of
 '''
                         )
                     else:
-                        theImage = self._useImage(image)
+                        theImage = self._useImage(image, 'lineart', n)
                         imageStr = (
                             f'<img src="{theImage}"'
                             f' style="display: inline;" {attStr} />'
@@ -488,18 +494,20 @@ for <i>k</i> one of
             linkText = pNum
         return _wrapCdli(linkText, pNum)
 
-    def _useImage(self, image):
+    def _useImage(self, image, suffix, node):
         (imageDir, imageName) = os.path.split(image)
+        (base, ext) = os.path.splitext(imageName)
         localDir = f'{self.cwd}/{LOCAL_DIR}'
         if not os.path.exists(localDir):
             os.makedirs(localDir, exist_ok=True)
-        localImage = f'{localDir}/{imageName}'
+        localImageName = f'node{node}{suffix}{ext}'
+        localImagePath = f'{localDir}/{localImageName}'
         if (
-            not os.path.exists(localImage) or
-            os.path.getmtime(image) > os.path.getmtime(localImage)
+            not os.path.exists(localImagePath) or
+            os.path.getmtime(image) > os.path.getmtime(localImagePath)
         ):
-            copyfile(image, localImage)
-        return f'{LOCAL_DIR}/{imageName}'
+            copyfile(image, localImagePath)
+        return _sanitize(f'{LOCAL_DIR}/{localImageName}')
 
     def _getIdeoImages(self):
         ideoDir = IDEO_TO.format(self.imageDir)

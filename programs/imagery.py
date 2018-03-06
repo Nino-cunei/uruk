@@ -11,8 +11,8 @@ python3 imagery command
 
 commands:
 
-    tablets: transforms tablet lineart eps to pdf
-    ideographs: transforms ideograph lineart from eps to pdf
+    tablets: transforms tablet lineart eps to jpg
+    ideographs: crops ideograph lineart from jpg to jpg
     photos: decreases the size of the jpegs of the tablets
     scrape: scrape tablet photos from cdli
 
@@ -22,24 +22,48 @@ SOURCE = 'uruk'
 VERSION = '1.0'
 REPO_DIR = os.path.expanduser(f'~/github/Nino-cunei/{SOURCE}')
 CATALOG = f'{REPO_DIR}/tf/{SOURCE}/{VERSION}/catalogID.tf'
-QUALITY = '30%'
+PHOTO_QUALITY = '30%'
+LINEART_DENSITY = '300x300'
+LINEART_QUALITY = '50%'
 
 CDLI_URL = 'https://cdli.ucla.edu/dl/photo'
 
+# photos of tablets
+# reduction in filesize by lowering jpg quality
+#
 PHOTO_FROM = f'{REPO_DIR}/_downloads/cdli_photos'
 PHOTO_TO = f'{REPO_DIR}/sources/cdli/images/tablets/photos'
 PHOTO_COMMAND = '/usr/local/bin/magick'
 PHOTO_OPTIONS_IN = []
-PHOTO_OPTIONS_OUT = ['-quality', QUALITY]
+PHOTO_OPTIONS_OUT = ['-quality', PHOTO_QUALITY]
 PHOTO_EXT = ('jpg', 'jpg')
 
+# linearts of tablets
+# eps to pdf: remains a compact vector image of inifinite resolution
+# but difficult in browsers
+#
+# TABLET_FROM = f'{REPO_DIR}/_downloads/cdli_epstextcopies'
+# TABLET_TO = f'{REPO_DIR}/sources/cdli/images/tablets/lineart'
+# TABLET_COMMAND = '/usr/local/bin/ps2pdf'
+# TABLET_OPTIONS_IN = ['-dEPSCrop']
+# TABLET_OPTIONS_OUT = []
+# TABLET_EXT = ('eps', 'pdf')
+
+# linearts of tablets
+# eps to jpg (because of browsers)
+# normal resolution, reasonable jpg quality
+#
 TABLET_FROM = f'{REPO_DIR}/_downloads/cdli_epstextcopies'
 TABLET_TO = f'{REPO_DIR}/sources/cdli/images/tablets/lineart'
-TABLET_COMMAND = '/usr/local/bin/ps2pdf'
-TABLET_OPTIONS_IN = ['-dEPSCrop']
-TABLET_OPTIONS_OUT = []
-TABLET_EXT = ('eps', 'pdf')
+TABLET_COMMAND = '/usr/local/bin/magick'
+TABLET_OPTIONS_IN = ['-density', LINEART_DENSITY]
+TABLET_OPTIONS_OUT = ['-quality', LINEART_QUALITY]
+TABLET_EXT = ('eps', 'jpg')
 
+# linearts of ideographs and numerals
+# cropping: some images are small drawings on page-size canvases
+# all ideographs will be cropped
+#
 IDEO_FROM = f'{REPO_DIR}/_downloads/archsignfiles_jpg'
 IDEO_TO = f'{REPO_DIR}/sources/cdli/images/ideographs/lineart'
 IDEO_COMMAND = '/usr/local/bin/magick'
