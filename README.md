@@ -5,7 +5,6 @@ Nino-cunei
 <img src="programs/images/ninologo.png" align="right" width="20%"/>
 <img src="programs/images/tf.png" align="right" width="20%"/>
 
-
 Cuneiform corpora in Text-Fabric
 
 Sources
@@ -19,10 +18,10 @@ On the [search page](https://cdli.ucla.edu/search/search.php) we entered under
 page, we have chosen `Download transliterations`. Below we list the download
 links per corpus.
 
-We have also chosen `Download all text`.
-What you get then is the same transliteration, but each tablet is preceded with metadata.
-We have picked the lines starting with `Excavation nr` to get the excavation numbers.
-For all other purposes is it more convenient to work with the pure transcription files.
+We have also chosen `Download all text`. What you get then is the same
+transliteration, but each tablet is preceded with metadata. We have picked the
+lines starting with `Excavation nr` to get the excavation numbers. For all other
+purposes is it more convenient to work with the pure transcription files.
 
 In this repo we convert the following corpora to Text-Fabric:
 
@@ -44,28 +43,30 @@ Status
 This is **work in progress!**
 
 *   2018-03-06 Definitive data version 1.0 imported. No errors or diagnostics.
-    Added over 5000 low resolution CDLI photos for tablets.
-    Photos and linearts are always linked to the online data on CDLI.
-*   2018-03-05 Reorganization of functionality, addition of lineart, repos have moved
-    house from Dans-labs to Nino-cunei; tutorials and primers have been split off
-    the data repo, which is now called `uruk`.
+    Added over 5000 low resolution CDLI photos for tablets. Photos and linearts
+    are always linked to the online data on CDLI.
+*   2018-03-05 Reorganization of functionality, addition of lineart, repos have
+    moved house from Dans-labs to Nino-cunei; tutorials and primers have been
+    split off the data repo, which is now called `uruk`.
 *   2018-02-27 More work on
-    [clustering](https://github/com/Nino-cunei/tutorials/blob/master/clustering.ipynb) notebook.
-*   2018-02-27 Work on collocation methods has started in the 
-    [collocation](https://github/com/Nino-cunei/tutorials/blob/master/collocation.ipynb) notebook.
-*   2018-02-26 The tutorial is getting in shape. It is a full tour around the TF-API
-    and most traits of the data in the Uruk corpus.
-*   2018-02-23 The TF data has been rigorously checked. All aspects of the encoding
-    into ATF can be reproduced exactly from the TF source.
-*   2018-02-14 Text-Fabric data generated, but not throughly tested. A very basic
-    [start](https://github/com/Nino-cunei/tutorials/blob/master/start.ipynb) tutorial
+    [clustering](https://github/com/Nino-cunei/tutorials/blob/master/clustering.ipynb)
     notebook.
+*   2018-02-27 Work on collocation methods has started in the
+    [collocation](https://github/com/Nino-cunei/tutorials/blob/master/collocation.ipynb)
+    notebook.
+*   2018-02-26 The tutorial is getting in shape. It is a full tour around the
+    TF-API and most traits of the data in the Uruk corpus.
+*   2018-02-23 The TF data has been rigorously checked. All aspects of the
+    encoding into ATF can be reproduced exactly from the TF source.
+*   2018-02-14 Text-Fabric data generated, but not throughly tested. A very basic
+    [start](https://github/com/Nino-cunei/tutorials/blob/master/start.ipynb)
+    tutorial notebook.
 *   2018-02-09 Conversion coding has just started. We only parse supra-line units.
     We do not yet generate any Text-Fabric data. The sub-line parsing will be the
     most work.
 
 Getting started
-==============
+===============
 
 Start with the
 [tutorial](http://nbviewer.jupyter.org/github/Nino-cunei/tutorials/blob/master/start.ipynb).
