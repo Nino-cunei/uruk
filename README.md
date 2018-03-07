@@ -1,47 +1,60 @@
+<img src="docs/images/logo.png" align="left" width="40%"/>
+<img src="docs/images/ninologo.png" align="left" width="20%"/>
+<img src="docs/images/tf.png" align="right" width="20%"/>
+<img src="docs/images/dans.png" align="right" width="20%"/>
+
 Nino-cunei
 ==========
 
-<img src="programs/images/logo.png" align="left" width="40%"/>
-<img src="programs/images/ninologo.png" align="right" width="20%"/>
-<img src="programs/images/tf.png" align="right" width="20%"/>
+Proto-cuneiform corpora in Text-Fabric
+--------------------------------------
 
-Cuneiform corpora in Text-Fabric
+This repo is a research environment for the study of cuneiform tablets. You can
+run your own programs off-line, and publish your work in online notebooks.
 
-Sources
+Corpus
+------
+
+This repo contains images and transliterations of Uruk IV-III tablets (4000-3100
+BC).
+
+The data is obtained from [CDLI](https://cdli.ucla.edu), the Cuneiform Digital
+Library Initiative.
+
+See also [about](about.md) and [images](images.md)
+
+Software
+--------
+
+The main processing tool is [Text-Fabric](textfabric.md). It is instrumental to
+turn the analysis of ancient data into computing narratives.
+
+The ecosystem is Python and Jupyter notebooks.
+
+Getting started
+===============
+
+Start with the
+[tutorial](http://nbviewer.jupyter.org/github/Nino-cunei/tutorials/blob/master/start.ipynb).
+
+Authors
 =======
 
-We have taken transcriptions from [CDLI](https://cdli.ucla.edu), the Cuneiform
-Digital Library Initiative.
+This repo is joint work of
 
-On the [search page](https://cdli.ucla.edu/search/search.php) we entered under
-*Chronology - period*: `Uruk IV` and `Uruk III` respectively. On the results
-page, we have chosen `Download transliterations`. Below we list the download
-links per corpus.
-
-We have also chosen `Download all text`. What you get then is the same
-transliteration, but each tablet is preceded with metadata. We have picked the
-lines starting with `Excavation nr` to get the excavation numbers. For all other
-purposes is it more convenient to work with the pure transcription files.
-
-In this repo we convert the following corpora to Text-Fabric:
-
-*   Uruk IV -
-    [1861 texts](https://cdli.ucla.edu/search/search_results.php?SearchMode=Text&requestFrom=Search&PrimaryPublication=&Author=&PublicationDate=&SecondaryPublication=&Collection=&AccessionNumber=&MuseumNumber=&Provenience=&ExcavationNumber=&Period=uruk+iv&DatesReferenced=&ObjectType=&ObjectRemarks=&Material=&TextSearch=&TranslationSearch=&CommentSearch=&StructureSearch=&Language=&Genre=&SubGenre=&CompositeNumber=&SealID=&ObjectID=&ATFSource=&CatalogueSource=&TranslationSource=)
-*   Uruk III -
-    [4882 texts](https://cdli.ucla.edu/search/search_results.php?SearchMode=Text&requestFrom=Search&PrimaryPublication=&Author=&PublicationDate=&SecondaryPublication=&Collection=&AccessionNumber=&MuseumNumber=&Provenience=&ExcavationNumber=&Period=uruk+iii&DatesReferenced=&ObjectType=&ObjectRemarks=&Material=&TextSearch=&TranslationSearch=&CommentSearch=&StructureSearch=&Language=&Genre=&SubGenre=&CompositeNumber=&SealID=&ObjectID=&ATFSource=&CatalogueSource=&TranslationSource=)
-
-Note that these "corpora" are merely the results of a query by period. They are
-not corpora in the sense of an identified body of texts in which each individual
-text occupies a fixed position in the sequence.
-
-We have a [specification](docs/transcription.md) of the transcription format and
-how we model the text in Text-Fabric.
+*   [J. Cale Johnson](https://www.universiteitleiden.nl/en/staffmembers/cale-johnson#tab-1)
+    at
+    [University Leiden](https://www.universiteitleiden.nl/en/humanities/institute-for-area-studies/assyriology)
+*   [Dirk Roorda](https://www.linkedin.com/in/dirkroorda/) at
+    [DANS](https://www.dans.knaw.nl)
 
 Status
-======
+------
 
 This is **work in progress!**
 
+*   2018-03-07 More pleasant functions to call up imagery. Improvements in docs.
+    Archived at Zenodo.
 *   2018-03-06 Definitive data version 1.0 imported. No errors or diagnostics.
     Added over 5000 low resolution CDLI photos for tablets. Photos and linearts
     are always linked to the online data on CDLI.
@@ -65,19 +78,3 @@ This is **work in progress!**
     We do not yet generate any Text-Fabric data. The sub-line parsing will be the
     most work.
 
-Getting started
-===============
-
-Start with the
-[tutorial](http://nbviewer.jupyter.org/github/Nino-cunei/tutorials/blob/master/start.ipynb).
-
-Authors
-=======
-
-This repo is joint work of
-
-*   [J. Cale Johnson](https://www.universiteitleiden.nl/en/staffmembers/cale-johnson#tab-1)
-    at
-    [University Leiden](https://www.universiteitleiden.nl/en/humanities/institute-for-area-studies/assyriology)
-*   [Dirk Roorda](https://www.linkedin.com/in/dirkroorda/) at
-    [DANS](https://www.dans.knaw.nl)

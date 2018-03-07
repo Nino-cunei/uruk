@@ -1,3 +1,6 @@
+<img src="images/ninologo.png" align="right" width="20%"/>
+<img src="images/tf.png" align="right" width="20%"/>
+
 Cunei API
 =========
 
@@ -5,11 +8,14 @@ About
 -----
 
 The module
-[cunei.py](https://github.com/Dans-labs/Nino-cunei/blob/master/programs/cunei.py)
+[cunei.py](../programs/cunei.py)
 contains a number of handy functions to deal with TF nodes for cuneiform tablets
 and
 [ATF](http://oracc.museum.upenn.edu/doc/help/editinginatf/primer/inlinetutorial/index.html)
 transcriptions of them and [CDLI](https://cdli.ucla.edu) photos and lineart.
+
+See also
+[about](about.md), [images](images.md), [transcription](transcription.md) and [text-fabric](textfabric.md). 
 
 Set up
 ------

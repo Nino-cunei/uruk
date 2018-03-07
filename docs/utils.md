@@ -1,3 +1,6 @@
+<img src="images/tf.png" align="right" width="20%"/>
+<img src="images/dans.png" align="right" width="20%"/>
+
 Utils API
 =========
 
@@ -5,9 +8,11 @@ About
 -----
 
 The module
-[utils.py](https://github.com/Dans-labs/Nino-cunei/blob/master/programs/utils.py)
+[utils.py](../programs/utils.py)
 contains a number of low-level functions to deal with TF nodes for cuneiform
 tablets. The focus is on comparing the data in TF with the original source data.
+
+See also [text-fabric](textfabric.md) and [cunei](cunei.md).
 
 Set up
 ------

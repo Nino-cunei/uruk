@@ -1,9 +1,16 @@
+<img src="images/ninologo.png" align="right" width="20%"/>
+<img src="images/tf.png" align="right" width="20%"/>
+
 Feature documentation
 =====================
 
 Here you find a description of the transcriptions of the Uruk corpora, the
 Text-Fabric model in general, and the node types, features and edges for the
 Uruk corpora in particular.
+
+See also
+[about](about.md)
+[text-fabric](textfabric.md)
 
 Conversion from ATF to TF
 -------------------------
@@ -12,7 +19,7 @@ Below is a description of tablet transcriptions in
 [ATF](http://oracc.museum.upenn.edu/doc/help/editinginatf/primer/inlinetutorial/index.html)
 and an account how we transform them into
 [Text-Fabric](https://github.com/Dans-labs/text-fabric/wiki) format by means of
-[tfFromAtf.py](https://github.com/Dans-labs/Nino-cunei/blob/master/programs/tfFromAtf.py).
+[tfFromAtf.py](../programs/tfFromAtf.py).
 
 The Text-Fabric model views the text as a series of atomic units, called
 *slots*. In this corpus [*signs*](#sign) are the slots.
@@ -39,9 +46,9 @@ Other docs
 
 [Text-Fabric API](https://github.com/Dans-labs/text-fabric/wiki/Api)
 
-[Cunei API](https://github.com/Dans-labs/Nino-cunei/blob/master/docs/cunei.md)
+[Cunei API](cunei.md)
 
-[Utils API](https://github.com/Dans-labs/Nino-cunei/blob/master/docs/utils.md)
+[Utils API](utils.md)
 
 Reference table of features
 ===========================
@@ -644,9 +651,9 @@ Sometimes a column is badly numbered. These are the things that might occur:
 4.  lines without numbers
 
 Examples can be found in the
-[diagnostics](https://github.com/Dans-labs/Nino-cunei/blob/master/reports/diagnostics.tsv)
+[diagnostics](../reports/diagnostics.tsv)
 produced by the conversion
-[tfFromAtf](https://github.com/Dans-labs/Nino-cunei/blob/master/programs/tfFromAtf.tsv)
+[tfFromAtf](../programs/tfFromAtf.tsv)
 
 This is how the conversion responds to these issues:
 
