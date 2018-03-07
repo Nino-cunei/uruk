@@ -52,6 +52,9 @@ This repo is joint work of
 *   [Dirk Roorda](https://www.linkedin.com/in/dirkroorda/) at
     [DANS](https://www.dans.knaw.nl)
 
+**N.B.:** Releases of this repo have been archived at [Zenodo](https://zenodo.org).
+Click the DOI badge to be taken to the archive. There you find ways to cite this work.
+
 Status
 ------
 
