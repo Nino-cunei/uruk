@@ -23,12 +23,12 @@ BC).
 The data is obtained from [CDLI](https://cdli.ucla.edu), the Cuneiform Digital
 Library Initiative.
 
-See also [about](about.md) and [images](images.md)
+See also [about](docs/about.md) and [images](docs/images.md)
 
 Software
 --------
 
-The main processing tool is [Text-Fabric](textfabric.md). It is instrumental to
+The main processing tool is [Text-Fabric](docs/textfabric.md). It is instrumental to
 turn the analysis of ancient data into computing narratives.
 
 The ecosystem is Python and Jupyter notebooks.
