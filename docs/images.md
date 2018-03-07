@@ -10,13 +10,7 @@ See also [about](about.md).
 
 <img align="left" src="images/P005381-obverse-photo.png" width="100"/>
 <img align="left" src="images/P005381-obverse-lineart.png" width="100"/>
-```
-&P005381 = MSVO 3, 70
-#version: 0.1
-#atf: lang qpc
-```
 <img align="right" src="images/P005381-obverse-atf.png" width="100"/>
-
 <img align="left" src="images/P005381-reverse-photo.png" width="100"/>
 <img align="left" src="images/P005381-reverse-lineart.png" width="100"/>
 <img align="right" src="images/P005381-reverse-atf.png" width="100"/>
