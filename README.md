@@ -1,5 +1,5 @@
-<img src="docs/images/logo.png" align="left" width="40%"/>
-<img src="docs/images/ninologo.png" align="left" width="20%"/>
+<img src="docs/images/logo.png" align="left" width="50%"/>
+<img src="docs/images/ninologo.png" align="left" width="30%"/>
 <img src="docs/images/tf.png" align="right" width="20%"/>
 <img src="docs/images/dans.png" align="right" width="20%"/>
 
