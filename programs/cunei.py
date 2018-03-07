@@ -168,18 +168,20 @@ class Cunei(object):
             None
             if name is None or cwdRel is None else f'{URL_GH}/{onlineTail}'
         )
-        transLink = (
-            f'https://github.com/{repoRel}'
-            '/blob/master/docs/transcription.md'
+        docLink = f'https://github.com/{repoRel}/blob/master/docs'
+        featureLink = _outLink(
+            'Feature docs', f'{docLink}/transcription.md',
+            '{source} feature documentation'
         )
-        dm(
-            f'''
-**Documentation:**
-[Feature docs]({transLink})
-[Cunei API](https://github.com/{repoRel}/blob/master/docs/cunei.md)
-[Text-Fabric API](https://github.com/Dans-labs/text-fabric)
-'''
+        cuneiLink = _outLink(
+            'Cunei API', f'{docLink}/cunei.md', 'cunei api documentation'
         )
+        tfLink = _outLink(
+            'Text-Fabric API',
+            'https://github.com/Dans-labs/text-fabric/wiki/api',
+            'text-fabric-api'
+        )
+        dm(f'**Documentation:** {featureLink} {cuneiLink} {tfLink}')
         if nbLink:
             dm(
                 f'''

@@ -64,17 +64,17 @@ This is **work in progress!**
     moved house from Dans-labs to Nino-cunei; tutorials and primers have been
     split off the data repo, which is now called `uruk`.
 *   2018-02-27 More work on
-    [clustering](https://github/com/Nino-cunei/tutorials/blob/master/clustering.ipynb)
+    [clustering](https://github.com/Nino-cunei/tutorials/blob/master/clustering.ipynb)
     notebook.
 *   2018-02-27 Work on collocation methods has started in the
-    [collocation](https://github/com/Nino-cunei/tutorials/blob/master/collocation.ipynb)
+    [collocation](https://github.com/Nino-cunei/tutorials/blob/master/collocation.ipynb)
     notebook.
 *   2018-02-26 The tutorial is getting in shape. It is a full tour around the
     TF-API and most traits of the data in the Uruk corpus.
 *   2018-02-23 The TF data has been rigorously checked. All aspects of the
     encoding into ATF can be reproduced exactly from the TF source.
 *   2018-02-14 Text-Fabric data generated, but not throughly tested. A very basic
-    [start](https://github/com/Nino-cunei/tutorials/blob/master/start.ipynb)
+    [start](https://github.com/Nino-cunei/tutorials/blob/master/start.ipynb)
     tutorial notebook.
 *   2018-02-09 Conversion coding has just started. We only parse supra-line units.
     We do not yet generate any Text-Fabric data. The sub-line parsing will be the
