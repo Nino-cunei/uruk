@@ -28,15 +28,13 @@ from cunei import Cunei
 
 To use it:
 
-```
-CN = Cunei(REPO)
-CN.api.makeAvailableIn(globals())
-```
+    CN = Cunei(REPO)
+    CN.api.makeAvailableIn(globals())
 
 It will start Text-Fabric and load all features for you.
 
-When `Cunei` is initializing, it scans the image directory of the repo and reports how many
-photos and lineart images it sees.
+When `Cunei` is initializing, it scans the image directory of the repo and
+reports how many photos and lineart images it sees.
 
 Usage
 -----
@@ -211,43 +209,64 @@ Delivers a link to a tablet page on CDLI, to be placed in an output cell.
 
 **Takes**
 
-* a node of type `tablet`;
-* an optional `linkText=None` with the text of the link;
-  if None, the P-number of the tablet will be used.
+*   a node of type `tablet` or a P-number;
+*   an optional `linkText=None` with the text of the link; if None, the P-number
+    of the tablet will be used.
 
 **Returns**
 
-* a HTML link to CDLI, down to the page of this individual tablet.
+*   a HTML link to CDLI, down to the page of this individual tablet.
 
 ### photo and lineart ###
 
-Fetches a photo or lineart for a node, and return it in a way that it can be embedded in an
-output cell.
-The image that shows up is clickable. Photos link through to an online, higher resolution
-version on CDLI. Lineart links through to the tablet page on CDLI.
-Photos will have, by default, a caption that links to the tablet page on CDLI. 
+Fetches photos or linearts for tablets, signs or quads, and returns it in a way
+that it can be embedded in an output cell.
+The images that
+show up are clickable and link through to an online, higher resolution
+version on CDLI. Images will
+have, by default, a caption that links to the relevant page on CDLI.
 
 **Takes**
 
-*   (**photo** and **lineart**) one or more nodes; as far as they are of type `tablet`, `quad` or `sign`,
-    a photo or lineart will be looked up for them;
-*   (**lineart** only) an optional key (a string), specifying which of the available linearts for
-    this node you want to use; if you want to know which keys are available
-    for a node, call `lineart` with `key='xxx'`, or any non-existing key;
-*   (**photo** and **lineart**) an optional list of key=value, such as `width=100`, `height=200`.
-*   (**photo** only) an optional `showLink=True` to control whether a CDLI link to the tablet page
-    must be put under the image. Default it will be placed.
+*   one or more **nodes**; as far as they are of type
+    tablet`, `quad` or `sign`, a photo or lineart will be looked up for them;
+    instead of a node you mat also supply the P-number or the name of the sign or
+    quad;
+*   an optional **key** (a string), specifying which of the
+    available images for this node you want to use; if you want to know which
+    keys are available for a node, supply `key='xxx'`, or any
+    non-existing key;
+*   an optional `asLink=True`: no image will be placed, only a link to the online
+    image at CDLI; in this case the **caption** will be suppressed, unless explicitly given;
+*   an optional `withCaption='bottom'` to control whether a CDLI link to
+    the tablet page must be put under the image. You can also
+    specify `top` `left` `right`. If left out, no caption will be placed.
+*   an optional list of key=value **options**, such as
+    `width=100`, `height=200`.
 
-The result will be returned as a *row* of images.
-Subsequent calls to `photo()` and `lineart()` will result in vertically stacked rows.
-So you can control the two-dimensional layout of your images.
+The result will be returned as a *row* of images. Subsequent calls to `photo()`
+and `lineart()` will result in vertically stacked rows. So you can control the
+two-dimensional layout of your images.
 
 **Implementation details**
 
-The images will be called in by a little piece of generated HTML, using
-the `<img/>` tag.
-This only works if the image is within reach.
-To the images will be copied to a sister directory of the notebook.
-The name of this directory is `cdli-imagery`.
-It will be created on-the-fly when needed.
-Copying will only be done if needed.
+The images will be called in by a little piece of generated HTML, using the
+`<img/>` tag. This only works if the image is within reach. To the images will
+be copied to a sister directory of the notebook. The name of this directory is
+`cdli-imagery`. It will be created on-the-fly when needed. Copying will only be
+done if needed. The names of the images will be changed, to prevent problems with 
+systems that cannot handle `|` and `+` characters in file names well.
+
+### imagery ###
+
+Provides the sets of available images (locally).
+
+**Takes**
+
+*   **objectType**: the type of thing: `ideograph` or `tablet`;
+*   **kind**: the kind of image: `photo` or `lineart`;
+
+**Returns**
+
+*   the set of available names in that category for which there is an image;
+    for tablets, it lists the P-numbers; for sign/quads: the ATF representaitons.

@@ -1,10 +1,8 @@
 import os
 import re
-import collections
 from glob import glob
 from shutil import copyfile
 from IPython.display import display, Markdown, HTML
-from urllib.parse import quote
 
 from tf.fabric import Fabric
 
@@ -22,18 +20,33 @@ PHOTO_TO = '{}/tablets/photos'
 PHOTO_EXT = 'jpg'
 
 TABLET_TO = '{}/tablets/lineart'
-TABLET_EXT = 'jpg'
-
 IDEO_TO = '{}/ideographs/lineart'
-IDEO_EXT = 'jpg'
+LINEART_EXT = 'jpg'
 
 LOCAL_DIR = 'cdli-imagery'
 
-PHOTO_URL = f'https://cdli.ucla.edu/dl/photo/{{}}_d.{PHOTO_EXT}'
-# CDLI_URL = 'https://cdli.ucla.edu/search/archival_view.php?ObjectID='
-CDLI_URL = (
-    'https://cdli.ucla.edu/search/search_results.php?'
-    'SearchMode=Text&ObjectID={}'
+URL_GH = 'https://github.com'
+URL_NB = 'http://nbviewer.jupyter.org/github'
+
+URL_FORMAT = dict(
+    tablet=dict(
+        photo=f'https://cdli.ucla.edu/dl/photo/{{}}_d.{PHOTO_EXT}',
+        lineart=f'https://cdli.ucla.edu/dl/lineart/{{}}_l.{LINEART_EXT}',
+        main=(
+            'https://cdli.ucla.edu/search/search_results.php?'
+            'SearchMode=Text&ObjectID={}'
+        ),
+    ),
+    ideograph=dict(
+        lineart=(
+            'https://cdli.ucla.edu/tools/SignLists'
+            f'/protocuneiform/archsigns/{{}}.{LINEART_EXT}'
+        ),
+        main=(
+            'https://cdli.ucla.edu/tools/SignLists'
+            '/protocuneiform/archsigns.html'
+        ),
+    ),
 )
 
 FLAGS = (
@@ -58,6 +71,36 @@ FLEX_STYLE = (
     'align-items: center;'
     'align-content: flex-start;'
 )
+CAPTION_STYLE = dict(
+    top=(
+        'display: flex;'
+        'flex-flow: column-reverse nowrap;'
+        'justify-content: space-between;'
+        'align-items: center;'
+        'align-content: space-between;'
+    ),
+    bottom=(
+        'display: flex;'
+        'flex-flow: column nowrap;'
+        'justify-content: space-between;'
+        'align-items: center;'
+        'align-content: space-between;'
+    ),
+    left=(
+        'display: flex;'
+        'flex-flow: row-reverse nowrap;'
+        'justify-content: space-between;'
+        'align-items: center;'
+        'align-content: space-between;'
+    ),
+    right=(
+        'display: flex;'
+        'flex-flow: row nowrap;'
+        'justify-content: space-between;'
+        'align-items: center;'
+        'align-content: space-between;'
+    ),
+)
 
 ITEM_STYLE = ('padding: 0.5rem;')
 
@@ -66,24 +109,27 @@ def dm(md):
     display(Markdown(md))
 
 
-def _wrapCdli(piece, pNum):
-    return (
-        '<a title="to CDLI archival page" target="_blank"'
-        f' href="{CDLI_URL.format(pNum)}">{piece}</a>'
+def _outLink(text, href, title=None):
+    titleAtt = '' if title is None else f' title="{title}"'
+    return f'<a target="_blank" href="{href}"{titleAtt}>{text}</a>'
+
+
+def _wrapLink(piece, objectType, kind, identifier, pos='bottom', caption=None):
+    title = (
+        'to CDLI main page'
+        if kind == 'main' else f'to higher resolution {kind} on CDLI'
     )
+    url = URL_FORMAT.get(objectType, {}).get(kind, '').format(identifier)
 
-
-def _wrapPhoto(piece, pNum):
-    return (
-        '<a title="to higher resolution photo on CDLI" target="_blank"'
-        f' href="{PHOTO_URL.format(pNum)}">{piece}</a>'
-    )
-
-
-def _sanitize(s):
-    return s
-    return quote(s)
-    return s.replace('|', '%7C').replace('+', '%2B')
+    result = _outLink(piece, url, title=title) if url else piece
+    if caption:
+        result = (
+            f'<div style="{CAPTION_STYLE[pos]}">'
+            f'<div>{result}</div>'
+            f'<div>{caption}</div>'
+            '</div>'
+        )
+    return result
 
 
 class Cunei(object):
@@ -94,6 +140,7 @@ class Cunei(object):
         self.version = VERSION
         self.sourceDir = f'{repo}/{SOURCE_DIR}'
         self.imageDir = f'{repo}/{IMAGE_DIR}'
+        self._imagery = {}
         corpus = f'{repo}/{CORPUS}'
         TF = Fabric(locations=[corpus], modules=[''], silent=True)
         api = TF.load('', silent=True)
@@ -101,9 +148,7 @@ class Cunei(object):
         loadableFeatures = allFeatures['nodes'] + allFeatures['edges']
         TF.load(loadableFeatures, add=True, silent=True)
         self.api = api
-        self._getTabletPhotos()
-        self._getTabletImages()
-        self._getIdeoImages()
+        self._getImagery()
         self.cwd = os.getcwd()
         cwdPat = re.compile(f'^.*/github/([^/]+)/([^/]+)((?:/.+)?)$', re.I)
         cwdRel = cwdPat.findall(self.cwd)
@@ -111,10 +156,17 @@ class Cunei(object):
             (thisOrg, thisRepo, thisPath) = cwdRel[0]
         else:
             cwdRel = None
+        onlineTail = (
+            f'{thisOrg}/{thisRepo}'
+            f'/blob/master{thisPath}/{name}.ipynb'
+        )
         nbLink = (
-            None if name is None or cwdRel is None else
-            f'http://nbviewer.jupyter.org/github'
-            f'/{thisOrg}/{thisRepo}/blob/master{thisPath}/{name}.ipynb'
+            None
+            if name is None or cwdRel is None else f'{URL_NB}/{onlineTail}'
+        )
+        ghLink = (
+            None
+            if name is None or cwdRel is None else f'{URL_GH}/{onlineTail}'
         )
         transLink = (
             f'https://github.com/{repoRel}'
@@ -131,8 +183,9 @@ class Cunei(object):
         if nbLink:
             dm(
                 f'''
-Go to
-[nbviewer]({nbLink})
+This notebook online:
+{_outLink('NBViewer', nbLink)}
+{_outLink('GitHub', ghLink)}
 '''
             )
         thisRepoDir = f'{repoBase}/{thisOrg}/{thisRepo}'
@@ -365,188 +418,185 @@ Go to
             return None
         return (section[0], section[1], fullNumber)
 
-    def photo(self, ns, showLink=True, **options):
+    def lineart(self, ns, key=None, asLink=False, withCaption=None, **options):
+        return self._getImages(
+            ns,
+            kind='lineart',
+            key=key,
+            asLink=asLink,
+            withCaption=withCaption,
+            **options
+        )
+
+    def photo(self, ns, key=None, asLink=False, withCaption=None, **options):
+        return self._getImages(
+            ns,
+            kind='photo',
+            key=key,
+            asLink=asLink,
+            withCaption=withCaption,
+            **options
+        )
+
+    def imagery(self, objectType, kind):
+        return set(self._imagery.get(objectType, {}).get(kind, {}))
+
+    def _imageClass(self, n):
         api = self.api
         F = api.F
-        if type(ns) is int:
-            ns = [ns]
-        result = []
-        attStr = ' '.join(
-            f'{key}="{value}"' for (key, value) in options.items()
-        )
-        for n in ns:
-            nType = F.otype.v(n)
-            if nType == 'tablet':
-                pNum = F.catalogId.v(n)
-                image = self.tabletPhotos.get(pNum, None)
-                if image is None:
-                    tabletStr = _wrapCdli('<code>{pNum}</code>', pNum)
-                    thisResult = (
-                        f'<span><b>no photo</b> for tablet {tabletStr}</span>'
-                    )
-                else:
-                    theImage = self._useImage(image, 'photo', n)
-                    displayValue = 'block' if showLink else 'inline'
-                    imageStr = (
-                        f'<img src="{theImage}"'
-                        f' style="display: {displayValue}; max-height: 200;" {attStr} />'
-                    )
-                    thisResult = _wrapPhoto(imageStr, pNum)
-                if showLink:
-                    thisResult = f'''
-<div style="display: inline;">{thisResult} {self.cdli(n)}</div>
-'''
-
-                result.append(thisResult)
+        if type(n) is str:
+            identifier = n
+            if n == '':
+                identifier = None
+                objectType = None
+                nType = None
+            elif len(n) == 1:
+                objectType = 'ideograph'
+                nType = 'sign/quad'
             else:
-                result.append(
-                    f'''
-<span><b>no photos</b> for <code>{nType}</code>s</span>
-'''
-                )
-        resultStr = f'</div>\n<div style="{ITEM_STYLE}">'.join(result)
-        return HTML(
-            f'''
-        <div style="{FLEX_STYLE}">
-            <div style="{ITEM_STYLE}">
-                {resultStr}
-            </div>
-        </div>
-'''
-        )
-
-    def lineart(self, ns, key=None, **options):
-        api = self.api
-        F = api.F
-        if type(ns) is int:
-            ns = [ns]
-        result = []
-        attStr = ' '.join(
-            f'{key}="{value}"' for (key, value) in options.items()
-        )
-        for n in ns:
+                if n[0] == 'P' and n[1:].isdigit():
+                    objectType = 'tablet'
+                    nType = 'tablet'
+                else:
+                    objectType = 'ideograph'
+                    nType = 'sign/quad'
+        else:
             nType = F.otype.v(n)
             if nType in OUTER_QUAD_TYPES:
-                ideo = self.atfFromOuterQuad(n)
-                image = self.ideo.get(ideo, None)
-                if image is None:
-                    result.append(
-                        f'''
-<span><b>no lineart</b> for ideograph <code>{ideo}</code></span>
-'''
-                    )
-                else:
-                    theImage = self._useImage(image, 'lineart', n)
-                    result.append(
-                        f'''
-<img src="{theImage}" style="display: inline;" {attStr} />
-'''
-                    )
+                identifier = self.atfFromOuterQuad(n)
+                objectType = 'ideograph'
             elif nType == 'tablet':
-                pNum = F.catalogId.v(n)
-                images = self.tabletLineart.get(pNum, None)
+                identifier = F.catalogId.v(n)
+                objectType = 'tablet'
+            else:
+                identifier = None
+                objectType = None
+        return (nType, objectType, identifier)
+
+    def _getImages(
+        self,
+        ns,
+        kind=None,
+        key=None,
+        asLink=False,
+        withCaption=None,
+        warning=True,
+        **options
+    ):
+        if type(ns) is int or type(ns) is str:
+            ns = [ns]
+        result = []
+        attStr = ' '.join(
+            f'{opt}="{value}"' for (opt, value) in options.items()
+        )
+        if withCaption is None:
+            withCaption = None if asLink else 'bottom'
+        for n in ns:
+            caption = None
+            (nType, objectType, identifier) = self._imageClass(n)
+            if objectType:
+                imageBase = self._imagery.get(objectType, {}).get(kind, {})
+                images = imageBase.get(identifier, None)
+                if withCaption:
+                    caption = _wrapLink(
+                        f'{identifier} on CDLI', objectType, 'main', identifier
+                    )
                 if images is None:
-                    tabletStr = _wrapCdli(f'<code>{pNum}</code>', pNum)
-                    thisResult = f' <b>no lineart</b> for tablet {pNum}'
-                    result.append(thisResult)
+                    thisImage = (
+                        f'<span><b>no {kind}</b> for {objectType}'
+                        f' <code>{identifier}</code></span>'
+                    ) if warning else ''
                 else:
                     image = images.get(key or '', None)
                     if image is None:
-                        result.append(
-                            f'''
-<span><b>try</b>
-<code>key='</code><i>k</i><code>'</code>
-for <i>k</i> one of
-<code>{'</code> <code>'.join(sorted(images.keys()))}</code>
-</span>
-'''
-                        )
+                        thisImage = (
+                            '<span><b>try</b>'
+                            ' key=<code>'
+                            f'{"</code> <code>".join(sorted(images.keys()))}'
+                            '</code></span>'
+                        ) if warning else ''
                     else:
-                        theImage = self._useImage(image, 'lineart', n)
-                        imageStr = (
-                            f'<img src="{theImage}"'
-                            f' style="display: inline;" {attStr} />'
-                        )
-                        thisResult = _wrapCdli(imageStr, pNum)
-                        result.append(thisResult)
+                        if asLink:
+                            thisImage = identifier
+                        else:
+                            theImage = self._useImage(image, kind, n)
+                            thisImage = (
+                                f'<img src="{theImage}"'
+                                f' style="display: inline;" {attStr} />'
+                            )
+                thisResult = _wrapLink(
+                    thisImage,
+                    objectType,
+                    kind,
+                    identifier,
+                    pos=withCaption,
+                    caption=caption
+                ) if thisImage else None
             else:
-                result.append(
-                    f'''
-<span><b>no lineart</b> for <code>{nType}</code>s</span>
-'''
-                )
+                thisResult = (
+                    f'<span><b>no {kind}</b> for'
+                    f' <code>{nType}</code>s</span>'
+                ) if warning else ''
+            result.append(thisResult)
+        if not warning:
+            result = [image for image in result if image]
+        if not result:
+            return ''
         resultStr = f'</div>\n<div style="{ITEM_STYLE}">'.join(result)
-        return HTML(
-            f'''
+        html = f'''
         <div style="{FLEX_STYLE}">
             <div style="{ITEM_STYLE}">
                 {resultStr}
             </div>
         </div>
-'''
-        )
+        '''.replace('\n', '')
+
+        return HTML(html)
 
     def cdli(self, n, linkText=None):
-        api = self.api
-        F = api.F
-        pNum = F.catalogId.v(n)
+        (nType, objectType, identifier) = self._imageClass(n)
         if linkText is None:
-            linkText = pNum
-        return _wrapCdli(linkText, pNum)
+            linkText = identifier
+        return _wrapLink(linkText, objectType, 'main', identifier)
 
-    def _useImage(self, image, suffix, node):
+    def _useImage(self, image, kind, node):
         (imageDir, imageName) = os.path.split(image)
         (base, ext) = os.path.splitext(imageName)
         localDir = f'{self.cwd}/{LOCAL_DIR}'
         if not os.path.exists(localDir):
             os.makedirs(localDir, exist_ok=True)
-        localImageName = f'node{node}{suffix}{ext}'
+        localImageName = f'node{node}{kind}{ext}'
         localImagePath = f'{localDir}/{localImageName}'
         if (
             not os.path.exists(localImagePath) or
             os.path.getmtime(image) > os.path.getmtime(localImagePath)
         ):
             copyfile(image, localImagePath)
-        return _sanitize(f'{LOCAL_DIR}/{localImageName}')
+        return f'{LOCAL_DIR}/{localImageName}'
 
-    def _getIdeoImages(self):
-        ideoDir = IDEO_TO.format(self.imageDir)
-        filePaths = glob(f'{ideoDir}/*.{IDEO_EXT}')
-        ideo = {}
-        for filePath in filePaths:
-            (fileDir, fileName) = os.path.split(filePath)
-            (base, ext) = os.path.splitext(fileName)
-            ideo[base] = filePath
-        self.ideo = ideo
-        print(f'Found {len(ideo)} ideographs')
-
-    def _getTabletImages(self):
-        tabletDir = TABLET_TO.format(self.imageDir)
-        filePaths = glob(f'{tabletDir}/*.{TABLET_EXT}')
-        tabletLineart = {}
-        pNumPat = re.compile('P[0-9]+')
-        theKeys = collections.Counter()
-        for filePath in filePaths:
-            (fileDir, fileName) = os.path.split(filePath)
-            (base, ext) = os.path.splitext(fileName)
-            pNums = pNumPat.findall(base)
-            if not pNums:
-                print(f'skipped non-tablet "{fileName}"')
-                continue
-            pNum = pNums[0]
-            key = base.replace('_l', '').replace(pNum, '')
-            theKeys[key] += 1
-            tabletLineart.setdefault(pNum, {})[key] = filePath
-        self.tabletLineart = tabletLineart
-        print(f'Found {len(tabletLineart)} tablet linearts')
-
-    def _getTabletPhotos(self):
-        photoDir = PHOTO_TO.format(self.imageDir)
-        filePaths = glob(f'{photoDir}/*.{PHOTO_EXT}')
-        tabletPhotos = {}
-        for filePath in filePaths:
-            (fileDir, fileName) = os.path.split(filePath)
-            (pNum, ext) = os.path.splitext(fileName)
-            tabletPhotos[pNum] = filePath
-        self.tabletPhotos = tabletPhotos
-        print(f'Found {len(tabletPhotos)} tablet photos')
+    def _getImagery(self):
+        for (dirFmt, ext, kind, objectType) in (
+            (IDEO_TO, LINEART_EXT, 'lineart', 'ideograph'),
+            (TABLET_TO, LINEART_EXT, 'lineart', 'tablet'),
+            (PHOTO_TO, PHOTO_EXT, 'photo', 'tablet'),
+        ):
+            srcDir = dirFmt.format(self.imageDir)
+            filePaths = glob(f'{srcDir}/*.{ext}')
+            images = {}
+            idPat = re.compile('P[0-9]+')
+            for filePath in filePaths:
+                (fileDir, fileName) = os.path.split(filePath)
+                (base, thisExt) = os.path.splitext(fileName)
+                if kind == 'lineart' and objectType == 'tablet':
+                    ids = idPat.findall(base)
+                    if not ids:
+                        print(f'skipped non-{objectType} "{fileName}"')
+                        continue
+                    identifier = ids[0]
+                    key = base.replace('_l', '').replace(identifier, '')
+                else:
+                    identifier = base
+                    key = ''
+                images.setdefault(identifier, {})[key] = filePath
+            self._imagery.setdefault(objectType, {})[kind] = images
+            print(f'Found {len(images)} {objectType} {kind}s')
