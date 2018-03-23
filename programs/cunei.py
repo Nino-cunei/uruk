@@ -7,8 +7,10 @@ from IPython.display import display, Markdown, HTML
 from tf.fabric import Fabric
 
 SOURCE = 'uruk'
+SOURCE_FULL = 'Uruk IV-III'
 VERSION = '1.0'
 CORPUS = f'tf/{SOURCE}/{VERSION}'
+CORPUS_FULL = f'{SOURCE_FULL} (v{VERSION})'
 SOURCE_DIR = 'sources/cdli'
 IMAGE_DIR = f'{SOURCE_DIR}/images'
 TEMP_DIR = '_temp'
@@ -141,8 +143,9 @@ class Cunei(object):
         self.sourceDir = f'{repo}/{SOURCE_DIR}'
         self.imageDir = f'{repo}/{IMAGE_DIR}'
         self._imagery = {}
-        corpus = f'{repo}/{CORPUS}'
-        TF = Fabric(locations=[corpus], modules=[''], silent=True)
+        self.corpus = f'{repo}/{CORPUS}'
+        self.corpusFull = CORPUS_FULL
+        TF = Fabric(locations=[self.corpus], modules=[''], silent=True)
         api = TF.load('', silent=True)
         allFeatures = TF.explore(silent=True, show=True)
         loadableFeatures = allFeatures['nodes'] + allFeatures['edges']
@@ -169,6 +172,10 @@ class Cunei(object):
             if name is None or cwdRel is None else f'{URL_GH}/{onlineTail}'
         )
         docLink = f'https://github.com/{repoRel}/blob/master/docs'
+        dataLink = _outLink(
+            self.corpusFull, f'{docLink}/about.md',
+            '{provenance of this corpus}'
+        )
         featureLink = _outLink(
             'Feature docs', f'{docLink}/transcription.md',
             '{source} feature documentation'
@@ -181,7 +188,7 @@ class Cunei(object):
             'https://github.com/Dans-labs/text-fabric/wiki/api',
             'text-fabric-api'
         )
-        dm(f'**Documentation:** {featureLink} {cuneiLink} {tfLink}')
+        dm(f'**Documentation:** {dataLink} {featureLink} {cuneiLink} {tfLink}')
         if nbLink:
             dm(
                 f'''

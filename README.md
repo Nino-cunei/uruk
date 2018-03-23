@@ -46,11 +46,11 @@ Authors
 
 This repo is joint work of
 
-*   [J. Cale Johnson](https://www.universiteitleiden.nl/en/staffmembers/cale-johnson#tab-1)
-    at
-    [University Leiden](https://www.universiteitleiden.nl/en/humanities/institute-for-area-studies/assyriology)
 *   [Dirk Roorda](https://www.linkedin.com/in/dirkroorda/) at
     [DANS](https://www.dans.knaw.nl)
+*   [J. Cale Johnson](https://www.universiteitleiden.nl/en/staffmembers/cale-johnson#tab-1)
+    at
+    [Leiden University](https://www.universiteitleiden.nl/en/humanities/institute-for-area-studies/assyriology)
 
 **N.B.:** Releases of this repo have been archived at [Zenodo](https://zenodo.org).
 Click the DOI badge to be taken to the archive. There you find ways to cite this work.
