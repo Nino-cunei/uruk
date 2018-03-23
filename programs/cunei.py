@@ -459,7 +459,12 @@ This notebook online:
         S = api.S
         query = 'w0:line\n'
         for i in range(1, lev + 1):
-            query += ('  ' * i) + f'w{i}:case\n'
+            extra = (
+                ' fullNumber'
+                if i == lev and not withChildren
+                else ''
+            )
+            query += ('  ' * i) + f'w{i}:case{extra}\n'
         for i in range(lev):
             query += f'w{i} -sub> w{i+1}\n'
         results = list(S.search(query))
