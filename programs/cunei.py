@@ -1,7 +1,9 @@
 import os
 import re
+import operator
 from glob import glob
 from shutil import copyfile
+from functools import reduce
 from IPython.display import display, Markdown, HTML
 
 from tf.fabric import Fabric
@@ -426,6 +428,46 @@ This notebook online:
         if fullNumber is None:
             return None
         return (section[0], section[1], fullNumber)
+
+    # this is a slow implementation!
+    def _casesByLevelM(self, lev, withChildren=False):
+        api = self.api
+        E = api.E
+        F = api.F
+        if lev == 0:
+            results = F.otype.s('line')
+        else:
+            parents = self.casesByLevel(lev - 1, withChildren=True)
+            results = reduce(
+                operator.add,
+                [
+                    tuple(s for s in E.sub.f(p) if F.otype.v(s) == 'case')
+                    for p in parents
+                ],
+                (),
+            )
+        return (
+            results
+            if withChildren
+            else tuple(r for r in results if F.fullNumber.v(r))
+        )
+
+    # this is a fast implementation!
+    def casesByLevel(self, lev, withChildren=False):
+        api = self.api
+        F = api.F
+        S = api.S
+        query = 'w0:line\n'
+        for i in range(1, lev + 1):
+            query += ('  ' * i) + f'w{i}:case\n'
+        for i in range(lev):
+            query += f'w{i} -sub> w{i+1}\n'
+        results = list(S.search(query))
+        return (
+            tuple(r[-1] for r in results)
+            if withChildren else
+            tuple(r[-1] for r in results if F.fullNumber.v(r[-1]))
+        )
 
     def lineart(self, ns, key=None, asLink=False, withCaption=None, **options):
         return self._getImages(

@@ -7,15 +7,13 @@ Cunei API
 About
 -----
 
-The module
-[cunei.py](../programs/cunei.py)
-contains a number of handy functions to deal with TF nodes for cuneiform tablets
-and
+The module [cunei.py](../programs/cunei.py) contains a number of handy functions
+to deal with TF nodes for cuneiform tablets and
 [ATF](http://oracc.museum.upenn.edu/doc/help/editinginatf/primer/inlinetutorial/index.html)
 transcriptions of them and [CDLI](https://cdli.ucla.edu) photos and lineart.
 
-See also
-[about](about.md), [images](images.md), [transcription](transcription.md) and [text-fabric](textfabric.md). 
+See also [about](about.md), [images](images.md),
+[transcription](transcription.md) and [text-fabric](textfabric.md).
 
 Set up
 ------
@@ -209,6 +207,18 @@ case, i.e. a transcription line.
 *   a 3-tuple `(` *tabletNumber*, *face*:*columnNumber*, *hierarchical line
     number* `)`; the hierarchical number will not contain `.`s.
 
+### casesByLevel ###
+Grabs all (sub)cases of a specified level. You can choose
+to filter the result to those (sub)cases that are *terminal*, i.e. those which
+do not contain subcases anymore. Such cases correspond to individual lines in the ATF.
+
+**Takes**
+
+* a positive integer, indicating the level of (sub)cases you want. 
+  `1` is top-level cases, `2` is subcases, `3` is subsubcases, and so on;
+* `withChildren=False`. If `False`, only subcases that have the feature `fullNumber` are
+  delivered (so only terminal subcases). Otherwise, all cases of that level will be delivered. 
+
 ### cdli ###
 
 Delivers a link to a tablet page on CDLI, to be placed in an output cell.
@@ -226,29 +236,25 @@ Delivers a link to a tablet page on CDLI, to be placed in an output cell.
 ### photo and lineart ###
 
 Fetches photos or linearts for tablets, signs or quads, and returns it in a way
-that it can be embedded in an output cell.
-The images that
-show up are clickable and link through to an online, higher resolution
-version on CDLI. Images will
+that it can be embedded in an output cell. The images that show up are clickable
+and link through to an online, higher resolution version on CDLI. Images will
 have, by default, a caption that links to the relevant page on CDLI.
 
 **Takes**
 
-*   one or more **nodes**; as far as they are of type
-    tablet`, `quad` or `sign`, a photo or lineart will be looked up for them;
-    instead of a node you mat also supply the P-number or the name of the sign or
-    quad;
-*   an optional **key** (a string), specifying which of the
-    available images for this node you want to use; if you want to know which
-    keys are available for a node, supply `key='xxx'`, or any
-    non-existing key;
+*   one or more **nodes**; as far as they are of type tablet`,`quad`or`sign\`, a
+    photo or lineart will be looked up for them; instead of a node you mat also
+    supply the P-number or the name of the sign or quad;
+*   an optional **key** (a string), specifying which of the available images for
+    this node you want to use; if you want to know which keys are available for a
+    node, supply `key='xxx'`, or any non-existing key;
 *   an optional `asLink=True`: no image will be placed, only a link to the online
-    image at CDLI; in this case the **caption** will be suppressed, unless explicitly given;
-*   an optional `withCaption='bottom'` to control whether a CDLI link to
-    the tablet page must be put under the image. You can also
-    specify `top` `left` `right`. If left out, no caption will be placed.
-*   an optional list of key=value **options**, such as
-    `width=100`, `height=200`.
+    image at CDLI; in this case the **caption** will be suppressed, unless
+    explicitly given;
+*   an optional `withCaption='bottom'` to control whether a CDLI link to the
+    tablet page must be put under the image. You can also specify `top` `left`
+    `right`. If left out, no caption will be placed.
+*   an optional list of key=value **options**, such as `width=100`, `height=200`.
 
 The result will be returned as a *row* of images. Subsequent calls to `photo()`
 and `lineart()` will result in vertically stacked rows. So you can control the
@@ -260,8 +266,8 @@ The images will be called in by a little piece of generated HTML, using the
 `<img/>` tag. This only works if the image is within reach. To the images will
 be copied to a sister directory of the notebook. The name of this directory is
 `cdli-imagery`. It will be created on-the-fly when needed. Copying will only be
-done if needed. The names of the images will be changed, to prevent problems with 
-systems that cannot handle `|` and `+` characters in file names well.
+done if needed. The names of the images will be changed, to prevent problems
+with systems that cannot handle `|` and `+` characters in file names well.
 
 ### imagery ###
 
@@ -274,5 +280,5 @@ Provides the sets of available images (locally).
 
 **Returns**
 
-*   the set of available names in that category for which there is an image;
-    for tablets, it lists the P-numbers; for sign/quads: the ATF representaitons.
+*   the set of available names in that category for which there is an image; for
+    tablets, it lists the P-numbers; for sign/quads: the ATF representaitons.
