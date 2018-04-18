@@ -9,7 +9,7 @@
 @valueType=str
 @version=1.0
 @writtenBy=Text-Fabric
-@dateWritten=2018-03-06T06:23:48Z
+@dateWritten=2018-04-18T15:38:37Z
 
 1-140094	sign
 140095-143888	quad
@@ -19,4 +19,4 @@
 170799-184821	column
 184822-217574	cluster
 217575-253416	line
-253417-304199	case
+253417-295799	case

@@ -700,8 +700,11 @@ def parseCorpora(excavations):
                     (lineNum, pat) = pat
                 else:
                     lineNum = None
-                if ((lineNum is None or ln == lineNum)
-                    and line.startswith(pat)):
+                if (
+                    (lineNum is None or ln == lineNum)
+                    and
+                    line.startswith(pat)
+                ):
                     lnRep = f' on line {lineNum}'
                     diag('tweak', f'"{pat}" {lnRep} => "{rep}"', p)
                     line = line.replace(pat, rep)
@@ -969,8 +972,7 @@ def parseOuterQuad(quad, p):
         if operatorPat.search(base):
             if base[0] != '|' and base[-1] != '|':
                 diag(
-                    'quad: not surrounded by "|"s',
-                    f'"{base}" in "{quad}"', p
+                    'quad: not surrounded by "|"s', f'"{base}" in "{quad}"', p
                 )
             elif base[0] != '|':
                 diag('quad: missing start "|"', f'"{base}" in "{quad}"', p)
@@ -1401,13 +1403,40 @@ def makeTf(tablets):
             curNode = cur[nodeType]
             nodeFeatures['number'][(nodeType, curNode)] = lineNum
             context.append((nodeType, curNode))
-            doCases(lineData, 'line', curNode)
+            doCases(lineData, 'line', curNode, lineNum)
             context.pop()
 
-    def doCases(cases, parentType, parentNode):
+    def doCases(cases, parentType, parentNode, lineNum):
         nodeType = 'case'
         if 'material' in cases:
-            doCase(cases, parentType, parentNode)
+            if parentType == 'line':
+                nodeType = 'case'
+                cur[nodeType] += 1
+                curNode = cur[nodeType]
+                nodeFeatures['number'][(nodeType, curNode)] = lineNum
+                edgeFeatures['sub'][(parentType,
+                                     parentNode)].add((nodeType, curNode))
+                context.append((nodeType, curNode))
+            else:
+                nodeType = parentType
+                curNode = parentNode
+            for ft in '''
+                crossref
+                fullNumber
+                origNumber
+                prime
+                srcLn
+                srcLnNum
+            '''.strip().split():
+                if ft in cases:
+                    nodeFeatures[ft][(nodeType, curNode)] = cases[ft]
+            material = cases.get('material', {})
+            doComments(cases, 'case')
+            hasQuads = doClusters(material)
+            if not material or not hasQuads:
+                doEmptySign()
+            if parentType == 'line':
+                context.pop()
         else:
             for (caseNr, caseData) in cases.items():
                 cur[nodeType] += 1
@@ -1416,33 +1445,8 @@ def makeTf(tablets):
                 edgeFeatures['sub'][(parentType,
                                      parentNode)].add((nodeType, curNode))
                 context.append((nodeType, curNode))
-                doCases(caseData, nodeType, curNode)
+                doCases(caseData, nodeType, curNode, None)
                 context.pop()
-
-    def doCase(case, parentType, parentNode):
-        nodeType = 'case'
-        cur[nodeType] += 1
-        curNode = cur[nodeType]
-        for ft in '''
-            crossref
-            fullNumber
-            origNumber
-            prime
-            srcLn
-            srcLnNum
-        '''.strip().split():
-            if ft in case:
-                nodeFeatures[ft][(nodeType, curNode)] = case[ft]
-        if parentNode is not None:
-            edgeFeatures['sub'][(parentType,
-                                 parentNode)].add((nodeType, curNode))
-        material = case.get('material', {})
-        context.append((nodeType, curNode))
-        doComments(case, 'case')
-        hasQuads = doClusters(material)
-        if not material or not hasQuads:
-            doEmptySign()
-        context.pop()
 
     def doComments(thing, thingType):
         nodeType = 'comment'
