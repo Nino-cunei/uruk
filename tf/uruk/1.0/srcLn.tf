@@ -10,7 +10,7 @@
 @valueType=str
 @version=1.0
 @writtenBy=Text-Fabric
-@dateWritten=2018-04-18T15:38:37Z
+@dateWritten=2018-04-19T06:07:45Z
 
 143889	&P006427 = Anonymous 006427
 &P006428 = Anonymous 006428
@@ -15832,6 +15832,8406 @@
 @reverse 
 @obverse 
 @obverse 
+2.a'. [N] 2(N14) 3(N01) , KASZ~b NUN~a 
+2.b'. 3(N01) , KASZ~a? GI 
+1.a. 3(N01) , APIN~a 3(N57) UR4~a 
+159713	1.b1. , (EN~a DU ZATU759)a 
+1.b2. , (BAN~b KASZ~c)a 
+1.b3. , (KI@n SAG)a 
+2.a. 1(N14) 2(N01) , [...] 
+159718	2.b1. , (3(N57) PAP~a)a 
+2.b2. , (SZU KI X)a 
+2.b3'. , (EN~a AN EZINU~d)a 
+2.b4'. , (IDIGNA [...])a 
+1.a. 1(N01) , ISZ~a#? 
+159724	1.b1. , (PAP~a GIR3~c)a 
+159726	1.a1'. [...] 4(N14)# , [...] X 
+1.a2'. [N] 2(N14)# , [...] 
+1.a'. [...] 1(N14)# , [...] SZE~a 
+1.b'. [N] , TAR~a 
+2.a'. 3(N01) , SZE~a KASZ~b? |U4x3(N01)| 
+2.b'. 1(N42~a) 1(N25) , TAR~a 
+2.a. , KU6~a BU~a 
+2.b. , |AB~axSUKKAL| 
+2.c. , NAM2 RAD~a PA~a SZU 
+2.d. , RAD~a [...] 
+1.a. 2(N39~a) , HI@g~a EN~a SZIM~a 
+1.b. 2(N01) 1(N24) 1(N28)# 1(N30~c) , SZE~a 
+159739	1.a1. 2(N39~a) 1(N24) , HI@g~a 
+1.a2. 2(N39~a) 1(N28) , ZATU714 
+1.b. 4(N39~a) 1(N24) 1(N28)# , [...] |ZATU714xHI@g~a|# MU 
+159743	1.a1. [...] 1(N24)# , [...] 
+1.a2. 2(N39~a)# 1(N28)# , [...] HI@g~a 
+1.b. 4(N42~a) [1(N25) 1(N28~c)] , [...] 
+1.a. [...] , [...] 
+1.b. [...] , X [...] 
+159749	2.a1. 2(N01) , SAL KI 
+2.a2. 1(N01) , SAL SZA3~a1 
+159752	2.b1. 2(N01)# [...] , [...] 
+2.b2. 2(N01)# [...] , [...] 
+2.c. 8(N01) , |U4.SZU2| SA~a 
+159756	3.a1. 2(N01) , ZATU759#? [...] 
+3.a2. [...] , [...] 
+3.b. 5(N01) , KISAL~b1#? 
+159760	2.a1. 4(N39~a) , HI@g~a# 
+2.a2. 3(N39~a)# 1(N24)# [1(N28)] , [HI] 
+2.b. 1(N01)# 2(N39~a) 1(N24)# 1(N28)# , [...] 
+1.a. [...] , [...] 
+1.b. [...] 1(N08)# , 
+2.a. [...] , [...] 
+2.b. 2(N01)# 2(N08) , 
+3.a. 2(N14)# , SZAGAN# 
+3.b. 1(N01) 1(N08) , 
+4.a. 1(N14) , EN~a NUN~a ERIM~a KISAL~b1 
+4.b. 1(N01)# , 
+5.a. 1(N14) , NAMESZDA KISAL~b1 
+5.b. 1(N01) , 
+6.a. 1(N14) , GESZTU~b TE 
+6.b. 1(N01) , 
+1.a. 1(N14) , AB~b 5(N57)# GURUSZ~a# 
+1.b. [...] , 
+2.a. 1(N14) , UDU~a# URI# 
+2.b. 1(N01) , 
+3.a. 2(N14)# , ZATU752# GAL~a# 
+3.b. 1(N01)# 1(N08)# , 
+4.a. 2(N14) , EN~a NUNUZ~c# X 
+4.b. 1(N01)# 1(N08)# , 
+5.a. 2(N14) , UMUN2 KU3~a? 
+5.b. 1(N01)# 1(N08)# , 
+6.a. 2(N14) , TUR3~a 
+6.b. 1(N01)# 1(N08)# , 
+1.a. [...] , [...] SZENNUR~a#? 
+1.b. 2(N47) , 
+2.a. [...] , [...] U4 KI 
+2.b. 6(N20) 4(N05) , 
+3.a. [...] , [...] U4 KI 
+3.b. 1(N01)# 1(N39~a)# 1(N24)# 1(N28)# , 
+1.a. 2(N51)# 1(N34) 1(N14)# 6(N01)# , GAR GUM~b 
+1.b. 4(N14)# 2(N01) , DUG~a# KASZ~a 
+2.a. [...] 1(N14)# , DUG~a# [KASZ~a] 
+159797	2.b1. 3(N14)# , DUG~a# 
+2.b2. [...] , [KASZ~a] 
+3.a. [...] , [...] 
+3.b. [...] 1(N01)# 1(N08) , DUG~a# [...] 
+2.a. 4(N34)# 4(N14)# 2(N01)# , DUG~a KASZ~a 
+159803	2.b1. 2(N34)# , DUG~a 
+2.b2. 2(N34) 4(N14)# 2(N01)# , KASZ~a 
+1.a. 3(N14) 5(N01) , GAL~a 
+1.b. 1(N14)# [...] , [...] 
+2.a. 3(N14) 1(N01) , GESZTU~b 
+2.b. 1(N14)# [...] , [...] 
+3.a. 2(N34) 2(N14) 2(N01) , |NUN~b+EN~a| 
+3.b. 1(N34) 1(N14)# [...] , [...] 
+4.a. [...] , X [...] 
+4.b. 1(N14) [...] , [...] 
+2.a. 4(N14) , NAM2 
+2.b. 3(N14) 6(N01) , |KI@n+DUB~a| 
+159816	2.c1. 1(N14)# [...] , X [...] 
+2.c2. 2(N14)# [...] , [...] 
+2.a. [...] , [...] 
+2.b. 1(N01)# , 1(N57)#? 
+3.a. [...] , [...] 
+3.b. 2(N01)# , [...] 
+4.a. 1(N57) , NAGA~a# 3(N57)# 
+4.b. 1(N57) , E2~b# X 
+5.a. 1(N01) , ZATU659 NIR~a# 
+5.b. , SU~a PAP~a 3(N57) 
+1.a. [...] 1(N01)# , |DUG~cx1(N57)|# [...] X 
+1.b. 6(N02)# , 
+2.a. [...] 2(N01)# , |DUG~cx1(N57)| [...] X 
+2.b. 2(N14) [...] , GESZTU~c3# [...] 
+2.c. 1(N02)# [...] , X [...] 
+3.a. [...] , [...] 
+3.b. 2(N02) , 
+3.c. 2(N01) , KASZ~c 
+1.a. 3(N01)# , |DUG~cx1(N57)| NUN~a 
+1.b. 1(N02)? , 
+1.c. 2(N01) , KASZ~c# 
+2.a. 1(N14) , GESZTU~c3# AN MUSZ3~a# 
+2.b. 1(N02) , 
+2.c. 1(N01) , KASZ~c# 
+1.a. 3(N01) , KU6~a KISIM~a 
+1.b. , IB~a DIM~a 
+2.a. 1(N01) , UNUG~a SZEN~b 
+2.b. , PAP~a |MUSZENx2(N57)| 
+3.a. 1(N01) , SZEN~b PAP~a SZU 
+3.b. , PAP~a |MUSZENx2(N57)| 
+4.a. 1(N01) , X UKKIN~b# [...] 
+4.b. , |SILA3~axSZE~a@t| 
+5.a. 1(N01) , SZEN~b# 
+5.b. , PAP~a |MUSZENx2(N57)| 
+6.a. 1(N01) , SZEN~b SI RAD~a 
+6.b. , PAP~a |MUSZENx1(N57)| 
+7.a. 1(N01) , DUG~b GA2~a2 GURUSZDA# 
+159854	7.b1. , UNUG~a 5(N57) 
+7.b2. , |DARA3~dxKAR2|#? 
+8.a. 1(N01) , SI UKKIN~b SZE~a 3(N57) E2~a 
+8.b. 1(N01) , |DUG~cx1(N57)|#? GI 
+9.a. 1(N01) , DUG~b 
+9.b. , |SZU&SZU| 
+1.a. 1(N01) , KISIM~a [...] 
+1.b. , [...] 
+2.a. 2(N01) , KISIM~a PAP~a SZU 
+2.b. , DIM~a# IB~a# 
+3.a. 1(N01) , KISIM~a EN~a DU AB2 
+3.b. , DIM~a IB~a 
+4.a. 2(N01) , UKKIN~b |SZU2.EN~a|# AN# EN~a DU AB2 
+4.b. , |MUSZENx2(N57)| PAP~a 
+5.a. 1(N01) , KISIM~a#? U4 EN~a ME~a#? 
+5.b. , |SZU&SZU|# 
+6.a. 1(N01) , X NUNUZ~a1 X X 
+6.b. , |SZU&SZU| 
+7.a. 2(N01)#? , X EN~a# TI X 
+7.b. , |GISZxSZU2~a| EN~a 
+8.a. 2(N01) , UKKIN~b APIN~a ZATU752 
+8.b. , |MUSZENx2(N57)| PAP~a 
+1.a. [...] , [...] 
+1.b. [...] , [...] 
+2.a. 1(N01)# , X [...] 
+2.b. [...] , [...] 
+3.a. 4(N01)# , 4(N57)#? DUG~b? 
+3.b. , GURUSZDA# GA2~a2 
+4.a. 4(N01) , KISIM~a IM~b 
+4.b. , GURUSZDA GA2~a2 
+159885	5.a1. 1(N01) , SZEN~b 
+5.a2. 1(N01) 1(N08) , KISIM~a 
+5.b. , EN~a TU~a 
+6.a. 1(N01) , SZEN~b MAH~a DA~a# 
+6.b. , GURUSZDA GA2~a2# 
+1.a. [...] 1(N01)# , TUR UDU~a#? NUN~a# BA#? 
+159892	1.b1. [...] 2(N02)#? , X [...] 
+1.b2. 2(N02)# [...] , X [...] 
+1.b3. 1(N02)#? , X [...] 
+2.a. 1(N14)# , X X [...] 
+2.b. 2(N02)# [...] , X [...] 
+159898	1.a1. [...] 1(N01)# , [|DUG~cx1(N57)|] 
+1.a2. [...] 1(N01)# , KASZ~d# 
+1.b. , TUR3~a TUR# 
+159902	2.a1. 1(N01)# , |DUG~cx1(N57)|# 
+2.a2. [...] 2(N01)# , KASZ~d# 
+2.b. , TAK4~a TAK4~a#? KI AN SZU2 EN~a 
+1.a. [...] , [...] 
+1.b. [...] , [...] 
+2.a. [...] , [...] X EN~a#? 
+159909	2.b1. 1(N01) , |SILA3~axKASZ~d| 
+2.b2. 1(N01) , |SILA3~axHASZHUR| 
+159912	3.a1. 1(N01)# , X 
+3.a2. 1(N01) , X 
+3.b. , SANGA~a [...] 
+1.a. [...] , [...] |DUG~cx1(N57)|#? NAGAR~a# NE~a 
+159917	1.b1. 5(N01)# , SZA@g# 
+1.b2. 5(N01) , |(SZAxHI@g~a)~a|#? 
+1.a. [...] , [...] GAL~a# 
+1.b. [...] , [...] 
+2.a. 1(N14)# , [...] |DUG~ax1(N57)|# DA~a# GA2~c 
+159923	2.b1. 1(N14) , |SILA3~axHI| 
+2.b2. 1(N14) , |SILA3~axNI~a|# BA 
+2.a. 2(N14) 2(N01) , |DUG~ax1(N57)| [...] 
+159927	2.b1. [...] , [...] 
+2.b2. [...] , GAR# 
+3.a. , X EN~a# X 
+159931	3.b1. , SUHUR# X 
+3.b2. , TUR3~a# DU# SZE3# 
+159934	1.a1. 3(N01)# , [...] GISZ# TE# 
+1.a2. 1(N01) , UDU~a [...] 
+1.b. , EN~a BU~b U2~b DU GAL~a# SANGA~a# [...] 
+3.a. [...] 8(N01)# , X [...] 
+159939	3.b1. 1(N01)# , X [...] 
+3.b2. 7(N01)# , [...] 
+159942	1.a1. [...] , [...] U4# X 
+1.a2. [...] , [...] 
+1.b. [...] , [...] 
+1a. 8(N01)# , SZITA~a1 EN~a [...] SAG 
+159947	1.b1. 4(N01) [...] , X X [...] 
+1.b2. 3(N01) , NUN~a#? [...] 
+1.b3. 1(N01) , [...] 
+1.a. [...] , [...] 
+1.b. [...] , [...] X 
+2.a. [...] 1(N34)# 1(N14) [...] , [...] X 
+2.b. 3(N14) , |(UDU~axTAR)~b|# 
+3.a. 1(N34)#? 1(N14) 5(N01) , X AN# 3(N57) [...] 
+159956	3.b1. 3(N14)# , |(UDU~axTAR)~b| 
+3.b2. 3(N14)# , X 
+1.a. [...] , [...] E2~a# TI# 
+1.b. [...] 2(N14)# [...] 2(N01)# , 
+2.a. 1(N01) , SI DILMUN# ZATU777 [...] 
+2.b. 3(N14) 3(N01)# , 
+3.a. [...] , [...] 
+3.b. [...] 2(N01)# , 
+1.a. [...] , [...] X SZITA~a1#? SZU 
+1.b. 3(N01)# , BA# EN~a TUR 
+1.c. [...] 1(N01)# , [...] EN~a TUR 
+2.a. [...] , [...] GAL~a# 
+2.b. 1(N01) , IDIGNA A SZIDIM 
+2.c. 4(N01) , EN~a TUR GI 
+3.a. 2(N01)# , NUN~a# EN~a BA 
+3.b. 1(N01) , GI 
+3.c. 2(N01) , SZITA~a1 LAGAR~a@r EN~a TUR 
+3.d. 1(N01) , TUR EN~a BA 
+3.e. 2(N01) , EN~a TUR GI 
+3.f. 2(N01) , GI |U4x1(N57)| 
+4.a. 2(N01) , HI E2~a NUN~a BA 
+4.b. 1(N01) , EN~a PA~a 
+4.c. 1(N01) , U4 E2~b AN# MAR~a 
+4.d. 2(N01) , EN~a TUR BA 
+4.e. 3(N01) , |U4x2(N57)| GI 
+5.a. 2(N01) , EN~a SZU NUN~a 
+5.b. 1(N01) , EN~a PA~a 
+5.c. 1(N01) , PAP~a 
+5.d. 1(N01) , KID~b UR4~b 
+5.e. 1(N01) , GI 
+159987	5.f1. 1(N02) , 
+5.f2. 1(N01) , SZIDIM NUN~a SIG7 
+5.g. 3(N01) , EN~a TUR GI 
+6.a. 1(N01) , BA EN~a# AMAR# 
+6.b. 1(N01) , SAL 
+6.c. 1(N01) , AB~a GI 
+6.d. 2(N01) , EN~a TUR KAK~a SZU SZITA~a1 HI? 
+6.e. 2(N01) , EN~a TUR BA 
+6.f. 4(N01) , EN~a TUR GI 
+7.a. 2(N01) , AN |SZU2.EN~a| BA 
+7.b. 1(N01) , GI 
+7.c. 2(N01) , EN~a TUR BA 
+7.d. 4(N01) , |U4x2(N57)| GI 
+8.a. 1(N01) , PAP~a? KAB NAM2# U2~a GI# 
+8.b. 2(N01) , |KA2xLAM| 
+8.c. 8(N01) , GI |U4x2(N57)| 
+9.a. 2(N01) , LAM~a SI ME~a KAB NAM2 
+9.b. 1(N01) , GI 
+9.c. 2(N01) , SZITA~a1 KAK~a SZU EN~a TUR 
+9.d. 2(N01) , EN~a TUR GI 
+9.e. 3(N01) , |U4x2(N57)|# GI# 
+1.a. [...] , [...] 
+2.a. 2(N01) , BA# TUN3~a# [...] 
+3.a. [...] , X [...] 
+4.a. [...] , [...] 
+4.a. 4(N01) [...] , GAL~a# SZAB~a 
+160014	4.b1. , [...] UDU~a#? 
+4.b2. , UDU~a KUR~a 
+4.b3. , [...] X 
+4.b4. , SZU#? X [...] 
+160019	3.a1. [...] 3(N02)# , [...] 
+3.a2. 2(N01) , 
+3.b. , NUN~a# AB2# X [...] 
+2.a. [...] , [...] 
+2.b. , SAG# [...] 
+1.a. [...] , [...] 
+1.b. [...] 2(N01)# , ERIN#? 
+2.a. [...] , [...] 
+2.b. 1(N14) 9(N01) , 
+3.a. [...] , [...] 
+3.b. 1(N14)# 9(N01) , 
+4.a. [...] , [...] 
+4.b. 1(N14)# 9(N01)# , 
+1.a. 1(N14)#? , E2~a#? A#? 
+1.b. [...] 6(N01)# [...] , 
+2.a. 1(N14) , 3(N57) PIRIG~b1 SU~a# SAL 
+2.b. 1(N14) 9(N01)# , 
+3.a. 1(N14) , NA2~a 
+3.b. 1(N14) 9(N01) , 
+1.a. [...] 8(N14)# , X |U4x4(N01)| [...] 
+1.b. [...] 1(N01)# , [...] 
+2.a. [...] , [...] X X KI# 
+2.b. [...] , EN~a# DU# [...] 
+1.a. , UKKIN~a 
+2.a. 1(N01) , AL 
+2.b. , (PAP~a# X [...])a 
+3.a. 2(N01) , EN~a TUR 
+3.b. , (NESAG2~b BA)a 
+3.c. , (A NUNUZ~a1)a 
+4.a. [...] , [...] TUR 
+4.b. , (EN~a UNUG~a HI)a 
+5.a. [...] , [...] 
+5.b. , [...] 
+1.a. 3(N14)# [...] , NAM2 X ZATU752 |BU~a+DU6~a|#? [...] 
+1.b. 2(N14)# 3(N01)#? , EN~a# X [...] 
+1.a. [...] , [...] AL# 
+1.b. , [...] X 
+2.a. 1(N01) , |U4x1(N57)| TUR 
+2.b. , (|3(N57).PIRIG~b1| DU E2~a)a 
+3.a. [...] , [...] 
+3.b. , (EN~a# [...])a 
+5.a. [...] 1(N14)# [...] , [...] 
+5.b. 2(N19)# [...] , [...] 
+1.a. [...] 2(N01)# , TUR# SAG 
+160064	1.b1. , [...] X 
+1.b2. , SZU 
+1.b3. , BU~a#? 
+3.a. 3(N01) , [...] 
+160069	3.b1. , SZA3~a2 E2~a 3(N57) 
+3.b2. , KALAM~a? 
+3.b3. , |3(N57).PIRIG~b1| X SANGA~a#? [...] 
+1.a. [...] , [...] 
+1.b. [...] , [...] 
+2.a. [...] 3(N01)# , [...] X 
+2.b. 5(N01) , SAL 
+3.a. [...] , [...] 
+3.b. 4(N01)# [...] , SAL 
+4.a. [...] , [...] 
+4.b. [...] , [...] 
+1.a. [...] , [...] 
+1.b. [...] , [...] 
+2.a. 1(N14) 8(N01)# , ZATU659#? 
+2.b. 6(N34)# [...] , [...] 
+160085	3.a1. 2(N34)# , ZATU659#? 
+3.a2. [...] , [...] 
+3.b. 2(N34) [...] 2(N14)# [...] , [...] 
+1.a. 1(N01)# , [...] AN# X 
+1.b. , X 3(N57) SZU#? 
+2.a. [...] , BARA3#? [...] 
+2.b. , GADA~a#? KI 
+1.a. 1(N01) , TE RU#? SI BU~a 
+1.b. , [...] 
+2.a. 1(N01) , E2~a NA~a BU~a 
+2.b. , SAL BU~a 
+3.a. [...] , [...] X 
+3.b. , GARA2~a# ZI~a# [...] 
+1.a. 1(N01)# , X SANGA~a#? X 
+1.b. , [...] 
+2.a. 1(N01) , GAN2 DUB~a 
+2.b. , KI#? GAL~a# [...] 
+3.a. 1(N01)# , X X [...] 
+3.b. , [...] 
+1.a. [...] , [...] |SZU2.E2~b|# 
+1.b. 2(N01)# [...] , [...] 
+2.a. 1(N01)# 1(N08) , SUKKAL GADA~a |ZATU659x1(N01)| 
+2.b. 3(N01) , SZITA~a1 [...] 
+3.a. 1(N01) , |ZATU659x1(N01)| NA2~a GAL~a 
+3.b. 2(N01) , X [...] 
+4.a. 1(N01) [...] , X X [...] 
+4.b. [...] , [...] 
+1.a. [...] , SZA3~a1 
+1.b. , KUR~a# X 
+1.c. [...] , PAP~a X [...] 
+2.a. [...] , TAG~a1 
+2.b. , EN~a GI GI 
+2.c. , DU GAL~a# X 
+3.a. [...] 1(N01)# , KUR~a 
+3.b. , EN~a PAP~a GAL~a 
+4.a. [...] 1(N01) , KUR~a SZA3~a1 
+4.b. , EN~a PAP~a A GI X 
+5.a. [...] , X SAL# 
+5.b. , |SZUx1(N58)| 
+3.a. 1(N01)# , ZAG~c# 
+3.b. [...] , [...] 
+4.a. [...] , [...] X 
+4.b. 1(N01) , ZAG~c 
+1.a. 1(N01) , UR2#? X [...] 
+1.b. 1(N01) , ZATU646 [...] 
+1.c. , ERIN SZITA~a1 ZATU686~a# [...] 
+2.a. [...] , [...] EN~a# BA# 
+2.b. [...] , [...] SZU# 
+3.a. 1(N01) , UR2 EN~a U2~a MU 
+3.b. 1(N01) , ZATU646 
+4.a. 1(N01)# , X [...] 
+4.b. [...] , [...] 
+1.a. 1(N01) , |UR2x1(N57)|#? EZINU~c SAL# 
+1.b. , X [...] 
+1.a. [...] , [...] SZE~a# 
+1.b. [...] , [...] 
+2.a. 2(N01)# , SZITA@g~b# 
+2.b. 1(N14)# , [...] 
+3.a. [...] , X [...] 
+3.b. 1(N14)# , [...] 
+1.a. [...] , [...] NUN~a# 
+1.b. [...] , [...] X 
+2.a. [...] , [...] 
+2.b. , SZUM# GU7# [...] 
+1.a. 1(N14)# 1(N01)# , UDU~a# UNUG~a#? X TE 
+160151	1.b1. 3(N57) , UDUNITA~a# 
+1.b2. 8(N57) , NUN~b 
+3.a. [...] 2(N01)# , AB~a# [...] 
+160155	3.b1. [...] , UD5~a# 
+3.b2. 1(N57) , MASZ2 
+3.b3. 7(N57) , UTUA~a 
+1.a. [...] , AMA~a# |ZATU737xSAL| MUSZ3~a#? E2~a# X 
+1.b. , KU3~a NUNUZ~a1 GAL~a 
+2.a. [...] , [...] RAD~a#? 
+2.b. , KALAM~b# 
+160163	1.a1. 1(N01) , 
+1.a2. 1(N01) KU3~a , 
+1.a3. 4(N02) , 
+1.b. , SI AN 
+160168	1.a1. 9(N01)# , 
+1.a2. 1(N01)# KU3~a# , 
+1.a3. 4(N02) , 
+1.b. , SZAKIR~c# ZATU752# SI# AN# 
+1.a. 1(N14) 2(N01) , [...] 
+160174	1.b1. 7(N57)# , U8# 
+1.b2. 5(N57)# , ESZGAR#? 
+1.a. [...] , SZE~a@t E2~a# SU~a [...] 
+1.b. [...] , [...] 
+2.a. [...] 2(N01)# , |KA2xLAM| 
+2.b. , DU 3(N57) PAP~a# 
+1.a. [...] , [...] NAM2 
+160183	1.b1A. , EN~a ZATU759? DU 
+1.b1B. , 3(N57)? SU~a 
+1.b2. , |GA2~bxZATU659|? HASZHUR# 
+2.a. [...] 1(N01) , GAL~a GURUSZ~a 
+2.b. , PAP~a 1(N04) 
+3.a. 2(N01) , MUD3~d LU2# 
+160190	3.b1. , UB TUR 
+3.b2. , X EN~a# SZU#? ME~a SI 
+4.a. 2(N01) , X 
+160194	4.b1. , NAM2? ANSZE~b 
+4.b2. , PAP~a 
+2.a. 4(N01) , SAG 
+160198	2.b1. 1(N57) , UD5~a 
+2.b2. 3(N57) , UTUA~a? 
+1.a. [2(N01)] , [AB2] 
+1.b. 1(N01)# , |U4x1(N57)|# BAR# 
+160203	1.a1. [...] 1(N01)# , DUG~c# MUSZ3~a U4 AN EZEN~b# ME~a 
+1.a2. 1(N01) , SAL BA PIRIG~b1 
+1.b. , EN~a AB~b DUG~a ZATU686~a 
+1.a. 5(N14)# 5(N01)# , UDU~a# 
+1.b. 1(N14)# , |U4x1(N57)|# BAR# 
+160209	1.a1. 1(N01)# , MIR~a#? [...] 
+1.a2. 4(N14)# , DARA4~c4#? 
+1.b. , SU~a 
+2.a. 1(N01) , EN~a# TUG2~a 
+2.b. 1(N14) 5(N01) , ZATU753 
+3.a. 1(N01) , KA~a# TUG2~a# 
+3.b. 1(N14) 5(N01) , 
+4.a. 1(N01) , ZATU792 
+4.b. 1(N14) , ZATU749~c 
+5.a. 2(N01)# , BARA2~a#? 
+5.b. 1(N34) 3(N14) , 
+160221	1.a1. 1(N01) , TUG2~a 
+1.a2. 1(N14) , ZATU749~c 
+1.b. , |ZATU651xEN~a| 
+1.a. [...] 1(N01)# , EN~a# TUG2~a#? X 
+1.b. [...] 1(N14)# [...] , X [...] 
+2.a. 1(N01)# [...] , GAL~a# [...] 
+2.b. [...] , [...] 
+3.a. 1(N01)# [...] , SANGA~a# X [...] 
+3.b. [...] , |ZATU651xEN~a|#? 
+4.a. 1(N01)# [...] , EN~a#? X 
+4.b. [...] , X [...] 
+1.a. 1(N01)#? , [...] 
+1.b. 3(N14)# [...] , [...] 
+2.a. 1(N01)#? , EN~a# X X [...] 
+2.b. [...] , [...] 
+1.a. 2(N01)# , |DUG~cx1(N57)|# MIR~a? NI2 ZATU649#? 
+160238	1.b1. , |3(N57).PIRIG~b1|# AN DU 
+1.b2. , NAR# NAGA~a# HI 
+160241	2.a1. [...] , |DUG~cx1(N57)|# SZU SZA [...] 
+2.a2. 2(N01)# , |DUG~cx1(N57)| MIR~a [SI] U4# AB2 
+160244	2.b1. , |3(N57).NUNUZ~a1| 
+2.b2. , EN~a SZITA~a3 PAP~a DU 
+3.a. , |3(N57).PIRIG~b1| AN DU 
+3.b. , BU~a HI 
+4.a. 7(N01) , |DUG~cx1(N57)| MIR~a TUR3~a A 
+4.b. , NAR NAGA~a HI 
+3.a. , NI2 
+3.b. , |3(N57).NUNUZ~a1|# 
+2.a. 1(N01) , U2~a? BAR 
+2.b. , EN~a NANNA~a AN 
+1.a. 2(N34) 1(N14) , UDU~a BA 
+1.b. 1(N14)# [...] , [|U4x1(N57)| BAR] 
+3.a. , |GISZ.TE| A 
+3.b. 3(N01) , ZATU752 
+160259	3.c1. , NIM~b1 
+3.c2. , MUD# KA~a 
+3.c3. , |GISZxSZU2~a| SZU 
+7.a. 1(N01) , SANGA~a# GA~a# SI U4 AB2 
+7.b. , ZATU751~a# 3(N57)# DUR2# |BU~a+DU6~a| 
+7.c. , EN~a AB~b ZATU686~b DUG~a 
+1.a. 6(N01) , [...] 
+160267	1.b1. 4(N57) , TUR3~a A# 
+1.b2. 2(N57) , UNUG~a TAK4~a ALAN~c#? [...] 
+8.a. 1(N01) , ZATU649# KASZ~a# SZE~a# 
+8.b. [...] , [...] X MUD NUN~a 
+160272	1.a1. 2(N01) , ZATU648 
+1.a2. 1(N01)# , AB~a# MUSZ3~a# X 
+1.b. , |3(N57).NUNUZ~a1| 
+4.a. [...] 1(N01)# , [...] 
+4.b. , |3(N57).NUNUZ~a1|# 
+9.a. 4(N01)# 1(N01)# KU3~a , X [...] 
+9.b. , MUD NUN~a 
+10.a. 1(N01) KU3~a , TUR3~a A 
+10.b. , E2~a 3(N57) 
+160282	4.a1. 1(N01) , ZATU649# |GA~a.ZATU753|? AN# DA~a# MIR~a#? 
+4.a2. 1(N01)# , X [...] 
+4.a3. 1(N01)# , X [...] SIMUG# MUD# NUN~a# 
+4.b. , GAL~a#? X KU6~a#? [...] 
+160287	5.a1. 1(N01)# , TUR3~a# A# X [...] 
+5.a2. [...] , NAR# NAGA~a# 
+5.a3. 1(N01) , ZATU649 |GA~a.ZATU753| MIR~a DA~a AN 
+5.b. , |3(N57).NUNUZ~a1| 
+1.a. [...] , AB~b NAGAR~a# X X |3(N57).NUNUZ~a1| X [...] 
+160293	1.b1. [...] , X [...] 
+1.b2. , X |GA~a.ZATU753| KASZ~b X [...] 
+2.a. 1(N01) , X X MUD# NUN~a# 
+160297	2.b1. 5(N57)#? , X NAMESZDA# 
+2.b2. 1(N08) , |GA~a.ZATU753|# MIR~a#? 
+3.a. 1(N01) , ZATU648# MASZ SI 
+3.b. , BU~a HI GA~a 
+4.a. 1(N01) , ERIM2# SI4~a SZE~a |3(N57).NUNUZ~a1| 
+160304	4.b1A. 3(N57) , X SZA#? U4 [...] X 
+4.b1B. , X X 
+160307	4.b2A. 2(N57) , GAN~b SZU [...] 
+4.b2B. , X [...] 
+4.b3. 1(N08) , X [...] 
+1.a. 1(N01)# , X [...] 
+160312	1.b1. [...] , [...] 
+1.b2. 1(N08)# , [...] 
+160315	1.a1. 1(N01) , BA TUG2~a X UTUL~a# [...] 
+1.a2. 1(N01) [...] , SIG2~b# BUR2# [...] GI# X UTUL~a# [...] 
+1.b. , MUD# [...] IB~a# 
+2.a. [...] 1(N01)# , X SIG2~b SZE~a# [...] 
+2.b. , SUG5# LA2 
+1.a. 1(N01) , BA SIG2~b 
+1.b. , |3(N57).NUNUZ~a1|# 
+6.a. 1(N01) , GADA~a ZATU659 ZATU752# AN KI MUSZEN KU3~a# AD~a# 
+6.b. , GA~a SANGA~a 
+7.a. 2(N01) , GADA~a ZATU649#? X [...] 
+7.b. , SUG5 LA2 
+2.a. 1(N01) , SIG2~a1#? X 
+2.b. 4(N14) [...] , [...] 
+2.c. , SIG EZEN~b MUSZ3~a AN [...] 
+1.a. [...] 1(N01)# , SZAKIR~c ZATU752 GI6 KAR2~a NUN~a 
+160331	1.b1. [...] 1(N01) KU3~a , X 
+1.b2. 2(N01) , KU3~a GI ZATU648# SANGA~a# 
+160334	1.c1. [...] , ZATU648#? [...] 
+1.c2. , [...] 
+1.a. 4(N01) , DUG~c BU3 
+160338	1.b1. 1(N57) , E2~a NA2~a MUSZ3~a 
+1.b2. 1(N57) , |GA~a.ZATU753| MIR~a# 
+1.b3. 2(N57)# , |KA2xLAM| 
+2.a. 2(N01)# [...] , [...] 
+160343	2.b1. [...] , X [...] 
+2.a. 1(N01) , NA2~a X [...] 
+2.b. 8(N01) , |U4x4(N01)| GAN~c# [...] 
+1.a. [2(N34)] , [UDU~a BA] 
+1.b. [2(N14)] , [|U4x1(N57)|] BAR# 
+1.a. 3(N14)# 5(N01) , UDU~a BA 
+1.b. 4(N01) , |U4x1(N57)| BAR 
+3.a. 1(N08)# , TUG2~a# TAR~a U8# 
+3.b. , EN~a# DUG~a# AB~a# ZATU686~a 
+1.a. 4(N01) , AB2# 
+1.b. 2(N01) , |U4x1(N57)| BAR 
+1.a. [2(N14)] , [UDU~a BA] 
+1.b. [...] , [|U4x1(N57)| BAR] 
+1.a. 4(N14) 3(N01) , UDU~a BA 
+1.b. 8(N01) , |U4x1(N57)| BAR 
+2.a. 1(N01) , X NUN~a#? [...] 
+160360	2.b1. [...] , [...] 
+2.b2. , X [...] 
+3.a. 1(N01) , X [...] 
+160364	3.b1. 1(N01) , DUG~c# X [...] 
+160366	3.b2A. , |GA~a.ZATU753|# 
+3.b2B. , MUD# [...] 
+160369	2.a1. 4(N02) , 
+2.a2. 2(N01) , SILA3~a 
+2.b. , AN PAP~a KI 
+160373	1.a1. [...] 2(N01)# , [...] 
+1.a2. 2(N02) , [...] 
+1.b. , X [...] 
+1.a. [...] , |TUG2~a.(BAD&BAD)|# NE~a# HAL TUR 
+1.b. 3(N51)# , 
+2.a. 1(N01) , |TUG2~a.(BAD&BAD)| EN~a BA KI ZATU647 
+2.b. 3(N51) , 
+160381	4.a1. 6(N01) , 
+4.a2. 2(N02) , 
+4.b. , ZATU649 NI2 
+160385	5.a1. 7(N01) , 
+5.a2. 1(N01) KU3~a , 
+5.a3. 4(N02)# , 
+5.b. , SI4~a ERIM2 SZE~a GI# 
+160390	1.a1. 4(N01) , 
+1.a2. 1(N01) KU3~a , 
+1.b. , ZATU649 
+160394	2.a1. 6(N01) , 
+2.a2. 2(N02) , 
+2.b. , NI2# 
+160398	3.a1. 7(N01)# , 
+3.a2. [1(N01) KU3~a] , 
+3.a3. [4(N02)] , 
+3.b. , SI4~a# [ERIM2 SZE~a GI] 
+160403	1.a1. 2(N14) 3(N01) , 
+1.a2. 1(N01) KU3~a , 
+1.a3. 1(N02) , 
+1.b. , DUG~c BA# |GI&GI|# [...] 
+4.a. 2(N48) 2(N14) 4(N01)# [...] , [...] 
+4.b. 1(N48) 5(N34)# 2(N14)# [...] , [...] 
+160410	2.a1. 1(N01) , KU3~a# 
+2.a2. 2(N02)# [...] , 
+2.b. , ZABALAM~a AB2 
+1.a. [...] 1(N01)# , GA2~a1 ZATU647 
+1.b. , [...] |GA~a.ZATU753| 
+1.a. 3(N14)# [...] , UDU~a BA 
+1.b. [...] , |U4x1(N57)|# BAR 
+3.a. 3(N01) [...] , [...] 
+3.b. , MUD# SAG# [...] 
+1.a. 4(N14)# , BA UDU~a 
+1.b. 6(N01) , |U4x1(N57)| BAR 
+2.a. [...] 1(N01)# , DUG~b [...] EN~a# KA~a 
+2.b. 2(N01) , KISIM~a#? 
+1.a. [...] , [UDU~a BA] 
+1.b. [...] , [|U4x1(N57)| BAR] 
+1.a. 4(N14) , UDU~a BA 
+1.b. 4(N01) , |U4x1(N57)| BAR 
+2.a. 1(N01) , 1(N57) BARA2~a NAB DI 
+160429	2.b1. 1(N01) , |TUG2~a.(BAD&BAD)| 
+2.b2. 1(N01) , BARA2~a 
+3.a. 1(N01) , 1(N57) TUG2~a# 
+160433	3.b1. 1(N01) , BARA2~a 
+160435	2.a1. [...] , 
+2.a2. [1(N01)] KU3~a# , 
+2.a3. 1(N02) , 
+2.b. , SI4~a# [...] 
+1.a. [...] , UDU~a# BA# 
+1.b. [...] 1(N01)# , |U4x1(N57)| BAR 
+1.a. [...] , SUM~a#? KU~b1#? GARA2~a 
+1.b. 2(N01)# , KU3~a# 
+1.a. 1(N01) , X [...] AN# SAG# [...] 
+1.b. , [...] 
+2.a. 1(N01) , X [...] 
+2.b. 1(N01) , [...] 
+3.a. 1(N01) , ZATU764# EZEN~b#? [...] 
+3.b. , [...] 
+4.a. 3(N14)# , SAL X [...] 
+4.b. , PIRIG~b1# [...] 
+5.a. 1(N14)# [...] 1(N01)# , [...] SZE~a#? NUN~a# SIG7 
+5.b. , [...] AB~a 
+6.a. 1(N14) 5(N01) , X BU~a NUN~a SIG7 
+6.b. , ZATU686~b [...] 
+1.a. 1(N01)# , X [...] 
+1.b. 4(N14)# [...] , [...] 
+2.a. 1(N01)# [...] , [...] 
+2.b. 3(N01)# , [...] 
+3.a. 2(N01)# [...] , [...] 
+3.b. 1(N14)# 2(N01)#? , [...] 
+4.a. [...] , [...] 
+4.b. [...] , [...] 
+5.a. 3(N01)# , TUG2~a [...] 
+5.b. 1(N34) 1(N14) [...] , [...] 
+5.c. , 3(N57)#? X [...] 
+6.a. [...] , NUNUZ~a1# X GI# U4# GA~a# KISAL~b1# AN# ZATU759 
+160468	6.b1. [...] , X SZITA~a1# 
+6.b2. , PIRIG~b1 2(N57) AB~a E2~a#? 
+7.a. , SZU 3(N57) 
+160472	7.b1. , 3(N57) SU~a PAP~a 
+7.b2. , EN~a NANNA~a# 
+1.a. [...] 1(N01) , [...] TUG2~a# 
+1.b. [...] 1(N14) , [...] 
+3.a. 1(N01)# [...] , [...] 
+3.b. 1(N14) , [...] 
+4.a. 2(N01)# , TUG2~a# DILMUN# ERIM~a# SU~a 
+4.b. 2(N14) , KU6~a 
+5.a. 3(N01)# , [...] 
+5.b. 4(N14)# 5(N01) , 
+6.a. 1(N14) 1(N01) , TUG2~a 
+6.b. 1(N34) 5(N14) , 
+7.a. 1(N01) , SAL ME~b TUG2~a 
+7.b. 7(N01)# [...] , 
+1.a. [...] 1(N01) , X BA 
+1.b. [...] , [...] 
+2.a. 1(N01) , TUG2~a@g 
+2.b. [...] , [...] 
+3.a. 2(N01)# , SAL# ME~b X 
+3.b. 2(N01)# [...] , [...] 
+4.a. , DIN SA~c#? I X [...] 
+4.b. [...] , [...] 
+5.a. 1(N01) , SIG2~b BA 
+5.b. 3(N14)# , [...] 
+6.a. , DU SIG2~b BAR [...] 
+6.b. [...] , [...] 
+160499	7.a1. 1(N01) , TUG2~a# BA# 
+7.a2. 1(N14)# 4(N01)# [...] , 
+7.b. , SU~a# NAB# DI |E2~ax1(N57)@t| 
+8.a. , GA~a SANGA~a 
+8.b. , NUNUZ~a1 3(N57) 
+1.a. 2(N01) , GADA~a UR2 GISZ U4 EZEN~b MUSZ3~a 
+1.b. , SUG5 LA2 
+2.a. 1(N01)# , GADA~a X [...] 
+2.b. , GIR3~c# X [...] 
+160509	3.a1. [...] 1(N01)# , X [...] 
+3.a2. 1(N01) KU3~a# , 
+3.a3. 4(N02) , 
+3.b. , [...] 
+1.a. [...] , [...] 
+160515	1.b1. [...] , [BA] 
+1.b2. [...] , GI 
+2.a. 3(N14) , U2~a 
+160519	2.b1. 5(N01)# , BA# 
+2.b2. 2(N14) 5(N01) , GI 
+1.a. [...] , X TE# [...] X 
+1.b. , MUD NUN~a IB~a# 
+2.a. [...] , [...] NA2~a# 
+2.b. , MUSZ3~a# 
+1.a. [...] 2(N01)# , BA ZI~a# KASZ~c 
+1.b. [...] , GAR#? ZI~a [...] 
+1.a. [...] 4(N01)# , [...] 
+160529	1.b1. 3(N57) , GI6 
+1.b2. 2(N57)#? , [...] 
+1.b3. 2(N57)#? , X [...] 
+1.a. 1(N01) KU3~a# , ZABALAM~a# AB2# [...] 
+1.b. 2(N02) , |3(N57).NUNUZ~a1| 
+2.a. 1(N01) , DUG~c EN~a ME~a UR2 SI 
+160536	2.b1. 1(N57) KU3~a , ZATU649 
+2.b2. 1(N57) KU3~a , GIR3@g~c#? 
+3.a. 1(N01) , |GA~a.ZATU753| MIR~a NAGA~a NAR SZUBUR# X 
+160540	3.b1. 1(N57) KU3~a# , ZATU649# 
+3.b2. 1(N57) KU3~a# , TUR3~a# A# 
+1.a. [...] 1(N01)# , SZU2 
+160544	1.b1. [...] , [...] |GA~a.ZATU753|# 
+1.b2. 3(N57) , TU~a SANGA~a 
+160547	2.a1. [...] , 
+2.a2. 1(N01) KU3~a , 
+2.b. , [TUR3~a] A# X 
+160551	4.a1. [...] , 
+4.a2. 4(N02)# , 
+4.b. , [SZE~a GI] ERIM2# 
+3.a. [...] 1(N01)# , [...] NA2~a# 
+3.b. , MUD LU2 IB~a 
+1.a. 3(N01) , DUG~c U4 AB2 
+160558	1.b1. 1(N57) , |GA~a.ZATU753|# MIR~a 
+1.b2. 2(N57) , BA KI 
+1.a. [...] , [...] EN~a# SZIM~a# 
+1.b. , [...] KUR~a# [...] 
+1.a. [...] , ZATU752# GI6# KAR2~a NUN~a [...] 
+1.b. [...] , [...] X 
+2.a. 3(N01) , SZAKIR~c ZATU752 GI6# KAR2~a NUN~a 
+2.b. , EN~a# GA2~a1# DU 
+3.a. 3(N01)# , ZATU752# [...] 
+3.b. , MEN~a UNUG~a# [...] ZATU648# [...] 
+160569	2.a1. 4(N01) , 
+2.a2. [...] , 
+2.b. , ERIM2# SI4~a SZE~a 
+160573	3.a1. 4(N01) , 
+3.a2. 2(N02) , 
+3.b. , TUR3~a A 
+2.a. 1(N01) , SI TUR@g NIMGIR 
+160578	2.b1. 1(N01) [...] , [...] 
+2.b2. 1(N01) , ZABALAM~a# AB2 X 
+3.a. 1(N08) , GAN~a E2~a 
+3.b. 1(N14) 2(N01) , KISIM~a EN~a ZATU752 
+160583	1.a1. [...] , DUG~c 
+1.a2. 1(N01)# [...] , [...] 
+1.b. , LA2 SUG5 HI NAR NAGA~a MIR~a# |GA~a.ZATU753|# [...] 
+1.a. [...] , |GA~a.ZATU753|# [...] 
+160588	1.b1. [...] , [...] HI@g~a 1(N06) 
+1.b2. 1(N52)#? [...] , [...] 
+1.a. [...] , [...] 
+1.b. [...] , U4#? [...] 
+2.a. [...] , [...] 
+2.b. 1(N01)#? [...] , [...] 
+160595	3.a1. [1(N01)] , SZAKIR~c# 
+3.a2. 1(N01) KU3~a , 
+3.b. , ZATU752 
+160599	2.a1. [2(N01)] , [SZAKIR~c] 
+2.b. 1(N01)# [KU3~a] , 
+1.a. 2(N01) , APIN~a SAL |GA2~bxDUB~a| 
+1.b. , SUG5# LA2# IB~a# 
+1.a. 1(N01) , DUG~c ZATU649 BU3 
+1.b. [...] , X GAN~b# |U4x2(N01)|#? NA2~a# 
+1.a. 1(N01) , DUG~c# 
+160607	1.b1. 5(N01)# , |U4x4(N01)| GAN~c NA2~a# 
+1.b2. 1(N08) , |GA~a.ZATU753|# BAR 
+2.a. , PA~a MEN~a IB~a SZE~a 
+160611	2.b1. , X X 
+2.b2. , MUD NUN~a 
+160614	1.a1. 1(N01) , ZATU764 NA2~a 
+1.a2. 1(N01) , EZINU~b ZATU764 
+1.b. , AN# KI [...] 
+160618	1.a1. [...] , [...] 
+160620	1.a2A. [...] , [...] 
+1.a2B. , [...] PAP~a SU~a 
+160623	1.b1. [...] 3(N01)# , SZU 
+160625	1.b2A. , (KASZ~c# |SZE~a&SZE~a|)a 
+1.b2B. , (MUD)a 
+1.c. , (PIRIG~b1)a 
+2.a. [...] 2(N01)# , [...] SZU# 
+2.b. , (PAP~a)a 
+2.c. , (|GIR3~cxSZE3|# NUN~a# [...])a 
+3.a. [...] , [...] 
+3.b. 2(N01) , SZU 
+3.c. , (TAK4~a U2~b)a 
+3.d. , (EN~a X)a 
+4.a. [...] 1(N01)# , SZU# 
+4.b. , (UB ZI~a)a 
+4.c. [...] , [...] 
+5.a. [...] , [...] SAG# 
+5.b. , (GUG2 BAR#?)a 
+1.a. [...] 1(N01)# , X [...] 
+2.a. 2(N01) , X NIM~b1#? [...] 
+2.b. [...] , [...] 
+3.a. [...] , [...] 
+3.b. [...] , [...] 
+1.a. 4(N01) , X [...] 
+160647	1.b1. 1(N57) , GI# MA#? 
+1.b2. 1(N57) , EN~a SI X 
+160650	1.a1. 1(N01) , KU6~a |U4x1(N57)| SZU# 
+1.a2. , DA~a BA ZATU694~c 
+1.b. , [...] X EN~a# EZEN~b 
+1.a. 1(N34) 1(N14) 4(N01) , EN~a SIG2~b SZU2 GADA~a TUG2~a 
+160655	1.b1. 1(N14) 2(N01)# , [SIG2~b] 
+1.b2. 1(N14) 1(N01) , X [TUG2~a] 
+1.b3. 2(N01) , BA [...] 
+1.b4. 7(N01) , [BARA2~a] 
+1.b5. 2(N14) 4(N01) , [SZU2] 
+1.b6. 1(N14) 8(N01) , [GADA~a] 
+1.a. [...] , TUG2~a# [...] |ZATU651xX|# GI6# SIG7 NUN~a 
+1.b. , KASZ~b ZATU647# [...] UNUG~a# 
+2.a. 1(N01)# , TUG2~a@g# SAL [...] X |1(N58).BAD~a| 
+2.b. , U8? KISAL~b1 
+3.a. [...] , [...] X X 
+3.b. , SZITA~a1 GAL~a SANGA~a 
+160668	1.a1. [...] , [...] MES#? 
+1.a2. 1(N01)# , SZITA~a1 SANGA~a GAL~a 
+1.b. , NIGIN? SANGA~a SZITA~a1 GAL~a 
+160672	2.a1. 1(N01) , DUG~c NUN~a# EN~a# BIR3~a [...] 
+2.a2. 1(N01) , EN~a# U2~a#? DU BU~a AB~a ZATU749~a 
+2.b. , |ZATU651xEN~a| ZABALAM~a# 
+3.a. 1(N01) , KASZ~c GUG2 NI~a KAB NAM2? 
+3.b. , SANGA~a 3(N57) GA2~a1#? 
+4.a. 1(N01) , UMBIN~a#? MES BIR3~a GA2~a1 
+4.b. , |ZATU651xEN~a| MU NIGIN? ZATU647 
+5.a. [...] , [...] 
+5.b. , HI# E2~a NUN~a# [...] 
+5.a. 1(N01)# , X E2~a# SANGA~a# ERIM~a 
+160683	5.b1. 1(N01) [...] , X [...] 
+5.b2. [...] 2(N14)# , X [...] 
+6.a. 1(N01) , GADA~a X SAL 
+6.b. , SANGA~a GAL~a 
+160688	1.a1. [...] , [...] 
+160690	1.a2A. , [...] 
+1.a2B. , [...] X 
+160693	1.b1. 1(N01)# [...] , SI#? AN# MUSZ3~a# GAN2#? 
+160695	1.b2A. , [...] 
+1.b2B. , [...] AN#? NUN~a#? 
+160698	2.a1. [...] , [...] 
+160700	2.a2A. [...] , [...] X SU~a# 
+2.a2B. [...] , [...] X KISAL~b1# 
+160703	2.b1. 2(N01) , |SILA3~axGA~a|# SZE3# SI# AB~a# TUR# 
+160705	2.b2A. , X NUN~a#? 
+2.b2B. , X A#? 
+160708	3.a1. [...] , [...] 
+160710	3.a2A. , [...] SZE3#? TUR# NUN~a# 
+3.a2B. [...] , [...] EN~a# SAG# 
+160714	3.b1A. 2(N01) , ZABALAM~a# GIBIL# 2(N57)# 
+3.b1B. , X SU~a# 
+160717	3.b2A. , X X [...] 
+3.b2B. , X [...] 
+1.a. [...] , [...] 
+1.b. [...] 1(N14)# , UDUNITA~a# 
+1.a. [...] , [...] X 
+1.b. [...] , [...] X 
+1.a. [...] , X [...] X SAG# 
+160725	1.b1. [...] , [...] AN# 
+1.b2. [...] , [...] X NUN~a 
+2.a. [...] , AN# |SZU2.EN~a|# X [...] 
+160729	2.b1. , ZATU773~a AN 
+2.b2. , ZATU773~a# [...] 
+2.a. 5(N01) , [...] 
+160733	2.b1. 2(N01) , TUG2~a 
+2.b2. 3(N01)# , [...] 
+1.a. 1(N01) , TUG2~a? KASZ~b ZATU647? 
+1.b. 1(N01) , ZATU753 
+1.b. , IM~b TAK4~a SAL KI ME~a SZE~a 
+1.a. 1(N01)# , DUG~a#? 
+1.b. 4(N14) , SAL#? URUDU~a? 
+1.c. 4(N01) [...] , SZEN~b 
+1.a. [...] 3(N14)# 2(N01)# [...] , [...] GU7# 
+160743	1.b1. [...] 1(N04)# [...] , [...] 
+1.b2. [...] , [...] 
+1.a. [...] 1(N14)# , [...] DUB~a 
+1.b. [...] , [...] 
+2.a. [...] 1(N01)# , BAR [...] 
+2.b. 3(N08)# [...] , [...] 
+3.a. [...] , [...] 
+3.b. 2(N01)# [...] , 3(N57) SAL ZATU752# [...] 
+1.a. [...] , X [...] 
+1.b. 1(N01) [...] , PIRIG~b1 TUG2~a@g [...] 
+1.a. 3(N01) [...] , [...] 
+1.b. 2(N02) [...] , 
+3.a. 4(N01) [...] , [...] 
+3.b. 6(N02) [...] , 
+2.a. [...] 3(N01) [...] , [...] 
+2.b. 1(N02) [...] , 
+1.a. 4(N14)# 2(N01)# , TUR3~a [...] 
+160761	1.b1. [3(N14) 2(N01)] , [BA] 
+1.b2. 1(N15) , 
+3.a. 2(N14) 9(N01) , |1(N57).SZAH2~a| 
+160765	3.b1. 2(N14) 8(N01) , BA 
+3.b2. 1(N02) , 
+1.a. 1(N01) , DUG~c X SAL NIN TAK4~a X AMA~a 
+1.b. , SAL SZE~a X 
+3.a. 1(N01) , UNUG~a DIM~a SZUBUR DU E2~a NUNUZ~a1 SANGA~a 
+3.b. , GAL~a SANGA~a SZITA~a1 
+4.a. 2(N01) , UNUG~a GA~a AB~a GAL~a 
+160773	4.b1. , GAN~a 6(N57) 
+4.b2. , DUG~c 
+1.a. [...] , TUG2~a |ZATU651xNUN~a| [...] 
+1.b. 1(N01) , |SILA3~axNI~a| 
+2.a. [...] , TUG2~a# X [...] 
+2.b. 1(N01) , DUG~c 
+3.a. [...] , [...] 
+3.b. 1(N01) [...] , [...] 
+1.a. [...] , X [...] 
+1.b. 1(N14) [...] , [...] 
+2.a. 2(N01) , |NINDA2xGA'AR~a1| |GA2~a2xGU4| 
+2.b. , AB~b AN ME~a 
+2.a. 1(N01) , ZATU764 
+160787	2.b1. 3(N01) , DU6~b#? 
+2.b2. , |U4.SZU2| X EZEN~b AN MUSZ3~a SIG 
+1.a. 3(N01)? , AL 
+160791	1.b1. , ([...])a 
+1.b2. , (SZU [...])a 
+1.b3. , (BAR X [...])a 
+2.a. 1(N01) , AMAR 3(N57) X [...] 
+2.b. , (PAP~a)a 
+3.a. 1(N01) [...] , X [...] 
+3.b. , (NIMGIR)a 
+1.a. [...] , BALAG# [...] 
+1.b. , (ZATU651@g SANGA~a MU GAL~a SZU)a 
+2.a. [...] , X [...] 
+2.b. , (|EZEN~axSU~a| |ZATU651xEN~a|)a 
+3.a. [...] , KASKAL# [...] 
+3.b. , (GAL~a SANGA~a MU SZU)a 
+4.a. [...] , X [...] 
+4.b. , (SIG AN MUSZ3~a)a 
+5.a. [...] , [...] 
+5.b. , (EZEN~b AB~a X [...])a 
+160809	2.a1. 1(N01) , NUN~a PAP~a SAL UR~a 
+2.a2. 1(N01) , MA |SAL.KUR~a| KU6~a 
+2.a3. 1(N01) , EN~a SZITA~a1 SAG 
+160813	2.b1. , (NAM2 X [...])a 
+2.b2. , (X EN~a# [...])a 
+3.a. 1(N01) , EN~a NUN~a |GISZxSZU2~a| DU 
+3.b. , (X [...])a 
+1.a. [...] , X [...] 
+1.b. 1(N14) 4(N01) [...] , [...] 
+2.a. [...] , BUR2 TUG2~a DAR~a |BAD&BAD| GA2~a1 AN SZU ME~a 
+2.b. 1(N14) 5(N01) , 
+3.a. 1(N01) , BUR2 DUR2? EN~a SAG [...] 
+3.b. 1(N14) [...] , [...] 
+2.a. 1(N34) , KAR GAL~a 
+2.b. 2(N39~a) , 
+3.a. 1(N34)? [...] , X [...] 
+3.b. 2(N39~a) , 
+4.a. [...] , [...] 
+4.b. 2(N39~a) , 
+1.a. [...] , [...] 
+1.b. 1(N14) [...] , 
+2.a. [...] , X [...] 
+2.b. 1(N14) , 
+3.a. [...] , X [...] 
+3.b. 2(N14) , 
+2.a. [...] , GAN2#? [...] 
+2.b. , MASZ 
+3.a. 2(N01) [...] , [...] 
+3.b. 1(N34) [...] , [...] 
+1.a. [...] , ZATU629# RU# [...] 
+1.b. [...] , ANSZE~b# SANGA~a X [...] 
+1.a. [...] , U2~b SAG [...] 
+160843	1.b1. 1(N50) [...] , [...] 
+1.b2. 1(N14) [...] , [...] 
+2.a. [...] , X [...] 
+160847	2.b1. 1(N50) , SZA3~a1 
+2.b2. [...] , X [...] 
+2.c. 2(N50) , X [...] 
+1.a. 5(N01) , SAL 
+160853	1.b1A. 4(N01) , SAL 
+160855	1.b1B1. , (NAB DI |BU~a+DU6~a|)a 
+1.b1B2. , (ZI~a#? AN)a 
+1.b1B3. , (ANSZE~e 7(N57) DUR2 DU)a 
+1.b1B4. , (LAL3~a#? GAR IG~b)a 
+160860	1.b2A. 1(N01) , SZA3~a1 TUR 
+1.b2B. , (TU~b)a 
+2.a. 3(N01) , KUR~a 
+160865	2.b1A. 1(N01) , KUR~a 
+2.b1B. , (NA~a NIR~a)a 
+160868	2.b2A. 2(N01) , SZA3~a1 TUR# 
+160870	2.b2B1. , (GI6 KISZIK~a# URI3~a)a 
+2.b2B2. , ([...])a 
+2.a. [...] , X [...] 
+2.b. 5(N14) , 
+1.a. 1(N14) 2(N01) , DUB~a BAN~b 
+1.b. , |U4x2(N57)| LAM~b KASZ~c [...] 
+1.a. [...] , DUG~b U2~a [...] 
+1.b. 2(N01) [...] , |SIxSZE3| [...] 
+160879	1.c1. , NUN~a [...] 
+1.c2. , SZE3 NUN~a TUR 
+2.a. 2(N01) , MA HASZHUR AN NIN BALAG 
+2.b. , GA2~a1 HI 
+1.a. 1(N01) , URI5 
+1.b. 4(N01) , SAL 
+2.a. 1(N01) , ARARMA2~a 
+2.b. 2(N01) , SAL 
+3.a. [...] , [...] 
+3.b. 2(N01) [...] , SAL# 
+2.a. [...] , X [...] 
+2.b. 2(N01) [...] , [...] 
+1.a. 1(N01) , DUB~a UR3~a3? GI 
+1.b. [...] , DUG~c AB~a X [...] 
+1.a. [...] , X KASZ~c#? [...] 
+160895	1.b1. [...] , X [...] 
+1.b2. [...] , X [...] 
+1.a. [...] , AB~a KI [...] 
+1.b. 1(N01) [...] , [...] 
+2.a. 1(N01) , SZU2 PIRIG~b1 GIR3~c SZU AN DI 
+2.b. [...] , X [...] 
+3.a. 2(N01) , SZU2 EN~a IB~a 
+160903	3.b1. , DU [...] 
+3.b2. , |GA~a.ZATU753| 
+4.a. 1(N14) , SZU2 TA~e NUN~a 
+4.b. , IDIGNA HI 
+5.a. 1(N01) [...] , SZU2# [...] 
+5.b. 1(N01) [...] , SZU2# [...] 
+1.a. 1(N01) , AL 
+1.b. , (ZATU659)a 
+2.a. [...] , TUR#? [...] 
+2.b. , (BU~a PAP~a [...])a 
+1.a. 1(N01) , UDU~a NUN~b RU 
+1.b. , [...] 
+2.a. 1(N01) , GU4 RU 
+2.b. , X [...] 
+1.a. 2(N01) [...] , LAGAB~b? [...] 
+1.b. 1(N01) [...] , ME~a HAL UTUL~a X [...] 
+2.a. 5(N01) , KASZ~b AN MUSZ3~a 
+2.b. , X [...] 
+3.a. 5(N01) , NAGA~a X AB~a 
+3.b. , SZE~a BU~a NUN~a# NIM~b1 [...] 
+4.a. [...] , X [...] 
+4.b. , EN~a X [...] 
+2.a. [...] , X [...] 
+2.b. 1(N08) , URUDU@g~d 
+3.a. [...] , X [...] 
+3.b. 1(N08) , X TUN3~a X AB~a 
+4.a. [...] , X X [...] 
+4.b. , URUDU@g~d 
+4.a. 1(N01) [...] , X [...] 
+4.b. , |1(N57).SZUBUR| IB~a# 
+1.a. [...] 1(N01) , GAN~c#? [...] 
+1.b. [...] 2(N01) , GA~a# [...] 
+2.a. 1(N34) 3(N14) , [...] BAN~a AK~a 
+2.b. 2(N14) 6(N01) , BAR 
+4.a. 1(N45) 2(N48) 6(N34) 1(N14) 7(N01)# , MUSZ3~a BALA~a 
+4.b. 1(N48) 1(N14) [...] , [...] 
+5.a. 1(N48) 6(N34) , BALA~a MUSZ3~a X TUR AN 
+5.b. 4(N34) [...] , [...] 
+3.a. [...] , X [...] 
+3.b. 4(N34) [...] , [...] 
+1.a. [...] , X [...] 
+1.b. 1(N50) 2(N14) , SZA3~a2 
+1.a. 1(N14) , X [...] 
+1.b. 1(N50)# [...] , [...] 
+1.a. [...] , X NAM2 [...] 
+1.b. [...] , SAG E2~a [...] 
+2.a. [...] , SAG# [...] 
+2.b. , UNUG~a 
+2.c. , UH3~a# [...] 
+1.a. [...] , X [...] 
+1.b. , NESAG2~a |DARA3~dx(KAR2.SZE~a)| [...] 
+2.a. 1(N01) , X ZATU759 
+2.b. , SZE~a NANNA~b [...] 
+3.a. 1(N01) , SZAGAN GI 
+3.b. , EN~a PAP~a HI X [...] 
+4.a. 1(N01) , X NIMGIR 
+4.b. , AB2# UD5~a#? X [...] 
+1.a. 1(N14) [...] , TUG2~a 
+1.b. [...] 6(N01) , DARA4~a1 [...] 
+1.a. [...] , SZEN~b# ZATU647# [...] 
+1.b. [...] , E2~a# GA2~a2 UNUG~a [...] 
+2.a. [...] , BUR2# TUG2~a X [...] 
+2.b. 2(N01) , TUG2~a BUR2 LAGAB~b 
+1.a. [...] 2(N01) , X X AN MUSZ3~a [...] 
+1.b. , AB~a# ME~a AN 
+3.a. 1(N01) , LAGAB~b TUG2~a U4 SZUR2~a EZEN~b IB~a 
+3.b. , GA~a SANGA~a 
+1.a. 1(N34) , SZAKIR~c ZATU752 X URI3~a X 
+1.b. 1(N34) , SZU2 DUG~a 
+2.a. 4(N34) [...] , [...] 
+2.b. 1(N34) [...] , SI X [...] 
+1.a. [...] , |DUG~ax1(N57)|# [...] 
+1.b. [...] , X IB~a BU~a ZAG~a [...] 
+4.a. 2(N01) [...] , [...] 
+4.b. , |SAR~axSZE~a|# [...] 
+1.a. [...] , MA HASZHUR [...] 
+1.b. 3(N34) , MA 
+160981	1.c1. 2(N34) 5(N14) 5(N01) , BA 
+1.c2. 5(N01) , GI 
+2.a. , UNUG~a |GA~a.ZATU753| BAR 
+2.b. , KALAM~b X [...] 
+1.a. 1(N01) [...] , X [...] 
+160987	1.b1. 2(N57) , SAL X 
+1.b2. 2(N57) , SIG7 GI 
+3.a. 2(N01) , ZATU697~a 
+3.b. 1(N34) , DU# 
+1.a. 1(N01) , U4 TUG2~a E2~a |ZATU651xNUN~a| 
+1.b. , AB~a#? SANGA~a? 
+2.a. 1(N01) , TUG2~a TAK4~a KASZ~c KISAL~b1 
+2.b. , X DU X 
+1.a. [...] 1(N01)# , [...] 
+1.b. [...] , [...] 
+2.a. 2(N01) 1(N08) , KI ERIM~a 
+2.b. 1(N01) [...] , X [...] 
+3.a. 1(N01) 1(N08) , ZATU679 
+3.b. 1(N01) [...] , [...] 
+4.a. 1(N08) , AL AN SZU 
+4.b. 1(N01) [...] , [...] 
+5.a. [...] 1(N08)# , X [...] 
+5.b. [...] , [...] 
+2.a. 1(N01) , TUR3~a#? MASZ2@g NUN~a 
+2.b. , BU~a 1(N04) 
+2.a. [4(N01)] , X [...] 
+161009	2.b1. 1(N57) , ERIN 
+2.b2. 3(N57) , EZEN~a 
+1.a. 3(N01) , X E2~a PAP~a# 
+161013	1.b1. 2(N57) , X SZE~a MUSZ3~a 
+1.b2. 1(N57) , AN 
+1.b3. , X [...] 
+2.a. , NAGA~a 
+2.b. , KU6~a 
+1.a. [...] , [...] X 
+161020	1.b1. 1(N01) , [...] 
+1.b2. 1(N01) , X [...] 
+161023	1.c1. 1(N01) , [...] 
+1.c2. 3(N01) , SZU2 
+161026	1.d1. 1(N01) , BAR SAL 1(N57) 
+1.d2. 1(N34) , ZATU759 SAG 
+2.a. [...] , [...] IB~a# 
+2.b. 3(N01) , ZATU753 
+161031	2.c1. 1(N01) , ME~a 
+2.c2. 5(N01) , SZU2 
+2.d. 3(N14) , ZATU759 SAG 
+3.a. [...] , [...] IB~a 
+3.b. 3(N01) , ZATU753 
+3.c. 1(N01) , ZATU644~a 
+3.d. 2(N34) , ZATU759 SAG 
+5.a. [...] , [...] 
+5.b. 1(N34) [...] , ZATU759# SAG 
+1.a. 1(N01) , ZATU753 ENGIZ SZAGAN 
+1.b. 2(N01) , SZU2 
+1.c. 2(N01) , BAR SAL 1(N57) 
+2.a. 1(N01) , ZATU753 AK~a 
+2.b. 1(N01) , ME~a 
+2.c. 2(N14) , ZATU759 SAG# 
+3.a. 1(N01) , ZATU753 SANGA~a ME~a 
+161048	3.b1. 1(N01) , ZATU753 
+3.b2. 1(N01) , GADA~a 
+3.c. 2(N01) , SZU2 
+3.d. 2(N14) , ZATU759# SAG 
+4.a. 1(N01) , GADA~a GAL~a SZAB~a 
+4.b. 1(N01) , BAR SAL 
+5.a. 1(N01) , ZATU753 MU# X 
+5.b. 1(N01) , ZATU644~a 
+5.c. 2(N01) , SZU2 
+5.d. 1(N01) , BAR SAL 
+2.a. 1(N01) , TUG2~a LAM~b AN |SZU2.EN~a| 
+2.b. 1(N01) , BAR SAL [...] 
+3.a. 2(N01) , SZU2 |SZE~a.NAM2| 
+3.b. 3(N01) , TUG2~a [...] 
+4.a. [...] , TUG2~a EZEN~b GAL~a 
+4.b. 1(N01) [...] , [...] 
+1.a. 3(N14) 4(N01) , GU7 
+161066	1.b1. 6(N01) , GISZIMMAR~b1 KAR2~a NUN~a 
+1.b2. 2(N14) 8(N01) , |U4.2(N08)|# X [...] 
+3.a. 2(N01)# , HI U4 BAN~a SZEN~b IB~a 
+3.b. , |ZATU651xNUN~a| E2~a 
+4.a. 1(N01) , EN~a IB~a ZATU651@g X 
+4.b. , |ZATU651xNUN~a| E2~a 
+5.a. 2(N01) , UNUG~a SAL AMA~a? AN |NINDA2x(HI+ME~a)| 
+5.b. , |ZATU651xNUN~a| E2~a 
+6.a. 4(N01) , SUG5 X ERIM~a [...] 
+161076	6.b1. , BU~a 1(N57) X 
+6.b2. , |1(N58).BAD~a| SZUBUR 
+6.b3. , SZA UD5~a 
+1.a. [...] , IB~a |1(N57).SZUBUR|# 2(N57) 
+1.b. , UNUG~a# [...] 
+2.a. 1(N01) [...] , EN~a AB~b BU~a# 
+2.b. , SZENNUR~b 
+3.a. 2(N01) , HI E2~a NUN~a BIR3~a 
+3.b. , X GUL 
+4.a. 1(N01) , NUN~a BIR3~a 
+4.b. , X 
+5.a. 1(N01) , PAP~a SZU X [...] 
+5.b. , |ZATU651xEN~a| GIBIL KU6~a 
+6.a. [...] , X SIG7 NUN~a? 
+6.b. , NA2~a 
+7.a. 1(N01) , EZEN~b SIG7 NUN~a 
+7.b. , EN~a# X 
+9.a. 1(N01)# , EN~a# AL BA [...] 
+9.b. , |ZATU651xNUN~a| E2~a 
+1.a. 1(N14) 5(N01) [...] , UNUG~a SUG5 SIG2~b SI MASZ 
+161097	1.b1. , X X [...] 
+1.b2. , X X KU6~a 
+2.a. 1(N01) , X SZU X IB~a 
+2.b. , |ZATU651xNUN~a| E2~a 
+161102	3.a1. 1(N01) , X X NAM2 KAB 
+3.a2. 2(N01) , X |1(N58).BAD~a|# IR~a? 
+3.b. , |ZATU651xNUN~a| E2~a UNUG~a 
+4.a. 1(N01) , EN~a# DU NUNUZ~c U2~b 
+4.b. , |SAR~axSZE~a| 
+161108	5.a1. 1(N01) , TAK4~a KASZ~c KISAL~b1 
+5.a2. 1(N01) , |SZU2.E2~a| 
+5.b. , ZATU679 
+6.a. 3(N01) , EN~a# TAK4~a# X TUG2~a@g 
+6.b. , 1(N04) 
+7.a. 2(N01) , X SIG SZU 
+7.b. , UNUG~a ZATU753 
+1.a. 1(N50) , GAN2 MU SZU SZITA~a1 ERIN 
+161117	1.b1. 5(N14) , BA 
+1.b2. 5(N14) , GI 
+2.a. 1(N50) , [...] 
+161121	2.b1. 4(N14) , BA 
+2.b2. [6(N14)] , [GI] 
+1.a. 6(N01) , LU2 MUD3~d 
+161125	1.b1. [...] , [...] 
+1.b2. , TUR#? DU [...] 
+2.a. 3(N01) [...] , [...] 
+161129	2.b1. , SAG# PAP~a 
+2.b2. , X X 
+2.b3. , GAL~a X 
+2.b4. , EN~a [...] 
+161134	2.a1. 1(N01) KU3~a , 
+2.a2. 1(N02) , 
+2.b. , NI2 KASZ~c AN MUSZ3~a 
+2.a. 1(N45) 1(N58) 2(N34) , X [...] 
+161139	2.b1. 6(N34) , BAD X 
+2.b2. 2(N48) [...] , [...] 
+1.a. 1(N14) , PAP~a SU~a 3(N57) NAGAR~b 
+161143	1.b1. , 1(N57) [...] 
+1.b2. , 3(N57) [...] 
+2.a. 1(N34) 4(N01) [...] , [...] 
+2.b. 2(N01) [...] , TUG2~a BUR2# [...] 
+1.a. 1(N01) , TI# PAP~a 
+1.b. , GUG2 BU~a 
+1.a. 4(N40) , GAL~a 
+1.b. 1(N01) [...] , MUSZEN? X 
+2.a. 2(N03) , SZU EN~a NUN~a 
+161153	2.b1. 1(N03) 3(N40) , BA 
+2.b2. 2(N40) , GI 
+3.a. 2(N03) , AMAR 
+161157	3.b1. 3(N40) , BA 
+3.b2. 1(N03) 2(N40) , GI 
+1.a. [...] , X [...] 
+1.b. , ZATU753# HI [...] 
+2.a. 2(N01) , GA2~a1 NIMGIR 
+161163	2.b1. , X X 
+2.b2. , |BU~a+DU6~a| GUL 
+1.a. 1(N01) , MUSZEN NI2 
+1.b. , EN~a DA~a# [...] 
+2.a. 1(N01) , MUSZEN EN~a A SZA 
+2.b. , NIN APIN~a BALAG 
+3.a. 1(N01) , GISZIMMAR~b1 GAL~a 
+3.b. , GU4 DU 
+4.a. 1(N01) , NAGA~a ZATU647 
+4.b. , A [...] 
+2.a. 1(N01) , ISZ~b ME~a 
+2.b. , SZUBUR BU~a 
+3.a. 1(N01) , EN~c TUR3~b DU SA~a 
+3.b. , ZATU714 ZATU749~b 
+161178	1.a1. [...] , GAL~a# KISZ BUR~b# 
+1.a2. 6(N01) , UMUN2 X 
+1.b. , IB~a |1(N57).SZUBUR| TUR 
+161182	2.a1. 2(N01) [...] , [...] 
+2.a2. 5(N01) [...] , [...] 
+2.b. , ZATU753 [...] 
+3.a. [...] 1(N01) , 
+161187	3.b1. 1(N34)# 1(N01) , 
+3.b2. 1(N34) [...] , 
+1.a. 1(N01) [...] , UMUN2 
+1.b. , SANGA~a 3(N57) 
+2.a. 3(N14) , LAGAB~a HI@g~c SA~a ZATU702 UR2 GISZ PAP~a BU~a SZITA~a3 NAM2 
+2.b. 1(N01) , KI NA~a ZATU702 |SILA3~axGA~a| 
+3.a. [...] 1(N14)# 3(N01)# , X [...] 
+161195	3.b1. , SANGA~a 
+3.b2. , TE 
+3.b3. , DUG~a 
+3.b4. , GA~a 
+3.b5. , TAK4~a ALAN~b 
+3.b6. , ZATU752 
+3.b7. , GA~c? 
+3.b8. , NE~a 
+3.b9. , SI TAG~b 
+3.b10. , GA2~a2 ZATU718 
+3.b11. , ZATU772 
+3.b12. , UMUN2# [...] 
+1.a. 2(N01) , DIN LAM~b 
+161209	1.b1. 1(N01) , GIR3~c 
+1.b2. 1(N01) , SZE3# MUD NUN~a 
+1.a. , LAGAB~b# LAGAB~b 7(N57)# EN~a IB~a [...] 
+1.b. , KID~c? PAP~a 
+2.a. , LAGAB~b 7(N57) GAL~a |1(N58).BAD~a| 
+161215	2.b1. , GARA2~a 
+2.b2. , NAM2 
+1.a. , LAGAB~b# LAGAB~b 1(N57) EN~a IB~a 
+1.b. , 1(N57) AMAR? X DU 
+2.a. , LAGAB~b 1(N57) GAL~a |1(N58).BAD~a| X BU~a U2~b [...] 
+161221	2.b1. , 1(N57) GARA2~a 
+2.b2. , 1(N57) MAH~a# 1(N57) KU6~a# 
+2.a. [...] 1(N01) , [...] 
+2.b. 1(N34) , DU 
+1.a. [...] , [...] 
+1.b. , X 
+2.a. [...] , X AB2#? [...] 
+2.b. , DU NU BU~a 
+3.a. [...] , X AB2#? [...] 
+3.b. , X SAR~a SZA3~a2 SUKKAL 
+4.a. [...] , [...] 
+4.b. , KI TU~b AN 
+5.a. [...] , [...] 
+5.b. , ALAN~b# [...] 
+1.a. [...] 1(N01) , X [...] 
+1.b. 1(N01) , X |SILA3~axNI~a| 
+1.a. 1(N01) , GAN~b X X DA~a X HI 
+161239	1.b1. 1(N01) , DUG~c 
+1.b2. , |ZATU651xNUN~a| E2~d 
+2.a. 1(N01)# [...] , DUG~c# X [...] 
+2.b. , |ZATU651xNUN~a| E2~a 
+3.a. [...] , [...] 
+3.b. [...] , DUG~c#? [...] 
+1.a. 8(N01)# , GAR |U4x2(N57)| AB~a 
+1.b. 1(N28) , |U4x1(N57)| SZE~a 
+1.c. 2(N39~a) 1(N24) , |U4.1(N14)| SZE~a 
+161249	1.d1. 1(N01)# [...] , [...] SZE~a 
+1.d2. 4(N14)# , X [...] 
+2.a. 1(N14) , |U4x1(N01)| |LAGAB~axSZITA~a1| PAP~a#? 
+2.b. 1(N24) , |U4x1(N57)| 
+2.c. 1(N04) 1(N01) 1(N41) 1(N39~a) , |U4x(1(N14).2(N01))|# [...] 
+3.a. 1(N01) , X |U4x1(N01)|? GUG2#? 
+3.b. 2(N41) 2(N29A~b) , |U4x(1(N14).2(N01))| 
+4.a. 5(N01)#? , |U4x1(N01)|#? X 
+161258	4.b1. 2(N39~a) 1(N24) , |U4x1(N01)| 
+4.b2. 1(N28)#? , SZE~a# BULUG3#? [...] 
+4.c. 1(N14) 1(N01) 1(N39~a) , |U4x(1(N14).2(N01))| 
+1.a. X? 1(N28)# , |U4x1(N57)|# SZE~a 
+1.b. 2(N01)# 1(N24)# , |U4x1(N01)|# 
+1.c. 4(N14)# 1(N01) 1(N39~a) , |U4x(1(N14).2(N01))|# SZE~a# 
+1.d. [...] 2(N01)#? [...] , SZE~a# TAR~a 1(N30~e) 
+2.a. 1(N41) , |U4x1(N01)| 
+2.b. 2(N04)# 4(N41)# 2(N29~a)# , |U4x(1(N14).2(N01))| 
+2.c. 1(N41) 1(N39~a) 1(N24~b) 1(N29A~b)# 1(N30~a)# [...] , [...] 
+2.a. 6(N01) , PAP~a DUR~b 
+2.b. 2(N01) , 
+161272	3.a1A. 3(N01) , DUR~b 
+3.a1B. 1(N01) , MASZ2 
+3.a2. , NI~a 3(N57) 
+3.b. 6(N01) , GI 
+7.a. 3(N01) , DUR~b UD5~a 
+7.b. 1(N01) , GI 
+8.a. 2(N01)# [...] , X [...] 
+8.b. 5(N01) , GI 
+2.a. 3(N01) , SI TE NIM~b2 
+2.b. 1(N01) , 
+3.a. 3(N01) , ZATU843 
+3.b. 3(N01) , 
+4.a. 2(N01) , NA~a GI KU6~a 
+161286	4.b1. 1(N01) , 
+4.b2. 1(N01) , DUR~b 
+161291	1.a1A1. [...] 5(N01)# , [...] UDU~a#? 
+1.a1A2. [...] 7(N01)# , MASZ2 
+1.a1B. 4(N14) 1(N01) , DUR~b 
+161295	1.a2A. [...] , [...] 
+1.a2B. 2(N14) 3(N01) , UDU~a GI 
+1.b. , |LAL2~axNIM~b2|# [...] 
+3.a'. 1(N01) , NAR# 
+3.b'. 1(N01) , SZA3~a1 URI 
+1.a. 1(N01) , AL 
+1.b. , (MUSZEN TUR BU~a)a 
+2.a. 1(N01) , EN~a TUR 
+2.b. , (BU~a SZA3~a1)a 
+3.a. 2(N01) , |U4x1(N57)| TUR 
+161306	3.b1. , (LUGAL#)a 
+3.b2. , (X MUSZEN 6(N57)? KASZ~c)a 
+4.a. 2(N01) , BULUG3 
+161310	4.b1. , (SZU ZI~a)a 
+4.b2. , (ZI~a SZUBUR PAP~a)a 
+5.a. 1(N01) , U2~b A 
+5.b. , (|GI&GI| PIRIG~b1)a 
+6.a. 1(N01) , SZU 
+6.b. , (DUR2 DUR2)a 
+1.a. 3(N14) 2(N01) , AL 2(N57) MUN~a1 
+161318	1.b01. , (PA~a)a 
+1.b02. , (KASZ~c DA~a)a 
+1.b03. , (SUKUD@g~d NI~a)a 
+1.b04. , (U4 SZU)a 
+1.b05. , (ZATU659)a 
+1.b06. , (BU~a SZE~a SZUBUR)a 
+1.b07. , (EN~a U2~b DU)a 
+1.b08. , (EZINU~a EN~a)a 
+1.b09. , (ZATU659)a 
+1.b10. , (ZATU659)a 
+1.b11. , (SZU SZU)a 
+1.b12. , (BU~a GI)a 
+1.b13. , (SZU2 PAP~a)a 
+1.b14. , (3(N57) SAL)a 
+1.b15. , (3(N57) A)a 
+1.b16. , (BU~a UR~a)a 
+1.b17. , (3(N57))a 
+1.b18. , (DIM~a)a 
+1.b19. , (EN~a |GISZxSZU2~a|)a 
+1.b20. , (SZU SZU)a 
+1.b21. , (EZEN~b EN~a)a 
+1.b22. , (SZU2 SAL)a 
+1.b23. , (EN~a AMAR SZU)a 
+1.b24. , (E2~a BU~a)a 
+1.b25. , (DIM~a)a 
+1.b26. , (PAP~a)a 
+1.b27. , (SZA3~a1 A TAK4~a)a 
+1.b28. , (NAM2)a 
+1.b29. , (BAHAR2~a EN~a)a 
+1.b30. , (EN~a U2~b HI)a 
+1.b31. , (BAHAR2~a 3(N57))a 
+1.b32. , (6(N57) U8#)a 
+2.a. 9(N01) , EN~a TUR 
+161352	2.b1. , (PA~a TUN3~a)a 
+2.b2. , (SAG HI NIN)a 
+2.b3. , (SI BARA3)a 
+2.b4. , (NI~a GIR3~c)a 
+2.b5. , (|BU~a+DU6~a| GUL)a 
+2.b6. , (DIM~a)a 
+2.b7. , (PAP~a SAL DAR~a)a 
+2.b8. , (KID~e NUN~a EN~a)a 
+2.b9. , (|MAH~bxNA~a|)a 
+3.a. 7(N01) , |U4x2(N57)| TUR 
+161363	3.b1. , (SZU2 SAL)a 
+3.b2. , (SZUR2~b)a 
+3.b3. , (TI SU~a EN~a)a 
+3.b4. , (DAR~b E2~a)a 
+3.b5. , (|GISZxSZU2~a| EN~a)a 
+3.b6. , (SI E2~a ME~a)a 
+3.b7. , (3(N57) SAL)a 
+4.a. 2(N01) , |U4x1(N57)| TUR 
+161372	4.b1. , (BU~a GI)a 
+4.b2. , (PAP~a HAL)a 
+5.a. 1(N14) 2(N01) , |U4x3(N57)| TUR 
+161376	5.b01. , (SIG7 MUSZEN)a 
+5.b02. , (EN~a U2~b DU)a 
+5.b03. , (ZATU659)a 
+5.b04. , (GI SZA3~a1)a 
+5.b05. , (|SAGxGESZTU~b| GISZ)a 
+5.b06. , (GU4 SAL EN~a)a 
+5.b07. , (EN~a U2~b AB~a)a 
+5.b08. , (GIR3@g~c EN~a)a 
+5.b09. , (E2~a BU~a)a 
+5.b10. , (3(N57) NUNUZ~c)a 
+5.b11. , (E2~a GIR3~c)a 
+5.b12. , (SI AD~a? AN)a 
+1.a. 1(N14) 1(N01) , AL 
+161390	1.b01. , (SZE~a MUSZEN)a 
+1.b02. , (IN~b EN~a)a 
+1.b03. , (HAL PAP~a)a 
+1.b04. , (TUR3~a 5(N57))a 
+1.b05. , (PAP~a)a 
+1.b06. , (AN TE KI GAL~a)a 
+1.b07. , (ZI~a E2~a)a 
+1.b08. , (ZATU773~a MASZ KUR~a)a 
+1.b09. , (EN~a AN E2~a)a 
+1.b10. , (BU~a SZE~a)a 
+1.b11. , (MUSZ3~a NU11@t)a 
+2.a. 2(N01) , EN~a TUR 
+161403	2.b1. , (BAHAR2~a BU~a)a 
+2.b2. , (BU~a DU)a 
+3.a. 3(N01) , |U4x1(N57)| TUR 
+161407	3.b1. , (GA2~a1 EN~a GU)a 
+3.b2. , (SZU2 BU~a)a 
+3.b3. , (1(N57) A NE~a)a 
+4.a. 3(N01) , |U4x2(N57)| TUR 
+161412	4.b1. , (|GI&GI&GI| EN~a)a 
+4.b2. , (NU |(UDU~axTAR)~a|)a 
+4.b3. , (EN~a SZITA@g~a AB~a)a 
+5.a. 4(N01) , |U4x3(N57)| TUR 
+161417	5.b1. , (3(N57) DUR2 |BU~a+DU6~a|)a 
+5.b2. , (EN~a A)a 
+5.b3. , (GUL SAG)a 
+5.b4. , (ZATU659)a 
+1.a. [...] , [...] 
+1.b. [...] , [...] 
+1.c. [...] , [...] 
+1.d. [...] , [...] 
+2.a. [2(N34)] 2(N14)# , X X 
+2.b. 1(N34) 4(N14) , 1(N57) 
+2.c. 2(N34) 1(N14) , 1(N57)? 
+2.d. 1(N34)# 2(N14)# , 1(N58)# 
+3.a. 2(N34) 1(N14) , AN NU11 
+3.b. 2(N14) , 1(N57) 
+3.c. 2(N34) 1(N14) , 1(N57) 
+3.d. 3(N14) , X 
+4.a. 1(N34) 4(N14) 5(N01) , IR11 
+4.b. 1(N34) , 1(N58) 
+4.c. 1(N34) 1(N14) , 1(N57)# 
+4.d. 1(N34) 2(N14) 5(N01) , 1(N58) 
+5.a. 2(N34)# , ZATU773~a# GIR3~c 
+5.b. 4(N14) , 1(N58) 
+5.c. 3(N14) 4(N01) , 1(N57) 
+5.d. 2(N34)# , 1(N57) X 
+1.a. [...] 2(N01) , BAR X 
+1.b. [...] , [...] 
+6.a. ENDIB 
+6.b. 3(N57) 
+7.a. 3(N57) 
+7.b. GI 
+7.a. 3(N57) 
+7.b. UDU~a X 
+8.a. ZATU718 |3(N57).PIRIG~b1| 
+8.b. SANGA~a 2(N57) 
+1.a. [...] 5(N14)# , GAN2# 
+161453	1.b1. [...] , [...] 
+1.b2. KU6~a KISAL~b1 
+1.b3. NIM~b2 U4 
+2.a. [...] 4(N14) , [...] GAN2 
+161458	2.b.1. AN GUM~b 
+2.b.2. SI ME~a 
+1.a. [...] , [...] 
+1.b. [...] , X 
+2.a. 9(N14) , HI 
+2.b. GISZ3~b 
+3.a. 2(N50) , [...] 
+3.b. 1(N50) , [...] 
+3.c. 1(N50)# , [...] 
+1.a. [...] 2(N15) 6(N02) , LAGAB~b SU~c UDU~a 
+161469	1.b1. 1(N14) 4(N01)# , BA 
+1.b2. 4(N01) , ZATU773~a 
+1.b3. 3(N01) , EN~a ASAR 
+1.b4. 4(N01) , NIN 
+1.b5. 1(N01) , BAHAR2~c 
+1.a. 3(N15) 2(N02) , UDUNITA~a 
+161476	1.b1. 2(N14) 5(N01) , BA 
+1.b2. 3(N01) , BAHAR2~c 
+1.b3. 1(N01) , ZATU773~a 
+1.b4. 1(N01) , EN~a ASAR 
+1.b5. 2(N01) , NIN GURUSZDA 
+1.a. 1(N14) , UD5~a 
+161483	1.b1. 8(N01) , BA 
+1.b2. 1(N01) , NIN 
+1.b.3. 1(N01) , GURUSZDA~a 
+4.a. 7(N02) , MASZ2 
+161488	4.b1. 4(N01) , BA 
+4.b2. 1(N01) , NIN 
+4.b3. 1(N01) , ZATU773~a 
+4.b4. 1(N01) , X 
+4.a. 4(N02)# , GIR3@g~b# 
+161494	4.b1. 3(N01) , BA 
+4.b2. 1(N01) , NIM~b1 HI 
+5.a. 1(N14) 1(N01)# , UDU~a 
+161498	5.b1. 5(N01) , UDU~a 
+5.b2. 6(N01) , UDUNITA~a 
+1.a. [...] , [...] 
+1.b. [...] , [...] X 
+2.b. 2(N14)# 7(N01)# , X X 
+3.a. 3(N14) 2(N01) , [...] 
+3.b. 1(N14)# [...] , [...] 
+4.a. [...] , [...] 
+4.b. 1(N14)# , [...] 
+1.a. 1(N34) 1(N14) 2(N01) , LAGAB~b SZE3 U8 
+161509	1.b1. 5(N14) 7(N01) , U8 DUB~a 
+1.b2. 1(N14) 5(N01)# , |U4x1(N57)| BAR 
+3.a. 4(N01) , UDUNITA~c 
+3.b. 1(N01) , U8 
+2.a. 2(N01) , U8 
+2.b. 2(N01) , X U8 
+3.a. 1(N34) , BAR UDU~a 
+161517	3.b1. 1(N14) [...] 6(N01) , [...] 
+3.b2. [...] , [...] 
+6.a. 2(N01)# , [...] 
+161521	6.b1. [...] , [...] 
+6.b2. [...] , [...] 
+7.a. 2(N01) , X SUG5 
+161525	7.b1. [...] , [...] 
+7.b.2. SUG 
+8.a. 2(N01) , AN [...] 
+161529	8.b1. SAL SUG5 
+8.b2. SAL# X 
+6.a. 8(N01) 
+161533	6.b1. 1(N01) , UTUA~a 
+6.b2. 7(N01)# , UDU~a 
+5.a. UNUG~a 
+5.b. UR2 AN SZA3~a2 
+4.a. |EZEN~axSU~a| 
+161539	4.b1. SZU SAL PAP~a 
+4.b2. UR2 AN SZA3~a2 
+1.a. 2(N14) 1(N01) , [...] SU~a 
+161543	1.b1. 3(N01) , UTUA~a 
+1.b2. 2(N01) , ZATU628~a 
+1.b3. 1(N14) 6(N01) , MASZ 
+1.a. 3(N01) , UDU~a SZE3 
+161548	1.b1. 2(N01) , U8 
+1.b2. 1(N01) , UTUA~a 
+4.a. [...] , [...] 
+161552	4.b1. 1(N14) , ZATU628~a 
+4.b2. 4(N01) , SU~a 
+161555	6.a1. [1(N14) 1(N01)] , |U4x1(N57)|# [BAR] 
+6.a2. 6(N01) , MASZ 
+1.a. [...] , SU~a BA 
+161559	1.b1. 5(N01) , UTUA~a 
+1.b2. 9(N01) , U8 
+1.b3. 1(N14) 2(N01) , ZATU628~a 
+1.b4. 2(N14) , SU~a BA 
+1.b5. 2(N02) , TA~c SU3 
+1.b6. 1(N14) 1(N01) , |U4x1(N57)| BAR 
+2.a. 5(N14)# 8(N01) , E2~a 
+2.b. 2(N14) 5(N01) , BA 
+2.c. 3(N14) 3(N01) , GI 
+161569	1.a1. 7(N01) , U8 
+1.a2. 1(N14) 3(N01) , UD5~a 
+161572	1.b1. 3(N01) , SILA4~c 
+1.b2. 2(N01) , GAL~a MASZ 
+1.b3. 1(N01)# , MASZ2# 
+1.a. 5(N14) 1(N01) , UDU~a EN~a 
+161577	1.b1. 4(N14)# [9(N01)] , EN~a URU~a1 
+1.b2. 1(N01) , EN~a SZU |LAGAB~b.TE| 
+1.b3. 1(N01) , GISZ3~a 
+2.a. [...] 7(N01)# , [...] 
+161582	2.b1. 3(N01) , URU~a1 
+2.b2. 3(N01) , UNUG~a 
+2.b3. 1(N01) , 2(N57) UNUG~a 
+161586	2.c1. 2(N14) 2(N01) , [...] 
+2.c2. 2(N14)# [2(N01)] , [...] 
+1.a. [...] , [...] 
+1.b. 4(N14) 4(N01) , [...] BAR [...] 
+1.a. 4(N39~a) , SUHUR BA 
+161592	1.b1. 2(N39~a) , NE~a 
+1.b2. 2(N39~a) , KU~b1 SUHUR@t 
+2.a. 4(N39~a) , SUHUR 5(N57) 
+161596	2.b1. 2(N39~a) , NE~a 
+2.b2. 2(N39~a) , KU~b1 SUHUR@t 
+1.a. 4(N39~a) , BA SUHUR 
+161600	1.b1. 2(N39~a) , NE~a 
+1.b2. 2(N39~a) , KU~b1 
+2.a. 4(N39~a) , SUHUR 5(N57) 
+161604	2.b1. 2(N39~a) , NE~a 
+2.b2. 2(N39~a) , KU~b1 
+1.a. 1(N01) , BA SUHUR PAP~a SAL 
+1.b. 2(N01) , SUHUR 
+1.c. 2(N01) , GU7 
+3.a. 2(N14) 2(N01) , SIG2~b MASZ BAR 
+161611	3.b1. 1(N14) 3(N01) , SIG2~b 
+3.b2. 9(N01) 
+4.a. 2(N14) 1(N01) , UDU~a MASZ BAR 
+161615	4.b1. 1(N14) 3(N01) , UDU~a 
+4.b2. 8(N01) , MASZ 
+1.a. [...] [...] , GISZ SU~a 
+161619	1.b1. 2(N14)# 2(N01)# , [...] 
+1.b2. 1(N14) X , NI2# 
+1.b3. ... 
+161623	1.c1. [...] , ZATU773~a 
+1.c2. [...] , EN~a# 
+1.c3. [...] 2(N14)# [...] 4(N01) , X 
+1.c4. 9(N01)# , [...] 
+2.a. 3(N34) 8(N01) , ZATU847 UR2 SA~c 
+161629	2.b1. 1(N34) 3(N14) 4(N01) , ZATU847 SA~c SAL 
+2.b2. 1(N34) 3(N14) 4(N01) 
+161633	2.c1a. 1(N14) 8(N01) , A A 
+2.c1b. 6(N01) , NI2 
+161636	2.c2a. 1(N14) 8(N01) , A A 
+2.c2b. 6(N01) , NI2 
+161639	2.d1. 5(N01) , KA~a 
+2.d2. 1(N34) 6(N01) , BA 
+161642	2.e1. 1(N34) , BA 
+1.a. 5(N34) 2(N14) 3(N01) , EN~a 1(N04) 
+161645	1.b1. 1(N34) 5(N14)# [7(N01)] , IB~c 
+1.b2. 3(N34) 2(N14) 6(N01) , BA 
+1.a. 6(N34) 4(N14) 2(N01) , LAGAB~b DARA4~c2 UDU~a 
+161649	1.b1. 5(N14) 6(N01) , UDU~a IB~c 
+1.b2. 5(N34) 4(N14) 6(N01) , BA DARA4~c2 [...] 
+1.a. 1(N14) 3(N01) , SIG BA 
+161653	1.b1. 9(N01) , HAL 
+1.b2. 4(N01) , TAR~a NIMGIR 
+1.a. [3(N01)] , UR5~a# [SZU] 
+1.b. 1(N39~a) 1(N24) , TAR~a 
+2.a. 5(N01) , UR5~a SZU 
+2.b. 2(N39~a) 1(N24)# , TAR~a 
+3.a. [...] 2(N01) , UR5~a [SZU] 
+3.b. [...] , [...] 
+1.a. 2(N01)# , SZE~a# 3(N57) PAP~a 
+1.b. 2(N39~a) , TAR~a 
+2.a. 2(N01)# , U2~a 1(N02) 
+2.b. 2(N39~a) , TAR~a 
+3.a. 2(N01) , BU~a DU 
+3.b. 2(N39~a) , TAR~a 
+4.a. 2(N01) , KU6~a KISAL~b1 
+4.b. 2(N39~a)# , [TAR~a] 
+5.a. 2(N01) , E2~a DAR~b 
+5.b. 2(N39~a)# , TAR~a 
+6.a. 2(N01) , SI ME~a 
+6.b. 2(N39~a) , TAR~a 
+7.a. 2(N01) , BU~a PAP~a NAM2 
+7.b. 2(N39~a)# , TAR~a 
+1.a. 1(N01) , [...] 
+1.b. [1(N24)] , [TAR~a] 
+2.a. 1(N01) , [...] 
+2.b. [1(N24)] , [TAR~a] 
+3.a. 1(N01) , [...] 
+3.b. [1(N24)] , [TAR~a] 
+4.a. [1(N01)] , [...] 
+4.b. [1(N24)] , [TAR~a] 
+5.a. [1(N01)] , [...] 
+5.b. [1(N24)] , [TAR~a] 
+6.a. 1(N01) , NIN DU 
+6.b. [1(N24)] , TAR~a 
+7.a. 1(N01) , KU6~a KIB@g 
+7.b. 1(N24) , TAR~a 
+8.a. 1(N01) , TAK4~a# SAG 
+8.b. 1(N24) , TAR~a 
+9.a. 1(N01)# , [...] A 
+9.b. 1(N24)# , TAR~a 
+10.a. [1(N01)] , [...] 
+10.b. [1(N24) , TAR~a] 
+1.a. [...] , [...] 
+1.b. 1(N24)# , TAR~a 
+3.a. 2(N01)# , NIN 1(N57) 
+3.b. 2(N39~a) , TAR~a 
+1.a. [...] , X 
+1.b. SZE~a 
+1.a. 2(N45) 3(N14) , SZE~a KU6~a KISAL~b1 
+1.b. 1(N46) , [...] 
+2.a. 2(N45) 7(N14)# , SZE~a# SAG 
+2.b. 4(N14)# [...] 2(N01)# , [...] SZE~a 
+3.a. 1(N45) 3(N14) 3(N01)# , SZE~a SI ME~a 
+3.b. 2(N14) , SZE~a 
+4.a. 2(N45) 8(N14) 2(N01) , PA~a SZE~a 
+161709	4.b1. 5(N01) GI6 , |HIx1(N57)| 
+4.b2. 1(N14) , SZE~a 
+5.a. 5(N14) , EN~a PA~a ZATU694~e 
+5.b. 1(N46) , 
+1.a. 1(N14) 2(N01)# , SZE~a# UDU~a 
+1.b. 3(N04)# , 
+2.a. 2(N14)# 1(N01)# , NIN 
+2.b. 1(N19) , 
+3.a. [...] X 
+3.b. 1(N19) , 
+5.a. [...] , HI 
+5.b. 1(N04) , 
+1.a. 1(N45) 3(N14) 3(N01) 3(N39~a) 1(N24) , SZE~a UR5~a 
+1.b. 2(N14) 4(N01) 2(N39~a) 2(N57) , GAR [...] 
+1.c. [...] , [...] 
+1.a. [1(N14)] 7(N01)# , SZE~a 
+161726	1.b1. 1(N14) , SZE~a EN~a 
+1.b2. 7(N01) , SZE~a E2~a BA 
+2.a. 2(N14) , SZE~a BA 
+2.b. 3(N14) , SZE~a GI 
+1.a. [...] , [...] 
+161732	1.b1. 4(N14)# 2(N01) , SZE~a 
+1.b2. 2(N19)# 4(N04) 2(N41) 
+2.a. [...] , SANGA~a SANGA~a GAL~a# E2~a 
+2.b. ZATU659 
+1.a. 2(N14) 5(N01) , [SZE~a?] 
+1.b. 2(N01)# [2(N39~a) 1(N24)] X , TAR~a 
+2.a. [...] 2(N14)# , UR5~a 
+2.b. 1(N14)# , [...] 
+3.a. [...] , HI 
+3.b. [...] , [...] 
+4.a. 3(N14)# , SZE~a 
+4.b. [...] , [...] 
+5.a. 1(N14)# 3(N39~a)# , HI 
+5.b. [...] , [...] 
+7.a. 5(N19)# 2(N04)# 2(N41)# , UR5~a 
+7.b. 3(N04) 1(N41)# [1(N29~b)] , [TAR~a] 
+1.a. [...] , EN~a# [...] 
+1.b. [...] , [...] 
+2.a. [...] , [...] 
+2.b. [...] , [...] 
+3.a. [...] 1(N01)# , [...] 
+3.b. [...] , [...] 
+4.a. 2(N01) , [...] 
+4.b. 2(N01) , [...] 
+5.a. [...] , GAL~a ME~a 
+5.b. 1(N01) , [...] 
+1.a. [...] , [...] 
+1.b. 1(N01) , [...] 
+2'.a. 1(N38) 
+2'.b. [...] , [...] 
+1.a. 1(N14) 2(N04) , SZE~a 
+161764	1.b1. 1(N14) , SZE~a 
+1.b2. 2(N04) 
+3.a. 1(N38) 
+3.b. 2(N39~a) , HI@g~a KISAL~c 
+1.a. 2(N01) , EN~a PA~a 
+161770	1.b1. SZU GI SANGA~e 
+1.b2. EN~a DU U2~b 
+4.a. 4(N14) , U4 APIN~a ARARMA2~a 
+4.b. 6(N19) 3(N04) 
+1.a. 1(N48) 3(N49) 4(N14) 5(N01) , NAGA~a APIN~a EN~a 
+161776	1.b1. 9(N34) 1(N45) 4(N14) , SZE~a 
+1.b2. 3(N49) 1(N46) 2(N19) 3(N04) 
+1.b3. 8(N19) , |LAGAB~b.TE| 
+2.a. 1(N49) 2(N14) 5(N01) , SZE~a UNUG~a TAR~a 
+161781	2.b1. 1(N45) 9(N14) , SZE~a 
+2.b2. 9(N36) 3(N19) 5(N04) , 
+2.b3. 1(N46) , [|LAGAB~b.TE|] 
+1.a. 1(N48) 4(N49) 7(N14) 4(N01) , SZE~a GIBIL U4 NAR NAGA~a 
+161786	1.b1. 1(N48) 3(N14) 2(N01) , SZE~a 
+1.b2. 3(N49) 9(N36) 1(N46) 6(N19) 2(N04) 
+1.b3. 1(N46) 8(N19) , |LAGAB~b.TE| 
+5.a. 6(N14) , KU3~a PA~a 
+5.b. 4(N04) 
+6.a. 2(N14) , DU GI6 
+6.b. 2(N04) 
+1.a. 8(N14)# 4(N01) , SZE~a EN~a |NINDA2xGISZ| TI~a 
+1.b. 1(N14) 2(N01) , 3(N57) E2~a BAR 
+2.a. 5(N14) , SZE~a PAP~a 3(N57) 
+2.b. SZAGAN U4 
+3.a. [...] N , SZE~a SZE3 PAP~a 1(N19) 
+3.b. 3(N19) 
+5.a. 4(N14)# [...] , [...] 
+5.b. 5(N14)# 3(N01) , SZE~a 3(N57)# E2~a# BAR 
+5.c. 3(N19) , DI? GAL~a 
+1.a. 1(N45) 6(N14) 1(N01) , SZE~a 
+161804	1.b1. 3(N57) E2~a 
+1.b2. |SZE~a+NAM2| A 
+1.a. [...] , SANGA~a SAL ZATU751~a 
+1.b. [...] 2(N04) 
+3.a. [...] 1(N14) , X [...] 
+3.b. , X 
+6.a. 2(N14) , [...] 
+6.b. 6(N19) , 
+1.a. 1(N46) 5(N19)# 3(N04)# 1(N41) , UR5~a 
+1.b. 1(N19)# 3(N04)# 1(N41) 1(N24) , TAR~a 
+1.a. [2(N41) 1(N28~b)] , [...] 
+1.b. 1(N24~b)# , [TAR~a] 
+2.a. 4(N41) 1(N24~b) , [...] 
+2.b. 1(N24~b) 2(N29~b) , TAR~a 
+3.a. [1(N41)] , [...] 
+3.b. 1(N29~b) , [TAR~a] 
+2.a. [...] , UNUG~a 
+2.b. 5(N19) 
+4.a. [...] , [...] 
+4.b. 2(N04) 2(N41) 
+4.a. 2(N19) 4(N04) 2(N41) , UR5~a 
+4.b. 2(N04) 2(N41) 
+1.a. [...] 1(N01)# 1(N30~c)# , NAGA~a 
+1.b. 1(N01)# , [...] 
+2.a. [...] , [...] 
+2.b. 1(N01)# [...] , SZE~a# AB~a# 
+3.a. [...] , [...] 
+3.b. [...] , [...] 
+1.a. [1(N19)] 2(N04) , TUR3~a UR5~a SANGA~a GI4~a 
+161834	1.b1. 3(N01) 1(N24)# , HI# 
+1.b2. 3(N39~a) , GUG2 
+3.a. 1(N19) , KASZ~c 
+3.b. , KINGAL 
+3.c. , |DU8~cxAB2| GU7 
+2.a. , |U4x3(N57)| 
+2.b. , NIN 
+2.c. , UNUG~a 
+1.a. [...] 1(N34) , [...] 1(N24)# 
+1.b. [...] , HI@g~a 
+2.a. 2(N51) , DU8@c 1(N16) 
+2.b. 2(N01) 2(N39~a) , HI@g~a 
+1.a. 4(N20) 4(N05) 4(N42~a) 1(N25) , HAL#? DUG~a GAR 
+161848	1.b1. 1(N20) 4(N05) 4(N42~a) 1(N25) , HI@g~a 
+1.b2. 3(N14) , SZE~a 
+2.a. 1(N42~a) , X 
+2.b. NI~a BA 
+161853	4.a1. 1(N42~a) , UD5~a 
+4.a2. 1(N42~a) , U8 
+4.a3. [...] , [...] BU~a 
+4.a4. 1(N25) , 1(N57) NUNUZ~c 
+161858	4.b1. 2(N42~a)# , TE 
+4.b2. [...] , X 
+1.a. 1(N20) , HI@g~a 
+161862	1.b1. 5(N05) 3(N42~a) , BA 
+1.b2. 2(N42~a) , GI 
+1.a. 2(N05) 3(N42~a) , HI@g~a |(U4+1(N14)).3(N08)| 
+161866	1.b1. 1(N05) 2(N42~a) , BA# U4 GAR 
+161868	1.b2a. 2(N42~a) , BA KU~b2 SZIM~a# 
+1.b2b. 4(N42~a)# , |U4x1(N57)| 
+2.a. 4(N05) 2(N42~a) 1(N25) , SZE~a 2(N57) 
+2.b. 1(N05) , BA 
+2.c. 2(N42~a) 1(N28~c) , TAR~a 
+1.a. 4(N01) 2(N39~a) , SZE~a |(U4+1(N14)).1(N08)| 
+1.b. 2(N39~a) 1(N29~a) 
+1.a. 3(N14)# 2(N39~a)# 1(N24)# , SZE~a |U4x1(N01)| 
+1.b. 3(N39~a) , TAR~a 1(N30~c) 
+2.a. 1(N20) 3(N05) , HI@g~a 
+2.b. 1(N42~a) 1(N25) , TAR~a 
+1.a. 3(N05)# 4(N42~a) [...] , [...] 
+1.b. [4(N01)] 3(N39~a) , SZE~a 
+1.a. [...] , [...] 
+1.b. 1(N01) , SZU2 
+2.a. 3(N14) , GAR 
+161885	2.b1. 1(N14) , U4 
+2.b2. 1(N14) , SZE~a 
+2.b3. 1(N14) , TUR# 
+1.a. 2(N51) 1(N34) GAR# 3(N57) , SZU 
+1.b. 2(N05) , HI@g~a 
+2.a. 1(N51) 1(N30~c) , GAR 
+2.b. 2(N05) 2(N42~a) , HI@g~a 
+1.a. 2(N01) , U4 SZEN~c@t 
+161894	1.b1. 1(N05) , HI@g~a 
+1.b2. 1(N18) 
+2.a. 2(N01) , SZE~a DUG~a 
+161898	2.b1. 1(N30~c) , SZE~a 
+2.b2. 1(N18) 1(N03) 1(N40) 
+3.a. [...] , [...] 
+3.b. 2(N05) [...] 
+1.a. [...] , [...] 
+1.b. [...] 1(N42~a) 1(N25) , HI@g~a 
+1.c. 2(N20)# , [...] 
+2.a. 7(N20) 3(N42~a) , HI@g~a SZE~a 
+161907	2.b1. 5(N20) 3(N05) 3(N42~a) 1(N25) , HI@g~a SZE~a 
+2.b2. 1(N20) 3(N05) 4(N42~a) 1(N25) , BA KI SZE~a 
+1.a. 3(N51) , SZE~a GAR 1(N30~b)# 
+1.b. 1(N20) 3(N05) 
+2.a. 2(N51)# [1(N14)] 1(N30~c) , SZE~a GAR 
+2.b. 5(N05) 
+1.a. 4(N14)# , |4(N57).GAR| UB ZI~a URU~a1
+1.b. 1(N05) , SZE~a 
+1.c. 1(N25) , TAR~a 
+3.a. 2(N14) , |3(N57).GAR| MUSZEN GU~a
+3.b. 1(N25) 
+4.a. 1(N14)# , |4(N57).GAR|#? [...]
+4.b. 3(N42~a) 
+1.a. 2(N14) [...] , GAL~a MUSZEN 
+1.b. [...] 2(N39~a) 
+1.a. 2(N14)# 3(N01) 2(N39~a) , HI@g~a SZE~a 
+161924	1.b1. 4(N01)# 4(N39~a)# , HI@g~a 
+1.b2. 1(N14) 4(N01) 3(N39~a) , SZE~a 
+1.a. 2(N20) 1(N05) 1(N42~a) 1(N25) 1(N28~c) 1(N29~c) 1(N30~c) , 
+161928	1.b1. 5(N05) 1(N42~a) 1(N28~c) 1(N29~c) 1(N30~c) , 
+1.b2. 1(N20) 2(N05) 1(N25) , SZE~a 
+1.a. [...] , [...] 
+1.b. [...] , [...] 
+2.a. [...] , [...] 
+2.b. 4(N39~a) , SZE~a 
+3.a. [...] , [...] 
+3.b. 3(N39~a) , HI@g~a 
+4.a. [...] , [...] 
+4.b. 1(N39~a) , SZE~a 
+5.a. [...] , [...] 
+5.b. [...] , [...] 
+5.c. 1(N24) 
+7.a. [...] , [...] 
+7.b. [...] , [...] 
+7.c. 1(N30~a) 
+1.a. [...] , [...] 
+1.b. [...] , [...] 
+2.a. 5(N01) , DU8~c@g 
+2.b. [...] , [...] 
+3.a. 1(N01) , GUG2 SZA@g 
+3.b. 1(N30~c) 
+4.a. 2(N01) , GUG2 SAG 
+4.b. 1(N30~c) 
+5.a. 2(N34) , SZEN~c@t 
+5.b. 1(N14) , HI@g~a 
+5.c. 1(N18) 
+6.a. 2(N34) , DUG~a LAGAB~b SZE~a 
+6.b. 2(N14) , SZE~a 
+7.a. 3(N14) , U4 SZEN~b 
+7.b. 3(N01) , HI@g~a 
+7.c. 3(N03) 
+8.a. 1(N14) 6(N01) , DUG~a 
+8.b. 4(N01) 1(N57) 
+8.c. 1(N03) 1(N40) 1(N24~b) 
+11.a. 2(N39~a) 1(N24) 1(N30~a) 
+161965	11.b1. 1(N39~a) , HI@g~a 
+11.b2. 1(N39~a) 1(N24) 1(N30~a) , SZE~a 
+1.a. [...] 3(N14)# , [...] 
+1.b. [...] , [...] 
+2.a. [...] 4(N14) , AN NAMESZDA 
+2.b. [...] 5(N19) 
+3.a. [...] 1(N14) , EN~a SZE~a NE~a 
+3.b. 2(N19) [...] 
+4.a. [...] , UB# [...] 
+4.b. [...] 2(N19) 
+3.a. 9(N01) , DUG~a HAL NAM2 
+3.b. 1(N01) , KISZ 
+1.a. [1(N01)] 2(N39~a)# 1(N24)# , HI@g~a 
+161979	1.b1. 1(N01) 1(N29~a)# , 
+1.b2. [1(N39~a)] 1(N28) , GUG2 
+1.b3. 1(N39~a) 1(N16) , 
+161983	1.a1. 2(N01) , DU6~b 
+1.a2. 2(N01) , DU8~c 
+1.a3. 2(N01) , ZATU726~d 
+1.a4. 2(N01) , SIG2~a2 
+1.a5. 5(N01) , GUG2 
+1.b. 1(N39~a)# 1(N24)#? 1(N28~a) , HI@g~a 
+2.a. 5(N01) , SUR 
+2.b. 1(N28) , SZE~a# 
+161992	3.a1. 2(N01) , SZA# 
+3.a2. 5(N01) , DU8~c# 
+3.b. 1(N28) , HI@g~a 
+4.a. 1(N51) , |ZATU714xHI@g~a| MU 
+161997	4.b1. 1(N28) , HI@g~a 
+4.b2. 1(N30~a) , X 
+1.a. 1(N30~a) , HI@g~a 
+1.b. [...] , LAM~b GISZ 
+2.a. [...] 1(N01)# , X [...] 
+162003	2.b1. 4(N01) , E2~a 
+2.b2. 4(N01) , 
+3.a. 1(N24) 1(N30~a)# , HI@g~a 
+162007	3.b1. [...] , X 
+3.b2. [...] , [...] 
+3.b3. 1(N30~a)# , [...] 
+5.a. 1(N14) 3(N01) 
+162012	5.b1. |SZU2.E2~b| 
+5.b2. E2~a#? 
+6.a. 1(N24) 1(N29) 
+162016	6.b1. ZATU773~a GIR3@g~b 
+6.b2. BU~a NI~b DU 
+1.a. [...] 1(N01) , ZATU710 
+162020	1.b1. 2(N39~a)# , HI@g~a 
+1.b2. 4(N39~a) , SZE~a 
+1.a. 1(N01) 4(N39~a) 1(N24) 1(N30~a) 
+162024	1.b1. 4(N39~a) 1(N24) 1(N26) , HI@g~a 
+1.b2. 4(N39~a) 1(N24) 1(N28) , SZE~a X 
+1.a. 1(N20) 1(N05) 3(N42~a) , SZE~a 
+162028	1.b1. 2(N05) [...] , BU~a 
+1.b2. 5(N05) 3(N42~a) , |E2~ax1(N57)@t| I UB 
+1.a. 2(N20) , UR5~a 
+162032	1.b1. 1(N14) 5(N01) 4(N39~a) 1(N24) , BA 
+1.b2. 1(N24) , GI 
+2.a. 1(N01)# , SAL X PAP~a 
+2.b. [...] , SAL AD~a 
+2.c. [...] , [...] 
+5.a. 4(N14) 8(N01) , GAR U4 
+5.b. 1(N42~a) 1(N28~c) 1(N30~c) , HI@g~a 
+6.a. [...] , DU8~c 
+6.b. 3(N42~a) 1(N30~a) , HI@g~a 
+1.a. [...] 2(N14) , KASZ~d SAG SUG5 KALAM~b 
+1.b. 3(N05) 
+2.a. 5(N14) , SZE~a# GAR# 
+2.b. 1(N05) 
+4.a. 1(N14) , U2~a GAR 
+4.b. 1(N42~a) 
+6.a. 2(N14) , GAR UB ZI~a# KU3~a AD~a 
+6.b. 2(N42~a) , 
+7.a. 2(N42~a) , 
+7.b. 2(N42~a) , 
+2.a. 2(N20) , GAR DAR~a GU~a 
+2.b. 2(N42~a) 
+1.a. [...] 5(N14)# 6(N01) , GAR 
+162055	1.b1. [...] , X [...] 
+1.b2. 1(N34) 4(N14) 8(N01) , SZE~a GAR 
+162059	1.c1a. [...] 1(N14)# , [...] 
+1.c1b. [...] 1(N34)# [...] 1(N14) , GUG2~a 
+162062	1.c2a. 4(N14) 4(N01) [...] , TUR |U4.2(N08)| 
+162064	1.c2b1. 1(N01) , [...] 
+1.c2b2. 1(N14) 7(N01) , TUR 
+1.c2b3. 2(N14) 6(N01) , SUR 
+3.a. 1(N01) , UDU~a HI 
+3.b. X 
+162070	1.a1. 1(N14) , |SZE~a&SZE~a| DU GI6 IB~a 
+1.a2. 2(N14) , SZU2 PAP~a# SAL APIN~a 
+1.b. KID~c# PAP~a APIN~a 
+1.a. 2(N01) 3(N39~a) , [...] 
+162075	1.b1. 1(N01) , HI GUG2 
+1.b2. 1(N01) , GUG2 BU~a 
+1.b3. [3(N39~a)], [...] 
+1.a. 2(N01) 1(N24) 
+1.b. 1(N42~a) 
+2.a. 2(N01) 1(N30~a) 
+2.b. 1(N27) 
+162083	3.a1. 2(N01) , TUR 
+3.a2. 2(N01) , GUG2 
+3.a3. 2(N01) , ZATU726~d 
+3.b. 1(N25) 
+4.a. 1(N14) , SZA 
+4.b. 1(N25) 
+5.a. 6(N01) , |LAGAB~axSZA| |LAGAB~axSZITA~a1| 
+5.b. 1(N25) 1(N30~c) 
+6.a. 4(N01) , SZA 
+6.b. 1(N30~a) 
+7.a. 2(N01) , GUG2 
+7.b. 1(N28~c) 
+1.a. 6(N01) , |LAGAB~axSZA| |LAGAB~axSZITA~a1| 
+1.b. 1(N25) 1(N30~c) 
+1.a. [...] , [...] 
+162099	1.b1. 2(N01) 1(N30~c) , HI@g~a 
+1.b2. [...] , [...] 
+2.a. 8(N01) , GAR U2~a 
+2.b. 6(N01) , LAGAB~b GAR 
+1.a. 1(N01) 1(N30~a) 1(N24) , SZE~a 
+162105	1.b1. 2(N39~a) , HI@g~a 
+1.b2. 3(N39~a) 1(N24) 1(N30~a) , SZE~a 
+162109	1.c1a. 5(N01) , GAR GAL~a 
+1.c1b. 1(N42~a) , HI@g~a 
+1.c2. 1(N27) , NE~a ZATU714 GUG2~a 
+1.c3. 1(N29~a) , |ZATU714xHI@g~a| MU 
+162114	1.c4a. 2(N01) , U4 GAR 
+1.c4b. 1(N27) 
+162118	1.c5a1. 8(N01) , GAR U2~a 
+1.c5a2. |SZU2.E2~b| 
+162121	1.c6a. 8(N01) , DU8~c 
+1.c6b. 1(N27) 
+162124	1.c7a. 1(N14) 5(N01) , SZE~a GAR 
+1.c7b. 1(N42~a) 1(N25) 
+2.a. 2(N01) , DUG~a 
+2.b. 5(N01) , U4 SZEN~b 
+2.c. 6(N01) , LAGAB~b KASZ~d SZE~a 
+1.a. 4(N20) 1(N42~a) 1(N25) , SZE~a UR5~a 
+2.a. 1(N20) 4(N05) , UR5~a LAM~b 
+2.a. 1(N01) 3(N39~a) 1(N29~a) 1(N16) , |U4x1(N01)| KASZ~b 
+162133	2.b1. 1(N01) 2(N39~a) 1(N24) , UR5~a 
+2.b2. 1(N24) 1(N29~a) 1(N16) , TAR~a 
+1.a. 1(N39~a) , U4 ZATU710 DILMUN 
+1.b. 2(N39~a) , ZATU710 SZE~a |GI&GI| 
+162138	1.c1. 1(N14) , GAR 
+1.c2. 1(N01) , KASZ~d 
+162141	1.d1. 1(N39~a) , HI@g~a 
+1.d2. 3(N39~a) 1(N24) , SZE~a 
+1.d3. 1(N24) , [...] 
+2.a. 1(N01) , KASZ~a PAP~a SZU 
+2.b. 1(N24) , SZE~a 
+2.c. 1(N28) 
+3.a. 1(N24) , [...] 
+3.b. 1(N24) 1(N28) , SZE~a A# MU 
+4.a. [...] , [...] 
+4.b. 2(N39~a) 1(N24) , HI@g~a 
+5.a. [...] , [...] 
+5.b. [...] 1(N39~a) , [...] 
+1.a. 1(N14) , GAR EN~a [...] 
+1.b. [...] , X X 
+1.c. 1(N39~a) , [...] 
+2.a. 1(N14) , GAR TAK4~a DUG~a 
+2.b. 1(N01) , KASZ~d 
+162159	2.c1. [...] , [...] 
+2.c2. 1(N24~b) 
+3.a. 2(N01) , HI@g~a DU A MU KASZ~d 
+3.b. 1(N14) 4(N01) , SZE~a 
+5.a. 5(N01) , KASZ~d 
+162165	5.b1. 1(N14) , [...] 
+5.b2. 1(N39~a) , SZE~a 
+5.c. 1(N24) , [...] 
+6.a. 1(N39~a) , HI@g~a A MU 
+6.b. 1(N26) 
+6.c. [...] , [...] 
+7.a. [...] , [...] 
+7.b. 2(N14) [...] 
+7.c. [...] , [...] 
+1'.a. [...] , [...] 
+1'.b. [...] , [...] 
+1'.c. 2(N39~a)# , [...] 
+2'.a. [...] , [...] 
+2'.b. [...] , [...] 
+2'.c. 2(N39~a)# , [...] 
+1.a. 3(N01) , SZEN~c@t# GISZ KASZ~a 
+162182	1.b1. [...] , [...] 
+1.b2. 1(N03) 2(N40) 
+2.a. 1(N14) , ZATU710 
+162186	2.b1. 2(N39~a) , HI@g~a 
+2.b2. 2(N40) 
+162189	3.a1. 1(N14) , [...] 
+3.a2. 1(N14) , ZATU639 
+3.a3. [...] , X 
+162193	3.b1. 2(N01) , [...] KASZ~a 
+3.b2. 2(N01) , KASZ~a GISZ URU~a1 
+162196	3.c1. 3(N42~a) , HI@g~a 
+3.c2. 4(N39~a) , SZE~a 
+3.c3. 3(N40) 
+162200	4.a1. [...] , GAR 
+4.a2. 2(N14) , GAR 
+4.a3. EN~a BA BAHAR2~b 
+162204	4.b1. 2(N01) , KASZ~a DUG~a 
+4.b2. 2(N01) , DUG~a UKKIN~a 
+162207	4.c1. 2(N42~a) 1(N24) , HI@g~a 
+4.c2. 2(N01) 1(N39~a) 
+4.c3. 3(N40) 
+5.a. 3(N01) , U4 DUG~a |E2~ax1(N57)@t| 
+5.b. 5(N01) , KASZ~a GISZ 
+162213	5.c1. 3(N39~a) 
+5.c2. 2(N42~a) 3(N40) 
+6.a. 2(N01) , DUG~a KASZ~d 
+162217	6.b1. 1(N25) , HI@g~a 
+6.b2. 1(N24) 
+6.c. 1(N40) , BULUG3 
+7.a. 1(N01) , [...] 
+7.b. 1(N24) , [...] 
+7.c. 1(N39~a) , [...] 
+1.a. 5(N14) , KASZ~a GISZ URU~a1# KASZ~a E2~a# AL 
+162225	1.b1. 2(N14) , U4 GAR 
+1.b2. 1(N03) 
+1.b3. 1(N40) , ZATU714 MU 
+162229	1.c1. 1(N39~a) , [...] 
+1.c2. 1(N24) , [...] 
+1.c3. 3(N03) 
+2.a. 2(N01) , KASZ~a GISZ URU~a1 
+2.b. 4(N01) , MU DUG~a 
+162235	2.c1. 1(N39~a) , HI@g~a 
+2.c2. 1(N39~a) 
+2.c3. 1(N40) 
+162239	2.a1. 2(N01) , SZA 
+2.a2. 2(N01) , GUG2 SAG 
+2.b. 1(N24~b) 
+4.a. 2(N01) , SZE~a KASZ~a 
+162244	4.b1. 1(N39~a) , SZE~a 
+4.b2. 1(N25) 
+1.a. 3(N39~a)# 1(N24) 1(N28) 
+162248	1.b1. 1(N39~a) 1(N24) , HI 
+1.b2. 2(N39~a) 1(N28)# , SZE~a 
+1.a. [1(N14)] 3(N01) , U4 KASZ~d SZE~a 
+162252	1.b1. 4(N01) , U4 KASZ~d 
+1.b2. 9(N01) , KASZ~d 
+2.a. 1(N14)# 2(N01) , SZE~a# SZEN~c@t 
+162256	2.b1. 7(N01)# , SZEN~c@t 
+2.b2. 5(N01) , U4 SZEN~c@t 
+1.a. [...] 1(N30~a) 
+1.b. 1(N30~a) 
+162261	2.a1. 2(N01)# , TUR 
+2.a2. 2(N01)# , ZATU726~d 
+2.a3. 2(N01)# , GUG2 
+2.b. [1(N24)] 1(N30~c) , 
+162266	3.a1. 1(N14)# , |LAGAB~axSZA|# |LAGAB~axSZITA~a1| 
+3.a2. 2(N01)# , [...] 
+3.a3. 2(N01)# , DU8~c 
+3.b. 1(N24)# , [...] 
+162271	4.a1. [...] 3(N01)# , [...] 
+4.a2. [...] , [...] 
+1.a. 1(N47) 8(N18) 3(N03) , LAGAB~b 
+162275	1.b1. 1(N45)# 6(N18) 3(N40) , GU7# 1(N30~a)? 
+1.b2. 2(N18) 2(N03) 2(N40) , BA 
+1.a. 1(N14) 2(N01) , |LAGAB~axSZITA~a1| 
+1.b. 1(N42~a) 1(N29~a) , 
+3.a. 3(N01) , |LAGAB~axSZITA~a1| 
+3.b. 1(N30~c) , 
+162282	1.a1. [...] , [...] 
+1.a2. 1(N14) 1(N01) , KASZ~a U4 
+162285	1.b1. [...] , [...] 
+1.b2. 1(N30~c)# , LAGAB~b KASZ~a SZE~a 
+1.a. [...] , [...] 
+1.b. 2(N39~a) , SZIM~a 
+2.a. [...] 1(N01) , X 
+162291	2.b1. 1(N39~a) , |ZATU714xHI@g~a| 
+2.b2. 2(N01) 1(N39~a) , BA 
+3.a. [...] , [...] 
+3.b. 1(N39~a) , AB~a 
+3.c. 1(N39~a) , SZIM~a UNUG~a 
+4.a. [...] , X 
+4.b. [...] , |ZATU714xHI@g~a| 
+5.a. [...] , U4 KU6~a 
+5.b. 2(N01)# 2(N39~a) 1(N28) , BA 
+6.a. [...] 1(N01) , [...] 
+6.b. [...] , [...] 
+6.c. 1(N39~a)# , GU7 
+7.a. [...]
+7.b. [...] , BA 
+1.a. [...] , DUG~a# URU~a1 
+162307	1.b1. 5(N01) , KISIM~b# 
+1.b2. 5(N01) , KISIM~b 
+2.a. 2(N01) , DUG~a ZATU773~a NIM~b1# URU~a1 
+162312	2.b1a. 4(N01) , KISIM~b 
+2.b1b. 1(N02) 
+162315	2.b2a. 5(N01) , [KISIM~b] 
+2.b2b. 1(N02) 
+1.a. 1(N14) , KASZ~d 
+162319	1.b1. 4(N01) , AN AB~a KASZ~d 
+1.b2. 2(N01) , E2~a 
+1.b3. 2(N01) , BU~a 
+1.a. LAGAB~b# KASZ~d 
+162324	1.b1. 1(N14) 1(N01) , GU7 
+1.b2. 9(N01) , BA 
+1.a. 1(N57) , 5(N34) 2(N14) , GAN2# NUN~a? MUSZ3~a 
+1.b. 4(N34) 4(N14) , 1(N58) A 
+2.a. 4(N34) 7(N08)# , 1(N57)# EN~a 
+2.b. 4(N34) , 1(N58) KI URU~a1 
+162331	3.a1. 4(N01) , [...] 
+3.a2. 4(N01) , SIG2~a2 
+3.b. [...] 1(N24) 
+4.a. 1(N51) 1(N14) 8(N01) , |5(N57).GAR| 
+4.b. 4(N01) 2(N39~a) 1(N24) 
+5.a. [4(N01) , SIG2~a2] 
+5.b. 1(N08) 
+6.a. 1(N14) , SZA SIG2~a2 
+6.b. 1(N24) 
+7.a. 4(N14) , TUG2~b E2~a DUB~a 
+7.b. 2(N01) 
+1.a. [2(N14) , DUG~a KASZ~a] 
+1.b. [...] , [...] 
+2.a. 2(N14)# , [DUG~a] KASZ~a DUB~a E2~a 
+2.b. 3(N39~a)# 1(N24) , 
+1.a. [...] 3(N14)# [...] , X GISZ@t# E2~a 
+162348	1.b1. [...] , GISZ@t# E2~a# 1(N01) 
+1.b2. 2(N14) 3(N01) , UNUG~a 
+1.c. [...] 1(N14)# [...] 4(N01)# , BU~a GI# BU~a 
+1.a. 1(N45)# [...] 1(N24) 
+1.b. [...] 1(N39~a)# , SZE~a# [...] 
+1.c. [...] , [...] 
+2.a. 6(N14)# 3(N01)# , SZE~a# AN# GUM~b 
+162356	2.b1. [...] 1(N24)# 1(N29~a) 
+2.b2. 7(N14)# , SZE~a 
+2.c. 5(N19)# 
+3.a. 2(N14)# 3(N01)# , EN~a X 
+3.b. 4(N14)# , SZE~a 
+4.a. 1(N34)# 1(N14)# 3(N01) 
+4.b. 7(N19)# 
+5.a. [...] , [...] 
+5.b. [...] X 
+1.a. [...] , A PA~a 
+1.b. 1(N14) , DUG~b 
+2.a. 2(N14)# , [...] 
+162369	2.b1. 1(N14) , SZU2 DUG~b 
+2.b2. 1(N14)# , DUG~b 
+1.a. [...] , GA2~a1 3(N57) NE~a BA 
+1.b. [...] 3(N01) , [...] 
+3.a. 1(N08) , HI@g~a 
+3.b. 1(N08) , SZE~a 
+1'.a. [...] , X X 
+1'.b. [...] , [...] 
+2'.a. 1(N14) , LAGAB~b ZATU711 
+2'.b. [...] , [...] 
+1.a. 1(N05) , TI~a 
+1.b. SANGA~a X MAR~a 
+5.a. 1(N05) , |U4x1(N57)|# GISZ@t DU# EN2 3(N57) 
+5.b. LAL2~a 
+6.a. 1(N05) , BA# 
+6.b. LU2 
+1.a. [...] , SZE~a AN NUNUZ~a1 ZATU788 
+1.b. [...] 1(N01) , X 
+2.a. 1(N01)# , |U4x1(N01)| 
+2.b. 2(N39~a) 1(N24)# , [...] 
+1.a. 1(N14) , AB~a 1(N57) 
+1.b. 1(N39~a) , GUG2 
+1.a. 1(N01) , SAR~a A AL 
+1.b. 3(N01) , GAN2 
+3.a. [...] 1(N14) 
+3.b. 1(N14) 2(N01) 
+1.a. 1(N01) , GAN2 APIN~a [...] 
+162397	1.b1. SAL# SAL 
+1.b2. SZU2# NA~a# NUNUZ~a1 
+1.b3. EN~a DU# PAP~a 
+1.b4. AL 
+1.a. [...] , EN~a DU 
+1.b. 5(N34)# , X 
+1'.a. [...] , X APIN~a 
+1'.b. [...] , UNUG~a SANGA~a SANGA~a 
+1'.c. [...] 1(N28) , [...] SZE~a 
+1.a. [...] , [...] 
+1.b. 4(N01) 
+3.a. 2(N14)# , UDU~a URI3~a# [...] 
+3.b. 3(N01) 
+1.a. [...] 2(N14)# A# NUNUZ~a0 ISZ~b 
+1.b. [...] 2(N01)# 
+2.a. 1(N22) 3(N01) KU6~a LU2
+2.b. 1(N01) 
+3.a. 6(N14)# [...] 
+3.b. 2(N14)# 
+1.a. 3(N14)# [...] , |SZU2.E2~a| 
+1.b. 9(N01)# 
+2.a. 2(N22)# , X 
+2.b. 2(N01) 
+3.a. 1(N14) , GISZ3~b NI~a 
+3.b. 3(N01)# 
+4.a. 2(N22) , LAGAB~b# KU~a# SZU 
+4.b. 2(N01)# 
+5.a. [...] 1(N14)# , [...] 
+5.b. 4(N01) , [...] 
+2.a. 2(N14) , SI# NA~a# URI3~a# 
+2.b. 5(N01)# , 
+3.a. 4(N14)# , UDU~a# X 
+3.b. 1(N14) 2(N01) , [...] 
+4.a. 2(N14) , KU~a A URI3~a PAP~a BU~a NAM2# 
+4.b. 6(N01) 
+162433	2.a1. 1(N45) 
+2.a2. 1(N14) 1(N22) , ERIM~a 
+2.b. 3(N34) [4(N01)] , UDU~a 
+1.a. 4(N34) 3(N14) 9(N01) , AN# ZATU773~a 
+1.b. 1(N01) , E2~b |SAL.KUR~a| 
+1.a. 4(N34) 3(N14) 5(N01) , 
+1.b. 3(N34)# 2(N14) 6(N01) , 
+1.c. 6(N34) , 
+1.d. 2(N34) 4(N14) , 
+2.a. 5(N34) 2(N14) 4(N01)# , 
+2.b. 5(N34) 3(N14) , 
+2.c. 6(N34)# , 
+2.d. 2(N34) 3(N14) 4(N01)# , 
+3.a. 1(N34) 2(N14) , 
+3.b. 1(N34) , 
+3.c. 1(N34) 2(N14) , 
+3.d. 5(N14)# 4(N01)# , 
+4.a. 4(N14) , 
+4.b. 3(N14) , 
+4.c. 5(N14) , 
+4.d. 3(N14) , 
+5.a. 8(N34) , 
+5.b. 5(N34) , 
+5.c. 8(N34) , 
+5.d. 3(N34) 3(N14) , 
+1.a. 5(N34) 5(N01) , 
+1.b. 3(N34) 3(N01) , 
+1.c. 3(N50) 1(N14) [...] GAN2 
+2.a. 5(N34)# 4(N14)# 2(N01)# 2(N08) , 
+2.b. 4(N34)# 2(N01) , 
+2.c. 4(N50) 3(N14)# [GAN2] 
+3.a. 1(N34) 2(N14) , 
+3.b. 5(N14)# 7(N01) , 
+3.c. 2(N14) 1(N22) 3(N01) 6(N08) , GAN2 
+4.a. 4(N14)# 5(N01) , 
+4.b. 3(N14) , 
+4.c. 2(N22) 1(N01) 5(N08) , 
+4.d. 2(N45) 2(N50) 9(N14) 1(N22) 4(N01)# 3(N08)# , 
+5.a. 8(N34) , 
+5.b. 4(N34) 1(N14)# 5(N01) , 
+5.c. 1(N45) 8(N14)# , GAN2# 
+1.a. [...] , [...] 
+1.b. [...] 3(N14)# 3(N01) , 
+1.c. 1(N34) 5(N14) 8(N01) , 
+1.d. 1(N34) 3(N14) , 1(N58) 
+2.a. 2(N01)# , SZU 
+2.b. , SAG PAP~a 
+2.c. , KASZ~b GAL~b 
+1.a. [...] 1(N14) 6(N01) , LAL2~a BULUG3 
+1.b. 5(N14) 2(N01) , X ZI~a# 
+2.a. 2(N01) , LAL2~a APIN~a# GI 
+2.b. 4(N14) , KI 6(N57) BULUG3 
+1.a. 1(N14)# 7(N01)# , GAN2# [...] 
+1.b. 1(N34) 2(N14)# 3(N01)# , [...] 
+1.a. [...] GISZ3~a# 
+1.b. 2(N14)# , |SZE~a.NAM2| 
+2.a. 1(N50) , AN SZA3~a1 UR2 
+2.b. 2(N14)# , |SZE~a.NAM2| 
+3.a. 6(N14) , KU6~a# KISAL~b1# 
+3.b. 1(N14)# , |SZE~a.NAM2| 
+4.a. [...] SZU ZI~a 
+4.b. 1(N14)# , |SZE~a.NAM2| 
+1.a. 3(N50) 9(N01) , GAN2 EN~a 
+162497	1.b1. 3(N50) , EN~a [...] 
+1.b2. 9(N01) , GI 
+2.a. [N] 3(N50) [N] 5(N14) [...] 
+162501	2.b1. 2(N50)# [...] 
+2.b2. 1(N50) [...] 
+1.a. [...] 
+162505	1.b1. [...] , [MUSZEN] NA~a GI 
+1.b2. 3(N14) 3(N57) , SZU 
+2.a. [...] 3(N01) , GAR# [...] 
+162509	2.b1. 2(N14) , MUSZEN NA~a GI 
+2.b2. 3(N14) 1(N22) 3(N01) 3(N57) , SZU 
+3.a. [...] 
+162513	3.b1. [...] MUSZEN [NA~a] GI 
+3.b2. 2(N14) 3(N57) , SZU 
+1.a. [...] 1(N50) [...] 1(N14) , UB ZI~a 
+162517	1.b1. [...] 2(N14) , |SZE~a+SAR| 
+1.b2. 3(N14) , UB E2~a GAL~a 
+1.a. 5(N01) |NINDA2xMAR~a| ZATU773~a 
+162521	1.b1. 1(N01) , U8 U4 
+1.b2. 1(N01) , UD5~a GI6 
+1.b3. 3(N01) 1(N57) 
+1.a. 2(N01) 1(N57) , NIN 
+1.b. 1(N39~a) TAR~a 
+2.a. 4(N01) , ZATU694 KU6~a KISAL~b1 
+2.b. 2(N39~a) TAR~a 
+1.a. 3(N01) , 3(N57) [...] 
+1.b. 2(N39~a) 1(N24) , [TAR~a] 
+3.a. 1(N19) 1(N04) , AN NUNUZ~a1# ZATU788 X 
+3.b. 3(N41) 1(N24'')# , [TAR~a] 
+1.a. 1(N45) 5(N14) , SZE~a KU6~a KISAL~b1 
+162534	1.b1. 9(N19) 
+1.b2. 7(N19) , |LAGAB~b.TE| 
+1.a. [...] 1(N36)# 2(N34) [...] , SZE~a GIBIL U4 |LAGAB~b.TE|# 
+162538	1.b1. [...] 
+1.b2. 1(N46) [...] 
+1.a. [...] 1(N14) , KASZ~a KALAM~b [...] SUG5 
+162542	1.b1. [...] 
+1.b2. 1(N03) 4(N40) 
+2.a. 1(N01) , GAR |ZATU714xHI@g| AN AB~a 
+2.b. 2(N42~a) |ZATU714xHI@g| MU 
+3.a. 1(N14) , U2~a GAR 
+3.b. 1(N42~a) 
+4.a. 5(N14) , SI GAR NAGA~a 
+4.b. 1(N42~a) 
+5.a. 5(N01) , DUG~a NAGA~a SAG SUG5 
+162552	5.b1. 1(N05) 2(N42~a) 
+5.b2. 1(N03) 
+6.a. 2(N01) , KASZ~a 
+6.b. 2(N05) 
+6.c. 1(N03) 1(N40) 
+7.a. [...] |ZATU714xHI@g| [...] 
+162559	7.b1. 2(N05) |ZATU714xHI@g| 
+7.b2. [...] 
+1.a. [...] 
+1.b. [...] 
+2.a. 3(N14) , NAGA~a SI GAR 
+2.b. 2(N42~a) , 
+3.a. 2(N05) , UKKIN~a AN |SZU2xEN~a| 
+3.b. 3(N40) , 
+4.a. 1(N05) 1(N42~a) 1(N25) , ZATU710 GAN2 ISZ~b 
+4.b. 4(N40) , 
+6.a. 1(N51) , GAR NA2~b1 [...] GAL~b |LAL2~axNAGA~a| 
+162571	6.b1. 5(N05) , 
+6.b2. 2(N05) , ZATU710 
+6.b3. 1(N03) 1(N40) , 
+7.a. 1(N01) , ZATU710 AB~a UB ZI~a 
+7.b. [...] 
+1.a. [3(N39~a)?] ZATU710# SI TUN3~a 
+1.b. [1(N40)?] 1(N24') , 
+2.a. 3(N39~a) ZATU710 AD~a UR~a UB ZI~a 
+2.b. 1(N40) 1(N24') , 
+3.a. 3(N39~a) ZATU710# |AB~axASZ2| 
+3.b. 1(N40) 1(N24')# , 
+4.a. 3(N39~a) ZATU710 AB~a 
+4.b. [1(N40) 1(N24')] , 
+1.a. [...] 
+1.b. [...] 1(N42~a) , 
+2.a. 2(N14) , SZAGAN 
+2.b. 2(N42~a) , 
+4.a. 4(N14) , GAR IM~a 
+4.b. 1(N05) , 
+6.a. [...] DAR~a GU~a 
+6.b. 2(N42~a) , 
+1.a. [...] 3(N14) , GAR TUR3~a ME~a 
+1.b. 1(N05)# , 
+2.a. 2(N14) , DUG~a 
+162596	2.b1. 2(N05) , [...] 
+2.b2. 1(N03) 1(N40) , 
+1.a. 5(N14)# 5(N01) 3(N39~a) 1(N24) , 
+162600	1.b1. 5(N20)# 2(N05) 2(N42~a) 1(N25) , 
+1.b2. 3(N01) 1(N39~a) 1(N24) , TAR~a SZE~a 
+2.a. 1(N14) 4(N39~a) 1(N24) , SZE~a TE# [LAGAB~b?] 
+2.b. 1(N18) 4(N03) 4(N40) 
+1.a. 2(N01) , ZATU859 SZE~a SAL A 
+1.b. |NINDA2xZATU710| 
+2.a. 3(N04) , 
+2.b. , U4 GAR 
+1.a. 1(N34) , SI GAR 
+1.b. 1(N05) 1(N42~a) 
+2.a. 3(N14) , UB ZI~a URU~a1 
+2.b. 3(N42~a) 
+3.a. 1(N01) , ZATU710 KUR~a 
+3.b. 4(N41) 
+4.a. 2(N39~a) 1(N24) , BU~a MUD UNUG~a 
+4.b. 2(N41) 
+5.a. 1(N01) |NINDA2xZATU710| A# AL 
+5.b. 4(N41) 
+6.a. 2(N14) [...] U4 GAR X 
+6.b. 3(N41) 
+1.a. 2(N14) 
+1.b. 1(N01) 1(N39~a) , TAR~a 
+1.a. 1(N14)# [2(N01)] , UR5~a SAL SZU 
+1.b. 2(N39~a) , TAR~a 
+2.a. 3(N14) 3(N01) 3(N39~a) 1(N26)# , SZU UR5~a SZE~a 
+2.b. 4(N01) 1(N39~a) 1(N24) 1(N30~a) , TAR~a# 
+1.a. [...] 2(N19) 2(N04) 4(N41) , SZU# 
+1.b. [...] 
+1.a. 1(N20)# 3(N05)# , HI~a@g# SZE~a IDIGNA KALAM~g EN~a AMA~a 
+1.b. 5(N01)# , HI~a@g 
+162631	1.c1. 4(N01) , HI~a@g 
+1.c2. 1(N01) , SZE~a 
+2.a. , IDIGNA AMA~a# 
+2.b. 1(N01) , HI~a@g 
+2.c. 2(N01) , SZE~a 
+2.a. , AB~a 
+2.b. 2(N39~a) , SZE~a 
+1.a'. [N] 1(N05)# , 
+1.b'. [N] 3(N40)# , 
+3.a'. [...] X 
+3.b'. 1(N05) 1(N25) 
+3.a. 2(N19) , 
+3.b. 1(N14) , [...] X 
+4.a. 1(N19) , 
+4.b. 1(N14) , [...] 
+1.a. [...] 1(N24)# , |U4.1(N08)|#? 
+1.b. [...] 
+2.a. [N] 3(N01)# , GUG2 URU~a1 
+2.b. 1(N05)#, [...] 
+3.a. 6(N01) , GUG2 URU~a1 
+4.a. [...] 1(N01) , GUG2 URU~a1 
+4.b. 1(N05)# , [...] 
+1.a. 1(N14) 2(N01) , SZE~a UDU~a 
+1.b. 4(N04) 
+1.a. 5(N01) , SUM~a GA2~a1 PAP~a E2~b EN~a ISZ~a 
+162657	1.b1. 3(N01) , GA2~a1 GAL~a 
+162660	1b2a1. 1(N01) , GAL~a 
+1b2a2. 1(N01) , GA2~a1 TUR 
+162663	1b2b1. 1(N01) , |U4x3(N57)| 
+1b2b2. 1(N01) , X 
+1.c. , PIRIG~b1 ISZ~a 
+2.a. 1(N01) , SUM~a ISZ~a KISAL~b1 
+2.b. 2(N39~a) GUM~b SUM~a 
+2.c. 3(N39~a) SI SUM~a 
+3.a. 1(N01) 1(N39~a) SUM~a PIRIG~b1 ZATU693? 
+3.b. 1(N39~a)# SUM~a GUM~b 
+3.c. 1(N01) , SI SUM~a KAK~a 
+4.a. 1(N14) , X URUDU~a 
+4.b. , MUN~a1# [...] 
+1.a. 2(N01) , UDU~a HI 
+162676	1.b1. 1(N08) , ZATU714 
+1.b2. 1(N08) , MAH~a#? 
+1.b3. 1(N01) |MAH~axMASZ|# 
+1.a. 2(N01) , |E2~bx1(N57)@t| 
+162681	1.b1. , BULUG3 
+1.b2. , DILMUN 
+1.a. 2(N01) , |E2~ax1(N57)@t| 
+162685	1.b1. , |BU~a+KI| 
+1.b2. , KISZIK 
+1.a. 2(N01) , |E2~ax1(N57)@t| 
+162689	1.b1. , MASZ 
+1.b2. , BA PIRIG~b1 
+1.a. 5(N34) 2(N14) , X 1(N57)# 
+1.b. 5(N34) 5(N01) , 1(N58)# 
+1.c. 5(N50) 4(N14)# 4(N01)# , [...] 
+2.a. 4(N34)# [...] , [...] 
+2.b. 1(N34) 2(N14) 2(N01)# , [...] 
+2.c. [...] , [...] 
+1.a. 4(N34) 2(N01) , 1(N57) 
+1.b. 2(N34) 6(N01) , 1(N58) 
+1.c. 3(N34) 5(N14) 4(N01)# , 1(N57) 
+1.d. 2(N34) 4(N01)# , 1(N58) 
+2.a. 3(N34) 5(N14) 8(N01)# , 1(N57) 
+2.b. 2(N34)# 5(N01)# , [1(N58)] 
+2.c. 1(N50)# 6(N14)# [1(N22) 3(N01) 5(N08)] , [GAN2] 
+3.a. [...] 1(N14)# [...] 
+1.a. 1(N14) 5(N01)# , PAP~a |1(N57).MUSZEN|#? EN~a# IB~a# 
+162707	1.b1. 1(N01) , AL# 
+1.b2. 4(N01) , TUR 
+1.b3. 1(N14) , SAL 
+2.a. [...] , [...] X 
+2.b. [...] PAP~a 3(N57) , AMAR 
+162713	2.c1. 1(N01) , [|U4x1(N57)|] TUR# 
+2.c2. , E2~a E2~a BU~a 
+162716	2.d1. [1(N01)] SAL# 
+2.d2. , AN ZI~a 
+3.a. 2(N01)# , X X 
+3.b. , SZEG9 ZATU773~a 
+162721	3.c1. 1(N01) , |U4x1(N57)| TUR 
+3.c2. , X NA2~b1 
+162724	3.d1. 1(N01) , SAL 
+3.d2. , NU SIG2~b 
+4.a. 2(N01)# , UMUN2 X 1(N57) MUSZEN 
+4.b. , NIM~b1 X 
+162729	4.c1. 1(N01) , |U4x1(N57)| TUR 
+4.c2. 3(N57) , NUNUZ~a1 
+162732	4.d1. 1(N01) , SAL 
+4.d2. , DIM~a 
+5.a. [...] , [...] 
+162736	5.b1. , URU~a1#? URU~a1#? 
+5.b2. [...] X KI#? 
+5.c. 1(N01) , |U4x1(N57)| TUR 
+5.d. , EN~a# X BU~a# 
+1.a. , HI AD~a 
+1.b. , SAL BAR 
+2.a. , TI~a BU3~a 
+2.b. , GADA~a 
+3.a. , ZATU686~c PAP~a 
+3.b. , TUG2~a BUR2 
+4.a. , UZ~a ZATU694~c 
+4.b. , TUG2~a BUR2 
+5.a. , EN~a U4 TI~a 
+5.b. , GISZIMMAR~b1? 
+1.a. , SAL APIN~a 
+1.b. , GADA~a 
+2.a. , AN U2~b 
+2.b. , TUN3~a 
+1.a. 1(N01) , KISAL~b1 
+1.b. , DU GA2~a1 EN~a 
+2.a. 1(N01) , ZAG~a E2~a 
+2.b. , AK~a PAP~a 
+3.a. 1(N01) , |MAH~axTUN3~c|? 
+3.b. , ISZ~b ZI~a 
+4.a. 1(N01) , |SIxSAL| PA~a 
+4.b. , EN~a SUM~b DU 
+5.a. 1(N01) , DI 
+5.b. , NIM~b1 
+6.a. , UKKIN~a DA~a 
+6.b. , BU~b GI6 
+1.a. 1(N14) , EN~a TE E~a KISAL~b1 
+1.b. 
+1.a. 1(N01) , UKKIN~a SZU 
+1.b. , GI6 BU~b 
+3.a. 1(N01) , |SIxEN~a| 
+3.b. , GA2~a2 BU~a 
+4.a. 1(N01) , |SIxTUN3~a| 
+4.b. , EN~a NANSZE~b 
+1.a. 7(N01) , IN~b EN~a IN~b EN~a TE 
+1.b. , SZAB~b E~a 
+5.a. 1(N01) 2(N57) , |GISZxSZU2~b| 
+162778	5.b1. , NIM~b1 
+5.b2. 3(N57) , SU~a PAP~a 
+1.a. 3(N14) 7(N01) , UR5~a SAL 
+162783	1.b1.a. 2(N14) , GI6 AMA~a 
+162785	1.b1.b01. , NIN NAB DI 
+1.b1.b02. , SAL 1(N02) , PAP~a 
+1.b1.b03. , BU~a U4 SI4~a 
+1.b1.b04. , EN~a U4 
+1.b1.b05. [...] X 
+1.b1.b06. , NAR 
+1.b1.b07. , EN~a U4 
+1.b1.b08. , ZATU628~a KI 
+1.b1.b09. [...] 
+1.b1.b10. [...] 
+1.b1.b11. , SAL# SAL 
+1.b1.b12. , SZEG9 
+1.b1.b13. [...] 
+1.b1.b14. [...] 
+1.b1.b15. [...] 
+1.b1.b16. , X GI4~a 
+1.b1.b17. [...] 
+1.b1.b18. [...] 
+1.b1.b19. [...] 
+1.b1.b20. [...] 
+162806	1.b2.a. 1(N14) 7(N01) , X 
+162808	1.b2.b01. [...] 
+1.b2.b02. , EN~a# [...] 
+1.b2.b03. [...] 
+1.b2.b04. [...] 
+1.b2.b05. , NAGA~a 
+1.b2.b06. [...] ZATU694~c# 
+1.b2.b07. [...] 
+1.b2.b08. , AN NIN DUB~a 
+1.b2.b09. , NAGA~a HI 
+1.b2.b10. [...] 
+1.b2.b11. [...] 
+1.b2.b12. , X NUN~a# [...] 
+1.b2.b13. , HI@g~a [...] 
+1.b2.b14. [...] 
+1.b2.b15. [...] 
+1.b2.b16. [...] 
+1.b2.b17. [...] 
+2.a. 3(N01) , SAL TUR 
+162828	2.b1.a. 2(N01)# [...] 
+162830	2.b1.b1. , AMA~a GI6 
+2.b1.b2. , X [...] 
+162833	2.b2.a. 1(N01) , X 
+162835	2.b2.b1. , MA AN AMA~a 
+3.a. 2(N01) , SAL SZA3~a1 
+162838	3.b1. , SAL SAL 
+3.b2. , TUR3~a BALA~b 
+4.a. 3(N01) , KUR~a TUR 
+162842	4.b1. , EN~a GAL~a AK~a 
+4.b2. , U4 NIM~a 
+4.b3. , SZU TUR 
+5.a. 3(N01) , KUR~a SZA3~a1 
+162847	5.b1. , ZATU773~a NI~a 
+5.b2. , SZU TUR 
+5.b3. , SZU NI~a U4# 
+1.a. 4(N14)# 2(N01)# [SAL] 
+1.b. 5(N01)# [TUR?] 
+1.a. 1(N01) , ERIN X 
+1.b. , DAR~b# PAP~a 
+2.a. 1(N01) , SAGSZU NUN~a 
+2.b. , EN~a X TI~a 
+3.a. 1(N01) , SUR APIN~a 
+3.b. , E~b# SZAB~a# 
+4.a. 1(N01) , X 
+4.b. [...] X 
+5.a. , X GIBIL#? 
+5.b. [...] X 
+1.a. 1(N34) 3(N14) 1(N01) , AN PIRIG~b1 
+1.b. 1(N14) 2(N01) 
+1.c. 1(N22) 4(N01) 9(N08) , GAN2 
+2.a. 1(N34) 3(N14) , MUD PAP~a NUN~a 
+2.b. 1(N14) 6(N01) 
+2.c. 2(N22) 2(N01) 4(N08) , GAN2 
+3.a. 1(N34) 4(N14) 3(N01) , PAP~a#? LUM#? 
+3.b. 1(N14) 1(N01) 
+3.c. 1(N22) 5(N01) 3(N08) , GAN2 
+4.a. 1(N34) 1(N14) 6(N01) , PAP~a DAR~b 
+4.b. 2(N14) 8(N01) 
+4.c. 1(N14) 3(N01) 3(N08) , GAN2 
+5.a. 4(N14) 2(N01) , PAP~a AZ 
+5.b. 3(N14) 3(N01) 
+5.c. 2(N22) 1(N01) 9(N08) , GAN2 
+6.a. 3(N14)# 8(N01)# , PAP~a DU KI 
+6.b. 3(N14) 3(N01) 
+6.c. 2(N22) 6(N08) , GAN2 
+7.a. 1(N34) 2(N14) 2(N01) , BU~a PAP~a#? AD~a#? 
+7.b. 2(N14) 4(N01) 
+7.c. 1(N22) 1(N01) 6(N08) , GAN2 
+1.a. 3(N14) 8(N01) , PAP~a SAL# 
+1.b. 2(N14) 5(N01) 
+1.c. [1(N22)] 3(N01)# [5(N08)] GAN2 
+2.a. 1(N34) 4(N14) [...] 
+2.b. 2(N14) 8(N01) 
+2.c. 1(N14)# 1(N22)# 4(N01)# , GAN2 
+3.a. 1(N34) 4(N01) , SZAB~a 
+3.b. 2(N14) 6(N01) 
+3.c. 2(N22)# [4(N01) 6(N08)] GAN2 
+4.a. 3(N14)# 2(N01)# , PAP~a# [...] 
+4.b. 2(N14)# 5(N01) 
+4.c. 1(N22)# [2(N01)] GAN2 
+5.a. 3(N14) 2(N01)# , PAP~a# [...] 
+5.b. 2(N14) 5(N01)# 
+5.c. 1(N22)# 2(N01)# , GAN2 
+6.a. 
+6.b. 
+1.a. 4(N14) , 1(N58) 
+1.b. 4(N34) , 1(N57) 
+2.a. 5(N14)# 1(N22) , GAN2 
+162904	2.b1. 2(N22)# , X 
+2.b2. 2(N22)# , X 
+2.b3. 3(N14) 2(N22) , EN~a 
+2.b4. 1(N22) , SAL E2~b 
+3.a. 5(N14) 2(N22) 8(N08) , GAN2 
+162910	3.b1. 1(N01) 8(N08) , BAR 
+3.b2. 1(N22) 3(N01) , |SZE~a.NAM2| 
+3.b3. 5(N14)# 2(N01) , |NUN~a+NAM2|# 
+1.a. 5(N14) 4(N01)# , 1(N58) 
+1.b. 3(N34) 1(N57) , SI ME~a 
+2.a. 3(N14) 8(N01)# 1(N58) , |NUN~a+NAM2|#? KI 
+2.b. 3(N34) 1(N57) , SZIDIM 
+3.a. 4(N14) 6(N01) , 1(N58) 
+3.b. 3(N34) , 1(N57) 
+3.c. 4(N14)# 1(N22) 4(N01)# 8(N08) , A? GAN2 
+4.a. 2(N14)# 2(N01)# , 1(N58)# 
+4.b. 1(N34) 4(N14) , 1(N57)# 
+4.c. 1(N14) 4(N01)# , X GAN2 
+1.a. [...] 2(N34)# [...] 1(N57)# 
+1.b. 3(N34)# 1(N58) 
+1.c. 3(N34)# 3(N14)# [...] 1(N57) 
+1.d. 1(N34)# [...] 4(N14)# [... 1(N58)] 
+2.a. [... 1(N57)] 
+2.b. 2(N34)# 6(N01)# 1(N58) 
+2.c. 3(N34)# [...] 6(N01)# 1(N57) 
+2.d. 2(N34)# 3(N14)# 8(N01) 1(N58) 
+3.a. [...] X [1(N57)] 
+3.b. 3(N14) 1(N58)# 
+3.c. [...] 5(N14) 1(N57) 
+3.d. 1(N14) 5(N01) 1(N58) 
+5.a'. [...] 
+5.b'. 1(N14) 5(N01) 1(N58) 
+5.c'. 1(N14) 3(N01) , GAN2# 
+6.a'. [...] , [...] 
+6.b'. 6(N14) 3(N01)# [...] 
+1.a. 2(N14) 3(N01) , GAN2 GI6 A GISZ DU7 
+1.b. , DA~a#? AB~a APIN~a NUN~a 
+2.a. , ZATU659? ISZ~b SAL UNUG~a LAGAR~a 
+2.b. , EN~a PAP~a DU KISAL~b1 AN# E~a GAL~a 
+1.a. 1(N01)#? [...] SANGA~a 
+1.b. , AB~a# APIN~a# NUN~a#? 
+1.a. 1(N01) , KISZ SAL ERIM~a AZ 
+1.b. 1(N01) , KISZ KUR~a 
+2.a. 1(N01) , KISZ SAL DUR2 |1(N58).BAD~a| 
+2.b. 1(N01) , KISZ KUR~a 
+3.a. 1(N01) , X SAL X ZATU694~c 
+3.b. 1(N01) , KUR~a 
+4.a. 2(N01) , SAL KISZ# RU 
+4.b. 1(N01) , KUR~a 
+4.a. 1(N01) , KUR~a SI4~f TAK4~a 
+4.b. 1(N01) , SAL# 
+1.a. [...] , [...] 
+1.b. [...] , [...] 
+2.a. 5(N01)# , EN~a#? X ASAR 
+2.b. 3(N02)# 
+3.a. 1(N14) , X ZATU703 
+3.b. 5(N02) 
+4.a. 2(N14) 6(N01) , KI#? 
+4.b. 3(N02) , BA 
+162965	4.c1. 1(N02) 
+4.c2. 1(N01) , X 
+5.a. 1(N14)# 1(N01) , X 
+162969	5.b1. 1(N02) , BA 
+5.b2. 1(N01) , E2~a KUR~a 
+5.c. 4(N02) , MAH~a 
+6.a. 8(N01) , SUKKAL 
+6.b. 2(N02) 
+7.a. 2(N14) , UR4~a? 
+7.b. 5(N01) , RU 
+7.c. 4(N02) 
+1.a. [...] EN~a#? 
+1.b. [...] , [...] 
+2.a. 2(N14)# 5(N01)# , ZATU759 SAG 
+162981	2.b1. 2(N01)# , X SI 
+2.b2. 2(N02) 
+2.c. 2(N01) , E2~a NU@g 
+3.a. 1(N14) 6(N01) , ZATU703 BA EN~a 
+162986	3.b1. 4(N01) , SANGA~a AN EN~a# RU 
+3.b2. 3(N02) , NE~a 
+3.b3. 3(N01)# , EN~a# 
+4.a. 8(N01) , SUKKAL URU~a1 GISZ RAD~a 
+162991	4.b1. 2(N01) , EN~a# SZU ESZDA# 
+4.b2. 6(N02)# [...] 
+4.b3. 3(N02)# , NE~a# 
+1.a. 1(N01) , UDUNITA~a TAK4~a A SANGA~a 
+1.b. 1(N01) , MASZ 
+2.a. 1(N01) , UDUNITA~a |DIN+1(N57)| 
+2.b. 1(N01) , UTUA~a? 
+3.a. 1(N01) , UTUA~a LAM~b 
+3.b. 1(N01) , MASZ 
+11.a. [...] , KU3~a SANGA~a 
+163002	11.b1. 1(N01) , KIR11 
+11.b2. 1(N01) , KUR~a SILA4~b 
+1.a. 5(N01) , SZAH2~a? 
+163006	1.b1. 2(N01) , U8? 
+1.b2. 3(N01) , UDUNITA~a? 
+1.a. 2(N14) , UDU~a LAGAB~b 
+1.b. 7(N01) , |U4x1(N57)| BAR 
+1.c. 1(N01) 1(N08) , KISIM~a 
+6.a. 2(N01) , |U4x1(N57)| 
+6.b. , KISZ 
+1.a. 1(N01) , EN~a PA~a 
+1.b. , E~a KISAL~b1 
+1.a. 4(N01) , U8 SAL BU~a PAP~a NAM 
+1.b. 2(N01) , MASZ 
+5.a. 1(N01)# , UDUNITA~a SANGA~a# KI# 
+5.b. 1(N01) , MASZ 
+1.a. 2(N14) 6(N01) , LAGAB~b UDU~a 
+1.b. 7(N01) , |U4x1(N57)| BAR 
+1.a. 1(N14) 5(N01)# , [...] 
+163023	1.b1. 1(N14) , UD5~a 
+1.b2. 3(N01) , ESZGAR 
+1.b3. 2(N01)# , MASZ2# 
+2.a. [...] 
+163028	2.b1. [...] UD5~a# 
+2.b2. 3(N01)# , SILANITA#? 
+2.b3. [...] , U8 
+3.a. [...] 
+3.b. [...] 
+1.a. 1(N14) 2(N01) , 3(N57) A 
+163035	1.b1. 6(N01) , UD5~a 
+1.b2. 2(N01) , ESZGAR 
+1.b3. 2(N01) , MASZ2 
+2.a. 3(N01) , PAP~a BU~a NAM2 
+163040	2.b1. 2(N01) , UD5~a 
+2.b2. 1(N01) , ESZGAR 
+3.a. 4(N01)# , MUSZEN#? [...] 
+163044	3.b1. 2(N01) , UD5~a 
+3.b2. 1(N01) , UDUNITA~a 
+3.b3. 1(N01) , MASZ2 
+1.a. , PAP~a BU~a NAM2# 
+1.b. , E~a KISAL~b1 
+3.a. 5(N01) , MASZ2 
+163051	3.b1. 1(N01) , |U4x3(N57)|# 
+3.b2. 4(N01) , |U4x1(N57)|# 
+163054	1.a1. [...] X 
+1.a2. , X 
+1.b. [...] SZEG9# EN~a |GI&GI| 
+2.a. 5(N14) , UDU~a# E~b# KISAL~b1# [...] EN~a# [...] 
+163059	2.b1. 3(N14) , UDU~a E~b# KISAL~b1# SANGA~a# 
+2.b2. 2(N14)# , UDU~a# EN~a 
+163062	1.a1. 5(N14)# 6(N01)# , UDU~a# 
+1.a2. , |GI&GI| AB~a# 
+163065	1.b1. 1(N14) 2(N01)# [...] 
+1.b2. 1(N14) 2(N01)# , PAP~a BU~a NAM2# 
+1.b3. 1(N14) [...] 
+1.b4. 2(N01) [...] 
+1.b5. 2(N14) , UDU~a# ZATU752# GI# 
+3.a. , KU6~a KISAL~b1 BA 
+3.b. , SZUR2~b BU~a 
+3.a. , X SANGA~a NUN~a# 
+3.b. , SANGA~a NUN~a SUKKAL# 
+3.a. 2(N14) 6(N01) , SUHUR 
+3.b. 2(N14) 6(N01) , SANGA~b? 
+4.a. 2(N14) 1(N01) , GI# 
+163078	4.b1. 2(N14)# , GI# SZURUPPAK~a# KISAL~b1#? E~a# 
+4.b2. 1(N01)# , BU~a# MUD# NA~a# [...] 
+1.a. 1(N01) 2(N39~a)# 1(N28)# [...] 
+163082	1.b1. 1(N01) 1(N28)# , TUR# [...] 
+1.b2. 1(N24)# 1(N28)# , GUG2# 
+1.b3. 1(N39~a)# 1(N28)# , SZE~a# 
+10.a. 2(N39~a) , GUG2 
+10.b. 1(N24) , 
+1.a. 4(N01)# 4(N39~a)# 1(N24) 1(N28) 2(N29~a) , [HI@g~a SZE~a] |U4.1(N08)|# 
+163089	1.b1. 3(N01)# 1(N28) 1(N29~a) , HI@g~a 
+1.b2. 1(N01) 4(N39~a) 1(N24) 1(N29~a) , [SZE~a] 
+163093	1.c1A. 2(N01) 1(N29~a), [...] 
+1.c1B. 1(N01) 1(N28) , [...] 
+163096	1.c2A. 2(N39~a) 1(N29~a) , 
+1.c2B. 1(N01) 2(N39~a) 1(N24) , [...] 
+2.a. 4(N01) 4(N39~a) 1(N28) , HI@g~a SZE~a |U4.2(N08)| 
+163100	2.b1. 2(N01) 2(N39~a) , HI@g~a# 
+2.b2. 2(N01) 2(N39~a) 1(N28) , SZE~a 
+163103	2.c1. 2(N01) 1(N28) 1(N29~a) 1(N30~a) , 
+2.c2. 2(N39~a) 1(N24) 1(N29~a) 1(N30~c) , 
+2.c3. 1(N01)# [...] , [...] 
+1.a. 2(N01)# 1(N26) , 
+1.b. 1(N25) , 
+163109	2.a1. 2(N01)# , X GAR 
+2.a2. 2(N01) , ZATU726~d 
+2.a3. 2(N01) , GUG2 
+2.a4. 2(N01) , DU8~c 
+2.b. 1(N42~a) , 
+3.a. 1(N14) , |6(N57).GAR| 
+3.b. 1(N42~a) , 
+4.a. 5(N01)#? , GAR X 
+4.b. 1(N30~c) , 
+5.a. [...] , [...] 
+5.b. , X 
+1.a. 1(N01)# , SZA@g GUG2 
+1.b. 1(N30~a) , 
+2.a. 5(N01)# , DU8~c# 
+2.b. 1(N30~c) , 
+3.a. 5(N01) , SZA 
+3.b. 1(N30~a) , 
+1.a. 1(N05) 1(N42~a) , [...] 
+163128	1.b1. 2(N42~a) , HI@g~a 
+1.b2. 3(N42~a) 1(N25) , SZE~a 
+1.b3. 1(N25) , GUG2 
+1.a. [...] 2(N01)# , [...] 
+1.b. 1(N25) 1(N29~a) 
+2.a. 2(N01) , DU8~c 
+2.b. 1(N27) , 
+3.a. 2(N01) , DU8~c@g 
+3.b. 1(N27)# , 
+4.a. 3(N01)# , ZATU726~d 
+4.b. 1(N27) , 
+5.a. 5(N01) , U4 GAR 
+5.b. 1(N29~a) , 
+6.a. 6(N01) , KU6~a TUR? GAR 
+6.b. 1(N30~c) , 
+1.a. 1(N14)# 2(N01)# , GAR# 
+1.b. 1(N30~c)# , 
+2.a. 1(N39~a)# 1(N24) , SZE~a 
+2.b. 1(N42~a)# , 
+3.a. 2(N14) , |5(N57).GAR| 
+3.b. 1(N39~a) , SZE~a 
+4.a. 3(N01)# , [...] 
+4.b. 1(N42~a) , 
+5.a. 2(N01)# , DUG~a# 
+163153	5.b1. 1(N39~a)# , 
+5.b2. [...] 
+6.a. 1(N14) , KASZ~a U4 
+163157	6.b1. [...] , HI@g~a 
+6.b2. [...] 
+7.a. 2(N01) , LAGAB~b KASZ~a SZE~a# 
+163161	7.b1. [...] 
+7.b2. [...] 
+1.a. 4(N01)# 1(N04)? , 
+1.b. [...] 
+2.a. 1(N01) , DU8~c 
+2.b. 1(N30~a) , 
+3.a. 2(N01) , ZATU726~d 
+3.b. 1(N30~a) , 
+4.a. 2(N01) , U4 GAR 
+4.b. 1(N30~a) , 
+5.a. 1(N14) , |SZE~a.GAR|? 
+5.b. 1(N39~a) , 
+1.a. 1(N20)# 3(N05)# 3(N42~a) 1(N29~a)# , HI@g~a# SZE~a 
+163175	1.b1. 2(N05) 2(N42~a) , HI@g~a# 
+1.b2. 1(N14) 1(N01) 1(N29~a) , SZE~a 
+1.a. 1(N45) 5(N14) , DA~a# SZE~a 
+163179	1.b1. 5(N14)# , KU6~a KISAL~b1 SZE~a UR5~a 
+1.b2. 7(N14) , AN ZATU788 NUNUZ~a1 
+1.b3. 1(N14) , UB ZI~a# 
+1.b4. 3(N14) , GIR@g~b# NIM~b1 HI UNUG~a 
+1.a. 1(N01) , NIN# SAG# 
+1.b. 1(N01) , U4 GAR 
+2.a. [...] X 
+2.b. 1(N01) [...] 
+1.a. 1(N01) , U4 GAR AN E2~a
+1.b. 1(N01) , DU8~c 
+1.a. 2(N01) 4(N39~a)# , |U4x2(N01)| KU6~a UR2 [RAD~a?] 
+163191	1.b1. 2(N39~a) 1(N26)# , |U4.6(N08)| 
+1.b2. 2(N01) 2(N39~a) |U4x2(N01)| 1(N29~a) , |U4+1(N24)|#? 
+2.a. 1(N39~a) , X 
+2.b. 1(N30~c) , 
+4.a. 3(N01) 4(N39~a) 1(N24) , SZU UR5~a SZE~a 
+4.b. 1(N39~a) 1(N24) 1(N28) 1(N29~a)# , 
+1.a. 2(N45)# 1(N01) 3(N39~a)# 1(N24)# 1(N28) 1(N29~a) 1(N30~c)? , SZE~a# 
+163199	1.b1. 8(N14)# 2(N01)# 4(N39~a)# 1(N29~a)# 1(N30~a)# , SZE~a 
+1.b2. 1(N46) 4(N41) 1(N26~b) 1(N28~b) 1(N30~c)? , 
+1.b3. 1(N19) 4(N04) , LAGAB~b TE 
+1.a. 4(N14) 3(N04)# , SZE~a GI 
+163204	1.b1. 3(N14) , 
+1.b2. 1(N14) 3(N04) , 
+4.a. 2(N14) 4(N01) , SZE~a ISZ~b 
+4.b. 5(N14) , PAP~a 
+5.a. 1(N14) 3(N01) , IM~a 
+5.b. 2(N19) , 
+7.a. 4(N01) , E~a SZAB~b 
+7.b. 1(N19) , 
+1.a. 5(N01)# , SZE~a# NAM2#? 
+163214	1.b1. 1(N01) 1(N24) , SZE~a HI@g~a# 
+1.b2. 3(N05)# 4(N42~a) , HI@g~a SZE~a# X 
+163217	1.c1. 2(N39~a) , SZE~a 
+163219	1.c2.a. 2(N05)# 2(N42~a) , SZE~a# X 
+1.c2.b. 2(N42~a)# , SZE~a# BA# NI~a# 
+163222	1.d1. 3(N39~a)# 1(N24)# , [HI@g~a] 
+163225	2.d2.a. 3(N42~a)# , HI@g~a 
+2.d2.b. 2(N42~a)# , [HI@g~a] 
+1.a. 6(LAGAB~a)# , TUM~d SZE~a# LAGAB~b 
+163229	1.b1. 4(LAGAB~a) , UNUG~a SZE~a SZA TAK4~a# A 
+1.b2. 2(LAGAB~a) , SAL# AMA~a 
+2.a. 3(LAGAB~a)# , [...] 
+163233	2.b1. 2(LAGAB~a)#? , GU~a#? PAP~a 
+2.b2. [...] , [...] 
+2.a. , EN~a PAP~a DU 
+2.b. , |NUN~a+NAM2| SI4~f 
+2.a. [...] SZE3 RU 
+2.b. , DU UDUNITA~a NUN~a 
+3.a. 3(N01) , SZE~a |NINDA2xNUN~a| 
+3.b. , DU UDUNITA~a NUN~a 
+1.a. 1(N01) , U4 ZATU710 SZE~a 
+1.b. 2(N01) , ZATU710 
+1.a. 7(N01)# , HI#? [...] KASZ~a# 
+1.b. 2(N01)# , KI# 
+1.c. 2(N01)# , [GI] 
+2.a. 8(N01) , KASZ~a# SAL#? [...] 
+2.b. 2(N01)# , [KI] 
+3.a. 7(N01) , [...] 
+3.b. 3(N01) , [GI] 
+4.a. 7(N01)# , [...] 
+4.b. 3(N01) , [GI] 
+5.a. 6(N01) , [...] 
+5.b. 2(N01)# , BA# 
+5.c. 2(N01)# , [GI] 
+6.a. 7(N01)# , X 
+163257	6.b1. 2(N01) , BA 
+6.b2. 1(N01)# , GI# 
+1.a. 4(N14) 2(N01) , KASZ~a X 
+163261	1.b1. 3(N14) 8(N01) , GU7 
+1.b2. 4(N01) , KI 
+2.a. 1(N14) 8(N01) , KASZ~a X 
+163265	2.b1. 4(N01) , BA 
+2.b2. 1(N14) 4(N01)# , GI# 
+1.a. 1(N14)# , SZITA~b1# DUG~a 
+163269	1.b1. 8(N01)# , GU7 
+1.b2. 2(N01) , BA 
+2.a. 1(N14) , KASZ~a U4 
+163273	2.b1. 5(N01) , GU7# 
+2.b2. 5(N01) , BA 
+3.a. 3(N14) , LAGAB~b KASZ~a SZE~a 
+163277	3.b1. 1(N14) 8(N01) , GU7 
+3.b2. 1(N14) 3(N01) , BA 
+4.a. 1(N14) 1(N01) , DUG~a KUR~b 
+4.b. 3(N02)? , 
+5.a. 1(N39~a) , [...] 
+5.b. 8(N01) , [...] 
+163284	1.a1. 5(N01) , SAG SAL AMA~a 
+1.a2. 2(N01) , SAL KISAL~b1 KU6~a#? 
+1.a3. 2(N01) , TUR3~a SAL KU3~a 
+1.b. , EN~a GA2~a1 ME~a DU 
+163289	1.a1. 3(N42~a) HI KASZ~a 
+1.a2. 1(N39~a) 1(N24) , HI 
+1.b. , X X ZATU832 
+2.a. 1(N29~a) , KASZ~a [...] 
+2.b. [...] 
+3.a. 1(N24)# , [...] 
+3.b. [...] 
+4.a. 2(N39~a)# , [...] 
+4.b. 1(N29~a) , [...] 
+5.a. 2(N39~a)# , [...] 
+5.b. [...] 
+1.a. 1(N39~a) , GUG2# 
+1.b. 2(N39~a) , GAR# 
+163303	5.a1. 1(N42~a) , KASZ~a 
+5.a2. 1(N26) , 
+5.b. [...] 
+1.a. [...] SZE~a# 
+1.b. 2(N14)# [...] , SZE~a# [...] 
+2.a. [...] 1(N01)# , [...] 
+2.b. [...] 
+1.a. 2(N01) 1(N24) [...] 
+1.b. 1(N42~a) 
+1.a. 2(N14) [...] 
+1.b. [...] 
+1.a. 5(N19) , 
+1.b. 1(N30c') , 
+1.a. 4(N19) , 
+1.b. 5(N04) , 
+1.c. , KID~e BAR? TUN3~a 
+1.a. [...] 
+1.b. 1(N46)# 2(N14)# [...] 
+2.a. [...] E~a# |E2~ax1(N57)@t| 
+163323	2.b1. , X SAL# GAL~a# SUG5 PA~a 
+2.b2. , E~a KISAL~b1 PA~a 
+1.a. 2(N14) 1(N01) , |SZE~a.NAM2|# SZE~a 
+1.b. 1(N19) 2(N04)# , 
+2.a. , GAL~a# IB~a# [...] SANGA~a 
+2.b. , [...] LA2 TE 
+2.a. [...] |NUN~a+NAM2| 
+2.b. 2(N14)# , SZE~a 
+2.c. 3(N04) 
+3.a. [...] 3(N04) 
+3.b. 
+1.a. 2(N14) , SZE~a SZEG9 PA~a 
+1.b. 1(N46) 
+1.c. , SZEG9 GISZ PA~a 
+2.a. 5(N14) 3(N01) , E~a GA~a 
+2.b. , E~a GA~a 
+1.a. 1(N45) 3(N19) 3(N04) , SZE~a 
+163341	1.b1. 2(N14) 1(N01) , SZE~a 
+1.b2. 6(N19) 4(N04) 
+1.b3. 4(N19) 4(N04) , LAGAB~b TE 
+1.a. 2(N01) 4(N39~a) , 
+1.b. 4(N03) , 
+2.a. [...] 
+2.b. 1(N01)? 1(N39~a) 1(N24) , EN~a DU PAP~a 
+2.a. , SZU ZI~a GISZIMMAR~b1# MU# 
+2.b. , EN~a# DU# PAP~a# KISAL~b1# APIN~a#? 
+1.a. 1(N34) , SZE~a# BU~a# [...] 
+1.b. 5(N19)# , 
+2.a. [...] 
+2.b. 4(N19)# 1(N04) , 
+1.a. 6(N14) , LAGAB~b SZE~a MUSZ3~a 
+1.b. 5(N14) 3(N01) |3(N57).EN2| SI4~f 
+1.c. 3(N01) , GAN2 
+2.a. 2(N14) , SZE~a EN~a PAP~a PAP@t 
+2.b. 2(N14) , |NUN~a+NAM2| 
+3.a. 1(N14) , SZE~a LA2 TE 
+3.b. 1(N14) , |NUN~a+NAM2| 
+4.a. 7(N19) , LA2 TE EN~a PAP~a PAP@t 
+4.b. 3(N19) 2(N04) , |NUN~a+NAM2|# 
+163364	4.c1. 3(N19) 1(N04) , ZATU659# 
+4.c2. 3(N01) , GAN2 
+5.a. 7(N14) , GI# 
+5.b. 3(N14) 2(N01) , |NUN~a+NAM2|# 
+5.c. 3(N14) 1(N01) , ZATU659 
+1.a. 5(N14) 2(N19)# [...] 
+1.b. 3(N14) [...] 
+1.a. 2(N14) , SZE~a EN~a PAP~a PAP@t 
+1.b. 3(N19) , 
+4.a. 2(N14) , SZE~a EN~a KISAL~b1 PA~a 
+4.b. 5(N04) , 
+163376	2.a1. 1(N45) 2(N14) 3(N01) , SZE~a |NUN~a+NAM2| 
+2.a2. 1(N45) 1(N14) , SZE~a ZATU659 
+163379	2.b1. 5(N14) , SZE~a 
+2.b2. 7(N19) 3(N04) 
+2.b3. 3(N14) , SZE~a 
+2.b4. 8(N19) 
+2.a. 1(N45) 4(N14) 4(N01) , SZE~a [...] 
+163385	2.b1. 9(N14) 2(N01) , 
+2.b2. 5(N19) 2(N04) , 
+1.a. 2(N45) 4(N01) , SZEG9 PA~a 
+1.b. 2(N46) 8(N19)# , 
+3.a. 7(N14) 4(N01) , SUHUR GAL~b 
+3.b. 3(N19) , 
+1.a. 1(N34) 1(N45) 6(N14) 4(N01) , GAN2 |URU~a1x3(N57)| SZE~a 
+163393	1.b1. 1(N34) 1(N45) 1(N14) 1(N39~a) , SAG 
+1.b2. 6(N14) 3(N01) 4(N39~a) , BA KI 
+2.a. 2(N45) 5(N14) 2(N01) 4(N39~a) , TI@t LAM~b 
+163397	2.b1. 1(N45) 7(N14) 1(N01) 3(N39~a) , SAG 
+2.b2. 8(N14) 1(N01) 1(N39~a) , BA KI 
+3.a. 2(N46) 2(N19) 2(N04) , 
+163401	3.b1. 1(N46) 3(N19) 5(N04) 1(N41) , SAG 
+3.b2. 8(N19) 2(N04) 4(N41) , BA KI 
+2.a. 2(N14) 3(N01) , KASZ~b BA 
+2.b. 3(N39~a) , KASZ~b GI 
+1.a. 1(N34) , UMBIN~a? 
+163407	1.b1. 5(N01) , BARA2~a 
+1.b2. 1(N14) 5(N01) , GISZ@t MASZ 
+2.a. 1(N34)# , X 
+163411	2.b1. 5(N01) , BARA2~a# 
+2.b2. 1(N14) 5(N01) , GISZ@t MASZ 
+3.a. 1(N34)# , X SANGA~a# 
+163415	3.b1. 5(N01) , BARA2~a 
+3.b2. 1(N14) 5(N01) , GISZ@t [MASZ] 
+1.a. 1(N34)# , BU~a DU PAP~a 
+163419	2.b1. 5(N01)# , BARA2~a# 
+2.b2. 1(N14)# [5(N01)?] , GISZ@t# MASZ 
+1.a. [...] SZA# NIN# 
+163423	1.b1. [...] 
+1.b2. 1(N01) , UDU~a 
+1.b3. 3(N19) 
+4.a. , EN~a PA~a 
+4.b. , EN~a DU# UB# 
+5.a. , KU3~a# A# [...] 
+5.b. , EN~a NAB 
+1.a. 2(N14)# 2(N01)# 1(N24)# 2(N41)# , SZE~a 
+163432	1.b1. 2(N14)# 2(N01)# 1(N24)# , SZE~a 
+1.b2. 2(N41)# , 
+2.a. 1(N34) , SZEN~e NUN~a 
+2.b. , SU~a PAP~a 
+1.a. 2(N34) 2(N14) 5(N01) , SAG UB [...] 
+163438	1.b1. 1(N34) 4(N14) 5(N01) , HAL BA 
+1.b2. 4(N14)#? [...] 
+1.a. 3(N14)# 3(N01) , X X [...] 
+163442	1.b1. 2(N14) 8(N01)# , URU~a1 
+1.b2. 5(N01) , TAK4~a KI# BAR 
+1.a. 2(N14)# 2(N01)# , GU7 
+163446	1.b1. 5(N01)# , [...] 
+1.b2. 3(N01)# , [...] 
+1.b3. 1(N14)# 1(N01)# , NIN# 
+1.b4. 3(N01) , GIR3~c#? 
+2.a. 1(N14) 1(N01) , BA KI 
+163452	2.b1. 5(N01) , NIM~b1 
+2.b2. 2(N01) , ME~a ZATU659 GAL~a 
+2.b3. 2(N01) , SIG7 
+2.b4. 2(N01) , SI E2~a 
+163457	1.a1. 5(N01)# , E2~a# GAL~a 
+1.a2. 1(N01)? , EN~a ZATU697~a 
+1.a3. 1(N01) , SAG ZATU686~b#? 
+1.a4. 1(N01) , AN E2~a# 
+163462	1.b1. [...] , [...] X 
+1.b2. [...] , [...] 
+4.a. 2(N01) , SZU 
+4.b. 4(N08) , TI~a# 
+1.a. 2(N01)# , SZEN~b# 
+163468	1.b1. 1(N01)# , E~a# KISAL~b1# 
+1.b2. 1(N01)# , SZEN~b TUR 
+3.a. 5(N34) 7(N01) 3(N59) , ABGAL 
+3.b. 2(N14) , SZU TUR 
+4.a. 4(N34) 4(N14) 5(N01) 4(N59) , [...] APIN~a 
+4.b. [...] 
+1.a. 6(N14) 3(N01)# , SZE~a# GU7 
+163476	1.b1. 2(N14) 2(N01) 
+1.b2. 1(N14) [...] 
+1.b3. 2(N14) 1(N01) , X 
+1.b4. 1(N14) , URU~a1 
+163481	1.c1. 2(N14) , KU6~a KISAL~b1 
+1.c2. 2(N14) 3(N01) , 
+1.c3. 2(N14) , GAR SAG TUG2~a 
+5.a'. 5(N03) 2(N40) 1(N24') 1(N30~a) , 
+5.b'. 1(N03) 4(N40) 1(N24') DUB~a 1(N30~a) , 
+5.c'. 3(N03) [3(N40)] , [...] 
+1.a. 1(N34) , 
+163489	1.b1. 2(N14) 2(N01)# , 
+1.b2. 3(N14) 8(N01) , TUR 
+2.a. 1(N34) , SILA4~c? 
+163493	2.b1. 4(N01) , AB~a 
+2.b2. 5(N14)# 6(N01) , 
+1.a. 4(N34)# 2(N45) 6(N14) 4(N01) , SZE~a 
+163497	1.b1. 2(N45) 5(N14) , SZE~a |U4x2(N57)| 
+1.b2. 4(N34) 1(N14) 4(N01) , U4 GIBIL 
+2.a. 1(N36) 2(N46) 1(N19) 5(N04)# 
+163501	2.b1. 5(N19) , LAGAB~b TE 
+2.b2. 1(N36) 1(N46) 6(N19) 3(N04) , GIBIL U4 
+2.b3. 2(N04) , LAGAB~b TE GIBIL U4 
+1.a. , X A X 
+1.b. , X X GI 
+1.a. [N] 5(N14) [...] 2(N01) , [...] 
+163508	1.b1. [...] , [...] 
+1.b2. 2(N34) 2(N14) , [...] NUN~a# X NI~a 
+1.b3. N , NI~a 
+1.b4. 5(N01) , X 
+1.b5. 4(N01) , GI 
+2.a. 7(N34)# 4(N14) , UDU~a X ZATU773? 
+163515	2.b1. 6(N34) 1(N14) 6(N01) , X 
+2.b2. 1(N34) 3(N01) , UR2 
+2.b3. 8(N01) , X 
+2.b4. 9(N01) , GI 
+2.a. 5(N02) , AMAR# BAR 
+163521	2.b1. 2(N02) , AMAR DUB~a 
+2.b2. 3(N02) , AMAR BAR 
+1.a. MUSZ3~b MUSZ3~b 
+1.b. EN~c MUSZ3~b 
+1.c. SZITA~a SZITA~a 
+2.a. 1(N01) , AL 
+2.b. , NI~b GI6 BU~a 
+3.a. 2(N01)# [...] , MUSZEN# [...] 
+163530	3.b1. , NUNUZ~a1#? X [...] 
+3.b2. , SAG AMAR# [...] 
+1.a. , |U4x6(N01)| GAN2 
+1.b. 1(N34) , 
+2.a. , MUN~a3 
+2.b. 1(N34) , 
+3.a. , BAN~b |NINDA2xBA| [...] 
+3.b. 2(N14) , 
+1.a. [...] , [...] X DA~a#? [...] 
+163540	1.b1. , [...] X |NINDA2xHI|# NUN~a 1(N57) 
+1.b2. , 3(N57) X MUSZEN# |BU~a+DU6~a|? [...] 
+1.b3. , GU NUNUZ~a1 
+1.a. 5(N01) , |SAL.KUR~a| 
+163545	1.b1. 3(N57) , SAL 
+1.b2. 2(N57) , KUR~a 
+1.c. , SAL |GA2~bxDUB~a| [...] 
+1.a. [...] , [...] X 
+1.b. 2(N45) , SZE~a 
+2.a. [...] 4(N14)# , [...] 
+2.b. 1(N36) 1(N45) 2(N14) [...] , [...] 
+1.a. 1(N50) 8(N14) , SANGA~a# ZATU753# [...] 
+1.b. 7(N14) , SZE~a [...] 
+1.a. [...] , [...] UTUL~a 
+1.b. [...] , [...] EN~a AN# GI4~a KI 
+1.a. [...] , X [...] 
+1.b. , MEN~a GU NUN~a#? [...] 
+1.a. 1(N01) , |NINDA2x((UDU~a+TAR)~b)| KU6~a 
+1.b. , X 
+2.a. 1(N01) , X ENGIZ#? [...] 
+2.b. , X |BU~a+DU6~a|# 
+3.a. [...] , [...] 
+3.b. [...] , X [...] 
+1.a. [...] , [...] 
+163566	1.b1. , [...] 
+1.b2. , X AN 3(N57) [...] 
+1.b3. , BU~a PA~a NAM2 SZITA~b2 
+1.b4. , DU 3(N57) KI 
+1.c. , [...] 
+2.a. 2(N01) , X X [...] 
+2.b. , KASZ~c AN U2~b 
+2.c. , NUMUN2? 
+1.a. [...] , SZAKIR~c#? ZATU752 
+163576	1.b1. [...] , NUN~a# [...] 
+1.b2. 1(N01) , TE# EZEN~b AN MUSZ3~a 
+1.a. [...] , [...] 
+1.b. [...] , [...] X 
+2.a. [...] , [...] 
+2.b. 2(N14)# , SIG2~b SIG2~b |1(N58).BAD~a| 
+4.a. 2(N14)# , SIG2~b SIG2~b 3(N57)? SZE~a# AB2 
+4.b. 2(N01) , MA SAL 
+1.a. 3(N14)# , TUG2~a TUG2~a URUDU@g~d USZ~b 
+163586	1.b1. 4(N14)# , X SZE3 A 
+1.b2. 2(N01) , GA~a 
+4.a. 1(N14) , ZATU659 SZE3 IB~a 
+4.b. 2(N14) , SZE3 A# 
+6.a. 1(N14) , TE |1(N58).BAD~a| SI BU~a TUG2~a TUG2~a 
+6.b. 2(N01) , RU 
+1.a. [...] , [...] X SAG GIR3@g~b 
+1.b. 5(N34) , UD5~a 
+2.a. [...] 3(N34) , UDU~a MES ZABALAM~b NIM~b1 GIR3@g~b [...] 
+2.b. 4(N34) , UD5~a 
+1.a. [...] , [...] 
+1.b. , NUN~a# X 
+2.a. [...] , [...] 
+2.b. , |3(N57).NUNUZ~c| 
+4.a. [...] 2(N01) , AL 
+163602	4.b1. , 3(N57) A 
+4.b2. , GIR2~a# AN 
+5.a. [...] , [...] MUSZEN# 
+5.b. , |3(N57).PIRIG~b1| SU~a# [...] 
+1.a. [...] 1(N01) , X [...] 
+1.b. , 3(N57)? EN2 [...] 
+163609	2.a1. [...] 2(N14) , AMA~a MA X [...] 
+2.a2. [...] 2(N14) , AMA~a [...] 
+2.b. , E2~a AN KI 
+1.a. [...] 1(N01) , X [...] 
+163614	1.b1. , GISZ A 
+1.b2. , BU~a NAM2 PAP~a 
+2.a. [...] , [...] 
+2.b. , X [...] 
+1.a. 1(N14) 2(N01) [...] , [...] 
+163620	1.b1. 7(N01) , SZU2 
+1.b2. 3(N01) , ZATU644~a 
+1.b3. 4(N01)# , GADA~a 
+1.b4. 2(N01) , 
+1.a. [...] , X [...] 
+2.a. 1(N01) , |NUN~a+EN~a| APIN~a# 
+2.b. , GUG2 GU 
+3.a. 1(N01) , APIN~a GESZTU~b ESZDA? E2~a 
+3.b. , BAHAR2~b#? X 
+4.a. 1(N01) , URI5# GA~a# [...] 
+4.b. , SZITA~a3 [...] 
+1.a. [...] , [...] X E2~a#? |(UDU~axTAR)~b| KI GAL~a# 
+2.a. 1(N01)# , X APIN~a [...] 
+2.b. [...] , EN~a ZABALAM~a# X 
+1.a. 1(N01) [...] , X NIN# SZE~a ME~a [...] 
+2.a. 1(N01) [...] , X [...] 
+1.a. 2(N01) , SAL# 
+1.b. , X [...] 
+1.a. [...] , [...] 
+163641	1.b1A. [...] 2(N01) , |U4x1(N57)| TUR 
+1.b1B. , EN~a AB~a#? 
+1.b1C. , [...] 
+163645	1.b2A. 3(N01)# [...] , SZU# 
+1.b2B. , HI BU~a 
+1.b2C. , X NIM~b1# [...] 
+2.a. 1(N14) , DUB~a [...] 
+163650	2.b1. 3(N01) [...] , [...] 
+2.b2. , X [...] 
+1.a. [...] , GAR#? [...] 
+1.b. , SU~a ME~a 
+2.a. [...] , [...] 
+2.b. , [...] SAL 
+2.a. 1(N01) , EN~a TUR 
+2.b. , 1(N57) |GI&GI|# [...] 
+1.a. [...] , |1(N58).BAD~a|? [...] 
+1.b. , X PAP~a 
+2.a. [...] 1(N01) , X [...] 
+2.b. , KAB GI# [...] 
+2.a. 2(N01) , [...] UKKIN~a# 
+2.b. , RU? [...] 
+3.a. 1(N01) [...] , SZITA~a1 X [...] 
+3.b. , BIR3~b# ZATU647 
+1.a. [...] , [...] 
+1.b. , [...] X 
+2.a. [...] 1(N01) , X [...] 
+2.b. , AB~b BU~a 
+3.a. [...] , [...] 
+3.b. , MUD NUN~a 
+1.a. [...] , [...] 
+1.b. [...] , GAN2# 
+2.a. [...] , X SZITA~a1#? X [...] 
+2.b. 3(N14) , GAN2 
+3.a. [...] , [...] 
+3.b. 2(N14) , [GAN2] 
+4.a. [...] , [...] 
+4.b. 1(N14) [...] , TE#? 
+1.a. [...] 1(N01)# , DA~a SA~c [...] 
+1.b. [...] , X [...] 
+1.c. [...] 1(N14)# , GAN2 
+2.a. 4(N01) , UDU~a# SI ZATU647 KISAL~b1 
+2.b. 2(N14) , GAN2 
+3.a. 4(N01) , ALAN~a BU~a SANGA~a ERIN 
+3.b. 2(N14) , GAN2 
+4.a. 2(N01) , UDU~a URI MUSZ3~a 
+4.b. 1(N14) , GAN2 
+5.a. 1(N01)# , UDU~a ME~a X [...] 
+5.b. 1(N14) , GAN2 
+1.a. [...] 2(N14)# 1(N01)# , [...] 
+163693	1.b1. 6(N01) , [...] 
+1.b2. 1(N14) 1(N01) , KU6~a# [...] 
+1.b3. 9(N01) , GU4# 
+1.b4. 2(N01) , |MAH~axMASZ| 
+1.b5. 3(N01) , AB2 SZA3~a2# 
+1.a. 2(N34) 3(N14) 5(N01) [...] , TUR GAL~a |SILA3~axSZU| |SILA3~axSZU| 
+163700	1.b1. [...] 1(N14) 2(N01) , |SILA3~axSZU| GAL~a 
+1.b2. 1(N34) 3(N14) 6(N01) , |SILA3~axSZU| TUR 
+1.a. 2(N01) , DUG~c TAK4~a ALAN~c 
+163704	1.b1. [1(N01)] , X [...] 
+1.b2. 1(N01) , EN~a KI URU~a1 
+1.a. [...] , [...] 
+1.b. , [...] PAP~a KALAM~b#? 
+2.a. [...] , [...] 
+2.b. , PAP~a ZATU629# [...] 
+1.a. [...] 1(N01) , AB~b E2~a SANGA~a# 
+1.b. , [...] SZE~a NIM~b1 
+2.a. 1(N01) , DUG~c LAL3~a SAL URU~a1 [...] 
+2.b. , BU~a SZE~a NIM~b1 
+1.a. [...] , [...] 
+1.b. [...] , [...] 
+2.a. 2(N01) , E2~a#? AB~b# 
+163718	2.b1. , NIN# SIG7 
+2.b2. , BU~a SZE~a NIM~b1 
+3.a. 5(N01) , |(UDU~axTAR)~b|#? AB~a#? 
+163722	3.b1. , BU~a SZE~a NIM~b1 
+3.b2. , 3(N57) SANGA~a 
+1.a. 2(N01) [...] , EN~a# NAGA~a#? [...] 
+1.b. , SZA# DU [...] 
+1.a. 2(N14) [...] , SZE~a |U4x1(N57)| X [...] 
+1.b. 3(N14) [...] , [GI ...] 
+2.a. [1(N45)] , |U4x5(N57)|#? [...] 
+2.b. [...] , GI [...] 
+1.a. 2(N45) , APIN~a PA~a SI AN KI# 
+163732	1.b1. 9(N14) , BA SZE~a 
+1.b2. 1(N45) 1(N14) , SZE~a# GI# [...] 
+1.a. [...] 1(N01) , [...] BU~a 
+1.b. 4(N01) , [KID~b] KID~b# 
+2.a. 1(N01) , |NUN~a+EN~a| 
+2.b. 4(N01) , KID~b KID~b 
+3.a. 1(N01) , ZATU636? 
+3.b. 4(N01) , KID~b KID~b 
+4.a. 1(N01) , AK~a 
+4.b. 4(N01) , KID~b KID~b 
+5.a. [...] , [...] 
+5.b. 4(N01) , KID~b [KID~b] 
+1.a. 1(N14) [...] , SAL TU~a [...] 
+163746	1.b1. , EN~a PA~a 
+1.b2. , DU DIN [...] 
+1.a. 2(N01) , KISZ 
+163750	1.b1. , X X [...] 
+1.b2. , SAGSZU SAG# [...] 
+1.a. [...] , [...] TU~a# 
+1.b. , X LA2 GARA2~a [...] 
+2.a. [...] , [...] 
+2.b. , |BU~a+DU6~a|# PAP~a# 
+2.c. , UDU~a UDU~a [...] 
+3.a. [...] 2(N01) , SZA3~a1# 
+3.b. , EN~a E2~a TI 
+163760	3.c1. , SZA3~a1 SZUBUR 
+3.c2. , BU~a 
+3.c3. , UDU~a TAR~a 
+3.d. , SAG#? X [...] 
+3.a. 5(N14) , SZE~a DU NA~a 
+3.b. 3(N14) [...] , [...] 
+1.a. 3(N14) 3(N01) , UDU~a BA 
+1.b. 4(N01) , |U4x1(N57)| BAR 
+1.a. 3(N01) , APIN~a GU4 GAN2 
+163770	1.b1. , GI TUM~a 3(N57)# MUSZEN 
+1.b2. , LA2 SZE3# 
+1.a. 1(N14)# [...] , [...] |GI&GI|# 
+163774	1.b1. , MUSZEN# [...] 
+2.a. [...] , [...] 
+163777	2.b1. , X X [...] 
+2.b2. , NA~a# [...] 
+163780	3.b3. , [...] 
+163782	4.b4. , EN~a# UR2 [...] 
+2.a. 9(N01) , KUR~a [...] 
+163785	2.b1. , BA DUB~a A NIN ZATU647 
+2.b2. , [...] 
+2.b3. , X [...] 
+3.a. 1(N45) 6(N14) , SZE~a UR2 SUKKAL GISZ E2~a SIG2~a2 
+3.b. 8(N19) , 
+1.a. , IM~b? X 
+2.a. [...] , [...] 
+2.b. , KI DAR~b GUB3~b 
+3.a. [...] , [...] 
+3.b. , TUR MAR~a X GAL~a 
+4.a. [...] , MAR~a# [...] 
+2.a. 1(N01) , KISZ |GA2~bxDUB~a|? 
+2.b. [...] , MUD KASZ~b X 
+2.c. 1(N01) , X [...] 
+3.a. 3(N01) , EN~a IB~a 
+3.b. 1(N01) , APIN~a [...] 
+3.c. 1(N01) , APIN~a HI@g~a SZUBUR 
+3.d. [...] , EN~a GI? [...] 
+3.e. , ANSZE~b E2~a SIG2~a1 
+4.a. 5(N01) , NAM2 DI [...] 
+4.b. 1(N01) , EN~a X SUKKAL? ZATU752 NIM~b1 KI 
+4.c. , PU2 KU3~a? 
+4.d. 1(N01) , E2~a SANGA~a 
+4.e. , E2~a KALAM~b 
+4.f. , NA2~a GAL~a 
+4.g. 1(N01) , SAR~a SZUBUR 
+4.h. , GI6 DU 
+4.i. 1(N01) , KISZ GAL~a 
+4.j. [...] , X [...] 
+4.k. 1(N01) , SI4~a SI X |DARA3~dxKAR2|? 
+4.l. , SI ME~a PAP~a 
+4.m. , TU~b? NIM~b1 X 
+4.n. [...] , [...] 
+4.o. , ISZ~b? 
+4.p. , ANSZE~b? KI 
+4.q. 2(N01) [...] , [...] 
+1.a. [...] , AB~a TUM~a# [...] 
+1.b. , SAR~a SZEN~b 
+2.a. [...] , [...] TUR BU~a 
+2.b. , |EZEN~axSAG| 
+2.a. [...] , [...] NAM~a 
+2.b. [...] , [...] 
+163828	3.a1. [...] , [...] NAGA~a BA SAR~c 
+3.a2. [...] , [...] X TUR 
+3.b. , ZATU686~a [...] SUKKAL IB~a# 
+4.a. [...] 3(N01) , PAP~a BU~a NUN~a# GIR3@g~b 
+4.b. , PAP~a |1(N57).SZUBUR| ZI~a 
+1.a. 1(N01) , SAL BU~a PAP~a NAM2 SZITA~a3 ZATU647 
+1.b. , X [...] 
+1.a. [...] , X X [...] 
+1.b. , [...] X SAR~a SZUBUR# 
+2.a. [...] , [...] 
+2.b. 1(N01) , X X [...] 
+2.c. , IB~a SZURUPPAK~b# SI4~f 
+1.a. 3(N01) , SAL UR5~a 
+163842	1.b1. , SZU ZATU697~a 
+1.b2. , X [...] 
+2.a. 2(N01) , SAL SZA3~a1 
+2.b. , NI~a BA [...] 
+2.a. 2(N01) , ME~a SAL 
+163848	2.b1. 1(N01) , MU#? [...] 
+163850	2.b2A. 1(N01) , KUR~a ERIM~a GI 
+2.b2B. , TUR [...] 
+3.a. 1(N01) [...] , EN~a# |SILA3~axSZU2| X [...] 
+3.b. , X [...] 
+1.a. 5(N48) 5(N34) , DARA4~c1 
+163856	1.b1. 4(N48) 8(N34) , [...] 
+1.b2. 5(N34) , [...] 
+1.b3. 2(N34) , [...] 
+2.a. 2(N34)# 3(N14) , X [...] 
+163861	2.b1. 2(N34) , [...] 
+2.b2. 2(N14) 2(N01)# [...] , [...] 
+2.b3. [...] , [...] 
+1.a. [...] 3(N01) , [...] UDU~a# |U4x(X+2(N01))|# X [...] 
+163866	1.b1. [...] , [...] 
+1.b2. 3(N01) , X [...] 
+1.b3. 1(N01) , |NINDA2x(HI+ME~a)|# [...] 
+1.b4. , |U4x3(N01).3(N08)| |(UDU~axTAR)~a| [...] 
+1.a. [...] , [...] 
+163872	1.b1. [...] , X [...] 
+1.b2. 1(N01) , BA |GI&GI| 
+1.b3. 1(N01) , TI PAP~a AN 
+3.a. [...] , [...] NAGA~a X 
+3.b. , EN~a NIM~b1 |GISZxSZU2~a| 
+4.a. [...] , [...] 
+4.b. , EN~a DU PAP~a 
+2.a. 6(N01) , A AL LA2 
+163881	2.b1. 2(N01) , SIG7 [...] 
+2.b2. 1(N01) , NAM2 DI X [...] 
+2.b3. 1(N01) , X [...] 
+2.b4. 2(N01) , X [...] 
+3.a. [...] 2(N01)# , [...] 
+3.b. 3(N01)# [...] , [...] 
+1.a. [...] 1(N01) , SAL X DU [...] 
+1.b. 2(N01) , [...] TU~a 
+163890	1.c1. [...] , [...] 
+1.c2. , SAL X 
+2.a. 1(N01) , SAL PA~a NA2~b2 
+2.b. , KAK~a NUMUN2 
+3.a. [...] 2(N01)# , SAL X 
+163896	3.b1. , |GISZxSZU2~a| ME~a 
+3.b2. , U4 X 
+1.a. [...] , [...] UTUL~a# 
+163900	1.b1. , [...] X 
+1.b2. , X DA~a 
+2.a. 4(N01) , [...] 
+163904	2.b1. , GAN2#? PAP~a 
+2.b2. , [...] X A 
+2.b3. , [...] X 
+2.b4. , [...] 
+2.a. 5(N01)# [...] , SAR~a [...] 
+163910	2.b1. 2(N57)#? , X SILA3~a# 
+2.b2. 2(N57)# , X EN~a# [...] 
+2.b3. 1(N57) , SAR~a# [...] 
+1.a. , ([...] DAH)a 
+1.b. , (RU# [...])a 
+2.a. , ([...] SAR~a# 3(N57))a PAP~a SU~a 
+2.b. , (MUD# [...])a 
+1.a. [...] , X 
+1.b. , [...] KU3~a X NUN~a 
+2.a. 2(N01) , SAL IB~a X 
+163921	2.b1. , MUD IB~a NA~a URI3~a 
+2.b2. , |GI&GI| 
+2.a. [...] , GI [...] 
+2.b. 1(N08) , SAL 2(N58)? TUR [...] 
+1.a. [...] 1(N01)# , SANGA~a GAL~a AN HI 
+1.b. , U2~a GAR 
+2.a. [...] 1(N01)# , URI3~a 3(N57) SILA4~a 
+2.b. , BA PIRIG~b1 
+1.a. , ADAB 
+1.b. , KALAM~b [...] 
+1.a. [...] , [...] GAL~a# 
+1.b. [...] , [...] PAP~a 
+2.a. 1(N01) , 1(N57)? E2~a [...] 
+2.b. , X [...] 
+1.a. [...] , UNUG~a ME~a [...] 
+1.b. [...] , SAL SZU PAP~a 
+2.a. 1(N45)# [...] , [...] 
+1.a. [...] , [...] X 
+1.b. [...] 2(N01) , PAP~a AK~a? [...] 
+2.a. 1(N14) 4(N01) , BU~a PAP~a [...] 
+2.b. 1(N01) , X 
+2.a. 2(N14) 2(N01) , UDUNITA~a 
+2.b. 1(N01) , AN MUSZ3~a 
+3.a. 2(N34) 4(N14) [...] , X [...] 
+163947	3.b1A. [...] , ZAG~a# X SUHUR# [...] 
+163949	3.b1B1. 2(N34) 2(N14) 4(N01) , SUHUR# [...] 
+3.b1B2. 2(N14) 4(N01) , SUHUR# [...] 
+3.b1B3. 4(N01) , SUHUR [...] 
+3.b1B4. , [...] 
+3.b2. 1(N14) , |HI.SUHUR|# [...] 
+5.a. [...] , [...] 
+5.b. 5(N01)# [...] , [...] 
+1.a. 1(N14) 2(N01) [...] , UDU~a BA 
+1.b. 2(N01) [...] , [...] 
+163959	1.a1. [...] 1(N01) , DUG~b 
+1.a2. 2(N01) [...] , [...] 
+1.b. , |3(N57).AMAR| USZUMGAL 
+2.a. 1(N34) , KUR~a TUG2~a SZE~a SAG 
+2.b. 3(N14) , TUG2~a# APIN~a [...] 
+163965	2.c1. 1(N01) [...] , [...] 
+2.c2. 2(N01) [...] , [...] 
+2.a. [...] 1(N50)# , UNUG~a ZATU647 
+2.b. [...] , [...] KALAM~b#? 
+1.a. [...] , [...] 
+1.b. [...] , [...] BAR 
+1.a. 5(N14) 4(N01) , UDU~a 
+1.b. 8(N01) , |U4x1(N57)| BAR 
+1.a. 1(N01) , U4 
+1.b. 1(N01) , [...] 
+1.c. , E2~a SZE~a KISAL~b1 
+1.a. 1(N01) , GAN~a E2~a 
+163978	1.b1. 4(N01) , SZAKIR~c ZATU752 
+1.b2. 2(N01) , GA~b# GISZ@t KU~b1 SZA#? 
+1.a. 1(N14) , GAN~a E2~a 
+1.b. 1(N14) 7(N01) , KISIM~a [...] 
+3.a. , U4 NI~b EN~a IB~a ZATU753 
+3.b. , 3(N57) PAD~a 
+1.a. [...] , [...] 
+1.b. 6(N01)#? , [...] 
+2.a. 3(N01)# , [...] 
+2.b. 6(N01) , X [...] 
+3.a. 3(N14) , GIR3~c#? 
+3.b. 3(N01) 1(N08) , DUG~b 
+4.a. 2(N14) , EN~a A AN 
+4.b. 1(N01) 1(N08) , DUG~b 
+5.a. 1(N14) , EN~a GAL~a BIR3~a 
+5.b. 1(N01) , DUG~a 
+6.a. 2(N14) , EN~a IB~a 
+6.b. 1(N01) 1(N08) , DUG~a 
+7.a. 1(N14) , ERIN APIN~a 
+7.b. 1(N01) , DUG~a 
+8.a. [...] , GA2~a1 GI 
+8.b. 1(N01) , [...] 
+1.a. 2(N14) , ERIN? [...] 
+1.b. 5(N01) [...] , [...] 
+2.a. 2(N14) , GADA~a SUKKAL 
+2.b. 1(N01) [...] 1(N08) , DUG~a 
+1.a. [...] 1(N01) , [...] GAL~a 
+1.b. 1(N01) , SZITA~a1 
+2.a. [...] , SUKKAL GADA~a 
+2.b. 1(N01) , SZITA~a1 
+3.a. [...] , GAL~a KISAL~b1 
+3.b. 1(N01) , SZITA~a1 
+10.a. 1(N01) , EN~a PAP~a 
+10.b. 1(N01) , SZITA~a1 
+1.a. 4(N51) 1(N34) 5(N14) 8(N01) , SZU GUM~b GAR 
+1.b. 5(N14)# 9(N01) , DUG~a 
+3.a. 1(N14) , GAR SANGA~a GAL~a 
+3.b. 1(N01) 1(N08) , DUG~a 
+1.a. [...] , ZATU649 [...] 
+1.b. [...] , X GI [...] 
+2.a. 5(N01) , GAN~c# 
+164020	2.b1. 2(N01) , LAGAB~b X 
+2.b2. 3(N01) , LAGAB~b DIN 
+1.a. [...] 2(N01) , GAL~a SZITA~a1 
+1.b. 1(N34) 3(N14) [...] , [...] 
+2.a. 1(N34) 1(N14) , EN~a MAR~a SZA3~a1 
+2.b. 1(N51) 2(N14) , 2(N57) GAR [...] 
+3.a. 5(N14) 6(N01) , NAM2 NAM2 
+3.b. 3(N14) [...] , [...] 
+1.a. 1(N01) , PA~a NAM2 ADAB 
+1.b. , EN~a AN TE HI 
+2.a. 1(N01) , GAL~a SZAB~a 
+2.b. , BALAG 
+3.a. 1(N01) , SZEN~a A ME~a 
+3.b. , MEN~a URI3~a SI 
+3.a. 1(N01) , MIR~b#? GAL~a 
+3.b. , MEN~a URI3~a SI 
+1.a. 1(N01) , NAR GAL~a 
+1.b. , EN~a LAL3~a 
+3.a. 1(N01) , USZUMGAL# [...] 
+3.a. 3(N01) , UTUA~a 
+3.b. 1(N01) , E2~a? NUN~a 
+4.a. 5(N01) , UDUNITA~a 
+4.b. 2(N01) , AN MUSZ3~a 
+5.a. 1(N01) , MASZ2 
+5.b. 1(N01) , [AN] MUSZ3~a# 
+1.a. 3(N14) 1(N01) , UDU~a BA 
+1.b. , |U4x1(N57)|# BAR 
+1.a. [...] , [...] 
+1.b. , X [...] 
+2.a. [...] 1(N01) , X 
+2.b. , RI8~a 
+3.a. 3(N01) , GA~a 
+164053	3.b1. , NE~a SAG 
+3.b2. , NAB NU11? 
+3.b3. , MU DU 
+164057	3.c1. 1(N01) , |U4x1(N57)|? BAR 
+3.c2. , ERIM~a 
+164060	3.d1. 1(N01) , PAP~a TI 
+3.d2. , IL GI X [...] 
+1.a. 4(N34) 2(N14) , U4 DARA4~c2 HI E2~a NUN~a 
+1.b. 3(N34) 2(N14) 5(N01) , NE~a 
+1.c. 2(N34) 4(N14) 5(N01) , X 
+2.a. 1(N14) , U4 EN~a SAG 
+2.b. 2(N01) , NE~a 
+2.c. 7(N01) , [...] 
+3.a. 1(N14) 1(N01) , U4 NAMESZDA 
+3.b. 9(N01) , [...] 
+4.a. 2(N34) 4(N14) 3(N01) , EN~a AN SZU ME~a 
+4.b. 3(N34) 5(N01) , NE~a 
+4.c. 2(N34) , GUN3~a 
+4.d. 2(N34) 2(N14) 4(N01) , GI6 GI 
+4.e. 1(N34) 3(N14) [...] , ZATU749~c# 
+5.a. 1(N48) 3(N14) , U4 SANGA~a GAL~a 
+5.b. 3(N14) , NE~a 
+5.c. 1(N34) 1(N14) [...] , GI6 GI 
+5.d. 4(N14) 5(N01) , GUN3~a 
+6.a. 6(N01) , U4 ZATU651? 
+6.b. 3(N14) , GUN3~a 
+6.c. 5(N14) 1(N01) , ZATU749~c 
+7.a. 2(N34) 5(N14) 3(N01) [...] , U4 |NIR~axAN| 
+7.b. 1(N14) 5(N01) [...] , [NE~a] 
+7.c. 1(N34) 2(N14) 2(N01) , GUN3~a 
+7.d. 5(N14) 5(N01) , ZATU749~c 
+7.e. 2(N14) [...] , [...] 
+8.a. 1(N34) 4(N14) 5(N01) , [U4] NUN~a BAD3~b2 
+8.b. 1(N14) 9(N01) , NE~a 
+8.c. 1(N34) 4(N14) , GUN3~a 
+8.d. 2(N34) 2(N14) 3(N01) , ZATU749~c 
+8.e. 2(N01) [...] , UR3~a3# 
+9.a. [...] 1(N14) , U4# [...] 
+9.b. 1(N34) 1(N14) [...] , [NE~a] 
+9.c. 1(N34) 1(N14) , GUN3~a 
+9.d. 1(N34) 4(N14) , GI GI6 
+9.e. 2(N34) 9(N01) , ZATU749~c 
+3.a. 3(N14) 6(N01) , UR3~a3 
+3.b. 1(N14) 3(N01) , SZUBUR 
+1.a. 1(N01) , DUG~b 
+1.b. 2(N01) , TUG2~a 
+1.c. , SZA3~a1 |GISZ.TE| A NUN~a GI4~a UNUG~a MURUB2 SZITA~a1 
+164103	1.a1. 2(N14) , HAL DUR2 LA2 ERIM~a 
+1.a2. 3(N14) , |U4x1(N57)| GISZGAL 
+1.b. , EN~a DUG~a AB~b ZATU686~b 
+2.a. 1(N01) , ZATU764 SIG EZEN~b AN MUSZ3~a 
+2.b. 4(N14) , 
+1.a. [...] 1(N01) , X [...] 
+1.b. , E2~a BIR3~a 
+1.a. 5(N01)# [...] , [...] 
+1.b. , E2~a AN KI 
+1.a. 5(N01) , ENKUM 
+1.b. , AL BU~a KA~a 
+1.a. 1(N34) , UDU~a DUB~a 
+1.b. 2(N14) , |U4x1(N57)| BAR 
+2.a. 1(N01) , E2~a X 
+2.b. , MUD NUN~a IB~a 
+1.b. [...] , X IB~a [...] 
+2.a. [...] , SAL? 
+2.b. , GA~a SANGA~a 
+3.a. [...] , KISZ X 
+3.b. , SUG5 LA2 
+5.a. 2(N14) , BIR3~a TE HI PA~a? GIBIL SU~a NUN~a 
+164125	5.b1. , NAMESZDA LAGAB~b 
+5.b2. , LAGAB~b SANGA~a GAL~a 
+1.a. 2(N14) 2(N01) , X DUG~c SZAKIR~c ZATU752 
+164129	1.b1. 1(N14) 9(N01) , BA 
+1.b2. 3(N01) , GI 
+1.c. , ZATU648 GU7 
+1.a. [...] , GI6 KAR2~a NUN~a [...] 
+1.b. [...] , GA~a [...] 
+1.a. 2(N34)# 2(N14) , DUB~a# UDU~a 
+1.b. 2(N14) , |U4x1(N57)| BAR 
+3.a. 1(N14) [...] , X [...] 
+164138	3.b1. 8(N01) , [...] 
+1.a. [...] , KISIM~a# [...] 
+164141	1.b1. [...] 2(N01)# , SZA# |U4x2(N01)| SZU 
+1.b2. 1(N08) , X |GA~a.ZATU753| 
+3.a. 2(N01)# , KISIM~a# [...] 
+164145	3.b1. 1(N01)# , [...] 
+164147	1.a1. 2(N01) , BA 
+1.a2. 2(N01) , KU3~a 
+1.b. , SZELU PAP~a 
+2.a. [...] 2(N01)# , ZATU752# [...] 
+164152	2.b1. , SZIM~a |KA2xLAM|? 
+2.b2. , DANNA DUG~a 
+2.b3. , X X 
+1.a. [...] , [GI6] KAR2~a# NUN~a [...] 
+1.b. 1(N01) [...] , GI [...] 
+2.a. 3(N01) , [GI6] KAR2~a# [NUN~a ...] 
+164159	2.b1. 4(N01) , BA KU3~a 
+2.b2. 2(N01)# [...] , [GI] KU3~a# [...] 
+164162	1.a1. 4(N01) , USZ~a BARA2~a 
+1.a2. 4(N01) , USZ~a BARA2~a 
+1.b. [...] 3(N01)# , SZE3# UDU~a# 
+2.a. 1(N01) , ZATU764 
+2.b. 4(N14) , SIG2~a3? 
+1.a. [...] 3(N01) , [...] 
+1.b. 1(N14) , |U4x1(N57)| BAR 
+2.a. 1(N01) [...] , SU~a NUN~a EN~a NANNA~a 
+164171	2.b1. 1(N57) , KU6~a 
+2.b2. 1(N01) , TUR3~a GAL~a |GISZ3~a&GISZ3~a| 
+1.a. [...] , [...] 
+1.b. [...] , [...] 
+2.a. 1(N01) , BU~a? LUGAL 
+2.b. , SZITA~a1 BU~a 
+2.a. 2(N01) , ERIM~a MUSZEN NUNUZ~a1 
+2.b. , EN~a NANNA~a 
+1.a. [...] , X SUG 
+164181	1.b1. [...] , X HI 
+1.b2. , SANGA~a 
+1.a. [...] , [...] KA~a X 
+1.b. [...] 1(N01)# , X [...] 
+1.a. 1(N14) 5(N01) , UDU~a BA 
+1.b. 4(N01) [...] , |U4x1(N57)| BAR 
+1.a. [...] , UDU~a [...] 
+1.b. [...] , [|U4x1(N57)| BAR] 
+2.a. 1(N01) , BA? TUG2~a? SIG NIN NUN~a SIG7 
+2.b. , GA~a SANGA~a X 
+1.a. [...] , [...] 
+1.b. 3(N01)# [...] , [...] 
+1.a. 1(N34) , UDU~a DUB~a 
+1.b. 1(N14) , |U4x1(N57)| BAR# 
+1.a. [...] 2(N01) , X [...] 
+1.b. 1(N34) 5(N14) [...] , [...] 
+1.a. [...] 1(N14)# 6(N01) , UDU~a# [...] 
+1.b. 6(N01) , |U4x1(N57)| BAR 
+1.a. [...] , [...] 
+1.b. 5(N01)# , |U4x1(N57)| BAR 
+1.a. [...] , [...] 
+1.b. [...] , [...] 
+2.a. [...] , NA2~a#? ZATU753 [...] 
+2.b. , I GAN~c |U4x1(N01)|? 
+1.a. [...] , X X U2~a [...] 
+164207	1.b1. [...] , X BAR [...] 
+1.b2. , NAR NAGA~a [...] 
+4.a. [...] , [...] 
+4.b. , 1(N04) X 
+5.a. [...] , 1(N04) AB~a? 
+5.b. , SZU 
+8.a. [...] , U2~a 
+8.b. [...] , |SILA3~axGARA2~a| 
+164216	8.c1. [...] , AN NIN [...] 
+8.c2. , SZA SZU 
+8.c3. , HAL E2~a BA 
+8.c4. , EN~a BA [...] 
+9.a. 2(N01) , |SILA3~axGARA2~a|? 
+164222	9.b1. , BAD3~b2 
+9.b2. , ME~a 
+3.a. 3(N01)# , X [...] 
+3.b. , [...] 
+3.c. [...] , [...] 
+6.a. 1(N01) , NA2~a |U4x1(N01)| 
+6.b. 9(N01) , GAN~c [...] 
+164230	1.a1. [...] , |ZATU651xEN~a| [...] 
+1.a2. [...] , GU4 [...] 
+1.a3. [...] , SZITA~a1 [...] 
+1.b. , EN~a DUG~a AB~b [ZATU686~a] 
+2.a. 4(N01)# [...] , [...] 
+164236	2.b1. 1(N57) , [...] 
+2.b2. 1(N57) , NAMESZDA 
+2.b3. 1(N57) , E2~a# NUN~a [...] 
+2.b4. 1(N57) , HI E2~a NUN~a# 
+3.a. 3(N01)# , X [...] 
+164242	3.b1. 1(N57) , MAR~a [...] 
+3.b2. 1(N57) , HI AN KI NUN~a 
+3.b3. 1(N57) , NAMESZDA 
+11.a. 1(N01) , U2~a 
+11.b. 1(N34) , SZIM~a |SILA3~ax1(N57)|? [...] 
+1.a. 1(N08) , U2~a SUKKAL 
+1.b. 3(N14) , BA 
+164250	3.a1. [...] , [...] 
+3.a2. 1(N01) , KU3~a 
+164253	1.a1. 1(N01) , TUG2~a 
+1.a2. 1(N14) , 
+1.b. , NAR E2~a HAL U2~b 
+164257	1.a1. 1(N01) , TUG2~a 
+1.a2. 1(N14) , 
+1.b. , NIM~b2 
+1.a. 3(N01) , SAL |GA2~bxDUB~a| 
+164262	1.b1. [...] , EN~a# [...] 
+1.b2. 2(N01) , BAR [...] 
+2.a. 1(N01) , EN~a KID~b NAR SI 
+2.b. , X NAR#? [...] 
+164267	1.a1. [...] , KU~b1 GARA2~a 
+1.a2. 4(N01) [...] , GARA2~a [...] 
+1.b. , IR11 
+2.a. [...] , SZAKIR~c ZATU752 GARA2~a [...] 
+2.b. 6(N01) , 
+1.a. 5(N14) , UDU~a [...] 
+1.b. 1(N14) , |U4x1(N57)| BAR# 
+164275	1.a1. [...] , [...] SUHUR#? 
+1.a2. [...] 1(N14)# , [...] 
+1.b. , PU2? [...] 
+2.a. [...] X 4(N01) , [...] NUN~a# 
+2.b. , |ZATU737xSAL| DU 
+1.a. 2(N14) 5(N01) , DUB~a UDU~a 
+1.b. 5(N01) , |U4x1(N57)|# BAR 
+1.a. 3(N01) , |U4x1(N57)| BAR 
+1.b. , SI SZE~a#? [...] 
+1.a. [...] , X UDU~a# BA 
+1.a. [...] 1(N01)# , BARA2~a 
+1.b. [...] 4(N14)# , SZE3 UDU~a 
+1.a. 2(N14)# , UDU~a BA 
+1.b. 4(N01) , |U4x1(N57)| BAR 
+164290	1.a1. 1(N14) 3(N01) , DUG~c 
+1.a2. 1(N01) , KU3~a 
+1.b. , DUG~c [...] 
+164294	1.a1. 1(N01) , DUG~c |LU2xGESZTU~c3| AN KAR2~a NA~a MUSZ3~a 
+1.a2. 1(N01) , SZU X [...] 
+1.b. , EN~a DUG~a AB~b ZATU686~b 
+1.a. 1(N01) , X DA~a IB~a 
+1.b. [...] , [...] X IB~a 
+2.a. 1(N14) 5(N01) , X [...] 
+2.b. 4(N01) 2(N39~a) 1(N24) [...] , [...] 
+1.a. 3(N01) [...] , SILA4~c 
+164303	1.b1. 4(N01) [...] , [...] 
+1.b2. 4(N01) [...] , [...] 
+4.a. 2(N14) [...] , [...] 
+164307	4.b1. 1(N14) 6(N01) [...] , [...] 
+4.b2. 3(N01) [...] , [...] 
+164310	5.a1. , HI BU~a 
+5.a2. , BULUG3? 
+5.b. , SZE~a MUL 
+2.a. , NUN~a#? AB2# SANGA~a 
+2.b. , HI# BU~a# 
+3.a. 1(N01) [...] , [...] 
+3.b. 6(N01) [...] , UDU~c [...] 
+1.a. [...] 1(N34)#? , SZAKIR~c ZATU752 ZATU648# [...] 
+1.b. [...] 2(N02) , GI# [...] 
+1.a. [...] , [...] 
+1.b. 4(N01) , SZEN~a ZATU647 
+164323	1.c1A. , NAGA~a TAK4~a 
+1.c1B. , |U4x3(N57)| A 
+1.c2. , KASZ~a 4(N58) 
+164327	1.c3A. , MUSZ3~a EN~a AN 
+1.c3B. , X [...] 
+1.a. [...] , [...] 
+1.b. 1(N01) [...] , 
+2.a. [...] , [...] 
+2.b. 2(N01) , 
+3.a. [...] , [...] 
+3.b. 1(N01) , 
+1.a. 2(N14) 3(N01) [...] , [...] 
+1.b. 1(N45) 1(N14) [...] , [...] 
+164338	1.a1. [...] , [...] 
+1.a2. 1(N01) , 
+1.b. , NUN~a DU? [...] 
+164342	2.a1. [...] , [...] 
+2.a2. 1(N01) , 
+2.b. , TUR3~a#? [...] 
+164346	3.a1. 1(N01) , 
+3.a2. 1(N01) , 
+3.a3. 1(N01) , 
+3.b. , KAB BA? AB2 [...] 
+2.a. 4(N34)# [...] , [...] 
+164352	2.b1. 3(N34) [...] , BA 
+2.b2. 1(N14) [...] , BA 
+2.b3. [...] , AB2 [...] 
+1.a. [...] , MUSZ3~a# [...] 
+1.b. [...] , SZU# [...] 
+2.a. [...] 3(N14)# , [...] 
+2.b. 6(N01)# , [...] 
+1.a. [...] , [...] 
+1.b. 1(N01) , UDU~a 
+1.a. [...] , [...] 
+1.b. [...] , X [...] 
+2.a. [...] , NAM2 KAB SZITA~a1 [...] 
+2.b. , 3(N57) [...] 
+2.a. 2(N01) [...] , [...] 
+164367	2.b1. 2(N01) , DUG~c 
+2.b2. 2(N01) , |DUG~cx1(N57)| 
+1.a. 2(N01) , SILA3~a# MA# X X 
+1.b. 1(N01) [...] , HASZHUR [...] 
+2.a. 2(N01) , X MA GI6? U4 U2~a 
+2.b. 2(N01) , X GA~a# 
+3.a. 1(N01) , [...] 
+3.b. 1(N01) , SILA3~a# HASZHUR 
+1.a. [...] , [...] 
+1.b. [...] , [...] URI3~a# SZE~a# 
+1.c. [...] , [...] PA~a 
+5.a. 5(N01) , TE 
+5.b. 1(N01) , EN~a 
+6.a. 3(N01) [...] , [...] 
+6.b. 1(N01) [...] , [...] 
+2.a. 2(N01) , X 
+2.b. , EN~a X X [...] 
+3.a. 1(N01) , GI 
+3.b. [...] , [...] 
+1.a. [...] , GI [...] 
+1.b. 6(N01) , 
+2.a. [...] , UDU~a [...] 
+2.b. 2(N01) [...] , 
+2.a. [...] 8(N34)# , TUR NUNUZ~b2 E2~a [...] 
+1.a. 1(N01) [...] , GA2~a1 SIG2~a1 ZATU647 
+1.b. 2(N14) , A 
+2.a. [...] , ESZDA SIG2~a1# 
+2.b. 2(N14) , X 
+3.a. [...] , SIG2~a1 [...] 
+3.b. 2(N14) , 
+1.a. 1(N01) , EN~a AMAR 
+1.b. 2(N14) , X 
+2.a. , SIG2~a1 
+2.b. 3(N14) , A 
+1.a. [...] , X [...] 
+1.b. 4(N36)# 4(N19)# [...] , [...] 
+2.a. 1(N46) 2(N19) 1(N04) [...] , UR5~a HI@g~a# [...] 
+2.b. [...] 1(N04)# , [...] 
+1.a. 1(N01) , ERIN SAG 
+164407	1.b1. 1(N08) , ABGAL#? 
+1.b2. 1(N08) , X X 
+2.a. [...] , TUG2~a NIMGIR#? LA2 
+2.b. 3(N01) , BAD 5(N57) 
+1.a. 4(N34) , BA U2~a ZATU648 
+1.b. 2(N34)# [...] , SUHUR# [...] 
+2.a. 6(N34) 1(N14) 5(N01) , SI U4 BA 
+2.b. 3(N34) 3(N01)# [...] , SUHUR# [...] 
+1.a. [...] , MUSZ3~a [...] 
+1.b. [...] , UNUG~a [...] 
+4.a. 3(N01) , EN~a |U4x1(N57)| SZU 
+164419	4.b1. , 3(N57) |AMA~axE2~a|? 
+4.b2. , TAK4~a SZA3~a2 A 
+4.b3. , U8 KAB# 
+1.a. 4(N01) , NAM2 DI UDU~a SZITA~a1 
+1.b. 5(N01) , SZITA~a1 SUHUR 
+2.a. 4(N01) , NAM2 PA~a A 
+2.b. 5(N01) , SZITA~a1 
+3.a. 1(N01) , ME~a NUN~a 
+3.b. 4(N01) , SZITA~a1 
+4.a. 1(N01) , KALAM~a PA~a 
+4.b. 1(N01) , SZITA~a1# 
+5.a. 1(N01) , ADAB# [...] 
+1.a. [...] , X X [...] 
+1.b. 2(N14) , 
+2.a. [...] , SZITA@g~a#? [...] 
+2.b. 2(N14)# , 
+1.a. [...] , [...] 
+1.b. [...] , [...] UNUG~a 
+2.a. [...] , [...] 
+2.b. , UNUG~a# [...] 
+1.a. 1(N01) , 1(N24) U4 PAP~a 
+1.b. 2(N01) , X [...] 
+2.a. 3(N01) [...] , SZITA~a1 UR~a? 
+2.b. 2(N01) , |SILA3~axSZU| 
+1.a. 1(N34) [...] , [...] 
+2.a. 3(N34) , KASZ~b 
+2.b. [...] , [...] 
+3.a. 1(N34) 3(N14) , |DUG~axU2~b| 
+3.b. [...] , [...] 
+4.a. 2(N14) [...] , [...] 
+1.a. [...] 2(N01)# , [...] 
+164451	1.b1. , PAP~a BU~a NAM2 
+1.b2. , PAP~a X 
+1.b3. , DU SZITA@g~a 
+2.a. 1(N14)# [...] , [...] 
+164456	2.b1. , APIN~a# [...] 
+1.a. , 1(N57) TE? GIR3~c# 
+1.b. , |1(N58).BAD~a| DIN 
+1.a. 1(N14) 7(N01) , AL 
+164461	1.b01. , (DA~a# [...] KU6~a)a 
+1.b02. , (KISZIK~a SZUBUR NA~a)a 
+1.b03. , (BU~a NA~a MUD)a 
+1.b04. , (MUD)a 
+1.b05. , (|GI&GI| 3(N57))a 
+1.b06. , (ZATU819? X)a 
+1.b07. , (EZINU~a? EN~a)a 
+1.b08. , (BARA3 DU)a 
+1.b09. , (GI6? LAM~b SZU)a 
+1.b10. , (SAL E2~a)a 
+1.b11. , (BU~a SAL)a 
+1.b12. , (SZUBUR)a 
+1.b13. , (DIM~a)a 
+1.b14. , (KAL~b2 NIMGIR)a 
+1.b15. , (|GISZxSZU2~a| NIMGIR)a 
+1.b16. , (LA2 SUM~b)a 
+1.b17. , (URI3~a ZATU773~a)a 
+2.a. 2(N01) , EN~a TUR 
+164480	2.b1. , (AN EN~a)a 
+2.b2. , (SI UR~a)a 
+3.a. 3(N01) , |U4x1(N57)| TUR 
+164484	3.b1. , (UDU~a E2~a PIRIG~b1?)a 
+3.b2. , (LAL2~a BU~a)a 
+3.b3. , (3(N57) KI DU)a 
+4.a. 1(N01) , |U4x2(N57)| TUR 
+4.b. , (HI DU TA~c)a 
+5.a. 9(N01) , |U4x3(N57)| TUR 
+164491	5.b1. , (DIN E2~a)a 
+5.b2. , (GIR3~c NI~a)a 
+5.b3. , (SZUBUR RAD~a MUSZEN)a 
+5.b4. , (1(N57)? EN~a NIM~b1)a 
+5.b5. , (PAP~a)a 
+5.b6. , (TUR3~a U2~b? DU)a 
+5.b7. , (AN UB HI)a 
+5.b8. , (TAK4~a A)a 
+5.b9. , (U2~b# [...])a 
+1.a. 1(N14) 9(N01) , AL 
+164502	1.b01. , (GUL KITI)a 
+1.b02. , (ESZDA AN)a 
+1.b03. , (NA~a SZUBUR KISZIK~a)a 
+1.b04. , (EN~a PAP~a)a 
+1.b05. , (GI DIM~a)a 
+1.b06. , (EN~a TUR#)a 
+1.b07. , (E2~a SZUBUR)a 
+1.b08. , (|GI&GI| 3(N57))a 
+1.b09. , (AMA~a AN EN~a)a 
+1.b10. , (EN~a NA~a NIM~b2)a 
+1.b11. , (MA MA)a 
+1.b12. , (EN~a NA~a NIM~b2)a 
+1.b13. , (GI# [...] NA~a)a 
+1.b14. , (AN KI)a 
+1.b15. , (EN~a NUNUZ~a0? GA2~a1?)a 
+1.b16. , (LA2 TE)a 
+1.b17. , (KASZ~c X)a 
+1.b18. , (SZU2 URI3~a)a 
+1.b19. , (TU~a EN~a# [...])a 
+2.a. 6(N01) , TUR EN~a 
+164523	2.b1. , (KASZ~c AN NA~a ME~a)a 
+2.b2. , (|(HIx1(N57))&(HI+1(N57))| EN~a)a 
+2.b3. , (PAP~a)a 
+2.b4. , (GIR3@g~b 3(N57))a 
+2.b5. , (UR~a? URI3~a)a 
+2.b6. , (X [...])a 
+3.a. 4(N01) , |U4x1(N57)| TUR 
+164531	3.b1. , (SZU PAP~a)a 
+3.b2. , (EN~a# [...])a 
+3.b3. , (EN~a#? X)a 
+3.b4. , (AN ZATU735~a? DU)a 
+3.b5. , (ERIM~a [...])a 
+4.a. 1(N14) 3(N01) , |U4x3(N57)| TUR 
+164538	4.b02. , (TAK4~a BARA2~a)a 
+4.b03. , (SZU2 PAP~a)a 
+4.b04. , (E2~a LAM~b MUD)a 
+4.b05. , (|BU~a+DU6~a| GUL)a 
+4.b06. , (AN TAK4~a# U8#?)a 
+4.b07. , (GA2~a1 EN~a GU)a 
+4.b08. , (3(N57) E2~a# [...])a 
+4.b09. , (X [...])a 
+4.b10. , ([...])a 
+4.b11. , ([...])a 
+4.b12. , ([...])a 
+4.b13. , ([...])a 
+1.a. 3(N01)# , [...] UDU~a#? LU2 
+164552	1.b1. , ([...])a 
+1.b2. , ([...])a 
+1.b3. , (SAL ZATU751~a SAL ME~a#? X)a 
+2.a. 3(N01) , SANGA~a KALAM~b DU PAP~a 
+164557	2.b1. , (|GA2~a2x3(N57)|)a 
+2.b2. , (SI KISAL~b1 PAP~a)a 
+2.b3. , (HI UR5~a ZATU628~a MUSZEN SAL)a 
+3.a. 2(N01) , EN~a PAP~a SANGA~a 
+164562	3.b1. , (1(N58) EN~a AN DUR2 HI)a 
+3.b2. , (1(N04) SI)a 
+4.a. 7(N01) , X [...] 
+164566	4.b1. , (UR~a KU6~a RAD~a)a 
+4.b2. , (DIM~a)a 
+4.b3. , (X X)a 
+4.b4. , ([...])a 
+4.b5. , ([...])a 
+4.b6. , ([...])a 
+4.b7. , ([...])a 
+1.a. [...] , [...] SI#? E2~b#? X NI~a 
+1.b. , ([...] ZATU751~a 3(N57) DUR2)a 
+164576	2.a1. 5(N01)# , A# AN# 
+2.a2. 1(N06)#? , 
+2.b. , GISZ3~b 
+4.a. 1(N01) , NA~d PAP~a 
+4.b. 1(N01) , X 
+3.a. 1(N01) , TAK4~a A GU
+3.b. 1(N01) , 
+1.a. 3(N01) , BA 2(N57) 
+164585	1.b1. , (A SAG)a 
+1.b2. , (TA~d DU)a 
+1.b3. , (EN~a URU~a1 2(N57))a 
+1.c. 2(N14) 3(N08) , U4 
+2.a. 8(N01) , 2(N57) X [...] 
+164591	2.b1. , (3(N57) SAL)a 
+2.b2. , (3(N57) KU6~a# RAD~a#)a 
+2.b3. , (SZUBUR)a 
+2.b4. , (3(N57)? SAL)a 
+2.b5. , (BU~a GI)a 
+2.b6. , (TUR BU~a)a 
+2.b7. , (X X IB~a DU)a 
+2.b8. , (NA~a EN~a X UDU~a)a 
+2.c. 1(N14) [...] , U4# 
+3.a. [...] , [...] 
+3.b. , [...] 
+3.c. 1(N14)# 2(N08)# [...] , U4 
+1.a. 1(N01) , BAR KUR~a 
+1.b. , [...] MUSZEN# A GI# 
+2.a. 1(N01) , |(UDU~axTAR)~b| EN~a# 
+2.b. , U4 SZUBUR 
+3.a. , |(UDU~axTAR)~b| LAGAR~a 
+3.b. , U4 SZUBUR 
+164610	3.c1. , RAD~a@g 
+3.c2. , EN~a USZ~a# 
+1.a. 1(N01) , BAR 
+1.b. , 3(N58) E2~b 
+2.a. , E2~b TA~c HI SAL GURUSZ~a 
+164616	2.b1. , RAD~a 
+2.b2. , ZATU825 AB2 
+5.a. 1(N20) 5(N05) , UNUG~a GI 
+5.b. 4(N03) , 
+6.a. 4(N05) , UNUG~a TUR@g AB~a 
+6.b. 2(N03) , 
+2.a. 1(N04)? , HI@g~a UNUG~a GI 
+2.b. 3(N02)#? , 
+4.a. 2(N19) , HI@g~a 3(N57) |EN2.E2~b| 
+4.b. 3(N01) , UH? 
+7.a. 1(N01) , SI X RU SZE~a BU~a 
+7.b. , 1(N08~b) 
+1.a. [...] , [...] 
+164630	1.b1. , [...] 
+1.b2. , TUR 
+2.a. 6(N01) , EN~a 
+164635	2.b1A. 2(N01)# , NUN~a# ZATU687 EN~a# EN~a#? TUR 
+164637	2.b1B1. , (EN~a# PAP~a#)a 
+2.b1B2. , (3(N57) GAN2)a 
+164640	2.b2A. 4(N01)# , EN~a# X KI ZATU687# AN# 
+164642	2.b2B1. , (EN~a |SZU2.E2~b|)a 
+2.b2B2. , (BU~a SZU)a 
+2.b2B3. , (SAL BU~a)a 
+2.b2B4. , (EN~a HI KASZ~c)a 
+3.a. , UMUN2 
+3.b. , EN~a PAP~a 
+164649	3.c1. , UMUN2 KU3~a 
+3.c2. , HI KI 
+1.a. 1(N14) , RU 2(N57) KI 
+1.b. , |U4.(1(N14).5(N08))| 
+2.a. 3(N01) , 1(N57) 
+2.b. , |U4.5(N08)| 
+3.a. 1(N14) 1(N01) , 2(N57) URU~a1 
+3.b. , |U4.(1(N14).5(N08))| 
+4.a. 7(N01) , 2(N57) BAR 
+4.b. , |U4.7(N08)| 
+1.a. 1(N01) , DIM~a 
+164661	1.b1. , (DAH)a 
+1.b2. , (DUR2 SZE3?)a 
+2.a. 1(N01) , EN~a PAP~a 
+164665	2.b1. , (EN~a AN MUSZ3~a#)a 
+2.b2. , (ISZ~b BU~a)a 
+3.a. 1(N01) BAHAR2~b PAP~a 
+164669	3.b1. , (SZUBUR)a 
+3.b2. , (ISZ~b BU~a)a 
+164672	3.a1. [...] 3(N14)# , NUNUZ~a1# 
+3.a2. 1(N01) , UDU~a 
+3.b. , BAN~b DUB~b 
+164676	5.a1. 2(N01) , HI@g~a 
+5.a2. 2(N34) , 
+5.b. , AL 
+11.a. 2(N34) , NUNUZ~a1 E2~b SAR~a 
+164681	11.b1. 2(N01) [...] , UDU~a 
+11.b2. 1(N01) , TUN3~a 
+1.a. 3(N01) , BA 
+164685	1.b1. , (MUSZEN)a 
+1.b2. , (EN~a 1(N04))a 
+1.b3. , (EN~a NUNUZ~c)a 
+2.a. 7(N01)# , GI 
+164690	2.b1. , (ZATU659)a 
+2.b2. , (APIN~b)a 
+2.b3. , (ZATU659)a 
+2.b4. , (EN~a |GISZxSZU2~a|)a 
+2.b5. , (TUR SZU)a 
+2.b6. , (SZA3~a1 GI4~a)a 
+2.b7. , (NIMGIR)a 
+3.a. 3(N01) , PA~a KU3~a A 
+164699	3.b1. , (GISZ3~b UR~a)a 
+3.b2. , (U8 ME~a)a 
+3.b3. , (KASZ~c MUSZEN GI)a 
+4.a. 2(N01) , EN~a GI SZAGAN 
+164704	4.b1. , (DU7 ZATU686~b)a 
+4.b2. , (SZA3~a1 A TAK4~a)a 
+5.a. 1(N01) , MUN~a1 KU3~a E2~a 
+5.b. , (GISZ AN ZATU773~a?)a 
+6.a. 1(N01) , NUN~a MU MAH~a 
+6.b. , (EN~a GA2~a1 GU)a 
+7.a. 1(N01) , KALAM~a SZU 
+7.b. , (SZUBUR)a 
+8.a. 2(N01) , SI NUN~a PA~a 
+164714	8.b1. , (AB~a KU6~a)a 
+8.b2. , (NA~a MUSZEN GI)a 
+9.a. 1(N01) , U2~b A 
+9.b. , (EN~a ZATU697~c)a 
+10.a. 5(N02) , 
+164720	10.b1. , (BU3 DUR2 A)a 
+10.b2. , (KASKAL# SZUBUR#)a 
+10.b3. , (KASZ~c#? X)a 
+10.b4. , (EN~a# SAG#?)a 
+10.b5. , (X EN~a#?)a 
+1.a. 2(N01) , BA 
+164727	1.b1. , (KASZ~c# [...])a 
+1.b2. , (ME~a? [...])a 
+2.a. 2(N01) , GI 
+164731	2.b1. , (BU~a PAP~a)a 
+2.b2. , (3(N57) RU)a 
+3.a. 1(N01) , TUG2~a NU |SILA3~axSZU2| A 
+3.b. , (BAN~b PAP~a)a 
+4.a. 1(N02) , 
+4.b. , (EN~a PAP~a)a 
+1.a. 2(N14)# 6(N01)# , 2(N57) 
+164739	1.b1. 3(N01)# , [BA] 
+1.b2. 7(N01)# , GI# 
+1.b3. 1(N14) 1(N01) , EN~a 
+1.b4. 5(N02) , 
+2.a. 6(N01) , 1(N57) 
+164745	2.b1. 2(N01) , BA 
+2.b2. 2(N01) , GI 
+2.b3. 1(N01) , [KU3~a E2~a] 
+2.b4. 1(N02)# , 
+1.a. 4(N01) , EN~a 
+164751	1.b1. , (ZATU795)a 
+1.b2. , (MUSZEN ZATU659)a 
+1.b3. , (KAK~a? AB~a)a 
+1.b4. , (EN~a GA2~a2)a 
+1.a. 3(N01) , EN~a 
+164757	1.b1. , ([...])a 
+1.b2. , ([...] AN ME~a#? E~a#?)a 
+1.b3. , (ZATU659)a 
+1.a. 5(N02)# , RU# KI 
+164762	1.b1. , (NI~a GIR3~c)a 
+1.b2. , (UB SZUBUR)a 
+1.b3. , (GAR U2~a)a 
+1.b4. , (EN~a MASZ BU~a)a 
+1.b5. , (U2~b RU)a 
+2.a. 4(N02) , HI KI 
+164769	2.b1. , (NIR~a ZATU773~a)a 
+2.b2. , (BU~a GI)a 
+2.b3. , (NI~a ZATU811 SZU)a 
+2.b4. , (UD5~a)a 
+3.a. 5(N02) , SIG RAD~a 
+164775	3.b1. , (BU3 A)a 
+3.b2. , (KASKAL SZUBUR)a 
+3.b3. , (1(N57) HI MUSZEN)a 
+3.b4. , (KASZ~c ZATU823)a 
+3.b5. , (EZEN~b EN~a)a 
+4.a. 2(N02) , URU~a1 AN MUSZ3~a 
+164782	4.b1. , (TAK4~a A SZA3~a1)a 
+4.b2. , (SAR~a EN~a)a 
+5.a. 3(N02) , ZATU795 LAM~b 
+164786	5.b1. , (LU2 AN ZATU773~a)a 
+5.b2. , (UD5~a)a 
+5.b3. , (AB~b GU4 EN~a)a 
+1.a. 2(N02) , BU~a SI TE KITI 
+164791	1.b1. , (EN~a MASZ KAL~b2 BU~a)a 
+1.b2. , (MUSZEN RAD~a)a 
+1.a. 5(N01) , EN~a PA~a E2~b 
+1.b. 8(N01) , SAL 
+2.a. 4(N01) , URU~a1 PA~a 
+2.b. 1(N14) 3(N01) , SAL 
+3.a. 7(N01) , TAK4~a SAG 
+3.b. 3(N01) , SAL 
+4.a. 3(N01) , NAR A 
+4.b. 2(N01) , SAL 
+5.a. 1(N01) , EN~a HI SZA3~a1 
+5.b. 5(N01) , SAL 
+6.a. 3(N01) , UR~a 
+6.b. 3(N01) , SAL 
+7.a. 2(N01) , IDIGNA BU~a SZE~a 
+7.b. 3(N01) , SAL 
+8.a. 1(N01) , GAN2 HI 
+8.b. 3(N01) , SAL 
+9.a. 2(N01) [...] , IM~a# 
+9.b. 9(N01) , SAL 
+10.a. [...] , [...] X SAL 
+10.b. 5(N01) , SAL 
+2.a. 1(N01) , 3(N57) RU 
+2.b. 3(N01) , SAL 
+3.a. 5(N01) , SANGA~a 
+3.b. 8(N01) , SAL 
+4.a. 3(N01) , EN~a HAL 
+4.b. 5(N01) , SAL 
+5.a. 4(N01) , EN~a U8 A 
+5.b. 3(N01) , SAL 
+6.a. 2(N01) , |(UDU~axTAR)~b| SZA 
+6.b. 7(N01) , SAL 
+7.a. 3(N01) , UR~a GISZ3~a 
+7.b. 1(N14) , SAL 
+8.a. 2(N14) , SANGA~a TE RAD~a 
+8.b. 1(N14) 5(N01) , SAL# 
+9.a. 5(N01) , ZATU659# 
+9.b. 6(N01)# , SAL# 
+10.a. 3(N01) , |KU6~a+KU6~a|# 
+10.b. 2(N01) , SAL 
+11.a. 3(N01) , DU AB2 
+11.b. 7(N01) , SAL 
+12.a. 3(N01) , ZATU826 
+12.b. 7(N01) , SAL 
+13.a. 1(N01) , GAN2 PIRIG~b1 
+13.b. 3(N01) , SAL 
+1.a. 3(N01) , ZATU686~b#? DARA3~c? 
+1.b. 8(N01) , SAL 
+2.a. 7(N01) , RU SZUBUR 
+2.b. 6(N01) , SAL 
+3.a. 4(N01) , MASZ GI4~a 
+3.b. 4(N01) , SAL 
+4.a. 5(N01) , KA~a KASZ~c 
+4.b. 3(N01) , SAL 
+5.a. 1(N01) , KAL~b2 SZUBUR 
+5.b. 3(N01) , SAL 
+6.a. 4(N01) , ZATU795 
+6.b. 7(N01) , SAL 
+7.a. 3(N01) , E2~b PAP~a 
+7.b. 4(N01) , SAL 
+8.a. 1(N01) , URI3~a BAR 
+8.b. 3(N01) , SAL 
+9.a. 4(N01) , DUG~a GA~a 
+9.b. 1(N14) , SAL 
+10.a. 3(N01) , GIR3~c 1(N02) 
+10.b. 3(N01) , SAL 
+11.a. 1(N01) , DIM~a 3(N57) BAR TUR3~a 
+11.b. 3(N01) , SAL 
+12.a. 1(N01) , 3(N57) AMAR 
+12.b. 2(N01) , SAL 
+14.a. 3(N01) , SI KI HI 
+14.b. 8(N01) , SAL 
+15.a. 1(N01) , SZU SZAGAN SZUBUR 
+15.b. 5(N01) , SAL 
+1.a. 3(N01) , SZUBUR MU 
+1.b. 5(N01) , SAL 
+2.a. 8(N01) , DU GIR3~c BAHAR2~b 
+2.b. 3(N01) , SAL 
+3.a. 2(N01) , SAL KI HI SI 
+3.b. 2(N01)? , SAL 
+4.a. 4(N01) , 3(N57) KASKAL 
+4.b. 6(N01) , SAL 
+5.a. 4(N01) , ZATU659 BAHAR2~b 
+5.b. 6(N01) , SAL 
+6.a. 4(N01) , ZATU659 X DI ZATU795 
+6.b. 4(N01) , SAL 
+7.a. 5(N01) , DIN KU6~a HAL 
+7.b. 7(N01) , SAL 
+8.a. 2(N01) , U4 
+8.b. 9(N01) , SAL 
+9.a. 2(N01) , KASKAL SZUBUR 
+9.b. 3(N01) , SAL 
+10.a. 2(N01) , NU SZUBUR 
+10.b. 3(N01) , SAL 
+11.a. 1(N01) , BAR PAP~a RU 
+11.b. 2(N01) , SAL 
+12.a. 3(N01) , HI GAN2? PA~a 
+12.b. 3(N01) , SAL 
+1.a. 1(N01) , SZIDIM AN BA GI 
+1.b. 2(N01) , SAL 
+2.a. 1(N01) , UR? BU~a 
+2.b. 5(N01) , SAL 
+3.a. 2(N01) , KU6~a ERIM~a 
+3.b. 2(N01) , SAL 
+4.a. 2(N01) , NIMGIR ZATU703 
+4.b. 6(N01) , SAL 
+5.a. 1(N01) , TI@t MES 
+5.b. 1(N01) , SAL 
+6.a. 3(N01) , AB~a TE DU 
+6.b. 4(N01) , SAL 
+8.a. 1(N01) , ZATU659 KU6~a 
+8.b. 2(N01) , SAL 
+9.a. 1(N01) , BU~a KU6~a SZE~a 
+9.b. 5(N01) , SAL 
+10.a. 1(N01) , ZATU795 SZUBUR 
+10.b. 1(N01) , SAL 
+12.a. 1(N01) , KU~b1 MUN~a1 
+12.b. 1(N01) , SAL 
+2.a. 2(N01) , SU~a PAP~a EN~a SUKKAL NUNUZ~c 
+2.b. 1(N01) , BAR 
+3.a. 1(N01) , SU~a PAP~a DU@g 
+3.b. 1(N01) , BAR 
+6.a. 1(N01) , SU~a PAP~a UR~a 
+6.b. 1(N01) , BAR 
+8.a. 2(N01) , EN~a SZE3 KUR~a DA~a DIM~a 
+8.b. 1(N01) , BAR 
+6.a. 3(N01) , BAR NE~a BA NA~a 
+6.b. 5(N01) , SIG2~b KUR~a 
+1.a. 1(N01) , SU~a PAP~a PAP~a E2~b 
+1.b. 1(N01) , BAR 
+3.a. 3(N01) , SU~a PAP~a AN 3(N57) 
+3.b. 1(N01) , BAR 
+5.a. 1(N01) , SU~a PAP~a SZUR2~b BU~a 
+5.b. 2(N01) , BAR 
+7.a. 2(N01) , SU~a PAP~a ZATU628~a ZATU647 
+164927	7.b1. 4(N01) , BAR 
+7.b2. 1(N01) , KUR~a SIG2~b? 
+1.a. 1(N14) 6(N01) , EN~a USZ~a 
+164931	1.b1. 1(N14) 3(N01) , DUB~a SU~a PAP~a 
+1.b2. 3(N01) , BAR 
+2.a. 7(N01) , GISZIMMAR~b1 1(N57) 
+164935	2.b1. 3(N01) , SU~a PAP~a 
+2.b2. 4(N01) , BAR 
+3.a. 6(N01) , EN~a IB~a 
+164939	3.b1. 1(N01) , SU~a PAP~a 
+164941	3.b2A. 5(N01) , KUR~a 
+164943	3.b2B1. 2(N01) , EN~a SZE3 KUR~a 
+3.b2B2. 3(N01) , DUB~a KUR~a 
+6.a. 1(N14) 2(N01) , SU~a PAP~a ZATU825 AB2 
+164947	6.b1. 1(N01) , DUB~a PAP~a SU~a 
+6.b2. 4(N01) , BAR 
+6.b3. 2(N01) , X 
+6.b4. 5(N01) , KUR~a X 
+1.a. 1(N34) 3(N01) , PAP~a SU~a LA2 ALAN~c UNUG~a KITI RAD~a RAD~a@g 
+164953	1.b1. 3(N14) 3(N01) , DUB~a PAP~a SU~a 
+1.b2. 1(N14) 8(N01) , BAR 
+1.b3. 1(N14) 2(N01) , KUR~a 
+1.b4. 2(N14) 8(N01)? , DUB~a E2~b 
+2.a. 1(N14) 3(N01) , SU~a PAP~a |AB~axSUKKAL| 
+164959	2.b1. 9(N01) , DUB~a SU~a PAP~a 
+2.b2. 4(N01) , BAR 
+3.a. 7(N01) , SU~a PAP~a AN E2~a? 
+164963	3.b1. 2(N01) , SU~a PAP~a 
+3.b2. 4(N01) , X 
+3.b3. 1(N01) , KUR~a X 
+1.a. 1(N34) , SZE~a 
+1.b. , SZUR2~b BU~a ERIM~a 
+1.a. 4(N01) , BAHAR2~c KU6~a HAL DIN 
+164970	1.b1. , (GIR3~c DU)a 
+1.b2. , (NAM~a KI)a 
+1.b3. , (SZUBUR RU)a 
+1.b4. , (LA2 TE)a 
+2.a. 2(N01) , ZATU659 
+2.b. , (X PA~a?)a 
+1.a. 2(N01) , DUB~a EN~a ZATU697~a 
+164978	1.b1. , (SZITA~a3 HAL BU~a)a 
+1.b2. , (PAP~a 3(N57) SU~a)a 
+2.a. 3(N01) , URU~a1 DU 
+164982	2.b1. , (KALAM~a E2~b)a 
+2.b2. , (EN~a PAP~a)a 
+2.b3. , (GIR3~c PAP~a)a 
+3.a. 2(N01) , NI~a GIR3~c 
+164987	3.b1. , (SZUBUR)a 
+3.b2. , (SAGSZU? GAL~a)a 
+4.a. 1(N01) , EN~a GA2~a1 KISZIK~a 
+4.b. , (UB ZI~a)a 
+3.a. 1(N01) , TUG2~a |AxAB2| 
+3.b. 1(N01) , [...] 
+4.a. 2(N01) , TUG2~a NI~a TUR 
+4.b. 1(N01) , MUSZEN GU 
+1.a. 9(N14) , SZE~a BULUG3 MASZ ZATU773~b 
+1.b. 1(N46) 4(N19) , 
+1.a. 9(N01)# , PAP~a SU~a 2(N57) MUN~a1 
+164999	1.b1. , ([...] SAG#)a 
+1.b2. , (AN URU~a1)a 
+1.b3. , (BU~a U2~a)a 
+1.b4. , (PIRIG~b1 E2~b UDU~a)a 
+1.b5. , (NAR A)a 
+1.b6. , (EN~a# X)a 
+1.b7. , (NE~a SZU)a 
+1.b8. , (SZUBUR)a 
+1.b9. , (EN~a PA~a)a 
+2.a. 6(N01) , PAP~a SU~a 1(N57) MUN~a1 
+165010	2.b1. , (U2~b SAG)a 
+2.b2. , (EN~a HI)a 
+2.b3. , (ZATU659)a 
+2.b4. , (ZATU832 HI)a 
+2.b5. , (|EN2.E2~b| 3(N57))a 
+2.b6. , (E2~b BU~a)a 
+2.b7. , 
+3.a. 2(N01) , IM~a 
+165019	3.b1. , (PAP~a GIR3~c)a 
+3.b2. , (IM~a AN KISAL~b1)a 
+4.a. 2(N01) , SZA SZE~a 
+165023	4.b1. , (ISZ~b ZATU832)a 
+4.b2. , (ZATU773~a UNUG~a)a 
+5.a. 3(N01)# , TUR PAP~a# [...] 
+165027	5.b1. , (GAN2 HI)a 
+5.b2. , (E2~b SI NAGA~a)a 
+5.b3. , (EN~a EZEN~b)a 
+6.a. 5(N01) , SI KI ZATU795 
+165032	6.b1. , (ZATU811 3(N57))a 
+6.b2. , (ZATU659# MUSZEN)a 
+6.b3. , (SZUBUR)a 
+6.b4. , (E2~b BAR 3(N57))a 
+6.b5. , (NIGIN EN~a TI)a 
+1.a. 2(N01) , ME~a 
+165039	1.b1. , (KASKAL SZUBUR)a 
+1.b2. , (NU SZUBUR)a 
+2.a. 3(N01) , URU~a1 PA~a BU~a 
+165043	2.b1. , (3(N57) E2~b)a 
+2.b2. , (|GA2~a1xEN~a| NUNUZ~a1)a 
+2.b3. , (SZU TUR)a 
+1.a. [...] 2(N14)# , [...] E2~a#? PA~a 
+1.b. [...] , [...] ZATU831@g# 
+2.a. 2(N01)# [...] , E~b [...] SAL# 
+2.b. 4(N34) , NUNUZ~a2 
+2.c. 1(N01) , TUN3~a 
+4.a. 7(N01) , 3(N57) |EN2.E2~b| 
+4.b. 1(N01) , AGAR2 
+6.a. [...] , [...] X 
+6.b. 3(N01)# [...] , [...] 
+1.a. 4(N14) , SAL KI SI HI? 
+1.b. 8(N01) , UDU~a 
+2.a. 1(N14) , SZA SZE~a |(UDU~axTAR)~b| 
+2.b. 2(N01) , 
+3.a. 2(N14) , NAM~a SZUBUR 
+3.b. 4(N01) , 
+4.a. 3(N14)# , EN~a DU X 
+4.b. 6(N01) , 
+5.a. [1(N14)] , [...] X 
+5.b. 2(N01) , 
+6.a. [...] , [...] 
+6.b. 2(N01)# [...] , 
+1.a. 1(N14) , LAGAB~b? KID~b#? 
+1.b. 2(N01) , 
+2.a. 1(N14) , SAL ZATU751~a 
+2.b. 2(N01) , 
+3.a. 1(N22) 3(N01) , X SAL KI HI 
+3.b. 1(N01) , 
+4.a. 1(N22) 3(N01) , ZATU628~a AN GI6 
+4.b. 1(N01) , 
+5.a. 1(N14) , GAN2 HI 
+5.b. 2(N01) , 
+6.a. 1(N14) , SZUBUR MU 
+6.b. 2(N01) , 
+7.a. 1(N14) , EN~a PA~a# 
+7.b. 2(N01) , 
+8.a. [1(N14)] , [...] X 
+8.b. 2(N01) , 
+1.a. 1(N50) , PA~a 
+1.b. 2(N14)# , UDU~a# E2~a# 
+2.a. 2(N14) , ZATU659 X 
+2.b. 4(N01) , 
+3.a. 1(N14) , HI EN~a 
+3.b. 2(N01) , 
+4.a. 2(N14) , PA~a 3(N57) E2~a URU~a1 
+4.b. 4(N01) , 
+165092	1.a1. 4(N50)# 3(N14) , MASZ GAN2 
+1.a2. 1(N34) 2(N14) 6(N01) , 1(N57) 
+3.a. 5(N01) , NIM~a SI 
+3.b. 1(N01) , KISZ 
+1.a. [...] , X 
+1.b. , (X)a 
+2.a. 1(N01)# , TUR#? [...] 
+2.b. , (SZA3~a1 NAR)a 
+3.a. [...] 1(N01)# , GA2~a1# SZA3~a1#? 
+3.b. , (E2~a SI ME~a)a 
+4.a. 1(N01) , GAR#? X 
+4.b. , (X)a 
+5.a. 1(N01)# , [...] PAP~a 
+5.b. , (X LAM~b)a 
+6.a. 1(N01) , AMAR# 
+6.b. , (EN~a AN UMUN2#)a 
+1.a. 1(N01)# , [...] KU6~a# 
+1.b. , ([...] X)a 
+2.a. 1(N01) , SAL SZU PAP~a 
+2.b. , (EN~a BU~a 1(N57))a 
+1.a. [...] , [...] 
+1.b. , [...] 
+2.a. 1(N01)# , [...] 
+2.b. , [...] 
+3.a. 2(N01)# , [...] SIG7# 
+165118	3.b1. , 3(N57) |EN2.E2~b| 
+3.b2. , EN~a# X [...] 
+4.a. 5(N02) , 
+165122	4.b1. , PAP~a HAL 
+4.b2. , U4 
+4.b3. , EN~a GA2~a1 U4 
+4.b4. , EN~a E2~b UB 
+4.b5. , KU6~a 1(N04) 
+1.a. 5(N14) 5(N01) , 1(N57) 2(N57) MUN~a1 
+165129	1.b1. 1(N14) 7(N01) , BA 
+1.b2. 3(N14) 8(N01) , GI 
+1.a. 1(N14) , EN~a SIG2~b KASZ~c AN 
+1.b. 2(N01) , UDU~a 
+2.a. 3(N14) , UDU~a 
+165135	2.b1. 1(N14) 5(N01) , U8 
+2.b2. 1(N14) 5(N01) , UD5~a 
+1.a. 2(N20) 3(N05) , BA 
+1.b. 1(N05) , GI 
+2.a. 1(N14) 4(N01) , UDU~a 
+2.b. 3(N01) , GI 
+1.a. 2(N20) 1(N05) , 
+1.b. 3(N05) , GI 
+2.a. 1(N14) 3(N01) , UDU~a 
+2.b. 5(N01) , GI 
+1.a. 2(N20) 2(N05) , BA 
+1.b. 2(N05)# [...] , GI# 
+2.a. 1(N14) 5(N01) , [UDU~a] 
+2.b. [1(N01)] , [GI] 
+1.a. [...] 2(N20)# [...] , [...] 
+165151	1.b1. [5(N20) 2(N05)] , [BA] 
+1.b2. [...] , [GI] 
+2.a. 5(N14) 1(N01) , UDU~a 
+165155	2.b1. 4(N14) 2(N01) , [BA] 
+2.b2. 9(N01) , GI# 
+4.a. 3(N01) , 
+4.b. 1(N01) , 
+4.c. , TAK4~a KASZ~c |1(N57).AB2|? 
+5.a. 1(N14) 1(N01) , NA~a# AL 
+5.b. 1(N01) , MASZ DUR~b 
+2.a. [...] 1(N01)# , [...] SI DARA4~a1 
+2.b. [...] , [...] X EN~a# EZEN~b 
+2.c. [...] 1(N01)# , [...] E2~a# 
+2.d. [...] , [...] SI DARA4~a1 
+2.a. 1(N02) , SZUBUR 
+165168	2.b1. , (BU~a GI)a 
+2.b2. , (EN~a DU AN)a 
+3.a. 1(N01) , |U4x3(N57)| MUSZEN ZATU659 
+165172	3.b1. , (EN~a# AN [...])a 
+3.b2. , ([...])a 
+4.a. 1(N01) , DU TUR 
+165176	4.b1. , (EN~a |SZU2.E2~b|)a 
+4.b2. , (1(N01)#? DU X)a 
+5.a. 3(N01)# , SIG RAD~a IM~a# 
+165180	5.b1. , (3(N58) E2~b)a 
+5.b2. , (TI@t GIR3~c)a 
+5.b3. , (AN 1(N24)?)a 
+5.b4. , (DU KU6~a#)a 
+165185	1.a1. 1(N01) , SU~a 
+1.a2. 2(N01) , BAR 
+165188	1.b1. , (HI@g~b)a 
+1.b2. , (NIM~a)a 
+1.b3. , (TUR)a 
+2.a. 2(N01) , SAL# UNUG~a ZATU628~a LAGAR~a 
+165193	2.b1. , (SZUR2~b BU~a)a 
+2.b2. , (SZUR2~a)a 
+1.a. 2(N01) , EN~a 
+165197	1.b1. [...] , [...] EN~a#? 
+1.b2. 1(N01)# , ZATU687 [...] 
+165200	2.a1. 5(N01) , SU~a PAP~a 
+2.a2. , UNUG~a RAD~a 
+165205	2.b1A1. 1(N01) , SZUR2~a KU3~a E2~a 
+2.b1A2. [1(N01)] , [...] 
+2.b1B. , UR~a 
+2.b2. 3(N01) , TUR BAR 
+2.a. 7(N01)# , HI KI PA~a 
+165211	2.b1. , ([...] URI3~a#)a 
+2.b2. , (|BU~a+DU6~a|)a 
+2.b3. , (E2~b BU~a)a 
+2.b4. , (SUKKAL X)a 
+2.b5. , (KI U4 NU)a 
+2.b6. , (RU NAR)a 
+2.b7. , (AN GUM~b)a 
+3.a. 6(N01) , BA# KAB 
+165220	3.b1. , (X SZU)a 
+3.b2. , (UR3~b2)a 
+3.b3. , (SZU [...])a 
+3.b4. , (DARA4~a1 SI#)a 
+3.b5. , (UR~a#?)a 
+3.b6. , (URI3~a DU? [...])a 
+1.a. 3(N01) , KU3~c RAD~a 
+165228	1.b1. , (EN~a#? [...])a 
+1.b2. , (PAP~a# [...])a 
+1.b3. , (EN~a# [...])a 
+2.a. 4(N01) , SZA RAD~a 
+165233	2.b1. , (EN~a# PAP~a# [...])a 
+2.b2. , (A? SANGA~a#? [...])a 
+2.b3. , ([...])a 
+2.b4. , ([...])a 
+3.a. 3(N01) , EN~a#? PA~a#? NUN~a# X 
+165239	3.b1. , (1(N01)# [...])a 
+3.b2. , ([...])a 
+3.b3. , ([...])a 
+4.a. 2(N01)# [...] , [...] 
+165244	4.b1. , ([...])a 
+4.b2. , ([...])a 
+165247	3.a1. 2(N01) , MA 
+3.a2. 5(N01) , HASZHUR 
+3.b. , EN~a EZEN~b 
+2.a. 2(N14) , KASZ~c ME~a SZUBUR 
+2.b. 4(N01)# , 
+3.a. [...] , [...] X 
+3.b. 4(N01) , 
+4.a. [...] , [...] 
+4.b. 4(N01) , 
+1.a. [...] , [...] 
+1.b. , [...] 
+2.a. 2(N14)# [...] , BU~a# [...] 
+2.b. , [...] 
+3.a. 3(N14) , NAR X [...] 
+3.b. , [...] 
+1.a. 1(N01) , EN~a KALAM~b 
+1.b. , (EN~a SI SZAGAN)a 
+1.c. , (|SILA3~axNI~a| GAL~a)a 
+2.a. 4(N01) , APIN~a U2~b SAG 
+165267	2.b1. , (BU~a MASZ)a 
+2.b2. , (U2~a GAR)a 
+2.b3. , (AB~a 5(N57))a 
+2.b4. , (BU~a DU)a 
+2.c. , (|HIx1(N57)| GI6)a 
+3.a. 1(N01) , SI4~a ZATU628~a SAL ZATU697~b 
+3.b. , (BU~a SZU#)a 
+3.c. , (X [...])a 
+4.a. 1(N01)# [...] , X [...] 
+1.a. 1(N01) , BULUG3 NI~a 
+1.b. , (BU~a SZE~a)a 
+1.c. , (|DARA3~dxKAR2|)a 
+2.a. 2(N01) , SZIM~a MASZ DU KI 
+165281	2.b1. , (EN~a |EN2.E2~b|)a 
+2.b2. , (BU~a GI)a 
+2.c. , (EN~a ZATU829)a 
+3.a. 1(N01) , HAL PAP~a 
+3.b. , (KITI 3(N57))a 
+3.c. , (KI NE~a A [...])a 
+4.a. 1(N01)# [...] , X [...] 
+4.b. , (X KISAL~b1# [...])a 
+4.c. , ([...])a 
+1.a. 1(N01) , MUSZ3~a [...] 
+1.b. , (X ME~a X)a 
+1.c. , (UNUG~a [...])a 
+1.a. [...] 2(N01)# , [...] 
+1.b. [...] 4(N34)# 2(N14)# 2(N01)# , ERIM~a 
+2.a. [...] 1(N01)# , [...] SIG NIN 
+2.b. 8(N34) 2(N14) 8(N01) , ERIM~a 
+3.a. [...] 2(N01)# , [...] 
+3.b. 2(N14)# [...] 8(N01) , [...] 
+1.a. 4(N14)# 2(N01) , EN~a HI KI 
+1.b. 6(N34) [...] , [...] 
+2.a. 4(N14) 3(N01) , 3(N57) |EN2.E2~b| 
+2.b. 6(N34) 4(N14) [...] , [...] 
+3.a. 2(N34) 3(N14) 7(N01) , [...] 
+3.b. [...] , [...] 
+3.a. 1(N01)# , GU4 
+3.b. 5(N14) 8(N01) , SIG SAL SZE3 
+1.a. [...] , [...] 
+1.b. [...] , 
+2.a. 1(N22)# 3(N01) , SI4~f 
+2.b. 1(N01) , 
+3.a. 1(N22) 3(N01) , |E2~b.LISZ| 
+3.b. 1(N01) , 
+4.a. 1(N22)# , ISZ~b RAD~a 
+4.b. 1(N01) , 
+1.a. [...] , [...] 
+1.b. [...] , 
+2.a. 1(N14)# , DU AB2 
+2.b. 2(N01) , 
+3.a. 1(N22) 3(N01) , NU SZUBUR 
+3.b. 1(N01) , 
+1.a. 1(N14)# [...] , TAK4~a SAG# X 
+1.b. [...] , 
+2.a. 1(N22) 3(N01) , TI@t MES 
+2.b. 1(N01) , 
+1.a. [...] , [...] 
+165327	1.b1. [...] , [...] 
+1.b2. [...] 6(N01)# , BAR 
+2.a. 5(N01)# , SZU2 TUG2~a 1(N04) EN~a 
+165331	2.b1. 1(N01) , TUG2~a 
+2.b2. 1(N01) , SZU2# [...] 
+2.b3. 3(N01) , 1(N57)# [...] BAR# 
+1.a. [...] 1(N50)# , [...] APIN~a HI 
+1.b. 2(N14) , MASZ 
+4.a. [...] 2(N22)# , SAL PAP~a GUN3~b 
+4.b. 2(N01) , [...] 
+5.a. [...] , [...] DUB~b# 
+5.b. 1(N01)# [...] , [...] 
+1.a. [...] , [...] 
+1.b. [...] , 
+2.a. [...] , [...] X 
+2.b. 1(N01) , 
+3.a. [...] , MUNSZUB~b TI 
+3.b. 3(N01) , 
+4.a. [...] , [...] 
+4.b. 1(N01) , 
+1.a. [...] , [...] 
+1.b. 2(N34)# 4(N01) , MASZ UDU~a 
+2.a. [...] , [...] IB~a# 
+2.b. 1(N14) 7(N01) , MASZ UDU~a 
+3.a. [...] , [...] 
+3.b. 1(N14) 5(N01) [...] , MASZ# [UDU~a] 
+1.a. 2(N14) 5(N01) , UDU~a 1(N57) BA ZATU819 
+165356	1.b1. 1(N14) 1(N01) , UD5~a 
+1.b2. 4(N01) , UTUA~a 
+1.b3. 3(N01) , NUN~b 
+1.b4. 7(N01) , MASZ2 
+2.a. [...] , [...] 
+165362	2.b1. [...] , [...] 
+2.b2. [...] , [...] 
+1.a. 5(N14) 4(N01) , MASZ UDU~a 
+165366	1.b1. 5(N14) 1(N01) , UDU~a 
+165368	1.b2A. 1(N01) , ESZDA 
+1.b2B. 2(N01) , UDU~a 
+165371	1.b3A. 1(N34) , NUNUZ~a1 
+1.b3B. 1(N01) , UDU~a 
+1.a. 6(N01) , EN~a HI NUN~a E2~b 
+165375	1.b1. , (HI KASKAL)a 
+1.b2. , (KASZ~c KASZ~c)a 
+1.b3. , (NIMGIR AN)a 
+1.b4. , (NI~a GIR3~a)a 
+1.b5. , (SAG# X)a 
+1.b6. , (X X)a 
+2.a. 3(N01) , SAL SAL X 
+165383	2.b1. , (EN~a# SU~a# TI#?)a 
+2.b2. , (1(N01)# GIR3~c#)a 
+2.b3. , (|SZU2.1(N02)|)a 
+1.a. 1(N01) , SAL 
+1.b. , TU~a NAB# DI# 
+1.a. [...] , [...] X 
+165390	1.b1. , (NAR)a 
+1.b2. , (ISZ~b KASZ~c)a 
+1.b3. , (PAP~a 3(N57))a 
+1.a. 1(N01) , EN~a 
+1.b. , (EN~a SZA3~a1 HI)a 
+1.a. 1(N01) , KU~b1 DUG~c# 
+1.b. 1(N01) , 
+2.a. 1(N01) , NI~a X AN 
+2.b. 2(N01) , 
+2.a. 1(N01) , X 
+165401	2.b1. 1(N34) 1(N14) [...] , [...] 
+2.b2. 1(N01) , [...] 
+3.a. 2(N34) , NUNUZ~a1# X [...] 
+3.b. 1(N34)# [...] , [...] 
+2.a. 3(N01) , KI APIN~a 
+165407	2.b1. , SZA3~a1 [...] 
+2.b2. , X [...] 
+2.b3. , [...] 
+3.a. 2(N01) , ISZ~b# GAL~a 
+165412	3.b1. , X [...] 
+3.b2. , [...] 
+1.a. [...] , [...] 
+1.b. [...] , [...] 
+1.c. [...] , ZATU646 
+2.a. [...] , [...] 
+2.b. 3(N59)# , AN SZU 
+2.c. 3(N59) , ZATU646 
+3.a. [...] , DU# 
+3.b. 3(N59) , SZU 
+3.c. 3(N59) , ZATU646 
+4.a. [...] 1(N14) , DU 
+4.b. 4(N59) , AN SZU 
+4.c. 3(N59) , ZATU646 
+5.a. [...] 5(N01)# , DU 
+5.b. 3(N59) , SZU 
+5.c. 3(N59) , ZATU646 
+6.a. [...] 5(N01)# , DU# 
+6.b. 3(N01) , SZU 
+6.c. 3(N01) , ZATU646# 
+1.a. 1(N50) 2(N22) , SZE~a MUSZEN GAN2 
+1.b. 5(N14) , |SZE~a.NAM2|# 
+3.a. 7(N14)# 1(N22)# , DU# 3(N57) NAR 
+3.b. 3(N14) 1(N22) 1(N01) , |SZE~a.NAM2| 
+4.a. 3(N14) 1(N22) , 2(N57)# SZU NI~a SZA3~a1 
+4.b. 3(N01) , 
+5.a. 3(N14) , KU~b1 ZATU697~c 
+5.b. 3(N01) , 
+6.a. 5(N14) , SZU NI~a A 
+6.b. 5(N01) , 
+7.a. 1(N14)# 2(N22) , SZUBUR 
+7.b. 2(N01) , 
+8.a. 7(N14)#? , RAD~a NIMGIR# 
+8.b. 1(N14) , 
+9.a. [...] 1(N22)# , KASZ~c#? [...] 
+9.b. 1(N01) , 
+1.a. 3(N14) 2(N22) , SZU SZU# 
+1.b. 3(N01) , 
+2.a. 3(N14) , TE SANGA~a 
+2.b. 3(N01) , 
+3.a. 2(N14) , SAG EN~a DARA4~c2 
+3.b. 1(N01) , 
+4.a. 1(N14) 2(N22) 5(N01) , GIR3~c 1(N02) 
+4.b. 2(N01) , 
+5.a. 2(N14) 5(N01) , PIRIG~b1 ERIM~a 
+5.b. 2(N01) , 
+6.a. 4(N14) 2(N22) , UR~a SANGA~a 
+6.b. 4(N01) , 
+7.a. 6(N14) 2(N22) , ISZ~b RAD~a 
+7.b. 8(N01) , 
+8.a. 4(N14) , E2~b# PA~a 
+8.b. 8(N01) , 
+9.a. 2(N22) , SZUBUR KAL~b2 
+9.b. 2(N01) , 
+1.a. 1(N22) , AN 3(N57) 
+1.b. 1(N01) , 
+2.a. 1(N22) 3(N01) , NUN~a SANGA~a 
+2.b. 1(N01) , 
+3.a. 1(N14) , HI GAN2 
+3.b. 2(N01) , 
+4.a. 1(N14) , E2~a NUNUZ~a1 DU 
+4.b. 2(N01) , 
+5.a. 1(N22) , KASZ~c SAG 
+5.b. 1(N01) , 
+6.a. 1(N22) , URI3~a BAR 
+6.b. 1(N01) , 
+7.a. 2(N22) , SUG5 SZU2 
+7.b. 1(N01) , 
+8.a. 2(N22) , U2~a EN~a 
+8.b. 1(N01) , 
+9.a. 3(N14) 1(N22) , DANNA NAM2 
+9.b. 4(N01) , 
+10.a. 1(N14) , GA~a 
+10.b. 1(N01) , 
+11.a. 2(N14) , IM~a 
+11.b. 2(N01) , 
+1.a. 2(N22) , PAP~a GIR3~c 
+1.b. 1(N01) , 
+2.a. 1(N14) , EN~a DU PAP~a 
+2.b. 1(N01) , 
+3.a. 1(N14) 1(N22) 1(N01) , NAR A 
+3.b. 1(N01) , 
+4.a. 1(N14) , ZATU659 
+4.b. 2(N01) , 
+5.a. 2(N22) , KASZ~c 3(N57) 
+5.b. 1(N01) , 
+6.a. 2(N22) , DIM~a 
+6.b. 1(N01) , 
+7.a. 2(N22) , BU~a DU 
+7.b. 1(N01) , 
+8.a. 2(N14) , SZE~a DU SZU 
+8.b. 2(N01) , 
+9.a. 4(N14) , SZUBUR ADAB 
+9.b. 4(N01) , 
+10.a. 3(N14) , DAR~b GU 
+10.b. 3(N01) , 
+1.a. 7(N14) , EN~a TE PAP~a 
+1.b. 1(N14) 4(N01) , 
+2.a. 3(N14) , RAD~a ISZ~b 
+2.b. 3(N01) , 
+3.a. 3(N14) , MA SZU# ERIN NAR SZA3~a1#? 
+3.b. 3(N01) , 
+4.a. 5(N14) , TI GI 
+4.b. 1(N14) , 
+5.a. 7(N14) , GA~a 
+5.b. 1(N14) 4(N01) , 
+6.a. 2(N14) 1(N22) , SIG7 
+6.b. 7(N01) , 
+7.a. 7(N14) , DIN NI~a U2~b 
+7.b. 2(N14) 1(N01) , 
+1.a. 2(N50) 2(N14) , EN~a GIR3~c DU NUN~a# 
+1.b. 2(N14) 2(N01) , 
+2.a. 5(N14) , SZUBUR 
+2.b. 2(N14) , |SZE~a.NAM2| 
+3.a. 5(N14) , 3(N57) PAP~a 
+3.b. 2(N14) , |SZE~a.NAM2| 
+4.a. 2(N14) , IN~b U2~b 
+4.b. 4(N01) , 
+5.a. 2(N14) , TAR~a DANNA 
+5.b. 4(N01) , 
+6.a. 4(N14) , SIG@g#? NI~a NA~a# 
+6.b. 8(N01) , 
+7.a. 1(N14) , SZUBUR RU 
+7.b. 2(N01) , 
+8.a. 1(N14) , SZA3~a1 HI EN~a 
+8.b. 2(N01) , 
+1.a. 1(N14) , A KU3~a PA~a 
+1.b. 2(N01) , 
+2.a. 4(N14) , NI~a#? BU~a NIM~b1 
+2.b. 8(N01) , 
+2.a. 3(N34) 5(N14) 5(N01) , LAGAB~b UDU~a 
+165544	2.b1. 3(N34) 2(N14) 7(N01) , EN~a SZUBUR# MASZ 
+2.b2. 2(N14) 8(N01) , ERIM~a# 
+1.a. 3(N01) , RAD~a UKKIN~a 
+1.b. , NUNUZ~a1 AN GU 
+3.a. 3(N01) , UR5~a AN# [...] 
+165550	3.b1. 1(N01) , UDU~a#? [...] 
+3.b2. 1(N01) , [...] 
+3.b3. 1(N01)# , [...] 
+1.a. 5(N01) , ZATU659 GI# ZATU839# [...] 
+1.b. 2(N01) , [...] 
+1.a. [...] , [...] 
+1.b. [...] , 
+2.a. 1(N14) 1(N22)# [...] , EN~a# [...] 
+2.b. [4(N01)] , 
+3.a. 2(N14) , TAK4~a TAK4~a A 
+3.b. 6(N01) , 
+4.a. 1(N14) 1(N22) , SZA3~a1 AN SZIDIM 
+4.b. 4(N01) , 
+5.a. 1(N14) , X [...] 
+5.b. 3(N01) , 
+6.a. 1(N14) , NAM2 
+6.b. 3(N01)# , 
+7.a. [2(N14)] , TAK4~a TAK4~a# A TUR 
+7.b. 6(N01) , 
+9.a. [1(N14)] , KASZ~a X 
+9.b. 3(N01) , 
+10.a. [1(N14)] , [...] 
+10.b. 3(N01)# , 
+1.a. [...] , GU~a# [...] 
+1.b. [...] , 
+2.a. 1(N14) , I MAR~a 
+2.b. 3(N01)# , 
+3.a. 1(N14) , TUR3~a NA~a 
+3.b. 3(N01) , 
+4.a. 1(N14) , KASZ~c MASZ 
+4.b. [...] , 
+5.a. 2(N14)# , X TAK4~a TAK4~a# A# [...] 
+5.b. [6(N01)] , 
+6.a. 2(N14) , U2~a 1(N02) 
+6.b. 6(N01) , 
+7.a. 1(N22) , KA~a KASZ~c 
+7.b. 1(N01) , 
+8.a. [1(N22)] , [...] 
+8.b. 1(N01)# , 
+1.a. 1(N22)#? [...] , [...] 
+1.b. [...] , 
+6.a. [...] , [...] 
+6.b. [...] , 
+7.a. 1(N14) 1(N22)#? , [...] 
+7.b. [4(N01)] , 
+8.a. 2(N22) , IL#? GA2~a2 [...] 
+8.b. [2(N01)] , 
+2.a. 2(N14)# , |SZE~a.NAM2|#? X ZATU694~c#? [...] 
+2.b. 2(N01)# , 
+4.a. [...] , SZUBUR 
+4.b. 4(N01) [...] , 
+3.a. 1(N01) , NI~a# A# 
+3.b. 1(N01) , 
+4.a. 1(N14) , X AN [...] 
+4.b. 2(N01) , 
+5.a. 1(N14) 1(N22) , EN~a# X [...] 
+5.b. 1(N01)# , 
+1.a. [...] , [...] 
+1.b. [...] , 
+1.a. [...] 4(N01) , 3(N57) PAP~a 
+165611	1.b1. [...] , EN~a#? SAG# [...] 
+1.b2. , U2~b# 1(N02) 
+1.b3. , [...] 
+1.b4. , [...] EN~a#? 
+1.b5. , [...] 
+1.b6. , [...] X GI 
+2.a. 3(N01) , LAL2~a NE~a 1(N57) 3(N57) 
+165620	2.b1A. 1(N01) , UD5~a 
+2.b1B. , PAP~a 
+2.b1C. , LAL2~a NE~a 
+165624	2.b2A. 2(N01) , APIN~a 3(N57) GIR3@g~c A? BU~a PAP~a NAM2 
+165626	2.b2B1. , ZATU836 BU~a SZE~a 
+2.b2B2. , U8 LAGAB~a 
+2.b2C. , SZIM~a 
+2.a. 1(N01)# , 3(N57) BU~a |AxAB2| 
+165631	2.b1. , U2~a BU~a U2~a 
+2.b2. , UDU~a# MASZ X URUDU~a 
+1.a. [...] , [...] 
+1.b. [...] , [...] X 
+2.a. [...] , [...] X 
+2.b. 1(N01) , X 
+3.a. [...] , [...] 
+3.b. 1(N01)# , MU? 
+1.a. [...] , [...] 
+1.b. 2(N14) , ZATU776 
+2.a. [...] , [...] X 
+2.b. , [...] |GI&GI|# BAR GISZ SI NA~a ERIM~a 
+2.a. 1(N01) , ZATU659 
+2.b. , PAP~a BAR# [...] 
+1.a. [...] 1(N14)# , EN~a NUN~a# X 
+1.b. , 2(N01) 
+2.a. [...] , [...] X 
+2.b. , 2(N01) 
+3.a. [...] , [...] 
+3.b. 4(N01)# , 
+4.a. [...] , [...] 
+4.b. , [...] 
+2.a. 5(N14)# , X [...] 
+165655	2.b1. 2(N01) 2(N39~a) 1(N24) , BA SI4~f 
+2.b2. 1(N14)# [...] , [...] 
+3.a. 2(N14)# [...] , [...] 
+165659	3.b1. 1(N14) 1(N01) 1(N39~a) , BA 
+3.b2. [...] , [...] 
+3.a. 3(N34)# 3(N14) 9(N01) , ZATU838 NAM2 RAD~a PA~a 
+165663	3.b1. 1(N34) 3(N14)#? 2(N01)? , ZATU839 GI 
+165665	3.b2A. 2(N34) 1(N14) , IB~a URI3~a 
+3.b2B. 1(N01) , KUR~a KISZ 
+3.b2C. 1(N01) , SAL KISZ 
+4.a. 1(N34)# [...] 3(N14) 4(N01) , [...] 
+165670	4.b1. 1(N01) , GI6 AB2 
+4.b2. 1(N01) , KUR~a KISZ 
+4.b3. [...] , SAL# KISZ 
+2.a. 2(N34) 4(N14)# 3(N01)# , LAGAB~b KI# RAD~a# SUM~b# X X [...] 
+165675	2.b1. [...] 1(N34)# [...] , [...] 
+2.b2. 1(N01)# [...] , [...] 
+1.a. 6(N01) , BA 
+165679	1.b1. , (SZU SZU)a 
+1.b2. , (PAP~a TUR3~a DU)a 
+1.b3. , (3(N57))a 
+1.b4. , (NI~a GIR3~c)a 
+1.b5. , (GI4~a SZA3~a1)a 
+1.b6. , (NE~a ZATU778)a 
+2.a. [...] , [...] 
+165687	2.b1. , (DIM~a X)a 
+2.b2. , ([...] X)a 
+1.a. 3(N01)# [...] , [...] 
+165691	1.b1. , ([...])a 
+1.b2. , ([...])a 
+1.b3. , ([...])a 
+2.a. 3(N01)# [...] , [...] 
+165696	2.b1. , ([...])a 
+2.b2. , ([...])a 
+2.b3. , ([...])a 
+1.a. [...] , [... BA] 
+165701	1.b1. [...] , [...] 
+1.b2. [...] , [...] TUR# 
+1.a. [...] , [...] 
+165705	1.b1. , ([...])a 
+1.b2. , ([...] SZU#? GI#)a 
+1.b3. , (DANNA KUR~a)a 
+1.b4. , ([...] KASKAL#)a 
+1.b5. , (KASZ~c MUSZEN)a 
+1.b6. , ([...] E2~a#)a 
+1.b7. , (KA~a EN~a DU)a 
+1.a. [...] , X 
+165714	1.b1. , ([...])a 
+1.b2. , ([...])a 
+1.b3. , (NA~a MUSZEN# GI)a 
+1.b4. , (AD~a# X)a 
+1.b5. , ([...])a 
+1.b6. , ([...])a 
+1.b7. , ([...])a 
+1.b8. , ([...] TI# ZI~a#?)a 
+1.b9. , (NE~a E2~a PAP~a)a 
+2.a. 1(N01)# , |U4x1(N57)| TUR 
+2.b. , ([...] 3(N57))a 
+3.a. 7(N01) , |U4x3(N57)| TUR 
+165727	3.b1. , (DIM~a DA~a)a 
+3.b2. , (UR~a UR~a)a 
+3.b3. , (LA2? X NA2~a#?)a 
+3.b4. , (3(N57) X)a 
+3.b5. , (X X)a 
+3.b6. , (X X)a 
+3.b7. , (X KI X)a 
+165735	1.a1. [...] , [...] 
+1.a2. [...] 1(N01)# , NUN~b 
+1.a3. [...] 3(N14)#? , MASZ2 
+165739	1.b1. [...] , [...] 
+1.b2. 2(N01) , X [...] 
+1.b3. 5(N34) [...] , [...] 
+165743	2.a1. [...] , [...] 
+165745	2.b1. 1(N14) 3(N01)# [...] , [...] 
+2.b2. [...] , [...] 
+165748	2.c1. 1(N01)# [...] , [...] 
+2.c2. [...] , [...] 
+1.a. 1(N14) , E2~a PA~a 
+1.b. 2(N01) , 
+1.a. 3(N14) , SAR~a# KA~a? 
+1.b. 9(N01) , 
+1.a. [...] , [...] X 
+165756	1.b1. [...] , [...] 
+1.b2. [...] 1(N01)# , [...] TUR# 
+3.a. 1(N14) 6(N01) , [...] 
+165760	3.b1. 6(N01) [...] , [...] 
+1.a. [...] 1(N01) , SI ZATU841 SI TE RAD~a 
+1.b. 1(N01)# , SI X AN DA~a 
+2.a. 2(N01) , GI 
+165765	2.b1. , SZU URU~a1#? 
+2.b2. , X X 
+3.a. 2(N01) , SZU# KALAM~b#? 
+165769	3.b1. , EN~a DUG~a 
+3.b2. , X X 
+2.a. 1(N01) , KALAM~b 
+2.b. , AN NU11@t 
+3.a. 2(N02) , 
+165775	3.b1. , KAK~a KAK~a 
+3.b2. , PAP~a SAL 
+1.a. 9(N01) , 2(N57) PAP~a SU~a 
+165779	1.b1. 5(N01) , BA 
+1.b2. 2(N01) , GI 
+1.b3. 2(N01) , KALAM~b SZU 
+2.a. 9(N01)# , [...] 
+165784	2.b1. 2(N01) BA 
+2.b2. 4(N01)# GI 
+2.b3. [3(N01) KALAM~b] 
+1.a. 1(N01) , NAM2 RAD~a PA~a 
+1.b. , EZEN~b EN~a 
+2.a. 1(N01) , NAM2 RAD~a PA~a 
+2.b. , DU X KISAL~b1# [...] 
+1.a. 2(N01) , RAD~a SI BU~a TE 
+165793	1.b1. , GISZ3~b KAK~a 
+1.b2. , KASKAL@g GAR 
+2.a. 1(N01)# [...] 1(N08)# , X [...] 
+2.b. , [...] 
+1.a. 1(N01) , PA~a UB [...] 
+1.b. , TAK4~a [...] 
+1.a. 1(N01)# [...] , PAP~a SU~a [...] 
+1.b. , [...] 
+4.a. 3(N01) , PAP~a SU~a 
+4.b. 4(N01) , SZUBUR 
+1.a. [...] , [...] 
+1.b. , [...] 
+2.a. 1(N01) , X [...] 
+2.b. , [...] 
+3.a. 1(N01) , ZATU703 X 
+3.b. , [...] X 
+4.a. [...] , [...] X 
+4.b. , LA2 DU X [...] 
+5.a. [...] , [...] 
+5.b. , [...] 
+165814	2.a1. 6(N01) , BA KI 
+2.a2. 1(N01) , NAR A 
+2.a3. , X [...] 
+165819	2.b1A. 1(N01) , SANGA~a X 
+2.b1B. , X [...] 
+165822	2.b2A. 1(N01) , |GISZxSZU2~a| SZU AB~a 
+2.b2B. , PAP~a X 
+165825	2.b3A. 1(N01) , SUKKAL NAGAR~a 
+2.b3B. , BU~a# PAP~a# [...] 
+165828	2.b4A. 1(N01) , SZU SZU 
+2.b4B. , [...] 
+165831	2.b5A. 1(N01) , ZATU687 SZU ME~a E2~b# [...] 
+2.b5B. , [...] 
+3.a. 9(N02)# , [...] 
+165836	3.b1A. 1(N02) , X SAG 
+3.b1B. , AN# NUNUZ~c#? [...] 
+165839	3.b2A. 1(N02)# , [...] 
+3.b2B. , [...] 
+165842	3.b3A. [...] , [...] 
+3.b3B. , [...] 
+1.a. [...] , [...] 
+165847	1.b1A. [...] , [...] 
+1.b1B. , [...] X NAM2 
+165850	1.b2A. [...] , [...] 
+1.b2B. , (NAB DI)a 
+165853	1.b3A. [...] , [...] X 
+1.b3B. , (EN~a NUNUZ~c)a 
+2.a. [...] , [...] 
+165858	2.b1A. 1(N02) , RAD~a 
+2.b1B. , (AN 3(N57) PIRIG~b1)a 
+165861	2.b2A. 1(N02)# , X [...] 
+2.b2B. , (DU# BA# KI)a 
+165864	2.b3A. [...] , [...] 
+2.b3B. , [...] 
+2.a. [...] 2(N01)# , [...] GI#? 
+165868	2.b1. , ([...])a 
+2.b2. , (|BU~a+DU6~a| PAP~a |BU~a+DU6~a| EZINU~a)a 
+3.a. 4(N01)# , [...] TUR# 
+165872	3.b1. , (3(N57) NUNUZ~a1)a 
+3.b2. , (3(N57) BU~a SZE~a)a 
+3.b3. , (NI~a SA~c)a 
+3.b4. , (GI4~a SZA3~a1# [...])a 
+1.a. [...] 1(N14) 1(N01) , 2(N57) [...] 
+165878	1.b1. [...] , [...] 
+1.b2. 2(N01) , GI 
+1.b3. 3(N02) , 
+2.a. [...] 1(N14)# 1(N01)#? , [...] 
+165883	2.b1. 4(N01)# [...] , [...] 
+1.a. [...] , [...] X MAH~a? 
+1.b. , [...] EN~a ZATU624~a NU 
+2.a. [...] 1(N01)# , GISZ3~b X 
+2.b. , AN KASKAL 
+1.a. [...] , [...] 
+1.b. [...] , [...] 
+2.a. [...] , [...] ZATU839 X 
+165892	2.b1. 2(N01)# , UDUNITA~a 
+2.b2. 4(N01) , NUN~b 
+3.a. [...] , [...] 
+165896	3.b1. 1(N01)# [...] , [...] 
+3.b2. [...] , [...] 
+1.a. [...] , [...] 
+165900	1.b1. [...] , [...] 
+1.b2. [...] 2(N02)# , X [...] 
+1.b3. 1(N02) , X X [...] 
+1.a. 1(N14) 6(N01)# , MUN~a1# [...] 
+165905	1.b1. , [...] 
+1.b2. , U4 AN [...] 
+1.b3. , X [...] 
+3.a. [...] 1(N01)#? , [...] X 
+3.b. 8(N01) , 
+4.a. [...] , [...] X 
+4.b. 1(N01) , 
+2.a. [...] , [...] 1(N04)# SU~a# X 
+2.b. [...] , [...] 
+3.a. [...] , [...] X SU~a# 
+3.b. [...] , [...] 
+1.a. [...] , [...] 
+1.b. , (BAHAR2~a#? EN~a# AN)a 
+2.a. [...] , [...] 
+2.b. , (EN~a AN)a 
+3.a. [...] , [...] 
+3.b. , (EN# 1(N57) BU~a)a 
+4.a. [...] , [...] 
+4.b. , (SANGA~a AB~b)a 
+2.a. 5(N01) , EN~a PA~a DI? 
+3.a. [...] , [...] 
+3.b. 4(N01) , X [...] 
+1.a. [...] , [...] 
+1.b. [...] , 
+2.a. [...] , [...] E2~a# X 
+2.b. 2(N01) , 
+3.a. [...] , [...] 
+3.b. [...] , 
+1.a. [...] , [...] 
+1.b. [...] , 
+2.a. 1(N50)# [...] , [...] 
+2.b. [...] , 
+1.a. 6(N01) , BA 
+165939	1.b1. , (HAL ME~a)a 
+1.b2. , (RU)a 
+1.b3. , (SZU ME~a)a 
+1.b4. , (SAG |GISZxSZU2~a| SZU)a 
+1.b5. , (3(N57) |EN2.E2~b|)a 
+1.b6. , (SAL BU~a)a 
+2.a. 1(N01) , PAP~a 
+2.b. , (TAK4~a KASZ~c)a 
+3.a. 1(N01) , GI 
+3.b. , (SZUBUR X)a 
+4.a. 1(N01) , TI PAP~a 
+4.b. , (MUNSZUB~b# GI)a 
+5.a. 1(N02) , 
+5.b. , (HI KASKAL)a 
+6.a. 1(N01) , GAL~a SZITA~a1 
+6.b. , (MU TUR)a 
+2.a. 3(N01)# , BU~a# NUN~a# X SI 
+165957	2.b1. 1(N01)# , X SI4~f? EN~a#? 
+2.b2. 1(N01) , LAGAB~b SI 
+2.b3. 1(N01)# , SI TUR 
+3.a. 1(N01) , SI KU~b1 3(N57) KASKAL 
+3.b. 1(N01) , TUR SI KU~b1 
+4.a. 1(N01) , SI4~f KU~b1 TE IDIGNA SI BU~a 
+4.b. 1(N01) , SI GI LAGAB~b 
+5.a. 1(N01) , SI KU~b1 SI TE RAD~a@g 
+5.b. 1(N01) , SI LAGAB~b GISZ 
+6.a. 1(N01) , SI KU~b1 AB~b NUNUZ~a0 TE 
+6.b. 1(N01) , SI LAGAB~b GISZ 
+2.a. [...] , [...] PAP~a KITI 
+165970	2.b1. [...] , [...] 
+2.b2. [...] , [...] X X 
+3.a. 1(N01) , SI KU~b1 ZATU795 LAM~b# 
+3.b. 1(N01) , TUR SI KU~b1 [...] 
+5.a. 3(N01) , RAD~a@g PA~a SI4~f GI 
+165976	5.b1. 2(N01) , SI4~f GI 
+5.b2. 1(N01) , SI4~f GI 
+1.a. 1(N14) 4(N01) , RAD~a 
+165980	1.b1. , A X NUN~a 
+1.b2. , X EN~a#? 
+2.a. 1(N14) 4(N01) , KITI# [...] 
+165984	2.b1. , ZATU795 LAM~b 
+2.b2. , E2~b#? X 
+2.b3. , [...] 
+1.a. 2(N14) , TE EN~a# 
+165989	1.b1. 1(N14) 7(N01) , BA 
+1.b2. 3(N01) , BA SI KU~b1 
+1.c. , SI4~f AN 
+2.a. 2(N14) , [...] 
+165994	2.b1. 6(N01) , BA 
+2.b2. 1(N14) 4(N01)# , SZE~a#? [...] 
+1.a. 3(N01) , ZATU841 SI 
+165998	1.aB1. 2(N01) , SI4~f# 
+1.aB2. 1(N01) , SI# TUR# 
+2.a. 1(N14) 7(N01) , SI KU~b1 AN SAG 
+166002	2.b1. 1(N14) 2(N01) , SI4~f# 
+2.b2. 1(N01) , SI LAGAB~a 
+2.b3. 4(N01) , TUR SI 
+4.a. 2(N01) , SI X [...] 
+166007	4.b1. 1(N01) , LAGAB~a 
+4.b2. 1(N01) , TUR# [...] 
+9.a. 1(N01) , MA EN~a EZEN~b 
+9.b. 1(N01) , |UKKIN~bxDIN| 
+1.a. 2(N01) , KUR~a 
+166013	1.b1. , NA2~a? 
+1.b2. , NAM? 
+1.a. 1(N01) , SU~a PAP~a 
+1.b. EN~a SI KI~a 
+2.a. NAMESZDA SANGA~a 
+2.b. ZABALA~a KI~a PA~a 
+3.a. NAGAR~a BU~a 
+3.b. URU~a1 PA~a BU~a 
+3.c. SANGA~a ZI~a 
+1.a. 2(N14) 2(N22) , UR5~a MA 
+1.b. 8(N01) , 
+2.a. 3(N14) , UNUG~a 
+2.b. 9(N01) , 
+3.a. 1(N14) , DUR2 GI ZATU703 
+3.b. 3(N01) , 
+4.a. [1(N14)] 1(N22)# , |GISZxSZU2~a| 
+4.b. 4(N01) , 
+5.a. [...] , [...] 
+5.b. [...] 1(N01)# , 
+1.a. [...] , [...] 
+1.b. [...] 2(N01)# , [...] 
+2.a. 1(N14) , BA ZATU694~c SAG 
+2.b. 3(N01) , 
+3.a. 2(N22) , NA~a RU NAR 
+3.b. 2(N01) , 
+4.a. 1(N14) , DAR~a NAM~d 
+4.b. 3(N01) , 
+5.a. 1(N14) , TAK4~a A GU# 
+5.b. 3(N01) , 
+6.a. [1(N14)] , [...] 
+6.b. 3(N01)# [...] , 
+1.a. 2(N22) , E2~a GI 
+1.b. 2(N01) , 
+2.a. 1(N14) , URI3~a IB~a 
+2.b. 3(N01) , 
+3.a. 1(N22) , NI~a GISZ3~b 
+3.b. 1(N01) , 
+4.a. 1(N22) , AN UR2 A 
+4.b. 1(N01) , 
+5.a. 1(N22) , LA2 AL 
+5.b. 1(N01) , 
+6.a. 1(N22) , AN BAR KA~a 
+6.b. 1(N01) , 
+7.a. 1(N22) , AN GI6 A 
+7.b. 1(N01) , 
+8.a. 1(N22)# , URUDU~a SZEG9? 
+8.b. 1(N01) , 
+9.a. 7(N14)# , [...] 
+9.b. 2(N14)# 1(N01) , 
+1.a. 1(N22) , KA~a 
+1.b. 1(N01) , E2~a 
+2.a. 1(N22) , MAR~a MA AN 
+2.b. 1(N01) , 
+3.a. 1(N14) , |DA~a.LISZ| PA~a 
+3.b. 3(N01) , 
+4.a. 1(N14) , ZATU628~b NI~a TAK4~a KI 
+4.b. 3(N01) , 
+5.a. 1(N14) , APIN~a 
+5.b. 3(N01) , 
+6.a. 1(N22) , SIG7# [...] 
+6.b. [1(N01)] , 
+7.a. [...] , [...] 
+7.b. [...] , [...] 
+1.a. [...] , [...] 
+1.b. [...] , [...] 
+2.a. [...] , [...] 
+2.b. [...] 8(N01)#? , [...] UDU~a MASZ 
+1.a. 1(N14) , PAP~a SZU# 
+1.b. 1(N01) , 
+2.a. 1(N14) , ZATU839 2(N57) SZU DU NI~a 
+2.b. 1(N01) , 
+3.a. 1(N14) , UR2 NI~a KASZ~c 
+3.b. 1(N01) , 
+4.a. 1(N14) , MUD AN NI~a 
+4.b. 2(N01) , 
+5.a. 2(N22) , URI3~a IB~a 
+5.b. 1(N01) , 
+6.a. 1(N14) , 1(N57) NA~a 
+6.b. 2(N01) , 
+7.a. 1(N14) , LU2 GAN2 A 
+7.b. 2(N01) , 
+8.a. 1(N14) , SI4~f? 
+8.b. 2(N01) , 
+1.a. 1(N22) , DA~a# [...] 
+1.b. [1(N01)] , 
+2.a. 1(N22) , AN PIRIG~b1 KASZ~c 
+2.b. 1(N01) , 
+3.a. 1(N14) , EN~a TAK4~a A 
+3.b. 2(N01) , 
+4.a. 1(N22) , SAG A 
+4.b. 1(N01) , 
+1.a. 2(N14) 5(N01) , UDU~a 1(N57) BA 
+166106	1.b1. 1(N14) 1(N01) , UD5~a 
+1.b2. 4(N01) , UTUA~a 
+1.b3. 3(N01) , NUN~b 
+1.b4. 7(N01) , MASZ2 
+2.a. 2(N14) 2(N01) , KA~a |SZE~a.NAM2| 
+166112	2.b1. 1(N01) , U8 
+2.b2. 1(N14) , UD5~a 
+2.b3. 5(N01) , NUN~b 
+2.b4. 6(N01) , MASZ2 
+3.a. 2(N01) , KISZ 
+166118	3.b1. 1(N01) , KUR~a 
+3.b2. 1(N01) , SAL 
+2.a. [...] 1(N01)# , SAL# X X 
+2.b. , [...] X 
+3.a. 1(N01) , TUR KISAL~b1# 
+3.b. , [...] X 
+4.a. 1(N01) , KASKAL APIN~a 
+4.b. , NIM~a#? X [...] 
+1.a. 3(N01) , IM~a X SAG RAD~a 
+1.b. , [...] DA~a# 
+6.a. 2(N14)# 7(N01) , X SZITA~a1 
+166130	6.b1. 1(N14) 5(N01) , |SZITA@g~ax1(N06)| 
+6.b2. 1(N14) , SZITA~a1 UDU~a#? 
+6.b3. 2(N01) , |ZATU714xX|# 
+1.a. 3(N01) , 1(N26) 
+1.b. 1(N42~a) , 
+166136	2.a1. 2(N01) , DU8~c 
+2.a2. 2(N01) , ZATU726~d 
+2.a3. 2(N01) , SIG2~a1 
+2.b. 1(N25) 1(N28~c) , 
+3.a. 5(N01) , ZATU845 
+3.b. 1(N30~c) , 
+4.a. 1(N14) , 4(N57) GAR 
+4.b. 1(N42~a) , 
+5.a. 5(N01) , SZA@g 
+5.b. 1(N28~c) , 
+1.a. 5(N01) , |(SZAxHI@g~a)~a| 
+1.b. 1(N28~c) , 
+2.a. 5(N01) , DU8~c@g 
+2.b. 1(N28~c) , 
+3.a. 5(N01) , SAG TUG2~a#? 
+3.b. 1(N25)? , 
+1.a. 1(N39~a) 1(N24) , ZATU714 
+166154	1.b1. 1(N24) , ZATU714? 
+1.b2. 1(N39~a) , HI@g~a 
+1.a. 1(N14)# 8(N01) , X 
+166158	1.b1. 8(N01) , SUHUR@n# 
+1.b2. 1(N14) , SUHUR# 
+1.a. 1(N01) , U4# U8# NE~a# URI3~a#? X GA2~a1#? 
+166162	1.b1. 1(N01) , X 
+1.b2. 1(N01) , X X 
+2.a. 1(N01) , UD5~a# X BU~a# 
+2.b. , X 
+3.a. 1(N01) , X X 
+3.b. 1(N01) , X 
+4.a. 1(N01) , X X 
+4.b. , X X 
+5.a. 1(N01) , UDUNITA~a# X 
+5.b. , KISZIK~a X X 
+6.a. 1(N01) , U8# EN~a X 
+6.b. , X 
+7.a. 1(N01) , UD5~a# MUD BU~a 
+7.b. , X X 
+8.a. 1(N01) , UDUNITA~a#? X 
+8.b. , UR2 X KI 
+9.a. 1(N01) , UDUNITA~a#? BU~a GI 
+9.b. SZU# E2~a# X ME~a# 
+10.a. 1(N01) , UD5~a# MUD# X X 
+10.b. , X X 
+1.a. 1(N01) , UDUNITA~a# SZU#? [...] 
+1.b. , X ME~a# 
+2.a. 1(N01) , X X 
+2.b. , X [...] 
+3.a. 1(N01) , X EN~a# 
+3.b. , X [...] 
+4.a. 1(N01) , UDUNITA~a# X BU~a 
+4.b. , MAR~a# X [...] 
+5.a. 1(N01) , SAL# NE~a# X 
+5.b. , X X 
+6.a. 1(N01) , GI6# ESZGAR# TUR# TI X 
+6.b. , [...] 
+7.a. 1(N01) , KIR11# KASKAL# X 
+7.b. 1(N01) , X 
+1.a. 1(N01) , U4 GU U8 GI 
+1.b. , GAL~a ZATU751~a 
+3.a. 1(N01) , U4 SILANITA SZU SANGA~a X 
+3.b. , GA2~a2 LAGAB~b 
+4.a. 1(N01) , GI6 SILANITA PAP~a 
+4.b. , GA2~a2 LAGAB~b 
+5.a. 1(N01) , SILA4~c DIM~a 
+5.b. , |LAGAB~bxSUH3| ME~a 
+6.a. 1(N01) , DARA4~a1 UD5~a X X RU 
+6.b. , UDU~a SZE3 
+7.a. 1(N01) , KIR11# NE~a X X 
+7.b. , GA2~a2# LAGAB~b# 
+1.a. 1(N01) , GI6 MASZ2 GI6 
+1.b. , X 
+6.a. 1(N01) , KIR11 AN SZU HI 
+6.b. , GA2~a2 LAGAB~b 
+4.a. 1(N14)#? , GAR U2~a 
+4.b. 1(N42~a) , 
+2.a. 3(N14) , GAR SI ME~a 
+2.b. 3(N42~a)? , 
+5.a. 1(N14) 1(N01) , |U4x1(N57)| BAR 
+166218	5.b1. 5(N01) , SILA4~c 
+5.b2. 6(N01) , MASZ 
+4.a. 9(N01) , |U4x1(N57)| BAR 
+166222	4.b1. 4(N01) , SILA4~c 
+4.b2. 5(N01) , MASZ 
+6.a. 4(N14) , ZATU847 SA~c 
+6.b. 3(N14) , UR2 
+166228	1.a1A. 4(N01) , SZE~a 
+166230	1.a1B1. 1(N01) , UD5~a 
+1.a1B2. 3(N01) , MASZ2 
+1.a2. 4(N34) 4(N14) 2(N01) , DUB~a BA UDU~a 
+166234	1.b1. 2(N34) 2(N14) 4(N01) , DARA4~c2 
+1.b2. 1(N34) 5(N14) 6(N01) , MASZ2 UD5~a 
+1.b3. 2(N14) 2(N01) , SZE3 UDU~a 
+1.c. 1(N34)# 2(N14) 1(N01) , |U4x1(N57)| BAR 
+166239	2.a1. [...] 2(N01)# , SAL KISZ# 
+2.a2. [...] 2(N01)# , KUR~a# 
+2.b. , KUR~a RU 
+166243	1.a1. 1(N01) , SAL 
+1.a2. 1(N01) , KUR~a 
+1.b. , ERIM~a SAGSZU 
+166247	2.a1. 1(N01) , SAL# 
+2.a2. 1(N01) , KUR~a# 
+2.b. , [...] 
+1.a. 1(N01) , SZUBUR# X SI SAG 
+1.b. , KASZ~c U2~a EN~a AMAR SANGA~a [...] 
+5.a. 6(N14)# 3(N01) 3(N39~a) 1(N24)# 1(N28)# , [...] 
+166254	5.b1. 6(N14) 1(N24) 1(N28) , SZU UR5~a 
+5.b2. 3(N01)# 3(N39~a)#? 1(N24) , TAR~a 
+4.a. , NE~a DU A TE 
+4.b. , KISZ DU ISZ~b 
+1.a. 3(N14) , [...] 
+166260	1.b1. 4(N01) , UDU~a#? MU#? 
+1.b2. 1(N01) , NA~a NI~a 
+1.b3. X , PIRIG~b1# 
+1.b4. X , AN# [...] 
+166265	1.c1. 1(N01)# , X X 
+1.c2. 1(N01)# , X GADA~a 
+1.c3. 1(N01)# , TILLA2#? PA~a# KISZIK~a#? 
+1.c4. 1(N14)# , X 
+2.a. 1(N14) 8(N01) , BA KI 
+166272	2.b1A. 1(N14) 3(N01) , DA~a PA~a |DU8~cxUDU~a| 
+166274	2.b1B1. 2(N01)# , U8#? [...] 
+2.b1B2. 1(N01)# , [...] 
+2.b1B3. 4(N01) , UDUNITA~a#? [...] 
+2.b1B4. 6(N01) , MASZ2#? 
+166279	2.b2A. 5(N01) , GURUSZDA 
+166281	2.b2B1. 2(N01) , U8? [...] 
+2.b2B2. 1(N01) , SZE3 UDUNITA~a#? 
+2.b2B3. 2(N01) , X [...] 
+5.a. 6(N01)? , X 
+166286	5.b1. 2(N01) , ZATU786 
+5.b2. 2(N01) , X GU4# 
+5.b3. 1(N01) , X 
+5.b4. 1(N01) , GU4 SZU ZATU857 
+5.b5. , 
+1.a. 1(N50) 5(N14) , SZE~a GAN2 
+1.b. 5(N14) , SZE~a 
+2.a. 1(N50) , SZE~a 
+2.b. 5(N19) , 
+3.a. 5(N50) 5(N14) , GAN2 
+3.b. 1(N36) , 
+1.a. 5(N14) 9(N01) , KISZ ZATU758? 
+1.b. 1(N02) , 
+2.a. 5(N14) 4(N01)# , X 
+2.b. 4(N02)#? , 
+1.a. 2(N34) 2(N01) , KISZ 
+1.b. 5(N02)? , 
+1.a. [3(N34)] 4(N14)# , [1(N57)] APIN~a# GA~a KI ZATU714# SZAGAN#? [...] 
+1.b. 2(N34) , 1(N58) 
+1.c. 3(N34) , [1(N57)] 
+1.d. 1(N34) 1(N14) , 1(N58) 
+2.a. [6(N34)] 4(N14) , [1(N57)] MUSZ3~a# ME~a SZA3~a1# 
+2.b. 3(N34) 4(N14) , 1(N58) 
+2.c. 4(N34) , 1(N57) |GIR3~cxKAR2| SZA3~a1 
+2.d. 3(N34) 2(N14) 5(N01) , 1(N58) 
+3.a. 3(N34) , 1(N57) SZA3~a1 AL 
+3.b. 1(N34) , 1(N58) 
+3.c. 3(N34) , 1(N57) 
+3.d. 1(N34) 2(N14) , 1(N58) 
+4.a. 4(N34)# , [1(N57)] ME~a SZA3~a1 MUSZ3~a |GIR3~cxKAR2| APIN~a 
+4.b. 1(N34) 2(N14) , 1(N58) 
+4.c. 3(N34) 3(N14) , BAR 1(N57) 
+4.d. 1(N34) 1(N14) , 1(N58)# 
+5.a. [3(N34)] 3(N14)#? , [1(N57)] AL KI 
+5.b. 1(N34) , 1(N58)? 
+5.c. 3(N34) , 1(N57)? 
+5.d. 3(N14) , 1(N58) 
+166324	1.a1. [3(N34)] 2(N14)# , [1(N57) ...] SZAGAN# X 
+1.a2. 1(N34)# 3(N14) , 1(N58) 
+1.b. 1(N50) X , GAN2 [...] 
+166328	2.a1. [...] , [1(N57)] MUSZ3~a# [...] X 
+2.a2. 3(N34)# 3(N14) 2(N01)# , 1(N58) 
+166331	2.b1. 3(N50) , HI GAN2 
+2.b2. 7(N14) 1(N22)? , BAR#? 
+166334	3.a1. 3(N34)# , [1(N57)] , [...] X [...] 
+3.a2. 1(N34) 1(N14) , 1(N58) 
+166337	3.b1. 7(N14) , GAN2 X [...] 
+3.b2. 1(N14) , KI#? BAR#? 
+166340	4.a1. 3(N34)# 4(N14) 5(N01)# , ME~a MUSZ3~a# |GIR3~cxKAR2| SZA3~a1# [...] 
+4.a2. 1(N34)# 1(N14) 5(N01)# , 1(N58) 
+166343	4.b1. 1(N50) , GAN2 X 
+4.b2. 3(N14)#? X , KI AL 
+166346	5.a1. 3(N34)# 1(N14) 5(N01) , 1(N57) KI# AL# 
+5.a2. 4(N14) 5(N01) , 1(N58) 
+5.b. 5(N14) , GAN2 X 
+1.a. [3(N01)] , KISZ# DILMUN 
+166351	1.b1. [2(N57)] , SAL# 
+1.b2. [1(N57)] , |U4x2(N57)|# LAM~b 
+1.b3. , KUR~a RU MA ZATU694~c ZATU683@t? NUNUZ~a1 
+1.b4. , UH3~a 
+2.a. 3(N01) , KISZ ZATU849 A 
+166357	2.b1. 2(N57) , SAL 
+2.b2. 1(N57) , SAL ANSZE~a 
+2.b3. , EN~a BU~a 
+2.b4. , UDU~a AN ZATU752 
+1.a. 3(N01) , SZA3~a1 UNUG~a BU~a DU SANGA~a 
+166363	1.b1. 1(N57) , SAL U4 
+1.b2. 1(N57) , SAL |U4x3(N57)| 
+1.b3. 1(N57) , |U4x2(N57)| LAM~b 
+1.b4. , SZUR2~a 
+2.a. 3(N01) , KISZ ZATU849 A SANGA~a 
+166369	2.b1. 1(N57) , SAL 
+2.b2. 1(N57) , |U4x3(N57)| LAM~b 
+2.b3. 1(N57) , |U4x2(N57)| LAM~b 
+2.b4. , DIM~a 
+2.b5. , SZUR2~a 
+166375	1.a1. 1(N45) , SZE~a 
+1.a2. , ZATU811 |BU~axGISZ@t|? 
+1.b. , EN~a U4 SI#? 
+166379	2.a1. 1(N36) 1(N46) , KALAM~a PA~a 
+2.a2. , ERIN SZAGAN 
+2.b. , PA~a 
+166383	3.a1. X , X X 
+3.a2. , X X 
+3.b. , KU6~a AB~b AB~b 
+166387	4.a1. 3(N14) , E2~b# NAGA~a 
+4.a2. , SZAGAN# SZU ME~a 
+4.b. , SI? 
+166391	1.a1. 7(N14)# 3(N01) , SZE~a 
+1.a2. 1(N36)# 1(N46)# , SZAGAN |GI&GI| 
+1.b. , AB~a ME~a GI? 
+166395	2.a1. 1(N34) , SZE~a AB~a 
+2.a2. 3(N14) 3(N01) , BAR 
+2.a3. 3(N19) [...] , [...] 
+2.b. , X X 
+166400	3.a1. [...] , [...] 
+3.a2. [...] , [...] 
+3.b. , NAR 
+4.a. 3(N19) , E2~b NAGA~a 
+4.b. , SILA4~c GAL~a 
+2.a. 3(N36) 1(N46) 8(N19) 1(N04) , 
+2.b. , EN~a |SILA3~axSZU2| A SI 
+166408	1.a1. 4(N14)# , SZE~a# 
+1.a2. 6(N19)# 3(N04)# , 
+1.b. , GIR3~c#? 
+1.a. [...] 1(N14)# 2(N01)# , X X 
+1.b. 1(N14)# , X 
+2.a. [...] , [...] X 
+2.b. 5(N01)# , UR~a MU 
+1.a. 6(N01) , HI UDU~a# 
+166417	1.b1. 3(N01)# , U8#? [...] 
+1.b2. 1(N01) , UD5~a 
+1.b3. 2(N01) , NUN~b 
+6.a. 4(N34) [...] , [...] 
+6.b. 3(N14) , NI~a# LU2? [...] 
+1.a. 3(N34)# 3(N14)# 7(N01)# , LAGAB~b GU7 SUHUR# |GA2~a1xSUKUD| GU7#? 
+166424	1.b1. 3(N34)# 1(N14)# 4(N01)# , SUHUR# 
+1.b2. 2(N14)# 3(N01)# , |GA2~a1x(SUKUD&SUKUD)~b|# 
+1.a. 1(N46) 1(N20) 3(N05) , HI@g~a 
+166428	1.b1. 5(N05) 1(N42~a) , HI@g~a GU7 
+1.b2. 1(N46) 3(N05) 4(N42~a) , BA 
+2.a. 1(N46) 2(N20) 4(N05) 3(N42~a)# , SZE~a 
+166432	2.b1. 1(N20) 5(N05) 3(N42~a) , GU7 SZE~a 
+2.b2. 1(N46) 5(N05) , SZE~a BA 
+1.a. 1(N14) , |NINDA2x1(N01)| 
+1.b. 1(N20) 4(N05)# , 
+2.a. 1(N34) , 2(N39~a)#? 
+2.b. 4(N20)# , 
+3.a. 6(N51)# , DU8~c? 
+3.b. 4(N20)# 4(N05)# 4(N42~a)# , 
+4.a. 5(N51)# , X DU8~c 
+4.b. [...] , 
+1.a. [...] , [...] AB~b# X URU~a1 
+166444	1.b1. 6(N01) , X 
+1.b2. 5(N01) , 
+2.a. 3(N01)? , EN~a GI 
+2.b. , |U4x1(N57)| KASZ~c 
+2.c. 1(N02) , 
+3.a. 2(N01)? , KASZ~c SZUBUR HI@g~a 
+3.b. 2(N02) , 
+4.a. [...] , [...] X 
+4.b. 1(N02) , 
+5.a. [...] , [...] X 
+5.b. 1(N02) , 
+3.a. 1(N01) , X 
+3.b. 1(N08) , X 
+1.a. [...] , [...] 
+1.b. , |U4x1(N14)|# 
+1.c. 5(N01)#? , 
+1.d. 2(N02)#? , 
+2.a. [...] 2(N08)# , UDU~a 
+2.b. , |U4x1(N14)| 
+2.c. 3(N01) , 
+2.d. 3(N02) , 
+3.a. 1(N01) 1(N08) 1(N08~v) , X 
+3.b. , |U4x1(N14)| 5(N08) 
+3.c. 5(N01)# , 
+3.d. 3(N02) , 
+4.a. , |U4x1(N01).5(N08)| [...] 
+4.b. 1(N14) 4(N01)# , LAGAB~b? [...] 
+4.c. [...] 3(N01)#? , [...] 
+4.d. [...] , 
+1.a. 5(N01)#? , [...] X X SAL MASZ2 
+166475	1.b1. , [...] X U4 
+1.b2. , MASZ2 DU X X 
+1.b3. , MASZ2 GISZ3~a#? 
+1.b4. , MASZ2 PA~a 
+1.a. , I UDU~a 
+1.b. , GIR3@g~b AN GU 
+2.a. , I# 
+2.b. , HAL PAP~a 
+3.a. , I# 
+3.b. , SZU GI 
+4.a. , I# 
+4.b. , LUGAL X 
+2.a'. 2(N01)#? , X 
+2.b'. 2(N39~a) , HI@g 
+4.a. 2(N14) 2(N01) , EN~a NE~a 
+4.b. 6(N14) , LAGAB~b X 
+1.a. 1(N45) 2(N14) , SZE~a KU6~a KISAL~b1 
+166493	1.b1. 1(N46) 1(N19)# , [...] 
+1.b2. 4(N19)# , [...] 
+2.a. 1(N45)# 1(N14)# [...] , SZE~a# X [...] 
+166497	2.b1. 1(N46)# , [...] 
+2.b2. [...] , [...] 
+3.a. [...] , SZU# GI 
+3.b. 4(N01) , SZE~a 
+1.a'. [N] , HI@g 
+1.b'. 1(N01)? , EN~a 
+1.c'. N? , X 
+2.a'. 1(N14)# , SZU ZI~a 
+2.b'. 4(N01) , SZE~a 
+1.a. 2(N50) 4(N14)# 4(N01) , GAN2# |SZE~a&SZE~a|# GAL~a SZAB~a 
+1.b. 2(N14)# , GURUSZ~a SAL 
+1.c. 4(N50)# 7(N14)# [N] , GAN2 KI A 
+2.a. 3(N50)#? 2(N22) 4(N01) , |SZE~a&SZE~a| GAN2# GIR3@g~b# PA~a 
+2.b. 2(N14) , GURUSZ~a SAL 
+2.c. 4(N50) 2(N14) 1(N22) 5(N01) , GAN2 KI# A# 
+3.a. 3(N50)# [...] 1(N14) 1(N01) , |SZE~a&SZE~a| BA [GAN2] NAM2# DI# 
+3.b. 4(N14) , GURUSZ~a# [SAL] 
+3.c. 3(N50)# 8(N14)# 1(N22)# 2(N01) , GAN2# KI# A# 
+1.a. [2(N50) N] , [|SZE~a&SZE~a| GAN2] EN~c# SAL# 
+1.b. [2(N14) N?] , [GURUSZ~a SAL] 
+1.c. [N] , [GAN2 KI A] 
+2.a. 1(N50) [n?] 4(N14) 2(N22)# , |SZE~a&SZE~a|# ME~a# |NI~a.RU| 
+2.b. 2(N14)# [n?] , GURUSZ~a# SAL# 
+2.c. [N] , [GAN2 KI A] 
+166522	1.a1. [4(N34)] 5(N14)# , [1(N57)] GAL~a SZAB~a 
+1.a2. 1(N34) 4(N14) , 1(N58) 
+166525	1.b1. 1(N50) 6(N14) , GAN2 
+1.b2. 2(N22) , BAR 
+166528	2.a1. 5(N34) 1(N14) 2(N01) , [1(N57)] PA~a# GIR3@g~b 
+2.a2. 1(N34) 3(N14)# , 1(N58)# 
+166531	2.b1. 1(N50) 5(N14) , GAN2# 
+2.b2. 1(N22) 4(N01) 7(N08) , 
+166534	3.a1. 4(N34) 5(N14) , 1(N57) NAM2 DI 
+3.a2. 1(N34) 3(N14) 3(N01) , 1(N58) 
+3.b. 1(N50) 5(N14) , GAN2 
+166538	4.a1. 4(N34) 5(N14) , 1(N57) ME~a 
+4.a2. 1(N34) 2(N01) , 1(N58) 
+4.b. 1(N50) 2(N08) , GAN2 
+166542	5.a1. 5(N34) , [1(N57)] EN~c SAL 
+5.a2. 1(N34) 5(N14) , 1(N58) 
+166545	5.b1. 1(N50) 8(N14) , GAN2 
+5.b2. 1(N14) 2(N22) , [...] 
+166548	1.a1. 1(N34) 4(N14) 2(N01) , 1(N57) EN~c# SAL# 
+1.a2. 1(N34)# 4(N14)# , 1(N58)# 
+1.b. 5(N14) 2(N22) , [GAN2] 
+166552	2.a1. 1(N34) 4(N14) 2(N01) , 1(N57)# PA~a# GIR3@g~b# 
+2.a2. 1(N34) 4(N14) , 1(N58) 
+2.b. 5(N14) 2(N22) , GAN2# 
+166556	3.a1. 1(N34) 4(N14) 2(N01) , [1(N57) GAL~a] SZAB~a# 
+3.a2. 1(N34)# 4(N14)# , [1(N58)] 
+3.b. 5(N14)# 2(N22)# , GAN2# 
+166560	4.a1. 3(N14)# 6(N01)# [4(N08)?] , [1(N57)] ME~a# 
+4.a2. 1(N34) 4(N14) , 1(N58)# 
+166563	4.b1. 2(N14) , GAN2# 
+4.b2. 4(N08)# , BAR# 
+166566	5.a1. [1(N34) 4(N14) 2(N01)] , [1(N57)] NAM2# DI 
+5.a2. 1(N34) 4(N14) , 1(N58)# 
+5.b. 5(N14)# 2(N22)# , GAN2# 
+166570	1.a1. 5(N34) 2(N14) , 1(N57) GAL~a SZAB~a 
+1.a2. 4(N14) 2(N01) , 1(N58) 
+166573	1.b1. 7(N14) , GAN2# 
+1.b2. [1(N22) 2(N01) 4(N08)?] , [KI] BAR# 
+166576	2.a1. 5(N34) 2(N14) , 1(N57) PA~a GIR3@g~b 
+2.a2. 4(N14) 5(N01) , 1(N58) 
+166579	2.b1. 6(N14) , GAN2 
+2.b2. 2(N14) , KI BAR 
+166582	3.a1. 5(N34) 5(N14) 4(N01)? , 1(N57) NAM2 DI 
+3.a2. 3(N14) 7(N01) , 1(N58) 
+166585	3.b1. 7(N14)# , [GAN2] 
+3.b2. 5(N01)# , BAR# 
+166588	4.a1. 5(N34) 5(N14) 4(N01)#? , [1(N57) ...] 
+4.a2. 3(N14)# 7(N01)# , 1(N58) 
+166591	4.b1. <7(N14) , GAN2> 
+4.b2. 5(N01) , KI BAR 
+166594	5.a1. 5(N34)# [...] , [1(N57) ...] 
+5.a2. [...] , [1(N58)] 
+166597	5.b1. 3(N14)# , [GAN2] 
+5.b2. 1(N01) 7(N08) , [KI BAR] 
+166600	1.a1. 4(N34) 5(N14) 3(N01) , 1(N57) ME~a# 
+1.a2. [...] , [1(N58)] 
+166603	1.b1. [...] , [GAN2] 
+1.b2. [3(N14) ...] , [KI BAR] 
+166606	2.a1. 5(N34) , 1(N57) GAL~a# SZAB~a# 
+2.a2. [...] , [1(N58)] 
+2.b. [...] , [GAN2] 
+166610	3.a1. 5(N34) , 1(N57) GIR3@g~b# [PA~a] 
+3.a2. [...] , [1(N58)] 
+3.b. [...] , [GAN2] 
+166614	4.a1. 5(N34) , 1(N57)# NAM2# [DI] 
+4.a2. [4(N34)] , [1(N58)] 
+4.b. 4(N50)# , [GAN2] 
+166618	5.a1. 5(N34)# , [1(N57)] EN~c SAL# 
+5.a2. 4(N34) , 1(N58) 
+5.b. 4(N50) , GAN2# 
+1.a. 8(N14)# 1(N01) 4(N39~a) , GAN2#? SZE~a EN~a# GI# 
+1.b. 1(N46) 1(N19) 3(N41)# [1(N24~b)] , 
+1.a. [...] , [...] 
+1.b. [...] 1(N14)# , EN~a [...] 
+2.a. 3(N14)# [...] , MASZ GAN2# BA [...] 
+166628	2.b1A. 1(N14) , EN~a X DU# 
+2.b1B. X [...] , [...] 
+166631	2.b2A. 1(N22) , 3(N57)# ME~a#? 
+2.b2B. [...] , [...] 
+166634	2.b3A. [...] , [...] 
+2.b3B. [...] , [...] 
+166637	2.b4A. 1(N14) , X [...] 
+2.b4B. [...] , [...] 
+2.a. , |GISZ.TE|# DU ME~a 
+2.b. , SZUBUR E2~a# SANGA~a# 
+1.a. 2(N01) , E2~a 3(N57) 
+1.b. , KA~a GU 
+1.a. 1(N14) 1(N24) , 3(N57) BA DUB~a GI UB AB~a APIN~a 
+1.b. , ZATU659 
+1.a. 8(N01) , APIN~a# [...] 
+166647	1.b1. , EN~a# GI 
+1.b2. , TI@t X [...] 
+1.a. 3(N14) 1(N01) 3(N39~a) , [...] 
+166651	1.b1. 3(N14) , ME~a? GIBIL 
+1.b2. 3(N39~a) 1(N24) , X [...] 
+166654	2.a1. [...] , [...] X 
+2.a2. , TAK4~a@n IB~a? [...] 
+166657	2.b1. 1(N01) , X NI~a#? [...] 
+2.b2. , X [...] 
+2.b3. [...] , [...] 
+166661	1.a1. 1(N45) , 
+1.a2. 1(N14) , TAR~a 
+1.b. , SANGA~a |SZITA@g~ax1(N06)| 
+166665	2.a1. 5(N14) , 
+2.a2. 3(N01) , TAR~a 
+2.b. , ME~a |NI~a.RU| 
+166669	3.a1. 5(N14) , 
+3.a2. 3(N01) , TAR~a 
+3.b. , SANGA~a |NI~a.RU| 
+1.a. 1(N34) , URU~a1 MA IB~a [...] 
+1.b. 3(N14) , TAR~a 
+1.a. [...] 1(N45)# , X X SZE~a 
+1.b. , |DUxDISZ|? BAHAR2~b MUSZEN# ZATU694~c 
+2.a. 4(N14)# 2(N01)# , SZE~a |SZE~a.NAM2|? X 
+2.b. 5(N01)# , X 
+1.a. [...] , SZE~a 
+1.b. 7(N19) , 
+1.a. [...] 1(N34)# 3(N14) [...] , PAP~a [...] 
+1.b. 2(N46) 2(N19) , 
+2.a. [...] 1(N34) 2(N14) 3(N01)# [...] , [...] 
+2.b. 2(N46) 3(N19) , 
+4.a. [...] , [...] 
+4.b. [...] 1(N19) 1(N04) , 
+5.a. [...] , [...] 
+5.b. [...] 2(N46)# [...] , [...] 
+1.a. 1(N34) 1(N45)# , SZE~a# [...] 
+1.b. 1(N36) 1(N46) , 
+2.a. 1(N45) , PAP~a NAM2 BU~a X TUR# 
+2.b. 3(N19) , 
+1.a. 1(N14) , SZE~a PA~a NAM2 
+1.b. 4(N04) , 
+1.a. [...] , ZATU644~a# 
+166696	1.b1. [...] , EN~a PA~a 
+1.b2. 1(N01) , UKKIN~a 
+2.a. 3(N14)# 2(N08)#? , X X 
+2.b. 4(N01)#? 1(N08)#? , [...] 
+3.a. 2(N14)# 2(N01)# [...] , [...] 
+3.b. 2(N19)#? [...] , [...] 
+1.a. 3(N14)# 3(N01)# , SZE~a SZAM2# BA 
+1.b. 1(N14) 2(N01) 1(N39~a) , GI 
+2.a. 4(N19) 3(N04) 3(N41) , BA SZAM2 
+2.b. 2(N19)# 2(N04) 1(N41) , GI 
+166707	1.a1. [...] 1(N19)# , [...] SZE~a# 
+1.a2. [...] 8(N14) , [...] SZE~a# 
+166710	1.b1. [...] , [...] 
+1.b2. 2(N19) , [...] 
+1.a. 1(N01) , SI X 
+1.b. 1(N14) 5(N01) , 
+2.a. 2(N14) 4(N01) 2(N39~a) 1(N24) , [...] 
+166716	2.b1. 2(N14) , BA 
+2.b2. 3(N14) 4(N01) 2(N39~a) [...] , [...] 
+3.a. 1(N14) 1(N01) , SZU E2~b NANNA~a 
+166720	3.b1. 5(N01) , ZATU751~a#? 
+3.b2. 5(N01) , NAGAR~a AB~a 
+3.b3. 1(N01) , KASKAL# [...] 
+1.a. [...] , ZATU773~a? NUNUZ~a1 
+1.b. 4(N14) , SZE~a 
+2.a. [...] , X SI [...] 
+2.b. 4(N14) , SZE~a [...] 
+2.a. [...] , [...] SZIM~a#? KU3~a#? 
+166729	2.b1. , MUSZEN# KI# 
+2.b2. , SANGA~a#? X KI# 
+3.a. , SANGA~a# KU6~a# 
+3.b. , X LU2# SZU#? 
+1.a. 3(N01)# , SZU2# X 
+1.b. 2(N01)# [...] , ZATU753 
+1.a. 3(N14) 6(N01) , SZU2 
+1.b. 1(N01) , DUB~a GI 
+2.a. 1(N34) 1(N14) 9(N01) 1(N08) , GAR BA 
+166739	2.b1. 6(N01) 1(N08) , 1(N39~a) 
+2.b2. 8(N01) , ZATU726~d 
+2.b3. 1(N34) 5(N01) , GAR 
+3.a. 1(N14)# 9(N01)# , 1(N24) U4#? [...] 
+166744	3.b1. 5(N01) , U4 E2~a SZITA~a1 NUN~a GU7 
+3.b2. 1(N14) 4(N01) , BA 
+166747	1.a1. , |U4x(1(N14).8(N01))| 
+1.a2. 9(N14)# [...] , [...] 
+166751	1.b1A. , |U4x6(N01)| 
+1.b1B. 3(N20)# , [...] 
+166754	1.b2A. , [|U4x(1(N14).2(N01))|] 
+1.b2B. [6(N20)] , [...] 
+1.b3. , X [...] 
+166758	2.a1. , |U4x(3(N14).2(N01))|# 
+2.a2. 1(N34)# 4(N01)# , UDU~a GI# 
+166762	2.b1A. , |U4.2(N14)| 
+2.b1B. 4(N14) , UDU~a 
+166765	2.b2A. , |U4x(1(N14).2(N01))| 
+2.b2B. 2(N14) 4(N01) , 
+2.b3. , EN~a# DU# UB# 
+1.a. 2(N20) , 
+166770	1.b1. 5(N05) , |1(N58).BAD~a|# 
+1.b2. 1(N20) 1(N05) , ERIN# 
+2.a. 3(N14) , UDU~a# 
+166774	2.b1. 1(N14) , |1(N58).BAD~a|# 
+2.b2. 2(N14) , UKKIN~a# 
+3.a. 1(N38) , 
+3.b. , |1(N58).BAD~a| 
+6.a. 1(N51) , GAR 1(N24)? 
+6.b. 4(N05) , 
+1.a. 1(N34) 9(N14) 3(N01) 3(N39~a) , LAGAB~b |U4x3(N57)| SZE~a GI GIR3@g~b PA~a |AMAR.1(N02)| 
+166783	1.b1A. , [...] |U4x8(N01).X|# AB~a SAG KALAM~a PA~a 
+1.b1B. [9(N14) 2(N01)] , SZE~a [...] 
+1.b2. 1(N45) , BA? UNUG~a KALAM~a#? [...] 
+1.b3. 2(N45) 1(N01) 3(N39~a) , SZE~a# GI# [...] 
+1.a. [4(N01)] , [1(N39~a)] 
+1.b. 4(N42~a) , 
+2.a. [6(N01)] , [1(N24)] 
+2.b. 3(N42~a) , 
+166792	3.a1. 8(N01)#? , [...] X 
+3.a2. 4(N01) , SIG2~a3 
+3.b. 2(N42~a) 1(N25) , 
+4.a. 1(N51) 1(N14) 8(N01) , |5(N57).GAR| 
+4.b. 4(N05) 2(N42~a) 1(N25) , 
+5.a. 4(N01) , GUG2 
+5.b. 1(N42~a) , 
+6.a. 1(N14) , SZA GUG2 
+6.b. 1(N42~a) 1(N25) , 
+7.a. 4(N14) , |LAGAB~axSZA| E2~a DUB~a 
+7.b. 1(N05) , 
+1.a. 2(N14) , DUG~a KASZ~a 
+1.b. [1(N05) 3(N42~a)] , 
+2.a. 1(N14) , DUG~a KASZ~a E2~a DUB~a 
+2.b. 3(N42~a) 1(N25) , 
+1.a. 1(N51) 1(N34) 3(N14) , GAR# 
+1.b. 1(N20) 1(N05) 4(N42~a) 1(N25) , 
+2.a. 3(N14) , DUG~a KASZ~a 
+166811	2.b1. 2(N05) 1(N42~a) 1(N25) , 
+2.b2. 2(N03) , 
+1.a. 1(N37) 2(N47) 2(N20) , SZE~a |U4x4(N57)| AMAR 
+166815	1.b1. 5(N14)# , SZE~a KID~a EN~a KALAM~a# PA~a 
+1.b2. 5(N01) , SZE~a KI 1(N02) 
+166818	1.b3A. 7(N19)# 1(N04) , [...] 1(N02)# 
+1.b3B. 3(N20) 3(N05) 2(N42~a) 1(N25) , X SZE3 
+1.b4. 3(N14) , PA~a U4 KALAM~b MUSZEN#? X [...] 
+1.b5. 1(N34) 9(N14) 3(N01) 2(N39~a) 1(N24) , SZE~a GI 
+2.a. 2(N34) 1(N45)# 8(N14)# , |U4x6(N57)|# SZE~a# GIR3@g~b# [...] 
+166824	2.b1. 1(N45) 1(N14) , PAP~a X 
+2.b2. 1(N45) 1(N14) , 3(N57) SAL# [...] 
+2.b3. [...] , [...] 
+2.b4. 1(N34) 8(N14) , SZE~a GI 
+1.a. 2(N20) , 
+166830	1.b1. 5(N05) , |1(N58).BAD~a| 
+1.b2. 1(N20) 1(N05) , ERIN 
+2.a. 3(N14) , UDU~a 
+166834	2.b1. 1(N14) , |1(N58).BAD~a| 
+2.b2. 2(N14) , UKKIN~a 
+4.a. 6(N01) , SZU2 
+166838	4.b1. 1(N01) , |1(N58).BAD~a| 
+4.b2. 5(N01) , UKKIN~a 
+5.a. 3(N01) , ZATU644~a 
+166842	5.b1. 1(N01) , |1(N58).BAD~a| 
+5.b2. 1(N01) , UKKIN~a 
+5.b3. 1(N01) , |4(N57).AMAR| 
+4.a. 1(N01) , ZATU644~a 
+4.b. , 2(N57) SZU2 
+3.a. , [...] GIR3~c SZE3? EN~a NUN~a SANGA~a 
+3.b. , GA~a# AB~a 
+1.a. 1(N51)# [1(N34)] , [GAR] 
+1.b. 1(N20)# , 
+2.a. 4(N14)# , X 
+2.b. 1(N05) 1(N42~a)# 1(N25)# 1(N28~c)# , 
+3.a. [...] , [...] 
+3.b. [...] , 
+4.a. 1(N14) , GUG2# SZA# 
+4.b. 1(N42~a) 1(N25) 1(N28~c)# , 
+5.a. 4(N14) , GUG2 |LAGAB~axSZA|#? DUB~a E2~a 
+5.b. 1(N05) 1(N42~a) 1(N25) 1(N28~c)# , 
+6.a. [...] , [...] DUG~a#? 
+6.b. 1(N05)# [...] , 
+166862	1.a1. [...] , [...] X 
+1.a2. 3(N01) , GUG2#? SZA#? 
+1.a3. 5(N01) , SIG2~b 
+1.b. [...] 1(N25) 1(N28~c) , 
+2.a. 3(N14) 8(N01) , |5(N57).GAR| 
+2.b. 1(N05) [1(N42~a) ...] , 
+1.a. [...] 2(N01)# , [...] SZA#? 
+1.b. [...] 1(N25) , 
+2.a. 1(N14)# , DUG~a# KASZ~a# 
+166872	2.b1. 3(N42~a) 1(N25) , 
+2.b2. 1(N40) , 
+1.a. 1(N51)# [...] 1(N14)#? , GAR 
+1.b. 2(N20)# 1(N05) 2(N42~a)# , 
+2.a. 4(N14)# [...] , [DUG~a] KASZ~a# 
+166878	2.b1. 3(N05)# 1(N42~a)# , 
+2.b2. 1(N03)# 3(N40)# , 
+3.a. 3(N14) , UDU~a 
+3.b. 5(N01) , DUG~a 
+1.a. [...] 3(N01)# , X 
+1.b. [...] , [...] TE 
+2.a. 3(N14) , SZE~a TU~b# GI X [...] 
+2.b. 4(N19)# , X 
+1.a. 1(N45) 1(N14) 4(N01) , SZE~a BA 
+1.b. 2(N14) 4(N39~a) , SZA3~a1 
+2.a. 5(N19) 3(N04) , 
+2.b. 1(N19) 3(N41) , BAR 
+3.a. [...] , [...] 
+3.b. [...] 3(N39~a)# , [...] 
+4.a. [...] , [...] 
+4.b. [...] , [...] 
+1.a. [...] , X KASZ~b |U4x1(N57)|# 
+1.b. [...] , [...] |U4x5(N57)|# 
+1.a. [...] 1(N14)# , X [...] 
+1.b. [...] 1(N01)# , [...] 
+2.a. 1(N14) 2(N01) , SZU2 
+2.b. 2(N14)# [...] , [...] 
+1.a. [...] , [GAR] 
+1.b. [...] , 
+2.a. 4(N14) [...] , [DUG~a] KASZ~a 
+166904	2.b1. [...] , 
+2.b2. [...] 2(N03)# , 
+1.a. , EN~a EN~a KID~a 
+1.b. , ENGIZ SZAGAN# 
+1.a. 2(N01) , 1(N39~a) 
+1.b. 2(N42~a) , 
+2.a. 3(N01) , 1(N24) 
+2.b. 1(N42~a) 1(N25) , 
+3.a. 5(N14) 5(N01) , |5(N57).GAR| 
+3.b. 2(N05) 2(N42~a) 1(N25) , 
+4.a. 1(N14) , DU8~c 
+4.b. 1(N42~a) , 
+5.a. 1(N14) , MUSZEN MASZ 
+5.b. 1(N42~a)# 1(N25)# , 
+6.a. 2(N01) , GUG2 
+6.b. 1(N28~c) , 
+7.a. 1(N14) , SZA@g GUG2 
+7.b. 1(N42~a) 1(N25) , 
+1.a. 1(N14) , |(SZAxHI@g~a)~a| 
+1.b. 1(N42~a) 1(N25) , 
+2.a. 2(N14)# , |LAGAB~axSZITA~a1|# E2~a DUB~a 
+2.b. 2(N42~a) , 
+3.a. 1(N14) , DUG~a KASZ~a 
+166928	3.b1. 3(N42~a) 1(N25) , 
+3.b2. 2(N40) , 
+4.a. 5(N01)# , DUG~a# KASZ~a# DUB~a E2~a 
+166932	4.b1. 1(N42~a) 1(N25) 1(N28~c) , 
+4.b2. 1(N24~a) , 
+1.a. 1(N51)# 2(N01)# , |N(N57).GAR|# 
+1.b. 4(N05)# 3(N42~a)# 1(N25) 1(N28~c)# , 
+2.a. 1(N14)# 5(N01)# , [DUG~a KASZ~a] 
+166938	2.b1. 1(N05)# 1(N28~c)# , 
+2.b2. [2(N40) 1(N24~a)] , 
+1.a. 2(N51)# 3(N14) 7(N01) [...] , GUG2 GAR# 
+1.b. 2(N20) 1(N05) 1(N42~a) 1(N25) , 
+2.a. 4(N14) 5(N01) , DUG~a KASZ~a# 
+166944	2.b1. 2(N05) 2(N42~a) 1(N25) , 
+2.b2. 1(N03) 2(N40) , 
+1.a. 4(N01) , 1(N39~a) 
+1.b. 4(N42~a) , 
+2.a. 6(N01) , 1(N24) 
+2.b. 3(N42~a)# , 
+3.a. 1(N51) , GAR 1(N28) 
+3.b. 1(N20)# , 
+4.a. 2(N14) [...] , X 
+4.b. 1(N05)# , 
+5.a. 4(N01)# , GUG2# 
+5.b. 1(N42~a)# , 
+6.a. 3(N14)# , SZA# GUG2# 
+6.b. [1(N42~a) 1(N25)?] , 
+7.a. 4(N14)# , |LAGAB~axSZITA~a1|# E2~a# DUB~a#? 
+7.b. 1(N05)# 1(N42~a)# 1(N25)# 1(N30A~c)#? , 
+8.a. 3(N14) , DUG~a KASZ~a 
+8.b. 2(N05)# [...] , 
+9.a. 7(N01)# , [HASZHUR] 
+9.b. [2(N01)] , [MA ZATU735~b] 
+9.c. [2(N01)] , [|GA2~a1xGESZTU~c5|] 
+11.a. 7(N01) , HASZHUR 
+166967	11.b1. 2(N01) , MA ZATU735~b 
+11.b2. 2(N01) , |GA2~a1xGESZTU~c5|# 
+1.a. 1(N51) 1(N34) 4(N14) 4(N01)# , GUG2 GAR 
+1.b. 1(N20) 4(N05)# [...] 1(N25) , 
+2.a. 3(N14)# , DUG~a# KASZ~a# 
+166973	2.b1. [2(N05) ... 1(N25)] , 
+2.b2. 1(N03) [2(N40)] , 
+1.a. 1(N05) , HI@g~a 
+166977	1.b1. 4(N05) , SZE~a 
+1.b2. 2(N03) , 
+1.a. 1(N05) , HI@g~a 
+166981	1.b1. 5(N05) , 
+1.b2. 1(N42~a) , HI@g~a 
+1.b3. 1(N25)# , GUG2 
+1.b4. [...] , NE~a# [...] 
+1.b5. [...] , HI@g~a# NE~a# 
+1.a. 2(N05) 1(N42~a) , HI@g~a 
+166988	1.b1. 1(N05) , SZE~a 
+1.b2. 1(N25) , HI@g~a# NE~a# 
+1.b3. 3(N03) , 
+3.a. 1(N14) , GAR 
+3.b. 1(N42~a) 1(N28~c)# , 
+4.a. 2(N01)# , KASZ~a 
+166995	4.b1. [1(N42~a)] 1(N28~c)# , 
+4.b2. 1(N24~a)# , 
+5.a. , NU@g AB~a GI 
+5.b. , A# NUN~a 
+3.a. 1(N14) , GAR# 
+3.b. 1(N42~a) 1(N28~c) , 
+4.a. 5(N01) , KASZ~a 
+167003	4.b1. 1(N42~a) 1(N25) , 
+4.b2. 1(N24~a) , 
+3.a. 2(N14) , GAR 
+3.b. 2(N42~a) 1(N25) , 
+4.a. 7(N01) , KASZ~a 
+4.b. 2(N42~a)# 1(N25) 1(N28~c) , 
+167010	1.a1. , [|U4.(1(N14).8(N08))|?] TI# GIR3@g~b# [1(N57)] 
+1.a2. , |U4.(1(N14).4(N08))|#? 2(N57)# 
+1.a3. , |U4.3(N08)|# 3(N57) 
+1.b. , |U4x1(N01).5(N08)| 
+1.c. 3(N01) 2(N39~a) 1(N24) , SZE~a 
+1.d. 1(N39~a) 1(N24) 1(N30~a) , TAR~a 
+1.e. , UNUG~a 
+2.a. [...] , NAMESZDA# 
+2.b. 1(N01) , SZE~a 
+2.c. 1(N24) , 
+3.a. 1(N14) 1(N01) , UDU~a PAP~a BU~a NAM2 
+167022	3.b1. 4(N01) , UDU~a |U4x2(N01)| 
+3.b2. 7(N01) , UDU~a |U4x3(N01)| 
+2.a. , 1(N24) |U4x3(N57)| EN~a PA~a 
+2.b. 1(N45) 9(N14) 4(N01) 4(N39~a)# , SZE~a# 
+1.a. 1(N20) , 
+167028	1.b1. 2(N05) , HI@g~a 
+1.b2. 4(N05)#? , [...] 
+1.a. [...] , [...] EN~a#? AN# NA~a 
+1.b. [...] , [...] SUG5#? DU 
+2.a. 5(N01) , |(SUKUD+SUKUD)~b| MASZ 
+167034	2.b1. , MASZ DU [...] 
+2.b2. , NA~a# [...] 
+2.b3. , NA~a X [...] 
+3.a. 1(N01) , GU4 
+3.b. , KASKAL GU4 UB 
+4.a. 1(N01) , [...] 
+4.b. , EN~a AN URUDU~a [...] 
+1.a. [...] , [...] 
+1.b. [...] 1(N25) , 
+2.a. [...] 2(N01) , GUG2 
+2.b. 1(N25) , 
+3.a. [...] , [...] 
+1.a. [...] , [DUG~a KASZ~a] DUB~a# E2~a# 
+1.b. [...] 1(N25) 1(N30A~c)#? , 
+1.a. [...] 1(N14)# , KASZ~a#? [...] 
+1.b. [...] 1(N25)# , 
+1.a. 6(N01)# , GUG2# SZA 
+1.b. 1(N42~a) , 
+2.a. 2(N14) , |LAGAB~axSZA| DUB~a E2~a 
+2.b. 2(N42~a) , 
+2.a. 1(N14) , GAR# 
+2.b. [...] , 
+3.a. 2(N01) , KASZ~a# 
+3.b. 1(N28~c) , 
+1.a. [...] , [...] SZE~a KALAM~a PA~a 
+1.b. [...] , [...] 
+1.a. [1(N14)] , 1(N30~a) 
+1.b. [1(N42~a)] 1(N25) 1(N30A~c)# , 
+2.a. 2(N01) , KASZ~a 
+2.b. 1(N28~c) , 
+3.a. 1(N01) , ZATU710# 
+3.b. 1(N25)# , 
+1.a. 2(N01) , 1(N39~a) 
+1.b. 2(N42~a)# , 
+2.a. 3(N01) , 1(N24) 
+2.b. 1(N42~a)# 1(N25)# , 
+3.a. 1(N34)# 1(N14)# 2(N01) [...] , GAR# [...] 
+1.a. 1(N01) , |NINDA2x1(N01)| 
+1.b. 1(N05) , 
+2.a. 1(N01) , 1(N39~a) 
+2.b. 1(N42~a) , 
+3.a. 2(N01) , 1(N24) 
+3.b. 1(N42~a) , 
+4.a. 6(N01) , 1(N28) 
+4.b. 1(N42~a) 1(N25) , 
+5.a. 2(N14) , GAR 
+5.b. 3(N42~a) 1(N25) , 
+6.a. 5(N01)# , DUG~a KASZ~a 
+6.b. 1(N42~a) 1(N28~c) , 
+1.a. , |NI~a.RU| 
+1.b. , EN~a PAP~a DU GIR3@g~b EN~a ABGAL 
+2.a. 1(N01) , AB2 X 
+2.b. , UTUL~a GAL~a 
+2.c. 5(N01) , UDU~a 
+1.a. [...] , [...] 
+1.b. [...] , [...] X 
+2.a. [...] 2(N01)# , SZITA~a1 
+2.b. 1(N01) , |SILA3~axKU6~a| 
+3.a. 1(N08) , [...] X 
+3.b. 2(N01) , SZITA~a1 
+4.a. |ZATU659x1(N01)|# , SAG# [...] 
+4.b. 1(N01) , SZITA~a1 
+5.a. |ZATU659x1(N01)|# , SIG7# SAL#? X 
+5.b. [...] , X 
+6.a. |ZATU659x1(N01)| , TU~b HI SZA3~a2 
+6.b. 1(N01) , SZITA~a1 
+7.a. |ZATU659x1(N01)| , AMA~a AGAR2 
+7.b. 1(N01) , SZITA~a1 
+8.a. |ZATU659x1(N01)| , AN NIM~b3 
+8.b. 1(N01) , SZITA~a1 
+9.a. 2(N01) , GAR |NI~a.RU| ME~a 
+167106	9.b1. 1(N01) , KASZ~a 
+9.b2. 1(N01) , SZITA~a1 
+1.a. [...] , ENGIZ# SZAGAN# 
+1.b. 1(N01) , SZITA~a1 
+2.a. 1(N08) , EN~a UMUN2 ABGAL 
+2.b. 1(N01) , SZITA~a1 
+3.a. |ZATU659x1(N01)|# , SANGA~a# |NI~a.RU|# 
+3.b. 1(N01) , SZITA~a1 
+4.a. 1(N08) , SANGA~a AB~a 
+4.b. 1(N01) , SZITA~a1 
+5.a. 1(N08) , [...] IB~a# 
+5.b. 1(N01) , SZITA~a1 
+6.a. [...] , [...] X 
+6.b. 1(N01) , SZITA~a1 
+1.a. 2(N42~a) 1(N25) , 
+167122	1.b1. 1(N42~a) , PA~a GIR3@g~b# 
+1.b2. 1(N42~a)# , X [...] 
+167125	1.b3A. [1(N14)] 2(N01) , GAR 
+1.b3B. 2(N42~a) , 
+167128	1.b4A. [...] , [...] KASZ~a# 
+1.b4B. 1(N25) , ME~a 
+2.a. |ZATU659x1(N01)|#? , |KU6~a+KU6~a| MU 
+2.b. 5(N08) , SUHUR# 
+2.c. , MASZ |(SUKUD+SUKUD)~b| 
+1.a. 2(N01) 1(N08) , EN~a GAR 
+1.b. 1(N01) , KASZ~a 
+167136	1.c1. 2(N01) , SZITA~a1 
+1.c2. 1(N01) , |SILA3~axKU6~a| 
+2.a. [...] , [...] X 
+2.b. [...] , KASZ~a 
+167141	2.c1. 2(N01) , SZITA~a1 
+2.c2. 1(N01) , |SILA3~axKU6~a| 
+3.a. [...] , [...] 
+3.b. [...] , [...] 
+3.c. [...] , SZITA~a1# 
+4.a. 1(N01) , |ZATU659x1(N01)| SAG# 
+4.b. [...] , KASZ~a#? 
+4.c. 1(N01)# , SZITA~a1 
+5.a. 1(N01) , |ZATU659x1(N01)|# 3(N57)# PAP~a# NIN 
+5.b. 1(N01) , SZITA~a1 
+6.a. [...] , [...] 
+6.b. 1(N01) , SZITA~a1# 
+1.a. , |ZATU659x1(N01)| U2~b A 
+1.b. 1(N01) , SZITA~a1 
+1.a. [...] , [...] 
+1.b. [...] , [...] SZITA~a1# 
+2.a. [...] , [...] 
+2.b. [...] , [...] X 
+3.a. [...] , [...] X 
+3.b. [...] , [...] X SZITA~a1#? 
+1.a. [...] , [...] 
+1.b. [...] , [...] 
+1.c. 1(N14)# 2(N01) , GAR# |NI~a.RU| GAR 
+1.d. 2(N42~a) , 
+2.a. [...] , [...] 
+2.b. 1(N25)# , ME~a# 
+3.a. [...] , [...] 
+3.b. 5(N08) , SUHUR 
+3.c. , MASZ |(SUKUD+SUKUD)~b| 
+1.a. [...] 2(N05) 1(N42~a) , DUG~a BA [...] 
+1.b. 1(N20) 1(N42~a) , NUN~a EN~a ME~a# PAP~a [...] 
+2.a. [...] 3(N05)# 2(N42~a) , BA# [...] 
+2.b. 4(N05) 2(N42~a) 1(N25) , DUG~a X [...] 
+4.a. [...] , BA [...] 
+167176	4.b1. , [...] 3(N57)# SAL# 
+4.b2. , EN~a PAP~a DU SANGA~a 
+1.a. [...] 3(N14)# 3(N01)# , X KASZ~b#? [...] 
+167180	1.b1. 1(N14) 2(N01) , BA 
+1.b2. 2(N14) 1(N01) , 3(N57) SAL GI# 
+1.a. 1(N01) , SZE~a U4 
+1.b. 1(N04) , 
+2.a. 2(N01) , ZATU797 
+2.b. 2(N01) , SI4~d 
+4.a. 4(N14) 1(N01) , UDU~a |U4x6(N57)|#? 
+4.b. 4(N01) , KISIM~a 
+1.a. 1(N01) , X 
+167190	1.b1. 1(N14)# , GAR 
+1.b2. 1(N42~a) 1(N25) , 
+167193	1.c1. 2(N01) , DUG~a# X 
+1.c2. 1(N42~a)# 1(N25)# , 
+1.d. , X [...] 
+4.a. 2(N01) , MA 
+4.b. 3(N01) , HASZHUR 
+5.a. 2(N01) , MA ZATU735~b 
+5.b. 2(N01) , |GA2~a1xGESZTU~c5| 
+6.a. , |NI~a.RU|# GIBIL 1(N57)# SU~a 
+167202	6.b1. , ENGIZ# SZAGAN 
+6.b2. , AB~a X [...] 
+1.a. [...] , [...] 
+1.b. , SANGA~a# AB~a# 
+1.a. 1(N14)# 4(N01)# , X X ZATU644~a# 
+167208	1.b1. 1(N14) , SZU2 
+1.b2. 1(N01)# , [...] SZU2 
+1.b3. 1(N01) , ME~a 
+1.b4. 2(N01) , ZATU753 
+2.a. 1(N01) , AMAR# EN~a# DUG~a# BAR# 
+2.b. 6(N01) , UDU~a# 
+1.a. 3(N34) , EN~a PAP~a DU 
+1.b. , GIR3@g~b AB~a AB~a SANGA~a 
+2.a. 1(N34) 2(N14) , EN~a PA~a AN ZATU686~b 
+2.b. , NAGA~a 
+3.a. 2(N34) , UB RU#? EN~a PAP~a DU 
+3.b. , MEN~a DU 
+4.a. , SANGA~a |NI~a.RU| BA 
+4.b. , UNUG~a 
+1.a. 2(N14) 2(N01) , |U4x1(N57)| LAGAB~b DUR~b 
+167224	1.b1. 9(N01) , BA DUR~b 
+1.b2. 1(N14) 3(N01) , GI# 
+2.a. [3(N14)? 1(N01)?] , |U4x2(N57)|# [LAGAB~b] DUR~b# 
+167228	2.b1. 1(N14) 2(N01) , BA DUR~b 
+2.b2. 1(N14) 9(N01)#? , GI# 
+3.a. [3(N14) 1(N01)] , [|U4x3(N57)| LAGAB~b DUR~b] 
+167232	3.b1. 1(N14) 6(N01) , [BA DUR~b] 
+3.b2. 1(N14)# 5(N01)# , [GI ...] 
+1.a. 2(N01) 3(N08)? , SZE~a# BA 
+1.b. [...] , [...] X SZE~a GI 
+2.a. , E2~a BU~a PA~a URU~a1 
+2.b. , HAL ME~a 
+1.a. [...] , [...] X 
+1.b. 1(N01)# , HI#? UDU~a#? X 
+1.c. [...] , [...] X 
+2.a. [...] , [...] X 
+2.b. 1(N01)# , X X 
+2.c. 1(N01) 1(N08) , U8 
+2.a. 5(N01) , UDUNITA~a#? 
+167246	2.b1. 1(N01) , UDUNITA~a? 
+2.b2. 4(N01) , MASZ2# 
+1.a. 1(N01) , SAL GAR# X X 
+167250	1.b1. , (ZATU751~a# ERIM~a)a 
+1.b2. , ([...] X)a 
+2.a. [1(N01)] , |SAL.KUR~a|# [...] 
+167254	2.b1. , (3(N57)# [...] X)a 
+2.b2. , ([...] KU3~a)a 
+3.a. 1(N01) , KUR~a E2~a SZA |MUSZENx2(N57)|# 
+167258	3.b1. , (SI DUG~a#? X X)a 
+3.b2. , ([...])a 
+4.a. 1(N01) , KUR~a# |MUSZENx2(N57)|# [...] 
+167262	4.b1. 1(N14) , UDU~a# 
+4.b2. 1(N01) , [...] 
+4.b3. , (AMA~a# ERIM~a MUSZEN MASZ)a 
+5.a. [1(N01)] , [...] 
+167267	5.b1. , ([...])a 
+5.b2. , ([...] SAG# ERIM~a# [...])a 
+6.a. [1(N01)] , [...] 
+167271	6.b1. , ([...] |KA2xLAM| GA~a)a 
+6.b2. , (X IL# KI?)a 
+7.a. [1(N01)] , [...] DIM~a# DA~a X 
+7.b. , (LAGAB~b |DUxDISZ|# ERIM~a)a 
+8.a. [1(N01)] , [...] X 
+8.b. , ([...] X)a 
+9.a. [1(N01)] , SAL AL# TUR [...] 
+167279	9.b1. , (AN |MUSZENx2(N57)| GAR# X SZA#)a 
+9.b2. , ([...])a 
+1.a. 1(N01) , KUR~a# EN~a# TI# E2~a# 
+1.b. , (AMA~a# MUSZEN# MASZ# KI# ZATU694~c# GI#)a 
+2.a. 1(N01) , SAL# E2~a# EN~a# [...] 
+167285	2.b1. , (GAL~a# PU2#)a 
+2.b2. , (X X [...])a 
+3.a. [1(N01)] , SAL# EN~a# |SZU2.E2~a|# 
+167289	3.b1. , (SU~a# U2~b)a 
+3.b2. , (URU~a1 SAR~a)a 
+4.a. 1(N01)# , KUR~a# ZATU735~a# E2~a 
+167293	4.b1. , (E2~a SAL AD~c)a 
+4.b2. , (GU4@g DIN)a 
+5.a. 1(N01) , SAL UD5~a 
+167297	5.b1. , (MEN~a DUR2# ZATU751~a# ERIM~a)a 
+5.b2. , (TUM~c SZA# SZA#?)a 
+6.a. 1(N01) , KUR~a X UD5~a# AD~a# 
+167301	6.b1. , (I GI6 ERIM~a#)a 
+6.b2. , (E2~a#? DAH#)a 
+7.a. 1(N01)# , PAP~a# BU~a#? NE~a 
+167305	7.b1. , (|SAGxMA|#)a 
+7.b2. , (RU# [...])a 
+8.a. 1(N01) , SAL# SZA# TAK4~a# A# 
+167309	8.b1. , (TU~b# UD5~a#?)a 
+8.b2. , ([...])a 
+1.a. 1(N02) , SAL |MAH~axNA~a|# 
+167313	1.b1. , (TUM~c SZA SZA)a 
+1.b2. , (DAH E2~a)a 
+2.a. 2(N02) , MEN~a NUNUZ~a1 TUR 
+2.b. , (DAH [...])a 
+3.a. 1(N02) , E2~a EN~a TI 
+167319	3.b1. , (SI MA)a 
+3.b2. , (|GIxKU~b1|)a 
+4.a. 1(N02) , SAL E2~a TI EN~a 
+4.b. , (|SZE~a&SZE~a| KASZ~c DA~a)a 
+5.a. 1(N02) , SAL# X X 
+5.b. , (TUM~c# KU6~a#? X)a 
+6.a. 1(N02) , SAL# MEN~a# NUNUZ~a1 
+167327	6.b1. , (SAG# TAK4~a# NI~a#)a 
+6.b2. , (KU6~a# KISIM~a# KU~b1#)a 
+7.a. 2(N02)# , MEN~a NUNUZ~a1 TUR 
+167331	7.b1. , (MUSZEN? KASZ~b)a 
+7.b2. , (DAH E2~a)a 
+8.a. 1(N02)# , |SILA3~axSZU2|# EN~a# A# 
+167335	8.b1. , (KU6~a ERIM~a)a 
+8.b2. , (E2~a DAH)a 
+9.a. 1(N02) , SAL A |SILA3~axSZU2| EN~a 
+167339	9.b1. , (MUSZEN# MASZ#)a 
+9.b2. , (|GIxKU~b1|)a 
+1.a. 1(N01) , |SAGxMA| |SAL.KUR~a| SZA E2~a |MUSZENx2(N57)| 
+167343	1.b1. , (ZATU751~a ERIM~a#)a 
+1.b2. , ([...])a 
+2.a. 1(N01)# , |SAGxMA| X SZA# [...] 
+167347	2.b1. , (DUR2 3(N57) ZATU751~a)a 
+2.b2. , (AB~a TUR#? KU3~a 1(N02))a 
+3.a. 1(N01) , |SAGxMA| SZA MUSZEN E2~a [...] 
+167351	3.b1. , (SI MA EN~a X)a 
+3.b2. , (|GIxKU~b1| BAR)a 
+4.a. 1(N01) , |SAGxMA| KUR~a SZA |MUSZENx2(N57)| E2~a 
+167355	4.b1. 1(N14) , UDU~a 
+4.b2. 1(N01) , KISZ KUR~a 
+4.b3. , (AMA~a MUSZEN MASZ ERIM~a)a 
+5.a. 1(N01) , |SAGxMA| GESZTU~c5 |MUSZENx2(N57)| GI SZA E2~a AMA~a 
+5.b. , (SAG ERIM~a TAK4~a NI~a MUSZ3~a UR2 DUR2)a 
+1.a. [1(N01)] , [...] KUR~a# PIRIG~b1# ERIM~a 
+1.b. , (|KA2xLAM| GA~a)a 
+2.a. 1(N02) , |SAL.KUR~a| E2~a EN~a TI 
+2.b. , (SI MA EN~a |GIxKU~b1|)a 
+3.a. 1(N02) , |SAL.KUR~a| EN~a TI E2~a 
+167366	3.b1. , (TUM~c KU6~a)a 
+3.b2. , (|GA2~a2xSZE3| ZATU751~a)a 
+4.a. 1(N02) , |SAL.KUR~a| EN~a E2~a TI 
+167370	4.b1. , (|SZE~a&SZE~a| KASZ~b DA~a)a 
+4.b2. , (3(N57) A)a 
+5.a. 1(N01) , |SAL.KUR~a| DIM~a DA~a |SAGxMA| 
+5.b. , (LAGAB~b |DUxDISZ|? ERIM~a)a 
+1.a. 2(N01) , |SAGxMA| |SAL.KUR~a| AL 
+1.b. , ([...] X DU)a 
+2.a. 1(N01)# , TUR# PAP~a SAL NI~a AL [...] 
+2.b. , (AN GAR# |MUSZENx2(N57)| SZA)a SAL 
+3.a. 1(N01) , KUR~a PAP~a EN~a |SZU2.E2~a| 
+3.b. , (SAL AMA~a MUSZEN MASZ |GIxKU~b1|? KI)a 
+4.a. 1(N01)# , |SAL.KUR~a|# EN~a |SZU2.E2~a| 
+4.b. , (GAL~a ERIM~a PU2)a 
+5.a. 1(N01) , |SAL.KUR~a| EN~a |SZU2.E2~a| 
+167384	5.b1. , (SU~a U2~b)a 
+5.b2. , (URU~a1 SAR~a)a 
+6.a. 1(N01) , |SAGxMA| KUR~a E2~c ZATU735~a 
+6.b. , (E2~a SAL AD~c)a 
+1.a. 1(N01)# , |SAL.KUR~a| UD5~a [...] 
+1.b. , (|GA2~a2xSZE3|# DUR2 ZATU751~a)a ERIM~a 
+2.a. [...] , [...] X 
+2.b. , (I# GI6 ERIM~a)a 
+3.a. 1(N01) , [...] PAP~a# BU~a# [...] 
+3.b. , (|SAGxMA|)a 
+4.a. 1(N01) , X [...] SAL# 
+4.b. , ([...] X)a 
+5.a. 1(N01) , |SAL.KUR~a| E2~a SZUR2~a SZU RU DU 
+5.b. , (|GA2~a2xSZE3| RU)a |SAGxMA| ERIM~a 
+6.a. 1(N01) , |SAL.KUR~a| |SAGxMA| TU~b TAK4~a A 
+167400	6.b1. , (E2~a U4 LAM~b)a 
+6.b2. , (AD~c? NI~a SZU)a 
+7.a. 1(N01) , |SAL.KUR~a| |MAH~axNA~a| 
+7.b. , (TUM~c SZA SZA)a |SAL.KUR~a| 
+8.a. 2(N01) , MEN~a TUR NUNUZ~a1 
+8.b. , (E2~a DAH)a 
+1.a. 1(N02) , |SAL.KUR~a| MEN~a NUNUZ~a1 
+167408	1.b1. , (SAG TAK4~a NI~a)a 
+1.b2. , (KU6~a KISIM~a KU~b1)a 
+2.a. 2(N02) , |SAL.KUR~a| TUR MEN~a NUNUZ~a1 
+167412	2.b1. , (MUSZEN 6(N57)? KASZ~c)a 
+2.b2. , (DAH E2~a)a 
+3.a. 1(N02) , SAL EN~a A |SILA3~axSZU2| 
+167416	3.b1. , (KU6~a ERIM~a)a 
+3.b2. , (E2~a DAH)a 
+4.a. 1(N02) , SAL |SILA3~axSZU2| EN~a A 
+167420	4.b1. , (MUSZEN MASZ)a 
+4.b2. , (|GIxKU~b1|#)a 
+167423	5.a1. 3(N01) , ME~a# 
+5.a2. , SAG 
+5.b. , X [...] 
+1.a. 2(N01)#? , GIR3@g~b PA~a#? 
+167429	1.b1A. , 1(N57) (3(N57) SAL EN~a TE)a 
+1.b1B. , (3(N57) KU6~a RAD~a)a 
+167432	1.b2A. , 1(N57) (E2~a 3(N57) DA~a)a 
+1.b2B. , (NI~a TAK4~a SAG)a 
+2.a. 2(N01)# , PA~a# AB2# KI 
+167437	2.b1A. , (EN~a ZATU630)a 
+2.b1B. , (SZUM SZUBUR)a 
+167440	2.b2A. , (E2~a# SAG# 3(N57)#)a 
+2.b2B. , (PIRIG~b1)a 
+3.a. 1(N01) , KI AB2 PA~a# 
+167444	3.b1. , (X X ME~a SZU)a 
+3.b2. , (HI AD~c GI)a 
+1.a. [2(N01)? , GIR3@g~b PA~a?] 
+167449	1.b1A. , [1(N57) (3(N57) SAL EN~a TE)a] 
+1.b1B. , (3(N57) KU6~a RAD~a)a 
+167452	1.b2A. , [1(N57) (E2~a 3(N57) DA~a)a] 
+1.b2B. , (NI~a# TAK4~a# SAG#)a 
+2.a. 2(N01) , PA~a AB2 KI 
+167456	2.b1. , (SZUM SZUBUR)a 
+2.b2. , (PIRIG~b1)a 
+3.a. 1(N01) , KI AB2 PA~a 
+3.b. , (HI AD~c GI)a 
+1.a. 2(N01) , KUR~a DUB~a GI 
+167463	1.b1A. 1(N01) , AL 
+1.b1B. , (UB ZI~a)a 
+167466	1.b2A. 1(N01) , EN~a TUR 
+1.b2B. , (3(N57) SZU)a 
+2.a. , ZATU628~a# SAL SZU AMA~a SAL NAM2 KAB 
+2.b. , AB~a UB 
+1.a. 2(N01) , |SAL.KUR~a| GAL~a SAL 
+167472	1.b1. , (EN~a PAP~a X)a 
+1.b2. , (SUKKAL GIR3@g~c)a 
+4.a. 7(N01) , SZUBUR KASKAL 
+4.b. 2(N14) 8(N01) , GISZ IG~a 
+8.a. 2(N14) , 3(N57) AMA~a [...] 
+167478	8.b1. , U2~b A 
+8.b2. , UNUG~a 
+1.a. 4(N14)# 3(N01) [...] , [...] 
+167483	1.b1A. 2(N14) 3(N01) , BA 
+167485	1.b1B1. , AN 3(N57) 
+1.b1B2. , EN~a PA~a ERIN 
+1.b2. [...] 2(N01)# , GI# [...] 
+2.a. 2(N01)# , GA~a AB~a# SANGA~a GAL~a SZITA~a1 
+2.b. [...] , IB~a#? SZU# 
+1.a. 2(N34) 1(N14) 2(N01) , SZE~a AN GUM~b 
+167492	1.b1. 3(N36) 1(N46) 8(N19) 2(N04) , U4 
+1.b2. 2(N36) 2(N45) 4(N19) 4(N04) , GI 
+1.b3. 2(N46) 2(N19) 1(N04) , KA~a NAM~c 
+2.a. 1(N34)# , SZE~a |E2~bx1(N57)@t|#? SZUBUR 
+2.b. 1(N36) 1(N46) 5(N19) , KA~a NAM~c 
+1.a. 6(N14) , KALAM~b PA~a PAP~a 
+167499	1.b1. 1(N46) , IR~a 
+1.b2. 1(N46) , NE~a 
+1.b3. 1(N46) 4(N19) 3(N04) , |GISZ.TE| 
+1.a. 1(N01) , 1(N24) 
+1.b. 1(N05) , 
+2.a. 1(N14) , 1(N26) 
+2.b. 3(N42~a) 1(N27) , 
+3.a. 2(N14) , 1(N28) 
+3.b. 1(N05) , 
+4.a. 3(N14) , 1(N29~a) 
+4.b. 1(N05) 1(N42~a) , 
+167511	5.a1. 1(N14) , SIG2~a2 
+5.a2. 1(N14) , ZATU726~d 
+5.b. 4(N42~a) , 
+6.a. 1(N34) , 1(N30~a) 
+6.b. 2(N05) , 
+7.a. 5(N01) , SZEN~b GAL~a 
+167518	7.b1. 1(N05) 2(N42~a) 1(N25) , 
+7.b2. 1(N03) 2(N40) 1(N24~a) , 
+8.a. 3(N14) , SZEN~b TUR 
+167522	8.b1. 3(N05) 3(N42~a) , 
+8.b2. 3(N03) 3(N40) , 
+1.a. 2(N34) , SZEN~c@t 
+167526	1.b1. 1(N20) 1(N05) 1(N42~a) , 
+1.b2. 1(N18) 1(N03) 1(N40) , 
+167529	2.a1. 3(N14) , SZA@g 
+2.a2. 3(N14) , DU8~c@g 
+2.b. 1(N05) 3(N42~a) , 
+5.a. 1(N54) 5(N51) , GAR 
+5.b. 1(N47) 2(N20) , 
+6.a. 3(N14) , |SILA3~bxGUG2| 
+6.b. 1(N05) 1(N42~a) , 
+1.a. 1(N34) , KASZ~a 
+167538	1.b1. 1(N20) 1(N05) 1(N42~a) , 
+1.b2. 3(N03) 3(N40) , 
+167541	2.a1. 2(N34) , SZA@g 
+2.a2. 1(N34) , DU8~c@g 
+2.b. 5(N05) 1(N42~a) , 
+1.a. 2(N51) , 1(N30~c) DU8~c AB~b EZINU~d 
+1.b. 4(N05) 4(N42~a) , 
+2.a. 1(N34) , 1(N28) |GISZxSZU2~b| SAR~a 
+2.b. 3(N05) , 
+3.a. 5(N51) , 1(N30~c) DU8~c |GISZxSZU2~b| SAR~a 
+3.b. 2(N20) , 
+1.a. 3(N14) , 1(N28) GUG2 UNUG~a 
+1.b. 1(N05) 2(N42~a) 1(N25) , 
+167553	1.a1. 2(N01) , ZATU710 
+1.a2. 5(N01) , SZEN~b# TUR 
+167556	1.b1. 1(N39~a) 1(N24) , HI 
+1.b2. 1(N39~a) , HI@g~a 
+1.b3. 2(N40) 1(N24~a) , 
+1.a. [...] , [...] 
+167561	1.b1. [...] , [...] 
+1.b2. 1(N03)# 1(N40)# , 
+2.a. [...] 1(N14)# , [...] 
+167565	2.b1. 2(N05)# 2(N42~a)# 1(N25)# , 
+2.b2. 2(N03)# 1(N24~a)# , 
+167568	1.a1. 7(N20) 5(N05) 1(N42~a) 1(N25) , 
+1.a2. 9(N18) 2(N03) 2(N40) 1(N24~a) , 
+167572	1.b1A. 2(N14) 1(N01) , SZEN~b GAL~a 
+167574	1.b1B1. 1(N20) 1(N42~a) 1(N25) , 
+1.b1B2. 1(N18) 1(N40) 1(N24~a) , 
+167577	1.b2A. 2(N34) 4(N14) , SZEN~b TUR 
+167579	1.b2B1. 3(N20) 1(N05) 1(N42~a) , 
+1.b2B2. 3(N18) 1(N03) 1(N40) , 
+167582	1.b3A. 6(N34) 1(N14) 8(N01) , SZEN~c@t 
+167584	1.b3B1. 3(N20)# 1(N05) 2(N42~a) , 
+1.b3B2. 4(N18) 5(N03)# 2(N40) , 
+167587	1.b4A. 1(N14) , DUG~a 
+167589	1.b4B1. 2(N05)? 2(N42~a)? , 1(N57)? SZE~a 
+1.b4B2. 1(N03) 3(N40) , 
+2.a. 1(N18) 4(N03) , 
+167593	2.b1. , KASZ~c 
+2.b2. , KASZ~c SUKKAL 
+1.a. 4(N03) , EN~a A AN RU 
+1.b. 3(N40) , NINDA2 BA AN MUSZ3~a 
+2.a. , SAG# [...] 
+2.b. MUD 3(N57)# TE# [...] 
+1.a. 2(N03) 2(N40) 1(N24~a) , SAL KA~a HI 
+1.b. 3(N03) , |NINDA2xX| MUD 3(N57) TE 
+167602	2.a1. , NAMESZDA |SZE~a.NAM2| 
+2.a2. , SAGSZU 
+2.b. , ZATU776 MU SZU 
+1.a. 5(N03) , MAR~a APIN~a 
+1.b. , SZIM~a KU~b2 SANGA~a 
+3.a. 3(N03) 3(N40)# , SANGA~a# KU~b2 SZIM~a 
+3.b. , KALAM~b PA~a 
+4.a. 3(N03) 4(N40)# , MUSZEN TUR BU~a 
+4.b. , 3(N57)# PAP~a 
+167612	1.a1. 1(N03)# , |U4x2(N57)|# 
+1.a2. , EN~a |SZU2.E2~a| 
+1.a3. 1(N03) , LAGAB~b#? E2~a SAGSZU 
+1.b. , MUSZEN TUR BU~a SANGA~a 
+1.a. 1(N20) 2(N05) , SZU UR5~a# 
+1.b. [4(N39~a)] , [TAR~a] 
+2.a. 1(N14) , SZU UR5~a 
+2.b. [3(N39~a)] , X TAR~a 
+1.a. 1(N01) , U2~b SZAM2? TAR~a 
+1.b. , BULUG3 HI AN 
+4.a. 1(N01) , UR5~a MEN~a |GI&GI| SZE~a TE 
+4.b. , SAGSZU? URU~a1 BU~a PA~a 
+2.a. [...] 1(N14)# [...] , [...] 
+167626	2.b1. 1(N45) 5(N14) [...] , [...] 
+1.a. 3(N03) , X SAG# PAP~a 
+1.b. 1(N01) , HI@g~a NE~a SZITA~a3 PAP~a BU~a 
+2.a. , 3(N57) SU~a IB~a 
+2.b. , KU6~a 
+167633	1.a1A. 5(N14) , U2~b A 
+1.a1B. , GIR3~c NI~a 
+1.a2. 2(N14)# , NIM~a ME~a 
+1.a3. 2(N14) , PAP~a PA~a 
+1.a4. 2(N19) , |GISZ.TE| U4 E2~a U4@t 
+167639	1.b1. 1(N34) , SZE~a 
+1.b2. 1(N46) 1(N19) , 
+167643	1.c1A. 2(N45) , SZE~a U4 GIBIL 
+1.c1B. 4(N19) , 
+167646	1.c2A. 1(N45) , SZE~a# |U4x2(N57)| 
+1.c2B. 7(N19) , 
+167649	2.a1. 2(N14) , SI ME~a E2~a 
+2.a2. 1(N14) , NA~a MUD BU~a 
+2.a3. 2(N14) , NI~a# SA~c# UB 
+167653	2.b1. 2(N14) 3(N01) , |MUSZENx2(N57)| PAP~a 
+2.b2. 2(N14) , TI@t GIR3~c 
+2.b3. 2(N14) , EN~a AB~a PAP~a 
+1.a. 6(N14) 3(N19) , SZE~a LU2 MUD3~d 
+167658	1.b1. 6(N14) , SZE~a 
+1.b2. 3(N19) , U4 
+2.a. 1(N46) , SZE~a UNUG~a E2~a 
+167662	2.b1. 5(N14) , SZE~a 
+2.b2. 5(N19) , 
+1.a. 1(N45) 1(N46) 8(N14) , SZE~a 
+167666	1.b1. 2(N45) , SZE~a 
+1.b2. 8(N19) , 
+1.a. 4(N14) 1(N39~a) , SI4~f BA 
+167670	1.b1. 3(N14) 4(N01) 1(N39~a) , 
+1.b2. 2(N01) , SZE~a 
+1.a. 1(N45) 9(N14) 2(N39~a) , HI@g~a 
+167674	1.b1. 9(N20) 1(N05) 3(N42~a) , HI@g~a 
+1.b2. 9(N18) 4(N03) 4(N40) , 
+167678	1.c1A. 7(N20) 4(N42~a) , HI@g~a NAGA~a 
+1.c1B. 7(N18) 4(N03) 4(N40) , 
+167681	1.c2A. 2(N20)? 4(N42~a)? , HI@g~a DUB~a 
+1.c2B. 2(N18) 4(N40) , 
+1.a. 2(N47) 1(N20) 1(N05) 1(N40) , HI@g~a BA 
+167685	1.b1. 8(N20) 4(N05) 2(N42~a) , HI@g~a 
+1.b2. 1(N45~a) 2(N18) 2(N03) 4(N40) , 
+1.a. [...] , [...] 
+167689	1.b1. , |3(N57).PIRIG~b1| TUR 
+1.b2. , MUSZEN TUR BU~a 
+1.a. 3(N34)# 3(N01)# , SZE~a KINGAL 
+167693	1.b1. , |3(N57).PIRIG~b1| TUR 
+1.b2. , MUSZEN TUR BU~a 
+1.a. 1(N14) 2(N01) , HI@g~a AN U4 SIG MUSZ3~a NAGAR~a# EZEN~b 
+1.b. 2(N18) , 
+2.a. 1(N14) 4(N01) 1(N28) , KINGAL 
+2.b. 4(N03) 1(N40) , 
+1.a. 1(N34)# 2(N45)# 1(N14)# 1(N01)# 1(N39~a) , SZE~a GIBIL KU~b1 SZIM~a 
+167701	1.b1. , SI TUN3~a DA~a 
+1.b2. , SI4~f BA 
+1.a. 2(N45)# 2(N01) 1(N39~a) , SA~c NI~a 
+167705	1.b1. [...] 3(N14)# , SZAM2 [...] 
+1.b2. 3(N14) , 3(N57) DUB~a 
+2.a. 2(N45)# [...] , [...] 
+167709	2.b1. 1(N45) 4(N14) , BU~a# SZE~a [...] 
+6.a. 2(N01) 1(N39~a) , UB E2~a I 
+167712	6.b1. 1(N01) 1(N39~a) , AMA~a 
+6.b2. 1(N01) , 
+167715	7.a1. 3(N04) , 
+7.a2. 5(N04) , 
+7.b. , E2~a AZ 1(N57) 
+1.a. 2(N45) 3(N14) 3(N01) , SZE~a 
+167720	1.b1. 1(N45) 7(N14) 3(N01) , X X 
+1.b2. 6(N14)# , [...] 
+167723	1.c1. 1(N45) 7(N14) 3(N01) , GU7# 
+1.c2. 5(N14) , BA KI 
+2.a. 1(N46) 1(N19) 2(N04) , 
+167727	2.b1. 9(N19)# [2(N04)?] , 
+2.b2. 2(N19) , NUMUN GAN2 NAGAR~a 
+167730	2.c1. 1(N46) 5(N04) 2(N41) 1(N29~a) 1(N29~a) , GU7 
+2.c2. 2(N04) 2(N41) 1(N24~b) , KI BA 
+1.a. 3(N14) , SAG 
+1.b. 2(N19) , NAM~c#? 
+3.a. 3(N14) , PAP~a 
+3.b. 2(N19) 
+1.a. 2(N14) , SZE~a SAL TUR3~a NUN~a 
+1.b. 3(N19) , |GISZ.TE| 
+1.a. [...] 1(N14)# , [...] 
+1.b. 1(N01) [...] , [...] 
+167741	3.a1. 1(N01) , SZE~a 
+3.a2. 1(N04) , 
+3.b. , HAL NE~a PAP~a 
+1.a. 1(N46) 2(N14) 5(N01) , SZE~a 
+167746	1.b1. 3(N14) 1(N01) , SZE~a 
+1.b2. 9(N19) 4(N04) , 
+167749	3.a1. 1(N45)# , SZE~a 
+3.a2. 2(N46) , 
+3.b. , KI# GU# GI# 
+2.a. , EN~a PA~a 
+2.b. , KASZ~c EN~a AN 
+1.a. 2(N46) 3(N19) , SI4~f AZ GAL~a SANGA~a SANGA~a 
+167756	1.b1. 1(N46) 7(N19) , 1(N04) 
+1.b2. 6(N19) , |GISZ.TE| 
+1.a. 1(N45) 5(N14) , HI@g~a SZE~a 
+167760	1.b1. 4(N14) , HI@g~a 
+1.b2. 1(N45) 1(N14) , SZE~a 
+1.a. [...] , [...] NA~a GU# 
+167764	1.b1. [...] , [...] 
+1.b2. 1(N46) , 
+1.a. 2(N45) 5(N14) 3(N01) , SZE~a 
+167768	1.b1. 1(N45) 7(N14) , GI# 
+1.b2. 8(N14) 3(N01) , BA 
+2.a. 2(N46)# [...] , [...] 
+167772	2.b1. 7(N19) , GU7 
+2.b2. 1(N46)# 2(N19) [...] , [...] 
+2.a. 2(N14) 2(N01) , GAL~a# SA~c 
+2.b. 5(N19) , 
+4.a. 2(N14) , SZE~a PAP~a 
+4.b. 1(N19) , 
+1.a. 8(N14) 5(N01) , SZE~a KU~b2 SZIM~a 
+167780	1.b1. , GAL~a |1(N58).BAD~a| 
+1.b2. , E2~b DU 
+167783	1.a1. 2(N45) 6(N14) , |U4x1(N57)| SZE~a NE~a DA~a SZA3~a2 ZATU757 
+1.a2. , EN~a SZU 
+167786	1.b1. 2(N19) , 
+1.b2. 1(N14) , |HIx1(N57)| GI6 
+3.a. 1(N45) 5(N14) , |U4x3(N57)| X [...] 
+167790	3.b1. 8(N14) , ZATU756 
+3.b2. 4(N14)# [...] , [...] 
+1.a. [...] , X X [...] 
+1.b. [...] 5(N01)# , [...] 
+2.a. , |U4x2(N01)| 
+2.b. 1(N14) , U4 X 
+2.c. 1(N14) 5(N01) , SUHUR SZA3~a2# EN~a 
+1.a. 2(N01) , DUG~c |ZATU737xSU~a|# 
+1.b. 5(N01)#? , SUHUR# 
+2.a. 1(N01)# [...] , DUG~c# ZATU648# 
+2.b. 1(N14) , SUHUR 
+2.a. , |MAH~axNA~a| 
+167803	2.b1. , AN 3(N57) 
+2.b2. , PAP~a 
+4.a. 2(N01)# , X X 
+167807	4.b1. , X PAP~a# 
+4.b2. , SZE~a#? [...] 
+167810	1.a1. 5(N01) , UKKIN~a 
+1.a2. 2(N01) , 
+1.b. , RAD~a MUSZEN 
+1.a. 4(N14)# , |U4x(2(N14).4(N01))| GAR SZE~a 
+1.b. 2(N01)# 2(N39~a) , TAR~a 
+1.a. 4(N14) , X GA~a SU~a# E2~a# SZAGAN 
+1.b. 2(N01)# 2(N39~a) , TAR~a 
+1.a. [...] , SZE~a X [...] 
+1.b. [...] 1(N01)# , [...] EN~a# GU 
+2.a. 1(N01) , SAL NA~a# UR~a PAP~a 
+2.b. , NE~a ZATU773~a KUR~a 
+3.a. [...] , AB2# [...] 
+3.b. 5(N01)# [...] , [...] 
+1.a. [...] 1(N14)#? , SAR~a# [...] 
+167825	2.a1. 1(N01) , |GURUSZ~cx2(N14)| 
+2.a2. 1(N01) , GU4 
+2.b. [...] , [...] TUR 
+3.a. 7(N14) , SZE~a [...] 
+3.b. 2(N01) , TUR NAM2 TI SAL AMA~a 
+1.a. 2(N01)# [...] , [...] 
+1.b. 2(N01)# [...] , [...] 
+2.a. 5(N01)# , X [...] 
+167834	2.b1. 4(N01)# , X [...] 
+2.b2. 1(N01)# , X [...] 
+167837	2.b3A. , [...] 
+2.b3B. , [...] 
+2.a. 1(N14) 5(N01) , MAR~a DAR~a 
+2.b. 1(N14) 5(N01) , GI 
+3.a. 2(N57) , SZUBUR 
+3.b. , LAGAB~a#? 
+4.a. 2(N57) , NIM~b1 
+4.b. , AN EN~a GAL~a 
+5.a. 2(N57) , SZU2 SAL 
+5.b. , |SZU&SZU| 
+1.a. 3(N01)# [...] , BAR 
+167850	1.b1A. , SZU TUR 
+1.b1B. , SZUBUR 
+167853	1.b2A. , BU~a NIR~a KI# 
+1.b2B. , ZATU659 
+3.a. , KINGAL 
+3.b. , KALAM~b PA~a |GISZxSZU2~a| GAL~a 
+3.c. , KI HI 
+3.d. , KU6~a UR2 RAD~a 
+1.a. 2(N14) 3(N01) , 1(N57) SZE~a 
+1.b. 1(N14) , HI@g~a 
+2.a. 4(N01) , 2(N57) 
+2.b. 1(N01) , HI@g~a 
+3.a. 5(N01) , 3(N57) X 
+3.b. 4(N01) , HI@g~a 
+5.a. 2(N39~a) [...] , X [...] 
+5.b. 1(N01)# [...] , [...] 
+2.a. 2(N20)? 1(N05)? , KU6~a RAD~a SANGA~a 
+2.b. 1(N14) 5(N01) , HI@g~a 
+1.a. 5(N14) , AL# ZATU756 GAN2 
+1.b. , KASZ~a 2(N57) 
+2.a. 1(N15) 1(N22@v) 3(N02) , GAN2 UDU~a AB2 
+2.b. 3(N01) , SZE~a ZATU625 NUMUN 
+5.a. 2(N14)# , GI# ZATU773~a# 
+5.b. , NA2~a# RAD~a#? KU~b1 UR~a 
+6.a. , |GI&GI| 1(N02) 
+6.b. , KU6~a ZATU625 SUG5 GAL~a PA~a 
+1.a. , LAGAB~b RAD~a KU6~a ZATU759#? BAR#? 
+1.b. , BAR#? DU#? 
+2.a. , UDU~a AB2 EN~a 
+2.b. , NAGA~a SAR~a# 1(N02)# 
+3.a. , |GI&GI| GU4 |SILA3~axKU6~a|#? X 
+3.b. , AN EN~a# X A# NA~a# X 
+1.a. [...] , [...] 
+1.b. [...] 2(N01)# , [...] 
+4.a. 3(N14)# [...] , [...] 
+4.b. 9(N19)# , 
+1.a. 5(N14)# , SZE~a# E2~a# 
+1.b. 1(N46)# 6(N19)# 3(N04)# , 
+1.a. 8(N14)# 4(N01)# , X X GUN3~b# 
+1.b. 2(N46)# 9(N19)# , 
+1.a. 6(N34)# 1(N45) 2(N14)# 3(N01)# , AN# MAR~a# PA~a# 
+167893	1.b1. 3(N34) 2(N45) 6(N14) 4(N01) , SZE~a 
+1.b2. 2(N36) 1(N46)# 5(N19)# 5(N04) , 
+2.a. 1(N34)# 1(N45)# 9(N14)# [4(N01)] , [NAM2 BU~a PAP~a] 
+167897	2.b1. 2(N45) 4(N01) , SZE~a 
+2.b2. 2(N46)# 9(N19)# , 
+2.a. 2(N45) , SZE~a KASKAL SUKUD#? 
+2.b. 1(N46) 5(N19) , |GISZ.TE| 
+3.a. 8(N14) , EN~a# SI#? SAL KU3~a 
+3.b. 1(N46) , 
+1.a. 1(N36) 3(N34) 2(N46) 2(N19) , SZE~a PA~a NAM2 RAD~a 
+167905	1.b1. , PAP~a BU~a NAM2 
+1.b2. , X BU3 
+1.a. 6(N14) 1(N01) , SZE~a KU6~a AB~a 
+1.b. 9(N19)# 4(N04)# , 
+4.a. 1(N14) , GAN2# SZUBUR 
+4.b. 2(N19)# 2(N04)# , 
+1.a. 4(N01) , SZE~a GAN2 GUN3~b X 
+1.b. 2(N19) , 
+1.a. 1(N34) 9(N14) 1(N01) , MAR~a AN PA~a 
+167915	1.b1. 2(N45) 7(N14) 1(N01) , SZE~a 
+1.b2. 1(N46) 2(N19) , 
+2.a. 2(N14) 4(N01) , NAM2 BU~a PAP~a 
+167919	2.b1. 4(N01) , SZE~a 
+2.b2. 2(N19) , 
+2.a. 1(N34) 7(N14) 5(N01) , BU~a? RAD~a? 
+2.b. 1(N46) 4(N19) 4(N04) , 
+1.a. 1(N47)? 8(N20)# , SZE~a# BA# EN~a A SZAM2 
+1.b. 2(N20) , SZE~a GI# 
+167926	1.a1. 1(N14) , UNUG~a ALAN~e 
+1.a2. 8(N01) , AN MAR~a PA~a ALAN~e 
+1.b. , 
+2.a. 1(N19) , 
+2.b. 1(N01) , ZATU710 BA 
+2.c. 2(N14) , GAR# BA# 
+2.d. 2(N04) 4(N41) , [...] 
+3.a. 1(N14) 1(N01) 3(N39~a) , SZE~a 
+3.b. 1(N01) , ZATU710 RA? 
+3.c. 2(N14) , GAR [...] 
+3.d. 1(N14) , SZE~a BA 
+2.a. 1(N01) , AN GAR 
+167939	2.b1. , X [...] 
+2.b2. , [...] BU~a#? 
+2.b3. , X E2~a#? 
+2.b4. , MUSZEN#? 1(N57)#? 
+4.a. 1(N01) , 4(N57) GAR 
+167945	4.b1. , MU 
+4.b2. , E2~b? 
+4.b3. , SUKKAL 
+4.b4. , U2~b A 
+1.a. 2(N51) , |LAGAB~axU4| KISAL~b1 
+1.b. 1(N20) , 
+2.a. 1(N51) , GAR |BU~axA| AL 
+2.b. 4(N05) , 
+3.a. 1(N14) , DUG~a AL 
+3.b. 3(N05) , 
+4.a. 2(N01) , ZATU710 AN |SZU2.EN~a| SZITA~a1 
+4.b. , 
+1.a. 1(N34) 3(N14)# , GAR 
+1.b. 3(N05) , 
+2.a. 1(N51) 1(N34) 3(N14) , 
+2.b. 1(N20)# 1(N05)# , 
+3.a. 1(N14) , KI? UKKIN~b NAGA~a 
+3.b. 4(N05)# 3(N42~a)# , 
+4.a. 1(N14)# , ZATU710# |SZU2.EN~a| X 
+4.b. 2(N05)# , 
+3.a. 1(N50)# 2(N14)# [...] , [...] 
+3.b. 1(N14)# [...] , X [...] 
+5.a. 3(N01)# , URU~a1# 
+167969	5.b1. , KALAM~b UR2 
+167971	5.c1. , MAR~a# NAM2 [...] 
+5.c2. , TAK4~a#? X 
+1.a. 2(N01) , SZAM2 APIN~a 
+167975	1.b1. , NIM~b2 
+1.b2. , ZATU659 
+2.a. 2(N01) , RAD~a 
+167979	2.b1. , ADAB SZUBUR 
+2.b2. , NIM~b1 EN~a 
+3.a. 1(N01) , SANGA~a 
+3.b. , GIR3@g~b 3(N57) 
+4.a. 1(N01) , SUKKAL ME~a? 
+4.b. , 6(N57) KISZ 
+1.a. 2(N01) , MAR~a AN 
+167987	1.b1. , ZATU751~a? EN~a 
+1.b2. , |BU~a+DU6~a| GUL 
+1.a. 1(N34) 5(N14) , AN MAR~a PA~a SZE~a 
+1.b. 3(N36) 2(N46) 3(N19)# , 
+1.a. 2(N34) 3(N14) 3(N01) , AN MAR~a 
+1.b. 3(N36) 2(N46)# 3(N19)# , 
+1.a. 1(N34) , 1(N39~a) 
+1.b. 2(N20) , 
+2.a. 1(N51) , 1(N24) 
+2.b. 2(N20) , 
+3.a. 1(N51)# , 1(N26) 
+3.b. 1(N20) 2(N05) , 
+4.a. 2(N51)# 1(N34) , 1(N28) 
+4.b. 2(N20)# 3(N05)# , 
+5.a. 5(N51) , 1(N29~a) 
+5.b. 4(N20) , 
+6.a. 5(N54)# , |6(N57).GAR| 
+6.b. 1(N37) 3(N20) 2(N05) , 
+1.a. 2(N34)# , |DUG~axU2~a|# 
+1.b. 5(N20)# 1(N05) 1(N42~a) , 
+2.a. 3(N34)# , |DUG~ax1(N57)| 
+2.b. 6(N20) , 
+3.a. 5(N34) , KASZ~a 
+3.b. 3(N20) 2(N05) , 
+1.a. 1(N54) , BA GAR 
+1.b. 1(N47) 1(N20) 5(N05)# , 
+2.a. 5(N54) , |5(N57).GAR| 
+2.b. 1(N37) 3(N20) 2(N05) , 
+3.a. 1(N48) , DUG~a KASZ~a 
+3.b. 1(N47) 4(N20) 3(N05) 1(N42~a) , 
+1.a. 1(N01) , DARA4~c1 
+168019	1.b1. , DUG~a 
+1.b2. , MU 
+2.a. 1(N01) , 1(N04) GI 
+168023	2.b1. , GA~a 
+2.b2. , HI@g~b 
+3.a. 1(N01) , GI NIN 
+168027	3.b1. , SUKKAL 
+3.b2. , SZIDIM 
+4.a. 1(N01) , LU2 PAP~a 
+168031	4.b1. , SANGA~a 
+4.b2. , SI4~f 
+5.a. 1(N01) , MAR~a PAP~a SAL 
+168035	5.b1. , GURUSZDA 
+5.b2. , |SILA3~axSZU2| 
+6.a. 1(N01) , DA~a |MUSZENx2(N57)| 
+168039	6.b1. , BAHAR2~c 
+6.b2. , KID~b# 
+1.a. 1(N01) , ZATU628~b KI SAG 
+168043	1.b1. , ZAG~a 
+1.b2. , KISZ# PAP~a 
+2.a. 1(N01) , DIM~a 
+168047	2.b1. , PAP~a |MUSZENx2(N57)| 
+2.b2. , ZATU752 AN# MAR~a 
+3.a. 1(N01) , TUM~c 
+168051	3.b1. , AN MAR~a |(SUKUD+SUKUD)~b| 
+3.b2. , KAB 
+4.a. 1(N01) , LA2 NI~a 
+168055	4.b1. , ZATU710 APIN~a 
+4.b2. , SI GAR SZU 
+2.a. , X X 
+2.b. , EN~a X DUG~c? AB~a X 
+168060	1.a1. 1(N14) 7(N01) , 
+1.a2. 1(N01) KU3~a , 
+1.a3. 1(N02) , 
+1.b. , SZAKIR~c ZATU752 GI |U4x2(N57)|#? 
+1.a. 1(N14) 1(N01) , SZE~a E2~b |LAL2~axNIM~b2| 
+1.b. , SAG@g NA~a SANGA~a 
+2.a. , |SZE~a.NAM2| RAD~a SANGA~a 
+168068	2.b1. , 3(N57) NUNUZ~a1 
+2.b2. , GI4~a HI AD~a 
+1.a. 1(N14) , SZE~a DUB~a E2~b |LAL2~axNIM~b2| 
+1.b. , NA~a SAG@g SANGA~a 
+2.a. , E2~a RAD~a SANGA~a 
+2.b. , GIR3~c SAG 
+1.a. [...] 2(N01) , ME~a SUHUR 
+1.b. 1(N38) , 
+2.a. 1(N34) , SZU? E~b SUHUR X [...] 
+2.b. [...] , [...] 
+1.a. 2(N01) , ZATU752 SZURUPPAK~a X 
+168080	1.b1. , X X [...] 
+1.b2. , EN~a X 
+2.a. 1(N01) , SZU E2~a BAR 
+2.b. , SANGA~a 
+1.a. [...] , KI [...] 
+1.b. 2(N45) [...] , X SU~a [...] 
+2.a. 7(N45) , ZATU756 EN~a SZE3 TUR NUN~a [...] 
+168088	2.b1. 1(N45) , GAN2 SZE~a 
+2.b2. 4(N45) , KI 
+2.b3. 2(N45) , TUG2~a 
+3.a. 3(N50) [...] , [...] 
+3.b. [...] , GI? [...] 
+4.a. [...] 1(N50) , EN~a SZE3 TUR NUN~a 
+168095	4.b1. 5(N14) , SZE~a [...] 
+4.b2. 7(N14) , [...] 
+5.a. [...] 1(N45) , |SZU2.E2~b|#? 
+5.b. 1(N45) , X [...] 
+6.a. 2(N45) , X 
+6.b. 2(N14) , [...] 
+3.a. [...] , [...] SZE~a# HI#? GA~a 
+3.b. 1(N46) , 
+4.a. 1(N45) , SZE~a 
+4.b. 1(N46) , 
+4.c. , MUD X DIM~a 
+5.a. [...] 1(N45)# , SZE~a X 
+5.b. 1(N46) 1(N19) , 
+5.c. , X [...] 
+6.a. [...] , NAM2 [...] 
+6.b. 4(N01) , NAM2 BU~a PAP~a 
+3.a. 1(N45) , SZE~a EN~a# X 1(N57)# ME~a# EN~a# SZU# GAR 
+3.b. 2(N01) [...] , AL DUB~a EN~a [...] 
+1.a. [...] 5(N01) , SAR~c A 
+1.b. 2(N34) [...] , [...] 
+1.a. 4(N45) , 
+1.b. 6(N14) , X 
+3.a. 5(N01) [...] , SZA3~a1 TUR 
+168120	3.b1A. [...] , [SAL] 
+168122	3.b1B1. , [...] 
+168124	3.b2A. 5(N01) , KUR~a 
+168126	3.b2B1. , X [...] 
+3.b2B2. , X [...] 
+1.a. 5(N14) 4(N01) [...] , SZE~a SZAM2 
+168130	1.b1. 2(N01) [...] , [...] 
+1.b2. 1(N34) [...] , [...] 
+2.a. [...] , [...] 
+2.b. 2(N19)? , TE [...] 
+2.a. 1(N01) , DUB~a PA~a [...] 
+2.b. , EN~a BU~a X [...] 
+1.a. 3(N14) 9(N01) , U8 SIG2~a1? 
+1.b. 2(N02) , 
+2.a. 1(N14) 5(N01) , UDUNITA~a 
+168140	2.b1. 2(N01) , X GAL~a 
+2.b2. 1(N02) , 
+1.a. [...] , [...] 
+1.b. [...] , [...] 
+1.a. 2(N14) , UDUNITA~a 
+168146	1.b1. [...] , NUN~a [...] 
+1.b2. 1(N01) , BU~a? GAL~a HI? 
+1.a. 2(N48) 3(N34) , UDU~a SANGA~a SUKKAL SAR~a PAP~a SZURUPPAK~a# 
+168150	1.b1. 1(N48) 4(N34) , U4 |GISZ.TE| A 
+1.b2. 9(N34) , SIG |GISZ.TE| A 
+1.c. , HI E2~a NUN~a 
+2.a. , GAL~a SZITA~a1 
+2.b. , UDU~a PA~a KI? GAL~a 
+1.a. 2(N34) 1(N14) , UDU~a# DUB~a [...] 
+1.b. 3(N14) 5(N01) , |U4x1(N57)| BAR 
+1.a. 2(N14) , SUHUR 
+1.b. 2(N14) , |GA2~a1xU4| 
+1.c. , SANGA~a AN MUSZ3~a 
+2.a. 1(N34) , ZATU728 
+2.b. 1(N14) , |GA2~a1xU4| 
+2.c. , SU~a HAL ME~a 
+168164	1.a1. 7(N01) , 
+1.a2. 1(N01) KU3~a , 
+1.b. , DUG~c ZATU649 
+168168	2.a1. 4(N01) , 
+2.a2. 1(N01) KU3~a , 
+2.b. , ZABALAM~a AB2 
+1.a. 3(N14) , MASZ SZE3 
+1.b. , MUD NUN~a IB~a 
+1.a. 2(N01) 1(N08) , DUG~c EZEN~b |KA2xLAM| SU~a TAK4~a NI~a SAG 
+168175	1.b1. 1(N01) , ZATU648 
+1.b2. 1(N01) 1(N08) , NI2 ZATU649 |3(N57).NUNUZ~a1| 
+2.a. , LA2 SUG5 IB~a 
+2.b. , EN~a X 
+1.a. 2(N01) , DUG~c ZABALAM~a 
+168181	1.b1. , BU~a HI 
+1.b2. , NU11 AN 
+2.a. 3(N01) , SU~a KU6~a NUN~a 
+168185	2.b1. , SZUBUR ZI~a# [PAP~a] 
+2.b2. , ZI~a# [...] 
+3.a. , DA~a GI 
+168189	3.b1. , BU~a HI 
+3.b2. , NU11 AN 
+3.a. 1(N01) , |GI&GI| DUG~c 
+3.b. , MUD NUN~a GA~a 
+4.a. , GU7 HI# BU~a# 
+4.b. , NU11 AN [...] 
+1.a. 1(N01) , DUG~c MASZ GA~a MIR~b 
+168197	1.b1. , 1(N04) 
+1.b2. , IB~a 
+3.a. 1(N01) [...] , DUG~c# [...] 
+168201	3.b1. 1(N01) , DUG~c UNUG~a MIR~b 
+3.b2. 1(N08) , U2~a |GA~a.ZATU753| 
+3.a. 1(N01) , DUG~c |ZATU651xEN~a| |GISZ.TE| DU 
+168205	3.b1. , |GA~a.ZATU753| 
+3.b2. , NIM~b1 PAP~a 
+3.b3. , EN~a KUR~a HI MUSZ3~a 
+168209	1.a1. [...] , [...] 
+1.a2. , URI5 
+1.a3. 1(N01) , MUSZ3~a NAGAR~a TUR3~a A 
+1.b. , GAN~c#? DU AB2 [...] 
+2.a. 3(N01) , TAK4~a ALAN~c AN MUSZ3~a 
+168215	2.b1. 1(N57) , ZATU649 
+2.b2. 1(N57) , TUR3~a A 
+2.b3. 1(N57) , ZABALAM~a AB2 
+4.a. [...] , [...] 
+168220	4.b1. 1(N57) , NE~a SZE~a [...] 
+4.b2. [...] , ZATU648#? 
+4.b3. 1(N57) , X 
+168224	1.a1. 1(N14) 2(N01) , 
+1.a2. 1(N01) KU3~a , 
+1.b. , DUG~c BA [...] 
+2.a. 3(N14) , GISZ@t SZU TUR E2~a HI NUN~a 
+2.b. , X X [...] 
+3.a. 1(N34) , X AN MUSZ3~a [...] 
+3.b. , X [...] 
+4.a. [...] , X [...] 
+4.b. 7(N01) , NIGIN PIRIG~b1 X SU~a SAL SANGA~a 
+1.a. [...] , X |3(N57).PIRIG~b1| X 
+1.b. 1(N01) , BU~a [...] 
+2.a. 4(N14) , SZE3 UDU~a HAL ME~a 
+2.b. 1(N01) , BU~a 
+3.a. 1(N01) , NUN~a# [...] 
+3.b. 1(N04) , NU11#? 
+4.a. 1(N43)? 1(N24)? , [...] 
+4.b. [...] , X [...] 
+5.a. 3(N14) 3(N01)# , [...] PAP~a? PIRIG~b1 HI E2~a NUN~a 
+5.b. , U4 PAP~a SANGA~a 
+4.a. , NU11? [...] GAR# 
+4.b. , PIRIG~b1 E2~a X [...] 
+1.a. 1(N01) , TUG2~a BUR2 SUKKAL SAR~a ZATU755~b PAP~a 
+168247	1.b1. 8(N01) , ZATU749~c 
+1.b2. 1(N01) , TUG2~a 
+2.a. 1(N01) , |TUG2~a.(BAD&BAD)| 
+2.b. 2(N51) , 
+3.a. 1(N01) , PAP~a# [...] 
+168253	3.b1. 1(N01) [...] , [...] 
+3.b2. 1(N14) 4(N01) , [...] 
+4.a. 1(N14)# [...] , [...] 
+1.a. 1(N01) , |TUG2~a.(BAD&BAD)| PAP~a 
+1.b. 1(N01) , 1(N57) SAL BAR 
+1.c. 2(N51) , 
+2.a. 1(N01) , X BAR [...] 
+2.b. [...] 1(N01) , DARA4~c3 
+2.c. 1(N14) 4(N01) , [...] 
+3.a. [...] , [...] 
+3.b. 2(N14) 4(N01) , X [...] 
+168265	2.a1. 1(N01) , TUR BUR2 
+2.a2. 4(N01) , MASZ SZE3 
+2.b. , DUG~a HI 
+4.a. 1(N01) , [...] AB2 
+168270	4.b1. 1(N14) 4(N01) , TUG2~a 
+4.b2. 1(N51) , 
+5.a. 1(N01) , X 
+5.b. 6(N01)# , DUG~a [...] 
+6.a. 1(N14) [...] , [...] 
+7.a. [...] , [...] 
+168277	8.a1. 7(N01) , TUG2~a 
+8.a2. 8(N01) , MASZ SZE3 
+8.b. , NIM~b1 [...] 
+168281	10.a1. 3(N01) , DUR~b 
+10.a2. 6(N01) , X 
+10.b. , MUD A [...] 
+1.a. 1(N01) , 1(N57) SAL BAR SI X TE 
+1.b. 5(N01) , MASZ# SZE3 
+2.a. 4(N01) , DUR~b 
+2.b. 1(N14) 7(N01) , MASZ SZE3 
+168289	3.a1. 1(N01) , 1(N57) SAL BAR 
+3.a2. 2(N51) , 
+3.b. , MUSZEN NA~a GI 
+4.a. 1(N01) , X 
+4.b. 8(N01) , DARA4~c5 
+5.a. 1(N01) , 1(N57) SAL BAR [...] NAR 
+168296	5.b1. 8(N01) , ZATU749~c 
+5.b2. 2(N51) , 
+6.a. 1(N01) , [...] 
+6.b. [...] , UDU~a PAP~a 
+7.a. 1(N01) , GA2~a1 [...] 
+168302	7.b1. 1(N01) , |TUG2~a.(BAD&BAD)| 
+7.b2. 2(N01) , ZATU749~c 
+2.a. 1(N01) , |TUG2~a.(BAD&BAD)| 3(N57) DUR2 ZATU751~a |BU~a+DU6~a|? 
+168306	2.b1. 1(N51) , 
+2.b2. 1(N14) , MASZ SZE3 
+2.b3. 1(N01) , TUG2~a 
+3.a. 1(N01) , |TUG2~a.(BAD&BAD)| 8(N57) U8 
+168311	3.b1. 2(N51) , 
+3.b2. 2(N14) 9(N01) , SZE3 UDU~a#? 
+1.a. 2(N01) , BARA2~a [...] 
+1.b. , LUGAL GA~a 
+2.a. 1(N01) , [...] 
+168317	2.b1. , X AN [...] 
+2.b2. , PAP~a GA2~a1 
+3.a. 1(N01) , X [...] 
+168321	3.b1. , ERIM~a 
+3.b2. , ZABALAM~a X 
+4.a. 1(N01) , SUHUR RU UMUN2 
+4.b. , |3(N57).NUNUZ~a1| 
+5.a. 1(N01) , GIBIL BU~a HI GA~a SI 
+5.b. , KALAM~b X GI 
+5.a. 1(N01) , LU2 SI SAL 
+5.b. , NAR NAGA~a HI 
+2.a. 1(N01) , 1(N57) SAL BAR 
+2.b. 1(N01)#? , KISIM~b 
+2.a. 1(N01) , BUR2 TUG2~a 
+2.b. 3(N01) , KISIM~a 
+3.a. 2(N01) , 1(N57) TUG2~a 
+3.b. 2(N01) , KISIM~a# 
+1.a. [...] , 1(N57) TUG2~a 
+1.b. [...] , 1(N57) |TUG2~a.(BAD&BAD)|# 
+1.a. [...] , GI6# KAR2~a NUN~a 
+1.b. 2(N02) , GI 
+1.c. , TUR 
+2.a. 3(N01) , GI6 KAR2~a NUN~a 
+168342	2.b1. 2(N01) , BA 
+2.b2. 1(N01) , GI 
+2.c. , A HI 
+3.a. 3(N01) , GI6 KAR2~a NUN~a 
+168348	3.b1A. 2(N01) , BA 
+3.b1B. 1(N01) KU3~a , 
+3.b1C. 2(N02) , 
+168352	3.b2A. 1(N01) KU3~a , GI 
+3.b2B. 3(N02) , 
+3.c. , BU3 TUR 
+4.a. 3(N01) , GI6 KAR2~a NUN~a TUR3~a#? [...] 
+4.b. 1(N01) , KUR~a KUR~a SIG2~b GI 
+3.a. 1(N01) , AB~a AB2 
+168361	3.b1A1. 1(N01) , DUG~c 
+3.b1A2. 1(N01) , [...] 
+3.b1B. , NAB DI |E2~ax1(N57)@t| BAPPIR~a? GIBIL 
+3.b2. 1(N01) , ZATU732? GI6 KAR2~a NUN~a 
+168366	3.b3A. 3(N01) , |SILA3~axGARA2~a| 
+168368	3.b3B1. 2(N57) , SZA |U4x2(N01)| SZU 
+3.b3B2. 1(N57) , |GIxSZE3| BAD 
+4.a. 3(N02) , |GA~a.ZATU753| MIR~b 
+4.b. , NIM~b1 PAP~a 
+5.a. 1(N01) , KISAL~b1 SIG EZEN~b MUSZ3~a AN TAK4~a NI~a SAG 
+5.b. 1(N01) , DUG~c 
+1.a. 1(N01) , U2~a |GA~a.ZATU753| NAGA~a 
+1.b. , SI EN~a ZI~a# [...] 
+3.a. 1(N01) , (|KUR~a.E2~a| 3(N57))a SU~a PAP~a 
+3.b. 1(N01) KU3~a , 
+1.a. 5(N01) , GA~a# DUB~a 
+168382	1.b1A1. 1(N01) , BA AB~a AN MUSZ3~a 
+1.b1A2. 1(N01) , SAL BA PIRIG~b1 
+1.b1B. , ZATU751~a DUR2 3(N57) BU~a# 
+1.b2. 3(N01) , BA [...] 
+2.a. 1(N01) , ZATU649 
+2.b. 1(N01) KU3~a , 
+4.a. 1(N01) , ZATU649 
+4.b. 1(N01) KU3~a , 
+168391	1.a1. 6(N01) , DUG~c 
+1.a2. 1(N01)#? [...] , [...] 
+1.b. , ZATU649 NI2 
+168395	2.a1. 1(N01) , 
+2.a2. 1(N01) KU3~a , 
+2.b. , MUD NUN~a 
+2.c. , ZATU649 
+168400	3.a1. 1(N01) , 
+3.a2. 1(N01) KU3~a , 
+3.b. , ZATU649 
+168404	4.a1. 1(N01) , 
+4.a2. 1(N01) KU3~a , 
+4.b. , SI4~a NE~a GI SZE~a 
+168408	1.a1. 1(N01) , 
+1.a2. 1(N01) [...] , 
+1.b. , ZABALAM~a AB2# 
+168412	2.a1. 4(N01) , 
+2.a2. 1(N01) KU3~a# , 
+2.b. , ERIM2 SZE~a GI 
+168416	3.a1. 1(N01) , 
+3.a2. 4(N02) , 
+3.b. , SZE~a SI4~a NE~a [GI] 
+1.a. [...] , BA [UDU~a ...] 
+1.b. 3(N01) , |U4x1(N57)| BAR 
+4.a. [...] , NUN~a HI BU~a [...] 
+4.b. [...] , ZATU686~a [...] 
+6.a. 1(N01) , SIG2~b X HAL X [...] 
+168425	6.b1. 1(N57) , BA TUG2~a TAK4~c 
+6.b2. 1(N57) , TUG2~a X TUN3~a TUR 
+6.b3. , EN~a AB~b? DUG~a |ZATU651xEN~a| 
+7.a. 1(N01) [...] , BA TUG2~a UR~a X X [...] 
+7.b. , NAMESZDA E2~a 
+1.a. 1(N01) , BA TUG2~a EN~a DA~a SZE~a AB~a AN NU11 
+1.b. , GESZTU~b SZITA~a1 ZATU686~a 
+3.a. 1(N01) , EN~a SIG2~b? 
+3.b. , EN~a# AB~a# DUG~a 
+5.a. 1(N01) , BA TUG2~a 
+5.b. , SIG2~b [...] 
+9.a. , ZATU629 RU? 
+9.b. , UNUG~a X 
+10.a. 3(N01) , EN~a PA~a 
+168440	10.b1. , EN~a SZE~a AB~b DA~a 
+10.b2. , SI KISAL~b1 
+10.b3. , AN U2~b ZATU669 IB~a RU 
+4.a. 1(N01) , SIG2~b ME~a AMA~a MUSZ3~a 
+4.b. , EN~a DUG~a AB~a ZATU686~a 
+2.a. 1(N01) , TUG2~a? SZURUPPAK~b [...] 
+2.b. 1(N01) , TUG2~a ZATU756 1(N57) 
+3.a. 1(N01) , X [...] 
+3.b. , NAR A? [...] 
+168450	1.a1. 9(N01) , 
+1.a2. 1(N01) KU3~a , 
+1.b. , SZAKIR~c ZATU752 NAR HAL U2~b E2~a 
+1.a. 1(N34) , UDU~a DUB~a 
+1.b. 1(N14) 1(N01) , |U4x1(N57)| BAR 
+168456	1.a1. 2(N01) [...] , BARA2~a# [...] 
+1.a2. 1(N01) , ZATU764 
+168459	1.b1. , ZATU676~a NUNUZ~a1 
+1.b2. , |BU~a+DU6~a| PAP~a 
+1.c. , SIG EZEN~b AN MUSZ3~a 
+168463	2.a1. 2(N01) , 
+2.a2. 1(N01) , 
+168466	2.b1. , |BU~a+DU6~a| PAP~a 
+2.b2. , DILMUN 
+2.c. , GIBIL NUN~a 
+168470	3.a1. 2(N01) , 
+3.a2. 1(N01) , 
+168473	3.b1. , 1(N57) KID~a PAP~a 
+3.b2. , ZATU676~a NUNUZ~a1 
+3.c. , NUN~a SU~a 
+168477	4.a1. 2(N01) , 
+4.a2. 1(N01) , 
+168480	4.b1. , 1(N57) KID~a PAP~a 
+4.b2. , ZATU676~a NUNUZ~a1 
+4.c. , U4 EZEN~b MUSZ3~a 
+168484	3.a1. 1(N01) , DUR2 BARA2~a 
+3.a2. 1(N01) [...] , BARA2~a [...] 
+3.b. , GIR3@g~b ERIM~a NAGA~a [...] 
+168488	4.a1. 1(N01) , DUR2 BARA2~a 
+4.a2. 1(N01) , ZATU764# BARA2~a 
+4.b. , UH3~a ERIM~a AN ZATU759 
+5.a. 1(N01) , EN~a IB~a 
+5.b. , SUG5 [LA2] 
+3.a. 3(N01) , ZATU649 
+3.b. 1(N01) , KU3~a 
+4.a. 2(N01) , ZABALAM~a AB2 
+4.b. 1(N01) , KU3~a 
+5.a. 2(N01) , SI4~a# NE~a GI SZE~a 
+5.b. 1(N01) , KU3~a# 
+168500	1.a1. 4(N14) 1(N01) [...] , 
+1.a2. 3(N02) , 
+1.b. , DUG~c BA |GI&GI| ZATU648 
+4.a. 1(N01) , EN~a SIG2~b SZUM? GAL~a 
+4.b. 1(N01) , TUG2~a# EN~a? 
+5.a. 1(N01) , SIG2~b SANGA~a ZATU753 DUB~a 
+5.b. [...] , TUG2~a# EN~a 
+1.a. 1(N14) , X X 
+168509	1.b1. [...] , X [...] 
+1.b2. , I BU3 
+1.a. 3(N01) , GA~a# AB2 
+1.b. [...] , GI 3(N57) 
+1.a. 1(N14) [...] , UDU~a BA 
+1.b. 5(N01) , |U4x1(N57)| BAR 
+3.a. 8(N01) , GAL~a GA~a BAR 
+3.b. , EN~a NANNA~a 
+1.a. 5(N01) , DUG~c DUB~a 
+168519	1.b1. 1(N01) , ZABALAM~a AN BA ZATU751~a 
+1.b2. 1(N01) , SAL BA X ANSZE~b? 
+1.b3. 3(N01) , BA KI 
+168523	2.a1. 1(N01) , 
+2.a2. 1(N01) KU3~a , 
+2.b. , ZATU649 
+168527	4.a1. 1(N01) , 
+4.a2. 1(N01) KU3~a , 
+4.b. , ZATU649 
+1.a. [...] , X TUR3~a# 
+1.b. , [...] X IB~a 
+2.a. 1(N01) , GADA~a GADA~a TAK4~a AN KI 
+2.b. , GA~a SANGA~a 
+2.c. , MUSZEN KI AD~a 
+1.a. [...] 1(N01)# , AN X [...] 
+1.b. , [...] 
+2.a. [...] , GADA~a SZITA~a1 X 
+168539	2.b1. , AB~a IB~a [...] 
+2.b2. , SUG5 LA2 
+3.a. [...] , GADA~a TUG2~a X 
+3.b. , GESZTU~b SZITA~a1 ZATU686~a 
+4.a. 1(N01) , GADA~a USZ~a X [...] 
+4.b. , GIR3~c PAP~a [...] 
+5.a. 2(N01) , [...] 
+1.a. [...] , KI [...] 
+1.b. [...] , E2~a NE~a NE~a 
+1.c. [...] , [...] 
+2.a. 1(N01) , EN~a TUR 
+2.b. , AN DU SZUBUR 
+2.c. [...] , [...] 
+3.a. [...] , TUR [...] 
+3.b. , 5(N57) NU PAP~a 
+3.c. 2(N01) , UMUN2 DU SI ZATU733 
+168556	3.d1. 1(N01) , SZU 
+3.d2. , 3(N57) A? 
+4.a. [...] , X X [...] 
+4.b. 3(N01) , X TUR 
+168561	4.c1. , PAP~a NAM2# 
+4.c2. , BU~a PAP~a 
+4.c3. , ZI~a SZUBUR PAP~a 
+4.d. 2(N01) , SZU 
+168566	4.e1. , KITI 3(N57) 
+4.e2. , KALAM~b ZI~a PA~a 
+5.a. [...] , [...] 
+5.b. 1(N01) [...] , PIRIG~b1 HI ZATU631 PAP~a 
+1.a. [...] , IR11 NIR~a? PAD~a 
+1.b. [...] , [...] 
+1.c. [...] , [...] 
+2.a. 8(N01) , IB~a PAP~a BAHAR2~c |GA~a.ZATU753| 
+168575	2.b1. , PAP~a IB~a 
+2.b2. , |3(N57).PIRIG~b1| |SZU2.E2~a| 
+2.b3. , ANSZE~b#? [...] 
+168579	2.c1. , X BU~a? 
+2.c2. , KISZIK~a BU~a 
+2.c3. , PAD~a [...] 
+3.a. 1(N01) , AL URU~a1 KASZ~b? X X X 
+3.b. , X KU6~a? X [...] 
+168585	1.a1. [...] 2(N01) , SUHUR 
+1.a2. 3(N14) [...] , U2~a 
+1.b. , 3(N57) SU~a PAP~a 
+168589	2.a1. [...] 4(N01) , [...] 
+2.a2. 3(N14) , U2~a 
+2.b. , AMA~a [...] 
+168593	2.a1. 1(N14) 2(N01) , |GA2~a1xGIR~a|# SUHUR 
+2.a2. 1(N14) 4(N01) , U2~a 
+2.b. , 4(N57) U8 BAR 
+168597	1.a1. 2(N14) 4(N01) , SUHUR 
+1.a2. 3(N14) , |GA2~a1xGIR~a| 
+1.b. , EN~a# PAP~a 
+1.a. [...] , |GA2~a1xGIR~a|# [...] 
+1.b. 2(N34)# 2(N01)# [...] , SUHUR |GA2~a1xKU6~a| 
+2.a. 1(N01) , ZABALAM~a AB2 
+2.b. 1(N01) , KU3~a 
+2.a. 4(N14) 8(N01) , SUHUR 
+168606	2.b1. 1(N14) 2(N01) , SUHUR 
+168608	2.b2A. 2(N01) , DUG~c 
+2.b2B. 2(N14) 4(N01) , 
+2.b3. , MUD NUN~a 
+168612	2.b4A. 1(N01) , DUG~c 
+2.b4B. 1(N14) 2(N01) , 
+2.b4C. , SA~a DAR~a 
+168616	4.a1. 1(N14) , U2~a 
+4.a2. 2(N14) , |GA2~a1xKU6~a| 
+4.b. , ZABALAM~a AB2 MUD NUN~a 
+1.a. 1(N34) 2(N14) 4(N01) , U2~a 
+168621	1.b1. 3(N14) 5(N01) , U2~a 
+1.b2. 2(N14) 5(N01) , MUN~a1 
+1.b3. , |3(N57).NUNUZ~a1| 
+1.b4. 2(N14) , EN~a ME~a SI 
+1.b5. 4(N01) , MUD NUN~a 
+1.a. 3(N14) 5(N01) , U2~a 
+168628	1.b1. 3(N14) , MUD NUN~a 
+1.b2. 1(N14) 5(N01) , SI [U4 AB2] 
+2.a. 4(N14) [...] , [...] 
+2.b. 1(N14) [...] , [...] 
+1.a. 1(N01) , ZATU764 
+1.b. 4(N14) 5(N01) , DARA4~c4 
+2.a. 1(N01) , DUG~b GAN~a ERIM~a 
+2.b. , MUSZEN# NUN~a# [...] 
+1.a. [...] , NI2 [ZATU649] 
+1.b. [...] , KU3~a 
+168639	1.a1. 1(N01) [...] , [...] 
+1.a2. [...] , KU3~a 
+1.b. , GI? GI? 
+2.a. , 3(N57) [...] 
+168644	2.b1. , X [...] 
+2.b2. , TUR3~a 
+2.b3. , DU ZATU783 [...] 
+2.b4. , SZA SZU 
+2.b5. , NIGIN? BA SILA3~a |GA~a.ZATU753| 
+2.a. 6(N01) [...] , UNUG~a KAR2~a GI6 [...] 
+168651	2.b1. 1(N57) , ZATU649 |3(N57).NUNUZ~a1| 
+2.b2. 1(N57) , NUN~a? AB2? BU~a [...] 
+2.b3. 1(N57) , ZATU648 EN~a X ME~a 
+1.a. [...] , SZE~a# [...] 
+168656	1.b1. [...] , KUR~a |1(N57).SZUBUR| ZATU629 [...] 
+1.b2. [...] , |SILA3~axGARA2~a| X NUN~a? [...] 
+1.b3. [...] , IB~a [...] 
+2.a. 1(N01) , AB~a AB2 EN~a X [...] 
+2.b. , EN~a [...] 
+5.a. 3(N01) , ZATU649 
+5.b. 1(N01) , KU3~a 
+6.a. 5(N01)# , [...] 
+6.b. 1(N01) , KU3~a 
+1.a. [...] , [...] 
+1.b. [...] , [...] 
+2.a. [...] , [...] 
+2.b. [...] , KAB ZI~a 
+3.a. [...] , [...] X 
+3.b. , SZUBUR BU~a SUKKAL 
+4.a. 2(N01)# [...] , X KUR~a SIG2~b SZE~a 
+4.b. , GESZTU~b# [...] 
+5.a. 6(N01) , PAD~a GA~a 
+168675	5.b1. 3(N57) , |SZE~a&SZE~a| DU 
+5.b2. 3(N57) , DU AB2 SAG# 
+1.a. [...] , [...] DUG~c# 
+168679	1.b1. [...] 1(N01) , GAN~c [...] 
+168681	1.b2A. 3(N57) , EN~a BAD AB~a@g 
+1.b2B. 1(N57) , PAP~a SIG7 NUN~a GUL 
+1.c. [...] , [...] IB~a# 
+2.a. 1(N01) , DUG~c 
+168687	2.b1A. [...] , |DUG~cx1(N57)| 
+168689	2.b1B1. [...] , GAN~c SZU 
+2.b1B2. , SZITA~a1 ADAB UTUL~a 
+168692	2.b2A. 2(N01) , SILA3~a GARA2~a 
+168694	2.b2B1. 1(N57) , SZA SZU 
+2.b2B2. 1(N57) , ZATU659? PAP~a SUKKAL 
+2.b3. 4(N01) , |SILA3~axGA~a| SZA 
+2.c. , SUG5 LA2 IB~a 
+168699	3.a1. [...] , X AMA~a AN [...] 
+3.a2. 1(N01) , KI# NA2~a [...] 
+3.a3. 1(N01) , MIR~b |ZATU651xNUN~a| 
+3.b. , GESZTU~b SZITA~a1 
+168704	1.a1. [...] , X MUSZEN# AN X KU6~a [...] 
+1.a2. [...] , GAN~c |U4x6(N01)| NA2~a 
+1.b. , [...] ZATU686~b 
+168708	2.a1. 1(N14)# 8(N01) , KAR2~a NUN~a# [...] 
+168710	2.a2A. 1(N14) , GA~a GAL~a BAR 
+2.a2B. , 1(N04)# PAP~a IB~a 
+2.a3. 1(N01) , EN~a AB~b SZEN~a UB SZUR2~a 
+2.a4. 1(N01) , SAL UNUG~a SZITA~a1 AL#? 
+2.a5. 1(N01) , NA~a? MUSZEN UMUN2 KU3~a GI 
+2.b. , UNUG~a [...] GESZTU~b SZITA~a1 ZATU686~a 
+168717	3.a1. 3(N01) , |GA~a.ZATU753| MIR~b 
+3.a2. 1(N01)# , AB~a# [...] 
+3.b. , ZATU753 E2~a [...] 
+4.a. 1(N01) , |GA~a.ZATU753| AB~a 
+168722	4.b1. , E2~a# 
+4.b2. , BU~a KA~a 
+1.a. 1(N01) , SZAKIR~c ZATU752 BA E2~a GIBIL NUN~a 
+1.b. , GESZTU~b SZITA~a1 ZATU686~a 
+168727	2.a1. 3(N01) , E2~a PA~a 3(N57) |(UDU~axTAR)~a| KU6~a 
+168730	2.a2A1. 1(N01) , E2~a ALAN~b NUN~a# TAK4~a 
+2.a2A2. 1(N01) , ZATU651@g TAK4~a ALAN~b 
+2.a2B. , X KA~a X HI X 
+2.a3. 1(N01) , SANGA~a GA~a AB~a 
+2.a4. 1(N01) , GAL~a ZATU687 AB~a 
+2.a5. 1(N01) , GA~a ARARMA2~a 
+2.b. , GESZTU~b SZITA~a1 ZATU686~a 
+3.a. 1(N01) , KASZ~b URI5 AN MUSZ3~a# 
+3.b. , MUD NUN~a 
+4.a. 1(N01) , EN~a BA ARARMA2~a 
+4.b. , EN~a DUG~a AB~a# [...] 
+1.a. [...] , [...] DUG~c UNUG~a 
+168744	1.b1A. [...] , |SILA3~axGARA2~a|# 
+168746	1.b1B1. [...] , [...] X 
+1.b1B2. 1(N57) , DILMUN 
+168749	1.b2A. 4(N01) , |SILA3~axGA~a| 
+168751	1.b2B1. 1(N57) , EN~a SZE3? TUR NUN~a 
+1.b2B2. 1(N57) , X AN MUSZ3~a EN~a X 
+1.b2B3. 1(N57) , SIG2~b 
+1.b2B4. 1(N57) , E2~a GU 
+1.b3. 2(N01) , BA SILA3~a KASZ~b 
+2.a. 1(N01) , KU6~a 
+168759	2.b1A. 6(N01) , |SILA3~axGARA2~a| 
+168761	2.b1B1. 1(N57) , EN~a# SAG# 
+2.b1B2. 1(N57) , HI E2~a DILMUN NUN~a 
+2.b1B3. 1(N57) , NAMESZDA 
+2.b1B4. 1(N57) , GESZTU~a? DIM~a 
+2.b1B5. 1(N57) , SZA SZU 
+2.b1B6. 1(N57) , GI BAD 
+2.b2. 1(N01) , |SILA3~axGA~a| |SIxSZE3| EN~a# NUN~a# 
+2.b3. 5(N14) , BA SILA3~a KASZ~b 
+168770	1.a1. 3(N01) , KISIM~a 1(N04) BU~a 
+168772	1.a2A. 1(N01) , 1(N57) SAL# BAR 
+1.a2B. 1(N14) , MASZ SZE3 
+1.b. , U4 NUN~a E2~a 
+168776	2.a1. 1(N01) , AN GARA2~a PAP~a X 
+2.a2. [...] , [...] 
+2.b. , GAL~a SANGA~a 
+3.a. 1(N01) 1(N08) , MUD A 
+3.b. 9(N01)# , X |NINDA2x(HI+ME~a)| NUN~a 
+4.a. 1(N01) , X NA2~a# 
+4.b. [...] , [...] 
+5.a. 2(N01) 1(N08) , NU ZATU631 
+5.b. 1(N01)# , [...] 
+6.a. 1(N08) , X 3(N57) 
+6.b. 2(N01)# [...] , [...] 
+7.a. 1(N08) , DU UDU~a BU~a 
+7.b. 2(N01)# [...] , [...] 
+3.a. 1(N01) [...] , [...] 
+168791	3.b1. [...] 1(N01) , [...] 
+3.b2. 6(N01) , [...] 
+4.a. 1(N08) , X NUN~a# E2~a# [...] 
+4.b. 1(N01) [...] , AB~a# [...] 
+5.a. 2(N01) , GISZ#? GADA~a SZU? 
+168797	5.b1. 1(N01) , GI 
+5.b2. 1(N14) 5(N01) , BA 
+6.a. [...] , PIRIG~b1# NAMESZDA 
+168801	6.b1. 6(N01)# , X 
+6.b2. 1(N01) , 1(N57) SAL BAR 
+6.b3. 1(N01) , |TUG2~a.(BAD&BAD)| 
+7.a. 2(N01) , GIR3~c EN~a# PA~a 
+168806	7.b1. 1(N14) 9(N01) , ZATU749~b 
+7.b2. 2(N01)# , TUG2~a BUR2 
+8.a. [...] , [...] 
+168810	8.b1. 2(N14) , ZATU749~b BA 
+8.b2. 1(N02) , SAL [...] 
+8.b3. [...] 1(N01)# , GI [...] 
+7.a. 1(N01) , |TUG2~a.(BAD&BAD)| SUH3 |NINDA2x(HI+ME~a)| NUN~a 
+168815	7.b1. 2(N14) , MASZ SZE3 
+7.b2. 3(N14) , SZE3@t 
+1.a. 1(N14) 2(N01) , DUG~b 
+1.b. 2(N14)# 2(N01)# [...] , [...] 
+4.a. 6(N01) , 1(N57) SAL BAR 
+4.b. , 1(N57) SAL TUR BAR 
+168822	1.a1. 2(N01) , ZATU697~a 
+1.a2. 3(N14) , 
+1.b. , UNUG~a DU 
+1.a. , |GA~a.ZATU753| 
+1.b. 1(N14) 2(N01) , SAG 
+1.a. 2(N51) [...] , DU [...] 
+1.b. 1(N51) [...] , [...] 
+2.a. 1(N14) 5(N01) , BU~a SZU 1(N24) 
+2.b. 1(N14) , GAR#? 
+2.a. 1(N01) , UR2 MU 
+2.b. 1(N01) , ZATU757#? 
+2.c. 1(N01) , SZA3~a2# SZU 
+3.a. 1(N01) , UR2 SZUM 
+3.b. 1(N01) , |UR2x1(N57)| [...] 
+1.a. 5(N01) [...] , BA GAR [...] 
+168838	1.b1. 1(N51) 2(N14) 1(N01) [...] , [...] 
+1.b2. 5(N51) 4(N14) , GAR 
+4.a. 1(N01) , ZATU714#? ERIM~a U2~b 
+4.b. , EN~a EZEN~b 
+1.a. 3(N01) , SILA3~a GARA2~a 
+168844	1.b1. 6(N01) [...] , NE~a [...] 
+1.b2. 8(N01) [...] , NE~a |TUG2~a.(BAD&BAD)| 
+1.a. [...] , PA~a# [...] 
+1.b. , [...] X 
+2.a. 1(N14) , E2~b PA~a 
+2.b. , DIM~a GI 
+1.a. , LAGAB~b SZU GAL~a USZ~a SIG2~b 
+1.b. , |ZATU651xEN~a| |GISZ.TE| GI6 
+2.a. [...] , [...] X 
+2.b. , [...] 
+3.a. 2(N14) , SZIR~a 
+3.b. 2(N01) [...] , [...] 
+168857	1.a1. [1(N01)] , HI@g~a 
+1.a2. 1(N01) 1(N28) , ZATU714 
+1.b. 2(N01) 1(N28) , |ZATU714xHI@g~a| MU 
+1.a. 1(N01) , SZU2 NAM2 KAB 
+1.b. 1(N34) , 1(N28) 
+1.a. 1(N14)# , 1(N57)# SZU2# [...] NUN~c# 
+1.b. 5(N01)# , [...] X SZU2# NUN~c# 
+1.c. 2(N01) , 1(N57) ZATU758 SZU2 
+168866	2.a1. [...] , SZU2# X [...] 
+2.a2. [...] 1(N01)# , SZU2 [...] 
+168869	2.b1. 1(N01)# [...] , SZU2# MUSZ3~a# 
+2.b2. 2(N01) , BIR~a 1(N57) DUR~a# 
+168872	2.c1. 1(N01) , 3(N57)# SZU2# 
+2.c2. 1(N01) , SZU2 
+1.a. [...] 3(N01)# , [...] 
+1.b. [...] 3(N01) , [...] 
+1.a. 1(N14) , SZITA~b1 
+1.b. 1(N34) 3(N14) [...] , [...] 
+1.a. [...] , X [...] 
+1.b. [...] , [...] ZATU697~a# NUN~a 
+1.a. 1(N14)# 5(N01) , ZATU631 PA~a ZATU631# HASZHUR 
+1.b. 1(N01)# , [...] 
+1.a. 3(N01) , USZ~a 
+1.b. 1(N01) , [...] 
+1.a. 1(N14)# 8(N01)# , U8#? [...] 
+1.b. 5(N01)# [...] , UD5~a#? [...] 
+3.a. 1(N34) 3(N14) 1(N01) , U8# [...] 
+3.b. 6(N01)# , GI6# UD5~a# 
+1.a. 1(N01) , U4 
+1.b. 1(N01) , GI6 
+1.c. 1(N01) , DUB~b 
+1.d. 1(N01) , IB~a 
+168893	2.a1. 1(N34) , NUN~b 
+2.a2. 4(N14) , UTUA~b 
+2.a3. 2(N01) , GUKKAL~a# [...] 
+2.b. , KISAL~a1 EN~b# [...] 
+168898	1.a1. 3(N01) 2(N08) , ZATU693 KID~c |SAL.KUR~a| 
+1.a2. 1(N01) , 3(N57) ZATU693 KUR~a 
+1.b. , KISAL~b1 GESZTU~b PAP~a 
+168902	4.a1. 2(N01) , 
+4.a2. 2(N01) , 
+4.a3. 1(N01) , 
+4.a4. 2(N01) , 
+4.b. 1(N01)#? , TE#? X 
+168908	1.a1. 2(N01) , SAL 
+1.a2. 1(N01) , KUR~a 
+1.b. , ZATU758#? 
+168912	2.a1. 2(N01) , SAL 
+2.a2. 1(N01) , KUR~a# 
+2.b. , SILA4~b DIM~b 
+168916	1.a1. 5(N01)# , SAL 
+1.a2. 2(N01)# , KUR~a# 
+1.b. , NUN~a GA~a 
+3.a. [...] , X [...] 
+3.b. [...] 2(N01) , ZATU711 [...] 
+168922	2.a1. 2(N01) , NUN~b# 
+2.a2. 3(N01)# , MASZ# 
+2.b. , ERIM~a 
+168926	2.a1. 2(N01) , UD5~a# 
+2.a2. 1(N01) , U8 
+2.b. , NAM2 ERIN 
+1.a. [...] , [...] 
+1.b. [...] , [...] 
+2.a. [...] , [...] 
+2.b. 6(N14) , KI 
+3.a. [...] , [...] 
+3.b. 2(N14) , KI 
+4.a. [...] , [...] 
+4.b. 6(N14) [...] , KI 
+5.a. [...] , [...] 
+5.b. [...] , [...] 
+1.a. [...] 3(N01)# , [...] 
+1.b. 3(N01)# [...] , [...] 
+1.a. 1(N14) 2(N01) , UKKIN~a# 
+1.b. 5(N01) , 1(N57) 
+2.a. 4(N01)# , X 
+2.b. 5(N01)#? , [1(N57)] 
+3.a. 3(N01)# , ZATU647 
+3.b. 4(N01)#? , [1(N57)] 
+4.a. 5(N01) , DU# [...] KAR2~a 
+4.b. 6(N01)# , [1(N57)] 
+5.a. 5(N01) , KISAL~b1# 
+5.b. 8(N01)# , 1(N57) 
+6.a. 1(N01) , SANGA~a 
+6.b. 1(N01) , 1(N57) 
+1.a. 3(N01)# , UB 
+1.b. 5(N01) , 1(N57) 
+2.a. 2(N01)#? [...] , [...] 
+2.b. 6(N01) , [1(N57)] 
+3.a. 2(N01)# [...] , [...] 
+3.b. 2(N01)# [...] , [1(N57)] 
+4.a. 2(N01)# [...] , [...] 
+4.b. 6(N01)# [...] , [1(N57)] 
+5.a. 4(N01)# [...] , [...] 
+5.b. 1(N01)# , [1(N57)] 
+6.a. 1(N01)# , [...] 
+6.b. [...] , [1(N57)] 
+7.a. 1(N01)# , [...] 
+7.b. [...] , [1(N57)] 
+8.a. 3(N01)# , X [...] 
+8.b. [...] , [1(N57)] 
+168970	1.a1. 1(N14)#? , 
+1.a2. 5(N01)# , 
+1.b. 5(N14) , 
+1.a. 1(N01)# , NAGA~a 
+1.b. 2(N01) , 
+2.a. 1(N01) , |KA2xLAM| 
+2.b. 2(N01) , 
+3.a. [...] , X [...] 
+3.b. 2(N01) , 
+1.a. 1(N01) , MAR~a AN 
+1.b. 2(N01) , 
+2.a. 1(N01) , NIM~a 
+2.b. 4(N01)# , [...] 
+168984	1.a1. [...] 1(N01)# , [...] 
+1.a2. 3(N01) , ANSZE~b 
+1.b. , HI@g~b 
+168988	1.a1. [...] , [...] 
+1.a2. 1(N02)# , 
+1.a3. 1(N01)# , 
+1.b. , [...] X 
+168993	2.a1. 2(N14) , 
+2.a2. 2(N02) , 
+2.a3. 2(N01) , 
+2.b. , HI NANSZE~a 
+168998	3.a1. 2(N14) , 
+3.a2. 1(N02) , 
+3.a3. 1(N01) , 
+3.b. , HI 4(N57)? TUR 
+169003	2.a1. 1(N01) , |DUG~cx1(N57)| 
+2.a2. 2(N02) , 
+2.b. , SANGA~a |GI4~b&GI4~b| 
+169007	1.a1. [...] 2(N02)# , 
+1.a2. [...] 1(N05)#? , 
+1.b. , AMA~a 
+169011	2.a1. 1(N02) , 
+2.a2. 1(N05) , 
+2.b. , U4 SI4~a 
+1.a. [...] 1(N14)# , [...] 
+1.b. [...] 1(N34)# 2(N14)# 2(N01)# , [...] 
+1.c. [...] 4(N14)# , GAN2# [...] 
+2.a. [...] , [...] DA~a DANNA 
+2.b. 1(N22) 2(N01) , GAN2# GI [...] 
+1.a. [...] 4(N34)# , [...] 
+169021	1.b1. , [...] 
+1.b2. , X 
+2.a. [...] 1(N34)# , [...] 
+169025	2.b1. , [...] 
+2.b2. , X [...] 
+1.a. [...] , [...] EN~a# 
+169029	1.b1. , [...] 
+1.b2. , [...] X 
+2.a. 2(N34)# , SI#? SAL# X NUN~a# 
+169033	2.b1. , [...] 
+2.b2. , X DU# 
+3.a. 1(N34)# [...] , [...] 
+169037	3.b1. , EN~a#? [...] 
+1.a. [...] 1(N01)# , SIG7# GAL~a# 
+1.b. 1(N01) , BA 
+2.a. 2(N01)# , UMUN2# GAL~a 
+2.b. 2(N01) , 
+4.a. 2(N01) , UKKIN~a# 
+4.b. 2(N01) , 
+1.a. 1(N01) , SIG7# GAL~a 
+1.b. 4(N01) , [...] 
+2.a. 6(N01) , NUN~a EN~a 
+2.b. 7(N01)# , [...] 
+3.a. 2(N01) , EN~a SZU# NUN~a# 
+3.b. 1(N01) , NUNUZ~a1# 
+4.a. 5(N01)# , X 
+4.b. 5(N01) , 
+5.a. 3(N01)# [...] , [...] 
+5.b. 3(N01)# , 
+1.a. 1(N01) , SIG7 
+1.b. 2(N01) , GAL~a ZATU776 
+2.a. 2(N01) , GA2~a1 SIG7# DU 
+2.b. 2(N01)# , [...] 
+3.a. 1(N01) , U4# 
+3.b. 1(N01) , 
+4.a. 1(N01) , GIR3~c 
+4.b. 1(N01) , 
+1.a. 2(N01) , SZUBUR# 
+1.b. 4(N01)# [...] , [...] 
+1.a. 1(N01) , ANSZE~e? SIG2~b |SILA3~axSZE~a| SZITA~a1 ZATU753 
+1.b. 6(N01) , X AB2 GIR2~a 
+2.a. 7(N19) , 
+169068	2.b1. 2(N04) , 
+2.b2. 1(N41) , 
+2.a. 2(N01) , KASZ~c NE~a 
+2.b. 1(N01) , [...] 
+3.a. [...] , [...] X 
+3.b. 1(N01) [...] , [...] 
+1.a. [...] 1(N34) 1(N14) 1(N01) , [...] 
+1.b. 1(N24)# [...] , [...] 
+2.a. 2(N14) , 1(N24) DUR~a SZE~a 
+2.b. 1(N14) 6(N01) , 1(N24) DUR~a [...] 
+3.a. [...] , [...] 
+3.b. 2(N14)# , GAR? 
+1.a. 1(N01) , TUM~b# AMA~a AB~a# 
+1.b. [2(N14)] , |ZATU759xKU6~a|# 
+2.a. 1(N01) , UR2# [...] 
+2.b. 2(N14) , |ZATU759xKU6~a| 
+3.a. [1(N01)] , |UR2x1(N57)|# X [...] 
+3.b. 2(N14)# , |ZATU759xKU6~a|# 
+4.a. [...] , UR2# [...] 
+4.b. [2(N14)] , |ZATU759xKU6~a| 
+5.a. [1(N01)] , [UR2 ...] 
+5.b. [2(N14)] , |ZATU759xKU6~a|# 
+1.a. 1(N01) , |UR2x1(N57)| 5(N57) NIN 
+1.b. 1(N01) , TUM~b 
+1.c. 2(N14)# , |ZATU759xKU6~a|# 
+2.a. 1(N01) , PA~a# RAD~a |UR2x1(N57)|# 
+2.b. 2(N14) , |ZATU759xKU6~a| 
+3.a. 1(N01) , NAM2 APIN~a |UR2x1(N57)| 
+3.b. 2(N14) , ZATU759 
+2.a. 1(N01) , SANGA~a NUN~a# [...] 
+2.b. , SUR KASZ~b 
+169100	2.c1. 2(N01) , BU~a# X BU~a# [...] 
+2.c2. 1(N01)# [...] , [...] 
+1.a. 1(N34)# 2(N14) [...] , [...] 
+1.b. 2(N14) 3(N01) , X TUR# [...] 
+2.a'. 
+2.b'. , SZE3 UDU~a 
+2.c'. [N] 2(N01) , UDU~a#? 
+1.a. [...] 6(N14) 2(N01) [...] 
+169109	1.b1. 2(N45)# 1(N14) 2(N01) , SZE~a 
+1.b2. [...] 
+2.a. 5(N14) , AN EN~a 
+2.b. [...] 2(N19)# 
+1.a. 6(N01)# , KUR@g~a? 
+1.b. [...] 4(N01)# , [...] 
+2.a. [...] , X [...] 
+2.b. [...] , X [...] 
+1.a. [...] , 
+1.b. 4(N01) , 
+2.a. [...] 1(N01) , 
+2.b. 4(N01) , 
+1.a. 1(N01) , UR2 GISZ NI~a GIR3~c 
+1.b. , SZAH2~a 
+2.a. 1(N01) [...] , X [...] 
+2.b. , A NU [...] 
+3.a. [...] , [...] 
+3.b. , X X 
+1.a. [...] 3(N01)# , AL 
+169129	1.b1. [...] , (X [...])a 
+1.b2. [...] , (X [...])a 
+169132	1.a1. 4(N01) [...] , [...] 
+1.a2. 4(N01) , NE~a 
+1.b. , [...] BUR2 
+1.a. 2(N14) 3(N01) , KUR~a [...] 
+1.b. 1(N14) 8(N01) , SAL 
+2.a. [...] 2(N14) 2(N01) [...] , [...] 
+2.b. 1(N14) 5(N01) [...] , [...] 
+169140	1.a1. 1(N02) , 
+1.a2. 1(N01) , 
+1.b. , TE 
+169144	1.a1. 2(N02) , 
+1.a2. 1(N01) , 
+1.b. , TUR3~a DU 
+2.a. 3(N01) , SAG 
+2.b. 1(N01) , KUR~a 
+3.a. 7(N01) , |LAGAB~axUB| 
+3.b. 1(N01) , KUR~a 
+4.a. 9(N01) , SAG 
+4.b. 1(N01) , KUR~a 
+5.a. 2(N01) , MEN~a 
+5.b. 1(N01) , KUR~a 
+1.a. 5(N01) , UR2 
+1.b. 1(N01) , [KUR~a] 
+2.a. 5(N01) , AMA~a 
+2.b. 1(N01) , KUR~a 
+1.a. [...] , X X 
+1.b. 1(N02) , 
+2.a. 3(N02) , URI3~b 
+2.b. 2(N01) , 
+4.a. 1(N01) , |DUG~cx1(N57)| 
+4.b. 1(N02) , U4 
+4.c. 1(N01) , 
+5.a. 2(N02) , [...] 
+5.b. 1(N01) , 
+1.a. 1(N02) , X 
+1.b. 1(N01) , 
+3.a. 1(N02) , AB2 DA~a 
+3.b. 1(N01) , 
+4.a. 1(N01) , NIMGIR? |DUG~cx1(N57)| 
+4.b. 1(N01) , 
+6.a. 1(N01) , |DUG~cx1(N57)| DUG~b 
+6.b. 2(N02) , AB2 
+2.a. 1(N02) , U4 SZUBUR 
+2.b. 1(N01) , 
+3.a. 1(N02) , SANGA~a 
+3.b. 1(N01) , U4 
+4.a. 1(N02) , AB2 UDU~a SANGA~a# 
+4.b. 4(N01) , 
+1.a. 1(N01) , 
+1.b. 3(N03) , TUR3~b 
+2.a. 1(N01) , X 
+2.b. 3(N01) , 
+1.a. 2(N14) , 
+1.b. 2(N14) 1(N01) , 
+2.a. 1(N14) , 
+2.b. 1(N14) 1(N01) , 
+3.a. 5(N01) , 
+3.b. 3(N01) [...] , 
+4.a. [...] 1(N34) 2(N01) , 
+4.b. 1(N01) , X 
+169195	1.a1. 1(N01) , DUG~c 2(N57) 
+1.a2. 3(N02) , 
+1.a3. 3(N01) , 
+1.b. , SAG 
+1.a. 3(N02) , 
+1.b. 2(N01) , DUG~c? ZATU776 
+2.a. 2(N02) , U4 EN~a 
+2.b. 3(N01) , 
+3.a. 1(N02) , EN~a DA~a 
+3.b. 1(N01) , GURUSZDA 
+2.a. [...] , [...] 
+2.b. 2(N02) , EN~b#? [...] 
+3.a. 2(N02) , [...] 
+3.b. [...] , SZE~a#? [...] 
+1.a. [...] , [...] 
+1.b. [...] , [...] 
+2.a. 1(N01) , SANGA~a 
+2.b. 2(N01) , 
+1.a. [...] , X 
+1.b. [...] 1(N01) , 
+4.a. 1(N01) , 1(N57) 
+4.b. 2(N01) , 
+169218	1.a1. 2(N01) , 
+1.a2. 1(N03)? , 
+1.b. , X [...] 
+2.a. 2(N01) , X [...] 
+2.b. [...] , PAD~a [...] 
+169224	1.a1. 1(N02) , 
+1.a2. 1(N01) , 
+1.b. , NUN~a [...] 
+169228	2.a1. 1(N01) , |DUG~cx1(N57)| 
+2.a2. 2(N02) , 
+2.b. , GI4~b 
+169232	1.a1. 2(N14)# 2(N01)# [...] , 
+1.a2. [...] 1(N01)# [...] , 
+1.b. , GAR [...] 
+169236	1.a1. 1(N14)#? [...] , [...] 
+169238	1.a1. 3(N02) , 
+1.a2. 2(N01) , 
+1.b. , URI3~a 
+3.a. [...] 2(N01) 4(N39~b) [...] , [...] 
+3.b. 1(N39~b) [...] , [...] 
+169244	1.a1. [...] , [...] 
+1.a2. 2(N51) , GAR 
+1.b. , SAG 
+169248	2.a1. [...] , [...] 
+2.a2. 1(N51) , GAR 
+2.b. , SAG 
+169252	3.a1. [...] , [...] 
+3.a2. 1(N34) [...] , [...] 
+169255	1.a1. 1(N01) , |DUG~cx1(N57)| 
+1.a2. 1(N02) , 
+1.a3. 1(N01) , 
+1.b. , AMAR AMAR 
+1.a. 1(N02) , SZUBUR 
+1.b. 1(N01) , 1(N58) 
+1.a. 1(N01) , PAP~a NUN~a DUG~c 
+1.b. 2(N02) [...] , [...] 
+2.a. 1(N01) , DUG~c TUR3~a 
+2.b. 2(N02) [...] , [...] 
+3.a. 1(N01) , DUG~c# [...] 
+3.b. [...] , [...] 
+4.a. 1(N02) , DUG~c X 
+4.b. [...] , [...] 
+5.a. 1(N01) , DUG~c [...] 
+5.b. [...] , [...] 
+1.a. [...] , [...] 
+1.b. 2(N01) , 
+2.a. [...] , [...] 
+2.b. 1(N01) [...] , [...] 
+1.a. 1(N01) [...] , [...] 
+1.b. 2(N02) , 
+1.c. 1(N01) , 
+2.a. 2(N02) , [...] 
+2.b. 1(N01) [...] , [...] 
+1.a. 2(N01) , MA 
+1.b. 3(N01) [...] , [...] 
+1.a. 2(N01) , 
+1.b. 1(N01) , 
+169285	2.a1. 1(N01) , 
+2.a2. 1(N01)? , 
+2.b. , X 
+169289	1.a1. 2(N02) , 
+1.a2. 1(N01) , 
+1.b. , LAM~b [...] 
+2.a. 1(N01) , EN~a IB~a 
+2.b. , GI# [...] 
+169295	1.a1. 1(N02) , 
+1.a2. 1(N01) , A 
+1.b. , DA~a? X [...] 
+1.a. 1(N01) , |DUG~cx1(N57)| 
+1.b. 1(N01) , AMAR AMAR 
+2.a. 1(N01) , |DUG~cx1(N57)| 
+2.b. 1(N01) , AMAR 
+3.a. 1(N01) , |DUG~cx1(N57)| 
+3.b. 1(N01) , NAGA~b 
+3.c. 1(N01) , NU@g 
+4.a. 1(N01) , |DUG~cx1(N57)|# 
+4.b. 2(N02) , X [...] 
+1.a. 1(N01) , |DUG~cx1(N57)| 
+1.b. 1(N01) , [...] 
+2.a. 1(N01) , |DUG~cx1(N57)| 
+2.b. 3(N01) , [...] 
+2.c. 2(N01) , [...] 
+1.a. [...] , [...] 
+169314	1.b1. [...] , [...] 
+1.b2. 2(N14) , 
+2.a. 4(N01) , [...] 
+169318	2.b1. , X 
+2.b2. , AB~a? 
+3.a. 1(N01) , BARA2~a 
+3.b. , GA'AR~a2 
+3.a. 2(N02) , X 
+3.b. 1(N01) , NE~a# SANGA~a SZESZ~a 
+2.a. 2(N02) , 
+2.b. 1(N01) , NIN [...] 
+3.a. 2(N02) , 
+3.b. 1(N01) , X KU6~a [...] 
+169329	1.a1. 2(N02) , 
+1.a2. 3(N01) , 
+1.b. , PAP~a AB2 KAB? 
+169333	2.a1. 2(N02) , 
+2.a2. 3(N01) , 
+2.b. , SUKKAL ZATU644~b 
+169337	3.a1. 1(N01) , 
+3.a2. 1(N02) , 
+3.b. , |DUG~bx1(N57)| NUN~a EN~a 
+169341	1.a1. 2(N02) , 
+1.a2. 1(N01) , 
+1.b. , AMAR BA 
+169345	2.a1. 1(N02) , 
+2.a2. 1(N01) , 
+2.b. , U4 
+169349	3.a1. 2(N02) , 
+3.a2. 1(N01) , 
+3.b. , NE~a SZE~a 
+1.a. 1(N01) , |DUG~cx1(N57)| 
+1.b. 2(N02) , 
+1.c. 1(N01) , AB~a SANGA~a SZESZ~a 
+2.a. 1(N01) , |DUG~cx1(N57)| 
+2.b. 2(N02) , 
+2.c. 1(N01) , GA~a AN MUSZ3~a 
+3.a. 2(N02) , 
+3.b. 1(N01) , KAB? BU~a 
 #atf: lang qpc 
 #atf: lang qpc 
 #atf: lang qpc 
@@ -40945,7 +49345,7 @@ $ (not given)
 @column 2 
 @column 3 
 @column 1 
-253417	1. [...] , X X 
+227226	1. [...] , X X 
 1. 3(N14) X SANGA~a? [...] 
 1. X , X 
 2. X , X 
@@ -40966,35 +49366,16 @@ $ (not given)
 1. , X X 
 2. , SZE~a DU NUN~a 
 1'. [N] , [...] KA~a 
-2.a'. [N] 2(N14) 3(N01) , KASZ~b NUN~a 
-2.b'. 3(N01) , KASZ~a? GI 
-3'. [N] 6(N14)#? 4(N01) 2(N39~a) , X [...] 
+227248	3'. [N] 6(N14)#? 4(N01) 2(N39~a) , X [...] 
 1'. , U4 |U4x1(N01)| SAG SUKUD@h NA 
 1. , |U4.1(N08)| X 
 2. , |U4.1(N08)| GI 
 3. , |U4.1(N08)|# |GI&GI|# 
 4. , |U4.1(N08)|# X 
 5. , |U4.1(N08)| X 
-1.a. 3(N01) , APIN~a 3(N57) UR4~a 
-253449	1.b1. , (EN~a DU ZATU759)a 
-1.b2. , (BAN~b KASZ~c)a 
-1.b3. , (KI@n SAG)a 
-2.a. 1(N14) 2(N01) , [...] 
-253454	2.b1. , (3(N57) PAP~a)a 
-2.b2. , (SZU KI X)a 
-2.b3'. , (EN~a AN EZINU~d)a 
-2.b4'. , (IDIGNA [...])a 
-1.a. 1(N01) , ISZ~a#? 
-253460	1.b1. , (PAP~a GIR3~c)a 
-1'. [1(N14)] 6(N01)# , [...] 
-253463	1.a1'. [...] 4(N14)# , [...] X 
-1.a2'. [N] 2(N14)# , [...] 
-2'. , KISIM~a ZATU694~c 
-1.a'. [...] 1(N14)# , [...] SZE~a 
-1.b'. [N] , TAR~a 
-2.a'. 3(N01) , SZE~a KASZ~b? |U4x3(N01)| 
-2.b'. 1(N42~a) 1(N25) , TAR~a 
-1'. [N] 1(N14) , [...] 
+227258	1'. [1(N14)] 6(N01)# , [...] 
+227260	2'. , KISIM~a ZATU694~c 
+227263	1'. [N] 1(N14) , [...] 
 2'. 3(N01) , X [...] 
 3'. , X [...] 
 1. 2(N01) , U2~b RU 
@@ -41021,11 +49402,7 @@ $ (not given)
 6. , SANGA~a HI~a 
 1. 1(N01) 3(N39~a) , NAR A 
 1. [...] , [...] 
-2.a. , KU6~a BU~a 
-2.b. , |AB~axSUKKAL| 
-2.c. , NAM2 RAD~a PA~a SZU 
-2.d. , RAD~a [...] 
-3. , [...] 
+227291	3. , [...] 
 1. [...] , [...] 
 2. 1(N01) , USZ~a SZUBUR GAL~a IM~a 
 3. , SZA [...] RAD~a# 
@@ -41390,9 +49767,7 @@ $ (not given)
 4. 6(N01) , |LAGAB~axSZITA~a1| 
 5. , EN~a SZIM~a 
 6. , NAM2 KAB# NUN~a# 
-1.a. 2(N39~a) , HI@g~a EN~a SZIM~a 
-1.b. 2(N01) 1(N24) 1(N28)# 1(N30~c) , SZE~a 
-2. , AN SIG MUSZ3~a 
+227657	2. , AN SIG MUSZ3~a 
 1. [...] , 1(N39~a)# 
 2. [...] , 1(N24)# 
 3. 2(N01)# [...] , 1(N26)# 
@@ -41417,10 +49792,7 @@ $ (not given)
 2. 1(N14) , SZITA~b1 
 3. 1(N14) , BA 1(N57) [SZITA~a1] 
 4. 8(N01)# , KU3~a# 
-253894	1.a1. 2(N39~a) 1(N24) , HI@g~a 
-1.a2. 2(N39~a) 1(N28) , ZATU714 
-1.b. 4(N39~a) 1(N24) 1(N28)# , [...] |ZATU714xHI@g~a|# MU 
-2. 1(N40) , HI#? [...] 
+227683	2. 1(N40) , HI#? [...] 
 1. [...] , [...] 
 1. 9(N01) , UDU~a 
 2. 1(N14) , SZITA~b1# 
@@ -41428,23 +49800,10 @@ $ (not given)
 4. [...] , KU3~a 
 5. 1(N34)# 2(N14) , TA~c 
 6. [...] , [...] 
-253906	1.a1. [...] 1(N24)# , [...] 
-1.a2. 2(N39~a)# 1(N28)# , [...] HI@g~a 
-1.b. 4(N42~a) [1(N25) 1(N28~c)] , [...] 
-2. 1(N24)# 1(N28) , HI@g~a 
+227692	2. 1(N24)# 1(N28) , HI@g~a 
 3. , GESZTU~b NAM2 KAB# NUN~a# 
 1. , AN# MUSZ3~a# U4 
-1.a. [...] , [...] 
-1.b. [...] , X [...] 
-253915	2.a1. 2(N01) , SAL KI 
-2.a2. 1(N01) , SAL SZA3~a1 
-253918	2.b1. 2(N01)# [...] , [...] 
-2.b2. 2(N01)# [...] , [...] 
-2.c. 8(N01) , |U4.SZU2| SA~a 
-253922	3.a1. 2(N01) , ZATU759#? [...] 
-3.a2. [...] , [...] 
-3.b. 5(N01) , KISAL~b1#? 
-1. 1(N14) 6(N01)# [...] , [...] 
+227698	1. 1(N14) 6(N01)# [...] , [...] 
 1. 1(N14) 2(N01)# [...] , [...] 
 1. [...] , [...] 
 2. [...] , [...] SZITA~b1 
@@ -41459,10 +49818,7 @@ $ (not given)
 5. 1(N34) 4(N14) , SZITA~a1 U8? 
 6. 2(N14) , |(SZAxHI@g~a)~b| 
 1. [...] , [...] 
-253941	2.a1. 4(N39~a) , HI@g~a# 
-2.a2. 3(N39~a)# 1(N24)# [1(N28)] , [HI] 
-2.b. 1(N01)# 2(N39~a) 1(N24)# 1(N28)# , [...] 
-3. [...] , [...] 
+227714	3. [...] , [...] 
 4. 2(N39~a)# [...] , X [...] 
 5. , IDIGNA# AN MEN~a [...] 
 6. , GESZTU~b# [...] 
@@ -41511,31 +49867,7 @@ $ (not given)
 3. [...] , I [...] 
 1. [...] , [...] 
 1. [...] , [...] 
-1.a. [...] , [...] 
-1.b. [...] 1(N08)# , 
-2.a. [...] , [...] 
-2.b. 2(N01)# 2(N08) , 
-3.a. 2(N14)# , SZAGAN# 
-3.b. 1(N01) 1(N08) , 
-4.a. 1(N14) , EN~a NUN~a ERIM~a KISAL~b1 
-4.b. 1(N01)# , 
-5.a. 1(N14) , NAMESZDA KISAL~b1 
-5.b. 1(N01) , 
-6.a. 1(N14) , GESZTU~b TE 
-6.b. 1(N01) , 
-1.a. 1(N14) , AB~b 5(N57)# GURUSZ~a# 
-1.b. [...] , 
-2.a. 1(N14) , UDU~a# URI# 
-2.b. 1(N01) , 
-3.a. 2(N14)# , ZATU752# GAL~a# 
-3.b. 1(N01)# 1(N08)# , 
-4.a. 2(N14) , EN~a NUNUZ~c# X 
-4.b. 1(N01)# 1(N08)# , 
-5.a. 2(N14) , UMUN2 KU3~a? 
-5.b. 1(N01)# 1(N08)# , 
-6.a. 2(N14) , TUR3~a 
-6.b. 1(N01)# 1(N08)# , 
-1. [...] , [...] 
+227775	1. [...] , [...] 
 2. [...] , [...] 
 1. [...] , [...] 
 2. [...] , [...] 
@@ -41705,45 +50037,21 @@ $ (not given)
 1. 2(N47)# 6(N20)# 5(N05)#? 1(N42~a)# 1(N25)# 1(N28~c)#? , GU7#? [...] 
 2. 3(N20)#? 3(N42~a)# 1(N28~c)#? , BA 
 3. , 
-1.a. [...] , [...] SZENNUR~a#? 
-1.b. 2(N47) , 
-2.a. [...] , [...] U4 KI 
-2.b. 6(N20) 4(N05) , 
-3.a. [...] , [...] U4 KI 
-3.b. 1(N01)# 1(N39~a)# 1(N24)# 1(N28)# , 
-4. , [...] 
+227948	4. , [...] 
 1. [...] , [...] KASZ~b#? 
 2. [...] , [...] 
-1.a. 2(N51)# 1(N34) 1(N14)# 6(N01)# , GAR GUM~b 
-1.b. 4(N14)# 2(N01) , DUG~a# KASZ~a 
-2.a. [...] 1(N14)# , DUG~a# [KASZ~a] 
-254200	2.b1. 3(N14)# , DUG~a# 
-2.b2. [...] , [KASZ~a] 
-3.a. [...] , [...] 
-3.b. [...] 1(N01)# 1(N08) , DUG~a# [...] 
-1. 1(N54) 5(N51)# [...] , [...] 
+227954	1. 1(N54) 5(N51)# [...] , [...] 
 2. 1(N34)# [...] 1(N14)# [...] 1(N01) , [...] KASZ~a# 
 3. , [...] 
 1. [...] 5(N51)# 1(N34) 2(N14) 2(N01) , GAR 
-2.a. 4(N34)# 4(N14)# 2(N01)# , DUG~a KASZ~a 
-254210	2.b1. 2(N34)# , DUG~a 
-2.b2. 2(N34) 4(N14)# 2(N01)# , KASZ~a 
-3. 1(N48) 5(N34) , SZITA~a1# 
+227959	3. 1(N48) 5(N34) , SZITA~a1# 
 4. [...] , [...] 
 1. , [...] 
 1. 7(N34)# 1(N14)# [...] , X [...] 
 1. [...] , [...] 
 1. [...] 1(N51)# 1(N34)# 3(N14) [...] , ERIM~a [...] 
 2. [...] , [...] 
-1.a. 3(N14) 5(N01) , GAL~a 
-1.b. 1(N14)# [...] , [...] 
-2.a. 3(N14) 1(N01) , GESZTU~b 
-2.b. 1(N14)# [...] , [...] 
-3.a. 2(N34) 2(N14) 2(N01) , |NUN~b+EN~a| 
-3.b. 1(N34) 1(N14)# [...] , [...] 
-4.a. [...] , X [...] 
-4.b. 1(N14) [...] , [...] 
-1. [...] , [...] 
+227970	1. [...] , [...] 
 1. [...] , [...] 
 1. [...] , X [...] 
 2. [...] , X [...] 
@@ -41908,11 +50216,7 @@ $ (not given)
 3. 1(N01)# [...] , [...] 
 4. 1(N01)# [...] , [...] 
 1. [...] , [...] GIR3~c#? X 
-2.a. 4(N14) , NAM2 
-2.b. 3(N14) 6(N01) , |KI@n+DUB~a| 
-254395	2.c1. 1(N14)# [...] , X [...] 
-2.c2. 2(N14)# [...] , [...] 
-1. [...] , IB~a# AN AB~b ME~a# [...] 
+228136	1. [...] , IB~a# AN AB~b ME~a# [...] 
 1. [...] , X [...] 
 2. [...] 1(N01)# , NAMESZDA TE 
 3. [...] 1(N01)# , X ERIN X [...] 
@@ -42021,11 +50325,7 @@ $ (not given)
 1. [...] 2(N01)# , X [...] 
 2. [...] , [...] 
 1. [...] , [...] 
-2.a. [...] , [...] 
-2.b. 1(N01)# , 1(N57)#? 
-3.a. [...] , [...] 
-3.b. 2(N01)# , [...] 
-1. [...] , [...] 
+228247	1. [...] , [...] 
 1. [...] , [...] |1(N57).SZUBUR| 
 2. [...] , [...] 
 1. [...] , [...] 
@@ -42109,11 +50409,7 @@ $ (not given)
 1. 1(N01) , ZATU659 BU~a? NAM2 PAP~a 
 2. , SZITA~a3 |U4x1(N01)|#? E2~b 
 3. 1(N57) , DU E2~b NUNUZ~a1# 
-4.a. 1(N57) , NAGA~a# 3(N57)# 
-4.b. 1(N57) , E2~b# X 
-5.a. 1(N01) , ZATU659 NIR~a# 
-5.b. , SU~a PAP~a 3(N57) 
-6. 1(N57) , EN~a SAG SZITA~a1 
+228333	6. 1(N57) , EN~a SAG SZITA~a1 
 7. 1(N57) , PAP~a GA2~a1 GISZ ERIM~a#? 
 1. 1(N57) , BU~a#? SZU 
 2. , GU7 
@@ -42153,21 +50449,7 @@ $ (not given)
 1. , |U4x2(N01).2(N14)|? NAGA~a EN~a U4 SIG 
 2. [...] 6(N01)# , X [...] 
 3. [...] , [...] 
-1.a. [...] 1(N01)# , |DUG~cx1(N57)|# [...] X 
-1.b. 6(N02)# , 
-2.a. [...] 2(N01)# , |DUG~cx1(N57)| [...] X 
-2.b. 2(N14) [...] , GESZTU~c3# [...] 
-2.c. 1(N02)# [...] , X [...] 
-3.a. [...] , [...] 
-3.b. 2(N02) , 
-3.c. 2(N01) , KASZ~c 
-1.a. 3(N01)# , |DUG~cx1(N57)| NUN~a 
-1.b. 1(N02)? , 
-1.c. 2(N01) , KASZ~c# 
-2.a. 1(N14) , GESZTU~c3# AN MUSZ3~a# 
-2.b. 1(N02) , 
-2.c. 1(N01) , KASZ~c# 
-3. , AB~b# KU6~a AB~a 
+228378	3. , AB~b# KU6~a AB~a 
 1. [...] 1(N01)# , |DUG~cx1(N57)| 
 2. 3(N14) , GESZTU~c3# 
 3. 1(N15) 4(N02) , DUG~c# 
@@ -42246,55 +50528,7 @@ $ (not given)
 3. [...] , [...] 
 1. [...] , [...] 
 2. 5(N01) , |SILA3~axSZU| 
-1.a. 3(N01) , KU6~a KISIM~a 
-1.b. , IB~a DIM~a 
-2.a. 1(N01) , UNUG~a SZEN~b 
-2.b. , PAP~a |MUSZENx2(N57)| 
-3.a. 1(N01) , SZEN~b PAP~a SZU 
-3.b. , PAP~a |MUSZENx2(N57)| 
-4.a. 1(N01) , X UKKIN~b# [...] 
-4.b. , |SILA3~axSZE~a@t| 
-5.a. 1(N01) , SZEN~b# 
-5.b. , PAP~a |MUSZENx2(N57)| 
-6.a. 1(N01) , SZEN~b SI RAD~a 
-6.b. , PAP~a |MUSZENx1(N57)| 
-7.a. 1(N01) , DUG~b GA2~a2 GURUSZDA# 
-254745	7.b1. , UNUG~a 5(N57) 
-7.b2. , |DARA3~dxKAR2|#? 
-8.a. 1(N01) , SI UKKIN~b SZE~a 3(N57) E2~a 
-8.b. 1(N01) , |DUG~cx1(N57)|#? GI 
-9.a. 1(N01) , DUG~b 
-9.b. , |SZU&SZU| 
-1.a. 1(N01) , KISIM~a [...] 
-1.b. , [...] 
-2.a. 2(N01) , KISIM~a PAP~a SZU 
-2.b. , DIM~a# IB~a# 
-3.a. 1(N01) , KISIM~a EN~a DU AB2 
-3.b. , DIM~a IB~a 
-4.a. 2(N01) , UKKIN~b |SZU2.EN~a|# AN# EN~a DU AB2 
-4.b. , |MUSZENx2(N57)| PAP~a 
-5.a. 1(N01) , KISIM~a#? U4 EN~a ME~a#? 
-5.b. , |SZU&SZU|# 
-6.a. 1(N01) , X NUNUZ~a1 X X 
-6.b. , |SZU&SZU| 
-7.a. 2(N01)#? , X EN~a# TI X 
-7.b. , |GISZxSZU2~a| EN~a 
-8.a. 2(N01) , UKKIN~b APIN~a ZATU752 
-8.b. , |MUSZENx2(N57)| PAP~a 
-1.a. [...] , [...] 
-1.b. [...] , [...] 
-2.a. 1(N01)# , X [...] 
-2.b. [...] , [...] 
-3.a. 4(N01)# , 4(N57)#? DUG~b? 
-3.b. , GURUSZDA# GA2~a2 
-4.a. 4(N01) , KISIM~a IM~b 
-4.b. , GURUSZDA GA2~a2 
-254776	5.a1. 1(N01) , SZEN~b 
-5.a2. 1(N01) 1(N08) , KISIM~a 
-5.b. , EN~a TU~a 
-6.a. 1(N01) , SZEN~b MAH~a DA~a# 
-6.b. , GURUSZDA GA2~a2# 
-1. [...] , UDU~a E2~a# PIRIG~b1 
+228480	1. [...] , UDU~a E2~a# PIRIG~b1 
 2. 1(N01) , UKKIN~a |SZU&SZU| 
 3. , IDIGNA EN~a 
 1. 6(N01)# , SZEN~b# 
@@ -42344,13 +50578,7 @@ $ (not given)
 1. [...] 1(N01) , [...] DUG~a#? 
 2. 3(N01) , DUG~a#? [...] 
 1. , [...] UDU~a# EN~a# SAG X X 
-1.a. [...] 1(N01)# , TUR UDU~a#? NUN~a# BA#? 
-254833	1.b1. [...] 2(N02)#? , X [...] 
-1.b2. 2(N02)# [...] , X [...] 
-1.b3. 1(N02)#? , X [...] 
-2.a. 1(N14)# , X X [...] 
-2.b. 2(N02)# [...] , X [...] 
-3. [...] , [...] 
+228532	3. [...] , [...] 
 1. [...] 2(N01)# , SU~a# X [...] 
 2. , [...] 
 1. [...] , [...] 
@@ -42358,29 +50586,15 @@ $ (not given)
 1. 2(N01)# , X [...] 
 2. 2(N01) , [...] 
 3. 1(N01) , UDU~a? [...] 
-254847	1.a1. [...] 1(N01)# , [|DUG~cx1(N57)|] 
-1.a2. [...] 1(N01)# , KASZ~d# 
-1.b. , TUR3~a TUR# 
-2. [...] 2(N01)# , KASZ~d# NUN~a# SZUBUR# X [...] 
+228541	2. [...] 2(N01)# , KASZ~d# NUN~a# SZUBUR# X [...] 
 1. [...] , [...] X 
-254853	2.a1. 1(N01)# , |DUG~cx1(N57)|# 
-2.a2. [...] 2(N01)# , KASZ~d# 
-2.b. , TAK4~a TAK4~a#? KI AN SZU2 EN~a 
-3. , X |ZATU651xGAR|# 
+228544	3. , X |ZATU651xGAR|# 
 1. [...] , [...] 
 2. 7(N01)# , |DUG~cx1(N57)| 
 3. 2(N14)# 4(N01) , KASZ~d 
 4. [...] , [...] 
 1. , X E2~b PIRIG~b1# [...] 
-1.a. [...] , [...] 
-1.b. [...] , [...] 
-2.a. [...] , [...] X EN~a#? 
-254866	2.b1. 1(N01) , |SILA3~axKASZ~d| 
-2.b2. 1(N01) , |SILA3~axHASZHUR| 
-254869	3.a1. 1(N01)# , X 
-3.a2. 1(N01) , X 
-3.b. , SANGA~a [...] 
-4. [...] , [...] X 
+228553	4. [...] , [...] X 
 1. [...] , [...] 
 1. [...] , [...] 
 1. [...] , [...] 
@@ -42411,10 +50625,7 @@ $ (not given)
 2. 2(N14)# [...] , [...] 
 1. [...] 1(N01) , [...] 
 2. 2(N01) , GU4#? [...] 
-1.a. [...] , [...] |DUG~cx1(N57)|#? NAGAR~a# NE~a 
-254905	1.b1. 5(N01)# , SZA@g# 
-1.b2. 5(N01) , |(SZAxHI@g~a)~a|#? 
-2. [...] 1(N51)# 1(N34)# , GA'AR~a2 
+228585	2. [...] 1(N51)# 1(N34)# , GA'AR~a2 
 3. 3(N01)#? , URUDU~a? |SAR~axSZE~a|# EN~a SIG7# 
 1. [...] , [...] GI# 
 2. , GU7# 
@@ -42435,9 +50646,7 @@ $ (not given)
 1. , [...] GI# 
 1. [...] , [...] 
 1. [...] , [...] GI# 
-1.a. [...] , [...] GAL~a# 
-1.b. [...] , [...] 
-2. [...] , [...] PAP~a#? 
+228607	2. [...] , [...] PAP~a#? 
 1. [...] 4(N01)# 2(N39~a)# , 
 2. [...] 1(N14)# 2(N01)# 1(N24)# , 
 3. [...] , [...] 
@@ -42494,14 +50703,8 @@ $ (not given)
 1. 6(N51)# [...] , [...] 
 2. 1(N45)# [...] , [...] 
 1. [...] 2(N01) , |SILA3~axNI~a| HI BAN~a |U4x1(N01)| 
-2.a. 1(N14)# , [...] |DUG~ax1(N57)|# DA~a# GA2~c 
-254989	2.b1. 1(N14) , |SILA3~axHI| 
-2.b2. 1(N14) , |SILA3~axNI~a|# BA 
-1. [...] , [...] ZATU629# 
-2.a. 2(N14) 2(N01) , |DUG~ax1(N57)| [...] 
-254994	2.b1. [...] , [...] 
-2.b2. [...] , GAR# 
-1. 2(N01) , DUG~c#? [...] 
+228665	1. [...] , [...] ZATU629# 
+228667	1. 2(N01) , DUG~c#? [...] 
 2. 2(N01) , SZEN~a#? [...] 
 3. 2(N01) , [...] 
 4. [...] , X [...] 
@@ -42521,10 +50724,7 @@ $ (not given)
 4. 1(N01)# , SUMASZ X 
 1. 1(N34) , |ZATU759xKU6~a|# 
 2. , UB KU6~a 
-3.a. , X EN~a# X 
-255018	3.b1. , SUHUR# X 
-3.b2. , TUR3~a# DU# SZE3# 
-1. [...] , [...] 
+228688	1. [...] , [...] 
 1. , |GI&GI|# GIR3~a#? SUHUR# 
 1. [...] , [...] 
 2. 5(N01)# , X 
@@ -42546,10 +50746,7 @@ $ (not given)
 1'. [...] 2(N50)# [...] , [...] 
 2'. [...] , [...] X 
 1'. [...] , [...] 
-255043	1.a1. 3(N01)# , [...] GISZ# TE# 
-1.a2. 1(N01) , UDU~a [...] 
-1.b. , EN~a BU~b U2~b DU GAL~a# SANGA~a# [...] 
-1. [...] , [...] 
+228711	1. [...] , [...] 
 1. [...] 1(N01)# , SI EN~a X [...] 
 1. [...] , [...] 
 2. [...] , [...] |(UDU~axTAR)~b|# 
@@ -42629,10 +50826,7 @@ $ (not given)
 1. , [...] GU7 
 1. 2(N01) [...] , X [...] 
 2. 2(N01) , GESZTIN~a# KASZ~a# [...] 
-3.a. [...] 8(N01)# , X [...] 
-255128	3.b1. 1(N01)# , X [...] 
-3.b2. 7(N01)# , [...] 
-1. [...] , [...] 
+228792	1. [...] , [...] 
 2. 3(N01)# , [...] 
 1. 3(N14)# , BA# GISZ [...] 
 1. 1(N01)# , PAP~a SZU2 
@@ -42653,10 +50847,7 @@ $ (not given)
 1. [...] , [...] 
 1. [...] 1(N02) , [...] 
 2. [...] , [...] X 
-255152	1.a1. [...] , [...] U4# X 
-1.a2. [...] , [...] 
-1.b. [...] , [...] 
-2. [...] , [...] 
+228814	2. [...] , [...] 
 1. [...] 1(N45)# 4(N50)# [...] , [...] 
 1. [...] 1(N01)# [...] , SUHUR# [...] 
 1'. [...] , [...] 
@@ -42686,11 +50877,7 @@ $ (not given)
 1. [...] , X GI# [...] 
 2. 1(N01) [...] , [...] 
 1. 1(N01)# [...] , GAL~a LAM~b [...] 
-1a. 8(N01)# , SZITA~a1 EN~a [...] SAG 
-255187	1.b1. 4(N01) [...] , X X [...] 
-1.b2. 3(N01) , NUN~a#? [...] 
-1.b3. 1(N01) , [...] 
-2. , X [...] 
+228845	2. , X [...] 
 1. [...] , X [...] 
 1. [...] 1(N01)# [...] , X [...] 
 1. [...] , X [...] 
@@ -42710,9 +50897,7 @@ $ (not given)
 1. [...] , X [...] 
 2. [...] , SZU# E2~b#? BU~a X [...] 
 3. [...] , [...] X 
-1.a. [...] , [...] 
-1.b. [...] , [...] X 
-2. [...] , [...] 
+228866	2. [...] , [...] 
 1. [...] , X [...] 
 1. 1(N01) [...] , [...] 
 1. 1(N01) [...] , E2~a [...] 
@@ -42731,12 +50916,7 @@ $ (not given)
 1. [...] , [...] X 
 2. [...] , [...] 
 1. [...] , SI#? 1(N45) [...] X SU~a# NE~a# 
-2.a. [...] 1(N34)# 1(N14) [...] , [...] X 
-2.b. 3(N14) , |(UDU~axTAR)~b|# 
-3.a. 1(N34)#? 1(N14) 5(N01) , X AN# 3(N57) [...] 
-255235	3.b1. 3(N14)# , |(UDU~axTAR)~b| 
-3.b2. 3(N14)# , X 
-1. [...] , X BA UR~a# [...] 
+228887	1. [...] , X BA UR~a# [...] 
 2. 1(N01) 1(N08) , EN~a# X DU# KI [...] 
 3. , NE~a# U4 X BU~a [...] 
 1. [...] , [...] 
@@ -42770,13 +50950,7 @@ $ (not given)
 1. , TAK4~a KI [...] 
 2. , AK~a SI [...] 
 3. , [...] 
-1.a. [...] , [...] E2~a# TI# 
-1.b. [...] 2(N14)# [...] 2(N01)# , 
-2.a. 1(N01) , SI DILMUN# ZATU777 [...] 
-2.b. 3(N14) 3(N01)# , 
-3.a. [...] , [...] 
-3.b. [...] 2(N01)# , 
-1. [...] 1(N34)# , [...] ALAN~a# 
+228924	1. [...] 1(N34)# , [...] ALAN~a# 
 2. 3(N14) , SZE~a EN~a 1(N57)? E2~d? 
 3. 1(N01) , KAB TUR# 
 4. [...] , X [...] 
@@ -42791,65 +50965,13 @@ $ (not given)
 1. [...] , AN [...] 
 1. [...] , [...] X 
 1. 1(N01)# , X [...] 
-1.a. [...] , [...] X SZITA~a1#? SZU 
-1.b. 3(N01)# , BA# EN~a TUR 
-1.c. [...] 1(N01)# , [...] EN~a TUR 
-2.a. [...] , [...] GAL~a# 
-2.b. 1(N01) , IDIGNA A SZIDIM 
-2.c. 4(N01) , EN~a TUR GI 
-3.a. 2(N01)# , NUN~a# EN~a BA 
-3.b. 1(N01) , GI 
-3.c. 2(N01) , SZITA~a1 LAGAR~a@r EN~a TUR 
-3.d. 1(N01) , TUR EN~a BA 
-3.e. 2(N01) , EN~a TUR GI 
-3.f. 2(N01) , GI |U4x1(N57)| 
-4.a. 2(N01) , HI E2~a NUN~a BA 
-4.b. 1(N01) , EN~a PA~a 
-4.c. 1(N01) , U4 E2~b AN# MAR~a 
-4.d. 2(N01) , EN~a TUR BA 
-4.e. 3(N01) , |U4x2(N57)| GI 
-5.a. 2(N01) , EN~a SZU NUN~a 
-5.b. 1(N01) , EN~a PA~a 
-5.c. 1(N01) , PAP~a 
-5.d. 1(N01) , KID~b UR4~b 
-5.e. 1(N01) , GI 
-255315	5.f1. 1(N02) , 
-5.f2. 1(N01) , SZIDIM NUN~a SIG7 
-5.g. 3(N01) , EN~a TUR GI 
-6.a. 1(N01) , BA EN~a# AMAR# 
-6.b. 1(N01) , SAL 
-6.c. 1(N01) , AB~a GI 
-6.d. 2(N01) , EN~a TUR KAK~a SZU SZITA~a1 HI? 
-6.e. 2(N01) , EN~a TUR BA 
-6.f. 4(N01) , EN~a TUR GI 
-7.a. 2(N01) , AN |SZU2.EN~a| BA 
-7.b. 1(N01) , GI 
-7.c. 2(N01) , EN~a TUR BA 
-7.d. 4(N01) , |U4x2(N57)| GI 
-8.a. 1(N01) , PAP~a? KAB NAM2# U2~a GI# 
-8.b. 2(N01) , |KA2xLAM| 
-8.c. 8(N01) , GI |U4x2(N57)| 
-9.a. 2(N01) , LAM~a SI ME~a KAB NAM2 
-9.b. 1(N01) , GI 
-9.c. 2(N01) , SZITA~a1 KAK~a SZU EN~a TUR 
-9.d. 2(N01) , EN~a TUR GI 
-9.e. 3(N01) , |U4x2(N57)|# GI# 
-1.a. [...] , [...] 
-2.a. 2(N01) , BA# TUN3~a# [...] 
-3.a. [...] , X [...] 
-4.a. [...] , [...] 
-1. [...] , [...] 
+228952	1. [...] , [...] 
 1. 5(N14) 4(N01)# [...] , [...] 
 1. [...] , X [...] 
 1. [...] , [...] 
 2. 2(N01)# [...] , [...] 
 3. 3(N01)#? , X DA~a# NE~a [...] 
-4.a. 4(N01) [...] , GAL~a# SZAB~a 
-255348	4.b1. , [...] UDU~a#? 
-4.b2. , UDU~a KUR~a 
-4.b3. , [...] X 
-4.b4. , SZU#? X [...] 
-1. [...] , [...] 
+228959	1. [...] , [...] 
 1. 4(N01) , GAL~a SZAB~a AL 
 2. 4(N01) , 2(N57) BA 
 3. 8(N01) , TUR 
@@ -43014,10 +51136,7 @@ $ (not given)
 2. 1(N01) , AN RU#? [...] 
 1. [...] , [...] 
 2. [...] , X NA2~a ZATU659 SZU 
-255518	3.a1. [...] 3(N02)# , [...] 
-3.a2. 2(N01) , 
-3.b. , NUN~a# AB2# X [...] 
-1. [...] , [...] 
+229125	1. [...] , [...] 
 1. [...] , [...] X 
 2. [...] 1(N08)# , X [...] 
 1. , [...] 
@@ -43063,50 +51182,18 @@ $ (not given)
 1. [...] , EN~a X AN TE# NUN~a [...] 
 2. [...] , GAL~a# AK~a# [...] 
 1. [...] , [...] 
-2.a. [...] , [...] 
-2.b. , SAG# [...] 
-3. [...] , [...] 
-1.a. [...] , [...] 
-1.b. [...] 2(N01)# , ERIN#? 
-2.a. [...] , [...] 
-2.b. 1(N14) 9(N01) , 
-3.a. [...] , [...] 
-3.b. 1(N14)# 9(N01) , 
-4.a. [...] , [...] 
-4.b. 1(N14)# 9(N01)# , 
-1.a. 1(N14)#? , E2~a#? A#? 
-1.b. [...] 6(N01)# [...] , 
-2.a. 1(N14) , 3(N57) PIRIG~b1 SU~a# SAL 
-2.b. 1(N14) 9(N01)# , 
-3.a. 1(N14) , NA2~a 
-3.b. 1(N14) 9(N01) , 
-4. , KA2~a#? X [...] 
-1.a. [...] 8(N14)# , X |U4x4(N01)| [...] 
-1.b. [...] 1(N01)# , [...] 
-2.a. [...] , [...] X X KI# 
-2.b. [...] , EN~a# DU# [...] 
-1. [...] , [...] 
+229172	3. [...] , [...] 
+229180	4. , KA2~a#? X [...] 
+229183	1. [...] , [...] 
 2. [...] , [...] X 
 3. [...] , [...] X 
-1.a. , UKKIN~a 
-2.a. 1(N01) , AL 
-2.b. , (PAP~a# X [...])a 
-3.a. 2(N01) , EN~a TUR 
-3.b. , (NESAG2~b BA)a 
-3.c. , (A NUNUZ~a1)a 
-4.a. [...] , [...] TUR 
-4.b. , (EN~a UNUG~a HI)a 
-5.a. [...] , [...] 
-5.b. , [...] 
-1. 1(N01) , |U4x1(N57)|# X [...] 
+229191	1. 1(N01) , |U4x1(N57)|# X [...] 
 2. 1(N01)# [...] , [...] 
 1. [...] , [...] EN~a# KID~a# GAL~a 
 2. [...] , [...] GA~a#? KUR~a 
 1. [...] , [...] 
 2. 1(N01)# [...] , [...] 
-1.a. 3(N14)# [...] , NAM2 X ZATU752 |BU~a+DU6~a|#? [...] 
-1.b. 2(N14)# 3(N01)#? , EN~a# X [...] 
-1. [...] , [...] X X GIR2~a#? AN PAP~a 
+229198	1. [...] , [...] X X GIR2~a#? AN PAP~a 
 2. [...] , NUN~a# [...] 
 1. 2(N01) [...] , SZU NUN~a#? KISZ 
 2. 1(N01) , AL X [...] 
@@ -43129,13 +51216,7 @@ $ (not given)
 1. [...] , [...] X 
 1. [...] , [...] BAR# 
 2. , KI#? PIRIG~b1 X [...] 
-1.a. [...] , [...] AL# 
-1.b. , [...] X 
-2.a. 1(N01) , |U4x1(N57)| TUR 
-2.b. , (|3(N57).PIRIG~b1| DU E2~a)a 
-3.a. [...] , [...] 
-3.b. , (EN~a# [...])a 
-1. 4(N01)# , DUG~c |U4x1(N01)| KASZ~b NUN~a 
+229224	1. 4(N01)# , DUG~c |U4x1(N01)| KASZ~b NUN~a 
 2. , ZATU648 
 3. [...] , X [...] 
 1. , |3(N57).PIRIG~b1| SAL E2~a# X [...] 
@@ -43144,9 +51225,7 @@ $ (not given)
 2. [...] , [...] SANGA~a# 1(N57) BA EN~a 
 3. [...] , [...] BA#? NAGAR~b 
 4. [...] , [...] SZU2 SAL 
-5.a. [...] 1(N14)# [...] , [...] 
-5.b. 2(N19)# [...] , [...] 
-1. [...] , NA2~b1# 
+229234	1. [...] , NA2~b1# 
 2. [...] , GAL~a [...] BU~a# 
 3. [...] , [...] X 
 1. 1(N01) , DU NA~a BU~a KU3~a 
@@ -43157,11 +51236,7 @@ $ (not given)
 1. [...] , AN KI IB~a# X [...] 
 1. [...] , X [...] 
 2. [...] , [...] SZU2 
-1.a. [...] 2(N01)# , TUR# SAG 
-255663	1.b1. , [...] X 
-1.b2. , SZU 
-1.b3. , BU~a#? 
-2. , X X [...] 
+229246	2. , X X [...] 
 1. 1(N01)# , X X [...] 
 1. [...] , KASZ~a? X EN~a [...] 
 2. [...] , SZAGAN# [...] 
@@ -43200,11 +51275,7 @@ $ (not given)
 3. [...] 3(N14)# , X [...] 
 1. 2(N50) [...] , X [...] 
 2. , UH3~a 
-3.a. 3(N01) , [...] 
-255707	3.b1. , SZA3~a2 E2~a 3(N57) 
-3.b2. , KALAM~a? 
-3.b3. , |3(N57).PIRIG~b1| X SANGA~a#? [...] 
-1. [...] , [...] 
+229286	1. [...] , [...] 
 2. 6(N14) [...] , [...] 
 3. , 3(N57) 1(N04)# [...] 
 4. 1(N45) [...] , [...] 
@@ -43283,22 +51354,7 @@ $ (not given)
 1. 2(N01)# , NUNUZ~a0#? X [...] 
 2. 8(N01)# , NA2~b1#? 
 3. 5(N01)# , LA2#? GISZ X [...] 
-1.a. [...] , [...] 
-1.b. [...] , [...] 
-2.a. [...] 3(N01)# , [...] X 
-2.b. 5(N01) , SAL 
-3.a. [...] , [...] 
-3.b. 4(N01)# [...] , SAL 
-4.a. [...] , [...] 
-4.b. [...] , [...] 
-1.a. [...] , [...] 
-1.b. [...] , [...] 
-2.a. 1(N14) 8(N01)# , ZATU659#? 
-2.b. 6(N34)# [...] , [...] 
-255802	3.a1. 2(N34)# , ZATU659#? 
-3.a2. [...] , [...] 
-3.b. 2(N34) [...] 2(N14)# [...] , [...] 
-1. , [...] GISZIMMAR~b1 MUN~a2 SAG# 
+229372	1. , [...] GISZIMMAR~b1 MUN~a2 SAG# 
 2. , |U4.1(N08)|# GISZIMMAR~b1 
 3. , |U4.1(N08)|# KAR2~a NUN~a 
 4. , [...] 
@@ -43319,23 +51375,7 @@ $ (not given)
 4. 2(N14)# [...] , [...] 
 5. 2(N01)# [...] , [...] 
 6. 2(N01)# [...] , [...] 
-1.a. 1(N01)# , [...] AN# X 
-1.b. , X 3(N57) SZU#? 
-2.a. [...] , BARA3#? [...] 
-2.b. , GADA~a#? KI 
-1.a. 1(N01) , TE RU#? SI BU~a 
-1.b. , [...] 
-2.a. 1(N01) , E2~a NA~a BU~a 
-2.b. , SAL BU~a 
-3.a. [...] , [...] X 
-3.b. , GARA2~a# ZI~a# [...] 
-1.a. 1(N01)# , X SANGA~a#? X 
-1.b. , [...] 
-2.a. 1(N01) , GAN2 DUB~a 
-2.b. , KI#? GAL~a# [...] 
-3.a. 1(N01)# , X X [...] 
-3.b. , [...] 
-1. 2(N34)# [...] , AN MUSZ3~a [...] 
+229401	1. 2(N34)# [...] , AN MUSZ3~a [...] 
 2. [...] , |3(N57).PIRIG~b1| PAP~a IB~a# [...] 
 1. [...] , [...] SILA3~a# 
 2. [...] , [...] |SILA3~axX|# 
@@ -43384,15 +51424,7 @@ $ (not given)
 1. 2(N48) 3(N34) 3(N14) 8(N01)# , UDU~a# |SZU2.E2~b|# [...] 
 1. 2(N48) 2(N34)# [...] , [...] 
 2. 2(N14)# 2(N01)# [...] , [...] 
-1.a. [...] , [...] |SZU2.E2~b|# 
-1.b. 2(N01)# [...] , [...] 
-2.a. 1(N01)# 1(N08) , SUKKAL GADA~a |ZATU659x1(N01)| 
-2.b. 3(N01) , SZITA~a1 [...] 
-3.a. 1(N01) , |ZATU659x1(N01)| NA2~a GAL~a 
-3.b. 2(N01) , X [...] 
-4.a. 1(N01) [...] , X X [...] 
-4.b. [...] , [...] 
-5. 1(N01) [...] , EN~a# |ZATU659x1(N01)| KAB#? [...] 
+229454	5. 1(N01) [...] , EN~a# |ZATU659x1(N01)| KAB#? [...] 
 1. 3(N14)# 5(N01)# , GAR [...] 
 2. [...] 4(N01)# , X [...] 
 1. 2(N01)? , SA~a 
@@ -43442,19 +51474,7 @@ $ (not given)
 1. , [...] UNUG~a# 
 1. [...] , [...] 
 1. [...] , [...] 
-1.a. [...] , SZA3~a1 
-1.b. , KUR~a# X 
-1.c. [...] , PAP~a X [...] 
-2.a. [...] , TAG~a1 
-2.b. , EN~a GI GI 
-2.c. , DU GAL~a# X 
-3.a. [...] 1(N01)# , KUR~a 
-3.b. , EN~a PAP~a GAL~a 
-4.a. [...] 1(N01) , KUR~a SZA3~a1 
-4.b. , EN~a PAP~a A GI X 
-5.a. [...] , X SAL# 
-5.b. , |SZUx1(N58)| 
-6. [...] , DAH KISAL~b1 EN~a NUN~a HI KI 
+229509	6. [...] , DAH KISAL~b1 EN~a NUN~a HI KI 
 1. 1(N14)# 4(N01)# [...] , [...] 
 1. [...] , [...] 
 1. [...] , [...] SANGA~a PIRIG~b1#? 
@@ -43527,14 +51547,10 @@ $ (not given)
 1. , GU4 SZE~a# 
 1. [...] , [...] 
 2. [...] , [...] U2~a# 
-3.a. 1(N01)# , ZAG~c# 
-3.b. [...] , [...] 
-1. 1(N01)# , |UR2x1(N57)|# 
+229583	1. 1(N01)# , |UR2x1(N57)|# 
 2. 1(N01) , GA'AR~b2 
 3. , U4 U2~a 
-4.a. [...] , [...] X 
-4.b. 1(N01) , ZAG~c 
-1. [...] , [...] |ZATU651xGAR|# 
+229587	1. [...] , [...] |ZATU651xGAR|# 
 2. [...] , X AB2 [...] 
 1. [...] , GISZIMMAR~b1 [...] 
 2. , GAL~a NAGA~a? X PAP~a 
@@ -43542,23 +51558,12 @@ $ (not given)
 2. , X [...] 
 1. [...] , [...] 
 2. [...] 2(N34) , SZU2 DUR~b# X KU6~a# X NUN~a# GAL~a# GURUSZ~a# [...] 
-1.a. 1(N01) , UR2#? X [...] 
-1.b. 1(N01) , ZATU646 [...] 
-1.c. , ERIN SZITA~a1 ZATU686~a# [...] 
-2.a. [...] , [...] EN~a# BA# 
-2.b. [...] , [...] SZU# 
-3.a. 1(N01) , UR2 EN~a U2~a MU 
-3.b. 1(N01) , ZATU646 
-4.a. 1(N01)# , X [...] 
-4.b. [...] , [...] 
-1. 1(N01) , X [...] 
+229599	1. 1(N01) , X [...] 
 2. 1(N01) , UR4~c 
 3. 1(N01) , X [...] 
 4. 1(N01) , X 
 5. , [...] 
-1.a. 1(N01) , |UR2x1(N57)|#? EZINU~c SAL# 
-1.b. , X [...] 
-2. , [...] 
+229605	2. , [...] 
 1. 2(N01)# [...] , UR2#? [...] 
 1. 1(N01) , GISZ@t UR4~a UR2 SZIDIM ZI~a 
 2. , SIG U2~a 
@@ -43572,13 +51577,7 @@ $ (not given)
 2. , [...] 
 1. [...] , MASZ2 [...] 
 1. [...] , [...] UNUG~a# 
-1.a. [...] , [...] SZE~a# 
-1.b. [...] , [...] 
-2.a. 2(N01)# , SZITA@g~b# 
-2.b. 1(N14)# , [...] 
-3.a. [...] , X [...] 
-3.b. 1(N14)# , [...] 
-1. [...] , X [...] 
+229622	1. [...] , X [...] 
 1. 2(N02) , X [...] 
 2. 3(N01)#? [...] , [...] 
 3. 2(N01)#? [...] , [...] 
@@ -43598,24 +51597,13 @@ $ (not given)
 3. , GU7# 
 1. 2(N01) , |UR2x1(N57)| NAR? 1(N02) 
 2. , SANGA~a IB~a MU 
-1.a. [...] , [...] NUN~a# 
-1.b. [...] , [...] X 
-2.a. [...] , [...] 
-2.b. , SZUM# GU7# [...] 
-1. 2(N01) , ENGIZ 
+229644	1. 2(N01) , ENGIZ 
 2. 2(N01) , ENGIZ 
 3. 2(N01) , NAMESZDA 
 4. 2(N01)# , NAM2 DI 
 1. , GU7 
-1.a. 1(N14)# 1(N01)# , UDU~a# UNUG~a#? X TE 
-256116	1.b1. 3(N57) , UDUNITA~a# 
-1.b2. 8(N57) , NUN~b 
-2. [...] 2(N01)# , MASZ2# EN~a UTUA~a# SZU 
-3.a. [...] 2(N01)# , AB~a# [...] 
-256121	3.b1. [...] , UD5~a# 
-3.b2. 1(N57) , MASZ2 
-3.b3. 7(N57) , UTUA~a 
-4. [...] , ESZGAR EN~a# ZABALAM~a SZU 
+229650	2. [...] 2(N01)# , MASZ2# EN~a UTUA~a# SZU 
+229652	4. [...] , ESZGAR EN~a# ZABALAM~a SZU 
 1. 2(N01) , NUN~b UNUG~a KI 
 2. 1(N01) , SILA4~c X X [...] 
 3. , X X MA [...] 
@@ -43684,33 +51672,21 @@ $ (not given)
 1. 1(N45)# [...] , X SZU# [...] 
 1. 1(N01)# [...] , [...] 
 2. [...] , X [...] 
-1.a. [...] , AMA~a# |ZATU737xSAL| MUSZ3~a#? E2~a# X 
-1.b. , KU3~a NUNUZ~a1 GAL~a 
-2.a. [...] , [...] RAD~a#? 
-2.b. , KALAM~b# 
-1. [...] 5(N19) , [...] 
+229723	1. [...] 5(N19) , [...] 
 2. [...] , [...] 
 1. 1(N46) 4(N19) , AN EN~a ZATU735~a TU~b 
 2. [...] , [...] X 
 1. [...] , [...] SZU# 
 2. [...] , [...] MUD# X SANGA~a# 
 3. [...] , [...] X 
-256205	1.a1. 1(N01) , 
-1.a2. 1(N01) KU3~a , 
-1.a3. 4(N02) , 
-1.b. , SI AN 
-2. 1(N01) , NUN~a KAR2~a DU 
+229731	2. 1(N01) , NUN~a KAR2~a DU 
 3. , PIRIG~b1 KI AD~a 
 4. 1(N01)# [...] , [...] 
 1. 1(N01) , KAR2~a# DU# NUN~a# 
 2. , LU2 X 
 3. 4(N01)# , AN MUSZ3~a SANGA~a# 
 4. [...] , [...] E2~b 
-256217	1.a1. 9(N01)# , 
-1.a2. 1(N01)# KU3~a# , 
-1.a3. 4(N02) , 
-1.b. , SZAKIR~c# ZATU752# SI# AN# 
-2. 1(N14)# 2(N01)# , U4 PAD~a# 
+229739	2. 1(N14)# 2(N01)# , U4 PAD~a# 
 3. [...] 3(N01)# , DU KAR2~a# [NUN~a] 
 4. [...] 1(N01)# , [...] 
 1. 4(N01)# [...] , MUSZ3~a# [...] 
@@ -43738,10 +51714,7 @@ $ (not given)
 5. 2(N01) , GISZ? ZATU662#? 
 6. 1(N01) 1(N08)# , UR5~a 
 7. [...] , [...] 
-1.a. 1(N14) 2(N01) , [...] 
-256251	1.b1. 7(N57)# , U8# 
-1.b2. 5(N57)# , ESZGAR#? 
-2. , PA~a KI 
+229768	2. , PA~a KI 
 1. [...] , [...] SZITA@g~a# 
 2. [...] , [...] SZITA@g~a 
 3. [...] , [...] 
@@ -43869,11 +51842,7 @@ $ (not given)
 2. [...] , [...] SZA3~a1# 
 3. [...] , [...] SZE~a@t# 
 1. , SZAM2 [...] 
-1.a. [...] , SZE~a@t E2~a# SU~a [...] 
-1.b. [...] , [...] 
-2.a. [...] 2(N01)# , |KA2xLAM| 
-2.b. , DU 3(N57) PAP~a# 
-3. [...] , [...] 
+229898	3. [...] , [...] 
 1. [...] , SANGA~a? [...] 
 1. , NIR~a#? [...] 
 1. 4(N14)# , GAR 
@@ -43894,19 +51863,7 @@ $ (not given)
 1. 3(N46) 2(N49) 5(N19)# 2(N04)# 1(N41)# [...] , SILA4~b# BA [...] 
 1. [...] , SIG2~a2? [...] 
 1. [...] , SIG2~a2? [...] 
-1.a. [...] , [...] NAM2 
-256409	1.b1A. , EN~a ZATU759? DU 
-1.b1B. , 3(N57)? SU~a 
-1.b2. , |GA2~bxZATU659|? HASZHUR# 
-2.a. [...] 1(N01) , GAL~a GURUSZ~a 
-2.b. , PAP~a 1(N04) 
-3.a. 2(N01) , MUD3~d LU2# 
-256416	3.b1. , UB TUR 
-3.b2. , X EN~a# SZU#? ME~a SI 
-4.a. 2(N01) , X 
-256420	4.b1. , NAM2? ANSZE~b 
-4.b2. , PAP~a 
-5. , ZATU647 ZATU753 GIR3~c# [...] 
+229923	5. , ZATU647 ZATU753 GIR3~c# [...] 
 1. [...] , X [...] 
 2. 2(N01)# [...] , NUN~b 
 3. 2(N01) , MASZ2 
@@ -43916,10 +51873,7 @@ $ (not given)
 1. [...] , TUN3~a# |3(N57).PIRIG~b1| SU~a 
 2. , GU7 
 1. 2(N01) , U8# X HI X 
-2.a. 4(N01) , SAG 
-256434	2.b1. 1(N57) , UD5~a 
-2.b2. 3(N57) , UTUA~a? 
-1. 1(N14)# [...] , [...] 
+229934	1. 1(N14)# [...] , [...] 
 2. , X [...] 
 1. [...] , [...] 
 2. [...] , [...] SUHUR#? 
@@ -43990,13 +51944,8 @@ $ (not given)
 3. , SZURUPPAK~b PA~a# NAM2 RAD~a |SZE~a.NAM2|# 
 1. 1(N01) , SAL AMAR 
 2. , |U4x1(N57)| BAR 
-1.a. [2(N01)] , [AB2] 
-1.b. 1(N01)# , |U4x1(N57)|# BAR# 
-2. 1(N01)# , DUG~b 
-256511	1.a1. [...] 1(N01)# , DUG~c# MUSZ3~a U4 AN EZEN~b# ME~a 
-1.a2. 1(N01) , SAL BA PIRIG~b1 
-1.b. , EN~a AB~b DUG~a ZATU686~a 
-2. , [...] |GI&GI|# GU7 
+230006	2. 1(N01)# , DUG~b 
+230008	2. , [...] |GI&GI|# GU7 
 1. , DUR2 3(N57) ZATU751~a |BU~a+DU6~a| BAR? 
 1. [...] , ZATU644~a 
 2. 1(N01)# , TUM~a# 
@@ -44010,9 +51959,7 @@ $ (not given)
 1. 5(N01) , SAL SILA4~c 
 2. 5(N01) , SILANITA 
 3. , |U4x1(N57)| BAR 
-1.a. 5(N14)# 5(N01)# , UDU~a# 
-1.b. 1(N14)# , |U4x1(N57)|# BAR# 
-2. 1(N01)# 1(N08)# , KISIM~a# 
+230023	2. 1(N01)# 1(N08)# , KISIM~a# 
 3. , [...] 
 1. [...] 2(N01)# , SZAKIR~c#? ZATU752# GARA2~a [...] 
 2. 2(N01)# , X GARA2~a#? [...] 
@@ -44026,34 +51973,8 @@ $ (not given)
 1. [...] , [...] NI~a#? 
 2. [...] , [...] X 
 1. 5(N01) , SZAKIR~c ZATU752 |NIR~axAN| 
-256545	1.a1. 1(N01)# , MIR~a#? [...] 
-1.a2. 4(N14)# , DARA4~c4#? 
-1.b. , SU~a 
-2.a. 1(N01) , EN~a# TUG2~a 
-2.b. 1(N14) 5(N01) , ZATU753 
-3.a. 1(N01) , KA~a# TUG2~a# 
-3.b. 1(N14) 5(N01) , 
-4.a. 1(N01) , ZATU792 
-4.b. 1(N14) , ZATU749~c 
-5.a. 2(N01)# , BARA2~a#? 
-5.b. 1(N34) 3(N14) , 
-256557	1.a1. 1(N01) , TUG2~a 
-1.a2. 1(N14) , ZATU749~c 
-1.b. , |ZATU651xEN~a| 
-2. , LUGAL 
-1.a. [...] 1(N01)# , EN~a# TUG2~a#? X 
-1.b. [...] 1(N14)# [...] , X [...] 
-2.a. 1(N01)# [...] , GAL~a# [...] 
-2.b. [...] , [...] 
-3.a. 1(N01)# [...] , SANGA~a# X [...] 
-3.b. [...] , |ZATU651xEN~a|#? 
-4.a. 1(N01)# [...] , EN~a#? X 
-4.b. [...] , X [...] 
-1.a. 1(N01)#? , [...] 
-1.b. 3(N14)# [...] , [...] 
-2.a. 1(N01)#? , EN~a# X X [...] 
-2.b. [...] , [...] 
-3. [...] , X [...] 
+230043	2. , LUGAL 
+230050	3. [...] , X [...] 
 4. , [...] 
 1. [...] , SUKKAL SA~c 
 2. [...] , PAP~a#? [...] 
@@ -44071,20 +51992,9 @@ $ (not given)
 3. 1(N01) , NE~a SAL MUD# 
 4. 2(N01) , E2~a SIG2~a2? X 
 5. 2(N01) , EN~a MUSZ3~a KUR~a HI AN 
-1.a. 2(N01)# , |DUG~cx1(N57)|# MIR~a? NI2 ZATU649#? 
-256593	1.b1. , |3(N57).PIRIG~b1|# AN DU 
-1.b2. , NAR# NAGA~a# HI 
-256596	2.a1. [...] , |DUG~cx1(N57)|# SZU SZA [...] 
-2.a2. 2(N01)# , |DUG~cx1(N57)| MIR~a [SI] U4# AB2 
-256599	2.b1. , |3(N57).NUNUZ~a1| 
-2.b2. , EN~a SZITA~a3 PAP~a DU 
-1. , |3(N57).NUNUZ~a1| 
+230070	1. , |3(N57).NUNUZ~a1| 
 2. [...] , EZEN~a# X [...] 
-3.a. , |3(N57).PIRIG~b1| AN DU 
-3.b. , BU~a HI 
-4.a. 7(N01) , |DUG~cx1(N57)| MIR~a TUR3~a A 
-4.b. , NAR NAGA~a HI 
-1. 2(N01) , NI2 ZATU649 
+230074	1. 2(N01) , NI2 ZATU649 
 2. 2(N01) , ZATU648 
 3. 2(N01) , SI U4 AB2 
 4. 7(N01) , TUR3~a# A# 
@@ -44109,9 +52019,7 @@ $ (not given)
 5. , EN~a ZATU752 
 1. 1(N01) , DUG~c E2~a# NA2~a MIR~b# AN#? MUSZ3~a# 
 2. 1(N01) , MIR~b# |GA~a.ZATU753|# 
-3.a. , NI2 
-3.b. , |3(N57).NUNUZ~a1|# 
-4. 1(N01)# , RA AN |SZU2.EN~a| 
+230100	4. 1(N01)# , RA AN |SZU2.EN~a| 
 1. , ZATU649# 
 2. , MUD NUN~a 
 3. , |GA~a.ZATU753|# GU7 
@@ -44121,9 +52029,7 @@ $ (not given)
 3. 1(N01) , SANGA~a ZATU753 
 4. , GU7 
 1. 2(N01) , DUG~c GA~a SI KU6~a BU~a# HI# SU~a 
-2.a. 1(N01) , U2~a? BAR 
-2.b. , EN~a NANNA~a AN 
-1. 7(N01)# , DUG~c 
+230111	1. 7(N01)# , DUG~c 
 1. 5(N14)# [...] , [U8 ...] 
 2. 1(N34)# [...] , [UDUNITA~a] 
 3. , [...] SAG# 
@@ -44131,15 +52037,8 @@ $ (not given)
 1. 1(N14)# 3(N01)# [...] , [...] 
 2. [...] , MASZ2 [...] 
 3. , |SZE~a.NAM2|# 
-1.a. 2(N34) 1(N14) , UDU~a BA 
-1.b. 1(N14)# [...] , [|U4x1(N57)| BAR] 
-2. 2(N01) 1(N08) , KISIM~a# 
-3.a. , |GISZ.TE| A 
-3.b. 3(N01) , ZATU752 
-256660	3.c1. , NIM~b1 
-3.c2. , MUD# KA~a 
-3.c3. , |GISZxSZU2~a| SZU 
-1. [...] , [...] |SZE~a.NAM2|# 
+230120	2. 2(N01) 1(N08) , KISIM~a# 
+230122	1. [...] , [...] |SZE~a.NAM2|# 
 1. 2(N01) , DUG~c ERIM2 SI4~a SZE~a 
 2. 2(N01)# , ZATU649 
 3. [...] , [...] 
@@ -44150,66 +52049,24 @@ $ (not given)
 4. [...] , [...] 
 5. 6(N01)# [...] , [...] X KASZ~c#? 
 6. 1(N01) [...] , [...] 
-7.a. 1(N01) , SANGA~a# GA~a# SI U4 AB2 
-7.b. , ZATU751~a# 3(N57)# DUR2# |BU~a+DU6~a| 
-7.c. , EN~a AB~b ZATU686~b DUG~a 
-1.a. 6(N01) , [...] 
-256679	1.b1. 4(N57) , TUR3~a A# 
-1.b2. 2(N57) , UNUG~a TAK4~a ALAN~c#? [...] 
-2. [...] , [...] 
+230135	2. [...] , [...] 
 3. [...] , [...] 
 4. 1(N01)# [...] , [...] 
 5. [...] , [...] 
 6. [...] , [...] 
 7. [...] , [...] 
-8.a. 1(N01) , ZATU649# KASZ~a# SZE~a# 
-8.b. [...] , [...] X MUD NUN~a 
-9. , BARA3 |GA~a.ZATU753| DUB~a# 
-256691	1.a1. 2(N01) , ZATU648 
-1.a2. 1(N01)# , AB~a# MUSZ3~a# X 
-1.b. , |3(N57).NUNUZ~a1| 
-2. 1(N01)# , U4 X ZATU751~a# 
+230142	9. , BARA3 |GA~a.ZATU753| DUB~a# 
+230144	2. 1(N01)# , U4 X ZATU751~a# 
 3. [...] , [...] KAR2~a NUN~a 
-4.a. [...] 1(N01)# , [...] 
-4.b. , |3(N57).NUNUZ~a1|# 
-5. [...] , X X [...] 
+230147	5. [...] , X X [...] 
 6. [...] , [...] 
 7. 1(N01)# , [...] X E2~a# 
 8. , GI6# KAR2~a# NUN~a# 
-9.a. 4(N01)# 1(N01)# KU3~a , X [...] 
-9.b. , MUD NUN~a 
-10.a. 1(N01) KU3~a , TUR3~a A 
-10.b. , E2~a 3(N57) 
-11. , GI6 KAR2~a NUN~a 
+230153	11. , GI6 KAR2~a NUN~a 
 1. 4(N01) , X [...] 
 2. 1(N01)# [...] , X [...] 
 3. , GI6# KAR2~a# NUN~a# 
-256711	4.a1. 1(N01) , ZATU649# |GA~a.ZATU753|? AN# DA~a# MIR~a#? 
-4.a2. 1(N01)# , X [...] 
-4.a3. 1(N01)# , X [...] SIMUG# MUD# NUN~a# 
-4.b. , GAL~a#? X KU6~a#? [...] 
-256716	5.a1. 1(N01)# , TUR3~a# A# X [...] 
-5.a2. [...] , NAR# NAGA~a# 
-5.a3. 1(N01) , ZATU649 |GA~a.ZATU753| MIR~a DA~a AN 
-5.b. , |3(N57).NUNUZ~a1| 
-1.a. [...] , AB~b NAGAR~a# X X |3(N57).NUNUZ~a1| X [...] 
-256722	1.b1. [...] , X [...] 
-1.b2. , X |GA~a.ZATU753| KASZ~b X [...] 
-2.a. 1(N01) , X X MUD# NUN~a# 
-256726	2.b1. 5(N57)#? , X NAMESZDA# 
-2.b2. 1(N08) , |GA~a.ZATU753|# MIR~a#? 
-3.a. 1(N01) , ZATU648# MASZ SI 
-3.b. , BU~a HI GA~a 
-4.a. 1(N01) , ERIM2# SI4~a SZE~a |3(N57).NUNUZ~a1| 
-256733	4.b1A. 3(N57) , X SZA#? U4 [...] X 
-4.b1B. , X X 
-256736	4.b2A. 2(N57) , GAN~b SZU [...] 
-4.b2B. , X [...] 
-4.b3. 1(N08) , X [...] 
-1.a. 1(N01)# , X [...] 
-256741	1.b1. [...] , [...] 
-1.b2. 1(N08)# , [...] 
-2. 1(N01)# , X [...] 
+230164	2. 1(N01)# , X [...] 
 3. 2(N01)# , X X 
 4. , GU7# 
 1. 2(N14) 2(N01)# 1(N01)# KU3~a# , ZATU648# [...] 
@@ -44226,29 +52083,15 @@ $ (not given)
 2. 4(N01) , SIMUG#? 
 3. 1(N01) , U4 
 1. 1(N34) 1(N14) 5(N01) , DUG~c GU7 |GI&GI| ZATU648 
-256761	1.a1. 1(N01) , BA TUG2~a X UTUL~a# [...] 
-1.a2. 1(N01) [...] , SIG2~b# BUR2# [...] GI# X UTUL~a# [...] 
-1.b. , MUD# [...] IB~a# 
-2.a. [...] 1(N01)# , X SIG2~b SZE~a# [...] 
-2.b. , SUG5# LA2 
-3. 1(N01) , TUG2~a# UR4~a BUR2# AB~a#? DUG~a# X [...] 
+230183	3. 1(N01) , TUG2~a# UR4~a BUR2# AB~a#? DUG~a# X [...] 
 4. [...] , BA# SIG2~b# X [...] 
-1.a. 1(N01) , BA SIG2~b 
-1.b. , |3(N57).NUNUZ~a1|# 
-2. 1(N01) , SIG2~b 
+230186	2. 1(N01) , SIG2~b 
 3. 4(N01)# , TUG2~a# ZATU752 
 4. 3(N01) , GADA~a ZATU752 
 5. , ZATU629 RU NUNUZ~a1 1(N04) 
-6.a. 1(N01) , GADA~a ZATU659 ZATU752# AN KI MUSZEN KU3~a# AD~a# 
-6.b. , GA~a SANGA~a 
-7.a. 2(N01) , GADA~a ZATU649#? X [...] 
-7.b. , SUG5 LA2 
-1. , |GA~a.ZATU753|# GU7 
+230192	1. , |GA~a.ZATU753|# GU7 
 1. [...] , X [...] 
-2.a. 1(N01) , SIG2~a1#? X 
-2.b. 4(N14) [...] , [...] 
-2.c. , SIG EZEN~b MUSZ3~a AN [...] 
-3. , U4 SZU2 
+230195	3. , U4 SZU2 
 1. 1(N14) [...] , [...] 
 2. 1(N01)# , X NUN~a#? 
 3. , GU7# 
@@ -44258,12 +52101,7 @@ $ (not given)
 1. 1(N01) , DUG~c# EN~a# [...] GA~a# 
 2. , GU7# 
 1. , X SAG@n# 
-1.a. [...] 1(N01)# , SZAKIR~c ZATU752 GI6 KAR2~a NUN~a 
-256795	1.b1. [...] 1(N01) KU3~a , X 
-1.b2. 2(N01) , KU3~a GI ZATU648# SANGA~a# 
-256798	1.c1. [...] , ZATU648#? [...] 
-1.c2. , [...] 
-2. , GU7# [...] 
+230206	2. , GU7# [...] 
 1. [...] , [...] 
 2. [...] , [...] X ZATU703# 
 3. [...] , [...] X 
@@ -44274,25 +52112,15 @@ $ (not given)
 4. , AN X PAP~a# 
 5. 1(N03)# , UR2# [...] 
 1. , [...] 
-1.a. 4(N01) , DUG~c BU3 
-256813	1.b1. 1(N57) , E2~a NA2~a MUSZ3~a 
-1.b2. 1(N57) , |GA~a.ZATU753| MIR~a# 
-1.b3. 2(N57)# , |KA2xLAM| 
-2.a. 2(N01)# [...] , [...] 
-256818	2.b1. [...] , X [...] 
-1. 1(N01) , KI? AD~a |SZU2.E2~a| NA2~a MIR~a# MUSZ3~a# 
-2.a. 1(N01) , NA2~a X [...] 
-2.b. 8(N01) , |U4x4(N01)| GAN~c# [...] 
-1. [...] , GU7 |3(N57).NUNUZ~a1| 
+230219	1. 1(N01) , KI? AD~a |SZU2.E2~a| NA2~a MIR~a# MUSZ3~a# 
+230221	1. [...] , GU7 |3(N57).NUNUZ~a1| 
 1. 1(N34) 1(N14) , U8 
 2. 5(N14) , UDUNITA~a 
 3. , [...] 
 1. 1(N14) , SILA4~c SAL 
 2. 1(N14) , SILANITA 
 3. , [|U4x1(N57)| BAR] 
-1.a. [2(N34)] , [UDU~a BA] 
-1.b. [2(N14)] , [|U4x1(N57)|] BAR# 
-2. 3(N01) 1(N08) , KISIM~a 
+230229	2. 3(N01) 1(N08) , KISIM~a 
 1. 1(N01) , DUG~c SANGA~a ZATU753 
 2. 1(N01) , 3(N57)# SU~a# X [...] 
 1. , |KUR~a.E2~a|# [...] 
@@ -44302,14 +52130,10 @@ $ (not given)
 1. [2(N01) ...] , [SAL SILA4~c] 
 2. 2(N01)# , SILANITA 
 3. , |U4x1(N57)| BAR 
-1.a. 3(N14)# 5(N01) , UDU~a BA 
-1.b. 4(N01) , |U4x1(N57)| BAR 
-2. 1(N01)# , KISIM~a 
+230240	2. 1(N01)# , KISIM~a 
 1. 2(N01) , TUG2~a DU7# UNUG~a URUDU~a KISAL~b1# MASZ [...] 
 2. 1(N14) 2(N01) , TUG2~a X [...] 
-3.a. 1(N08)# , TUG2~a# TAR~a U8# 
-3.b. , EN~a# DUG~a# AB~a# ZATU686~a 
-1. 2(N01) [...] , TUG2~a [...] 
+230244	1. 2(N01) [...] , TUG2~a [...] 
 2. [...] , [...] 
 3. , ZATU752# [...] 
 1. 2(N01)# , [...] AB2 
@@ -44319,9 +52143,7 @@ $ (not given)
 1. [1(N01)] , AMAR# SAL 
 2. 1(N01) , KUR~a AMAR# 
 3. , |U4x1(N57)|# BAR# 
-1.a. 4(N01) , AB2# 
-1.b. 2(N01) , |U4x1(N57)| BAR 
-2. 1(N01)# , DUG~b 
+230255	2. 1(N01)# , DUG~b 
 1. [...] , SZAKIR~c# GI6 KAR2~a# NUN~a# [...] 
 2. , |GA~a.ZATU753| GU7 
 1. , X AK~a |KUR~a.E2~a|# 
@@ -44331,18 +52153,14 @@ $ (not given)
 1. 2(N01)# , ESZGAR# [...] 
 2. 1(N01)# [...] , [MASZ] 
 3. , [|U4x1(N57)| BAR] 
-1.a. [2(N14)] , [UDU~a BA] 
-1.b. [...] , [|U4x1(N57)| BAR] 
-2. 3(N01)# , KISIM~a 
+230266	2. 3(N01)# , KISIM~a 
 1. [...] , [...] ALIM#? 
 2. 5(N01)# , SZITA~a1 GAL~a# 
 1. [...] , [...] 
 2. , GU7 GA~a SIG 
 1. , NE~a# PAP~a HAL X PA~a NAM2 RAD~a |SZE~a.NAM2| 
 1. , |U4x1(N57)| BAR 
-1.a. 4(N14) 3(N01) , UDU~a BA 
-1.b. 8(N01) , |U4x1(N57)| BAR 
-2. 1(N01) , KISIM~b 
+230274	2. 1(N01) , KISIM~b 
 1. [...] , [...] X 
 1. [...] , ALAN~c# X MUSZ3~a# AN 
 2. 1(N01) , BA DUG~b MIR~a#? |GA~a.ZATU753| 
@@ -44358,29 +52176,12 @@ $ (not given)
 1. [...] 1(N01)# , DUG~c MEN~a# NUNUZ~c# DU# GARA2~a# 
 1. [...] , [...] X EN~a# DUG~a# AB~b ZATU686~b#? 
 1. [...] , [...] 
-2.a. 1(N01) , X NUN~a#? [...] 
-256899	2.b1. [...] , [...] 
-2.b2. , X [...] 
-3.a. 1(N01) , X [...] 
-256903	3.b1. 1(N01) , DUG~c# X [...] 
-256905	3.b2A. , |GA~a.ZATU753|# 
-3.b2B. , MUD# [...] 
-1. 1(N14) , SZAKIR~c ZATU752 [...] 
+230292	1. 1(N14) , SZAKIR~c ZATU752 [...] 
 1. , [...] 
 1. [...] 1(N01)# , |SILA3~axGARA2~a|# |GI&GI| PIRIG~b1 [...] 
-256911	2.a1. 4(N02) , 
-2.a2. 2(N01) , SILA3~a 
-2.b. , AN PAP~a KI 
-1. [...] , [...] X 
+230296	1. [...] , [...] X 
 2. 4(N01)# [...] , [...] 
-256917	1.a1. [...] 2(N01)# , [...] 
-1.a2. 2(N02) , [...] 
-1.b. , X [...] 
-1.a. [...] , |TUG2~a.(BAD&BAD)|# NE~a# HAL TUR 
-1.b. 3(N51)# , 
-2.a. 1(N01) , |TUG2~a.(BAD&BAD)| EN~a BA KI ZATU647 
-2.b. 3(N51) , 
-1. 1(N01) [...] , [...] SZURUPPAK~b# 
+230301	1. 1(N01) [...] , [...] SZURUPPAK~b# 
 1. [...] , [...] 
 1. 1(N01) , SZU2 
 2. 1(N14)# 3(N01) , |TUG2~a.(BAD&BAD)| 
@@ -44399,29 +52200,8 @@ $ (not given)
 1. [5(N01)] , [DUG~c ...] 
 2. 4(N01)# , ZATU649 
 3. 1(N01)# KU3~a# , ZATU649 
-256944	4.a1. 6(N01) , 
-4.a2. 2(N02) , 
-4.b. , ZATU649 NI2 
-256948	5.a1. 7(N01) , 
-5.a2. 1(N01) KU3~a , 
-5.a3. 4(N02)# , 
-5.b. , SI4~a ERIM2 SZE~a GI# 
-1. , [...] BA |GI&GI|# |3(N57).NUNUZ~a1| 
-256954	1.a1. 4(N01) , 
-1.a2. 1(N01) KU3~a , 
-1.b. , ZATU649 
-256958	2.a1. 6(N01) , 
-2.a2. 2(N02) , 
-2.b. , NI2# 
-256962	3.a1. 7(N01)# , 
-3.a2. [1(N01) KU3~a] , 
-3.a3. [4(N02)] , 
-3.b. , SI4~a# [ERIM2 SZE~a GI] 
-256967	1.a1. 2(N14) 3(N01) , 
-1.a2. 1(N01) KU3~a , 
-1.a3. 1(N02) , 
-1.b. , DUG~c BA# |GI&GI|# [...] 
-1. 2(N14) 6(N01) , DUG~b 
+230322	1. , [...] BA |GI&GI|# |3(N57).NUNUZ~a1| 
+230327	1. 2(N14) 6(N01) , DUG~b 
 2. 1(N01) , DUB~d#? 
 3. 1(N14)# 6(N01)# , TUG2~a 
 4. 1(N01)# , TUG2~a BUR2# 
@@ -44433,9 +52213,7 @@ $ (not given)
 1. 2(N48) 2(N14) 3(N01) , MASZ SZE3 
 2. 2(N56) 3(N54) 1(N51) , GA'AR~a2 
 3. 3(N14) , SZE3@t GA'AR~a2 
-4.a. 2(N48) 2(N14) 4(N01)# [...] , [...] 
-4.b. 1(N48) 5(N34)# 2(N14)# [...] , [...] 
-1. [...] , [...] 
+230340	1. [...] , [...] 
 2. [...] , [...] X 
 1. [...] , [...] 
 2. [...] , [...] X 
@@ -44447,43 +52225,28 @@ $ (not given)
 2. , ZATU648 
 3. 2(N01)# [...] , U4# AB2 [...] 
 1. [...] , [...] 
-256998	2.a1. 1(N01) , KU3~a# 
-2.a2. 2(N02)# [...] , 
-2.b. , ZABALAM~a AB2 
-3. , BU3 
+230353	3. , BU3 
 1. [...] , IDIGNA# [...] |U4.SZU2|# 
 2. [...] , [...] |U4.SZU2|# SU~a 
-1.a. [...] 1(N01)# , GA2~a1 ZATU647 
-1.b. , [...] |GA~a.ZATU753| 
-2. , GU7 
-1.a. 3(N14)# [...] , UDU~a BA 
-1.b. [...] , |U4x1(N57)|# BAR 
-2. 3(N01) , KISIM~a 
-3.a. 3(N01) [...] , [...] 
-3.b. , MUD# SAG# [...] 
-1. [...] , [...] 
+230357	2. , GU7 
+230359	2. 3(N01) , KISIM~a 
+230361	1. [...] , [...] 
 2. [...] , [...] X X 
 1. [...] , [...] 
 2. , SZE~a# SZURUPPAK~a#? X NAM2# RAD~a# [...] 
 1. [...] , [...] 
 2. , |U4x1(N57)|# BAR# 
-1.a. 4(N14)# , BA UDU~a 
-1.b. 6(N01) , |U4x1(N57)| BAR 
-2. 1(N01) , KISIM~a 
+230368	2. 1(N01) , KISIM~a 
 3. [...] , [...] 
 1. [...] , [...] X 
-2.a. [...] 1(N01)# , DUG~b [...] EN~a# KA~a 
-2.b. 2(N01) , KISIM~a#? 
-3. [...] 1(N01)# , KISIM~a SZURUPPAK~a ZATU752 
+230372	3. [...] 1(N01)# , KISIM~a SZURUPPAK~a ZATU752 
 4. [...] , [...] X 
 1. , [...] 
 1. , [...] SZURUPPAK~a# [PA~a NAM2] RAD~a [...] 
 1. [...] , [SILA4~c SAL] 
 2. 2(N01) , SILANITA 
 3. , |U4x1(N57)| BAR 
-1.a. [...] , [UDU~a BA] 
-1.b. [...] , [|U4x1(N57)| BAR] 
-2. [...] , KISIM~a# 
+230380	2. [...] , KISIM~a# 
 3. , [...] 
 1. 4(N01) , DUG~b 
 2. 2(N01)# [...] , TUG2~a# [...] 
@@ -44496,9 +52259,7 @@ $ (not given)
 1. [...] , [U8] 
 2. [...] , [UDUNITA~a] 
 3. , [...] EN~a#? [...] 
-1.a. 4(N14) , UDU~a BA 
-1.b. 4(N01) , |U4x1(N57)| BAR 
-2. 1(N01)# , KISIM~a 
+230394	2. 1(N01)# , KISIM~a 
 3. , X [...] 
 1. [...] , SZE~a# [...] 
 2. 4(N01)# , NI2 ZATU649 
@@ -44539,24 +52300,13 @@ $ (not given)
 2. 1(N01)# , BARA2~a KISZ PAP~a URI3~a 
 3. 2(N01)# , ZATU749~a DARA4~c3 X SZAGAN# [...] 
 1. [...] , BARA2~a# KISZ# BA TU~a 
-2.a. 1(N01) , 1(N57) BARA2~a NAB DI 
-257092	2.b1. 1(N01) , |TUG2~a.(BAD&BAD)| 
-2.b2. 1(N01) , BARA2~a 
-3.a. 1(N01) , 1(N57) TUG2~a# 
-257096	3.b1. 1(N01) , BARA2~a 
-1. , U4# |SZE~a.NAM2| NAM2 RAD~a# PA~a# [...] 
+230437	1. , U4# |SZE~a.NAM2| NAM2 RAD~a# PA~a# [...] 
 1. 2(N34) 1(N14) 5(N01) , U2~a 
 2. 4(N34)# 8(N01)# [...] , [...] 
 1. [...] , [...] X 
-257102	2.a1. [...] , 
-2.a2. [1(N01)] KU3~a# , 
-2.a3. 1(N02) , 
-2.b. , SI4~a# [...] 
-1. [...] , [...] |KUR~a.E2~a|# 
+230442	1. [...] , [...] |KUR~a.E2~a|# 
 2. 1(N01) , |GI&GI| GU7 BAR# 
-1.a. [...] , UDU~a# BA# 
-1.b. [...] 1(N01)# , |U4x1(N57)| BAR 
-2. 3(N01)# , KISIM~a 
+230445	2. 3(N01)# , KISIM~a 
 3. , [...] KALAM~b#? 
 1. [...] 2(N01)# , ZATU752# [...] 
 1. [...] , [...] X 
@@ -44576,9 +52326,7 @@ $ (not given)
 1. 4(N01) [...] , [...] 
 2. 3(N01) [...] , [...] 
 3. 5(N01)# [...] , [...] 
-1.a. [...] , SUM~a#? KU~b1#? GARA2~a 
-1.b. 2(N01)# , KU3~a# 
-3. , U4 NI~a 
+230466	3. , U4 NI~a 
 1. [...] , [...] 
 1. , EN~a# IB~a ZATU753 [...] 
 1. 1(N14) 2(N01) [...] , DUG~c#? BA |GI&GI| GU7 ZATU648# [...] 
@@ -44605,67 +52353,9 @@ $ (not given)
 3. 1(N01) , NAM2 GUM~a [...] 
 4. [...] , X [...] 
 1. , SU~a [...] 
-1.a. 1(N01) , X [...] AN# SAG# [...] 
-1.b. , [...] 
-2.a. 1(N01) , X [...] 
-2.b. 1(N01) , [...] 
-3.a. 1(N01) , ZATU764# EZEN~b#? [...] 
-3.b. , [...] 
-4.a. 3(N14)# , SAL X [...] 
-4.b. , PIRIG~b1# [...] 
-5.a. 1(N14)# [...] 1(N01)# , [...] SZE~a#? NUN~a# SIG7 
-5.b. , [...] AB~a 
-6.a. 1(N14) 5(N01) , X BU~a NUN~a SIG7 
-6.b. , ZATU686~b [...] 
-1.a. 1(N01)# , X [...] 
-1.b. 4(N14)# [...] , [...] 
-2.a. 1(N01)# [...] , [...] 
-2.b. 3(N01)# , [...] 
-3.a. 2(N01)# [...] , [...] 
-3.b. 1(N14)# 2(N01)#? , [...] 
-4.a. [...] , [...] 
-4.b. [...] , [...] 
-5.a. 3(N01)# , TUG2~a [...] 
-5.b. 1(N34) 1(N14) [...] , [...] 
-5.c. , 3(N57)#? X [...] 
-6.a. [...] , NUNUZ~a1# X GI# U4# GA~a# KISAL~b1# AN# ZATU759 
-257184	6.b1. [...] , X SZITA~a1# 
-6.b2. , PIRIG~b1 2(N57) AB~a E2~a#? 
-7.a. , SZU 3(N57) 
-257188	7.b1. , 3(N57) SU~a PAP~a 
-7.b2. , EN~a NANNA~a# 
-1.a. [...] 1(N01) , [...] TUG2~a# 
-1.b. [...] 1(N14) , [...] 
-2. , [...] ZATU629# RU 
-3.a. 1(N01)# [...] , [...] 
-3.b. 1(N14) , [...] 
-4.a. 2(N01)# , TUG2~a# DILMUN# ERIM~a# SU~a 
-4.b. 2(N14) , KU6~a 
-5.a. 3(N01)# , [...] 
-5.b. 4(N14)# 5(N01) , 
-6.a. 1(N14) 1(N01) , TUG2~a 
-6.b. 1(N34) 5(N14) , 
-7.a. 1(N01) , SAL ME~b TUG2~a 
-7.b. 7(N01)# [...] , 
-8. , GUG2 X [...] 
-1.a. [...] 1(N01) , X BA 
-1.b. [...] , [...] 
-2.a. 1(N01) , TUG2~a@g 
-2.b. [...] , [...] 
-3.a. 2(N01)# , SAL# ME~b X 
-3.b. 2(N01)# [...] , [...] 
-4.a. , DIN SA~c#? I X [...] 
-4.b. [...] , [...] 
-5.a. 1(N01) , SIG2~b BA 
-5.b. 3(N14)# , [...] 
-6.a. , DU SIG2~b BAR [...] 
-6.b. [...] , [...] 
-257217	7.a1. 1(N01) , TUG2~a# BA# 
-7.a2. 1(N14)# 4(N01)# [...] , 
-7.b. , SU~a# NAB# DI |E2~ax1(N57)@t| 
-8.a. , GA~a SANGA~a 
-8.b. , NUNUZ~a1 3(N57) 
-1. [...] , [...] X 
+230507	2. , [...] ZATU629# RU 
+230513	8. , GUG2 X [...] 
+230522	1. [...] , [...] X 
 2. [...] , [...] 
 3. [...] , [...] X X 
 4. [...] , [...] 
@@ -44673,17 +52363,9 @@ $ (not given)
 1. [...] , |TUG2~a.(BAD&BAD)|# 
 2. [...] , GADA~a# 
 3. [...] , X [...] 
-1.a. 2(N01) , GADA~a UR2 GISZ U4 EZEN~b MUSZ3~a 
-1.b. , SUG5 LA2 
-2.a. 1(N01)# , GADA~a X [...] 
-2.b. , GIR3~c# X [...] 
-1. [...] , [...] TUR3~a# A#? BU~a# HI 
+230532	1. [...] , [...] TUR3~a# A#? BU~a# HI 
 2. [...] 1(N01)# , ERIM2 SI4~a# SZE~a 
-257237	3.a1. [...] 1(N01)# , X [...] 
-3.a2. 1(N01) KU3~a# , 
-3.a3. 4(N02) , 
-3.b. , [...] 
-1. [...] 1(N01)# , SA~a# [...] 
+230535	1. [...] 1(N01)# , SA~a# [...] 
 2. , [...] 
 1. [...] , DARA4~c4# U8 
 2. [...] 2(N14)# , UDUNITA~a# 
@@ -44699,35 +52381,19 @@ $ (not given)
 1. , SZU# GA2~a1#? [...] 
 2. , EN~a# 3(N57)#? AB~a# [...] 
 1. [...] , [...] 
-1.a. [...] , [...] 
-257259	1.b1. [...] , [BA] 
-1.b2. [...] , GI 
-2.a. 3(N14) , U2~a 
-257263	2.b1. 5(N01)# , BA# 
-2.b2. 2(N14) 5(N01) , GI 
-3. , SI4~a NE~a GI [SZE~a] 
+230553	3. , SI4~a NE~a GI [SZE~a] 
 1. [...] , [...] 
 1. [...] , [...] 
-1.a. [...] , X TE# [...] X 
-1.b. , MUD NUN~a IB~a# 
-2.a. [...] , [...] NA2~a# 
-2.b. , MUSZ3~a# 
-3. [...] , GU7# 
+230558	3. [...] , GU7# 
 1. [...] , [...] X 3(N57)#? 
 2. [...] , [...] X 
 1. [...] , X AMA~a# |(UDU~axTAR)~b| KI X MA [...] 
 2. 1(N01) , BA SIG2~b SZA? AN# SANGA~a MA AMA~a 
 3. [...] , [...] AMAR#? [...] 
-1.a. [...] 2(N01)# , BA ZI~a# KASZ~c 
-1.b. [...] , GAR#? ZI~a [...] 
-2. 2(N01)# [...] , GAR#? [...] 
+230565	2. 2(N01)# [...] , GAR#? [...] 
 1. [...] , X X GA~a# [...] 
 1. , [...] 
-1.a. [...] 4(N01)# , [...] 
-257285	1.b1. 3(N57) , GI6 
-1.b2. 2(N57)#? , [...] 
-1.b3. 2(N57)#? , X [...] 
-1. 1(N01)# [...] , [...] 
+230569	1. 1(N01)# [...] , [...] 
 1. 1(N01) , BAR? NU@g? 
 2. 1(N01)# , X [...] 
 1. , 3(N57) SU~a# PAP~a# 
@@ -44745,51 +52411,29 @@ $ (not given)
 1. 1(N01) , BARA2~a 
 2. 1(N01) , ZATU764 NA2~a 
 3. 1(N01) , ZATU764 EZINU~c# 
-1.a. 1(N01) KU3~a# , ZABALAM~a# AB2# [...] 
-1.b. 2(N02) , |3(N57).NUNUZ~a1| 
-2.a. 1(N01) , DUG~c EN~a ME~a UR2 SI 
-257310	2.b1. 1(N57) KU3~a , ZATU649 
-2.b2. 1(N57) KU3~a , GIR3@g~c#? 
-3. 4(N02) , ZATU648# [...] 
+230589	3. 4(N02) , ZATU648# [...] 
 1. , BA KI BAR 
 1. [...] , ZATU648# [...] 
 2. 1(N01) [...] , GAL~a# SANGA~a# TUR3~a [...] 
-3.a. 1(N01) , |GA~a.ZATU753| MIR~a NAGA~a NAR SZUBUR# X 
-257318	3.b1. 1(N57) KU3~a# , ZATU649# 
-3.b2. 1(N57) KU3~a# , TUR3~a# A# 
-1. [...] , [...] BA# 
+230594	1. [...] , [...] BA# 
 1. 4(N01)? [...] , [...] 
 1. 5(N01) , DUG~c |GI&GI| 
-1.a. [...] 1(N01)# , SZU2 
-257325	1.b1. [...] , [...] |GA~a.ZATU753|# 
-1.b2. 3(N57) , TU~a SANGA~a 
-2. 1(N01) , ZATU644~a TU~a SANGA~a 
+230598	2. 1(N01) , ZATU644~a TU~a SANGA~a 
 3. 1(N01) , GADA~a AL SAL A#? LA2? 
 4. 1(N01) , ZATU753 TU~a SANGA~a 
 1. [...] , [...] X 
 2. , U4 [...] GIBIL# NUN~a |GA~a.ZATU753| GU7 
 1. 2(N01)# , DUG~c ZATU649# 
-257334	2.a1. [...] , 
-2.a2. 1(N01) KU3~a , 
-2.b. , [TUR3~a] A# X 
-3. [...] , ZABALAM~a# AB2 
-257339	4.a1. [...] , 
-4.a2. 4(N02)# , 
-4.b. , [SZE~a GI] ERIM2# 
-1. 2(N01) , SI4~a NE~a SZE~a GI 
+230605	3. [...] , ZABALAM~a# AB2 
+230607	1. 2(N01) , SI4~a NE~a SZE~a GI 
 2. 4(N01) , ZATU649 
 3. , |GI&GI| BA# 
 1. [...] 1(N14)# , [...] DUB~a# E2~a 
 2. 1(N34)#? [...] 5(N14)# 5(N01)# , SZU2 X |GI&GI| EZEN~b NUN~a#? [...] 
-3.a. [...] 1(N01)# , [...] NA2~a# 
-3.b. , MUD LU2 IB~a 
-1. 1(N14) 4(N01)# [...] , SZU2# [...] KASZ~c# UMUN2# 
+230613	1. 1(N14) 4(N01)# [...] , SZU2# [...] KASZ~c# UMUN2# 
 2. , MUD NUN~a IB~a 
 3. , SUG5 LA2 
-1.a. 3(N01) , DUG~c U4 AB2 
-257354	1.b1. 1(N57) , |GA~a.ZATU753|# MIR~a 
-1.b2. 2(N57) , BA KI 
-2. , EN~a# ME~a SI# [...] 
+230617	2. , EN~a# ME~a SI# [...] 
 1. [...] 1(N14)# , [...] X HI E2~a NUN~a 
 2. , ZATU752 
 1. [...] , GI# [...] 
@@ -44805,9 +52449,7 @@ $ (not given)
 2. [...] , [...] 
 3. 1(N01)# , [...] 
 1. [...] 2(N14)# 3(N01)# , DUG~c# SI U4 AB2 |GI&GI| 
-1.a. [...] , [...] EN~a# SZIM~a# 
-1.b. , [...] KUR~a# [...] 
-2. 1(N01) , GAN~c# |U4x3(N01)| NA2~a 
+230634	2. 1(N01) , GAN~c# |U4x3(N01)| NA2~a 
 3. [...] , X [...] 
 1. 3(N14)# 1(N01) [...] , [...] 
 1. 5(N14) 2(N01)# [...] , [...] 
@@ -44819,28 +52461,13 @@ $ (not given)
 6. 3(N01) , NE~a SI4~a SZE~a GI# 
 7. [...] , [...] 
 1. 1(N14)# [...] 8(N01)# , DUG~c GU7# |GI&GI| |GA~a.ZATU753|# 
-1.a. [...] , ZATU752# GI6# KAR2~a NUN~a [...] 
-1.b. [...] , [...] X 
-2.a. 3(N01) , SZAKIR~c ZATU752 GI6# KAR2~a NUN~a 
-2.b. , EN~a# GA2~a1# DU 
-3.a. 3(N01)# , ZATU752# [...] 
-3.b. , MEN~a UNUG~a# [...] ZATU648# [...] 
-1. [...] , [...] 
+230649	1. [...] , [...] 
 2. , SAG# U4 ZATU648# |GI&GI|# 
 1. [...] 1(N01)# , MUD NUN~a SANGA~a KU3~a IB~a 
 1. [...] 1(N01)# , [...] 
-257397	2.a1. 4(N01) , 
-2.a2. [...] , 
-2.b. , ERIM2# SI4~a SZE~a 
-257401	3.a1. 4(N01) , 
-3.a2. 2(N02) , 
-3.b. , TUR3~a A 
-4. 1(N01) , ZATU649# 
+230655	4. 1(N01) , ZATU649# 
 1. 1(N01)# [...] , [...] 
-2.a. 1(N01) , SI TUR@g NIMGIR 
-257408	2.b1. 1(N01) [...] , [...] 
-2.b2. 1(N01) , ZABALAM~a# AB2 X 
-3. 1(N01) , BU~a X AB2 AB2 ZATU751~a? SI 
+230658	3. 1(N01) , BU~a X AB2 AB2 ZATU751~a? SI 
 4. , [...] 
 1. 5(N01)# , TUR3~a# A# 
 2. 4(N01)# , SI4~a# U4# AB2 
@@ -44853,9 +52480,7 @@ $ (not given)
 1. , |GI&GI| [...] 
 1. [...] , [...] 
 2. 1(N01) , SZAKIR~c#? [ZATU752?] KU~b1 GARA2~a [...] 
-3.a. 1(N08) , GAN~a E2~a 
-3.b. 1(N14) 2(N01) , KISIM~a EN~a ZATU752 
-1. , EN~a# IB~a# ZATU753# 
+230672	1. , EN~a# IB~a# ZATU753# 
 2. [...] , SANGA~a# ZATU753# 
 3. , LA2# SUG5 IB~a 
 1. [...] 1(N01)# , 3(N57) GA~a PAP~a [...] 
@@ -44871,10 +52496,7 @@ $ (not given)
 7. [...] , [...] 
 1. 1(N14) 4(N01) , DUG~c# [...] X GI#? GU7# 
 1. [...] , NA2~a# GAN~c# |U4x3(N01)|# [...] 
-257442	1.a1. [...] , DUG~c 
-1.a2. 1(N01)# [...] , [...] 
-1.b. , LA2 SUG5 HI NAR NAGA~a MIR~a# |GA~a.ZATU753|# [...] 
-1. 1(N01) , DUG~c# U2~a GA~a MIR~a# [...] 
+230689	1. 1(N01) , DUG~c# U2~a GA~a MIR~a# [...] 
 1. [...] , DUG~c#? X E2~a GU2#? SIG7 
 2. [...] 1(N01)# , X X [...] 
 1. , EN~a DUG~a# AB~b# [ZATU686~a] 
@@ -44897,10 +52519,7 @@ $ (not given)
 1. 1(N01) , AMA~a X [...] 
 1. , SAL X [...] 
 1. 1(N01) , GAN~a [...] 
-1.a. [...] , |GA~a.ZATU753|# [...] 
-257470	1.b1. [...] , [...] HI@g~a 1(N06) 
-1.b2. 1(N52)#? [...] , [...] 
-1. , GU7 [...] 
+230713	1. , GU7 [...] 
 1. [...] , [...] X X 
 1. [...] , [...] X GU7# 
 1. [...] , APIN~a#? [...] 
@@ -44916,11 +52535,7 @@ $ (not given)
 2. [...] , [...] 
 1. , NUNUZ~a1 
 2. , X [...] 
-1.a. [...] , [...] 
-1.b. [...] , U4#? [...] 
-2.a. [...] , [...] 
-2.b. 1(N01)#? [...] , [...] 
-1. [...] 1(N01)# , |DUG~cx1(N57)|# [...] 
+230731	1. [...] 1(N01)# , |DUG~cx1(N57)|# [...] 
 2. 1(N34)# [...] , [...] 
 1. [...] , X [...] 
 1. [...] , X [...] 
@@ -44968,37 +52583,25 @@ $ (not given)
 4. 3(N01)# , KISIM~b X ZATU752# 
 1. , U4 NI~b PAD~a# 3(N57) 
 2. 7(N01)# , GARA2~a# 
-257541	3.a1. [1(N01)] , SZAKIR~c# 
-3.a2. 1(N01) KU3~a , 
-3.b. , ZATU752 
-4. , U4 PAD~a PAP~a KU~b1 GARA2~a# 
+230780	4. , U4 PAD~a PAP~a KU~b1 GARA2~a# 
 1. [1(N14)] 4(N01)# , GARA2~a# [...] 
-257547	2.a1. [2(N01)] , [SZAKIR~c] 
-2.b. 1(N01)# [KU3~a] , 
-3. 3(N01)# , KISIM~b# 
+230783	3. 3(N01)# , KISIM~b# 
 4. , U4 NI~b 
 1. , [...] 
 2. , LA2#? SUG5# IB~a# SANGA~a# KU3~a 
 3. , [...] 
-1.a. 2(N01) , APIN~a SAL |GA2~bxDUB~a| 
-1.b. , SUG5# LA2# IB~a# 
-2. 1(N01)# , X [...] 
+230789	2. 1(N01)# , X [...] 
 3. , E2~a#? [...] 
 1. , GU7# [...] 
 1. [...] , [...] X NUN~a# SU~a KU6~a 
 2. , IM~b#? DA~a# [...] 
 1. , [...] 
-1.a. 1(N01) , DUG~c ZATU649 BU3 
-1.b. [...] , X GAN~b# |U4x2(N01)|#? NA2~a# 
-2. 1(N01)# , [...] E2~a |GA~a.ZATU753|# 
+230796	2. 1(N01)# , [...] E2~a |GA~a.ZATU753|# 
 3. , EN~a SI ME~a 
 1. 1(N01)# [...] , [...] 
 2. 2(N01)# [...] , [...] 
 3. , |GI&GI|# BA# GU7 
-1.a. 1(N01) , DUG~c# 
-257571	1.b1. 5(N01)# , |U4x4(N01)| GAN~c NA2~a# 
-1.b2. 1(N08) , |GA~a.ZATU753|# BAR 
-1. , GU7 [...] 
+230802	1. , GU7 [...] 
 1. [...] 1(N01)# , [...] NU11#? AN 
 2. 1(N01)# , EN~a# HI KUR~a AN 
 3. [...] , [...] X 
@@ -45009,49 +52612,19 @@ $ (not given)
 3. [...] , [...] X SU~a 
 4. [...] , [...] TUR3~a#? 
 1. [...] , [...] 
-2.a. , PA~a MEN~a IB~a SZE~a 
-257586	2.b1. , X X 
-2.b2. , MUD NUN~a 
-3. 1(N01) , EN~a# LA2 SAL AL# DUG~b [...] 
+230814	3. 1(N01) , EN~a# LA2 SAL AL# DUG~b [...] 
 4. 1(N01)# , BA X ZATU749~a# [...] 
 1. [...] , [...] 
 2. [...] , [...] 
 1. 1(N34) 1(N14)# [...] , X NE~a#? AN U4 [...] 
 1. 1(N34)# 1(N14) 1(N01)# [...] , U2~a GU7 
-257595	1.a1. 1(N01) , ZATU764 NA2~a 
-1.a2. 1(N01) , EZINU~b ZATU764 
-1.b. , AN# KI [...] 
-1. , EN~a# [...] 
+230821	1. , EN~a# [...] 
 1. 1(N01)# , [...] 
 2. 1(N01)# , [...] 
 3. 1(N01) , X [...] 
 4. 1(N01)# , TE# [...] 
 5. 1(N01)# , X [...] 
-257605	1.a1. [...] , [...] 
-257607	1.a2A. [...] , [...] 
-1.a2B. , [...] PAP~a SU~a 
-257610	1.b1. [...] 3(N01)# , SZU 
-257612	1.b2A. , (KASZ~c# |SZE~a&SZE~a|)a 
-1.b2B. , (MUD)a 
-1.c. , (PIRIG~b1)a 
-2.a. [...] 2(N01)# , [...] SZU# 
-2.b. , (PAP~a)a 
-2.c. , (|GIR3~cxSZE3|# NUN~a# [...])a 
-3.a. [...] , [...] 
-3.b. 2(N01) , SZU 
-3.c. , (TAK4~a U2~b)a 
-3.d. , (EN~a X)a 
-4.a. [...] 1(N01)# , SZU# 
-4.b. , (UB ZI~a)a 
-4.c. [...] , [...] 
-5.a. [...] , [...] SAG# 
-5.b. , (GUG2 BAR#?)a 
-1.a. [...] 1(N01)# , X [...] 
-2.a. 2(N01) , X NIM~b1#? [...] 
-2.b. [...] , [...] 
-3.a. [...] , [...] 
-3.b. [...] , [...] 
-1. [...] 1(N01)# , 1(N57) BAR# [SAL] 
+230835	1. [...] 1(N01)# , 1(N57) BAR# [SAL] 
 2. [...] 1(N01)# , SZU2 
 3. [...] 1(N01)# , |TUG2~a.(BAD&BAD)| 
 4. [...] 1(N14) 5(N01) , MASZ SZE3 
@@ -45071,10 +52644,7 @@ $ (not given)
 1. [...] , [...] GA~a# BA# [...] 
 1. , EN~a# IB~a# ZATU686~a# [...] 
 1. 1(N01) , [...] 
-1.a. 4(N01) , X [...] 
-257654	1.b1. 1(N57) , GI# MA#? 
-1.b2. 1(N57) , EN~a SI X 
-1. [...] , [...] 
+230856	1. [...] , [...] 
 1. [...] , [...] BA 
 1. [...] , [...] PIRIG~b1# X 
 1. [...] , [...] 
@@ -45120,10 +52690,7 @@ $ (not given)
 2. , SUH3 APIN~a# ZATU753# [...] 
 1. [...] 1(N34)# 5(N14)# , DARA4~c3 
 2. [...] 1(N14)# , SZE3 UDU~a 
-257703	1.a1. 1(N01) , KU6~a |U4x1(N57)| SZU# 
-1.a2. , DA~a BA ZATU694~c 
-1.b. , [...] X EN~a# EZEN~b 
-1. [...] , [...] 
+230903	1. [...] , [...] 
 1. , ZATU686~a [...] 
 1. [...] , [...] 
 2. [...] , [...] X GA'AR~a1 
@@ -45221,14 +52788,7 @@ $ (not given)
 6. 1(N01) , BA X 
 7. 3(N01)# , [...] 
 8. 1(N01)# [...] , [...] 
-1.a. 1(N34) 1(N14) 4(N01) , EN~a SIG2~b SZU2 GADA~a TUG2~a 
-257806	1.b1. 1(N14) 2(N01)# , [SIG2~b] 
-1.b2. 1(N14) 1(N01) , X [TUG2~a] 
-1.b3. 2(N01) , BA [...] 
-1.b4. 7(N01) , [BARA2~a] 
-1.b5. 2(N14) 4(N01) , [SZU2] 
-1.b6. 1(N14) 8(N01) , [GADA~a] 
-2. , EN~a EZEN~b AN HI |ZATU737xSAL|# URI3~a# [...] 
+231002	2. , EN~a EZEN~b AN HI |ZATU737xSAL|# URI3~a# [...] 
 1. [1(N01)] , [SI] |SILA3~axGARA2~a|# NUN~a# [...] 
 2. 1(N01) , SI |SILA3~axGARA2~a| EN~a SZE3 NUN~a 
 3. 1(N01) , SI |SILA3~axGARA2~a| NAB ME~a SZU 
@@ -45246,34 +52806,11 @@ $ (not given)
 2. [...] , [...] X ISZ~b BAR# 
 1. [...] , [...] X GAN2 X 
 2. , HI X [...] 
-1.a. [...] , TUG2~a# [...] |ZATU651xX|# GI6# SIG7 NUN~a 
-1.b. , KASZ~b ZATU647# [...] UNUG~a# 
-2.a. 1(N01)# , TUG2~a@g# SAL [...] X |1(N58).BAD~a| 
-2.b. , U8? KISAL~b1 
-3.a. [...] , [...] X X 
-3.b. , SZITA~a1 GAL~a SANGA~a 
-257837	1.a1. [...] , [...] MES#? 
-1.a2. 1(N01)# , SZITA~a1 SANGA~a GAL~a 
-1.b. , NIGIN? SANGA~a SZITA~a1 GAL~a 
-257841	2.a1. 1(N01) , DUG~c NUN~a# EN~a# BIR3~a [...] 
-2.a2. 1(N01) , EN~a# U2~a#? DU BU~a AB~a ZATU749~a 
-2.b. , |ZATU651xEN~a| ZABALAM~a# 
-3.a. 1(N01) , KASZ~c GUG2 NI~a KAB NAM2? 
-3.b. , SANGA~a 3(N57) GA2~a1#? 
-4.a. 1(N01) , UMBIN~a#? MES BIR3~a GA2~a1 
-4.b. , |ZATU651xEN~a| MU NIGIN? ZATU647 
-5.a. [...] , [...] 
-5.b. , HI# E2~a NUN~a# [...] 
-1. 1(N01) , X 
+231028	1. 1(N01) , X 
 2. 1(N01) , X [...] 
 3. 1(N01) , ABGAL# MUSZ3~a# 
 4. 2(N01) , ME~a? DU MUSZ3~a# 
-5.a. 1(N01)# , X E2~a# SANGA~a# ERIM~a 
-257856	5.b1. 1(N01) [...] , X [...] 
-5.b2. [...] 2(N14)# , X [...] 
-6.a. 1(N01) , GADA~a X SAL 
-6.b. , SANGA~a GAL~a 
-7. , NIR~a#? GU7 
+231034	7. , NIR~a#? GU7 
 1. [...] 1(N34)#? [...] , IN~d MUSZ3~a# E2~a# NUN~b# GU7# [...] 
 1. [...] , [...] SZEG9#? 
 2. 3(N54)# 2(N51) , GA'AR~a2# TUR3~a# 
@@ -45293,26 +52830,7 @@ $ (not given)
 2. [...] , [...] X 
 3. 7(N01)# , AB2#? SZUBUR# [...] 
 4. [...] , [...] 
-257881	1.a1. [...] , [...] 
-257883	1.a2A. , [...] 
-1.a2B. , [...] X 
-257886	1.b1. 1(N01)# [...] , SI#? AN# MUSZ3~a# GAN2#? 
-257888	1.b2A. , [...] 
-1.b2B. , [...] AN#? NUN~a#? 
-257891	2.a1. [...] , [...] 
-257893	2.a2A. [...] , [...] X SU~a# 
-2.a2B. [...] , [...] X KISAL~b1# 
-257896	2.b1. 2(N01) , |SILA3~axGA~a|# SZE3# SI# AB~a# TUR# 
-257898	2.b2A. , X NUN~a#? 
-2.b2B. , X A#? 
-257901	3.a1. [...] , [...] 
-257903	3.a2A. , [...] SZE3#? TUR# NUN~a# 
-3.a2B. [...] , [...] EN~a# SAG# 
-257907	3.b1A. 2(N01) , ZABALAM~a# GIBIL# 2(N57)# 
-3.b1B. , X SU~a# 
-257910	3.b2A. , X X [...] 
-3.b2B. , X [...] 
-1. [...] , [...] 
+231057	1. [...] , [...] 
 1. [...] 2(N14)# 3(N01) , |SILA3~axGA~a|#? [...] 
 1. [...] , [...] LU2#? RU |SAGxMA| NI2 
 1. [...] , [...] 
@@ -45344,9 +52862,7 @@ $ (not given)
 1. [...] , [...] 
 2. 3(N34)# [...] , [...] 
 3. , X [...] 
-1.a. [...] , [...] 
-1.b. [...] 1(N14)# , UDUNITA~a# 
-2. [...] , [...] UDUNITA~a# NAM2 UR2# 
+231090	2. [...] , [...] UDUNITA~a# NAM2 UR2# 
 3. [...] , [...] X 
 1. , [...] GURUSZDA# GAL~a# BAR# 
 1. [...] , [...] 
@@ -45356,9 +52872,7 @@ $ (not given)
 1. [...] , X GAR# [...] 
 1. [...] , [...] 
 1. [...] , [...] X 
-1.a. [...] , [...] X 
-1.b. [...] , [...] X 
-2. 2(N01) 3(N39~a) 1(N24) 1(N26) 1(N28) , 
+231101	2. 2(N01) 3(N39~a) 1(N24) 1(N26) 1(N28) , 
 3. 1(N01) 1(N39~a) 1(N24) 1(N28) , 
 4. 4(N01)# 2(N39~a) 1(N26) , 3(N57) |EN2.E2~a| 
 1. 2(N14)# [...] , [...] 
@@ -45429,13 +52943,7 @@ $ (not given)
 4. [...] , [...] 
 1. [...] , [...] 
 1. [...] , UNUG~a LAGAR~a? [...] 
-1.a. [...] , X [...] X SAG# 
-258031	1.b1. [...] , [...] AN# 
-1.b2. [...] , [...] X NUN~a 
-2.a. [...] , AN# |SZU2.EN~a|# X [...] 
-258035	2.b1. , ZATU773~a AN 
-2.b2. , ZATU773~a# [...] 
-1. [...] , [...] X ZATU647 
+231174	1. [...] , [...] X ZATU647 
 2. 1(N01) , DU8~c@g? BAR ZATU647 
 3. 1(N01) , GAL~a |1(N58).BAD~a| SANGA~a# 
 4. 1(N01)# [...] , GAL~a#? [...] 
@@ -45444,14 +52952,8 @@ $ (not given)
 1. [...] , [...] X MAR~a [...] 
 2. , EN~a [...] 
 1. 1(N01) , ZATU753 
-2.a. 5(N01) , [...] 
-258048	2.b1. 2(N01) , TUG2~a 
-2.b2. 3(N01)# , [...] 
-1.a. 1(N01) , TUG2~a? KASZ~b ZATU647? 
-1.b. 1(N01) , ZATU753 
-2. , |ZATU651xEN~a|# [...] 
-1.b. , IM~b TAK4~a SAL KI ME~a SZE~a 
-1. 1(N14) 1(N01) , [...] GISZ# NAM2#? E2~a SZA |GA~a.ZATU753| 
+231185	2. , |ZATU651xEN~a|# [...] 
+231187	1. 1(N14) 1(N01) , [...] GISZ# NAM2#? E2~a SZA |GA~a.ZATU753| 
 1. [...] , [...] 
 1. [...] 5(N01)# , BU~a U2~a SI TE [...] 
 2. 1(N01)# [...] , BU~a# [...] 
@@ -45554,16 +53056,10 @@ $ (not given)
 1. [...] 1(N01)# , X [...] 
 1. [...] , [...] X GUM~b# APIN~a# 
 1. [...] , [...] 
-1.a. 1(N01)# , DUG~a#? 
-1.b. 4(N14) , SAL#? URUDU~a? 
-1.c. 4(N01) [...] , SZEN~b 
-2. [...] , [...] 
+231291	2. [...] , [...] 
 1. 2(N01) , SUG5# PA~a [...] 
 2. 1(N01)# [...] , [...] 
-1.a. [...] 3(N14)# 2(N01)# [...] , [...] GU7# 
-258165	1.b1. [...] 1(N04)# [...] , [...] 
-1.b2. [...] , [...] 
-1. 4(N01)# , SAL 
+231295	1. 4(N01)# , SAL 
 2. 1(N01) , KUR~a# SZA3~a2 TUR# 
 3. [...] , SZA3~a2# [SAL TUR] X 
 1. [...] 2(N01)# , |SAL.KUR~a| UB IB~a UNUG~a 
@@ -45589,11 +53085,7 @@ $ (not given)
 2. [...] , [...] X 
 1. 1(N01)# [...] , [...] 
 2. 1(N01)# [...] , [...] 
-1.a. [...] 1(N14)# , [...] DUB~a 
-1.b. [...] , [...] 
-2.a. [...] 1(N01)# , BAR [...] 
-2.b. 3(N08)# [...] , [...] 
-1. [...] , X [...] 
+231323	1. [...] , X [...] 
 1. [...] , [...] IB~a# 
 2. [...] , [...] 
 1. 6(N01) , DUB~b KID~b 
@@ -45656,9 +53148,7 @@ $ (not given)
 2. 2(N14)# [...] , X [...] 
 1. [...] , [...] 
 2. [...] , [...] BAR# SAL 
-3.a. [...] , [...] 
-3.b. 2(N01)# [...] , 3(N57) SAL ZATU752# [...] 
-1. [...] 2(N01)# , [...] SAL BAR 
+231387	1. [...] 2(N01)# , [...] SAL BAR 
 2. [...] , [...] 
 1. [...] , [...] 
 2. [...] , [...] BA 
@@ -45768,43 +53258,22 @@ $ (not given)
 3. 1(N01) , X [...] 
 4. 1(N01)# , [...] 
 1. 1(N01) , GAL~a SZITA~a1 NIN 
-1.a. [...] , X [...] 
-1.b. 1(N01) [...] , PIRIG~b1 TUG2~a@g [...] 
-2. [...] , |LAGAB~axSU~a|# [...] 
+231498	2. [...] , |LAGAB~axSU~a|# [...] 
 1. [...] , SAL X [...] 
-1.a. 3(N01) [...] , [...] 
-1.b. 2(N02) [...] , 
-2. 1(N14) [...] , [...] 
-3.a. 4(N01) [...] , [...] 
-3.b. 6(N02) [...] , 
-4. [...] , [...] 
+231501	2. 1(N14) [...] , [...] 
+231503	4. [...] , [...] 
 1. 3(N01) [...] , [...] 
 2. 6(N01) [...] , [...] 
 3. 4(N01) [...] , X [...] 
 4. [...] , [...] 
 1. 1(N01) [...] , [...] 
-2.a. [...] 3(N01) [...] , [...] 
-2.b. 1(N02) [...] , 
-3. [...] , [...] 
-1.a. 4(N14)# 2(N01)# , TUR3~a [...] 
-258392	1.b1. [3(N14) 2(N01)] , [BA] 
-1.b2. 1(N15) , 
-2. 2(N14) 4(N01) , BA ZATU648 
-3.a. 2(N14) 9(N01) , |1(N57).SZAH2~a| 
-258397	3.b1. 2(N14) 8(N01) , BA 
-3.b2. 1(N02) , 
-1. 1(N34) 2(N14) 4(N01) , BA 
+231510	3. [...] , [...] 
+231512	2. 2(N14) 4(N01) , BA ZATU648 
+231514	1. 1(N34) 2(N14) 4(N01) , BA 
 2. 1(N15) 1(N02) , 
 1. 1(N34) 3(N14) 5(N01) , LAGAB~b SZE~a SZAH2~a 
-1.a. 1(N01) , DUG~c X SAL NIN TAK4~a X AMA~a 
-1.b. , SAL SZE~a X 
-2. 1(N01) , UNUG~a SAL# SZE~a PIRIG~b1#? 
-3.a. 1(N01) , UNUG~a DIM~a SZUBUR DU E2~a NUNUZ~a1 SANGA~a 
-3.b. , GAL~a SANGA~a SZITA~a1 
-4.a. 2(N01) , UNUG~a GA~a AB~a GAL~a 
-258409	4.b1. , GAN~a 6(N57) 
-4.b2. , DUG~c 
-1. , GU7 
+231518	2. 1(N01) , UNUG~a SAL# SZE~a PIRIG~b1#? 
+231521	1. , GU7 
 1. 5(N01) , DUG~c |GA~a.ZATU753| GU7 
 1. 1(N01) , TUG2~a 
 2. 1(N01) , SZU2 
@@ -45815,28 +53284,15 @@ $ (not given)
 3. 2(N14) , GAR 
 4. 1(N01) 1(N08) , DUG~c 
 5. 1(N50)# [...] , [...] 
-1.a. [...] , TUG2~a |ZATU651xNUN~a| [...] 
-1.b. 1(N01) , |SILA3~axNI~a| 
-2.a. [...] , TUG2~a# X [...] 
-2.b. 1(N01) , DUG~c 
-3.a. [...] , [...] 
-3.b. 1(N01) [...] , [...] 
-1. 5(N01) , DUG~c 
+231535	1. 5(N01) , DUG~c 
 2. 1(N01) , GAN~a 5(N57) 
 3. 1(N01) , 1(N57) 
 1. [...] , |ZATU651xEN~a| MUSZ3~a AB~a GU7 [...] 
-1.a. [...] , X [...] 
-1.b. 1(N14) [...] , [...] 
-2.a. 2(N01) , |NINDA2xGA'AR~a1| |GA2~a2xGU4| 
-2.b. , AB~b AN ME~a 
-3. 1(N14) 5(N01) , SZE3 UDU~a X [...] 
+231541	3. 1(N14) 5(N01) , SZE3 UDU~a X [...] 
 1. [...] , [...] 
 2. , |GA~a.ZATU753| 
 1. 5(N01) , SZU2 |U4.SZU2| ZATU752 EZEN~b AN MUSZ3~a 
-2.a. 1(N01) , ZATU764 
-258442	2.b1. 3(N01) , DU6~b#? 
-2.b2. , |U4.SZU2| X EZEN~b AN MUSZ3~a SIG 
-3. 1(N01) , X |U4.SZU2| ZATU752 EZEN~b AN MUSZ3~a SIG 
+231546	3. 1(N01) , X |U4.SZU2| ZATU752 EZEN~b AN MUSZ3~a SIG 
 1. , |GA~a.ZATU753| GU7 
 1. 2(N34) 2(N01) [...] , X [...] 
 2. 1(N34) 5(N14) 8(N01) , ZATU749~b# 
@@ -45861,44 +53317,13 @@ $ (not given)
 3. 2(N14) , KISZIK~b# [...] 
 1. [...] , U4 [...] 
 2. [...] , SZUBUR# [...] 
-1.a. 3(N01)? , AL 
-258471	1.b1. , ([...])a 
-1.b2. , (SZU [...])a 
-1.b3. , (BAR X [...])a 
-2.a. 1(N01) , AMAR 3(N57) X [...] 
-2.b. , (PAP~a)a 
-3.a. 1(N01) [...] , X [...] 
-3.b. , (NIMGIR)a 
-1.a. [...] , BALAG# [...] 
-1.b. , (ZATU651@g SANGA~a MU GAL~a SZU)a 
-2.a. [...] , X [...] 
-2.b. , (|EZEN~axSU~a| |ZATU651xEN~a|)a 
-3.a. [...] , KASKAL# [...] 
-3.b. , (GAL~a SANGA~a MU SZU)a 
-4.a. [...] , X [...] 
-4.b. , (SIG AN MUSZ3~a)a 
-5.a. [...] , [...] 
-5.b. , (EZEN~b AB~a X [...])a 
-1. [...] , MU X [...] 
-258490	2.a1. 1(N01) , NUN~a PAP~a SAL UR~a 
-2.a2. 1(N01) , MA |SAL.KUR~a| KU6~a 
-2.a3. 1(N01) , EN~a SZITA~a1 SAG 
-258494	2.b1. , (NAM2 X [...])a 
-2.b2. , (X EN~a# [...])a 
-3.a. 1(N01) , EN~a NUN~a |GISZxSZU2~a| DU 
-3.b. , (X [...])a 
-4. 1(N01) , UKKIN~a SIG2~b GAL~a 
+231579	1. [...] , MU X [...] 
+231582	4. 1(N01) , UKKIN~a SIG2~b GAL~a 
 5. 1(N01) , GAL~a SZIDIM# [...] 
 6. 1(N01) , [...] 
 1. [...] , GA~a X [...] 
 1. [...] , [...] 
-1.a. [...] , X [...] 
-1.b. 1(N14) 4(N01) [...] , [...] 
-2.a. [...] , BUR2 TUG2~a DAR~a |BAD&BAD| GA2~a1 AN SZU ME~a 
-2.b. 1(N14) 5(N01) , 
-3.a. 1(N01) , BUR2 DUR2? EN~a SAG [...] 
-3.b. 1(N14) [...] , [...] 
-1. 1(N14) 3(N01) [...] , [...] 
+231590	1. 1(N14) 3(N01) [...] , [...] 
 1. 2(N01) , DUG~c 
 2. 2(N14) , SUHUR 
 3. [...] , U2~a 
@@ -45915,28 +53340,14 @@ $ (not given)
 1. 5(N01) [...] , [...] 
 2. [...] , X [...] 
 1. [...] , X BU~a [...] 
-2.a. 1(N34) , KAR GAL~a 
-2.b. 2(N39~a) , 
-3.a. 1(N34)? [...] , X [...] 
-3.b. 2(N39~a) , 
-4.a. [...] , [...] 
-4.b. 2(N39~a) , 
-1. 1(N01) [...] , EN~a# [...] 
+231610	1. 1(N01) [...] , EN~a# [...] 
 2. 1(N34) [...] , [...] 
-1.a. [...] , [...] 
-1.b. 1(N14) [...] , 
-2.a. [...] , X [...] 
-2.b. 1(N14) , 
-3.a. [...] , X [...] 
-3.b. 2(N14) , 
-1. 1(N01) , SANGA~a X [...] 
+231615	1. 1(N01) , SANGA~a X [...] 
 2. 1(N01) , X GI X [...] 
 3. 1(N01) , BUR2 KI X [...] 
 1. [...] , X SZU# |GA2~a2x(GU4.SZE3)|# [...] 
 1. [...] , X [...] 
-2.a. [...] , GAN2#? [...] 
-2.b. , MASZ 
-3. [...] , X [...] 
+231621	3. [...] , X [...] 
 1. 1(N34) [...] , X [...] 
 2. 5(N01) [...] , [...] 
 1. [...] , X [...] 
@@ -45954,9 +53365,7 @@ $ (not given)
 3. 1(N01) [...] , [...] 
 1. 1(N34) [...] , X [...] 
 2. 1(N34) [...] , X [...] 
-3.a. 2(N01) [...] , [...] 
-3.b. 1(N34) [...] , [...] 
-1. , AB~b EN~a [...] 
+231640	1. , AB~b EN~a [...] 
 1. [...] , X [...] 
 1. 1(N01) , X DUG~b [...] 
 2. 1(N01) [...] , X [...] 
@@ -45998,9 +53407,7 @@ $ (not given)
 2. [...] , RU A [...] 
 3. 3(N14)# [...] , SZAM2# [...] 
 4. 7(N14) [...] , X [...] 
-1.a. [...] , ZATU629# RU# [...] 
-1.b. [...] , ANSZE~b# SANGA~a X [...] 
-2. [...] , X [...] 
+231683	2. [...] , X [...] 
 1. 1(N01) [...] , X [...] 
 2. [...] , [...] 
 1. , SZURUPPAK~a ZATU752 [...] 
@@ -46089,14 +53496,7 @@ $ (not given)
 1. [...] , [...] 
 1. , SANGA~a [...] 
 1. , GU7# |GA~a.ZATU753|# [...] 
-1.a. [...] , U2~b SAG [...] 
-258702	1.b1. 1(N50) [...] , [...] 
-1.b2. 1(N14) [...] , [...] 
-2.a. [...] , X [...] 
-258706	2.b1. 1(N50) , SZA3~a1 
-2.b2. [...] , X [...] 
-2.c. 2(N50) , X [...] 
-1. 2(N50) 8(N14) [...] , |SZE~a.NAM2| APIN~a# [...] 
+231774	1. 2(N50) 8(N14) [...] , |SZE~a.NAM2| APIN~a# [...] 
 1. [...] , LA2 GUN3~b X SUG5 [...] 
 1. 1(N14) 9(N01) , BU~a# X GAR 
 2. 1(N34) [...] , [...] 
@@ -46110,24 +53510,8 @@ $ (not given)
 2. [...] , KUR~a# ZATU659 X [...] 
 1. [...] , |KAK~a.GA2~a1| NUN~a# X [...] 
 1. 8(N01) , |SAL.KUR~a| EN~a EZEN~b AN HI URI3~a ZATU774 
-1.a. 5(N01) , SAL 
-258726	1.b1A. 4(N01) , SAL 
-258728	1.b1B1. , (NAB DI |BU~a+DU6~a|)a 
-1.b1B2. , (ZI~a#? AN)a 
-1.b1B3. , (ANSZE~e 7(N57) DUR2 DU)a 
-1.b1B4. , (LAL3~a#? GAR IG~b)a 
-258733	1.b2A. 1(N01) , SZA3~a1 TUR 
-1.b2B. , (TU~b)a 
-2.a. 3(N01) , KUR~a 
-258738	2.b1A. 1(N01) , KUR~a 
-2.b1B. , (NA~a NIR~a)a 
-258741	2.b2A. 2(N01) , SZA3~a1 TUR# 
-258743	2.b2B1. , (GI6 KISZIK~a# URI3~a)a 
-2.b2B2. , ([...])a 
-1. [...] , SU~a [...] 
-2.a. [...] , X [...] 
-2.b. 5(N14) , 
-3. 6(N01) [...] , ZATU775 
+231790	1. [...] , SU~a [...] 
+231792	3. 6(N01) [...] , ZATU775 
 1. 5(N34) [...] , SA~a#? 
 2. 1(N14) , U2~b 
 3. 1(N48) , ZI~d 
@@ -46137,9 +53521,7 @@ $ (not given)
 2. 1(N34) , X [...] 
 3. 1(N01) , X [...] 
 4. 4(N01) [...] , [...] 
-1.a. 1(N14) 2(N01) , DUB~a BAN~b 
-1.b. , |U4x2(N57)| LAM~b KASZ~c [...] 
-2. 6(N34) , TI |U4x2(N57)|? [...] 
+231803	2. 6(N34) , TI |U4x2(N57)|? [...] 
 1. 1(N14) [...] , E2~a [...] 
 2. 1(N01) [...] , X [...] 
 1. [...] , PIRIG~b1 NA2~a [...] 
@@ -46149,13 +53531,7 @@ $ (not given)
 1. [...] , X [...] 
 2. 4(N01) [...] , MA 
 3. 1(N14) [...] , HASZHUR 
-1.a. [...] , DUG~b U2~a [...] 
-1.b. 2(N01) [...] , |SIxSZE3| [...] 
-258773	1.c1. , NUN~a [...] 
-1.c2. , SZE3 NUN~a TUR 
-2.a. 2(N01) , MA HASZHUR AN NIN BALAG 
-2.b. , GA2~a1 HI 
-3. 1(N01) [...] , X [...] 
+231815	3. 1(N01) [...] , X [...] 
 1. [...] , SU~a# AB~a U4# [...] 
 1. [...] , GA~a# UKKIN~a# X [...] 
 1. [...] , LAGAR~a# SAG [...] 
@@ -46170,19 +53546,11 @@ $ (not given)
 2. 1(N01) , SIG2~e SIG7 GAL~a NANSZE~a SAL SZU 
 1. 1(N01) [...] , [...] 
 1. [...] , X [...] 
-1.a. 1(N01) , URI5 
-1.b. 4(N01) , SAL 
-2.a. 1(N01) , ARARMA2~a 
-2.b. 2(N01) , SAL 
-3.a. [...] , [...] 
-3.b. 2(N01) [...] , SAL# 
-1. 1(N01) , |(BU~a&BU~a).NA2~a| 
+231833	1. 1(N01) , |(BU~a&BU~a).NA2~a| 
 2. 2(N01)#? [...] , [...] 
 1. 2(N14) [...] , |SAL.KUR~a| SZU# AB~a [...] 
 1. 1(N14) [...] , EN~a ZATU752 [...] 
-2.a. [...] , X [...] 
-2.b. 2(N01) [...] , [...] 
-1. [...] 1(N04) , [...] 
+231838	1. [...] 1(N04) , [...] 
 1. [...] , SAG# [...] 
 1. [...] , KU6~a# [...] 
 2. [...] , |SILA3~axKU6~a| [...] 
@@ -46192,17 +53560,12 @@ $ (not given)
 3. 1(N01) , SZITA~a1 X [...] 
 1. 2(N01) , SI GU4 
 2. 2(N14) , DUB~e 
-1.a. 1(N01) , DUB~a UR3~a3? GI 
-1.b. [...] , DUG~c AB~a X [...] 
-2. [...] , X [...] 
+231849	2. [...] , X [...] 
 1. 2(N14) 1(N01) [...] , DUG~c [...] 
 1. [...] , GI#? [...] 
 2. 2(N01) , |SIG2~b.SIG2~b| EN~a AB~a UMUN2 
 1. , GU7 [...] 
-1.a. [...] , X KASZ~c#? [...] 
-258823	1.b1. [...] , X [...] 
-1.b2. [...] , X [...] 
-1. 5(N34) 2(N14) 5(N01) , |SIG2~b.SIG2~b|# DA~a# X [...] 
+231855	1. 5(N34) 2(N14) 5(N01) , |SIG2~b.SIG2~b|# DA~a# X [...] 
 1. 6(N01) , U8 
 2. 2(N14) 7(N01) , UD5~a 
 3. 1(N14) 2(N01) , UTUA~a 
@@ -46210,18 +53573,7 @@ $ (not given)
 1. 3(N01) , MASZ X [...] 
 2. , MASZ GAN2 X [...] 
 1. 1(N34) [...] , UDU~a# X MASZ GAN2 EN~a DU BAN~a A 
-1.a. [...] , AB~a KI [...] 
-1.b. 1(N01) [...] , [...] 
-2.a. 1(N01) , SZU2 PIRIG~b1 GIR3~c SZU AN DI 
-2.b. [...] , X [...] 
-3.a. 2(N01) , SZU2 EN~a IB~a 
-258839	3.b1. , DU [...] 
-3.b2. , |GA~a.ZATU753| 
-4.a. 1(N14) , SZU2 TA~e NUN~a 
-4.b. , IDIGNA HI 
-5.a. 1(N01) [...] , SZU2# [...] 
-5.b. 1(N01) [...] , SZU2# [...] 
-1. 2(N01) [...] , [...] 
+231868	1. 2(N01) [...] , [...] 
 1. 5(N01) [...] , [...] 
 2. 4(N01) [...] , ZATU644~a 
 3. 7(N01) , SZU2 
@@ -46230,11 +53582,7 @@ $ (not given)
 6. 1(N01) [...] , |GISZxSZU2~b| 
 1. 2(N01) [...] , [...] 
 1. [...] , X NAM2 KAB# [...] 
-1.a. 1(N01) , AL 
-1.b. , (ZATU659)a 
-2.a. [...] , TUR#? [...] 
-2.b. , (BU~a PAP~a [...])a 
-1. 1(N01) [...] , [...] 
+231879	1. 1(N01) [...] , [...] 
 1. , (|3(N57).PIRIG~b1| [...])a 
 1. 1(N01) [...] , ZATU659# UKKIN~a X [...] 
 1. 1(N14) [...] , GAL~a SZITA~a1 [...] 
@@ -46251,11 +53599,7 @@ $ (not given)
 1. [...] , X [...] 
 2. 1(N01) , TU~b 
 1. [...] , HAL [...] 
-1.a. 1(N01) , UDU~a NUN~b RU 
-1.b. , [...] 
-2.a. 1(N01) , GU4 RU 
-2.b. , X [...] 
-3. , X [...] 
+231898	3. , X [...] 
 1. [...] , X X [...] 
 2. [...] , X [...] 
 1. [...] , X [...] 
@@ -46280,9 +53624,7 @@ $ (not given)
 3. 1(N14) , HASZHUR#? GISZ ZATU776 
 4. [...] 8(N01) 1(N08) , ME~a? |GAN~dxGESZTU~a| 
 5. [...] , [...] 
-1.a. 2(N01) [...] , LAGAB~b? [...] 
-1.b. 1(N01) [...] , ME~a HAL UTUL~a X [...] 
-2. [...] , X [...] 
+231924	2. [...] , X [...] 
 1. [...] , [...] 
 1. 1(N06) , [...] 
 1. [...] , X ZATU773~a [...] 
@@ -46295,25 +53637,11 @@ $ (not given)
 4. 1(N01) , KU~b1 UR~a 
 5. 1(N01) , BAHAR2~c BU~a NUNUZ~a1# [...] 
 1. [...] , NAGAR~b# [...] 
-2.a. 5(N01) , KASZ~b AN MUSZ3~a 
-2.b. , X [...] 
-3.a. 5(N01) , NAGA~a X AB~a 
-3.b. , SZE~a BU~a NUN~a# NIM~b1 [...] 
-4.a. [...] , X [...] 
-4.b. , EN~a X [...] 
-1. [...] , X [...] 
-2.a. [...] , X [...] 
-2.b. 1(N08) , URUDU@g~d 
-3.a. [...] , X [...] 
-3.b. 1(N08) , X TUN3~a X AB~a 
-4.a. [...] , X X [...] 
-4.b. , URUDU@g~d 
-1. 1(N01) [...] , HI X [...] 
+231940	1. [...] , X [...] 
+231944	1. 1(N01) [...] , HI X [...] 
 2. 2(N01) , TA~d HI ZATU659 AB~a# MUSZ3~a KASZ~c 
 3. 1(N01) , ZATU764 EZINU~c DU SAL GURUSZ~a URI3~a 
-4.a. 1(N01) [...] , X [...] 
-4.b. , |1(N57).SZUBUR| IB~a# 
-1. 1(N45) [...] , DA~a# X [...] 
+231948	1. 1(N45) [...] , DA~a# X [...] 
 1. [...] , X [...] 
 2. 1(N01) [...] , X [...] 
 3. [...] 1(N14) , X [...] 
@@ -46340,9 +53668,7 @@ $ (not given)
 2. 1(N14) [...] , [...] 
 3. 1(N01) [...] , [...] 
 1. [...] , SUHUR [...] 
-1.a. [...] 1(N01) , GAN~c#? [...] 
-1.b. [...] 2(N01) , GA~a# [...] 
-2. [...] , [...] PA~a E2~a 
+231976	2. [...] , [...] PA~a E2~a 
 1. [...] , [...] 
 2. [...] , HI# [...] 
 3. [...] , X [...] 
@@ -46370,14 +53696,8 @@ $ (not given)
 5. 3(N01) , DI# BAR AK~a 
 6. 1(N01) , AK~a X [...] 
 1. 1(N14) 4(N01) , GAL~a X AK~a 
-2.a. 1(N34) 3(N14) , [...] BAN~a AK~a 
-2.b. 2(N14) 6(N01) , BAR 
-3. 2(N14) 4(N01) , AK~a USZ~b GI 
-4.a. 1(N45) 2(N48) 6(N34) 1(N14) 7(N01)# , MUSZ3~a BALA~a 
-4.b. 1(N48) 1(N14) [...] , [...] 
-5.a. 1(N48) 6(N34) , BALA~a MUSZ3~a X TUR AN 
-5.b. 4(N34) [...] , [...] 
-6. 4(N48) [...] , BALA~a# [...] 
+232005	3. 2(N14) 4(N01) , AK~a USZ~b GI 
+232008	6. 4(N48) [...] , BALA~a# [...] 
 1. [...] 1(N14) [...] , [...] 
 2. 1(N45) 3(N48) 2(N34) [...] , |SALx1(N58)| KISZ [...] 
 3. 1(N01) , BALA~a SZU E2~a [...] 
@@ -46385,9 +53705,7 @@ $ (not given)
 1. [...] , [...] 
 1. [...] , [...] ZATU647# ZATU785#? 
 2. 1(N34) , SUHUR SANGA~a ME~a GAL~a E2~a# [...] 
-3.a. [...] , X [...] 
-3.b. 4(N34) [...] , [...] 
-1. [...] , X SI [...] 
+232017	1. [...] , X SI [...] 
 2. [...] , X [...] 
 1. 1(N14) 2(N01) , EN~a IB~a 
 1. 1(N01) [...] , [...] 
@@ -46426,12 +53744,8 @@ $ (not given)
 1. [...] , MUSZEN# SZITA@g~a |GISZxSZU2~b| IB~a |SAR~axSZE~a| [...] 
 1. 1(N01) , |SILA3~axHI| 
 2. [...] , KASZ~b X [...] 
-1.a. [...] , X [...] 
-1.b. 1(N50) 2(N14) , SZA3~a2 
-2. [...] 1(N50) [...] , [...] 
-1.a. 1(N14) , X [...] 
-1.b. 1(N50)# [...] , [...] 
-1. 3(N45) 4(N50) 1(N14) [...] , [...] 
+232057	2. [...] 1(N50) [...] , [...] 
+232059	1. 3(N45) 4(N50) 1(N14) [...] , [...] 
 1. [...] , APIN~a# [...] 
 1. [...] , X TUR3~a# ME~a [...] 
 2. , GAL~a# UMUN2 
@@ -46442,24 +53756,11 @@ $ (not given)
 2. 3(N14) , TUG2~a 
 3. 1(N01) [...] , [...] 
 1. 2(N14) 2(N01) [...] , X [...] 
-1.a. [...] , X NAM2 [...] 
-1.b. [...] , SAG E2~a [...] 
-2.a. [...] , SAG# [...] 
-2.b. , UNUG~a 
-2.c. , UH3~a# [...] 
-1. 1(N01) , DUB~a ZATU647 
+232072	1. 1(N01) , DUB~a ZATU647 
 2. 1(N01) , SAG AMAR 
 3. 1(N01) , SANGA~a DUB~a 
 4. 1(N01) , EN~a ERIM~a A NUN~a# SI [...] 
-1.a. [...] , X [...] 
-1.b. , NESAG2~a |DARA3~dx(KAR2.SZE~a)| [...] 
-2.a. 1(N01) , X ZATU759 
-2.b. , SZE~a NANNA~b [...] 
-3.a. 1(N01) , SZAGAN GI 
-3.b. , EN~a PAP~a HI X [...] 
-4.a. 1(N01) , X NIMGIR 
-4.b. , AB2# UD5~a#? X [...] 
-5. 1(N01) , EN~a PA~a 
+232080	5. 1(N01) , EN~a PA~a 
 6. [...] , TUR# [...] 
 1. [...] , X [...] 
 2. , SI# [...] 
@@ -46522,9 +53823,7 @@ $ (not given)
 1. [...] , X NUN~a [...] 
 2. [...] , X [...] 
 1. , ZATU676~b GISZ@t GISZ URU~a1 ZATU682 |NAGA~axTAK4~a| KU6~a EN~a ZATU697~a 
-1.a. 1(N14) [...] , TUG2~a 
-1.b. [...] 6(N01) , DARA4~a1 [...] 
-2. 8(N01) , GADA~a GAL~a 
+232144	2. 8(N01) , GADA~a GAL~a 
 3. 1(N01) , SZU2 
 1. 1(N14) 5(N01)# , [1(N57)] SAL# BAR 
 2. 3(N01) , DUG~b 
@@ -46540,11 +53839,7 @@ $ (not given)
 3. 2(N01) , AN E~a X [...] 
 4. [...] , LA~b#? [...] 
 1. [...] , GURUSZDA [...] 
-1.a. [...] , SZEN~b# ZATU647# [...] 
-1.b. [...] , E2~a# GA2~a2 UNUG~a [...] 
-2.a. [...] , BUR2# TUG2~a X [...] 
-2.b. 2(N01) , TUG2~a BUR2 LAGAB~b 
-1. 1(N01) , EN~a BA ZATU647 AB~a UNUG~a |KA2xLAM| 
+232162	1. 1(N01) , EN~a BA ZATU647 AB~a UNUG~a |KA2xLAM| 
 1. , NA2~a 
 1. [...] , [...] X A# 
 2. [...] , |SILA3~axNI~a| [...] 
@@ -46552,12 +53847,8 @@ $ (not given)
 1. 2(N01) , NUN~a# U4 SAG AN MUSZ3~a SZAM2# [...] 
 2. 2(N01) , NAM2 X [...] 
 3. 2(N01) , BU~a# BU~a# X [...] 
-1.a. [...] 2(N01) , X X AN MUSZ3~a [...] 
-1.b. , AB~a# ME~a AN 
-2. , BU~a PAP~a NAM2 ZATU752 
-3.a. 1(N01) , LAGAB~b TUG2~a U4 SZUR2~a EZEN~b IB~a 
-3.b. , GA~a SANGA~a 
-1. , |GA~a.ZATU753| GU7 
+232171	2. , BU~a PAP~a NAM2 ZATU752 
+232173	1. , |GA~a.ZATU753| GU7 
 1. [...] , |2(N57).SZUBUR|? SZE~a# [...] 
 2. [...] , |NIR~axAN|# [...] 
 1. 5(N01) , EN~a IB~a SANGA~a 
@@ -46592,23 +53883,15 @@ $ (not given)
 2. [...] 2(N01) , UDU~a 
 1. 1(N14) [...] , [...] 
 1. 5(N34) , SZAKIR~c ZATU752 BA 
-1.a. 1(N34) , SZAKIR~c ZATU752 X URI3~a X 
-1.b. 1(N34) , SZU2 DUG~a 
-2.a. 4(N34) [...] , [...] 
-2.b. 1(N34) [...] , SI X [...] 
-1. 1(N14) [...] , X [...] 
+232210	1. 1(N14) [...] , X [...] 
 2. 2(N14) [...] , X MUSZ3~a# [...] 
 1. 1(N48) [...] , DUG~c ZATU648 [...] 
 1. [...] , EN~a# IB~a# [...] 
 1. [...] , DUG~a#? KISAL~b1# [...] 
 1. [...] , X [...] 
-1.a. [...] , |DUG~ax1(N57)|# [...] 
-1.b. [...] , X IB~a BU~a ZAG~a [...] 
-2. 1(N01) , GARA2~a SILA3~a |GIxSZE3| [...] 
+232217	2. 1(N01) , GARA2~a SILA3~a |GIxSZE3| [...] 
 3. 2(N01) , BA SILA3~a EN~a BA [...] 
-4.a. 2(N01) [...] , [...] 
-4.b. , |SAR~axSZE~a|# [...] 
-1. [...] , X [...] 
+232220	1. [...] , X [...] 
 2. 5(N14)# , SZU ZATU647 UB 
 1. 2(N46)# [...] , X [...] 
 1. 1(N01)# [...] , GA2~a1 [...] 
@@ -46650,13 +53933,7 @@ $ (not given)
 3. , EN~a X [...] 
 1. , X X [...] 
 1. [...] , SAG# [...] 
-1.a. [...] , MA HASZHUR [...] 
-1.b. 3(N34) , MA 
-259277	1.c1. 2(N34) 5(N14) 5(N01) , BA 
-1.c2. 5(N01) , GI 
-2.a. , UNUG~a |GA~a.ZATU753| BAR 
-2.b. , KALAM~b X [...] 
-1. [...] , TI# DUB~a [...] 
+232264	1. [...] , TI# DUB~a [...] 
 1. 1(N01) , |U4x6(N57)|# NE~a |LAGAB~bxU4|#? [...] 
 2. 1(N01) , |U4x2(N57)|# GU4 SZU |LAGAB~bxU4|#? [...] 
 3. , X [...] 
@@ -46669,10 +53946,7 @@ $ (not given)
 3. 2(N14)# 2(N01)# [...] , [...] 
 1. 5(N01) , SZEN~c@t 
 2. , BA# DA~a#? [...] 
-1.a. 1(N01) [...] , X [...] 
-259296	1.b1. 2(N57) , SAL X 
-1.b2. 2(N57) , SIG7 GI 
-2. [...] , X A [...] 
+232278	2. [...] , X A [...] 
 1. [...] , X DU [...] 
 2. [...] 1(N01) , EN~a# X [...] 
 3. 2(N01) , |1(N57).SZUBUR| SZUR2~b#? BU~a 
@@ -46700,9 +53974,7 @@ $ (not given)
 2. 1(N14) , X |LAGAB~axX| 
 1. [...] , KI [...] 
 2. 1(N01) , ZATU697~a GI 
-3.a. 2(N01) , ZATU697~a 
-3.b. 1(N34) , DU# 
-4. [...] , X [...] 
+232307	4. [...] , X [...] 
 1. [...] , [...] 
 2. 4(N01) [...] , [...] 
 3. [...] , [...] 
@@ -46712,11 +53984,7 @@ $ (not given)
 1. 3(N01) , X [...] 
 2. 1(N01) , SU~a [...] 
 3. 3(N01) [...] , [...] 
-1.a. 1(N01) , U4 TUG2~a E2~a |ZATU651xNUN~a| 
-1.b. , AB~a#? SANGA~a? 
-2.a. 1(N01) , TUG2~a TAK4~a KASZ~c KISAL~b1 
-2.b. , X DU X 
-3. , GU7# NAGA~a# 
+232319	3. , GU7# NAGA~a# 
 1. 2(N01) , TUG2~a NAGA~a SANGA~a X ME~a 
 1. [...] , X HI [...] 
 2. [...] , E2~a# [...] 
@@ -46725,24 +53993,12 @@ $ (not given)
 2. , |GA~a.ZATU753| 
 1. , GU7 [...] 
 1. 6(N34)# , SUHUR BA 
-1.a. [...] 1(N01)# , [...] 
-1.b. [...] , [...] 
-2.a. 2(N01) 1(N08) , KI ERIM~a 
-2.b. 1(N01) [...] , X [...] 
-3.a. 1(N01) 1(N08) , ZATU679 
-3.b. 1(N01) [...] , [...] 
-4.a. 1(N08) , AL AN SZU 
-4.b. 1(N01) [...] , [...] 
-5.a. [...] 1(N08)# , X [...] 
-5.b. [...] , [...] 
-1. [...] 2(N14) 2(N01) [...] , [...] 
+232333	1. [...] 2(N14) 2(N01) [...] , [...] 
 1. [...] , NIR~a# [...] 
 2. [...] 2(N01) , MASZ2# [...] 
 3. 2(N01) [...] , MASZ2# [...] 
 1. 1(N01) , NUN~a MASZ2 X 
-2.a. 1(N01) , TUR3~a#? MASZ2@g NUN~a 
-2.b. , BU~a 1(N04) 
-3. 1(N01) [...] , X [...] 
+232339	3. 1(N01) [...] , X [...] 
 1. [...] , [...] 
 1. [...] , HASZHUR [...] 
 1. [2(N01)] , NUN~a# [...] 
@@ -46757,20 +54013,11 @@ $ (not given)
 2. , PAP~a E2~a 
 1. 1(N14) , SZU2 X [...] 
 1. 1(N14)# , NU@g HI E2~a NUN~a |(UDU~axTAR)~b| GA~a 
-2.a. [4(N01)] , X [...] 
-259385	2.b1. 1(N57) , ERIN 
-2.b2. 3(N57) , EZEN~a 
-3. [...] 3(N01) , X [...] 
-1.a. 3(N01) , X E2~a PAP~a# 
-259390	1.b1. 2(N57) , X SZE~a MUSZ3~a 
-1.b2. 1(N57) , AN 
-1.b3. , X [...] 
-2. 1(N01) , X EN~a SZIDIM 
+232355	3. [...] 3(N01) , X [...] 
+232357	2. 1(N01) , X EN~a SZIDIM 
 3. 4(N01) , |NINDA2x(AN.ME~a)| 
 1. 1(N34) 1(N14) [...] , BA DARA4~c4 
-2.a. , NAGA~a 
-2.b. , KU6~a 
-1. [...] , HI E2~a NUN~a GU7 [...] 
+232361	1. [...] , HI E2~a NUN~a GU7 [...] 
 1. 1(N14) [...] , [...] 
 2. 1(N14) [...] , [...] 
 1. [...] , X APIN~a# [...] 
@@ -46805,50 +54052,9 @@ $ (not given)
 3. [...] , X ZATU773~a? X [...] 
 1. , X [...] 
 1. [...] , GA~a# [...] 
-1.a. [...] , [...] X 
-259435	1.b1. 1(N01) , [...] 
-1.b2. 1(N01) , X [...] 
-259438	1.c1. 1(N01) , [...] 
-1.c2. 3(N01) , SZU2 
-259441	1.d1. 1(N01) , BAR SAL 1(N57) 
-1.d2. 1(N34) , ZATU759 SAG 
-2.a. [...] , [...] IB~a# 
-2.b. 3(N01) , ZATU753 
-259446	2.c1. 1(N01) , ME~a 
-2.c2. 5(N01) , SZU2 
-2.d. 3(N14) , ZATU759 SAG 
-3.a. [...] , [...] IB~a 
-3.b. 3(N01) , ZATU753 
-3.c. 1(N01) , ZATU644~a 
-3.d. 2(N34) , ZATU759 SAG 
-4. [...] , ABGAL 
-5.a. [...] , [...] 
-5.b. 1(N34) [...] , ZATU759# SAG 
-1.a. 1(N01) , ZATU753 ENGIZ SZAGAN 
-1.b. 2(N01) , SZU2 
-1.c. 2(N01) , BAR SAL 1(N57) 
-2.a. 1(N01) , ZATU753 AK~a 
-2.b. 1(N01) , ME~a 
-2.c. 2(N14) , ZATU759 SAG# 
-3.a. 1(N01) , ZATU753 SANGA~a ME~a 
-259464	3.b1. 1(N01) , ZATU753 
-3.b2. 1(N01) , GADA~a 
-3.c. 2(N01) , SZU2 
-3.d. 2(N14) , ZATU759# SAG 
-4.a. 1(N01) , GADA~a GAL~a SZAB~a 
-4.b. 1(N01) , BAR SAL 
-5.a. 1(N01) , ZATU753 MU# X 
-5.b. 1(N01) , ZATU644~a 
-5.c. 2(N01) , SZU2 
-5.d. 1(N01) , BAR SAL 
-1. 1(N01) , ZATU753 TI@t SAL SUHUR# 
-2.a. 1(N01) , TUG2~a LAM~b AN |SZU2.EN~a| 
-2.b. 1(N01) , BAR SAL [...] 
-3.a. 2(N01) , SZU2 |SZE~a.NAM2| 
-3.b. 3(N01) , TUG2~a [...] 
-4.a. [...] , TUG2~a EZEN~b GAL~a 
-4.b. 1(N01) [...] , [...] 
-5. 2(N01) , TUG2~a NAM2 URU~a1 
+232399	4. [...] , ABGAL 
+232406	1. 1(N01) , ZATU753 TI@t SAL SUHUR# 
+232410	5. 2(N01) , TUG2~a NAM2 URU~a1 
 6. 5(N01) , UR5~b X [...] 
 1. [...] , [...] X SIG NUN~a# ZATU782 
 1. 6(N01) , TUG2~a [...] 
@@ -46857,10 +54063,7 @@ $ (not given)
 1. [...] , SUKKAL [...] 
 1. [...] 5(N01)# , TAK4~a AN MUSZ3~a EZEN~b AN MUSZ3~a [...] 
 1. [...] 1(N14) , |U4.8(N08)| [...] 
-1.a. 3(N14) 4(N01) , GU7 
-259492	1.b1. 6(N01) , GISZIMMAR~b1 KAR2~a NUN~a 
-1.b2. 2(N14) 8(N01) , |U4.2(N08)|# X [...] 
-2. [...] , X [...] 
+232420	2. [...] , X [...] 
 1. , X 
 1. [...] , [...] 
 1. [...] , [...] 
@@ -46880,51 +54083,8 @@ $ (not given)
 5. [...] , X 3(N57) [...] 
 1. [...] , X [...] 
 2. [...] 8(N01) , |(UDU~axTAR)~b| GA~a HI E2~a NUN~a EN~a TE KI 
-3.a. 2(N01)# , HI U4 BAN~a SZEN~b IB~a 
-3.b. , |ZATU651xNUN~a| E2~a 
-4.a. 1(N01) , EN~a IB~a ZATU651@g X 
-4.b. , |ZATU651xNUN~a| E2~a 
-5.a. 2(N01) , UNUG~a SAL AMA~a? AN |NINDA2x(HI+ME~a)| 
-5.b. , |ZATU651xNUN~a| E2~a 
-6.a. 4(N01) , SUG5 X ERIM~a [...] 
-259522	6.b1. , BU~a 1(N57) X 
-6.b2. , |1(N58).BAD~a| SZUBUR 
-6.b3. , SZA UD5~a 
-1.a. [...] , IB~a |1(N57).SZUBUR|# 2(N57) 
-1.b. , UNUG~a# [...] 
-2.a. 1(N01) [...] , EN~a AB~b BU~a# 
-2.b. , SZENNUR~b 
-3.a. 2(N01) , HI E2~a NUN~a BIR3~a 
-3.b. , X GUL 
-4.a. 1(N01) , NUN~a BIR3~a 
-4.b. , X 
-5.a. 1(N01) , PAP~a SZU X [...] 
-5.b. , |ZATU651xEN~a| GIBIL KU6~a 
-6.a. [...] , X SIG7 NUN~a? 
-6.b. , NA2~a 
-7.a. 1(N01) , EZEN~b SIG7 NUN~a 
-7.b. , EN~a# X 
-8. 1(N01) , AB2 KI DU NUN~a 
-9.a. 1(N01)# , EN~a# AL BA [...] 
-9.b. , |ZATU651xNUN~a| E2~a 
-1.a. 1(N14) 5(N01) [...] , UNUG~a SUG5 SIG2~b SI MASZ 
-259544	1.b1. , X X [...] 
-1.b2. , X X KU6~a 
-2.a. 1(N01) , X SZU X IB~a 
-2.b. , |ZATU651xNUN~a| E2~a 
-259549	3.a1. 1(N01) , X X NAM2 KAB 
-3.a2. 2(N01) , X |1(N58).BAD~a|# IR~a? 
-3.b. , |ZATU651xNUN~a| E2~a UNUG~a 
-4.a. 1(N01) , EN~a# DU NUNUZ~c U2~b 
-4.b. , |SAR~axSZE~a| 
-259555	5.a1. 1(N01) , TAK4~a KASZ~c KISAL~b1 
-5.a2. 1(N01) , |SZU2.E2~a| 
-5.b. , ZATU679 
-6.a. 3(N01) , EN~a# TAK4~a# X TUG2~a@g 
-6.b. , 1(N04) 
-7.a. 2(N01) , X SIG SZU 
-7.b. , UNUG~a ZATU753 
-1. 1(N01) [...] , [...] 
+232451	8. 1(N01) , AB2 KI DU NUN~a 
+232460	1. 1(N01) [...] , [...] 
 2. 1(N01) [...] , [...] 
 3. 1(N01) , X [...] 
 4. 1(N01) , MUSZ3~a# [...] 
@@ -46959,28 +54119,11 @@ $ (not given)
 1. [...] , X AB2 UNUG~a [...] 
 1. [...] , SANGA~a# X [...] 
 1. [...] , HAL |GA2~a2xGU4|# EN~a# BA# [...] 
-1.a. 1(N50) , GAN2 MU SZU SZITA~a1 ERIN 
-259599	1.b1. 5(N14) , BA 
-1.b2. 5(N14) , GI 
-2.a. 1(N50) , [...] 
-259603	2.b1. 4(N14) , BA 
-2.b2. [6(N14)] , [GI] 
-1. [...] , X GI [...] 
+232497	1. [...] , X GI [...] 
 2. [...] , SZAGAN [...] 
-1.a. 6(N01) , LU2 MUD3~d 
-259609	1.b1. [...] , [...] 
-1.b2. , TUR#? DU [...] 
-2.a. 3(N01) [...] , [...] 
-259613	2.b1. , SAG# PAP~a 
-2.b2. , X X 
-2.b3. , GAL~a X 
-2.b4. , EN~a [...] 
-1. 1(N34) 1(N14) [...] , [...] 
+232501	1. 1(N34) 1(N14) [...] , [...] 
 1. [...] , [...] 
-259620	2.a1. 1(N01) KU3~a , 
-2.a2. 1(N02) , 
-2.b. , NI2 KASZ~c AN MUSZ3~a 
-3. 4(N02) , NI2 |ZATU651xX|# GIBIL [...] 
+232504	3. 4(N02) , NI2 |ZATU651xX|# GIBIL [...] 
 1. [...] , SAG PAP~a [...] 
 2. [...] , X MAH~a KI [...] 
 3. 3(N01) [...] , ZI~a GISZ 
@@ -47000,10 +54143,7 @@ $ (not given)
 1. [...] 2(N14) 5(N01) 3(N59) , SZE3# LAL2~a [...] 
 1. [...] , X [...] 
 1. 1(N48) [...] , MUSZ3~a [...] 
-2.a. 1(N45) 1(N58) 2(N34) , X [...] 
-259645	2.b1. 6(N34) , BAD X 
-2.b2. 2(N48) [...] , [...] 
-1. [...] , ZATU749~b#? [...] 
+232525	1. [...] , ZATU749~b#? [...] 
 2. 3(N34) [...] , [...] 
 1. [...] , DUB~a X [...] 
 1. 2(N01) , TAK4~a KI 
@@ -47067,12 +54207,7 @@ $ (not given)
 1. [...] , BAR [...] 
 1. [...] , ZI~a GAR GISZ EZEN~a 
 2. [...] , NUN~a# X [...] 
-1.a. 1(N14) , PAP~a SU~a 3(N57) NAGAR~b 
-259713	1.b1. , 1(N57) [...] 
-1.b2. , 3(N57) [...] 
-2.a. 1(N34) 4(N01) [...] , [...] 
-2.b. 2(N01) [...] , TUG2~a BUR2# [...] 
-1. [...] , X [...] 
+232591	1. [...] , X [...] 
 1. , DA~a# [...] 
 1. 1(N51) , DU8~c 
 2. 8(N51) 1(N34) 1(N14) , |5(N57).GAR| 
@@ -47088,9 +54223,7 @@ $ (not given)
 4. , AN GIR3~c 
 5. , [...] A# 
 1. , BU~a 
-1.a. 1(N01) , TI# PAP~a 
-1.b. , GUG2 BU~a 
-2. , |SAR~axSZE~a|# SANGA~a# [...] 
+232608	2. , |SAR~axSZE~a|# SANGA~a# [...] 
 1. [...] , UDU~a 
 2. 2(N01)# , GU4 AB2 
 3. 1(N34) , SUHUR 
@@ -47115,33 +54248,12 @@ $ (not given)
 1. [...] , X ZATU753# SAG [...] 
 1. [...] , X ZATU753# [...] 
 1. 2(N14) 7(N01) , ZATU753 SAG 
-1.a. 4(N40) , GAL~a 
-1.b. 1(N01) [...] , MUSZEN? X 
-2.a. 2(N03) , SZU EN~a NUN~a 
-259764	2.b1. 1(N03) 3(N40) , BA 
-2.b2. 2(N40) , GI 
-3.a. 2(N03) , AMAR 
-259768	3.b1. 3(N40) , BA 
-3.b2. 1(N03) 2(N40) , GI 
-4. 2(N03)# 1(N40) , BA NAM2 KAB 
+232636	4. 2(N03)# 1(N40) , BA NAM2 KAB 
 5. 1(N03) 1(N40) , GI RU X 
-1.a. [...] , X [...] 
-1.b. , ZATU753# HI [...] 
-2.a. 2(N01) , GA2~a1 NIMGIR 
-259776	2.b1. , X X 
-2.b2. , |BU~a+DU6~a| GUL 
-3. , 1(N57) BA 
+232640	3. , 1(N57) BA 
 4. 1(N01) [...] , IDIGNA# 
 5. [...] , GAN~a# [...] 
-1.a. 1(N01) , MUSZEN NI2 
-1.b. , EN~a DA~a# [...] 
-2.a. 1(N01) , MUSZEN EN~a A SZA 
-2.b. , NIN APIN~a BALAG 
-3.a. 1(N01) , GISZIMMAR~b1 GAL~a 
-3.b. , GU4 DU 
-4.a. 1(N01) , NAGA~a ZATU647 
-4.b. , A [...] 
-1. 1(N01) [...] , [...] 
+232647	1. 1(N01) [...] , [...] 
 2. , SAG GI [...] 
 3. 1(N01) , GISZ DUR2? X [...] 
 1. 1(N01) , [...] 
@@ -47151,11 +54263,7 @@ $ (not given)
 1. [...] , KI [...] 
 2. [...] , EN~a# ZI~a# [...] 
 1. [...] , |BU~a+DU6~a| [...] 
-2.a. 1(N01) , ISZ~b ME~a 
-2.b. , SZUBUR BU~a 
-3.a. 1(N01) , EN~c TUR3~b DU SA~a 
-3.b. , ZATU714 ZATU749~b 
-1. [...] , SZUBUR# [...] 
+232659	1. [...] , SZUBUR# [...] 
 2. [...] , KASKAL# [...] 
 3. [...] , |GI&GI|# [...] 
 1. , NANSZE~b#? [...] 
@@ -47166,13 +54274,7 @@ $ (not given)
 1. [...] , BA# X [...] 
 1. [...] , AN X [...] 
 2. [...] , GAN~b#? [...] 
-259815	1.a1. [...] , GAL~a# KISZ BUR~b# 
-1.a2. 6(N01) , UMUN2 X 
-1.b. , IB~a |1(N57).SZUBUR| TUR 
-259819	2.a1. 2(N01) [...] , [...] 
-2.a2. 5(N01) [...] , [...] 
-2.b. , ZATU753 [...] 
-1. [...] , EN~a# GAL~a#? [...] 
+232672	1. [...] , EN~a# GAL~a#? [...] 
 1. [...] , SUKKAL# [...] 
 2. [...] , SUKKAL [...] 
 3. [...] , GAL~a GA~a GAL~a# GA~a [...] 
@@ -47185,10 +54287,7 @@ $ (not given)
 1. [...] , GU7# [...] 
 1. [...] 1(N14) [...] , [...] 
 2. [...] 1(N34) 2(N14) 2(N01) , 
-3.a. [...] 1(N01) , 
-259837	3.b1. 1(N34)# 1(N01) , 
-3.b2. 1(N34) [...] , 
-1. [...] 1(N14)# , [...] 
+232686	1. [...] 1(N14)# , [...] 
 2. [...] 1(N34)# 5(N14) , 1(N24) 
 3. [...] 3(N14) , 1(N26) 
 1. [...] 1(N01) , [...] 
@@ -47233,9 +54332,7 @@ $ (not given)
 3. 3(N01)# , GISZ DARA4~c2 
 4. 2(N14) , TI# 
 1. [...] , NE~a [...] 
-1.a. 1(N01) [...] , UMUN2 
-1.b. , SANGA~a 3(N57) 
-2. [...] , X [...] 
+232732	2. [...] , X [...] 
 1. 1(N01) [...] , SZE~a SZAH2~a# [...] 
 1. [...] , A AMA~a BAN~a X [...] 
 1. 2(N14) [...] , [...] 
@@ -47375,9 +54472,7 @@ $ (not given)
 1. [...] , |GA~a.ZATU753|# GU7# [...] 
 1. [...] , DI [...] 
 1. [...] 1(N14) , EN~a X [...] 
-2.a. 3(N14) , LAGAB~a HI@g~c SA~a ZATU702 UR2 GISZ PAP~a BU~a SZITA~a3 NAM2 
-2.b. 1(N01) , KI NA~a ZATU702 |SILA3~axGA~a| 
-3. 1(N01) [...] , U4 [...] 
+232873	3. 1(N01) [...] , U4 [...] 
 1. [...] 1(N01) , NIM~b1# [...] 
 1. [...] , GI X [...] 
 2. , GU7 
@@ -47394,44 +54489,16 @@ $ (not given)
 1. [...] , MUSZ3~a# TAK4~a ALAN~b# [...] 
 1. [...] , ME~a X TE [...] 
 2. [...] , ME~a X TE [...] 
-3.a. [...] 1(N14)# 3(N01)# , X [...] 
-260047	3.b1. , SANGA~a 
-3.b2. , TE 
-3.b3. , DUG~a 
-3.b4. , GA~a 
-3.b5. , TAK4~a ALAN~b 
-3.b6. , ZATU752 
-3.b7. , GA~c? 
-3.b8. , NE~a 
-3.b9. , SI TAG~b 
-3.b10. , GA2~a2 ZATU718 
-3.b11. , ZATU772 
-3.b12. , UMUN2# [...] 
-1.a. 2(N01) , DIN LAM~b 
-260061	1.b1. 1(N01) , GIR3~c 
-1.b2. 1(N01) , SZE3# MUD NUN~a 
-2. 2(N01) , KIB 
+232892	2. 2(N01) , KIB 
 3. , NUN~a TAK4~a KI 
 1. , AN GA~a MUSZ3~a BAR 
 2. , SZU ZI~a IB~a 
 3. , GUL DU DIN IB~a 
 1. , NIM~b1 DA~a# NESAG2~a 
-1.a. , LAGAB~b# LAGAB~b 7(N57)# EN~a IB~a [...] 
-1.b. , KID~c? PAP~a 
-2.a. , LAGAB~b 7(N57) GAL~a |1(N58).BAD~a| 
-260073	2.b1. , GARA2~a 
-2.b2. , NAM2 
-1.a. , LAGAB~b# LAGAB~b 1(N57) EN~a IB~a 
-1.b. , 1(N57) AMAR? X DU 
-2.a. , LAGAB~b 1(N57) GAL~a |1(N58).BAD~a| X BU~a U2~b [...] 
-260079	2.b1. , 1(N57) GARA2~a 
-2.b2. , 1(N57) MAH~a# 1(N57) KU6~a# 
-1. , [... ...] 
+232902	1. , [... ...] 
 2. , X GARA2~a SZU [...] 
 1. [...] , X [...] 
-2.a. [...] 1(N01) , [...] 
-2.b. 1(N34) , DU 
-3. [...] 3(N14) , DU [...] 
+232906	3. [...] 3(N14) , DU [...] 
 1. 2(N01) , KIB 
 2. 1(N01) , |SILA3~bxNI~a| 
 3. 1(N01) , ZATU718 GU4 
@@ -47439,17 +54506,7 @@ $ (not given)
 5. [...] , KI A [...] 
 1. [...] 2(N01) , [...] 
 2. 1(N14) , NA~a AL# GU#? [...] 
-1.a. [...] , [...] 
-1.b. , X 
-2.a. [...] , X AB2#? [...] 
-2.b. , DU NU BU~a 
-3.a. [...] , X AB2#? [...] 
-3.b. , X SAR~a SZA3~a2 SUKKAL 
-4.a. [...] , [...] 
-4.b. , KI TU~b AN 
-5.a. [...] , [...] 
-5.b. , ALAN~b# [...] 
-1. 1(N01) [...] , X [...] 
+232919	1. 1(N01) [...] , X [...] 
 2. 1(N01) , A# [...] 
 3. 1(N01) , U4 KI [...] 
 4. 1(N01) , SAR~a# [...] 
@@ -47469,16 +54526,7 @@ $ (not given)
 1. [...] , EN~a# [...] 
 2. 2(N01)? [...] , [...] 
 1. [...] 4(N34) 3(N14) 8(N01) , KAK~a# DUR~b 
-1.a. [...] 1(N01) , X [...] 
-1.b. 1(N01) , X |SILA3~axNI~a| 
-1.a. 1(N01) , GAN~b X X DA~a X HI 
-260128	1.b1. 1(N01) , DUG~c 
-1.b2. , |ZATU651xNUN~a| E2~d 
-2.a. 1(N01)# [...] , DUG~c# X [...] 
-2.b. , |ZATU651xNUN~a| E2~a 
-3.a. [...] , [...] 
-3.b. [...] , DUG~c#? [...] 
-1. , DUG~c X UNUG~a [...] 
+232943	1. , DUG~c X UNUG~a [...] 
 1. [...] , GU7# [...] 
 1. [...] , SZU2# [...] 
 2. [...] , [...] 
@@ -47499,59 +54547,15 @@ $ (not given)
 2. 8(N14) 4(N01) , SZE~a# 
 1. , |SZU&SZU|# APIN~a# 
 1. 1(N49) 9(N14) 4(N01) , GISZ? 
-1.a. 8(N01)# , GAR |U4x2(N57)| AB~a 
-1.b. 1(N28) , |U4x1(N57)| SZE~a 
-1.c. 2(N39~a) 1(N24) , |U4.1(N14)| SZE~a 
-260159	1.d1. 1(N01)# [...] , [...] SZE~a 
-1.d2. 4(N14)# , X [...] 
-2.a. 1(N14) , |U4x1(N01)| |LAGAB~axSZITA~a1| PAP~a#? 
-2.b. 1(N24) , |U4x1(N57)| 
-2.c. 1(N04) 1(N01) 1(N41) 1(N39~a) , |U4x(1(N14).2(N01))|# [...] 
-3.a. 1(N01) , X |U4x1(N01)|? GUG2#? 
-3.b. 2(N41) 2(N29A~b) , |U4x(1(N14).2(N01))| 
-4.a. 5(N01)#? , |U4x1(N01)|#? X 
-260168	4.b1. 2(N39~a) 1(N24) , |U4x1(N01)| 
-4.b2. 1(N28)#? , SZE~a# BULUG3#? [...] 
-4.c. 1(N14) 1(N01) 1(N39~a) , |U4x(1(N14).2(N01))| 
-1.a. X? 1(N28)# , |U4x1(N57)|# SZE~a 
-1.b. 2(N01)# 1(N24)# , |U4x1(N01)|# 
-1.c. 4(N14)# 1(N01) 1(N39~a) , |U4x(1(N14).2(N01))|# SZE~a# 
-1.d. [...] 2(N01)#? [...] , SZE~a# TAR~a 1(N30~e) 
-2.a. 1(N41) , |U4x1(N01)| 
-2.b. 2(N04)# 4(N41)# 2(N29~a)# , |U4x(1(N14).2(N01))| 
-2.c. 1(N41) 1(N39~a) 1(N24~b) 1(N29A~b)# 1(N30~a)# [...] , [...] 
-3. 5(N14)# 1(N04) 1(N24) 1(N26) 1(N31)#? , SZE~a# |U4x(1(N14).2(N01))|# 
+232970	3. 5(N14)# 1(N04) 1(N24) 1(N26) 1(N31)#? , SZE~a# |U4x(1(N14).2(N01))|# 
 4. KASZ~b DA~a AN AB~a |GI&GI|#? BAR#? 
 1. [...] 1(N01)# , [...] X X 
-2.a. 6(N01) , PAP~a DUR~b 
-2.b. 2(N01) , 
-260185	3.a1A. 3(N01) , DUR~b 
-3.a1B. 1(N01) , MASZ2 
-3.a2. , NI~a 3(N57) 
-3.b. 6(N01) , GI 
-4. 1(N01) , MASZ2 ZATU628~a DIM~a SAL 
+232975	4. 1(N01) , MASZ2 ZATU628~a DIM~a SAL 
 5. 1(N01) , NUN~b DIM~a 
 6. 1(N01) , NUN~b GAR SAG ZATU694~c 
-7.a. 3(N01) , DUR~b UD5~a 
-7.b. 1(N01) , GI 
-8.a. 2(N01)# [...] , X [...] 
-8.b. 5(N01) , GI 
-9. [...] , [...] 
+232980	9. [...] , [...] 
 1. [...] 6(N01)# , [...] 
-2.a. 3(N01) , SI TE NIM~b2 
-2.b. 1(N01) , 
-3.a. 3(N01) , ZATU843 
-3.b. 3(N01) , 
-4.a. 2(N01) , NA~a GI KU6~a 
-260204	4.b1. 1(N01) , 
-4.b2. 1(N01) , DUR~b 
-260209	1.a1A1. [...] 5(N01)# , [...] UDU~a#? 
-1.a1A2. [...] 7(N01)# , MASZ2 
-1.a1B. 4(N14) 1(N01) , DUR~b 
-260213	1.a2A. [...] , [...] 
-1.a2B. 2(N14) 3(N01) , UDU~a GI 
-1.b. , |LAL2~axNIM~b2|# [...] 
-1. 1(N01) , NAMESZDA# 
+232986	1. 1(N01) , NAMESZDA# 
 1. [N] , [...] 
 1. 1(N01) , NAMESZDA# 
 2. 1(N01) , NAM2 KAB# 
@@ -52731,9 +59735,7 @@ $ (not given)
 3'. [N] , GA~b# 
 1'. 1(N34)# 1(N01)# , [...] 
 2'. 1(N01) , ISZ~b 
-3.a'. 1(N01) , NAR# 
-3.b'. 1(N01) , SZA3~a1 URI 
-4'. 1(N01) , GAR# 
+238167	4'. 1(N01) , GAR# 
 5'. 5(N01)# , [...] 
 1'. [N] , [...] 
 2'. [N] , [...] 
@@ -54305,116 +61307,7 @@ $ (not given)
 1. , EZEN~b MUSZ3~a U4 SIG AN 
 2. , AN AN AN 
 1. 8(N01) , BAR SZAM2 |EZEN~axSU~a| |3(N57).NUNUZ~a1| 
-1.a. 1(N01) , AL 
-1.b. , (MUSZEN TUR BU~a)a 
-2.a. 1(N01) , EN~a TUR 
-2.b. , (BU~a SZA3~a1)a 
-3.a. 2(N01) , |U4x1(N57)| TUR 
-266976	3.b1. , (LUGAL#)a 
-3.b2. , (X MUSZEN 6(N57)? KASZ~c)a 
-4.a. 2(N01) , BULUG3 
-266980	4.b1. , (SZU ZI~a)a 
-4.b2. , (ZI~a SZUBUR PAP~a)a 
-5.a. 1(N01) , U2~b A 
-5.b. , (|GI&GI| PIRIG~b1)a 
-6.a. 1(N01) , SZU 
-6.b. , (DUR2 DUR2)a 
-1.a. 3(N14) 2(N01) , AL 2(N57) MUN~a1 
-266988	1.b01. , (PA~a)a 
-1.b02. , (KASZ~c DA~a)a 
-1.b03. , (SUKUD@g~d NI~a)a 
-1.b04. , (U4 SZU)a 
-1.b05. , (ZATU659)a 
-1.b06. , (BU~a SZE~a SZUBUR)a 
-1.b07. , (EN~a U2~b DU)a 
-1.b08. , (EZINU~a EN~a)a 
-1.b09. , (ZATU659)a 
-1.b10. , (ZATU659)a 
-1.b11. , (SZU SZU)a 
-1.b12. , (BU~a GI)a 
-1.b13. , (SZU2 PAP~a)a 
-1.b14. , (3(N57) SAL)a 
-1.b15. , (3(N57) A)a 
-1.b16. , (BU~a UR~a)a 
-1.b17. , (3(N57))a 
-1.b18. , (DIM~a)a 
-1.b19. , (EN~a |GISZxSZU2~a|)a 
-1.b20. , (SZU SZU)a 
-1.b21. , (EZEN~b EN~a)a 
-1.b22. , (SZU2 SAL)a 
-1.b23. , (EN~a AMAR SZU)a 
-1.b24. , (E2~a BU~a)a 
-1.b25. , (DIM~a)a 
-1.b26. , (PAP~a)a 
-1.b27. , (SZA3~a1 A TAK4~a)a 
-1.b28. , (NAM2)a 
-1.b29. , (BAHAR2~a EN~a)a 
-1.b30. , (EN~a U2~b HI)a 
-1.b31. , (BAHAR2~a 3(N57))a 
-1.b32. , (6(N57) U8#)a 
-2.a. 9(N01) , EN~a TUR 
-267022	2.b1. , (PA~a TUN3~a)a 
-2.b2. , (SAG HI NIN)a 
-2.b3. , (SI BARA3)a 
-2.b4. , (NI~a GIR3~c)a 
-2.b5. , (|BU~a+DU6~a| GUL)a 
-2.b6. , (DIM~a)a 
-2.b7. , (PAP~a SAL DAR~a)a 
-2.b8. , (KID~e NUN~a EN~a)a 
-2.b9. , (|MAH~bxNA~a|)a 
-3.a. 7(N01) , |U4x2(N57)| TUR 
-267033	3.b1. , (SZU2 SAL)a 
-3.b2. , (SZUR2~b)a 
-3.b3. , (TI SU~a EN~a)a 
-3.b4. , (DAR~b E2~a)a 
-3.b5. , (|GISZxSZU2~a| EN~a)a 
-3.b6. , (SI E2~a ME~a)a 
-3.b7. , (3(N57) SAL)a 
-4.a. 2(N01) , |U4x1(N57)| TUR 
-267042	4.b1. , (BU~a GI)a 
-4.b2. , (PAP~a HAL)a 
-5.a. 1(N14) 2(N01) , |U4x3(N57)| TUR 
-267046	5.b01. , (SIG7 MUSZEN)a 
-5.b02. , (EN~a U2~b DU)a 
-5.b03. , (ZATU659)a 
-5.b04. , (GI SZA3~a1)a 
-5.b05. , (|SAGxGESZTU~b| GISZ)a 
-5.b06. , (GU4 SAL EN~a)a 
-5.b07. , (EN~a U2~b AB~a)a 
-5.b08. , (GIR3@g~c EN~a)a 
-5.b09. , (E2~a BU~a)a 
-5.b10. , (3(N57) NUNUZ~c)a 
-5.b11. , (E2~a GIR3~c)a 
-5.b12. , (SI AD~a? AN)a 
-1.a. 1(N14) 1(N01) , AL 
-267060	1.b01. , (SZE~a MUSZEN)a 
-1.b02. , (IN~b EN~a)a 
-1.b03. , (HAL PAP~a)a 
-1.b04. , (TUR3~a 5(N57))a 
-1.b05. , (PAP~a)a 
-1.b06. , (AN TE KI GAL~a)a 
-1.b07. , (ZI~a E2~a)a 
-1.b08. , (ZATU773~a MASZ KUR~a)a 
-1.b09. , (EN~a AN E2~a)a 
-1.b10. , (BU~a SZE~a)a 
-1.b11. , (MUSZ3~a NU11@t)a 
-2.a. 2(N01) , EN~a TUR 
-267073	2.b1. , (BAHAR2~a BU~a)a 
-2.b2. , (BU~a DU)a 
-3.a. 3(N01) , |U4x1(N57)| TUR 
-267077	3.b1. , (GA2~a1 EN~a GU)a 
-3.b2. , (SZU2 BU~a)a 
-3.b3. , (1(N57) A NE~a)a 
-4.a. 3(N01) , |U4x2(N57)| TUR 
-267082	4.b1. , (|GI&GI&GI| EN~a)a 
-4.b2. , (NU |(UDU~axTAR)~a|)a 
-4.b3. , (EN~a SZITA@g~a AB~a)a 
-5.a. 4(N01) , |U4x3(N57)| TUR 
-267087	5.b1. , (3(N57) DUR2 |BU~a+DU6~a|)a 
-5.b2. , (EN~a A)a 
-5.b3. , (GUL SAG)a 
-5.b4. , (ZATU659)a 
-6. , 1(N57) MUN~a1# 
+239755	6. , 1(N57) MUN~a1# 
 1. 4(N14) 3(N01) , AL 
 2. 1(N14) 1(N01) , EN~a TUR 
 3. 5(N01) , |U4x1(N57)| TUR 
@@ -54437,30 +61330,8 @@ $ (not given)
 1. , [...] 
 1. , [...] 
 1. 1(N46) , LAGAB~b#? TE#? BA GISZ3~b# DUB~a SANGA~a# 
-1.a. [...] , [...] 
-1.b. [...] , [...] 
-1.c. [...] , [...] 
-1.d. [...] , [...] 
-2.a. [2(N34)] 2(N14)# , X X 
-2.b. 1(N34) 4(N14) , 1(N57) 
-2.c. 2(N34) 1(N14) , 1(N57)? 
-2.d. 1(N34)# 2(N14)# , 1(N58)# 
-3.a. 2(N34) 1(N14) , AN NU11 
-3.b. 2(N14) , 1(N57) 
-3.c. 2(N34) 1(N14) , 1(N57) 
-3.d. 3(N14) , X 
-4.a. 1(N34) 4(N14) 5(N01) , IR11 
-4.b. 1(N34) , 1(N58) 
-4.c. 1(N34) 1(N14) , 1(N57)# 
-4.d. 1(N34) 2(N14) 5(N01) , 1(N58) 
-5.a. 2(N34)# , ZATU773~a# GIR3~c 
-5.b. 4(N14) , 1(N58) 
-5.c. 3(N14) 4(N01) , 1(N57) 
-5.d. 2(N34)# , 1(N57) X 
-1. , PIRIG~b1# PAP~a 
-1.a. [...] 2(N01) , BAR X 
-1.b. [...] , [...] 
-2. 2(N34) , MUD 
+239783	1. , PIRIG~b1# PAP~a 
+239785	2. 2(N34) , MUD 
 3. 1(N14) , EN~a HI U2~a 
 4. 2(N34) , EN~a PAP~a 
 1'. [...] , [...] 
@@ -54589,11 +61460,7 @@ $ (not given)
 3. BAR URI3~a 
 4. LA2 GA~a 
 5. |DARA3~cxKAR2| 
-6.a. ENDIB 
-6.b. 3(N57) 
-7.a. 3(N57) 
-7.b. GI 
-8. BU~a PAP~a NAM2 
+239916	8. BU~a PAP~a NAM2 
 9. DU A 
 1. MU SZU TUR 
 2. UR~a 
@@ -54601,11 +61468,7 @@ $ (not given)
 4. |1(N57).SZAH2~a| 
 5. NUN~a SZE3 ME~a 
 6. 3(N57) 
-7.a. 3(N57) 
-7.b. UDU~a X 
-8.a. ZATU718 |3(N57).PIRIG~b1| 
-8.b. SANGA~a 2(N57) 
-9. UB 
+239926	9. UB 
 1. 1(N01)# , AN# NU11# 
 2. [1(N01)] , X MU 
 3. 1(N01) , X PAP~a# ME~a# 
@@ -54674,21 +61537,7 @@ $ (not given)
 3. 1(N14) , GA~a X 
 4. 5(N14)# , DA~a GUL 
 5. 2(N14)# , KALAM~g 
-1.a. [...] 5(N14)# , GAN2# 
-267353	1.b1. [...] , [...] 
-1.b2. KU6~a KISAL~b1 
-1.b3. NIM~b2 U4 
-2.a. [...] 4(N14) , [...] GAN2 
-267358	2.b.1. AN GUM~b 
-2.b.2. SI ME~a 
-1.a. [...] , [...] 
-1.b. [...] , X 
-2.a. 9(N14) , HI 
-2.b. GISZ3~b 
-3.a. 2(N50) , [...] 
-3.b. 1(N50) , [...] 
-3.c. 1(N50)# , [...] 
-4. 1(N50) , [...] 
+240000	4. 1(N50) , [...] 
 5. 5(N14)# , [...] 
 6. 1(N50)# , [...] 
 1. [...] , [...] 
@@ -54767,24 +61616,12 @@ $ (not given)
 3. SI KISAL~b1 
 1. 2(N01) , EN~a PAP~a DU SANGA~a X 
 2. SI KISAL~b1 SANGA~a GAL~a 
-1.a. [...] 2(N15) 6(N02) , LAGAB~b SU~c UDU~a 
-267448	1.b1. 1(N14) 4(N01)# , BA 
-1.b2. 4(N01) , ZATU773~a 
-1.b3. 3(N01) , EN~a ASAR 
-1.b4. 4(N01) , NIN 
-1.b5. 1(N01) , BAHAR2~c 
-2. 1(N01) , AN X SZUM 
+240080	2. 1(N01) , AN X SZUM 
 3. 1(N01) , AN SZUM KU3~a 
 4. 1(N01) , GI DA~a PA~a 
 5. 1(N01) , [...] 
 6. [...] , [...] 
-1.a. 3(N15) 2(N02) , UDUNITA~a 
-267460	1.b1. 2(N14) 5(N01) , BA 
-1.b2. 3(N01) , BAHAR2~c 
-1.b3. 1(N01) , ZATU773~a 
-1.b4. 1(N01) , EN~a ASAR 
-1.b5. 2(N01) , NIN GURUSZDA 
-2. 1(N01) , ZATU718 TUR |3(N57).PIRIG~b1| 
+240086	2. 1(N01) , ZATU718 TUR |3(N57).PIRIG~b1| 
 3. 1(N01)# , NIN GURUSZDA 
 4. 1(N01) , [...] 
 5. 3(N01) , SZE3# [UDU~a] 
@@ -54792,18 +61629,9 @@ $ (not given)
 7. 2(N01) , X 
 8. 1(N01) , GI 
 9. UDUNITA~a 
-1.a. 1(N14) , UD5~a 
-267475	1.b1. 8(N01) , BA 
-1.b2. 1(N01) , NIN 
-1.b.3. 1(N01) , GURUSZDA~a 
-2. 1(N01) , ANSZE~f 
+240095	2. 1(N01) , ANSZE~f 
 3. UD5~a 
-4.a. 7(N02) , MASZ2 
-267482	4.b1. 4(N01) , BA 
-4.b2. 1(N01) , NIN 
-4.b3. 1(N01) , ZATU773~a 
-4.b4. 1(N01) , X 
-5. [...] , BULUG3# TUR AN SAG 
+240098	5. [...] , BULUG3# TUR AN SAG 
 6. 1(N01) , URI3~a AN SZUM 
 7. 1(N01) , SZUM NIN 
 8. 1(N01) , GI 
@@ -54811,10 +61639,7 @@ $ (not given)
 1. [...] , GIR3@g~b 
 2. 3(N01) , UNUG~a 
 3. 1(N01) , GIBIL# SZUM UNUG~a 
-4.a. 4(N02)# , GIR3@g~b# 
-267496	4.b1. 3(N01) , BA 
-4.b2. 1(N01) , NIM~b1 HI 
-5. 1(N01) , ANSZE~f 
+240107	5. 1(N01) , ANSZE~f 
 6. SZE3 UDU~a 
 1. [...] 2(N01)# , GI UD5~a 
 2. ZATU773~a , 1(N34) 4(N14) 7(N01)# , [...] 
@@ -54822,10 +61647,7 @@ $ (not given)
 2. 4(N14) 2(N01) , [...] 
 3. [1(N14)] , [...] 
 4. 1(N14) , MASZ2 
-5.a. 1(N14) 1(N01)# , UDU~a 
-267508	5.b1. 5(N01) , UDU~a 
-5.b2. 6(N01) , UDUNITA~a 
-1. UDUNITA~a# , 1(N15) 8(N02) , [...] 
+240116	1. UDUNITA~a# , 1(N15) 8(N02) , [...] 
 2. 3(N01) , ANSZE~f 
 3. [...] 1(N01) , GU7 SZU 
 4. 3(N01) , KU~b1 SAG 
@@ -54855,14 +61677,7 @@ $ (not given)
 1. 2(N01) DA~a PA~a UD5~a 
 2. [...] 2(N14)# , [DA~a?] PA~a# 
 3. BAR 
-1.a. [...] , [...] 
-1.b. [...] , [...] X 
-2.b. 2(N14)# 7(N01)# , X X 
-3.a. 3(N14) 2(N01) , [...] 
-3.b. 1(N14)# [...] , [...] 
-4.a. [...] , [...] 
-4.b. 1(N14)# , [...] 
-1. [...] 3(N01)# , U8 
+240150	1. [...] 3(N01)# , U8 
 2. [...] 1(N14) 1(N01) , SILA4~c BAR 
 3. [...] , MASZ2# 
 1. [...] 6(N01)# , SZE3? UDU~a# 
@@ -54888,10 +61703,7 @@ $ (not given)
 3. 2(N01) , KIR11 
 4. 3(N01) , KUR~a SILA4~c 
 5. |BU~a+DU6~a| SZU |GISZxSZU2~a| 
-1.a. 1(N34) 1(N14) 2(N01) , LAGAB~b SZE3 U8 
-267575	1.b1. 5(N14) 7(N01) , U8 DUB~a 
-1.b2. 1(N14) 5(N01)# , |U4x1(N57)| BAR 
-2. ZATU752 |BU~a+DU6~a| SZU |GISZxSZU2~a| 
+240177	2. ZATU752 |BU~a+DU6~a| SZU |GISZxSZU2~a| 
 1. 5(N14) 1(N01) , DA~a PA~a 
 2. 2(N14) 1(N01) , |BU~a+DU6~a| SZU |GISZxSZU2~a| 
 1. PAP~a SAL 
@@ -54902,15 +61714,11 @@ $ (not given)
 1. [...] 3(N57) UDU~a# NAGAR~a [...] 
 1. 5(N01) , UDUNITA~c ZATU773~a 
 2. 6(N01) , U8 
-3.a. 4(N01) , UDUNITA~c 
-3.b. 1(N01) , U8 
-4. 3(N01) , UD5~a 
+240189	4. 3(N01) , UD5~a 
 5. 3(N01) , MASZ2 
 6. ZATU773~a 
 1. 6(N01) , UDUNITA~c 
-2.a. 2(N01) , U8 
-2.b. 2(N01) , X U8 
-3. 7(N01) , MASZ2 
+240194	3. 7(N01) , MASZ2 
 4. 2(N01) , UD5~a 
 5. DA~a PA~a 
 1. 3(N14) 9(N01) , MU SZU |DU8~cxUDU~a| 
@@ -54946,10 +61754,7 @@ $ (not given)
 1. 2(N34) 9(N01) , LAGAB~b UDU~a 
 1. 5(N01) , BAR UDU~a 
 2. 4(N01) , MASZ2 
-3.a. 1(N34) , BAR UDU~a 
-267634	3.b1. 1(N14) [...] 6(N01) , [...] 
-3.b2. [...] , [...] 
-1. 3(N01) , BAR UDUNITA~a 
+240231	1. 3(N01) , BAR UDUNITA~a 
 2. 3(N01) , BAR MASZ 
 3. [...] , [...] 
 1. 3(N14)# 8(N01)# , [...] 
@@ -54972,16 +61777,7 @@ $ (not given)
 3. 5(N01) , [...] 
 4. 5(N01) , [...] 
 5. 5(N01) , [...] 
-6.a. 2(N01)# , [...] 
-267661	6.b1. [...] , [...] 
-6.b2. [...] , [...] 
-7.a. 2(N01) , X SUG5 
-267665	7.b1. [...] , [...] 
-7.b.2. SUG 
-8.a. 2(N01) , AN [...] 
-267669	8.b1. SAL SUG5 
-8.b2. SAL# X 
-9. 1(N01) , NIN# GU7 
+240257	9. 1(N01) , NIN# GU7 
 10. 1(N01) , GISZIMMAR~a1 AB~a SZUM 
 11. 1(N01) , GISZIMMAR~a1 |BU~a+DU6~a| 
 12. 1(N01)# , |E2~ax1(N57)@t| 
@@ -54998,10 +61794,7 @@ $ (not given)
 3. 4(N01) , UR~b 
 4. 3(N01) , ANSZE~f 
 5. 3(N14) 7(N01) , 1(N57) GU7 
-6.a. 8(N01) 
-267690	6.b1. 1(N01) , UTUA~a 
-6.b2. 7(N01)# , UDU~a 
-1. 1(N01) , U8 
+240275	1. 1(N01) , U8 
 2. 3(N14) 2(N01) , UTUA~a 
 3. 1(N14) 4(N01) , UD5~a 
 4. 1(N34) 3(N14) 9(N01) , MASZ2 
@@ -55014,48 +61807,21 @@ $ (not given)
 2. 2(N01)# , UDUNITA~a 
 3. 2(N01)# , UD5~a 
 4. 5(N01)# , MASZ2 
-5.a. UNUG~a 
-5.b. UR2 AN SZA3~a2 
-1. 1(N01) , [...] 
+240289	1. 1(N01) , [...] 
 2. 3(N01) , NUN~b 
 3. 5(N01) MASZ2 
-4.a. |EZEN~axSU~a| 
-267712	4.b1. SZU SAL PAP~a 
-4.b2. UR2 AN SZA3~a2 
-1. [...] , [...] 
+240293	1. [...] , [...] 
 2. [...] , [...] 
 3. 2(N01)# , [...] 
 4. 2(N01) , UD5~a 
 5. 3(N01) , NUN~b 
 6. [...] , [...] 
 1. 2(N14)# [...] , UDU~a 
-1.a. 2(N14) 1(N01) , [...] SU~a 
-267723	1.b1. 3(N01) , UTUA~a 
-1.b2. 2(N01) , ZATU628~a 
-1.b3. 1(N14) 6(N01) , MASZ 
-2. [...] , [...] 
-1.a. 3(N01) , UDU~a SZE3 
-267729	1.b1. 2(N01) , U8 
-1.b2. 1(N01) , UTUA~a 
-2. 7(N01) , U8 
+240301	2. [...] , [...] 
+240303	2. 7(N01) , U8 
 3. 1(N14) 1(N01) , UTUA~a 
-4.a. [...] , [...] 
-267735	4.b1. 1(N14) , ZATU628~a 
-4.b2. 4(N01) , SU~a 
-5. [2(N02)] , TA~c [SU3] 
-267739	6.a1. [1(N14) 1(N01)] , |U4x1(N57)|# [BAR] 
-6.a2. 6(N01) , MASZ 
-1.a. [...] , SU~a BA 
-267743	1.b1. 5(N01) , UTUA~a 
-1.b2. 9(N01) , U8 
-1.b3. 1(N14) 2(N01) , ZATU628~a 
-1.b4. 2(N14) , SU~a BA 
-1.b5. 2(N02) , TA~c SU3 
-1.b6. 1(N14) 1(N01) , |U4x1(N57)| BAR 
-2.a. 5(N14)# 8(N01) , E2~a 
-2.b. 2(N14) 5(N01) , BA 
-2.c. 3(N14) 3(N01) , GI 
-1. 3(N01)# SZE3 , UDUNITA~a U4 UR~a 
+240306	5. [2(N02)] , TA~c [SU3] 
+240310	1. 3(N01)# SZE3 , UDUNITA~a U4 UR~a 
 2. 1(N01) , SZE3# UDUNITA~a GAL~a NAM2 SZU MU 
 3. 2(N15)# 2(N02) , U8 
 4. 2(N15)# 1(N02) , UDUNITA~a 
@@ -55067,27 +61833,10 @@ $ (not given)
 1. 1(N01) , SZE3 U8 
 2. 1(N01) , UDUNITA~a 
 3. UNUG~a 
-267765	1.a1. 7(N01) , U8 
-1.a2. 1(N14) 3(N01) , UD5~a 
-267768	1.b1. 3(N01) , SILA4~c 
-1.b2. 2(N01) , GAL~a MASZ 
-1.b3. 1(N01)# , MASZ2# 
-2. 1(N34)# , MASZ2 UDU~a 
+240323	2. 1(N34)# , MASZ2 UDU~a 
 1. [...] , UDU~a# [...] MASZ2 
-1.a. 5(N14) 1(N01) , UDU~a EN~a 
-267775	1.b1. 4(N14)# [9(N01)] , EN~a URU~a1 
-1.b2. 1(N01) , EN~a SZU |LAGAB~b.TE| 
-1.b3. 1(N01) , GISZ3~a 
-2.a. [...] 7(N01)# , [...] 
-267780	2.b1. 3(N01) , URU~a1 
-2.b2. 3(N01) , UNUG~a 
-2.b3. 1(N01) , 2(N57) UNUG~a 
-267784	2.c1. 2(N14) 2(N01) , [...] 
-2.c2. 2(N14)# [2(N01)] , [...] 
-1. [...] , UDU~a BAR 
-1.a. [...] , [...] 
-1.b. 4(N14) 4(N01) , [...] BAR [...] 
-1. 3(N01) , SZE~a MAR~b U8 AB~a 
+240327	1. [...] , UDU~a BAR 
+240329	1. 3(N01) , SZE~a MAR~b U8 AB~a 
 1. BAHAR2~b PAP~a 
 1. [...] UD5~a# GA2~a1# X DU 
 2. 1(N01) RU [...] 
@@ -55110,27 +61859,12 @@ $ (not given)
 1. [...] , [...] 
 2. X X 
 3. UNUG~a 
-1.a. 4(N39~a) , SUHUR BA 
-267814	1.b1. 2(N39~a) , NE~a 
-1.b2. 2(N39~a) , KU~b1 SUHUR@t 
-2.a. 4(N39~a) , SUHUR 5(N57) 
-267818	2.b1. 2(N39~a) , NE~a 
-2.b2. 2(N39~a) , KU~b1 SUHUR@t 
-3. 1(N01) , |UKKIN~bxDIN| 
+240354	3. 1(N01) , |UKKIN~bxDIN| 
 4. [...] , [...] 
-1.a. 4(N39~a) , BA SUHUR 
-267824	1.b1. 2(N39~a) , NE~a 
-1.b2. 2(N39~a) , KU~b1 
-2.a. 4(N39~a) , SUHUR 5(N57) 
-267828	2.b1. 2(N39~a) , NE~a 
-2.b2. 2(N39~a) , KU~b1 
-1. 2(N39~a) , SUHUR BA 
+240358	1. 2(N39~a) , SUHUR BA 
 2. 2(N39~a) , SUHUR 5(N57) 
 3. |E2~ax1(N57)@t| 5(N57) 
-1.a. 1(N01) , BA SUHUR PAP~a SAL 
-1.b. 2(N01) , SUHUR 
-1.c. 2(N01) , GU7 
-2. 1(N01) , SAL ZATU676~b 
+240362	2. 1(N01) , SAL ZATU676~b 
 3. 1(N01) , SAL TUR TUR 
 4. 1(N01) , SAL ZATU676~b 
 5. 2(N01) , SAL SAGSZU 
@@ -55138,10 +61872,7 @@ $ (not given)
 2. |E2~ax1(N57)@t| 
 1. [...] , [...] 
 2. 2(N14) 5(N01) , UD5~a BAR 
-3.a. 2(N14) 2(N01) , SIG2~b MASZ BAR 
-267846	3.b1. 1(N14) 3(N01) , SIG2~b 
-3.b2. 9(N01) 
-4. ZATU773~a 
+240371	4. ZATU773~a 
 1. [...] , [...] 
 2. 3(N14) [...] 1(N01) , MASZ2 SIG2~b 
 3. 2(N14) , MASZ BAR SIG2~b 
@@ -55150,45 +61881,18 @@ $ (not given)
 1. 5(N14) 2(N01) , DARA4~c2 UDU~a 
 2. 2(N14) 5(N01) , UDU~a MASZ2 
 3. 8(N01) , X SZE3# UDU~a 
-4.a. 2(N14) 1(N01) , UDU~a MASZ BAR 
-267859	4.b1. 1(N14) 3(N01) , UDU~a 
-4.b2. 8(N01) , MASZ 
-5. [...] , RU# [...] 
+240381	5. [...] , RU# [...] 
 1. 2(N14) 7(N01) , DARA4~c2 MASZ 
 2. 5(N14) 2(N01) , MASZ2 TUR# 
 3. 3(N01) , SZE3# UDU~a 
 4. 1(N14) 8(N01) , UDU~a# MASZ BAR 
 5. DA~a# [PA~a] 
-1.a. [...] [...] , GISZ SU~a 
-267869	1.b1. 2(N14)# 2(N01)# , [...] 
-1.b2. 1(N14) X , NI2# 
-1.b3. ... 
-267873	1.c1. [...] , ZATU773~a 
-1.c2. [...] , EN~a# 
-1.c3. [...] 2(N14)# [...] 4(N01) , X 
-1.c4. 9(N01)# , [...] 
-2.a. 3(N34) 8(N01) , ZATU847 UR2 SA~c 
-267879	2.b1. 1(N34) 3(N14) 4(N01) , ZATU847 SA~c SAL 
-2.b2. 1(N34) 3(N14) 4(N01) 
-267883	2.c1a. 1(N14) 8(N01) , A A 
-2.c1b. 6(N01) , NI2 
-267886	2.c2a. 1(N14) 8(N01) , A A 
-2.c2b. 6(N01) , NI2 
-267889	2.d1. 5(N01) , KA~a 
-2.d2. 1(N34) 6(N01) , BA 
-267892	2.e1. 1(N34) , BA 
-1. 5(N34) 2(N14) 7(N01) , ZATU788 AN NUNUZ~a1 
+240389	1. 5(N34) 2(N14) 7(N01) , ZATU788 AN NUNUZ~a1 
 2. 2(N14) , TUR3~a ME~a 
 3. , IB~c BA DARA4~c2 
 1. 5(N34) 4(N14) 7(N01) , BA [DARA4~c2] 
-1.a. 5(N34) 2(N14) 3(N01) , EN~a 1(N04) 
-267899	1.b1. 1(N34) 5(N14)# [7(N01)] , IB~c 
-1.b2. 3(N34) 2(N14) 6(N01) , BA 
-2. 1(N34) 1(N14) 9(N01) , DA~a PA~a 
-1.a. 6(N34) 4(N14) 2(N01) , LAGAB~b DARA4~c2 UDU~a 
-267904	1.b1. 5(N14) 6(N01) , UDU~a IB~c 
-1.b2. 5(N34) 4(N14) 6(N01) , BA DARA4~c2 [...] 
-1. [...] , AN# ZATU788# SAL NUNUZ~a1 
+240394	2. 1(N34) 1(N14) 9(N01) , DA~a PA~a 
+240396	1. [...] , AN# ZATU788# SAL NUNUZ~a1 
 2. 2(N34)# 3(N14)# , SAL# TUR3~a ME~a 
 3. 1(N34) , DUB~d 
 4. 1(N14) , LA2 SUG5 
@@ -55199,10 +61903,7 @@ $ (not given)
 1. [...] , [...] 
 1. [...] , [...] 
 1. [...] 1(N14)# [...] 
-1.a. 1(N14) 3(N01) , SIG BA 
-267919	1.b1. 9(N01) , HAL 
-1.b2. 4(N01) , TAR~a NIMGIR 
-2. 9(N01) , GI 
+240408	2. 9(N01) , GI 
 3. [...] , NE~a# 
 1. 4(N01)# 2(N39~a) , SZE~a DU AN AB~a 
 2. U4 GIBIL [...] 
@@ -55226,55 +61927,11 @@ $ (not given)
 1. 6(N14) 4(N01)# 1(N39~a)# 1(N24)# , SZE~a GIBIL 
 1. 5(N01)# , SZE~a 
 2. DU ZATU694~c 
-1.a. [3(N01)] , UR5~a# [SZU] 
-1.b. 1(N39~a) 1(N24) , TAR~a 
-2.a. 5(N01) , UR5~a SZU 
-2.b. 2(N39~a) 1(N24)# , TAR~a 
-3.a. [...] 2(N01) , UR5~a [SZU] 
-3.b. [...] , [...] 
-1. 1(N14) , SANGA~a TUR3~a [...] 
+240435	1. 1(N14) , SANGA~a TUR3~a [...] 
 2. 2(N01) , MUD3~a NIM~b1 
 3. 2(N14) , [...] 
-1.a. 2(N01)# , SZE~a# 3(N57) PAP~a 
-1.b. 2(N39~a) , TAR~a 
-2.a. 2(N01)# , U2~a 1(N02) 
-2.b. 2(N39~a) , TAR~a 
-3.a. 2(N01) , BU~a DU 
-3.b. 2(N39~a) , TAR~a 
-4.a. 2(N01) , KU6~a KISAL~b1 
-4.b. 2(N39~a)# , [TAR~a] 
-5.a. 2(N01) , E2~a DAR~b 
-5.b. 2(N39~a)# , TAR~a 
-6.a. 2(N01) , SI ME~a 
-6.b. 2(N39~a) , TAR~a 
-7.a. 2(N01) , BU~a PAP~a NAM2 
-7.b. 2(N39~a)# , TAR~a 
-1.a. 1(N01) , [...] 
-1.b. [1(N24)] , [TAR~a] 
-2.a. 1(N01) , [...] 
-2.b. [1(N24)] , [TAR~a] 
-3.a. 1(N01) , [...] 
-3.b. [1(N24)] , [TAR~a] 
-4.a. [1(N01)] , [...] 
-4.b. [1(N24)] , [TAR~a] 
-5.a. [1(N01)] , [...] 
-5.b. [1(N24)] , [TAR~a] 
-6.a. 1(N01) , NIN DU 
-6.b. [1(N24)] , TAR~a 
-7.a. 1(N01) , KU6~a KIB@g 
-7.b. 1(N24) , TAR~a 
-8.a. 1(N01) , TAK4~a# SAG 
-8.b. 1(N24) , TAR~a 
-9.a. 1(N01)# , [...] A 
-9.b. 1(N24)# , TAR~a 
-10.a. [1(N01)] , [...] 
-10.b. [1(N24) , TAR~a] 
-1.a. [...] , [...] 
-1.b. 1(N24)# , TAR~a 
-2. 1(N01)# , SAL UB ZI~a 
-3.a. 2(N01)# , NIN 1(N57) 
-3.b. 2(N39~a) , TAR~a 
-4. 1(N24) , NA~a MUD BU~a 
+240456	2. 1(N01)# , SAL UB ZI~a 
+240458	4. 1(N24) , NA~a MUD BU~a 
 5. 1(N24) 1(N28) , ZATU714 MU HI@g~a 
 6. 1(N26) , DI@t 
 1. 1(N14) , SAL ME~a# TUR3~a 
@@ -55293,38 +61950,17 @@ $ (not given)
 1. 7(N14)# 5(N01)# , SZE~a 
 2. 7(N19)# 4(N04)# 3(N41)# 
 1. [1(N45)? 5(N14)? 3(N01)?] 3(N41)# , SZE~a [...] 
-1.a. [...] , X 
-1.b. SZE~a 
-2. 2(N04) 
+240478	2. 2(N04) 
 3. GU7# BULUG3 SAG 
 1. [...] SANGA~a# GAL~a SANGA~a 
 1. [...] , [...] 
-1.a. 2(N45) 3(N14) , SZE~a KU6~a KISAL~b1 
-1.b. 1(N46) , [...] 
-2.a. 2(N45) 7(N14)# , SZE~a# SAG 
-2.b. 4(N14)# [...] 2(N01)# , [...] SZE~a 
-3.a. 1(N45) 3(N14) 3(N01)# , SZE~a SI ME~a 
-3.b. 2(N14) , SZE~a 
-4.a. 2(N45) 8(N14) 2(N01) , PA~a SZE~a 
-268026	4.b1. 5(N01) GI6 , |HIx1(N57)| 
-4.b2. 1(N14) , SZE~a 
-5.a. 5(N14) , EN~a PA~a ZATU694~e 
-5.b. 1(N46) , 
-1. 2(N34) 2(N36) 6(N14) 3(N19) 2(N01) , GIBIL SZE~a SZAM2 |U4x2(N57)| NAM2 
+240487	1. 2(N34) 2(N36) 6(N14) 3(N19) 2(N01) , GIBIL SZE~a SZAM2 |U4x2(N57)| NAM2 
 1. 3(N34) 1(N14) 5(N01)# , SZE~a 
 2. 2(N46) 2(N19) , 
 3. 3(N14)# [...] , 
 4. 3(N19) [...] 3(N04)# , 
-1.a. 1(N14) 2(N01)# , SZE~a# UDU~a 
-1.b. 3(N04)# , 
-2.a. 2(N14)# 1(N01)# , NIN 
-2.b. 1(N19) , 
-3.a. [...] X 
-3.b. 1(N19) , 
-4. 1(N01)# 2(N39~a)# 1(N24)# , GI 
-5.a. [...] , HI 
-5.b. 1(N04) , 
-1. [...] , EN~a# DUR2# ZATU751~a# SZU [...] 
+240495	4. 1(N01)# 2(N39~a)# 1(N24)# , GI 
+240497	1. [...] , EN~a# DUR2# ZATU751~a# SZU [...] 
 2. 5(N14) 2(N19) 5(N01) 2(N39~a) 1(N24) , SZE~a 2(N57) SZU EN~a EN~a DUR2 ZATU751~a PA~a 
 1. 5(N14) 1(N01) 2(N39~a) 1(N24) , SZE~a 
 2. 2(N19) 4(N04) 
@@ -55360,10 +61996,7 @@ $ (not given)
 2. 1(N45) , [...] 
 1. 2(N14) , [...] 
 1. [...] 2(N34) , [...] SZE~a DUB~a# [...] 
-1.a. 1(N45) 3(N14) 3(N01) 3(N39~a) 1(N24) , SZE~a UR5~a 
-1.b. 2(N14) 4(N01) 2(N39~a) 2(N57) , GAR [...] 
-1.c. [...] , [...] 
-2. 1(N01) 1(N39~a) , [...] 
+240534	2. 1(N01) 1(N39~a) , [...] 
 3. [...] , [...] 
 1. [...] , [...] 
 1. 3(N01) 2(N59) , GAL~a ME~a SZESZ~a 
@@ -55376,17 +62009,12 @@ $ (not given)
 1. [...] , [...] 
 1. 2(N14) 2(N01) , SI4~f# SZE~a 
 2. SI4~f# SZE~a# 
-1.a. [1(N14)] 7(N01)# , SZE~a 
-268098	1.b1. 1(N14) , SZE~a EN~a 
-1.b2. 7(N01) , SZE~a E2~a BA 
-2. 6(N01) , GU4 
+240548	2. 6(N01) , GU4 
 3. [...] , SI 
 4. [...] , SZUM 
 5. URUDU~c# X ZATU777 
 1. 5(N14) , SZE~a AN KID~b BA TAK4~a ERIM~a# GISZ NIM~a EN~a HI SZITA@g~a DU KU3~a IB~a# SUHUR 
-2.a. 2(N14) , SZE~a BA 
-2.b. 3(N14) , SZE~a GI 
-1. [...] , SZE~a |U4.2(N08)| BULUG3 GU7 
+240554	1. [...] , SZE~a |U4.2(N08)| BULUG3 GU7 
 1. , KASZ~b# X 
 1. 2(N14) , SZE~a AN NUNUZ~a1 ZATU788 
 2. 3(N01) , SZE~a TA~c UNUG~a HI 
@@ -55411,56 +62039,17 @@ $ (not given)
 1. , SANGA~a SANGA~a GAL~a 
 2. , EN~a KI GI 
 1. [...] , [...] 
-1.a. [...] , [...] 
-268134	1.b1. 4(N14)# 2(N01) , SZE~a 
-1.b2. 2(N19)# 4(N04) 2(N41) 
-2.a. [...] , SANGA~a SANGA~a GAL~a# E2~a 
-2.b. ZATU659 
-1.a. 2(N14) 5(N01) , [SZE~a?] 
-1.b. 2(N01)# [2(N39~a) 1(N24)] X , TAR~a 
-2.a. [...] 2(N14)# , UR5~a 
-2.b. 1(N14)# , [...] 
-3.a. [...] , HI 
-3.b. [...] , [...] 
-4.a. 3(N14)# , SZE~a 
-4.b. [...] , [...] 
-5.a. 1(N14)# 3(N39~a)# , HI 
-5.b. [...] , [...] 
-6. [...] , MASZ2 [...] 
-7.a. 5(N19)# 2(N04)# 2(N41)# , UR5~a 
-7.b. 3(N04) 1(N41)# [1(N29~b)] , [TAR~a] 
-8. [...] , DU6~a KASZ~b 
+240586	6. [...] , MASZ2 [...] 
+240588	8. [...] , DU6~a KASZ~b 
 1. 1(N45) 5(N14) 3(N01) 3(N39~a) 1(N24) 1(N29~a) 1(N30~c) , SZE~a 
 2. 7(N19) 5(N04) 1(N29~b) 
 3. GU7 
-1.a. [...] , EN~a# [...] 
-1.b. [...] , [...] 
-2.a. [...] , [...] 
-2.b. [...] , [...] 
-3.a. [...] 1(N01)# , [...] 
-3.b. [...] , [...] 
-4.a. 2(N01) , [...] 
-4.b. 2(N01) , [...] 
-5.a. [...] , GAL~a ME~a 
-5.b. 1(N01) , [...] 
-6. [...] , [...] 
-1.a. [...] , [...] 
-1.b. 1(N01) , [...] 
-2'.a. 1(N38) 
-2'.b. [...] , [...] 
-3. [...] , KU3~a A 
-1.a. 1(N14) 2(N04) , SZE~a 
-268173	1.b1. 1(N14) , SZE~a 
-1.b2. 2(N04) 
-2. 2(N01) , UDU~a 
-3.a. 1(N38) 
-3.b. 2(N39~a) , HI@g~a KISAL~c 
-4. 2(N01) , ALAN~a 
+240597	6. [...] , [...] 
+240600	3. [...] , KU3~a A 
+240602	2. 2(N01) , UDU~a 
+240604	4. 2(N01) , ALAN~a 
 5. 2(N01) , ANSZE~a BARA2~a 
-1.a. 2(N01) , EN~a PA~a 
-268182	1.b1. SZU GI SANGA~e 
-1.b2. EN~a DU U2~b 
-2. GI BU~a KU3~a A PA~a 
+240607	2. GI BU~a KU3~a A PA~a 
 3. RU A LAL2~a 
 1. 1(N01) , [X] NE~a 
 2. 2(N42~a) 1(N25) , TUR3~a ME~a 
@@ -55487,24 +62076,10 @@ $ (not given)
 1. [...] , [...] 
 2. [...] , [...] 
 3. [...] , NAGAR~a DU KI BU~a EN~a SAG 
-4.a. 4(N14) , U4 APIN~a ARARMA2~a 
-4.b. 6(N19) 3(N04) 
-5. 3(N19) , U4 EN~a BU~a ARARMA2~a 
+240635	5. 3(N19) , U4 EN~a BU~a ARARMA2~a 
 6. 5(N19) , U4 SAL ZI~a 
 7. , U4 GIBIL AB~a# X 
-1.a. 1(N48) 3(N49) 4(N14) 5(N01) , NAGA~a APIN~a EN~a 
-268218	1.b1. 9(N34) 1(N45) 4(N14) , SZE~a 
-1.b2. 3(N49) 1(N46) 2(N19) 3(N04) 
-1.b3. 8(N19) , |LAGAB~b.TE| 
-2.a. 1(N49) 2(N14) 5(N01) , SZE~a UNUG~a TAR~a 
-268223	2.b1. 1(N45) 9(N14) , SZE~a 
-2.b2. 9(N36) 3(N19) 5(N04) , 
-2.b3. 1(N46) , [|LAGAB~b.TE|] 
-1.a. 1(N48) 4(N49) 7(N14) 4(N01) , SZE~a GIBIL U4 NAR NAGA~a 
-268228	1.b1. 1(N48) 3(N14) 2(N01) , SZE~a 
-1.b2. 3(N49) 9(N36) 1(N46) 6(N19) 2(N04) 
-1.b3. 1(N46) 8(N19) , |LAGAB~b.TE| 
-1. 4(N01) , SZE~a |U4x2(N57)| 
+240641	1. 4(N01) , SZE~a |U4x2(N57)| 
 2. 1(N14) , SZE~a RU 
 3. 1(N14) , SZE~a 
 4. 2(N14) , SZE~a NUMUN BU~a 
@@ -55515,39 +62090,19 @@ $ (not given)
 2. 3(N14) , ZATU773~a GIR3@g~b 
 3. 2(N14) , DU 
 4. 1(N14) 4(N01) , TUR GISZ3~b 
-5.a. 6(N14) , KU3~a PA~a 
-5.b. 4(N04) 
-6.a. 2(N14) , DU GI6 
-6.b. 2(N04) 
-1. 4(N14) , |URU~a1xKI| EN~a 
+240654	1. 4(N14) , |URU~a1xKI| EN~a 
 2. 3(N14) 2(N01) , PAP~a BU~a [NAM2] SZE~a 
 1. [...] , X SAR~a# NIR~b URU~a1 
-1.a. 8(N14)# 4(N01) , SZE~a EN~a |NINDA2xGISZ| TI~a 
-1.b. 1(N14) 2(N01) , 3(N57) E2~a BAR 
-2.a. 5(N14) , SZE~a PAP~a 3(N57) 
-2.b. SZAGAN U4 
-3.a. [...] N , SZE~a SZE3 PAP~a 1(N19) 
-3.b. 3(N19) 
-4. 5(N14)# , SZE~a BU~a PAP~a NAM2 
-5.a. 4(N14)# [...] , [...] 
-5.b. 5(N14)# 3(N01) , SZE~a 3(N57)# E2~a# BAR 
-5.c. 3(N19) , DI? GAL~a 
-1.a. 1(N45) 6(N14) 1(N01) , SZE~a 
-268261	1.b1. 3(N57) E2~a 
-1.b2. |SZE~a+NAM2| A 
-2. DU SZE3 NI~a BU~a 
+240660	4. 5(N14)# , SZE~a BU~a PAP~a NAM2 
+240663	2. DU SZE3 NI~a BU~a 
 3. NAGAR~a ZI~a# SANGA~a# 
 1. 1(N34) 1(N45) 5(N14) 4(N01) , SZE~a 
 2. 6(N19) , 
 3. DU SZE3 NI~a BU~a 
 4. NAGAR~a SANGA~a# ZI~a 
 1. [...] , [...] 
-1.a. [...] , SANGA~a SAL ZATU751~a 
-1.b. [...] 2(N04) 
-2. 7(N14) , SZE~a GU7 
-3.a. [...] 1(N14) , X [...] 
-3.b. , X 
-1. [...] , [...] 
+240671	2. 7(N14) , SZE~a GU7 
+240673	1. [...] , [...] 
 2. [...] 4(N14) , [...] 
 3. [...] 5(N14) , [...] 
 4. [...] 2(N14) , [...] 
@@ -55567,9 +62122,7 @@ $ (not given)
 3. [...] 3(N01)# , [...] 
 4. 2(N14) [...] , [...] 
 5. 4(N14) 1(N01) DU# , [...] 
-6.a. 2(N14) , [...] 
-6.b. 6(N19) , 
-1. [...] , X SAR~a 
+240694	1. [...] , X SAR~a 
 2. X , [...] 
 1. 2(N34)# 1(N36) 2(N45) 6(N14) , SZE~a# [...] GUG2 
 1. 3(N34) 1(N45) , SZE~a 
@@ -55584,9 +62137,7 @@ $ (not given)
 1. [...] 7(N19) , UB ZI~a 
 1. [...] GU7 
 2. 1(N19) 4(N04) , BA KI 
-1.a. 1(N46) 5(N19)# 3(N04)# 1(N41) , UR5~a 
-1.b. 1(N19)# 3(N04)# 1(N41) 1(N24) , TAR~a 
-2. 3(N04) , SAL TUR3~a 
+240710	2. 3(N04) , SAL TUR3~a 
 3. 1(N19) , SAL ZATU788 AN NUNUZ~a1 
 4. 3(N19) , |U4x(1(N14).1(N01))|#? KASZ~b AB~a 
 5. 1(N04) , |1(N57).SZUBUR|# TUR3~a ME~a 
@@ -55615,28 +62166,16 @@ $ (not given)
 9. 1(N14) , DU BU~a 
 10. 1(N19) , TUR3~a# ME~a 
 1. 1(N36) 1(N46) 8(N19) 5(N04) 3(N41) , GU7 
-1.a. [2(N41) 1(N28~b)] , [...] 
-1.b. 1(N24~b)# , [TAR~a] 
-2.a. 4(N41) 1(N24~b) , [...] 
-2.b. 1(N24~b) 2(N29~b) , TAR~a 
-3.a. [1(N41)] , [...] 
-3.b. 1(N29~b) , [TAR~a] 
-1. [...] , [...] 
+240742	1. [...] , [...] 
 2. SZAM2 GU7# 
 1. 1(N04) 4(N41) 1(N29~b) 1(N30~c) , GU7 
 2. KAB BU~a [...] 
 1. [...] , [...] 
-2.a. [...] , UNUG~a 
-2.b. 5(N19) 
-3. [...] 2(N14) , TA~c SAL HI 
-4.a. [...] , [...] 
-4.b. 2(N04) 2(N41) 
-1. [...] 3(N19) , PAP~a# UNUG~a 
+240748	3. [...] 2(N14) , TA~c SAL HI 
+240750	1. [...] 3(N19) , PAP~a# UNUG~a 
 2. 1(N04) 1(N41) , UKKIN~a NA~a KU6~a 
 3. 2(N41) , TA~c SAL HI 
-4.a. 2(N19) 4(N04) 2(N41) , UR5~a 
-4.b. 2(N04) 2(N41) 
-1. [...] , [...] 
+240754	1. [...] , [...] 
 1. [...] 6(N19) , EN~a [...] 
 2. 1(N04)# , [...] 
 3. 1(N46)# 5(N04) , PAP~a PIRIG~b1 
@@ -55649,13 +62188,7 @@ $ (not given)
 6. [...] , [...] 
 1. 1(N46) , [...] SZU 
 2. SZU# SZU# GI BA 
-1.a. [...] 1(N01)# 1(N30~c)# , NAGA~a 
-1.b. 1(N01)# , [...] 
-2.a. [...] , [...] 
-2.b. 1(N01)# [...] , SZE~a# AB~a# 
-3.a. [...] , [...] 
-3.b. [...] , [...] 
-1. [...] , X GA~a# X APIN~a# SZU# SZU# 
+240770	1. [...] , X GA~a# X APIN~a# SZU# SZU# 
 1. 5(N19)# , SZE~a# EN~a E2~a 
 2. 3(N14)# 4(N01)# 
 3. 1(N19)# , [...] 
@@ -55668,20 +62201,11 @@ $ (not given)
 1. [...] , [...] 
 1. [...] , [...] 
 2. 1(N46) 6(N19) , BA E2~a 
-1.a. [1(N19)] 2(N04) , TUR3~a UR5~a SANGA~a GI4~a 
-268398	1.b1. 3(N01) 1(N24)# , HI# 
-1.b2. 3(N39~a) , GUG2 
-2. 1(N19) , URU~a1 NIN 
-3.a. 1(N19) , KASZ~c 
-3.b. , KINGAL 
-3.c. , |DU8~cxAB2| GU7 
-4. 2(N14) 3(N01) , SZE~a 
+240784	2. 1(N19) , URU~a1 NIN 
+240786	4. 2(N14) 3(N01) , SZE~a 
 5. , GU7 MAR~a 
 1. 2(N14) 4(N01) 3(N19) 1(N04) , SZE~a GU7 
-2.a. , |U4x3(N57)| 
-2.b. , NIN 
-2.c. , UNUG~a 
-3. , GAL~b EZEN~c 
+240790	3. , GAL~b EZEN~c 
 1. 4(N14)# 2(N01) 3(N39~a) 1(N24) 1(N30~c) , SZE~a 
 2. [...] 1(N04) 1(N41) 
 3. [...] , [...] 
@@ -55694,14 +62218,7 @@ $ (not given)
 3'. 2(N14) , SZE~a 
 4'. 1(N18) 1(N03) , 
 5'. 1(N14) 1(N01) , X HI@g~a 
-1.a. [...] 1(N34) , [...] 1(N24)# 
-1.b. [...] , HI@g~a 
-2.a. 2(N51) , DU8@c 1(N16) 
-2.b. 2(N01) 2(N39~a) , HI@g~a 
-1.a. 4(N20) 4(N05) 4(N42~a) 1(N25) , HAL#? DUG~a GAR 
-268429	1.b1. 1(N20) 4(N05) 4(N42~a) 1(N25) , HI@g~a 
-1.b2. 3(N14) , SZE~a 
-2. [...] , [...] 
+240806	2. [...] , [...] 
 3. , [...] 
 1. 1(N05) , MUSZEN BA U2~b 
 2. 2(N42~a) 1(N24) , X BAR 
@@ -55712,9 +62229,7 @@ $ (not given)
 7. 1(N42~a)# , KI# A 
 8. 1(N42~a)# , KU~b1 KASZ~a 
 1. 1(N42~a) , TUM~c 
-2.a. 1(N42~a) , X 
-2.b. NI~a BA 
-3. 1(N42~a) , [...] 
+240818	3. 1(N42~a) , [...] 
 4. [...] , NIN E2~a 
 5. 1(N42~a) , X KI 
 6. 1(N25) , BU~a PAP~a NAM2# GI 
@@ -55723,30 +62238,8 @@ $ (not given)
 1. 1(N25)# , TUM~c 
 2. 1(N25)# , |URU~a1xX|# UDU~a# , SAL 
 3. 1(N25)# , [...] 
-268454	4.a1. 1(N42~a) , UD5~a 
-4.a2. 1(N42~a) , U8 
-4.a3. [...] , [...] BU~a 
-4.a4. 1(N25) , 1(N57) NUNUZ~c 
-268459	4.b1. 2(N42~a)# , TE 
-4.b2. [...] , X 
-1.a. 1(N20) , HI@g~a 
-268463	1.b1. 5(N05) 3(N42~a) , BA 
-1.b2. 2(N42~a) , GI 
-1.a. 2(N05) 3(N42~a) , HI@g~a |(U4+1(N14)).3(N08)| 
-268467	1.b1. 1(N05) 2(N42~a) , BA# U4 GAR 
-268469	1.b2a. 2(N42~a) , BA KU~b2 SZIM~a# 
-1.b2b. 4(N42~a)# , |U4x1(N57)| 
-2.a. 4(N05) 2(N42~a) 1(N25) , SZE~a 2(N57) 
-2.b. 1(N05) , BA 
-2.c. 2(N42~a) 1(N28~c) , TAR~a 
-3. |(U4+1(N14)).3(N08)| 
-1.a. 4(N01) 2(N39~a) , SZE~a |(U4+1(N14)).1(N08)| 
-1.b. 2(N39~a) 1(N29~a) 
-1.a. 3(N14)# 2(N39~a)# 1(N24)# , SZE~a |U4x1(N01)| 
-1.b. 3(N39~a) , TAR~a 1(N30~c) 
-2.a. 1(N20) 3(N05) , HI@g~a 
-2.b. 1(N42~a) 1(N25) , TAR~a 
-1. 1(N14) , SZE~a# GAR# |GISZxSZU2~a| 
+240831	3. |(U4+1(N14)).3(N08)| 
+240835	1. 1(N14) , SZE~a# GAR# |GISZxSZU2~a| 
 2. 1(N14) , SZE~a GAR IM~a 
 3. 1(N14) , SZE~a GAR NAGA~a 
 4. 1(N14) , SZE~a GAR [...] 
@@ -55758,42 +62251,16 @@ $ (not given)
 4. 1(N04) , GISZ3~b PA~a KU3~a 
 5. 1(N19) 
 1. [...] , [...] 
-1.a. 3(N05)# 4(N42~a) [...] , [...] 
-1.b. [4(N01)] 3(N39~a) , SZE~a 
-2. 1(N01) 1(N39~a) 1(N24) , LAGAB~b SZE~a 
+240848	2. 1(N01) 1(N39~a) 1(N24) , LAGAB~b SZE~a 
 3. 1(N19)# 1(N04)# , [...] 
 1. 1(N19) 1(N04) 1(N14)# 3(N01)# 3(N39~a) 1(N24) , SZE~a# GU7 
-1.a. [...] , [...] 
-1.b. 1(N01) , SZU2 
-2.a. 3(N14) , GAR 
-268502	2.b1. 1(N14) , U4 
-2.b2. 1(N14) , SZE~a 
-2.b3. 1(N14) , TUR# 
-3. 5(N01) , SZEN~b 
+240853	3. 5(N01) , SZEN~b 
 4. [...] , [...] 
 1. 2(N18) 4(N03) 1(N30~c) 
 2. 1(N39~a) 1(N24) 1(N28) , |HIx1(N57)| GU~a 
 3. [...] , [...] 
-1.a. 2(N51) 1(N34) GAR# 3(N57) , SZU 
-1.b. 2(N05) , HI@g~a 
-2.a. 1(N51) 1(N30~c) , GAR 
-2.b. 2(N05) 2(N42~a) , HI@g~a 
-3. [...] , [...] 
-1.a. 2(N01) , U4 SZEN~c@t 
-268517	1.b1. 1(N05) , HI@g~a 
-1.b2. 1(N18) 
-2.a. 2(N01) , SZE~a DUG~a 
-268521	2.b1. 1(N30~c) , SZE~a 
-2.b2. 1(N18) 1(N03) 1(N40) 
-3.a. [...] , [...] 
-3.b. 2(N05) [...] 
-1.a. [...] , [...] 
-1.b. [...] 1(N42~a) 1(N25) , HI@g~a 
-1.c. 2(N20)# , [...] 
-2.a. 7(N20) 3(N42~a) , HI@g~a SZE~a 
-268530	2.b1. 5(N20) 3(N05) 3(N42~a) 1(N25) , HI@g~a SZE~a 
-2.b2. 1(N20) 3(N05) 4(N42~a) 1(N25) , BA KI SZE~a 
-1. [...] , [...] 
+240860	3. [...] , [...] 
+240866	1. [...] , [...] 
 1'. [...] , [...] 
 2'. 1(N01) , [...] 
 3'. ZATU714# SZA3~a1# MU [...] 
@@ -55817,22 +62284,9 @@ $ (not given)
 1. 1(N01) , AN E2~a 
 2. 1(N01) , TAK4~a KI 
 3. DUG~a 
-1.a. 3(N51) , SZE~a GAR 1(N30~b)# 
-1.b. 1(N20) 3(N05) 
-2.a. 2(N51)# [1(N14)] 1(N30~c) , SZE~a GAR 
-2.b. 5(N05) 
-1. [...] , [...] 
-1.a. 4(N14)# , |4(N57).GAR| UB ZI~a URU~a1
-1.b. 1(N05) , SZE~a 
-1.c. 1(N25) , TAR~a 
-2. 3(N42~a) , ME~a? [...] SAG 
-3.a. 2(N14) , |3(N57).GAR| MUSZEN GU~a
-3.b. 1(N25) 
-4.a. 1(N14)# , |4(N57).GAR|#? [...]
-4.b. 3(N42~a) 
-1.a. 2(N14) [...] , GAL~a MUSZEN 
-1.b. [...] 2(N39~a) 
-2. 1(N25) , PAP~a BU~a NAM2 
+240892	1. [...] , [...] 
+240894	2. 3(N42~a) , ME~a? [...] SAG 
+240898	2. 1(N25) , PAP~a BU~a NAM2 
 3. 2(N42~a) , EN~a DU GA2~a1 
 4. 2(N42~a) , AN# ZATU788# NUNUZ~c 
 5. 1(N01) , EN~a# [...] 
@@ -55847,55 +62301,13 @@ $ (not given)
 6. 1(N39~a) , EN~a# SZU# X 
 7. 1(N39~a) , [...] 
 8. [...] , HI@g~a# 
-1.a. 2(N14)# 3(N01) 2(N39~a) , HI@g~a SZE~a 
-268588	1.b1. 4(N01)# 4(N39~a)# , HI@g~a 
-1.b2. 1(N14) 4(N01) 3(N39~a) , SZE~a 
-2. GU7 KU6~a KISAL~b1 
-1.a. 2(N20) 1(N05) 1(N42~a) 1(N25) 1(N28~c) 1(N29~c) 1(N30~c) , 
-268593	1.b1. 5(N05) 1(N42~a) 1(N28~c) 1(N29~c) 1(N30~c) , 
-1.b2. 1(N20) 2(N05) 1(N25) , SZE~a 
-2. 2(N03) 3(N40) , 
+240914	2. GU7 KU6~a KISAL~b1 
+240916	2. 2(N03) 3(N40) , 
 3. , URU~a1 AB~a KU6~a KISAL~b1 2(N57) DUB~a 
-1.a. [...] , [...] 
-1.b. [...] , [...] 
-2.a. [...] , [...] 
-2.b. 4(N39~a) , SZE~a 
-3.a. [...] , [...] 
-3.b. 3(N39~a) , HI@g~a 
-4.a. [...] , [...] 
-4.b. 1(N39~a) , SZE~a 
-5.a. [...] , [...] 
-5.b. [...] , [...] 
-5.c. 1(N24) 
-6. [...] , [...] 
-7.a. [...] , [...] 
-7.b. [...] , [...] 
-7.c. 1(N30~a) 
-1.a. [...] , [...] 
-1.b. [...] , [...] 
-2.a. 5(N01) , DU8~c@g 
-2.b. [...] , [...] 
-3.a. 1(N01) , GUG2 SZA@g 
-3.b. 1(N30~c) 
-4.a. 2(N01) , GUG2 SAG 
-4.b. 1(N30~c) 
-5.a. 2(N34) , SZEN~c@t 
-5.b. 1(N14) , HI@g~a 
-5.c. 1(N18) 
-6.a. 2(N34) , DUG~a LAGAB~b SZE~a 
-6.b. 2(N14) , SZE~a 
-7.a. 3(N14) , U4 SZEN~b 
-7.b. 3(N01) , HI@g~a 
-7.c. 3(N03) 
-8.a. 1(N14) 6(N01) , DUG~a 
-8.b. 4(N01) 1(N57) 
-8.c. 1(N03) 1(N40) 1(N24~b) 
-9. 1(N30~c) , ABGAL 
+240923	6. [...] , [...] 
+240933	9. 1(N30~c) , ABGAL 
 10. 1(N24) , DUB~a E2~a 
-11.a. 2(N39~a) 1(N24) 1(N30~a) 
-268635	11.b1. 1(N39~a) , HI@g~a 
-11.b2. 1(N39~a) 1(N24) 1(N30~a) , SZE~a 
-1. [...] 1(N30~c) 
+240936	1. [...] 1(N30~c) 
 2. 1(N01) , |DUG~bxHI| 
 3. 1(N30~c) , 2(N57)# SAL KU3~a 
 4. 1(N24) , |HIx1(N57)| 
@@ -55906,15 +62318,7 @@ $ (not given)
 2. [...] 3(N01) 4(N39~a) 1(N24) , SZE~a 
 3. [...] , |DUG~bxHI| 
 4. [...] , GUG2 
-1.a. [...] 3(N14)# , [...] 
-1.b. [...] , [...] 
-2.a. [...] 4(N14) , AN NAMESZDA 
-2.b. [...] 5(N19) 
-3.a. [...] 1(N14) , EN~a SZE~a NE~a 
-3.b. 2(N19) [...] 
-4.a. [...] , UB# [...] 
-4.b. [...] 2(N19) 
-1. [...] , [...] 
+240951	1. [...] , [...] 
 1. [...] , E2~a 
 1. [...] , X# |E2~ax1(N57)@t| 
 2. 5(N01) , GAL~a |SILA3~axHI| E2~a 
@@ -55922,9 +62326,7 @@ $ (not given)
 4. 1(N01) , DUG~a KASZ~a 
 1. 1(N01)# , [...] 
 2. 1(N01) , BULUG3 DU6~a 
-3.a. 9(N01) , DUG~a HAL NAM2 
-3.b. 1(N01) , KISZ 
-4. 1(N01) , IDIGNA PAP~a 
+240960	4. 1(N01) , IDIGNA PAP~a 
 5. [...] , [...] 
 1. [...] , [...] 
 1. [...] , ABZU#? 
@@ -55941,62 +62343,14 @@ $ (not given)
 1. X 1(N39~a) , SAL# SZU# PAP~a 
 2. [...] , [...] 
 3. |U4.6(N08)|# , SZE~a 
-1.a. [1(N01)] 2(N39~a)# 1(N24)# , HI@g~a 
-268685	1.b1. 1(N01) 1(N29~a)# , 
-1.b2. [1(N39~a)] 1(N28) , GUG2 
-1.b3. 1(N39~a) 1(N16) , 
-2. , |U4.6(N08)| 
-268690	1.a1. 2(N01) , DU6~b 
-1.a2. 2(N01) , DU8~c 
-1.a3. 2(N01) , ZATU726~d 
-1.a4. 2(N01) , SIG2~a2 
-1.a5. 5(N01) , GUG2 
-1.b. 1(N39~a)# 1(N24)#? 1(N28~a) , HI@g~a 
-2.a. 5(N01) , SUR 
-2.b. 1(N28) , SZE~a# 
-268699	3.a1. 2(N01) , SZA# 
-3.a2. 5(N01) , DU8~c# 
-3.b. 1(N28) , HI@g~a 
-4.a. 1(N51) , |ZATU714xHI@g~a| MU 
-268704	4.b1. 1(N28) , HI@g~a 
-4.b2. 1(N30~a) , X 
-1.a. 1(N30~a) , HI@g~a 
-1.b. [...] , LAM~b GISZ 
-2.a. [...] 1(N01)# , X [...] 
-268710	2.b1. 4(N01) , E2~a 
-2.b2. 4(N01) , 
-3.a. 1(N24) 1(N30~a)# , HI@g~a 
-268714	3.b1. [...] , X 
-3.b2. [...] , [...] 
-3.b3. 1(N30~a)# , [...] 
-4. , DU# URU~a1# 
-5.a. 1(N14) 3(N01) 
-268720	5.b1. |SZU2.E2~b| 
-5.b2. E2~a#? 
-6.a. 1(N24) 1(N29) 
-268724	6.b1. ZATU773~a GIR3@g~b 
-6.b2. BU~a NI~b DU 
-1.a. [...] 1(N01) , ZATU710 
-268728	1.b1. 2(N39~a)# , HI@g~a 
-1.b2. 4(N39~a) , SZE~a 
-2. , GUG2# URU~a1# 
+240978	2. , |U4.6(N08)| 
+240986	4. , DU# URU~a1# 
+240990	2. , GUG2# URU~a1# 
 3. , [...] 
-1.a. 1(N01) 4(N39~a) 1(N24) 1(N30~a) 
-268734	1.b1. 4(N39~a) 1(N24) 1(N26) , HI@g~a 
-1.b2. 4(N39~a) 1(N24) 1(N28) , SZE~a X 
-2. 1(N40) 1(N24~b) 
-1.a. 1(N20) 1(N05) 3(N42~a) , SZE~a 
-268739	1.b1. 2(N05) [...] , BU~a 
-1.b2. 5(N05) 3(N42~a) , |E2~ax1(N57)@t| I UB 
-2. 1(N05) , HI@g~a 1(N38) 
+240993	2. 1(N40) 1(N24~b) 
+240995	2. 1(N05) , HI@g~a 1(N38) 
 3. BA# |E2~ax1(N57)@t| 
-1.a. 2(N20) , UR5~a 
-268745	1.b1. 1(N14) 5(N01) 4(N39~a) 1(N24) , BA 
-1.b2. 1(N24) , GI 
-2.a. 1(N01)# , SAL X PAP~a 
-2.b. [...] , SAL AD~a 
-2.c. [...] , [...] 
-1. [...] , GAR 
+240999	1. [...] , GAR 
 2. 2(N01) [...] 1(N39~a) , [...] 
 1. 5(N01)# 4(N39~a) 1(N24) , [...] 
 2. [...] , [...] 
@@ -56004,20 +62358,10 @@ $ (not given)
 2. [...] 1(N14) , |HIx1(N57)|# NE~a 
 3. [...] 1(N42~a) 1(N25) 1(N28~c) 1(N30~a) , 1(N57) HI@g~a 
 4. [...] 1(N28) , MAR~a 
-5.a. 4(N14) 8(N01) , GAR U4 
-5.b. 1(N42~a) 1(N28~c) 1(N30~c) , HI@g~a 
-6.a. [...] , DU8~c 
-6.b. 3(N42~a) 1(N30~a) , HI@g~a 
-7. [...] 1(N05) 2(N42~a) 
+241009	7. [...] 1(N05) 2(N42~a) 
 1. [...] , [...] 
-1.a. [...] 2(N14) , KASZ~d SAG SUG5 KALAM~b 
-1.b. 3(N05) 
-2.a. 5(N14) , SZE~a# GAR# 
-2.b. 1(N05) 
-3. 1(N05) 1(N42~a) , AB~a ZATU714 
-4.a. 1(N14) , U2~a GAR 
-4.b. 1(N42~a) 
-5. 1(N01)# , ZATU710 PAP~a# UB ZI~a 
+241013	3. 1(N05) 1(N42~a) , AB~a ZATU714 
+241015	5. 1(N01)# , ZATU710 PAP~a# UB ZI~a 
 6. 1(N01) , SI TUN3~a 
 7. 2(N42~a)# , ZATU710 UB ZI~a# KU3~a AD~a 
 8. 3(N42~a) , ZATU710 UNUG~b 
@@ -56026,16 +62370,10 @@ $ (not given)
 3. 1(N05) , UB ZI~a# SZE~a DU A 
 4. 1(N05)# , UB# ZI~a# I SUKKAL 
 5. 1(N05) 1(N42~a)# 1(N25) , GAN2 ISZ~b 
-6.a. 2(N14) , GAR UB ZI~a# KU3~a AD~a 
-6.b. 2(N42~a) , 
-7.a. 2(N42~a) , 
-7.b. 2(N42~a) , 
-8. 1(N42~a) , ZATU714 
+241026	8. 1(N42~a) , ZATU714 
 9. 3(N14) , X 
 1. 1(N05) , DAR~a GU~a 
-2.a. 2(N20) , GAR DAR~a GU~a 
-2.b. 2(N42~a) 
-1. 2(N20)# 4(N05) 3(N42~a) 1(N25) SZE~a , GU7 MUD NA~a BU~a 
+241030	1. 2(N20)# 4(N05) 3(N42~a) 1(N25) SZE~a , GU7 MUD NA~a BU~a 
 1. 1(N25) 
 2. 2(N08) , SUHUR 
 3. 1(N01) , X 
@@ -56094,60 +62432,24 @@ $ (not given)
 3'. 1(N01) , [...] 
 4'. 1(N01) , [...] 
 5'. 2(N01) , [...] 
-1.a. [...] 5(N14)# 6(N01) , GAR 
-268850	1.b1. [...] , X [...] 
-1.b2. 1(N34) 4(N14) 8(N01) , SZE~a GAR 
-268854	1.c1a. [...] 1(N14)# , [...] 
-1.c1b. [...] 1(N34)# [...] 1(N14) , GUG2~a 
-268857	1.c2a. 4(N14) 4(N01) [...] , TUR |U4.2(N08)| 
-268859	1.c2b1. 1(N01) , [...] 
-1.c2b2. 1(N14) 7(N01) , TUR 
-1.c2b3. 2(N14) 6(N01) , SUR 
-2. GU7 |U4.2(N08)| 
+241090	2. GU7 |U4.2(N08)| 
 1. [...] , [...] 
 1. [...] , SZE~a BA 
 2. 1(N01)# , GAN2 RU UR2 URU~a1 
-3.a. 1(N01) , UDU~a HI 
-3.b. X 
-4. 3(N57) SZU2 ZAG~a 
-268870	1.a1. 1(N14) , |SZE~a&SZE~a| DU GI6 IB~a 
-1.a2. 2(N14) , SZU2 PAP~a# SAL APIN~a 
-1.b. KID~c# PAP~a APIN~a 
-2. 1(N01) , EN~a DU# GISZ SUHUR# GI GISZ3~a PA~a KU3~a A X 
+241095	4. 3(N57) SZU2 ZAG~a 
+241097	2. 1(N01) , EN~a DU# GISZ SUHUR# GI GISZ3~a PA~a KU3~a A X 
 3. 1(N01) , EN~a A DU# TUR X [...] 
 1. [...] , [...] 
 2. [...] , [...] 
 1. [...] , [...] 
 1. 1(N01) 4(N39~a) , [...] 
 2. [...] , [...] 
-1.a. 2(N01) 3(N39~a) , [...] 
-268882	1.b1. 1(N01) , HI GUG2 
-1.b2. 1(N01) , GUG2 BU~a 
-1.b3. [3(N39~a)], [...] 
-2. [...] , [...] 
+241105	2. [...] , [...] 
 1. [...] , [...] 
 2. 2(N42~a) 1(N25) , PIRIG~b1# BA 
 3. 1(N01) , HI 
 1. [...] , [...] 
-1.a. 2(N01) 1(N24) 
-1.b. 1(N42~a) 
-2.a. 2(N01) 1(N30~a) 
-2.b. 1(N27) 
-268895	3.a1. 2(N01) , TUR 
-3.a2. 2(N01) , GUG2 
-3.a3. 2(N01) , ZATU726~d 
-3.b. 1(N25) 
-4.a. 1(N14) , SZA 
-4.b. 1(N25) 
-5.a. 6(N01) , |LAGAB~axSZA| |LAGAB~axSZITA~a1| 
-5.b. 1(N25) 1(N30~c) 
-6.a. 4(N01) , SZA 
-6.b. 1(N30~a) 
-7.a. 2(N01) , GUG2 
-7.b. 1(N28~c) 
-1.a. 6(N01) , |LAGAB~axSZA| |LAGAB~axSZITA~a1| 
-1.b. 1(N25) 1(N30~c) 
-2. 1(N51) [...] 
+241118	2. 1(N51) [...] 
 3. 1(N28)# , NE~a# GUG2 
 4. X , [...] 
 5. 1(N14) , [...] 
@@ -56158,10 +62460,7 @@ $ (not given)
 2. [...] 1(N03) 
 3. [...] , [...] 
 4. X URU~a1 GU7 
-1.a. [...] , [...] 
-268922	1.b1. 2(N01) 1(N30~c) , HI@g~a 
-1.b2. [...] , [...] 
-2. URU~a1 SZAM2 AB~a# |U4x1(N01)| GU7 BULUG3 
+241130	2. URU~a1 SZAM2 AB~a# |U4x1(N01)| GU7 BULUG3 
 1. SZAM2# GU7 
 1. 1(N14) , |LAGAB~axSZA|# |LAGAB~axSZITA~a1| 
 2. 2(N01) , |DUG~cx1(N58)| 
@@ -56179,9 +62478,7 @@ $ (not given)
 2. [...] , [...] 
 1. [...] 6(N34)# [...] 1(N14) [...] 3(N01) 
 1. 5(N01) 1(N29~a) , |SZU2.E2~b| |LAGAB~axSZITA~a1| 
-2.a. 8(N01) , GAR U2~a 
-2.b. 6(N01) , LAGAB~b GAR 
-3. |SZU2.E2~b| 
+241149	3. |SZU2.E2~b| 
 4. 1(N28) , NE~a GUG2 ZATU714 
 5. 3(N01) , |LAGAB~axSZITA~a1| 
 6. 2(N01) , DU6~a U2~a 
@@ -56203,28 +62500,8 @@ $ (not given)
 10. 4(N01) , |SILA3~a+KASZ~a| 
 11. KASZ~d SZE~a 
 1. , |U4.5(N08)|# EZEN~b URU~a1 GUG2 
-1.a. 1(N01) 1(N30~a) 1(N24) , SZE~a 
-268968	1.b1. 2(N39~a) , HI@g~a 
-1.b2. 3(N39~a) 1(N24) 1(N30~a) , SZE~a 
-268972	1.c1a. 5(N01) , GAR GAL~a 
-1.c1b. 1(N42~a) , HI@g~a 
-1.c2. 1(N27) , NE~a ZATU714 GUG2~a 
-1.c3. 1(N29~a) , |ZATU714xHI@g~a| MU 
-268977	1.c4a. 2(N01) , U4 GAR 
-1.c4b. 1(N27) 
-268981	1.c5a1. 8(N01) , GAR U2~a 
-1.c5a2. |SZU2.E2~b| 
-268984	1.c6a. 8(N01) , DU8~c 
-1.c6b. 1(N27) 
-268987	1.c7a. 1(N14) 5(N01) , SZE~a GAR 
-1.c7b. 1(N42~a) 1(N25) 
-2.a. 2(N01) , DUG~a 
-2.b. 5(N01) , U4 SZEN~b 
-2.c. 6(N01) , LAGAB~b KASZ~d SZE~a 
-1. |U4.5(N08)| , GU7 GUG2 URU~a1 
-1.a. 4(N20) 1(N42~a) 1(N25) , SZE~a UR5~a 
-2.a. 1(N20) 4(N05) , UR5~a LAM~b 
-3. 1(N20) , SZE~a UR5~a TUR3~a ME~a 
+241173	1. |U4.5(N08)| , GU7 GUG2 URU~a1 
+241176	3. 1(N20) , SZE~a UR5~a TUR3~a ME~a 
 4. X UR5~a X 
 1. 6(N20) 4(N05) 1(N42~a) 1(N25) , SZE~a UR5~a KALAM~h SAR~a 
 1. 4(N14) 2(N01) , KI 
@@ -56233,125 +62510,27 @@ $ (not given)
 2. 1(N14) 1(N01) , HAL? 
 1. [...] , [...] 
 1. 1(N28~c) , SZE~a |U4x1(N57)| KASZ~b 
-2.a. 1(N01) 3(N39~a) 1(N29~a) 1(N16) , |U4x1(N01)| KASZ~b 
-269006	2.b1. 1(N01) 2(N39~a) 1(N24) , UR5~a 
-2.b2. 1(N24) 1(N29~a) 1(N16) , TAR~a 
-3. 1(N14) 2(N01) 1(N39~a) 1(N24) , |U4x5(N01)| KASZ~b 
+241186	3. 1(N14) 2(N01) 1(N39~a) 1(N24) , |U4x5(N01)| KASZ~b 
 4. AB~a KASZ~b 
 1. [...] 2(N14) [...] , SZE~a 
 2. [...] 1(N14) [...] , [...] 
 3. [...] , X 
 4. [...] , [...] 
-1.a. 1(N39~a) , U4 ZATU710 DILMUN 
-1.b. 2(N39~a) , ZATU710 SZE~a |GI&GI| 
-269017	1.c1. 1(N14) , GAR 
-1.c2. 1(N01) , KASZ~d 
-269020	1.d1. 1(N39~a) , HI@g~a 
-1.d2. 3(N39~a) 1(N24) , SZE~a 
-1.d3. 1(N24) , [...] 
-2.a. 1(N01) , KASZ~a PAP~a SZU 
-2.b. 1(N24) , SZE~a 
-2.c. 1(N28) 
-3.a. 1(N24) , [...] 
-3.b. 1(N24) 1(N28) , SZE~a A# MU 
-4.a. [...] , [...] 
-4.b. 2(N39~a) 1(N24) , HI@g~a 
-5.a. [...] , [...] 
-5.b. [...] 1(N39~a) , [...] 
-1.a. 1(N14) , GAR EN~a [...] 
-1.b. [...] , X X 
-1.c. 1(N39~a) , [...] 
-2.a. 1(N14) , GAR TAK4~a DUG~a 
-2.b. 1(N01) , KASZ~d 
-269038	2.c1. [...] , [...] 
-2.c2. 1(N24~b) 
-3.a. 2(N01) , HI@g~a DU A MU KASZ~d 
-3.b. 1(N14) 4(N01) , SZE~a 
-4. 3(N01) , HI@g~a GAR |ZATU714xHI@g~a| |ZATU651xGAR| 
-5.a. 5(N01) , KASZ~d 
-269045	5.b1. 1(N14) , [...] 
-5.b2. 1(N39~a) , SZE~a 
-5.c. 1(N24) , [...] 
-6.a. 1(N39~a) , HI@g~a A MU 
-6.b. 1(N26) 
-6.c. [...] , [...] 
-7.a. [...] , [...] 
-7.b. 2(N14) [...] 
-7.c. [...] , [...] 
-8. [...] , [...] 
+241200	4. 3(N01) , HI@g~a GAR |ZATU714xHI@g~a| |ZATU651xGAR| 
+241204	8. [...] , [...] 
 1. [...] 2(N14) [...] 
 2. [...] , [...] 
-1'.a. [...] , [...] 
-1'.b. [...] , [...] 
-1'.c. 2(N39~a)# , [...] 
-2'.a. [...] , [...] 
-2'.b. [...] , [...] 
-2'.c. 2(N39~a)# , [...] 
-1.a. 3(N01) , SZEN~c@t# GISZ KASZ~a 
-269065	1.b1. [...] , [...] 
-1.b2. 1(N03) 2(N40) 
-2.a. 1(N14) , ZATU710 
-269069	2.b1. 2(N39~a) , HI@g~a 
-2.b2. 2(N40) 
-269072	3.a1. 1(N14) , [...] 
-3.a2. 1(N14) , ZATU639 
-3.a3. [...] , X 
-269076	3.b1. 2(N01) , [...] KASZ~a 
-3.b2. 2(N01) , KASZ~a GISZ URU~a1 
-269079	3.c1. 3(N42~a) , HI@g~a 
-3.c2. 4(N39~a) , SZE~a 
-3.c3. 3(N40) 
-269083	4.a1. [...] , GAR 
-4.a2. 2(N14) , GAR 
-4.a3. EN~a BA BAHAR2~b 
-269087	4.b1. 2(N01) , KASZ~a DUG~a 
-4.b2. 2(N01) , DUG~a UKKIN~a 
-269090	4.c1. 2(N42~a) 1(N24) , HI@g~a 
-4.c2. 2(N01) 1(N39~a) 
-4.c3. 3(N40) 
-5.a. 3(N01) , U4 DUG~a |E2~ax1(N57)@t| 
-5.b. 5(N01) , KASZ~a GISZ 
-269096	5.c1. 3(N39~a) 
-5.c2. 2(N42~a) 3(N40) 
-6.a. 2(N01) , DUG~a KASZ~d 
-269100	6.b1. 1(N25) , HI@g~a 
-6.b2. 1(N24) 
-6.c. 1(N40) , BULUG3 
-7.a. 1(N01) , [...] 
-7.b. 1(N24) , [...] 
-7.c. 1(N39~a) , [...] 
-1.a. 5(N14) , KASZ~a GISZ URU~a1# KASZ~a E2~a# AL 
-269108	1.b1. 2(N14) , U4 GAR 
-1.b2. 1(N03) 
-1.b3. 1(N40) , ZATU714 MU 
-269112	1.c1. 1(N39~a) , [...] 
-1.c2. 1(N24) , [...] 
-1.c3. 3(N03) 
-2.a. 2(N01) , KASZ~a GISZ URU~a1 
-2.b. 4(N01) , MU DUG~a 
-269118	2.c1. 1(N39~a) , HI@g~a 
-2.c2. 1(N39~a) 
-2.c3. 1(N40) 
-3. 1(N39~a) , GUG2 ZATU710 
+241218	3. 1(N39~a) , GUG2 ZATU710 
 4. 2(N39~a) 1(N24) , X 
 5. 1(N14) , [...] 
 6. 1(N14) , [...] 
 1. [...] , [...] 
 1. [...] , [...] 
-269128	2.a1. 2(N01) , SZA 
-2.a2. 2(N01) , GUG2 SAG 
-2.b. 1(N24~b) 
-3. 5(N01) , DU8~c@g 
-4.a. 2(N01) , SZE~a KASZ~a 
-269134	4.b1. 1(N39~a) , SZE~a 
-4.b2. 1(N25) 
-1. 6(N01) [...] 
+241225	3. 5(N01) , DU8~c@g 
+241227	1. 6(N01) [...] 
 2. 1(N14) 1(N01) , X 
 3. GU7 NAGA~a |U4x1(N01)| SANGA~a SANGA~a GAL~a 
-1.a. 3(N39~a)# 1(N24) 1(N28) 
-269141	1.b1. 1(N39~a) 1(N24) , HI 
-1.b2. 2(N39~a) 1(N28)# , SZE~a 
-2. 1(N24~b) , [...] 
+241231	2. 1(N24~b) , [...] 
 1. [...] , TE# [...] 
 1. [...] , [...] 
 2. [...] , X 
@@ -56421,13 +62600,7 @@ $ (not given)
 2. [...] , [...] 
 3. 1(N01) , [...] 
 4. 1(N01) , GI4~a# 
-1.a. [1(N14)] 3(N01) , U4 KASZ~d SZE~a 
-269215	1.b1. 4(N01) , U4 KASZ~d 
-1.b2. 9(N01) , KASZ~d 
-2.a. 1(N14)# 2(N01) , SZE~a# SZEN~c@t 
-269219	2.b1. 7(N01)# , SZEN~c@t 
-2.b2. 5(N01) , U4 SZEN~c@t 
-3. GU7 
+241303	3. GU7 
 1. [...] , [...] 
 2. U4 
 1. [...] , [...] 
@@ -56480,19 +62653,7 @@ $ (not given)
 6. 2(N01) , AN# NU11# [...] 
 7. 1(N14) , ZATU776 X 
 1. A# HAL AL 
-1.a. [...] 1(N30~a) 
-1.b. 1(N30~a) 
-269277	2.a1. 2(N01)# , TUR 
-2.a2. 2(N01)# , ZATU726~d 
-2.a3. 2(N01)# , GUG2 
-2.b. [1(N24)] 1(N30~c) , 
-269282	3.a1. 1(N14)# , |LAGAB~axSZA|# |LAGAB~axSZITA~a1| 
-3.a2. 2(N01)# , [...] 
-3.a3. 2(N01)# , DU8~c 
-3.b. 1(N24)# , [...] 
-269287	4.a1. [...] 3(N01)# , [...] 
-4.a2. [...] , [...] 
-1. [...] , X HI@g~a 
+241360	1. [...] , X HI@g~a 
 2. 3(N03) 1(N40) , 
 3. , GU7 GAL~a SANGA~a SANGA~a 
 1. [...] , [...] 
@@ -56516,22 +62677,15 @@ $ (not given)
 3. , EN~a BU~a 
 1. 1(N47) 3(N18) 3(N03) , BA 
 2. 5(N18) , AB~a 
-1.a. 1(N47) 8(N18) 3(N03) , LAGAB~b 
-269315	1.b1. 1(N45)# 6(N18) 3(N40) , GU7# 1(N30~a)? 
-1.b2. 2(N18) 2(N03) 2(N40) , BA 
-1. 4(N39~a)# , KU6~a ZATU710 
+241385	1. 4(N39~a)# , KU6~a ZATU710 
 2. 3(N39~a)# , |ZATU714xHI@g~a| ME~a 
 3. SANGA~a TUR3~b 
 4. 1(N39~a) 1(N24) , U4 GAR 
 1. 1(N39~a)# 1(N24) , ZATU710 KU6~a KISAL~b1 
 2. 1(N14)# , TUR3~b ME~a 
 1. 2(N01) , ZATU710# HAL# |ZATU714xHI@g~a| 
-1.a. 1(N14) 2(N01) , |LAGAB~axSZITA~a1| 
-1.b. 1(N42~a) 1(N29~a) , 
-2. 1(N27) , NE~a 
-3.a. 3(N01) , |LAGAB~axSZITA~a1| 
-3.b. 1(N30~c) , 
-4. 1(N42~a) 1(N25) , |SZU2.E2~b| MU 
+241393	2. 1(N27) , NE~a 
+241395	4. 1(N42~a) 1(N25) , |SZU2.E2~b| MU 
 5. 1(N25) , |(SZAxHI@g~a)~a| SAL HAL [...] 
 6. [...] , [...] 
 1. 5(N01) , SAL |SILA3~axKASZ~a| 
@@ -56546,29 +62700,8 @@ $ (not given)
 4. 3(N01) , |SILA3~a+KASZ~a| 
 5. 1(N39~a) , SAL |SAL+ZATU751~a| GAL~a 
 6. [...] , [...] 
-269345	1.a1. [...] , [...] 
-1.a2. 1(N14) 1(N01) , KASZ~a U4 
-269348	1.b1. [...] , [...] 
-1.b2. 1(N30~c)# , LAGAB~b KASZ~a SZE~a 
-2. |U4.3(N08)|#? , GU7 
-1.a. [...] , [...] 
-1.b. 2(N39~a) , SZIM~a 
-2.a. [...] 1(N01) , X 
-269355	2.b1. 1(N39~a) , |ZATU714xHI@g~a| 
-2.b2. 2(N01) 1(N39~a) , BA 
-3.a. [...] , [...] 
-3.b. 1(N39~a) , AB~a 
-3.c. 1(N39~a) , SZIM~a UNUG~a 
-4.a. [...] , X 
-4.b. [...] , |ZATU714xHI@g~a| 
-5.a. [...] , U4 KU6~a 
-5.b. 2(N01)# 2(N39~a) 1(N28) , BA 
-6.a. [...] 1(N01) , [...] 
-6.b. [...] , [...] 
-6.c. 1(N39~a)# , GU7 
-7.a. [...]
-7.b. [...] , BA 
-1. 4(N01) , |NINDA2xHI| SANGA~a 
+241411	2. |U4.3(N08)|#? , GU7 
+241419	1. 4(N01) , |NINDA2xHI| SANGA~a 
 2. 2(N01) , GISZ3~b# SANGA~a# 
 3. 2(N01) , EN~a [...] 
 4. [2(N01)] , [...] 
@@ -56592,15 +62725,7 @@ $ (not given)
 2. 4(N14) 5(N01) , [...] 
 1. UB# [...] 
 2. [...] , [...] 
-1.a. [...] , DUG~a# URU~a1 
-269395	1.b1. 5(N01) , KISIM~b# 
-1.b2. 5(N01) , KISIM~b 
-2.a. 2(N01) , DUG~a ZATU773~a NIM~b1# URU~a1 
-269400	2.b1a. 4(N01) , KISIM~b 
-2.b1b. 1(N02) 
-269403	2.b2a. 5(N01) , [KISIM~b] 
-2.b2b. 1(N02) 
-1. [...] , [...] 
+241445	1. [...] , [...] 
 2. [...] 1(N01) , KISIM~b 
 3. 3(N02) 
 4. 1(N01)# , U4# GA~b 
@@ -56629,23 +62754,12 @@ $ (not given)
 2. 6(N01) , ZATU710 
 3. 5(N01) , GAN~c 
 4. EN~a KAL~b2 ASAR BAHAR2~b SZU 
-1.a. 1(N14) , KASZ~d 
-269436	1.b1. 4(N01) , AN AB~a KASZ~d 
-1.b2. 2(N01) , E2~a 
-1.b3. 2(N01) , BU~a 
-2. 1(N01) 1(N57) , AB~a KASZ~d 
+241475	2. 1(N01) 1(N57) , AB~a KASZ~d 
 3. 7(N01) , SAL E2~a 
 4. 1(N01) , SIG2~b |AMA~axE2~a| URU~a1 
 5. 1(N01) , SZUBUR APIN~a E2~a 
 1. GU7 
-1.a. LAGAB~b# KASZ~d 
-269446	1.b1. 1(N14) 1(N01) , GU7 
-1.b2. 9(N01) , BA 
-1.a. 1(N57) , 5(N34) 2(N14) , GAN2# NUN~a? MUSZ3~a 
-1.b. 4(N34) 4(N14) , 1(N58) A 
-2.a. 4(N34) 7(N08)# , 1(N57)# EN~a 
-2.b. 4(N34) , 1(N58) KI URU~a1 
-1. X AN 
+241483	1. X AN 
 2. 1(N14) 6(N01) , TUR3~a ME~a 
 1. [...] , [...] 
 1. [...] 3(N14) 6(N01) , [...] 
@@ -56661,22 +62775,7 @@ $ (not given)
 2. , GIBIL 1(N04) SAG# 
 1. [...] , [...] 
 2. [...] , [...] 
-269469	3.a1. 4(N01) , [...] 
-3.a2. 4(N01) , SIG2~a2 
-3.b. [...] 1(N24) 
-4.a. 1(N51) 1(N14) 8(N01) , |5(N57).GAR| 
-4.b. 4(N01) 2(N39~a) 1(N24) 
-5.a. [4(N01) , SIG2~a2] 
-5.b. 1(N08) 
-6.a. 1(N14) , SZA SIG2~a2 
-6.b. 1(N24) 
-7.a. 4(N14) , TUG2~b E2~a DUB~a 
-7.b. 2(N01) 
-1.a. [2(N14) , DUG~a KASZ~a] 
-1.b. [...] , [...] 
-2.a. 2(N14)# , [DUG~a] KASZ~a DUB~a E2~a 
-2.b. 3(N39~a)# 1(N24) , 
-3. 4(N01) 2(N39~a) 1(N24) , MU |ZATU714xHI@g~a| 
+241506	3. 4(N01) 2(N39~a) 1(N24) , MU |ZATU714xHI@g~a| 
 4. 3(N14) , UDU~a 
 5. 1(N01) , SUHUR 
 6. 1(N52) 
@@ -56699,31 +62798,14 @@ $ (not given)
 2. [...] SZU# [...] 
 3. X X 
 4. TE# RU# 
-1.a. [...] 3(N14)# [...] , X GISZ@t# E2~a 
-269509	1.b1. [...] , GISZ@t# E2~a# 1(N01) 
-1.b2. 2(N14) 3(N01) , UNUG~a 
-1.c. [...] 1(N14)# [...] 4(N01)# , BU~a GI# BU~a 
-2. 2(N01) , GISZ@t# E2~a 
+241530	2. 2(N01) , GISZ@t# E2~a 
 3. 6(N01) , |DUG~bx(UDU~axTAR)| 
 4. 6(N01) , KID~b 
 1. 1(N14) 7(N01) , MA 
 2. 1(N14) [...] , SZEN~b 
 3. BA DUB~a E2~a KALAM~g URU~a1 SZE~a SAR~a 
 1. , NI~a BA 
-1.a. 1(N45)# [...] 1(N24) 
-1.b. [...] 1(N39~a)# , SZE~a# [...] 
-1.c. [...] , [...] 
-2.a. 6(N14)# 3(N01)# , SZE~a# AN# GUM~b 
-269524	2.b1. [...] 1(N24)# 1(N29~a) 
-2.b2. 7(N14)# , SZE~a 
-2.c. 5(N19)# 
-3.a. 2(N14)# 3(N01)# , EN~a X 
-3.b. 4(N14)# , SZE~a 
-4.a. 1(N34)# 1(N14)# 3(N01) 
-4.b. 7(N19)# 
-5.a. [...] , [...] 
-5.b. [...] X 
-1. 6(N14)# , SZE~a# UR2# 
+241542	1. 6(N14)# , SZE~a# UR2# 
 2. , SZAM2# BA 
 1. 4(N34) 1(N36) 2(N45) 3(N14) , SZE~a BA# SZAM2 KU6 KISAL~b1 
 1. 4(N34) 1(N45) 3(N01) , SZE~a 
@@ -56753,14 +62835,7 @@ $ (not given)
 3. 3(N01) , [...] 
 1. 3(N01) 1(N39~a) , EN~a SZU DU 
 2. [...] , E2~a# [...] 
-1.a. [...] , A PA~a 
-1.b. 1(N14) , DUG~b 
-2.a. 2(N14)# , [...] 
-269567	2.b1. 1(N14) , SZU2 DUG~b 
-2.b2. 1(N14)# , DUG~b 
-1.a. [...] , GA2~a1 3(N57) NE~a BA 
-1.b. [...] 3(N01) , [...] 
-2. [...] , [...] 
+241575	2. [...] , [...] 
 1. [...] , [...] 
 1. 8(N01) , DU |ZATU737xBUR~a|# 
 2. 1(N01) , TI@t GIR3@g~b 
@@ -56774,9 +62849,7 @@ $ (not given)
 3. 5(N01) , KU6~a 
 1. [...] , AB~a 
 2. 1(N08) , AN BA TUG2~a 
-3.a. 1(N08) , HI@g~a 
-3.b. 1(N08) , SZE~a 
-4. 1(N01) , ZATU776# UR2 
+241590	4. 1(N01) , ZATU776# UR2 
 5. 1(N01) , UDU~a 
 6. 1(N01) , SUHUR 
 7. ZATU776 AB~a MU 
@@ -56817,11 +62890,7 @@ $ (not given)
 1. [...] , X X X 
 1'. [...] , X 
 1'. [...] , X 
-1'.a. [...] , X X 
-1'.b. [...] , [...] 
-2'.a. 1(N14) , LAGAB~b ZATU711 
-2'.b. [...] , [...] 
-3'. [...] 1(N01) , [...] 
+241633	3'. [...] 1(N01) , [...] 
 1. [...] , GU7# X MUSZEN# [...] 
 1. 9(N01)# , X AB~b 
 2. 2(N01) , [...] 
@@ -56837,21 +62906,11 @@ $ (not given)
 5. LAGAB~b , GA2~a2 KU6~a 
 6. LAGAB~b , GISZ3~b 
 7. SZU TUR 
-1.a. 1(N05) , TI~a 
-1.b. SANGA~a X MAR~a 
-2. 1(N05) , GAL~a# X |U4x1(N57)|# [...] 
+241650	2. 1(N05) , GAL~a# X |U4x1(N57)|# [...] 
 3. 1(N05) , EN2 3(N57) [...] 
 4. 1(N05) , PA~a URU~a1 |EZEN~axKASZ~b| |U4x4(N57)| 
-5.a. 1(N05) , |U4x1(N57)|# GISZ@t DU# EN2 3(N57) 
-5.b. LAL2~a 
-6.a. 1(N05) , BA# 
-6.b. LU2 
-1. GU7# |EZEN~axKASZ~b|# |U4x6(N57)|# 
-1.a. [...] , SZE~a AN NUNUZ~a1 ZATU788 
-1.b. [...] 1(N01) , X 
-2.a. 1(N01)# , |U4x1(N01)| 
-2.b. 2(N39~a) 1(N24)# , [...] 
-1. [...] , [...] 
+241655	1. GU7# |EZEN~axKASZ~b|# |U4x6(N57)|# 
+241658	1. [...] , [...] 
 1'. [...] 1(N01)# , SZE~a GAR# [...] 
 2'. 3(N01) , SZE~a GAR# [...] 
 1. [...] , [...] 
@@ -56867,9 +62926,7 @@ $ (not given)
 2. 1(N01)# , SUHUR 
 3. 1(N01)# , X |ZATU759xKU6~a| 
 4. [...] , [...] 
-1.a. 1(N14) , AB~a 1(N57) 
-1.b. 1(N39~a) , GUG2 
-2. 1(N26) , NE~a KI 
+241675	2. 1(N26) , NE~a KI 
 3. [...] , X X 
 4. [...] , [...] 
 1. AB~a |U4x1(N01)| [...] 
@@ -56891,18 +62948,9 @@ $ (not given)
 2. 1(N22) , GUG2 KASZ~a BAR 
 3. 5(N14) 2(N22) , DUR~a GA~a 
 4. [...] , X 
-1.a. 1(N01) , SAR~a A AL 
-1.b. 3(N01) , GAN2 
-2. X UR5~a SZU AN NUNUZ~c ZATU788 
-3.a. [...] 1(N14) 
-3.b. 1(N14) 2(N01) 
-4. [...] , [...] 
-1.a. 1(N01) , GAN2 APIN~a [...] 
-269710	1.b1. SAL# SAL 
-1.b2. SZU2# NA~a# NUNUZ~a1 
-1.b3. EN~a DU# PAP~a 
-1.b4. AL 
-1. [...] GAN2# [...] 
+241698	2. X UR5~a SZU AN NUNUZ~c ZATU788 
+241700	4. [...] , [...] 
+241702	1. [...] GAN2# [...] 
 1'. [...] , DU6~b? 
 1'. 2(N14)# 2(N01) , ZATU791 KUR~a 
 1'. [...] , [...] 
@@ -56911,9 +62959,7 @@ $ (not given)
 2. 5(N14) , GESZTIN~e 
 3. [...] , X 
 1. 4(N34)# 4(N14)# 4(N01) , GISZ# HI SIG UR4~b [...] 
-1.a. [...] , EN~a DU 
-1.b. 5(N34)# , X 
-2. 4(N14)# , SZAGAN 
+241712	2. 4(N14)# , SZAGAN 
 3. [...] , [...] 
 1. [...] 1(N01) , [...] 
 2. [...] , [...] 
@@ -56951,10 +62997,7 @@ $ (not given)
 3'. 2(N39~a) [...] 
 1. [...] , [...] 
 1. [...] , [...] 
-1'.a. [...] , X APIN~a 
-1'.b. [...] , UNUG~a SANGA~a SANGA~a 
-1'.c. [...] 1(N28) , [...] SZE~a 
-2'. [...] 1(N01) 1(N26) 1(N30~a) [...] 
+241751	2'. [...] 1(N01) 1(N26) 1(N30~a) [...] 
 1. [...] , [...] 
 1'. [...] , X ZATU707~a 
 2'. 2(N01)# , |E2~ax1(N57)@t| 
@@ -56984,9 +63027,7 @@ $ (not given)
 1'. [...] , [...] 
 2'. X AB~b X 
 1. [...] , [...] 
-1.a. [...] , [...] 
-1.b. 4(N01) 
-2. [...] , [...] 
+241782	2. [...] , [...] 
 1. [...] , [...] 
 1. [...] , KU6~a KISAL~b1 URU~a1 
 2. [...] , SZE~a# GURUSZ~a 
@@ -56998,44 +63039,15 @@ $ (not given)
 1. [...] , [...] 
 1. [...] 5(N14)# , [...] 
 2. 3(N14) , |SZE~a.NAM2| 
-3.a. 2(N14)# , UDU~a URI3~a# [...] 
-3.b. 3(N01) 
-4. [...] , [...] 
-1.a. [...] 2(N14)# A# NUNUZ~a0 ISZ~b 
-1.b. [...] 2(N01)# 
-2.a. 1(N22) 3(N01) KU6~a LU2
-2.b. 1(N01) 
-3.a. 6(N14)# [...] 
-3.b. 2(N14)# 
-1.a. 3(N14)# [...] , |SZU2.E2~a| 
-1.b. 9(N01)# 
-2.a. 2(N22)# , X 
-2.b. 2(N01) 
-3.a. 1(N14) , GISZ3~b NI~a 
-3.b. 3(N01)# 
-4.a. 2(N22) , LAGAB~b# KU~a# SZU 
-4.b. 2(N01)# 
-5.a. [...] 1(N14)# , [...] 
-5.b. 4(N01) , [...] 
-1. [...] , [...] 
-2.a. 2(N14) , SI# NA~a# URI3~a# 
-2.b. 5(N01)# , 
-3.a. 4(N14)# , UDU~a# X 
-3.b. 1(N14) 2(N01) , [...] 
-4.a. 2(N14) , KU~a A URI3~a PAP~a BU~a NAM2# 
-4.b. 6(N01) 
-5. 3(N14)# , X [...] 
+241795	4. [...] , [...] 
+241804	1. [...] , [...] 
+241808	5. 3(N14)# , X [...] 
 1. [...] , [...] 
 2. 2(N14) [...] , [...] 
 3. 2(N14)# [...] , [...] 
 1. [...] , GIR3@g~b SAG# [...] 
 1. [...] , [...] 
-269843	2.a1. 1(N45) 
-2.a2. 1(N14) 1(N22) , ERIM~a 
-2.b. 3(N34) [4(N01)] , UDU~a 
-1.a. 4(N34) 3(N14) 9(N01) , AN# ZATU773~a 
-1.b. 1(N01) , E2~b |SAL.KUR~a| 
-2. 3(N34) 5(N14) 6(N01) , DA~a PA~a 
+241816	2. 3(N34) 5(N14) 6(N01) , DA~a PA~a 
 3. DARA4~c2# BA KU6~a KISAL~b1 
 1. 1(N01) 1(N39~a) , MUD NA~a BU~a 
 2. KU6~a KISAL~b1 
@@ -57053,47 +63065,7 @@ $ (not given)
 4. 3(N01) , AN UR5~a NAM2 DI 
 5. 3(N01) , SANGA~a GAL~a AN UR5~a 
 6. [...] , [...] 
-1.a. 4(N34) 3(N14) 5(N01) , 
-1.b. 3(N34)# 2(N14) 6(N01) , 
-1.c. 6(N34) , 
-1.d. 2(N34) 4(N14) , 
-2.a. 5(N34) 2(N14) 4(N01)# , 
-2.b. 5(N34) 3(N14) , 
-2.c. 6(N34)# , 
-2.d. 2(N34) 3(N14) 4(N01)# , 
-3.a. 1(N34) 2(N14) , 
-3.b. 1(N34) , 
-3.c. 1(N34) 2(N14) , 
-3.d. 5(N14)# 4(N01)# , 
-4.a. 4(N14) , 
-4.b. 3(N14) , 
-4.c. 5(N14) , 
-4.d. 3(N14) , 
-5.a. 8(N34) , 
-5.b. 5(N34) , 
-5.c. 8(N34) , 
-5.d. 3(N34) 3(N14) , 
-1.a. 5(N34) 5(N01) , 
-1.b. 3(N34) 3(N01) , 
-1.c. 3(N50) 1(N14) [...] GAN2 
-2.a. 5(N34)# 4(N14)# 2(N01)# 2(N08) , 
-2.b. 4(N34)# 2(N01) , 
-2.c. 4(N50) 3(N14)# [GAN2] 
-3.a. 1(N34) 2(N14) , 
-3.b. 5(N14)# 7(N01) , 
-3.c. 2(N14) 1(N22) 3(N01) 6(N08) , GAN2 
-4.a. 4(N14)# 5(N01) , 
-4.b. 3(N14) , 
-4.c. 2(N22) 1(N01) 5(N08) , 
-4.d. 2(N45) 2(N50) 9(N14) 1(N22) 4(N01)# 3(N08)# , 
-5.a. 8(N34) , 
-5.b. 4(N34) 1(N14)# 5(N01) , 
-5.c. 1(N45) 8(N14)# , GAN2# 
-1.a. [...] , [...] 
-1.b. [...] 3(N14)# 3(N01) , 
-1.c. 1(N34) 5(N14) 8(N01) , 
-1.d. 1(N34) 3(N14) , 1(N58) 
-2. [...] 
+241845	2. [...] 
 1. 4(N01) , IDIGNA# 
 2. 1(N14) , SZURUPPAK~a 
 3. 1(N14) , SZU SZU 
@@ -57102,10 +63074,7 @@ $ (not given)
 6. 1(N14) 3(N01) , E2~a SZURUPPAK~a 
 1. , X SANGA~a# 
 1. [...] 
-2.a. 2(N01)# , SZU 
-2.b. , SAG PAP~a 
-2.c. , KASZ~b GAL~b 
-3. , MU SANGA~a IB~a SZITA~a1 
+241855	3. , MU SANGA~a IB~a SZITA~a1 
 1. 1(N01) , IB~a [...] 
 1. 2(N14) 7(N01) , KAB ERIN 
 2. 2(N14) 5(N01) , GAN2 APIN~b 
@@ -57125,32 +63094,12 @@ $ (not given)
 1. [...] 
 1. [...] , GAN2# 
 2. [...] , [...] 
-1.a. [...] 1(N14) 6(N01) , LAL2~a BULUG3 
-1.b. 5(N14) 2(N01) , X ZI~a# 
-2.a. 2(N01) , LAL2~a APIN~a# GI 
-2.b. 4(N14) , KI 6(N57) BULUG3 
-3. , BA KALAM~g A AN MAR~a PA~a 
+241877	3. , BA KALAM~g A AN MAR~a PA~a 
 1. , GAN2 SI EN~a ISZ~a 
 2. , AB~a GIBIL# X 
-1.a. 1(N14)# 7(N01)# , GAN2# [...] 
-1.b. 1(N34) 2(N14)# 3(N01)# , [...] 
-2. , KALAM~g E2~a NUN~a A MAR~a# NU11# [...] BULUG3#? [...] 
-1.a. [...] GISZ3~a# 
-1.b. 2(N14)# , |SZE~a.NAM2| 
-2.a. 1(N50) , AN SZA3~a1 UR2 
-2.b. 2(N14)# , |SZE~a.NAM2| 
-3.a. 6(N14) , KU6~a# KISAL~b1# 
-3.b. 1(N14)# , |SZE~a.NAM2| 
-4.a. [...] SZU ZI~a 
-4.b. 1(N14)# , |SZE~a.NAM2| 
-1. 1(N45) 4(N50) 9(N14) , GAN2 [...] A# 
-1.a. 3(N50) 9(N01) , GAN2 EN~a 
-269959	1.b1. 3(N50) , EN~a [...] 
-1.b2. 9(N01) , GI 
-2.a. [N] 3(N50) [N] 5(N14) [...] 
-269963	2.b1. 2(N50)# [...] 
-2.b2. 1(N50) [...] 
-3. [...] 
+241881	2. , KALAM~g E2~a NUN~a A MAR~a# NU11# [...] BULUG3#? [...] 
+241886	1. 1(N45) 4(N50) 9(N14) , GAN2 [...] A# 
+241889	3. [...] 
 1'. [...] 2(N14) [...] HI# NIN# 
 2'. , GAL~a GAN2 1(N02) [...] 
 1'. , X 
@@ -57164,19 +63113,7 @@ $ (not given)
 1. 2(N14) , SZE~a 
 1. 3(N14) 2(N01)# , UDU~a 
 1. [...] X KISIM~b ZATU694~c SZESZ~a 
-1.a. [...] 
-269981	1.b1. [...] , [MUSZEN] NA~a GI 
-1.b2. 3(N14) 3(N57) , SZU 
-2.a. [...] 3(N01) , GAR# [...] 
-269985	2.b1. 2(N14) , MUSZEN NA~a GI 
-2.b2. 3(N14) 1(N22) 3(N01) 3(N57) , SZU 
-3.a. [...] 
-269989	3.b1. [...] MUSZEN [NA~a] GI 
-3.b2. 2(N14) 3(N57) , SZU 
-1.a. [...] 1(N50) [...] 1(N14) , UB ZI~a 
-269993	1.b1. [...] 2(N14) , |SZE~a+SAR| 
-1.b2. 3(N14) , UB E2~a GAL~a 
-2. , X [...] 
+241907	2. , X [...] 
 1. 2(N45) , GAL~a UMUN2# KISZ LAM~b 
 2. 6(N01) , EN~a 
 3. , SI KISAL~b1 
@@ -57221,11 +63158,7 @@ $ (not given)
 1. , TUR X [...] 
 1. [...] X GI# NUN~a 
 2. [...] UD5~a 
-1.a. 5(N01) |NINDA2xMAR~a| ZATU773~a 
-270042	1.b1. 1(N01) , U8 U4 
-1.b2. 1(N01) , UD5~a GI6 
-1.b3. 3(N01) 1(N57) 
-2. 1(N01) , U4 UDUA~a MUSZEN APIN~a SIG 
+241953	2. 1(N01) , U4 UDUA~a MUSZEN APIN~a SIG 
 3. , NAR NAR 1(N57) , TUR 
 4. [...] 
 1. 1(N34) 5(N14) [N] 1(N01) , U8 
@@ -57260,20 +63193,12 @@ $ (not given)
 5. 3(N01) , BAHAR2~b 
 6. 2(N01) [...] 
 7. 2(N01) [...] MUD# [NA~a] BU~a# 
-1.a. 2(N01) 1(N57) , NIN 
-1.b. 1(N39~a) TAR~a 
-2.a. 4(N01) , ZATU694 KU6~a KISAL~b1 
-2.b. 2(N39~a) TAR~a 
-3. 1(N39~a) AB~a SZUBUR BULUG3 SZE~a 
+241990	3. 1(N39~a) AB~a SZUBUR BULUG3 SZE~a 
 4. , GIBIL GU7 
 5. 2(N04) 1(N41) , U4 
 6. 1(N19) , NAM~a NA2~a 
-1.a. 3(N01) , 3(N57) [...] 
-1.b. 2(N39~a) 1(N24) , [TAR~a] 
-2. 1(N19) , AB~a 
-3.a. 1(N19) 1(N04) , AN NUNUZ~a1# ZATU788 X 
-3.b. 3(N41) 1(N24'')# , [TAR~a] 
-4. , GU7 
+241995	2. 1(N19) , AB~a 
+241997	4. , GU7 
 1. 1(N14) 5(N01) , NUN~a EN~a 
 2. 1(N14) 5(N01) , AMAR EN~a 
 3. 1(N14) 5(N01) |NINDA2xGUDU4| NUN~a 
@@ -57284,106 +63209,26 @@ $ (not given)
 2. , GI 
 1. [...] X A#? UR~a#? 
 1. 1(N34) 1(N14) 5(N01)# 
-1.a. 1(N45) 5(N14) , SZE~a KU6~a KISAL~b1 
-270106	1.b1. 9(N19) 
-1.b2. 7(N19) , |LAGAB~b.TE| 
-2. 2(N45)# 1(N14) [...] SZE~a [...] 
+242009	2. 2(N45)# 1(N14) [...] SZE~a [...] 
 1. 1(N45) , SZE~a HI 
 2. 2(N14) , PAP~a SZE~a [...] 
 3. 1(N45) [...] 
-1.a. [...] 1(N36)# 2(N34) [...] , SZE~a GIBIL U4 |LAGAB~b.TE|# 
-270114	1.b1. [...] 
-1.b2. 1(N46) [...] 
-1. 3(N01) , SZE~a GAL~a MUSZEN AMA~a 
+242014	1. 3(N01) , SZE~a GAL~a MUSZEN AMA~a 
 2. 1(N01) 3(N57)? GESZTIN~d 
 1. 1(N01) , UDU~a 
-1.a. [...] 1(N14) , KASZ~a KALAM~b [...] SUG5 
-270121	1.b1. [...] 
-1.b2. 1(N03) 4(N40) 
-2.a. 1(N01) , GAR |ZATU714xHI@g| AN AB~a 
-2.b. 2(N42~a) |ZATU714xHI@g| MU 
-3.a. 1(N14) , U2~a GAR 
-3.b. 1(N42~a) 
-4.a. 5(N14) , SI GAR NAGA~a 
-4.b. 1(N42~a) 
-5.a. 5(N01) , DUG~a NAGA~a SAG SUG5 
-270131	5.b1. 1(N05) 2(N42~a) 
-5.b2. 1(N03) 
-6.a. 2(N01) , KASZ~a 
-6.b. 2(N05) 
-6.c. 1(N03) 1(N40) 
-7.a. [...] |ZATU714xHI@g| [...] 
-270138	7.b1. 2(N05) |ZATU714xHI@g| 
-7.b2. [...] 
-1.a. [...] 
-1.b. [...] 
-2.a. 3(N14) , NAGA~a SI GAR 
-2.b. 2(N42~a) , 
-3.a. 2(N05) , UKKIN~a AN |SZU2xEN~a| 
-3.b. 3(N40) , 
-4.a. 1(N05) 1(N42~a) 1(N25) , ZATU710 GAN2 ISZ~b 
-4.b. 4(N40) , 
-5. 1(N05) , UNUG~a AN NUNUZ~a1 ZATU788 
-6.a. 1(N51) , GAR NA2~b1 [...] GAL~b |LAL2~axNAGA~a| 
-270151	6.b1. 5(N05) , 
-6.b2. 2(N05) , ZATU710 
-6.b3. 1(N03) 1(N40) , 
-7.a. 1(N01) , ZATU710 AB~a UB ZI~a 
-7.b. [...] 
-1.a. [3(N39~a)?] ZATU710# SI TUN3~a 
-1.b. [1(N40)?] 1(N24') , 
-2.a. 3(N39~a) ZATU710 AD~a UR~a UB ZI~a 
-2.b. 1(N40) 1(N24') , 
-3.a. 3(N39~a) ZATU710# |AB~axASZ2| 
-3.b. 1(N40) 1(N24')# , 
-4.a. 3(N39~a) ZATU710 AB~a 
-4.b. [1(N40) 1(N24')] , 
-5. [...] 
-1.a. [...] 
-1.b. [...] 1(N42~a) , 
-2.a. 2(N14) , SZAGAN 
-2.b. 2(N42~a) , 
-3. 1(N42~a) BIR? 
-4.a. 4(N14) , GAR IM~a 
-4.b. 1(N05) , 
-5. [...] DAR~a GU~a 
-6.a. [...] DAR~a GU~a 
-6.b. 2(N42~a) , 
-7. [...] 1(N40) , DAR~a GU~a# 
-1.a. [...] 3(N14) , GAR TUR3~a ME~a 
-1.b. 1(N05)# , 
-2.a. 2(N14) , DUG~a 
-270180	2.b1. 2(N05) , [...] 
-2.b2. 1(N03) 1(N40) , 
-3. 2(N39~a) MU |ZATU714xHI@g| 
+242028	5. 1(N05) , UNUG~a AN NUNUZ~a1 ZATU788 
+242035	5. [...] 
+242038	3. 1(N42~a) BIR? 
+242040	5. [...] DAR~a GU~a 
+242042	7. [...] 1(N40) , DAR~a GU~a# 
+242045	3. 2(N39~a) MU |ZATU714xHI@g| 
 4. 4(N01) , TUR3~a SANGA~a SZE~a 
 5. 2(N01)# , AB~a |1(N57).SZUBUR| 
 6. , GU7 
-1.a. 5(N14)# 5(N01) 3(N39~a) 1(N24) , 
-270188	1.b1. 5(N20)# 2(N05) 2(N42~a) 1(N25) , 
-1.b2. 3(N01) 1(N39~a) 1(N24) , TAR~a SZE~a 
-2.a. 1(N14) 4(N39~a) 1(N24) , SZE~a TE# [LAGAB~b?] 
-2.b. 1(N18) 4(N03) 4(N40) 
-3. [...] 1(N14)# , SZE~a X 
-1.a. 2(N01) , ZATU859 SZE~a SAL A 
-1.b. |NINDA2xZATU710| 
-2.a. 3(N04) , 
-2.b. , U4 GAR 
-3. 3(N57) , SZITA~a3 HAL PAP~a 
+242051	3. [...] 1(N14)# , SZE~a X 
+242054	3. 3(N57) , SZITA~a3 HAL PAP~a 
 1. 2(N01) 3(N04) |NINDA2xZATU710| GAR U4# 3(N57) , SZITA~a3 HAL PAP~a EZEN~c 
-1.a. 1(N34) , SI GAR 
-1.b. 1(N05) 1(N42~a) 
-2.a. 3(N14) , UB ZI~a URU~a1 
-2.b. 3(N42~a) 
-3.a. 1(N01) , ZATU710 KUR~a 
-3.b. 4(N41) 
-4.a. 2(N39~a) 1(N24) , BU~a MUD UNUG~a 
-4.b. 2(N41) 
-5.a. 1(N01) |NINDA2xZATU710| A# AL 
-5.b. 4(N41) 
-6.a. 2(N14) [...] U4 GAR X 
-6.b. 3(N41) 
-1. 2(N39~a) 1(N24)# , AN ZATU788 NUNUZ~a1 ZATU710 
+242062	1. 2(N39~a) 1(N24)# , AN ZATU788 NUNUZ~a1 ZATU710 
 2. 1(N34) 3(N14) , U4 GAR X 
 1'. [...] 
 2'. [1(N01) HAL] SZA3~a1 UR2# 
@@ -57396,9 +63241,7 @@ $ (not given)
 5'. 2(N01) , ME~a |2(N57).MUSZEN| PAP~a 
 6'. , BA U4# 
 1. , A# HAL AL 
-1.a. 2(N14) 
-1.b. 1(N01) 1(N39~a) , TAR~a 
-2. 3(N01) , BULUG3 SZE~a 
+242076	2. 3(N01) , BULUG3 SZE~a 
 3. 1(N01) 1(N39~a) HI~a@g NE~a 
 4. 1(N01) , NE~a SZE~a 
 5. 1(N39~a) GESZTU~c3#? SZE~a 
@@ -57406,11 +63249,7 @@ $ (not given)
 1. [...] SZE~a# X 
 2. , X X 
 1. 3(N14)# 3(N01)# 1(N24) , SZE~a SU~a AB~a NUN~a X 
-1.a. 1(N14)# [2(N01)] , UR5~a SAL SZU 
-1.b. 2(N39~a) , TAR~a 
-2.a. 3(N14) 3(N01) 3(N39~a) 1(N26)# , SZU UR5~a SZE~a 
-2.b. 4(N01) 1(N39~a) 1(N24) 1(N30~a) , TAR~a# 
-3. 2(N14) 2(N39~a) 1(N24) , BULUG3 SZE~a [...] 
+242086	3. 2(N14) 2(N39~a) 1(N24) , BULUG3 SZE~a [...] 
 4. 1(N14) 3(N01) 1(N39~a) 1(N28) , AN ZATU788 NUNUZ~a1 SAL 
 5. 1(N01) , SZE~a ABGAL NUN~a URI3~a 
 6. [N?] 1(N39~a) NUMUN [...] 
@@ -57418,9 +63257,7 @@ $ (not given)
 2. 3(N39~a) AB~a |U4x1(N01)| 
 3. 1(N28) , AN ERIN SAL SZE~a 
 4. , SZE~a GU7 
-1.a. [...] 2(N19) 2(N04) 4(N41) , SZU# 
-1.b. [...] 
-2. [...] 1(N19) [...] EN~a#? 
+242095	2. [...] 1(N19) [...] EN~a#? 
 3. , 1(N04) GU7 
 1. [...] 
 2. 2(N03)# [...] , X NUN~a ERIM~a TUR 
@@ -57432,25 +63269,12 @@ $ (not given)
 1. 1(N18) [...] 2(N03)# 1(N40) , [...] 
 1. 2(N14)# [...] , SZE~a 
 2. [...] , [...] 
-1.a. 1(N20)# 3(N05)# , HI~a@g# SZE~a IDIGNA KALAM~g EN~a AMA~a 
-1.b. 5(N01)# , HI~a@g 
-270263	1.c1. 4(N01) , HI~a@g 
-1.c2. 1(N01) , SZE~a 
-2.a. , IDIGNA AMA~a# 
-2.b. 1(N01) , HI~a@g 
-2.c. 2(N01) , SZE~a 
-1. [...] , SZE~a 
-2.a. , AB~a 
-2.b. 2(N39~a) , SZE~a 
-3. , AB~a |LAGAB~axSZA| 2(N39~a) SZE~a 
+242109	1. [...] , SZE~a 
+242111	3. , AB~a |LAGAB~axSZA| 2(N39~a) SZE~a 
 4. , AB~a 1(N39~a) HI@g~a 
 5. [...] 
-1.a'. [N] 1(N05)# , 
-1.b'. [N] 3(N40)# , 
-2'. [...] 1(N28) , UNUG~a 1(N04) HI~a@g U4 
-3.a'. [...] X 
-3.b'. 1(N05) 1(N25) 
-4'. [...] 
+242115	2'. [...] 1(N28) , UNUG~a 1(N04) HI~a@g U4 
+242117	4'. [...] 
 1. , BA AN MUSZ3~a 
 1. [...] 3(N14) , SZE~a SZEN~c# A 
 2. 5(N19) , SZA3~a2# GI6 BU~a 
@@ -57461,11 +63285,7 @@ $ (not given)
 4. [...] 
 1. [...] 
 2. 2(N14) [...] 
-3.a. 2(N19) , 
-3.b. 1(N14) , [...] X 
-4.a. 1(N19) , 
-4.b. 1(N14) , [...] 
-1. [...] GUG2 X E2~a 
+242130	1. [...] GUG2 X E2~a 
 2. [...] 1(N01) , X GABURRA 
 3. 3(N01) , KAK~a NAB KU3~a 
 4. 3(N01) , E2~a GAL~a 2(N57)? 
@@ -57474,14 +63294,7 @@ $ (not given)
 1. [...] , KISAL~b1 ZATU710 
 2. , GU7 
 1. 2(N14) 5(N01) , SAL MUSZEN NUN~a GU7 
-1.a. [...] 1(N24)# , |U4.1(N08)|#? 
-1.b. [...] 
-2.a. [N] 3(N01)# , GUG2 URU~a1 
-2.b. 1(N05)#, [...] 
-3.a. 6(N01) , GUG2 URU~a1 
-4.a. [...] 1(N01) , GUG2 URU~a1 
-4.b. 1(N05)# , [...] 
-5. [...] 
+242143	5. [...] 
 1. [...] 
 2. [1(N36)?] 4(N19)# , X IM~b 
 3. [...] 1(N19)# [...] 
@@ -57513,9 +63326,7 @@ $ (not given)
 2. [...] 
 3. [...] 
 1. [...] , ZATU710 
-1.a. 1(N14) 2(N01) , SZE~a UDU~a 
-1.b. 4(N04) 
-2. [...] , X 
+242176	2. [...] , X 
 1. 1(N01) [...] 2(N01) , [...] 
 1. [...] 2(N05) , 3(N57) SA~c 
 2. 2(N05) , |SAG+GESZTU~a| NAR 
@@ -57546,31 +63357,12 @@ $ (not given)
 1. [...] SZE~a# X HI# 
 2. 1(N01) , SUHUR# 
 3. , X SZU SAL PAP~a ISZ~b 
-1.a. 5(N01) , SUM~a GA2~a1 PAP~a E2~b EN~a ISZ~a 
-270377	1.b1. 3(N01) , GA2~a1 GAL~a 
-270380	1b2a1. 1(N01) , GAL~a 
-1b2a2. 1(N01) , GA2~a1 TUR 
-270383	1b2b1. 1(N01) , |U4x3(N57)| 
-1b2b2. 1(N01) , X 
-1.c. , PIRIG~b1 ISZ~a 
-2.a. 1(N01) , SUM~a ISZ~a KISAL~b1 
-2.b. 2(N39~a) GUM~b SUM~a 
-2.c. 3(N39~a) SI SUM~a 
-3.a. 1(N01) 1(N39~a) SUM~a PIRIG~b1 ZATU693? 
-3.b. 1(N39~a)# SUM~a GUM~b 
-3.c. 1(N01) , SI SUM~a KAK~a 
-4.a. 1(N14) , X URUDU~a 
-4.b. , MUN~a1# [...] 
-1. [...] E2~a 
+242211	1. [...] E2~a 
 2. [...] X X BAR# BU~a 
 3. , GAN2 APIN~a 
 4. , ME~a SZU E2~a GAN2# X X 
 5. [...] 
-1.a. 2(N01) , UDU~a HI 
-270401	1.b1. 1(N08) , ZATU714 
-1.b2. 1(N08) , MAH~a#? 
-1.b3. 1(N01) |MAH~axMASZ|# 
-2. 5(N08) , SUHUR BA 
+242217	2. 5(N08) , SUHUR BA 
 3. 3(N01) , SUHUR SZU#? 
 4. 2(N08) , SUHUR [...] 
 5. 5(N01) , GAL~a |ZATU759xKU6~a|# 
@@ -57811,22 +63603,13 @@ $ (not given)
 1. 2(N01) , |E2~ax1(N57)@t| 
 1. |1(N57).BU3| 
 2. |E2~ax1(N57)@t| 
-1.a. 2(N01) , |E2~bx1(N57)@t| 
-270647	1.b1. , BULUG3 
-1.b2. , DILMUN 
-1.a. 2(N01) , |E2~ax1(N57)@t| 
-270651	1.b1. , |BU~a+KI| 
-1.b2. , KISZIK 
-1. 2(N01) , |E2~ax1(N57)@t| 
+242460	1. 2(N01) , |E2~ax1(N57)@t| 
 1. , E2~a GAR 
 2. , MUSZEN TUR 
 1. 2(N01) |E2~ax1(N57)@t| 
 1. 3(N57) , HAL 
 2. , KASZ~c |SZE~a&SZE~a| 
-1.a. 2(N01) , |E2~ax1(N57)@t| 
-270661	1.b1. , MASZ 
-1.b2. , BA PIRIG~b1 
-2. , TUR3~a 
+242467	2. , TUR3~a 
 1. 3(N01) , |E2~ax1(N57)@t| 
 1. , BULUG3 
 2. , HI 
@@ -57845,21 +63628,7 @@ $ (not given)
 1. [1(N01)] , USZ~a DA~a ZATU697~a? 
 2. 1(N01) , |ZATU651xEN~a|# EZEN~b# 
 3. , DU! 
-1.a. 5(N34) 2(N14) , X 1(N57)# 
-1.b. 5(N34) 5(N01) , 1(N58)# 
-1.c. 5(N50) 4(N14)# 4(N01)# , [...] 
-2.a. 4(N34)# [...] , [...] 
-2.b. 1(N34) 2(N14) 2(N01)# , [...] 
-2.c. [...] , [...] 
-1.a. 4(N34) 2(N01) , 1(N57) 
-1.b. 2(N34) 6(N01) , 1(N58) 
-1.c. 3(N34) 5(N14) 4(N01)# , 1(N57) 
-1.d. 2(N34) 4(N01)# , 1(N58) 
-2.a. 3(N34) 5(N14) 8(N01)# , 1(N57) 
-2.b. 2(N34)# 5(N01)# , [1(N58)] 
-2.c. 1(N50)# 6(N14)# [1(N22) 3(N01) 5(N08)] , [GAN2] 
-3.a. [...] 1(N14)# [...] 
-1. 1(N34) 3(N01) , 
+242491	1. 1(N34) 3(N01) , 
 2. 2(N02) [...] 
 3. [...] KID~c 
 1. , LA2 2(N34) 1(N01) 
@@ -57878,11 +63647,7 @@ $ (not given)
 2. 2(N01) , ANSZE~a# X 
 3. 2(N01) , AMAR#? [...] 
 1. [...] 
-1.a. 1(N14) 5(N01)# , PAP~a |1(N57).MUSZEN|#? EN~a# IB~a# 
-270717	1.b1. 1(N01) , AL# 
-1.b2. 4(N01) , TUR 
-1.b3. 1(N14) , SAL 
-1. 1(N01) , GAL~a NIM~a 
+242511	1. 1(N01) , GAL~a NIM~a 
 2. 1(N01) , EN~a EN~a# 
 3. 1(N01) , GAN2# GIR3@g~b GIBIL#? 
 4. 1(N01)# , PU2# X 
@@ -57954,88 +63719,29 @@ $ (not given)
 2. 3(N14) , SZU ZI~a 
 3. [...] 
 1. [...] 
-2.a. [...] , [...] X 
-2.b. [...] PAP~a 3(N57) , AMAR 
-270795	2.c1. 1(N01) , [|U4x1(N57)|] TUR# 
-2.c2. , E2~a E2~a BU~a 
-270798	2.d1. [1(N01)] SAL# 
-2.d2. , AN ZI~a 
-3.a. 2(N01)# , X X 
-3.b. , SZEG9 ZATU773~a 
-270803	3.c1. 1(N01) , |U4x1(N57)| TUR 
-3.c2. , X NA2~b1 
-270806	3.d1. 1(N01) , SAL 
-3.d2. , NU SIG2~b 
-4.a. 2(N01)# , UMUN2 X 1(N57) MUSZEN 
-4.b. , NIM~b1 X 
-270811	4.c1. 1(N01) , |U4x1(N57)| TUR 
-4.c2. 3(N57) , NUNUZ~a1 
-270814	4.d1. 1(N01) , SAL 
-4.d2. , DIM~a 
-5.a. [...] , [...] 
-270818	5.b1. , URU~a1#? URU~a1#? 
-5.b2. [...] X KI#? 
-5.c. 1(N01) , |U4x1(N57)| TUR 
-5.d. , EN~a# X BU~a# 
-6. [...] 
+242587	6. [...] 
 1. [...] , [...] GI# 
 2. , KISZ# ZATU752 GAN2 [...] 
-1.a. , HI AD~a 
-1.b. , SAL BAR 
-2.a. , TI~a BU3~a 
-2.b. , GADA~a 
-3.a. , ZATU686~c PAP~a 
-3.b. , TUG2~a BUR2 
-4.a. , UZ~a ZATU694~c 
-4.b. , TUG2~a BUR2 
-5.a. , EN~a U4 TI~a 
-5.b. , GISZIMMAR~b1? 
-1.a. , SAL APIN~a 
-1.b. , GADA~a 
-2.a. , AN U2~b 
-2.b. , TUN3~a 
-3. , PAP~a PIRIG~b1 
+242597	3. , PAP~a PIRIG~b1 
 1. [...] X [...] 
 2. 1(N45) , EN~a# NE~a 
 3. 1(N45) , SI ME~a 
 4. 1(N45) , E2~a |2(N57).MUSZEN| 
 5. 1(N45) 1(N14) , KU6~a# KISAL~b1 
-1.a. 1(N01) , KISAL~b1 
-1.b. , DU GA2~a1 EN~a 
-2.a. 1(N01) , ZAG~a E2~a 
-2.b. , AK~a PAP~a 
-3.a. 1(N01) , |MAH~axTUN3~c|? 
-3.b. , ISZ~b ZI~a 
-4.a. 1(N01) , |SIxSAL| PA~a 
-4.b. , EN~a SUM~b DU 
-5.a. 1(N01) , DI 
-5.b. , NIM~b1 
-6.a. , UKKIN~a DA~a 
-6.b. , BU~b GI6 
-1. 2(N01) , NA2~b2 
+242609	1. 2(N01) , NA2~b2 
 2. 2(N01) , GA2~a1 
 3. , EN~a TE E~a KISAL~b1 
-1.a. 1(N14) , EN~a TE E~a KISAL~b1 
-1.b. 
-1. 1(N01) , PA~a GISZIMMAR~a2 
+242613	1. 1(N01) , PA~a GISZIMMAR~a2 
 2. 1(N01) , SUHUR# 
 3. 2(N01) , NA2~b2 
 4. 1(N01) , GA2~a1 
 5. 1(N01) , NE~a KU6~a 
 1. 1(N01) , EN~a# TE 
 2. , PA~a KI KU6~a 
-1.a. 1(N01) , UKKIN~a SZU 
-1.b. , GI6 BU~b 
-2. 2(N01) , GA2~a1 
-3.a. 1(N01) , |SIxEN~a| 
-3.b. , GA2~a2 BU~a 
-4.a. 1(N01) , |SIxTUN3~a| 
-4.b. , EN~a NANSZE~b 
-5. 2(N01) , NA2~b2 
+242621	2. 2(N01) , GA2~a1 
+242624	5. 2(N01) , NA2~b2 
 1. , UKKIN~a E2~a IN~b EN~a 
-1.a. 7(N01) , IN~b EN~a IN~b EN~a TE 
-1.b. , SZAB~b E~a 
-2. , E~a UKKIN~a 
+242627	2. , E~a UKKIN~a 
 1. 1(N01) , PAP~a BU~a NAM2 
 2. 1(N01) , SAL BU~a 
 3. 1(N01) , PAP~a KISZ 
@@ -58048,76 +63754,14 @@ $ (not given)
 2. 1(N01) , PAP~a 3(N57) , SU~a 
 3. 1(N01) , SIMUG SZIDIM 
 4. 1(N01) , SI4~f 
-5.a. 1(N01) 2(N57) , |GISZxSZU2~b| 
-270895	5.b1. , NIM~b1 
-5.b2. 3(N57) , SU~a PAP~a 
-1. 1(N01) , ISZ~b USZ~a 
+242641	1. 1(N01) , ISZ~b USZ~a 
 2. , E~a KISAL~b1 
 1. 6(N01) 1(N57) , SAL BAR |GISZxSZU2~b| 
 1. 5(N01) 1(N57) , SAL BAR 
 2. 1(N01) , |GISZxSZU2~b| 
-1.a. 3(N14) 7(N01) , UR5~a SAL 
-270905	1.b1.a. 2(N14) , GI6 AMA~a 
-270907	1.b1.b01. , NIN NAB DI 
-1.b1.b02. , SAL 1(N02) , PAP~a 
-1.b1.b03. , BU~a U4 SI4~a 
-1.b1.b04. , EN~a U4 
-1.b1.b05. [...] X 
-1.b1.b06. , NAR 
-1.b1.b07. , EN~a U4 
-1.b1.b08. , ZATU628~a KI 
-1.b1.b09. [...] 
-1.b1.b10. [...] 
-1.b1.b11. , SAL# SAL 
-1.b1.b12. , SZEG9 
-1.b1.b13. [...] 
-1.b1.b14. [...] 
-1.b1.b15. [...] 
-1.b1.b16. , X GI4~a 
-1.b1.b17. [...] 
-1.b1.b18. [...] 
-1.b1.b19. [...] 
-1.b1.b20. [...] 
-270928	1.b2.a. 1(N14) 7(N01) , X 
-270930	1.b2.b01. [...] 
-1.b2.b02. , EN~a# [...] 
-1.b2.b03. [...] 
-1.b2.b04. [...] 
-1.b2.b05. , NAGA~a 
-1.b2.b06. [...] ZATU694~c# 
-1.b2.b07. [...] 
-1.b2.b08. , AN NIN DUB~a 
-1.b2.b09. , NAGA~a HI 
-1.b2.b10. [...] 
-1.b2.b11. [...] 
-1.b2.b12. , X NUN~a# [...] 
-1.b2.b13. , HI@g~a [...] 
-1.b2.b14. [...] 
-1.b2.b15. [...] 
-1.b2.b16. [...] 
-1.b2.b17. [...] 
-2.a. 3(N01) , SAL TUR 
-270950	2.b1.a. 2(N01)# [...] 
-270952	2.b1.b1. , AMA~a GI6 
-2.b1.b2. , X [...] 
-270955	2.b2.a. 1(N01) , X 
-270957	2.b2.b1. , MA AN AMA~a 
-3.a. 2(N01) , SAL SZA3~a1 
-270960	3.b1. , SAL SAL 
-3.b2. , TUR3~a BALA~b 
-4.a. 3(N01) , KUR~a TUR 
-270964	4.b1. , EN~a GAL~a AK~a 
-4.b2. , U4 NIM~a 
-4.b3. , SZU TUR 
-5.a. 3(N01) , KUR~a SZA3~a1 
-270969	5.b1. , ZATU773~a NI~a 
-5.b2. , SZU TUR 
-5.b3. , SZU NI~a U4# 
-6. , EN~a ERIM~a NA2~a#? |NINDA2xNUN~a|#? 
+242651	6. , EN~a ERIM~a NA2~a#? |NINDA2xNUN~a|#? 
 1. 4(N14)# 8(N01)# , GAL~a# AMA~a#? SAL# KUR~a# EN~a# X 
-1.a. 4(N14)# 2(N01)# [SAL] 
-1.b. 5(N01)# [TUR?] 
-2. 6(N01)# [KUR~a] 
+242654	2. 6(N01)# [KUR~a] 
 1. 3(N01)#? TU~a BU~a 
 2. 3(N01) , GIR2~a# SIG NUN~a 
 3. 1(N01) , KISZIK~a 
@@ -58131,17 +63775,7 @@ $ (not given)
 4'. , SZU TUR 
 5'. |1(N57).SZUBUR| 
 6'. [...] 
-1.a. 1(N01) , ERIN X 
-1.b. , DAR~b# PAP~a 
-2.a. 1(N01) , SAGSZU NUN~a 
-2.b. , EN~a X TI~a 
-3.a. 1(N01) , SUR APIN~a 
-3.b. , E~b# SZAB~a# 
-4.a. 1(N01) , X 
-4.b. [...] X 
-5.a. , X GIBIL#? 
-5.b. [...] X 
-1. , EN~a 4(N01) [...] U4#? LAGAR~a# |GISZ+SZU2~b|# [...] 
+242673	1. , EN~a 4(N01) [...] U4#? LAGAR~a# |GISZ+SZU2~b|# [...] 
 1. [...] 
 1. 5(N01) , BU~a ZATU759 
 2. 2(N01) , SI ME~a E2~a 
@@ -58278,102 +63912,20 @@ $ (not given)
 6. 1(N22)# [...] , [...] 
 7. [...] , [...] 
 1. 2(N50) 8(N14) 4(N01) 3(N57) , SZE~a SANGA~a KISZ LAGAB~b? 
-1.a. 1(N34) 3(N14) 1(N01) , AN PIRIG~b1 
-1.b. 1(N14) 2(N01) 
-1.c. 1(N22) 4(N01) 9(N08) , GAN2 
-2.a. 1(N34) 3(N14) , MUD PAP~a NUN~a 
-2.b. 1(N14) 6(N01) 
-2.c. 2(N22) 2(N01) 4(N08) , GAN2 
-3.a. 1(N34) 4(N14) 3(N01) , PAP~a#? LUM#? 
-3.b. 1(N14) 1(N01) 
-3.c. 1(N22) 5(N01) 3(N08) , GAN2 
-4.a. 1(N34) 1(N14) 6(N01) , PAP~a DAR~b 
-4.b. 2(N14) 8(N01) 
-4.c. 1(N14) 3(N01) 3(N08) , GAN2 
-5.a. 4(N14) 2(N01) , PAP~a AZ 
-5.b. 3(N14) 3(N01) 
-5.c. 2(N22) 1(N01) 9(N08) , GAN2 
-6.a. 3(N14)# 8(N01)# , PAP~a DU KI 
-6.b. 3(N14) 3(N01) 
-6.c. 2(N22) 6(N08) , GAN2 
-7.a. 1(N34) 2(N14) 2(N01) , BU~a PAP~a#? AD~a#? 
-7.b. 2(N14) 4(N01) 
-7.c. 1(N22) 1(N01) 6(N08) , GAN2 
-1.a. 3(N14) 8(N01) , PAP~a SAL# 
-1.b. 2(N14) 5(N01) 
-1.c. [1(N22)] 3(N01)# [5(N08)] GAN2 
-2.a. 1(N34) 4(N14) [...] 
-2.b. 2(N14) 8(N01) 
-2.c. 1(N14)# 1(N22)# 4(N01)# , GAN2 
-3.a. 1(N34) 4(N01) , SZAB~a 
-3.b. 2(N14) 6(N01) 
-3.c. 2(N22)# [4(N01) 6(N08)] GAN2 
-4.a. 3(N14)# 2(N01)# , PAP~a# [...] 
-4.b. 2(N14)# 5(N01) 
-4.c. 1(N22)# [2(N01)] GAN2 
-5.a. 3(N14) 2(N01)# , PAP~a# [...] 
-5.b. 2(N14) 5(N01)# 
-5.c. 1(N22)# 2(N01)# , GAN2 
-6.a. 
-6.b. 
-1. 9(N14)# 2(N22)# , GAN2# SZAB~b# [...] 
+242823	1. 9(N14)# 2(N22)# , GAN2# SZAB~b# [...] 
 1. [...] 
-1.a. 4(N14) , 1(N58) 
-1.b. 4(N34) , 1(N57) 
-2.a. 5(N14)# 1(N22) , GAN2 
-271181	2.b1. 2(N22)# , X 
-2.b2. 2(N22)# , X 
-2.b3. 3(N14) 2(N22) , EN~a 
-2.b4. 1(N22) , SAL E2~b 
-3.a. 5(N14) 2(N22) 8(N08) , GAN2 
-271187	3.b1. 1(N01) 8(N08) , BAR 
-3.b2. 1(N22) 3(N01) , |SZE~a.NAM2| 
-3.b3. 5(N14)# 2(N01) , |NUN~a+NAM2|# 
-1. 3(N14) , DU SUM~b [...] 
+242828	1. 3(N14) , DU SUM~b [...] 
 2. 1(N14) 1(N22) 3(N01) , PAP~a MUSZEN 
 3. 1(N22) 3(N01) , SZESZ~a SAL E2~b 
 4. 1(N22) 3(N01) , SZIDIM 
 5. 1(N22) 3(N01) , EN~a DU BU~b ZATU759 
 6. 5(N14) , SI ME~a 
 7. 5(N14) 2(N22) 8(N08) , AL# 
-1.a. 5(N14) 4(N01)# , 1(N58) 
-1.b. 3(N34) 1(N57) , SI ME~a 
-2.a. 3(N14) 8(N01)# 1(N58) , |NUN~a+NAM2|#? KI 
-2.b. 3(N34) 1(N57) , SZIDIM 
-3.a. 4(N14) 6(N01) , 1(N58) 
-3.b. 3(N34) , 1(N57) 
-3.c. 4(N14)# 1(N22) 4(N01)# 8(N08) , A? GAN2 
-4.a. 2(N14)# 2(N01)# , 1(N58)# 
-4.b. 1(N34) 4(N14) , 1(N57)# 
-4.c. 1(N14) 4(N01)# , X GAN2 
-1.a. [...] 2(N34)# [...] 1(N57)# 
-1.b. 3(N34)# 1(N58) 
-1.c. 3(N34)# 3(N14)# [...] 1(N57) 
-1.d. 1(N34)# [...] 4(N14)# [... 1(N58)] 
-2.a. [... 1(N57)] 
-2.b. 2(N34)# 6(N01)# 1(N58) 
-2.c. 3(N34)# [...] 6(N01)# 1(N57) 
-2.d. 2(N34)# 3(N14)# 8(N01) 1(N58) 
-3.a. [...] X [1(N57)] 
-3.b. 3(N14) 1(N58)# 
-3.c. [...] 5(N14) 1(N57) 
-3.d. 1(N14) 5(N01) 1(N58) 
-1'. [...] , [...] 
+242842	1'. [...] , [...] 
 2'. [...] GAL~a# UB# E2~a# 
 3'. 
 4'. [...] SZU IB~a 
-5.a'. [...] 
-5.b'. 1(N14) 5(N01) 1(N58) 
-5.c'. 1(N14) 3(N01) , GAN2# 
-6.a'. [...] , [...] 
-6.b'. 6(N14) 3(N01)# [...] 
-1.a. 2(N14) 3(N01) , GAN2 GI6 A GISZ DU7 
-1.b. , DA~a#? AB~a APIN~a NUN~a 
-2.a. , ZATU659? ISZ~b SAL UNUG~a LAGAR~a 
-2.b. , EN~a PAP~a DU KISAL~b1 AN# E~a GAL~a 
-1.a. 1(N01)#? [...] SANGA~a 
-1.b. , AB~a# APIN~a# NUN~a#? 
-2. [...] , [...] 
+242851	2. [...] , [...] 
 1. 8(N01) , AM~b 
 2. 3(N01) , ZATU703 
 3. 2(N01) , TAK4~a RU? [...] 
@@ -58428,21 +63980,11 @@ $ (not given)
 2. 2(N34) 1(N14) 5(N01) , SZU 
 3. 1(N14) 
 1. 8(N34)# 1(N14) 1(N01)#? , BA KISZ# [...] 
-1.a. 1(N01) , KISZ SAL ERIM~a AZ 
-1.b. 1(N01) , KISZ KUR~a 
-2.a. 1(N01) , KISZ SAL DUR2 |1(N58).BAD~a| 
-2.b. 1(N01) , KISZ KUR~a 
-3.a. 1(N01) , X SAL X ZATU694~c 
-3.b. 1(N01) , KUR~a 
-4.a. 2(N01) , SAL KISZ# RU 
-4.b. 1(N01) , KUR~a 
-5. 1(N01)# [...] GAL~b 
+242910	5. 1(N01)# [...] GAL~b 
 1. 1(N01) , KUR~a EN~a PIRIG~b1# 
 2. 1(N01) , KUR~a PA~a MA |GISZxSZU2~a| A#? 
 3. 1(N01) , KUR~a KALAM~a PA~a 
-4.a. 1(N01) , KUR~a SI4~f TAK4~a 
-4.b. 1(N01) , SAL# 
-5. , KISZ 
+242915	5. , KISZ 
 1. 5(N01) , SAL 
 2. 1(N14) , KUR~a 
 1. 1(N14) 5(N01) , SANGA~a SZUBUR X RAD~a@g KISZ KUR~a SAL 
@@ -58553,41 +64095,8 @@ $ (not given)
 1. 1(N14)# 5(N01)# , MUN~a1# 
 2. 5(N14)# 6(N01)# [|DU8~cxAMAR|?] 
 1. 1(N34)# 1(N14)# 1(N01)# , KISZ# NINDA2#? X X 
-1.a. [...] , [...] 
-1.b. [...] , [...] 
-2.a. 5(N01)# , EN~a#? X ASAR 
-2.b. 3(N02)# 
-3.a. 1(N14) , X ZATU703 
-3.b. 5(N02) 
-4.a. 2(N14) 6(N01) , KI#? 
-4.b. 3(N02) , BA 
-271423	4.c1. 1(N02) 
-4.c2. 1(N01) , X 
-5.a. 1(N14)# 1(N01) , X 
-271427	5.b1. 1(N02) , BA 
-5.b2. 1(N01) , E2~a KUR~a 
-5.c. 4(N02) , MAH~a 
-6.a. 8(N01) , SUKKAL 
-6.b. 2(N02) 
-7.a. 2(N14) , UR4~a? 
-7.b. 5(N01) , RU 
-7.c. 4(N02) 
-8. , GAL~a X 
-1.a. [...] EN~a#? 
-1.b. [...] , [...] 
-2.a. 2(N14)# 5(N01)# , ZATU759 SAG 
-271440	2.b1. 2(N01)# , X SI 
-2.b2. 2(N02) 
-2.c. 2(N01) , E2~a NU@g 
-3.a. 1(N14) 6(N01) , ZATU703 BA EN~a 
-271445	3.b1. 4(N01) , SANGA~a AN EN~a# RU 
-3.b2. 3(N02) , NE~a 
-3.b3. 3(N01)# , EN~a# 
-4.a. 8(N01) , SUKKAL URU~a1 GISZ RAD~a 
-271450	4.b1. 2(N01) , EN~a# SZU ESZDA# 
-4.b2. 6(N02)# [...] 
-4.b3. 3(N02)# , NE~a# 
-1. , KISZ GAL~a [...] 
+243033	8. , GAL~a X 
+243038	1. , KISZ GAL~a [...] 
 1. 3(N34) 2(N14) , MUN~a1 BA# 
 2. 9(N02) , BA 
 3. 5(N15) 1(N02) 
@@ -58636,13 +64145,7 @@ $ (not given)
 5. 2(N01) , URU~a1 BU~a PA~a 
 6. 1(N01) , KU6~a SZURUPPAK~b 
 1. 1(N14) 1(N01) , UDU~a BA BAR 
-1.a. 1(N01) , UDUNITA~a TAK4~a A SANGA~a 
-1.b. 1(N01) , MASZ 
-2.a. 1(N01) , UDUNITA~a |DIN+1(N57)| 
-2.b. 1(N01) , UTUA~a? 
-3.a. 1(N01) , UTUA~a LAM~b 
-3.b. 1(N01) , MASZ 
-4. 1(N01) , UDUNITA~a X SAL? BU~a 
+243090	4. 1(N01) , UDUNITA~a X SAL? BU~a 
 1. , E~a KISAL~b1 [...] |1(N57).MUSZEN| NUN~a 
 1. 7(N01) , UDU~a 
 2. , GURUSZDA~a NI~a GIR3~c 
@@ -58695,13 +64198,7 @@ $ (not given)
 8. 6(N01) , KIR11 
 9. 8(N01)# , KUR~a SILA4~b 
 10. 1(N14) 2(N01) , UTUA~a 
-11.a. [...] , KU3~a SANGA~a 
-271563	11.b1. 1(N01) , KIR11 
-11.b2. 1(N01) , KUR~a SILA4~b 
-1.a. 5(N01) , SZAH2~a? 
-271567	1.b1. 2(N01) , U8? 
-1.b2. 3(N01) , UDUNITA~a? 
-2. , UDU~a SZUBUR 
+243145	2. , UDU~a SZUBUR 
 1. 3(N57) , [...] 
 2. [...] UTUA~a 
 3. 5(N57)? KIR11 
@@ -58718,10 +64215,7 @@ $ (not given)
 4. , |SZE~a.NAM2| 
 1. 1(N14) 3(N01)# [UDU~a] 1(N01) , AB2 
 2. , |SZE~a.NAM2| 
-1.a. 2(N14) , UDU~a LAGAB~b 
-1.b. 7(N01) , |U4x1(N57)| BAR 
-1.c. 1(N01) 1(N08) , KISIM~a 
-2. , E~a ZATU752 
+243163	2. , E~a ZATU752 
 1. [...] SZU# NAR# 
 2. 2(N01)# |3(N57).SI| 
 3. 2(N01)# , SZUR2~b BU~a 
@@ -58744,9 +64238,7 @@ $ (not given)
 3. 2(N01) , ZATU633~b# 
 4. [...] TUR E2~a 
 5. 2(N01) , I UB 
-6.a. 2(N01) , |U4x1(N57)| 
-6.b. , KISZ 
-7. 2(N01) , |BU~a.DU6~a| PAP~a 
+243187	7. 2(N01) , |BU~a.DU6~a| PAP~a 
 8. 2(N01) , EN~a PAP~a PAP@t 
 9. 2(N01) , ZATU809 MUSZEN 
 10. 2(N01) , SZU2 PAP~a 
@@ -58783,17 +64275,11 @@ $ (not given)
 3. 1(N14) , UDU~a#? 
 4. 1(N14) , UDUNITA~a 
 5. 7(N01) , MASZ2 
-1.a. 1(N01) , EN~a PA~a 
-1.b. , E~a KISAL~b1 
-2. , X 1(N34) 1(N14)# 1(N01) , SZU UDU~a ZATU795 PA~a# E~a KISAL~b1# 
-1.a. 4(N01) , U8 SAL BU~a PAP~a NAM 
-1.b. 2(N01) , MASZ 
-2. 1(N01) , MASZ LA2 TE 
+243225	2. , X 1(N34) 1(N14)# 1(N01) , SZU UDU~a ZATU795 PA~a# E~a KISAL~b1# 
+243227	2. 1(N01) , MASZ LA2 TE 
 3. 1(N01) , MASZ ME~a? ME~a? 
 4. 1(N01) , UDUNITA~a X PAP~a 
-5.a. 1(N01)# , UDUNITA~a SANGA~a# KI# 
-5.b. 1(N01) , MASZ 
-1. , E~a# KISAL~b1# PAP~a 
+243231	1. , E~a# KISAL~b1# PAP~a 
 2. , IDIGNA EN~a# GURUSZDA~a IDIGNA# 
 1. 5(N01)# , U8# 
 2. 5(N01)# , MASZ2# 
@@ -58809,9 +64295,7 @@ $ (not given)
 1. 1(N14) 7(N01)# , UDU~a 
 2. 1(N01) , AB2 
 3. [...] 
-1.a. 2(N14) 6(N01) , LAGAB~b UDU~a 
-1.b. 7(N01) , |U4x1(N57)| BAR 
-2. 1(N01) 1(N08) , KISIM~a 
+243248	2. 1(N01) 1(N08) , KISIM~a 
 3. , SZEG9 
 1. 1(N01)# [...] X 
 2. 1(N01)# , GAN2# [...] 
@@ -58823,36 +64307,13 @@ $ (not given)
 4. 1(N01)# , ZATU628~a 
 5. , UDU~a BAR 
 1. 1(N14) 5(N01) , UDU~a BAR 
-1.a. 1(N14) 5(N01)# , [...] 
-271693	1.b1. 1(N14) , UD5~a 
-1.b2. 3(N01) , ESZGAR 
-1.b3. 2(N01)# , MASZ2# 
-2.a. [...] 
-271698	2.b1. [...] UD5~a# 
-2.b2. 3(N01)# , SILANITA#? 
-2.b3. [...] , U8 
-3.a. [...] 
-3.b. [...] 
-1.a. 1(N14) 2(N01) , 3(N57) A 
-271705	1.b1. 6(N01) , UD5~a 
-1.b2. 2(N01) , ESZGAR 
-1.b3. 2(N01) , MASZ2 
-2.a. 3(N01) , PAP~a BU~a NAM2 
-271710	2.b1. 2(N01) , UD5~a 
-2.b2. 1(N01) , ESZGAR 
-3.a. 4(N01)# , MUSZEN#? [...] 
-271714	3.b1. 2(N01) , UD5~a 
-3.b2. 1(N01) , UDUNITA~a 
-3.b3. 1(N01) , MASZ2 
-4. 2(N01)# , X 
+243266	4. 2(N01)# , X 
 1. 3(N14) 4(N01) , UD5~a 
 2. 9(N01) , ESZGAR 
 3. 1(N14) , UDU~a 
 4. 1(N14) , UDUNITA~a 
 5. 7(N01) , MASZ2 
-1.a. , PAP~a BU~a NAM2# 
-1.b. , E~a KISAL~b1 
-2. 1(N34) 1(N14) , UDU~a E~a SZU SIPA ZATU795 
+243273	2. 1(N34) 1(N14) , UDU~a E~a SZU SIPA ZATU795 
 1. 2(N01) , U8 
 2. 3(N01) , UDUNITA~a 
 3. 1(N01) , UD5~a 
@@ -58860,10 +64321,7 @@ $ (not given)
 5. , GAL~a SAL E~a 
 1. 1(N01) , U8 
 2. 4(N01) , UDUNITA~a 
-3.a. 5(N01) , MASZ2 
-271735	3.b1. 1(N01) , |U4x3(N57)|# 
-3.b2. 4(N01) , |U4x1(N57)|# 
-4. , |SZE~a.NAM2| 
+243282	4. , |SZE~a.NAM2| 
 1. 1(N14) , SAL E~a [...] 
 2. 1(N14)# [...] 
 1. 3(N01) , U8 
@@ -58889,13 +64347,7 @@ $ (not given)
 2. 2(N01) , [...] PAP~a |GI&GI| 
 3. 2(N01)# , NIR~a#? 
 4. 2(N01)# , [...] TE# 
-271764	1.a1. [...] X 
-1.a2. , X 
-1.b. [...] SZEG9# EN~a |GI&GI| 
-2.a. 5(N14) , UDU~a# E~b# KISAL~b1# [...] EN~a# [...] 
-271769	2.b1. 3(N14) , UDU~a E~b# KISAL~b1# SANGA~a# 
-2.b2. 2(N14)# , UDU~a# EN~a 
-1. 5(N01) , GAL~a# TE# 
+243310	1. 5(N01) , GAL~a# TE# 
 2. 5(N01) , SZU# NAR# 
 3. 5(N01) , E~a# |BU~a.DU6|# 
 4. 2(N01)# , SANGA~a# KI# 
@@ -58922,30 +64374,17 @@ $ (not given)
 9. 2(N01)# , SUHUR# 
 1. 4(N14)# 6(N01)# , UDU~a# 
 2. 1(N14) , U8 
-271799	1.a1. 5(N14)# 6(N01)# , UDU~a# 
-1.a2. , |GI&GI| AB~a# 
-271802	1.b1. 1(N14) 2(N01)# [...] 
-1.b2. 1(N14) 2(N01)# , PAP~a BU~a NAM2# 
-1.b3. 1(N14) [...] 
-1.b4. 2(N01) [...] 
-1.b5. 2(N14) , UDU~a# ZATU752# GI# 
-2. [...] 
+243338	2. [...] 
 1. 6(N34) 5(N14) , SUHUR SI4~a 
 2. 4(N34) , |GA2~a1xKU6~a| 
-3.a. , KU6~a KISAL~b1 BA 
-3.b. , SZUR2~b BU~a 
-1. 1(N14) , SUHUR@n 
+243342	1. 1(N14) , SUHUR@n 
 2. 1(N14) , |ZATU759xKU6~a| 
-3.a. , X SANGA~a NUN~a# 
-3.b. , SANGA~a NUN~a SUKKAL# 
-1. , SZU PA~a 
+243345	1. , SZU PA~a 
 2. 1(N34) 4(N14) 3(N01) , SUHUR 
 3. 3(N01) , GAL~a SUHUR 
 1. [...] 2(N14)# 3(N01)#? , DU# SANGA~a# 
 2. 3(N34) 3(N14) 6(N01) , X ME~a SUHUR 
-3.a. 2(N14) 6(N01) , SUHUR 
-3.b. 2(N14) 6(N01) , SANGA~b? 
-1. 2(N48) , SZUBUR UBI~c 
+243351	1. 2(N48) , SZUBUR UBI~c 
 2. 1(N14) 5(N01) , UBI~d 
 3. , E~b 
 1. 2(N48) , SZUBUR UBI~c 
@@ -58960,10 +64399,7 @@ $ (not given)
 1. 3(N48) 6(N34) 2(N14) 4(N01) , UBI~c AB~a 
 2. 2(N34) 4(N14) , IDIGNA X 
 3. 4(N14) , KISAL~b1#? 
-4.a. 2(N14) 1(N01) , GI# 
-271840	4.b1. 2(N14)# , GI# SZURUPPAK~a# KISAL~b1#? E~a# 
-4.b2. 1(N01)# , BU~a# MUD# NA~a# [...] 
-5. , GI# 
+243367	5. , GI# 
 1. , GA~a# IB~a# 
 2. 4(N48) 5(N01) , UBI~c 
 1. 1(N01) , ZAG~c# AB2 
@@ -59006,11 +64442,7 @@ $ (not given)
 6. , HI@g~a 
 1. [...] 1(N39~a) [...] 
 2. , |U4.2(N08)| 
-1.a. 1(N01) 2(N39~a)# 1(N28)# [...] 
-271887	1.b1. 1(N01) 1(N28)# , TUR# [...] 
-1.b2. 1(N24)# 1(N28)# , GUG2# 
-1.b3. 1(N39~a)# 1(N28)# , SZE~a# 
-2. [...] 1(N01)#? X 
+243411	2. [...] 1(N01)#? X 
 1. [...] , [...] 
 2. 1(N01)# [...] 
 3. 1(N01)# [...] 
@@ -59086,25 +64518,10 @@ $ (not given)
 7. , HI@g~a GUG2 
 8. 1(N39~a) , GAL~a GUG2# GAR# 
 9. 2(N39~a) , MAR@g~a 
-10.a. 2(N39~a) , GUG2 
-10.b. 1(N24) , 
-11. 2(N39~a)# , [MU] SAG SUG5 
+243488	11. 2(N39~a)# , [MU] SAG SUG5 
 12. 2(N39~a)# [...] 
 1. [1(N14) 3(N01)] 4(N39~a)# 2(N29~a)# , HI@g~a [...] 
-1.a. 4(N01)# 4(N39~a)# 1(N24) 1(N28) 2(N29~a) , [HI@g~a SZE~a] |U4.1(N08)|# 
-271973	1.b1. 3(N01)# 1(N28) 1(N29~a) , HI@g~a 
-1.b2. 1(N01) 4(N39~a) 1(N24) 1(N29~a) , [SZE~a] 
-271977	1.c1A. 2(N01) 1(N29~a), [...] 
-1.c1B. 1(N01) 1(N28) , [...] 
-271980	1.c2A. 2(N39~a) 1(N29~a) , 
-1.c2B. 1(N01) 2(N39~a) 1(N24) , [...] 
-2.a. 4(N01) 4(N39~a) 1(N28) , HI@g~a SZE~a |U4.2(N08)| 
-271984	2.b1. 2(N01) 2(N39~a) , HI@g~a# 
-2.b2. 2(N01) 2(N39~a) 1(N28) , SZE~a 
-271987	2.c1. 2(N01) 1(N28) 1(N29~a) 1(N30~a) , 
-2.c2. 2(N39~a) 1(N24) 1(N29~a) 1(N30~c) , 
-2.c3. 1(N01)# [...] , [...] 
-1. [...] , [...] 
+243493	1. [...] , [...] 
 1. 1(N46) , BARA3 
 2. 1(N45) , ABGAL I SZE~a 
 3. 1(N45) 2(N57) , SZE~a# 
@@ -59118,95 +64535,25 @@ $ (not given)
 1. 1(N34)# 1(N14)# [...] SZE~a 
 2. 1(N46)# [...] 
 3. 2(N46)#? 5(N19)# [...] 
-1.a. 2(N01)# 1(N26) , 
-1.b. 1(N25) , 
-272007	2.a1. 2(N01)# , X GAR 
-2.a2. 2(N01) , ZATU726~d 
-2.a3. 2(N01) , GUG2 
-2.a4. 2(N01) , DU8~c 
-2.b. 1(N42~a) , 
-3.a. 1(N14) , |6(N57).GAR| 
-3.b. 1(N42~a) , 
-4.a. 5(N01)#? , GAR X 
-4.b. 1(N30~c) , 
-5.a. [...] , [...] 
-5.b. , X 
-1.a. 1(N01)# , SZA@g GUG2 
-1.b. 1(N30~a) , 
-2.a. 5(N01)# , DU8~c# 
-2.b. 1(N30~c) , 
-3.a. 5(N01) , SZA 
-3.b. 1(N30~a) , 
-4. 1(N42~a) 1(N25) , ZATU714 MU 
+243515	4. 1(N42~a) 1(N25) , ZATU714 MU 
 5. 1(N29~a) , DA~a ZATU714 
 6. 1(N29~a)#? , X ZATU714#? 
 1. , AB~a# AN GU7# [...] 
-1.a. 1(N05) 1(N42~a) , [...] 
-272030	1.b1. 2(N42~a) , HI@g~a 
-1.b2. 3(N42~a) 1(N25) , SZE~a 
-1.b3. 1(N25) , GUG2 
-2. , GU7 |U4.2(N08)|#? 
+243520	2. , GU7 |U4.2(N08)|#? 
 1. , SUG5 SAG [...] 
 2. [...] 
-1.a. [...] 2(N01)# , [...] 
-1.b. 1(N25) 1(N29~a) 
-2.a. 2(N01) , DU8~c 
-2.b. 1(N27) , 
-3.a. 2(N01) , DU8~c@g 
-3.b. 1(N27)# , 
-4.a. 3(N01)# , ZATU726~d 
-4.b. 1(N27) , 
-5.a. 5(N01) , U4 GAR 
-5.b. 1(N29~a) , 
-6.a. 6(N01) , KU6~a TUR? GAR 
-6.b. 1(N30~c) , 
-7. 1(N29~a)# , SZA@g 
+243529	7. 1(N29~a)# , SZA@g 
 8. [...] 1(N01)# , GUG2# SAG# 
 9. 1(N14)# , DU8~c@g# 
-1.a. 1(N14)# 2(N01)# , GAR# 
-1.b. 1(N30~c)# , 
-2.a. 1(N39~a)# 1(N24) , SZE~a 
-2.b. 1(N42~a)# , 
-3.a. 2(N14) , |5(N57).GAR| 
-3.b. 1(N39~a) , SZE~a 
-4.a. 3(N01)# , [...] 
-4.b. 1(N42~a) , 
-5.a. 2(N01)# , DUG~a# 
-272061	5.b1. 1(N39~a)# , 
-5.b2. [...] 
-6.a. 1(N14) , KASZ~a U4 
-272065	6.b1. [...] , HI@g~a 
-6.b2. [...] 
-7.a. 2(N01) , LAGAB~b KASZ~a SZE~a# 
-272069	7.b1. [...] 
-7.b2. [...] 
-1.a. 4(N01)# 1(N04)? , 
-1.b. [...] 
-2.a. 1(N01) , DU8~c 
-2.b. 1(N30~a) , 
-3.a. 2(N01) , ZATU726~d 
-3.b. 1(N30~a) , 
-4.a. 2(N01) , U4 GAR 
-4.b. 1(N30~a) , 
-5.a. 1(N14) , |SZE~a.GAR|? 
-5.b. 1(N39~a) , 
-6. 1(N29~a) , SZA@g 
+243544	6. 1(N29~a) , SZA@g 
 7. 2(N01)# , GUG2 SAG 
 8. 6(N01) , KU6~a GAR# 
 9. 1(N29~a) , SZA@g 
 10. 1(N39~a)# , [...] 
 11. 1(N24) , [...] 
-1.a. 1(N20)# 3(N05)# 3(N42~a) 1(N29~a)# , HI@g~a# SZE~a 
-272089	1.b1. 2(N05) 2(N42~a) , HI@g~a# 
-1.b2. 1(N14) 1(N01) 1(N29~a) , SZE~a 
-2. 5(N03) , 
+243551	2. 5(N03) , 
 3. , |U4x2(N01)| GU7 [...] 
-1.a. 1(N45) 5(N14) , DA~a# SZE~a 
-272095	1.b1. 5(N14)# , KU6~a KISAL~b1 SZE~a UR5~a 
-1.b2. 7(N14) , AN ZATU788 NUNUZ~a1 
-1.b3. 1(N14) , UB ZI~a# 
-1.b4. 3(N14) , GIR@g~b# NIM~b1 HI UNUG~a 
-1. 1(N01) , X [...] 
+243554	1. 1(N01) , X [...] 
 2. 1(N01) , |EN~a+NUN~b|# [...] 
 3. 1(N14)# , DU6~b 
 4. 1(N14) , U4 GAR 
@@ -59219,19 +64566,10 @@ $ (not given)
 3. [...] 2(N14) [...] 4(N01)# , [...] 
 1. 3(N14)# 8(N01)# , GU7# 
 2. 1(N34) 2(N14) 2(N01)# , GAR# [...] 
-1.a. 1(N01) , NIN# SAG# 
-1.b. 1(N01) , U4 GAR 
-2.a. [...] X 
-2.b. 1(N01) [...] 
-1.a. 1(N01) , U4 GAR AN E2~a
-1.b. 1(N01) , DU8~c 
-1. [...] , [...] 
+243570	1. [...] , [...] 
 1. [...] DU8~c BA 
 1. [...] , [...] X 
-1.a. 2(N01) 4(N39~a)# , |U4x2(N01)| KU6~a UR2 [RAD~a?] 
-272123	1.b1. 2(N39~a) 1(N26)# , |U4.6(N08)| 
-1.b2. 2(N01) 2(N39~a) |U4x2(N01)| 1(N29~a) , |U4+1(N24)|#? 
-2. 4(N39~a)# 1(N29~a) , |U4x4(N01)| EZEN~b |U4+1(N24)| [BAR] 
+243574	2. 4(N39~a)# 1(N29~a) , |U4x4(N01)| EZEN~b |U4+1(N24)| [BAR] 
 3. 2(N14) 3(N01) , EN~a# NAGA~a#? 
 4. 2(N14)# , |U4x1(N01)+1(N24)|# , EZEN~b [BAR ...] 
 5. 1(N01)# 3(N39~a) 1(N30~b) , [...] NIN 
@@ -59252,12 +64590,8 @@ $ (not given)
 13. 1(N29~a)# , SAL KUR~a A 
 14. [...] AB~a# [...] 
 1. 1(N39~a) , NIN 
-2.a. 1(N39~a) , X 
-2.b. 1(N30~c) , 
-3. 1(N26) , KUR~a# X NUNUZ~a1# 
-4.a. 3(N01) 4(N39~a) 1(N24) , SZU UR5~a SZE~a 
-4.b. 1(N39~a) 1(N24) 1(N28) 1(N29~a)# , 
-5. 2(N01) 2(N39~a) , EN~a BU~a SZE~a 
+243596	3. 1(N26) , KUR~a# X NUNUZ~a1# 
+243598	5. 2(N01) 2(N39~a) , EN~a BU~a SZE~a 
 6. 1(N24) , DU# UR~a 
 7. 3(N39~a)# , SZU GAN2#? APIN~a 
 8. 4(N41) 2(N29~a)? , |U4x(1(N01).1(N24))| |U4x4(N01)| BAR EZEN~b 
@@ -59276,37 +64610,24 @@ $ (not given)
 2. 2(N41) , TUR X E2~b 
 3. 1(N41) , SAL ZATU752 1(N04) , GU7 
 4. 1(N19) 4(N04) , X [...] 
-1.a. 2(N45)# 1(N01) 3(N39~a)# 1(N24)# 1(N28) 1(N29~a) 1(N30~c)? , SZE~a# 
-272172	1.b1. 8(N14)# 2(N01)# 4(N39~a)# 1(N29~a)# 1(N30~a)# , SZE~a 
-1.b2. 1(N46) 4(N41) 1(N26~b) 1(N28~b) 1(N30~c)? , 
-1.b3. 1(N19) 4(N04) , LAGAB~b TE 
-2. , SANGA~a GAL~a SANGA~a |U4x4(N01)| GU7 
+243618	2. , SANGA~a GAL~a SANGA~a |U4x4(N01)| GU7 
 3. , ZI~a UB 
 4. , SZAM2 KU6~a KISAL~b1 
 1. [...] TUN3~a [...] 1(N04) GI 
 2. , X [...] 
 1. 1(N46) 1(N19)# [...] , BA# 
 2. [...] 
-1.a. 4(N14) 3(N04)# , SZE~a GI 
-272184	1.b1. 3(N14) , 
-1.b2. 1(N14) 3(N04) , 
-2. 8(N14) 2(N01) , SZE~a NE~a |URU~a1x3(N57)| 
+243626	2. 8(N14) 2(N01) , SZE~a NE~a |URU~a1x3(N57)| 
 3. , GAN2 SANGA~a E2~a 
-4.a. 2(N14) 4(N01) , SZE~a ISZ~b 
-4.b. 5(N14) , PAP~a 
-5. 7(N14) 4(N01) , E~a# SANGA~a KI 
+243629	5. 7(N14) 4(N01) , E~a# SANGA~a KI 
 6. 4(N14) , PAP~a 3(N57) SU~a 
 7. 2(N19)# 4(N04) , SZEG9 
 1. 1(N14) 2(N01) , SZU DU NIN NIM~a# 
 2. 1(N14) 3(N01) , SAL SAL A 
 3. 3(N14) , E~a GA~a 
 4. 3(N14) 1(N01) , TUR3~a SAL KU3~a 
-5.a. 1(N14) 3(N01) , IM~a 
-5.b. 2(N19) , 
-6. 1(N14) , DU DUG~a SAL SZU NAGAR~a 
-7.a. 4(N01) , E~a SZAB~b 
-7.b. 1(N19) , 
-8. 2(N14) 5(N01) , AB~a ERIN TUR3~b E2~a 
+243637	6. 1(N14) , DU DUG~a SAL SZU NAGAR~a 
+243639	8. 2(N14) 5(N01) , AB~a ERIN TUR3~b E2~a 
 1. 1(N14) , SUKKAL GADA~a 
 2. 1(N14) , SZU SAL NUNUZ~a1 ZATU676~b GA~b 
 3. 1(N14) , MUD NA~a PAP~a SAL 
@@ -59317,25 +64638,10 @@ $ (not given)
 8. 2(N19) , E~a SZITA~a1 
 9. 2(N57) , SZU 
 10. , SZEG9 
-1.a. 5(N01)# , SZE~a# NAM2#? 
-272215	1.b1. 1(N01) 1(N24) , SZE~a HI@g~a# 
-1.b2. 3(N05)# 4(N42~a) , HI@g~a SZE~a# X 
-272218	1.c1. 2(N39~a) , SZE~a 
-272220	1.c2.a. 2(N05)# 2(N42~a) , SZE~a# X 
-1.c2.b. 2(N42~a)# , SZE~a# BA# NI~a# 
-272223	1.d1. 3(N39~a)# 1(N24)# , [HI@g~a] 
-272226	2.d2.a. 3(N42~a)# , HI@g~a 
-2.d2.b. 2(N42~a)# , [HI@g~a] 
-3. 1(N01)# , SZE~a# SI# KISAL~b1 GUKKAL~a 
+243652	3. 1(N01)# , SZE~a# SI# KISAL~b1 GUKKAL~a 
 4. [...] 
 5. [...] 
-1.a. 6(LAGAB~a)# , TUM~d SZE~a# LAGAB~b 
-272233	1.b1. 4(LAGAB~a) , UNUG~a SZE~a SZA TAK4~a# A 
-1.b2. 2(LAGAB~a) , SAL# AMA~a 
-2.a. 3(LAGAB~a)# , [...] 
-272237	2.b1. 2(LAGAB~a)#? , GU~a#? PAP~a 
-2.b2. [...] , [...] 
-1. 2(N45)# 5(N14) [...] , SZE~a# 
+243657	1. 2(N45)# 5(N14) [...] , SZE~a# 
 2. 1(N36) 5(N19)# [...] 5(N04)#? , 
 3. , GIBIL# U4 
 1. , PIRIG~b1# X? 
@@ -59398,52 +64704,23 @@ $ (not given)
 3. 2(N14) 2(N01) , SZE~a 3(N57) 
 4. , GAN2 SI 
 1. 1(N34) 7(N14) 5(N01) , SZE~a SAL E~a 
-2.a. , EN~a PAP~a DU 
-2.b. , |NUN~a+NAM2| SI4~f 
-1. 4(N20) , SZE~a 
+243721	1. 4(N20) , SZE~a 
 2. 2(N42~a) , GUG2 
 3. , EN~a DU KISAL~b1 PAP~a 
 1. , |SIxKU~b1| 
 1. [...] 3(N39~a) SZE~a |NINDA2xNUN~a| 
-2.a. [...] SZE3 RU 
-2.b. , DU UDUNITA~a NUN~a 
-3.a. 3(N01) , SZE~a |NINDA2xNUN~a| 
-3.b. , DU UDUNITA~a NUN~a 
-4. [...] 
+243728	4. [...] 
 1. 1(N34) 1(N45) 2(N14) 1(N39~a) 1(N24) , SZE~a 
 2. 3(N04) , 
 3. 2(N19) 1(N04) , LAGAB~b TE# 
 4. , SZAM2 BA 
-1.a. 1(N01) , U4 ZATU710 SZE~a 
-1.b. 2(N01) , ZATU710 
-2. 1(N51)# 1(N34) , |SZE~a.GAR| GU7#? [...] 
+243734	2. 1(N51)# 1(N34) , |SZE~a.GAR| GU7#? [...] 
 3. [...] , [...] 
 1. 1(N01) , DUG~a# KASZ~a# 
 2. 3(N01) , UKKIN~b#? 
 3. , GU7 PAP~a BU~a NAM2 
-1.a. 7(N01)# , HI#? [...] KASZ~a# 
-1.b. 2(N01)# , KI# 
-1.c. 2(N01)# , [GI] 
-2.a. 8(N01) , KASZ~a# SAL#? [...] 
-2.b. 2(N01)# , [KI] 
-3.a. 7(N01) , [...] 
-3.b. 3(N01) , [GI] 
-4.a. 7(N01)# , [...] 
-4.b. 3(N01) , [GI] 
-5.a. 6(N01) , [...] 
-5.b. 2(N01)# , BA# 
-5.c. 2(N01)# , [GI] 
-6.a. 7(N01)# , X 
-272339	6.b1. 2(N01) , BA 
-6.b2. 1(N01)# , GI# 
-1. 1(N34) , LAGAB~b KASZ~a 
-1.a. 4(N14) 2(N01) , KASZ~a X 
-272344	1.b1. 3(N14) 8(N01) , GU7 
-1.b2. 4(N01) , KI 
-2.a. 1(N14) 8(N01) , KASZ~a X 
-272348	2.b1. 4(N01) , BA 
-2.b2. 1(N14) 4(N01)# , GI# 
-1. 2(N01) , E2~a#? 
+243745	1. 1(N34) , LAGAB~b KASZ~a 
+243748	1. 2(N01) , E2~a#? 
 2. 2(N01) , SZITA~b1# DUG~a 
 3. 1(N01) , |DUG~ax1(N57)| 
 4. , AB~a 
@@ -59467,34 +64744,17 @@ $ (not given)
 3. 1(N01) , SZITA~b1 SIG 
 4. 1(N01) , ZABALAM~a UKKIN~a AMA~a 
 1. , GU7 
-1.a. 1(N14)# , SZITA~b1# DUG~a 
-272376	1.b1. 8(N01)# , GU7 
-1.b2. 2(N01) , BA 
-2.a. 1(N14) , KASZ~a U4 
-272380	2.b1. 5(N01) , GU7# 
-2.b2. 5(N01) , BA 
-3.a. 3(N14) , LAGAB~b KASZ~a SZE~a 
-272384	3.b1. 1(N14) 8(N01) , GU7 
-3.b2. 1(N14) 3(N01) , BA 
-1. [...] 2(N14)# [...] 
+243775	1. [...] 2(N14)# [...] 
 2. 1(N24) , GAR 
 3. , AB~a#? 
-4.a. 1(N14) 1(N01) , DUG~a KUR~b 
-4.b. 3(N02)? , 
-5. [...] 1(N24)# , [...] 
+243779	5. [...] 1(N24)# , [...] 
 6. 1(N39~a) 1(N24) , [...] 
 1. 2(N39~a)# , [...] 
 2. 2(N39~a) 1(N24) , [...] SZE~a GAR~b 
 3. 2(N39~a) , [...] 
 4. 1(N39~a) DU8~c# 
-5.a. 1(N39~a) , [...] 
-5.b. 8(N01) , [...] 
-6. [...] , [...] 
-272401	1.a1. 5(N01) , SAG SAL AMA~a 
-1.a2. 2(N01) , SAL KISAL~b1 KU6~a#? 
-1.a3. 2(N01) , TUR3~a SAL KU3~a 
-1.b. , EN~a GA2~a1 ME~a DU 
-4. 5(N01) , KUR~a UNUG~a 
+243786	6. [...] , [...] 
+243788	4. 5(N01) , KUR~a UNUG~a 
 5. 1(N28)? 
 1. 1(N01) , X ABGAL 
 2. 2(N01) , E2~a GAL~a 
@@ -59506,27 +64766,11 @@ $ (not given)
 2. 1(N01) , NIM~a X 
 3. 1(N01) , EN~a# APIN~a X 
 4. , DUG~a SZE~a 
-272418	1.a1. 3(N42~a) HI KASZ~a 
-1.a2. 1(N39~a) 1(N24) , HI 
-1.b. , X X ZATU832 
-2.a. 1(N29~a) , KASZ~a [...] 
-2.b. [...] 
-3.a. 1(N24)# , [...] 
-3.b. [...] 
-4.a. 2(N39~a)# , [...] 
-4.b. 1(N29~a) , [...] 
-5.a. 2(N39~a)# , [...] 
-5.b. [...] 
-6. [...] , [...] 
-1.a. 1(N39~a) , GUG2# 
-1.b. 2(N39~a) , GAR# 
-2. 2(N42~a) , ZATU773~a 
+243805	6. [...] , [...] 
+243807	2. 2(N42~a) , ZATU773~a 
 3. 1(N01)# , UB |NINDA2xKASZ~b| 
 4. 3(N39~a) , [...] ARARMA2~a 
-272436	5.a1. 1(N42~a) , KASZ~a 
-5.a2. 1(N26) , 
-5.b. [...] 
-6. [...] , [...] 
+243811	6. [...] , [...] 
 1. 2(N39~a) 1(N24) [...] 
 2. 2(N39~a) 1(N24) , ME~a ZATU686~a# 
 3. 2(N39~a) 1(N24) , [...] 
@@ -59541,30 +64785,12 @@ $ (not given)
 3. 5(N01) , DUG~a EN~a [...] 
 1. 1(N14) 2(N01) , SZE~a 
 2. 1(N01) , DU NUN~a PAP~a 
-1.a. [...] SZE~a# 
-1.b. 2(N14)# [...] , SZE~a# [...] 
-2.a. [...] 1(N01)# , [...] 
-2.b. [...] 
-1.a. 2(N01) 1(N24) [...] 
-1.b. 1(N42~a) 
-1.a. 2(N14) [...] 
-1.b. [...] 
-1. 1(N34) 5(N14) 1(N01) , SZE~a# [...] 
+243830	1. 1(N34) 5(N14) 1(N01) , SZE~a# [...] 
 1. [...] 
 1. [...] BAR SZE~a [...] 
 2. [...] , [...] X NAM2 
-1.a. 5(N19) , 
-1.b. 1(N30c') , 
-2. 2(N19) 1(N04) , 
-1.a. 4(N19) , 
-1.b. 5(N04) , 
-1.c. , KID~e BAR? TUN3~a 
-1.a. [...] 
-1.b. 1(N46)# 2(N14)# [...] 
-2.a. [...] E~a# |E2~ax1(N57)@t| 
-272476	2.b1. , X SAL# GAL~a# SUG5 PA~a 
-2.b2. , E~a KISAL~b1 PA~a 
-1. , GAL~a SUG5 
+243835	2. 2(N19) 1(N04) , 
+243839	1. , GAL~a SUG5 
 2. , E~a KISAL~b1 PA~a 
 1. , SZE~a 1(N46) 6(N14) 3(N01) 
 2. , E2~a |E2~ax1(N57)@t| 
@@ -59584,9 +64810,7 @@ $ (not given)
 1. 1(N45) , SZE~a# [...] 
 2. , SZAM2# 2(N57) SZU# 
 1. [...] 
-1.a. 2(N14) 1(N01) , |SZE~a.NAM2|# SZE~a 
-1.b. 1(N19) 2(N04)# , 
-2. 1(N19) 4(N04) , AB~a# 
+243860	2. 1(N19) 4(N04) , AB~a# 
 3. [...] 
 4. [...] 
 1. 4(N14)# 2(N01) , SZE~a 
@@ -59603,9 +64827,7 @@ $ (not given)
 2. 2(N19) 5(N14) , SZE~a LAGAB~b TE E~a |E2~ax1(N57)@t| 
 1. [...] 1(N36) 3(N14) 1(N01) , SZE~a GIBIL E~a 
 1. 8(N14)# , SZE~a MASZ GAN2# |SIxKU~b1|# KISAL~b1 E~a# 
-2.a. , GAL~a# IB~a# [...] SANGA~a 
-2.b. , [...] LA2 TE 
-1. 2(N45) 1(N14) 3(N01) , SZE~a 
+243878	1. 2(N45) 1(N14) 3(N01) , SZE~a 
 2. 2(N46) 7(N19) , 
 3. , SZAB~a E~a 
 1. , GIR3~c 
@@ -59632,21 +64854,11 @@ $ (not given)
 2. [...] |NUN~a+NAM2|# 
 3. [...] 
 1. 5(N14)# 2(N01) |3(N57).EN2| 
-2.a. [...] |NUN~a+NAM2| 
-2.b. 2(N14)# , SZE~a 
-2.c. 3(N04) 
-3.a. [...] 3(N04) 
-3.b. 
-4. [...] 
+243907	4. [...] 
 1. 9(N14)# , SZE~a 
 2. 1(N46)# 2(N19)# 1(N04) 
 1. , E~a 1(N46) 1(N45) 2(N14) 1(N01) , SZE~a GIR3~c# [...] 
-1.a. 2(N14) , SZE~a SZEG9 PA~a 
-1.b. 1(N46) 
-1.c. , SZEG9 GISZ PA~a 
-2.a. 5(N14) 3(N01) , E~a GA~a 
-2.b. , E~a GA~a 
-3. , EN~a KISAL~b1 PAP~a DU ZATU686~a GI4~a 
+243913	3. , EN~a KISAL~b1 PAP~a DU ZATU686~a GI4~a 
 1. [...] 
 1. , LAGAB~b# [...] 1(N45) 3(N14) [...] SZE~a EN~a KISAL~b1# PAP~a DU ZATU686~a GI4~a 
 1. 1(N45) [...] 2(N19) 3(N04) , EN~a APIN~a TE LAGAB~b SZUBUR# KISAL~b1 [...] 
@@ -59655,69 +64867,29 @@ $ (not given)
 3. 1(N04)# [...] 
 4. 1(N04)# , E2~a# GI# NA~a# MUSZEN# 
 5. , GU7 
-1.a. 1(N45) 3(N19) 3(N04) , SZE~a 
-272571	1.b1. 2(N14) 1(N01) , SZE~a 
-1.b2. 6(N19) 4(N04) 
-1.b3. 4(N19) 4(N04) , LAGAB~b TE 
-2. , E~a SZAB~b 
-1.a. 2(N01) 4(N39~a) , 
-1.b. 4(N03) , 
-2.a. [...] 
-2.b. 1(N01)? 1(N39~a) 1(N24) , EN~a DU PAP~a 
-1. 1(N14)# , DUB~f NAGA~a# 
-2.a. , SZU ZI~a GISZIMMAR~b1# MU# 
-2.b. , EN~a# DU# PAP~a# KISAL~b1# APIN~a#? 
-1.a. 1(N34) , SZE~a# BU~a# [...] 
-1.b. 5(N19)# , 
-2.a. [...] 
-2.b. 4(N19)# 1(N04) , 
-3. [...] LA# TE 
+243923	2. , E~a SZAB~b 
+243926	1. 1(N14)# , DUB~f NAGA~a# 
+243930	3. [...] LA# TE 
 4. [...] EN~a# PAP~a KISAL~b1 DU U4 GIBIL 
 1. 9(N20) , SZE~a 
 2. 1(N46) 3(N19) 1(N04) , 
 1. 1(N45) 1(N46) 2(N20) 1(N01) , EN~a PAP~a KISAL~b1 DU U4 GIBIL |SIxKU~b1| SZE~a 
-1.a. 6(N14) , LAGAB~b SZE~a MUSZ3~a 
-1.b. 5(N14) 3(N01) |3(N57).EN2| SI4~f 
-1.c. 3(N01) , GAN2 
-2.a. 2(N14) , SZE~a EN~a PAP~a PAP@t 
-2.b. 2(N14) , |NUN~a+NAM2| 
-3.a. 1(N14) , SZE~a LA2 TE 
-3.b. 1(N14) , |NUN~a+NAM2| 
-4.a. 7(N19) , LA2 TE EN~a PAP~a PAP@t 
-4.b. 3(N19) 2(N04) , |NUN~a+NAM2|# 
-272601	4.c1. 3(N19) 1(N04) , ZATU659# 
-4.c2. 3(N01) , GAN2 
-5.a. 7(N14) , GI# 
-5.b. 3(N14) 2(N01) , |NUN~a+NAM2|# 
-5.c. 3(N14) 1(N01) , ZATU659 
-6. [...] EN~a PAP~a KISAL~b1# DU |SIxKU~b1| 
-1.a. 5(N14) 2(N19)# [...] 
-1.b. 3(N14) [...] 
-2. [...] 
+243940	6. [...] EN~a PAP~a KISAL~b1# DU |SIxKU~b1| 
+243942	2. [...] 
 3. [...] 
 1. , E~a EN~a PAP~a KISAL~b1# DU [...] GIBIL# U4 |SIxKU~b1| 
 1. 4(N14) 2(N01) , SZE~a MUSZ3~a 
 2. , SI4~f |3(N57).EN2| 
-1.a. 2(N14) , SZE~a EN~a PAP~a PAP@t 
-1.b. 3(N19) , 
-2. 3(N19) , MUSZ3~a 
+243948	2. 3(N19) , MUSZ3~a 
 3. 1(N19) , LA2 TE SZE~a 
-4.a. 2(N14) , SZE~a EN~a KISAL~b1 PA~a 
-4.b. 5(N04) , 
-5. , |NUN~a+NAM2| 
+243951	5. , |NUN~a+NAM2| 
 1. 2(N14) , SZE~a EN~a PAP~a PAP@t 
 2. 2(N19) 3(N04) , MUSZ3~a 
 3. 1(N19) 4(N04) , EN~a KISAL~b1 PA~a 
 4. 3(N14) 4(N01) , SZE~a IDIGNA EN~a KISAL~b1 PA~a 
 5. , ZATU659 
 1. 5(N14) 2(N01) , MUSZ3~a |3(N57).EN2| 
-272628	2.a1. 1(N45) 2(N14) 3(N01) , SZE~a |NUN~a+NAM2| 
-2.a2. 1(N45) 1(N14) , SZE~a ZATU659 
-272631	2.b1. 5(N14) , SZE~a 
-2.b2. 7(N19) 3(N04) 
-2.b3. 3(N14) , SZE~a 
-2.b4. 8(N19) 
-1. 1(N45) 4(N14) , 
+243959	1. 1(N45) 4(N14) , 
 2. 1(N46) 4(N19) 5(N04) , 
 1. 2(N45) 2(N19) 6(N14) 5(N04) , SZE~a 1(N57) SI4~f |SIxKU~b1| SZEG9 E~a 
 1. 5(N14) 2(N01) , SZE~a PAP~a 
@@ -59739,10 +64911,7 @@ $ (not given)
 2. 1(N04) , IDIGNA#? 
 3. , SZE~a [...] 
 1. 1(N45) 1(N14) , SZE~a EN~a PAP~a PAP@t 
-2.a. 1(N45) 4(N14) 4(N01) , SZE~a [...] 
-272659	2.b1. 9(N14) 2(N01) , 
-2.b2. 5(N19) 2(N04) , 
-1. 2(N45) 1(N01) , SZE~a 
+243982	1. 2(N45) 1(N01) , SZE~a 
 2. 5(N19) 3(N04) 
 1. 2(N45)# 5(N19)# 3(N04)# [...] E~a KISAL~b1 E~b |SIxKU~b1| 
 1. [...] 1(N14) 1(N01) , X 
@@ -59799,12 +64968,8 @@ $ (not given)
 2. 2(N14)# 5(N01)# , MUSZ3~a 
 1. 1(N14) 3(N01) , X GIBIL U4 
 2. 3(N14) 1(N01) , SZE~a# EN~a PAP~a PAP@t# |SIxKU~b1| 
-1.a. 2(N45) 4(N01) , SZEG9 PA~a 
-1.b. 2(N46) 8(N19)# , 
-2. 4(N14) 3(N01) , KALAM~g PA~a NAM2 
-3.a. 7(N14) 4(N01) , SUHUR GAL~b 
-3.b. 3(N19) , 
-4. , AB~a APIN~a 
+244040	2. 4(N14) 3(N01) , KALAM~g PA~a NAM2 
+244042	4. , AB~a APIN~a 
 1. 1(N34) 2(N14) 5(N01) , SZE~a 
 2. 1(N36) 1(N19) , 
 1. 2(N34) 3(N14) 5(N01) 1(N01) , U8 SI4~f BA SZE~a 
@@ -59845,16 +65010,7 @@ $ (not given)
 2. 2(N19)# [...] X 
 3. 2(N19)# , UR5~a 
 4. , |URU~a1x3(N57)| GAN2 
-1.a. 1(N34) 1(N45) 6(N14) 4(N01) , GAN2 |URU~a1x3(N57)| SZE~a 
-272766	1.b1. 1(N34) 1(N45) 1(N14) 1(N39~a) , SAG 
-1.b2. 6(N14) 3(N01) 4(N39~a) , BA KI 
-2.a. 2(N45) 5(N14) 2(N01) 4(N39~a) , TI@t LAM~b 
-272770	2.b1. 1(N45) 7(N14) 1(N01) 3(N39~a) , SAG 
-2.b2. 8(N14) 1(N01) 1(N39~a) , BA KI 
-3.a. 2(N46) 2(N19) 2(N04) , 
-272774	3.b1. 1(N46) 3(N19) 5(N04) 1(N41) , SAG 
-3.b2. 8(N19) 2(N04) 4(N41) , BA KI 
-4. , |GI&GI| KI 
+244086	4. , |GI&GI| KI 
 1. [...] , [...] 
 2. 7(N14)# 1(N01) , 3(N57) PIRIG~b1 SZE~a 
 3. 7(N14) , DAR~b E2~a BAR 
@@ -59872,9 +65028,7 @@ $ (not given)
 1. 1(N45) 5(N14) , U4 LAGAB~b TE DILMUN? A EN~a DU X X 
 1. , SI4~f NUN~a SU~a ME~a 
 1. [...] KALAM~a#? 
-2.a. 2(N14) 3(N01) , KASZ~b BA 
-2.b. 3(N39~a) , KASZ~b GI 
-3. 1(N34) 7(N14) 4(N01) 2(N39~a) , [...] 
+244105	3. 1(N34) 7(N14) 4(N01) 2(N39~a) , [...] 
 1. [...] , |U4x1(N57)| |U4x1(N01)| SAG PAP~a NA~a 
 1. [...] 
 2. , IM~a [...] 
@@ -59902,28 +65056,12 @@ $ (not given)
 3. , MUD A 
 1. 1(N45) 3(N14) , SZE~a 
 2. , SANGA~a NUN~a#? 
-1.a. 1(N34) , UMBIN~a? 
-272826	1.b1. 5(N01) , BARA2~a 
-1.b2. 1(N14) 5(N01) , GISZ@t MASZ 
-2.a. 1(N34)# , X 
-272830	2.b1. 5(N01) , BARA2~a# 
-2.b2. 1(N14) 5(N01) , GISZ@t MASZ 
-3.a. 1(N34)# , X SANGA~a# 
-272834	3.b1. 5(N01) , BARA2~a 
-3.b2. 1(N14) 5(N01) , GISZ@t [MASZ] 
-1.a. 1(N34)# , BU~a DU PAP~a 
-272838	2.b1. 5(N01)# , BARA2~a# 
-2.b2. 1(N14)# [5(N01)?] , GISZ@t# MASZ 
-1. , SI# KU3~a#? DARA4~c# X DA~a PA~a URU~a1? UDU~a? 
+244138	1. , SI# KU3~a#? DARA4~c# X DA~a PA~a URU~a1? UDU~a? 
 1. 3(N01) , SZE3 SIG2~a3 
 2. , KI 
 3. , SAG TUG2~a
 1. , U4 GIBIL 
-1.a. [...] SZA# NIN# 
-272847	1.b1. [...] 
-1.b2. 1(N01) , UDU~a 
-1.b3. 3(N19) 
-2. [...] SAG X SZAB~a# 
+244144	2. [...] SAG X SZAB~a# 
 3. , EN~a APIN~a 
 1. [...] , [...] 
 2. [...] GAL~a UTUL~a# 
@@ -59939,11 +65077,7 @@ $ (not given)
 1. 1(N45) 1(N14) 2(N01) , SZE~a 
 2. 3(N01) , UDU~a 
 3. 1(N52) 3(N21) , 
-4.a. , EN~a PA~a 
-4.b. , EN~a DU# UB# 
-5.a. , KU3~a# A# [...] 
-5.b. , EN~a NAB 
-1. [...] DUB~a# 
+244162	1. [...] DUB~a# 
 1. [...] 
 2. [...] MEN~a SZAGAN GISZ# 
 3. 2(N01) , UDU~a SZE~a 
@@ -59980,10 +65114,7 @@ $ (not given)
 1. [...] , [...] 
 2. [...] NIM~b1#? 
 1. , LAL2~a# [...] 
-1.a. 2(N14)# 2(N01)# 1(N24)# 2(N41)# , SZE~a 
-272909	1.b1. 2(N14)# 2(N01)# 1(N24)# , SZE~a 
-1.b2. 2(N41)# , 
-2. 7(N01) , UDU~a 
+244200	2. 7(N01) , UDU~a 
 3. 1(N38) , 
 4. [...] , [...] 
 1. [...] 1(N14)#? 3(N01)#? , [...] 
@@ -60043,9 +65174,7 @@ $ (not given)
 2. 1(N45)# 4(N14)# 3(N01) , X KIN2~b# SZE~a 
 3. 8(N14) 5(N01) , SZE~a 
 1. 2(N14) , KASZ~b NUN~a 
-2.a. 1(N34) , SZEN~e NUN~a 
-2.b. , SU~a PAP~a 
-3. , GAL~a 
+244261	3. , GAL~a 
 4. 2(N14) , SAG PAP~a# 
 5. 1(N14) 1(N39~a)# [...] 
 1. 1(N14) , UDU~a MUSZEN 
@@ -60068,24 +65197,8 @@ $ (not given)
 5. 1(N34)# 2(N14)#? , PAP~a# SZUBUR# 
 6. 2(N14)# [...] , MUD# [...] 
 1. [...] UR~a ZATU756 [...] 
-1.a. 2(N34) 2(N14) 5(N01) , SAG UB [...] 
-272998	1.b1. 1(N34) 4(N14) 5(N01) , HAL BA 
-1.b2. 4(N14)#? [...] 
-1. [...] 
-1.a. 3(N14)# 3(N01) , X X [...] 
-273003	1.b1. 2(N14) 8(N01)# , URU~a1 
-1.b2. 5(N01) , TAK4~a KI# BAR 
-1.a. 2(N14)# 2(N01)# , GU7 
-273007	1.b1. 5(N01)# , [...] 
-1.b2. 3(N01)# , [...] 
-1.b3. 1(N14)# 1(N01)# , NIN# 
-1.b4. 3(N01) , GIR3~c#? 
-2.a. 1(N14) 1(N01) , BA KI 
-273013	2.b1. 5(N01) , NIM~b1 
-2.b2. 2(N01) , ME~a ZATU659 GAL~a 
-2.b3. 2(N01) , SIG7 
-2.b4. 2(N01) , SI E2~a 
-1. [...] GU7# 
+244285	1. [...] 
+244289	1. [...] GU7# 
 1. 1(N14) [...] X GARA2~a IB~a 
 2. , GU7 KAK~a NIM~b1 
 1. [...] , [...] 
@@ -60096,13 +65209,7 @@ $ (not given)
 1. , A BU3~a 
 2. , KAB ME~a SANGA~a KU3~a 
 3. , E~a KISAL~b1 
-273029	1.a1. 5(N01)# , E2~a# GAL~a 
-1.a2. 1(N01)? , EN~a ZATU697~a 
-1.a3. 1(N01) , SAG ZATU686~b#? 
-1.a4. 1(N01) , AN E2~a# 
-273034	1.b1. [...] , [...] X 
-1.b2. [...] , [...] 
-2. , GU7# [...] 
+244301	2. , GU7# [...] 
 1. , BU~b? 
 1. 4(N14) , BA ZATU757 MUN~a1 
 1. 2(N45) 6(N01) , BA# 
@@ -60116,19 +65223,14 @@ $ (not given)
 1. 1(N01)# [...] 
 2. 2(N01) , SZU TUN3~a 
 3. 2(N01) , X 
-4.a. 2(N01) , SZU 
-4.b. 4(N08) , TI~a# 
-5. 1(N01) , SZU |2(N57).BIR3~a| 
+244316	5. 1(N01) , SZU |2(N57).BIR3~a| 
 6. 1(N01) , E~b |E2~ax1(N57)@t| 
 1. 1(N01)# , SIMUG 
 2. 2(N01) , MA 
 3. 1(N01) , |SZU2x1(N24)| 
 4. 2(N01) , EZEN~b 
 5. , GIR3@g~b 
-1.a. 2(N01)# , SZEN~b# 
-273061	1.b1. 1(N01)# , E~a# KISAL~b1# 
-1.b2. 1(N01)# , SZEN~b TUR 
-2. 1(N01)# , [...] SANGA~a KI 
+244324	2. 1(N01)# , [...] SANGA~a KI 
 3. 1(N01)# , APIN~b# 
 4. 1(N01)# , PAP~a BU~a NAM2# 
 5. 1(N01)# [...] 
@@ -60218,11 +65320,7 @@ $ (not given)
 11. [...] , [...] 
 1. [...] 6(N34)# 3(N14)# 3(N59)# , [...] NUN~a ZATU773~a 
 2. 6(N34) 2(N14) 4(N59) , ERIN? SUKKAL 
-3.a. 5(N34) 7(N01) 3(N59) , ABGAL 
-3.b. 2(N14) , SZU TUR 
-4.a. 4(N34) 4(N14) 5(N01) 4(N59) , [...] APIN~a 
-4.b. [...] 
-1. 2(N23) 6(N34) , ISZ~a E2~a A [...] 
+244416	1. 2(N23) 6(N34) , ISZ~a E2~a A [...] 
 1. [...] , [...] UR2# 
 2. [...] 1(N34)# 4(N14)# [...] 
 1. 1(N01)# , BA SZITA~a1# 
@@ -60271,15 +65369,7 @@ $ (not given)
 1. 1(N45)# 2(N34) 5(N14) 6(N01)# , E2~a [...] 
 1. [...] 
 1. [...] 
-1.a. 6(N14) 3(N01)# , SZE~a# GU7 
-273208	1.b1. 2(N14) 2(N01) 
-1.b2. 1(N14) [...] 
-1.b3. 2(N14) 1(N01) , X 
-1.b4. 1(N14) , URU~a1 
-273213	1.c1. 2(N14) , KU6~a KISAL~b1 
-1.c2. 2(N14) 3(N01) , 
-1.c3. 2(N14) , GAR SAG TUG2~a 
-2. , URU~a1 KU6~a KISAL~b1 
+244466	2. , URU~a1 KU6~a KISAL~b1 
 1. [...] 
 2. [...] X 
 3. [...] X 
@@ -60312,27 +65402,11 @@ $ (not given)
 2'. 3(N19) 3(N04) , DUB~a LAGAB~b TE 
 3'. 1(N14) 4(N01) , DUB~a X [...] 
 4'. 1(N14) 4(N01) 3(N39~a) 1(N24) , DUB~a SZE~a 
-5.a'. 5(N03) 2(N40) 1(N24') 1(N30~a) , 
-5.b'. 1(N03) 4(N40) 1(N24') DUB~a 1(N30~a) , 
-5.c'. 3(N03) [3(N40)] , [...] 
-1. [...] X 4(N19) 3(N04) 4(N41) , 
+244500	1. [...] X 4(N19) 3(N04) 4(N41) , 
 2. [...] X ZI~a UB 
 3. [...] 
 1. 1(N45)#? 2(N34) , UDU~a |DU8~cxUDU~a| 
-1.a. 1(N34) , 
-273258	1.b1. 2(N14) 2(N01)# , 
-1.b2. 3(N14) 8(N01) , TUR 
-2.a. 1(N34) , SILA4~c? 
-273262	2.b1. 4(N01) , AB~a 
-2.b2. 5(N14)# 6(N01) , 
-1.a. 4(N34)# 2(N45) 6(N14) 4(N01) , SZE~a 
-273266	1.b1. 2(N45) 5(N14) , SZE~a |U4x2(N57)| 
-1.b2. 4(N34) 1(N14) 4(N01) , U4 GIBIL 
-2.a. 1(N36) 2(N46) 1(N19) 5(N04)# 
-273270	2.b1. 5(N19) , LAGAB~b TE 
-2.b2. 1(N36) 1(N46) 6(N19) 3(N04) , GIBIL U4 
-2.b3. 2(N04) , LAGAB~b TE GIBIL U4 
-3. [...] 
+244508	3. [...] 
 1. [...] 
 2. 5(N34) 1(N36) [...] 1(N45) [...] 3(N01) , SZE~a BA SZAM2# 
 1. [...] 
@@ -60346,21 +65420,8 @@ $ (not given)
 4. 5(N01) , SILANITA~a? 
 1. 1(N34)# , U8# X 
 2. 3(N14) 8(N01)# , UDUNITA~a 
-1.a. , X A X 
-1.b. , X X GI 
-2. 1(N34) 3(N14) 8(N01)# , UDU~a X 
-1.a. [N] 5(N14) [...] 2(N01) , [...] 
-273292	1.b1. [...] , [...] 
-1.b2. 2(N34) 2(N14) , [...] NUN~a# X NI~a 
-1.b3. N , NI~a 
-1.b4. 5(N01) , X 
-1.b5. 4(N01) , GI 
-2.a. 7(N34)# 4(N14) , UDU~a X ZATU773? 
-273299	2.b1. 6(N34) 1(N14) 6(N01) , X 
-2.b2. 1(N34) 3(N01) , UR2 
-2.b3. 8(N01) , X 
-2.b4. 9(N01) , GI 
-1. [N] 1(N14) 6(N01) , X ZATU659? 
+244523	2. 1(N34) 3(N14) 8(N01)# , UDU~a X 
+244526	1. [N] 1(N14) 6(N01) , X ZATU659? 
 1. 1(N48) 2(N14) 7(N01) , BA 
 2. 1(N01) , GISZ3~b 
 3. 5(N01) , UR2 
@@ -60368,10 +65429,7 @@ $ (not given)
 5. 1(N14) 3(N01) , GI ZATU752 
 1. 1(N48) 5(N14)# 9(N01) , DUB~a |LAGAB~b&LAGAB~b| [...] 
 1. 1(N02) , |U4x2(N57)| GU4 DUB~a SZU 
-2.a. 5(N02) , AMAR# BAR 
-273313	2.b1. 2(N02) , AMAR DUB~a 
-2.b2. 3(N02) , AMAR BAR 
-3. 1(N02)# , X X AMAR# 
+244535	3. 1(N02)# , X X AMAR# 
 4. , [...] SZU# SAL 
 1. 1(N01) , E2~b AB2 
 2. 1(N01) , SZU AB2 
@@ -60384,46 +65442,24 @@ $ (not given)
 4. 1(N01) , EN~a DUB~a AB2 
 5. 1(N02) , AMAR 
 6. , SI4~a? |GI&GI| SUG 
-1.a. MUSZ3~b MUSZ3~b 
-1.b. EN~c MUSZ3~b 
-1.c. SZITA~a SZITA~a 
-1. 4(N01) [...] , [...] 
+244549	1. 4(N01) [...] , [...] 
 1. 5(N01) [...] , [...] 
 1. [...] 1(N45)#? 5(N14) [...] , [...] 
 1. [...] , UNUG~a [...] 
 1. , UKKIN~a [...] 
 1. [...] 2(N45)# , |SILA3~axDUG~a| NUN~a X [...] 
-2.a. 1(N01) , AL 
-2.b. , NI~b GI6 BU~a 
-3.a. 2(N01)# [...] , MUSZEN# [...] 
-273341	3.b1. , NUNUZ~a1#? X [...] 
-3.b2. , SAG AMAR# [...] 
-1. [...] , AL#? [...] 
+244557	1. [...] , AL#? [...] 
 1. 1(N45) 3(N50) [...] , [...] 
 1. [...] , [...] 
 2. [...] , [...] 
-1.a. , |U4x6(N01)| GAN2 
-1.b. 1(N34) , 
-2.a. , MUN~a3 
-2.b. 1(N34) , 
-3.a. , BAN~b |NINDA2xBA| [...] 
-3.b. 2(N14) , 
-1.a. [...] , [...] X DA~a#? [...] 
-273355	1.b1. , [...] X |NINDA2xHI|# NUN~a 1(N57) 
-1.b2. , 3(N57) X MUSZEN# |BU~a+DU6~a|? [...] 
-1.b3. , GU NUNUZ~a1 
-2. , [...] DA~a#? LU2# AN 3(N57) 
+244565	2. , [...] DA~a#? LU2# AN 3(N57) 
 3. [...] , [...] X 
 1. [...] , [...] X 
 2. [...] , [...] 
 1. 1(N01) , KUR~a X NU11 IB~a 
 2. 1(N01)# , X SAL TUG2~a E2~a 
 3. [...] , UMUN2 [...] 
-1.a. 5(N01) , |SAL.KUR~a| 
-273367	1.b1. 3(N57) , SAL 
-1.b2. 2(N57) , KUR~a 
-1.c. , SAL |GA2~bxDUB~a| [...] 
-2. 1(N01)# [...] , [...] 
+244573	2. 1(N01)# [...] , [...] 
 1. [...] , SZAKIR~c ZATU752 [...] 
 1. 4(N01) , GU7# [...] 
 1. 2(N01) [...] , X GAR@g~c#? [...] 
@@ -60499,54 +65535,20 @@ $ (not given)
 1. 2(N01) [...] , IM~a [...] 
 2. 2(N14) , X X 
 3. 2(N14) [...] , [...] 
-1.a. [...] , [...] X 
-1.b. 2(N45) , SZE~a 
-2.a. [...] 4(N14)# , [...] 
-2.b. 1(N36) 1(N45) 2(N14) [...] , [...] 
-1.a. 1(N50) 8(N14) , SANGA~a# ZATU753# [...] 
-1.b. 7(N14) , SZE~a [...] 
-1. [...] , X [...] 
+244652	1. [...] , X [...] 
 2. 2(N14) 4(N01) , TAR~a 
 3. 1(N14) 2(N01) , SUR# ME~a EN~a SZU 
 4. 2(N14)# 3(N01)# [...] , NAGA~a X [...] 
 1. [...] , NIR~a#? [...] 
 1. 1(N48) [...] , [...] 
-1.a. [...] , [...] UTUL~a 
-1.b. [...] , [...] EN~a AN# GI4~a KI 
-2. [...] , SZITA~b1 |U4.1(N08)| MEN~a EN~a AN IDIGNA 
-1.a. [...] , X [...] 
-1.b. , MEN~a GU NUN~a#? [...] 
-1.a. 1(N01) , |NINDA2x((UDU~a+TAR)~b)| KU6~a 
-1.b. , X 
-2.a. 1(N01) , X ENGIZ#? [...] 
-2.b. , X |BU~a+DU6~a|# 
-3.a. [...] , [...] 
-3.b. [...] , X [...] 
-1. , KISZIK~a DA~a# X X [...] 
+244659	2. [...] , SZITA~b1 |U4.1(N08)| MEN~a EN~a AN IDIGNA 
+244664	1. , KISZIK~a DA~a# X X [...] 
 1. [...] , [...] DA~a# 
 2. [...] , [...] X SZU 
-1.a. [...] , [...] 
-273474	1.b1. , [...] 
-1.b2. , X AN 3(N57) [...] 
-1.b3. , BU~a PA~a NAM2 SZITA~b2 
-1.b4. , DU 3(N57) KI 
-1.c. , [...] 
-2.a. 2(N01) , X X [...] 
-2.b. , KASZ~c AN U2~b 
-2.c. , NUMUN2? 
-1.a. [...] , SZAKIR~c#? ZATU752 
-273484	1.b1. [...] , NUN~a# [...] 
-1.b2. 1(N01) , TE# EZEN~b AN MUSZ3~a 
-2. 1(N14) 2(N01) , BA SUHUR# 
+244670	2. 1(N14) 2(N01) , BA SUHUR# 
 3. 4(N01) [...] , [...] 
-1.a. [...] , [...] 
-1.b. [...] , [...] X 
-2.a. [...] , [...] 
-2.b. 2(N14)# , SIG2~b SIG2~b |1(N58).BAD~a| 
-3. [...] , SUKKAL# GAL~a 
-4.a. 2(N14)# , SIG2~b SIG2~b 3(N57)? SZE~a# AB2 
-4.b. 2(N01) , MA SAL 
-5. 3(N14)# , TUG2~a# TUG2~a# URUDU@g~d# X GAL~a# USZ~b# 
+244674	3. [...] , SUKKAL# GAL~a 
+244676	5. 3(N14)# , TUG2~a# TUG2~a# URUDU@g~d# X GAL~a# USZ~b# 
 6. [...] , [...] BAN~a# 
 7. [...] , [...] 
 1. 2(N14)# 5(N01)# , GISZ NA2~a EN~a KA~a SI 
@@ -60554,17 +65556,10 @@ $ (not given)
 3. 1(N14) , GISZ NA2~a 3(N57) 
 4. , GAL~a GURUSZ~a 
 5. , EN~a# KA~a# [...] 
-1.a. 3(N14)# , TUG2~a TUG2~a URUDU@g~d USZ~b 
-273505	1.b1. 4(N14)# , X SZE3 A 
-1.b2. 2(N01) , GA~a 
-2. 2(N14) , TUG2~a TUG2~a |ZATU737xU4| SANGA~a 
+244685	2. 2(N14) , TUG2~a TUG2~a |ZATU737xU4| SANGA~a 
 3. 5(N01) , ZATU815 
-4.a. 1(N14) , ZATU659 SZE3 IB~a 
-4.b. 2(N14) , SZE3 A# 
-5. 1(N14) , KASKAL TUG2~a# TUG2~a# KISZ 
-6.a. 1(N14) , TE |1(N58).BAD~a| SI BU~a TUG2~a TUG2~a 
-6.b. 2(N01) , RU 
-7. [...] , [...] 
+244688	5. 1(N14) , KASKAL TUG2~a# TUG2~a# KISZ 
+244690	7. [...] , [...] 
 1. [...] , [...] SZITA~a1 NAM2# [...] 
 2. 1(N14) , UKKIN~a SIG2~b SIG2~b U4# [...] 
 3. 5(N01) , KISZ# KASKAL SANGA~a [...] 
@@ -60600,24 +65595,11 @@ $ (not given)
 2. [...] , SILA4~b GU7#? [...] 
 1. [...] , |(GI&GI)xSZE3| UR2 [...] 
 2. , |SILA3~axDUG~a| MEN~a SUKKAL#? X X [...] 
-1.a. [...] , [...] X SAG GIR3@g~b 
-1.b. 5(N34) , UD5~a 
-2.a. [...] 3(N34) , UDU~a MES ZABALAM~b NIM~b1 GIR3@g~b [...] 
-2.b. 4(N34) , UD5~a 
-1. [...] , UD5~a# [...] 
+244728	1. [...] , UD5~a# [...] 
 1. [...] , ZATU752 GAL~a# [...] 
 1. [...] 2(N01) 3(N02) , GU7 
-1.a. [...] , [...] 
-1.b. , NUN~a# X 
-2.a. [...] , [...] 
-2.b. , |3(N57).NUNUZ~c| 
-3. [...] , APIN~b 
-4.a. [...] 2(N01) , AL 
-273564	4.b1. , 3(N57) A 
-4.b2. , GIR2~a# AN 
-5.a. [...] , [...] MUSZEN# 
-5.b. , |3(N57).PIRIG~b1| SU~a# [...] 
-1. [...] , X |NINDA2xX|# ME~a#? [...] 
+244733	3. [...] , APIN~b 
+244736	1. [...] , X |NINDA2xX|# ME~a#? [...] 
 2. , SUKKAL#? ME~a# SI EN~a X [...] 
 1. [...] , [...] 
 2. [...] , [...] X 
@@ -60631,9 +65613,7 @@ $ (not given)
 2. [...] , X NUNUZ~a1 [...] 
 1. 2(N01) [...] , [...] 
 1. [...] , SUKKAL#? [...] 
-1.a. [...] 1(N01) , X [...] 
-1.b. , 3(N57)? EN2 [...] 
-2. [...] , X [...] 
+244751	2. [...] , X [...] 
 1. [...] , [...] 
 2. 1(N01) [...] , [...] 
 1. 2(N48)# 1(N34)#? [...] , |U4x(1(N14).2(N01))| [...] 
@@ -60642,17 +65622,9 @@ $ (not given)
 3. 2(N14) , [...] 
 4. 1(N35) [...] , [...] 
 1. [...] , X AN# KI [...] 
-273594	2.a1. [...] 2(N14) , AMA~a MA X [...] 
-2.a2. [...] 2(N14) , AMA~a [...] 
-2.b. , E2~a AN KI 
-1. 3(N14)# [...] , X [...] 
+244761	1. 3(N14)# [...] , X [...] 
 2. 3(N01)# [...] , [...] 
-1.a. [...] 1(N01) , X [...] 
-273601	1.b1. , GISZ A 
-1.b2. , BU~a NAM2 PAP~a 
-2.a. [...] , [...] 
-2.b. , X [...] 
-1. 1(N04) , LUM# [...] 
+244765	1. 1(N04) , LUM# [...] 
 1. 2(N01) [...] , [...] 
 1. [...] , [...] 
 1. [...] , E2~a [...] 
@@ -60662,38 +65634,19 @@ $ (not given)
 1. [...] , [...] 
 2. [...] 1(N14)# 3(N01) , [...] 
 1. 8(N01)# [...] , [...] 
-1.a. 1(N14) 2(N01) [...] , [...] 
-273617	1.b1. 7(N01) , SZU2 
-1.b2. 3(N01) , ZATU644~a 
-1.b3. 4(N01)# , GADA~a 
-1.b4. 2(N01) , 
-2. [...] 4(N01) , ZATU753 X 
+244776	2. [...] 4(N01) , ZATU753 X 
 3. [...] 3(N01)# , [...] 
 1. [...] , [...] X 
 2. , MUSZ3~a BARA3 
 3. [...] , X ZATU686~b APIN~a# DU# [...] 
-1.a. [...] , X [...] 
-2.a. 1(N01) , |NUN~a+EN~a| APIN~a# 
-2.b. , GUG2 GU 
-3.a. 1(N01) , APIN~a GESZTU~b ESZDA? E2~a 
-3.b. , BAHAR2~b#? X 
-4.a. 1(N01) , URI5# GA~a# [...] 
-4.b. , SZITA~a3 [...] 
-1.a. [...] , [...] X E2~a#? |(UDU~axTAR)~b| KI GAL~a# 
-2.a. 1(N01)# , X APIN~a [...] 
-2.b. [...] , EN~a ZABALAM~a# X 
-1.a. 1(N01) [...] , X NIN# SZE~a ME~a [...] 
-2.a. 1(N01) [...] , X [...] 
-1. [...] , [...] 
+244789	1. [...] , [...] 
 2. [...] , X [...] 
 1. [...] 2(N01)# , X [...] 
 2. 3(N01) , SIG MUSZ3~a EZEN~c#? GESZTU~b# 
 3. 2(N01) , SANGA~a [...] 
 4. , GAL~a#? [...] 
 1. 3(N01) , |SAL.KUR~a| MUSZEN KI# [...] 
-1.a. 2(N01) , SAL# 
-1.b. , X [...] 
-2. 1(N01) [...] , KUR~a [...] 
+244797	2. 1(N01) [...] , KUR~a [...] 
 1. [...] , EN~a U4 DU SZE~a [...] 
 1. 2(N14) , ME~a ZATU714 NI~b? [...] 
 2. 5(N01) , [...] 
@@ -60719,25 +65672,9 @@ $ (not given)
 2. [...] 1(N01)# , [...] 
 1. [...] , X EN~a ZATU647 BA [...] 
 2. [...] , IM~a#? AB~a AB~a X [...] 
-1.a. [...] , [...] 
-273676	1.b1A. [...] 2(N01) , |U4x1(N57)| TUR 
-1.b1B. , EN~a AB~a#? 
-1.b1C. , [...] 
-273680	1.b2A. 3(N01)# [...] , SZU# 
-1.b2B. , HI BU~a 
-1.b2C. , X NIM~b1# [...] 
-2.a. 1(N14) , DUB~a [...] 
-273685	2.b1. 3(N01) [...] , [...] 
-2.b2. , X [...] 
-1.a. [...] , GAR#? [...] 
-1.b. , SU~a ME~a 
-2.a. [...] , [...] 
-2.b. , [...] SAL 
-1. [...] 1(N01) , KISAL~b1 ERIN [...] 
+244827	1. [...] 1(N01) , KISAL~b1 ERIN [...] 
 1. [...] , [...] 
-2.a. 1(N01) , EN~a TUR 
-2.b. , 1(N57) |GI&GI|# [...] 
-3. 1(N01) [...] , X X |U4x1(N57)|# [...] 
+244830	3. 1(N01) [...] , X X |U4x1(N57)|# [...] 
 4. 1(N01) [...] , [...] 
 1. [...] , [...] BU~a#? 
 2. [...] , [...] 
@@ -60748,28 +65685,14 @@ $ (not given)
 2. [...] 1(N01)# , |NINDA2xX|#? [...] 
 3. [...] 1(N01)# , |NINDA2xX|#? [...] 
 1. [...] , [...] X 
-1.a. [...] , |1(N58).BAD~a|? [...] 
-1.b. , X PAP~a 
-2.a. [...] 1(N01) , X [...] 
-2.b. , KAB GI# [...] 
-1. [...] , [...] 
-2.a. 2(N01) , [...] UKKIN~a# 
-2.b. , RU? [...] 
-3.a. 1(N01) [...] , SZITA~a1 X [...] 
-3.b. , BIR3~b# ZATU647 
-1. 1(N01) [...] , GIR2~a#? [...] 
+244843	1. [...] , [...] 
+244846	1. 1(N01) [...] , GIR2~a#? [...] 
 2. 1(N01) [...] , GAL~a# GAN~c# [...] 
 1. [...] , X AN RU X X URU~a1 ZATU686~a 
 2. 1(N08) , MUSZEN EN~a#? ZATU686~a# [...] 
 3. 1(N08) , [...] 
 1. [...] , EN~a X GU7 X [...] 
-1.a. [...] , [...] 
-1.b. , [...] X 
-2.a. [...] 1(N01) , X [...] 
-2.b. , AB~b BU~a 
-3.a. [...] , [...] 
-3.b. , MUD NUN~a 
-1. 1(N01) [...] , X [...] 
+244855	1. 1(N01) [...] , X [...] 
 2. 1(N01) , DUG~b#? PAP~a# [...] 
 3. 1(N01) , [...] 
 1. [...] , X [...] 
@@ -60799,27 +65722,8 @@ $ (not given)
 1. [...] , NUN~a#? X U4 U2~a [...] 
 2. [...] , [...] 
 3. [...] , [...] 
-1.a. [...] , [...] 
-1.b. [...] , GAN2# 
-2.a. [...] , X SZITA~a1#? X [...] 
-2.b. 3(N14) , GAN2 
-3.a. [...] , [...] 
-3.b. 2(N14) , [GAN2] 
-4.a. [...] , [...] 
-4.b. 1(N14) [...] , TE#? 
-5. [...] , [...] EN~a#? SI 
-1.a. [...] 1(N01)# , DA~a SA~c [...] 
-1.b. [...] , X [...] 
-1.c. [...] 1(N14)# , GAN2 
-2.a. 4(N01) , UDU~a# SI ZATU647 KISAL~b1 
-2.b. 2(N14) , GAN2 
-3.a. 4(N01) , ALAN~a BU~a SANGA~a ERIN 
-3.b. 2(N14) , GAN2 
-4.a. 2(N01) , UDU~a URI MUSZ3~a 
-4.b. 1(N14) , GAN2 
-5.a. 1(N01)# , UDU~a ME~a X [...] 
-5.b. 1(N14) , GAN2 
-1. [...] , GAN2# [...] 
+244889	5. [...] , [...] EN~a#? SI 
+244895	1. [...] , GAN2# [...] 
 1. [...] , DUG~a#? X NUN~a# SAG# X [...] 
 2. [...] , [...] 
 1. [...] , [...] 
@@ -60836,13 +65740,7 @@ $ (not given)
 2. [...] 2(N14) , U2~a# U2~b DAR~c# 
 1. [...] , [...] X GU7# 
 1. 3(N14)# [...] , [...] 
-1.a. [...] 2(N14)# 1(N01)# , [...] 
-273796	1.b1. 6(N01) , [...] 
-1.b2. 1(N14) 1(N01) , KU6~a# [...] 
-1.b3. 9(N01) , GU4# 
-1.b4. 2(N01) , |MAH~axMASZ| 
-1.b5. 3(N01) , AB2 SZA3~a2# 
-2. [...] 2(N14) , SZA@g 
+244913	2. [...] 2(N14) , SZA@g 
 1. [...] , X [...] 
 1. 2(N02) [...] , SILA3~a GAL~a [...] 
 1. [...] , [...] 
@@ -60865,10 +65763,7 @@ $ (not given)
 1. 1(N34) 5(N14) , SZA@g 
 2. 1(N34) 3(N14) 6(N01) , DU8~c@g 
 3. 4(N01) [...] , SILA3~a# [...] 
-1.a. 2(N34) 3(N14) 5(N01) [...] , TUR GAL~a |SILA3~axSZU| |SILA3~axSZU| 
-273826	1.b1. [...] 1(N14) 2(N01) , |SILA3~axSZU| GAL~a 
-1.b2. 1(N34) 3(N14) 6(N01) , |SILA3~axSZU| TUR 
-2. 2(N34) 4(N14) 5(N01) , |SZITA@g~ax1(N04)| BA SZITA~a1 
+244937	2. 2(N34) 4(N14) 5(N01) , |SZITA@g~ax1(N04)| BA SZITA~a1 
 3. , [...] 
 1. [...] , X |KUR~a.E2~a|# [...] 
 1. 3(N01) , SZITA~a1 X [...] 
@@ -60901,10 +65796,7 @@ $ (not given)
 3. , GAL~a# GU7# X 
 1. [...] , NAM2#? [...] 
 1. 5(N01)# , X |NIR~axAN| SIG7? |ZATU651xGAR| UNUG~a BAR TAK4~a 
-1.a. 2(N01) , DUG~c TAK4~a ALAN~c 
-273863	1.b1. [1(N01)] , X [...] 
-1.b2. 1(N01) , EN~a KI URU~a1 
-2. [...] , DUG~c BIR3~a SANGA~a 
+244971	2. [...] , DUG~c BIR3~a SANGA~a 
 3. , GU7 TI@t MES 
 1. [...] 2(N01) , DUG~a# [...] 
 1. [...] , X [...] 
@@ -60913,23 +65805,7 @@ $ (not given)
 1. [...] , [...] X 
 1. [...] , GU7 [...] 
 1. [...] , SU~a SAL PIRIG~b1 [...] 
-1.a. [...] , [...] 
-1.b. , [...] PAP~a KALAM~b#? 
-2.a. [...] , [...] 
-2.b. , PAP~a ZATU629# [...] 
-1.a. [...] 1(N01) , AB~b E2~a SANGA~a# 
-1.b. , [...] SZE~a NIM~b1 
-2.a. 1(N01) , DUG~c LAL3~a SAL URU~a1 [...] 
-2.b. , BU~a SZE~a NIM~b1 
-1.a. [...] , [...] 
-1.b. [...] , [...] 
-2.a. 2(N01) , E2~a#? AB~b# 
-273886	2.b1. , NIN# SIG7 
-2.b2. , BU~a SZE~a NIM~b1 
-3.a. 5(N01) , |(UDU~axTAR)~b|#? AB~a#? 
-273890	3.b1. , BU~a SZE~a NIM~b1 
-3.b2. , 3(N57) SANGA~a 
-4. , GU7 |ZATU651xGAR| 
+244987	4. , GU7 |ZATU651xGAR| 
 1. [...] , |ZATU651xGAR| [...] 
 1. [...] , PA~a NAM2 X [...] 
 1. [...] 3(N01)# , [...] X 
@@ -60999,9 +65875,7 @@ $ (not given)
 1. [...] 8(N01)# 1(N08) , GAR 
 2. 9(N01) , |SILA3~axSZU| 
 3. 1(N14) 5(N01) , SZITA~a1 UDU~a# 
-1.a. 2(N01) [...] , EN~a# NAGA~a#? [...] 
-1.b. , SZA# DU [...] 
-2. 7(N01) , RU# ZATU629# [...] 
+245058	2. 7(N01) , RU# ZATU629# [...] 
 3. [...] , ZATU629# |1(N57).SZUBUR| X NE~a# [...] 
 4. [...] , X X [...] 
 1. [...] , |SILA3~axSZE~a@t| 
@@ -61014,19 +65888,12 @@ $ (not given)
 2. [...] , DUB~a [...] 
 3. [...] , [...] 
 1. [...] , [...] 
-1.a. 2(N14) [...] , SZE~a |U4x1(N57)| X [...] 
-1.b. 3(N14) [...] , [GI ...] 
-2.a. [1(N45)] , |U4x5(N57)|#? [...] 
-2.b. [...] , GI [...] 
-3. 5(N14)# [...] , GI [...] 
+245073	3. 5(N14)# [...] , GI [...] 
 4. [...] , X GI# [...] 
 5. [...] , [...] GI# 
 1. [...] , GI# [...] 
 2. [...] , [...] HI DUG~a EN~a 
-1.a. 2(N45) , APIN~a PA~a SI AN KI# 
-273988	1.b1. 9(N14) , BA SZE~a 
-1.b2. 1(N45) 1(N14) , SZE~a# GI# [...] 
-2. , HI EN~a DUG~a 
+245079	2. , HI EN~a DUG~a 
 1. [...] 2(N01) , [...] 
 2. 3(N14) 9(N01) , 
 1. [...] , [...] KISAL~b1 
@@ -61079,17 +65946,7 @@ $ (not given)
 2. 1(N14) , |GAN~cxSZE3@t|? [...] 
 3. 1(N01) , |GAN~cxNE~a| 
 4. [...] , [...] U2~b#? 
-1.a. [...] 1(N01) , [...] BU~a 
-1.b. 4(N01) , [KID~b] KID~b# 
-2.a. 1(N01) , |NUN~a+EN~a| 
-2.b. 4(N01) , KID~b KID~b 
-3.a. 1(N01) , ZATU636? 
-3.b. 4(N01) , KID~b KID~b 
-4.a. 1(N01) , AK~a 
-4.b. 4(N01) , KID~b KID~b 
-5.a. [...] , [...] 
-5.b. 4(N01) , KID~b [KID~b] 
-1. 1(N01) [...] , [...] 
+245137	1. 1(N01) [...] , [...] 
 2. 1(N01) [...] , [...] 
 1. 1(N34)# [...] 7(N01)# , [...] 
 1. [...] 1(N01) , IM~a#? DI 
@@ -61102,27 +65959,10 @@ $ (not given)
 2. 3(N01) , GAL~a SANGA~a GI SZITA~a1 
 3. 2(N01) , EN~a SZITA~a1 NUN~a SZU 
 1. [...] , EN~a# [...] 
-1.a. 1(N14) [...] , SAL TU~a [...] 
-274068	1.b1. , EN~a PA~a 
-1.b2. , DU DIN [...] 
-1. [...] , X GUN3~b 
+245151	1. [...] , X GUN3~b 
 1. [...] , [...] SAGSZU 
-1.a. 2(N01) , KISZ 
-274074	1.b1. , X X [...] 
-1.b2. , SAGSZU SAG# [...] 
-2. , KISZ UDUNITA~a# X [...] 
-1.a. [...] , [...] TU~a# 
-1.b. , X LA2 GARA2~a [...] 
-2.a. [...] , [...] 
-2.b. , |BU~a+DU6~a|# PAP~a# 
-2.c. , UDU~a UDU~a [...] 
-3.a. [...] 2(N01) , SZA3~a1# 
-3.b. , EN~a E2~a TI 
-274085	3.c1. , SZA3~a1 SZUBUR 
-3.c2. , BU~a 
-3.c3. , UDU~a TAR~a 
-3.d. , SAG#? X [...] 
-1. [...] , [...] SUM~a# 
+245154	2. , KISZ UDUNITA~a# X [...] 
+245158	1. [...] , [...] SUM~a# 
 2. [...] , EN~a# [...] 
 1. [...] , [...] X 
 2. 1(N01) , GIZZAL~v#? [...] 
@@ -61144,16 +65984,12 @@ $ (not given)
 2. , SI KID~a SZA 
 1. [...] , [...] TUM~a#? 
 2. 1(N46) , DA~a# [...] 
-3.a. 5(N14) , SZE~a DU NA~a 
-3.b. 3(N14) [...] , [...] 
-4. 2(N14) [...] , [...] 
+245181	4. 2(N14) [...] , [...] 
 1. , TUR3~a# [...] 
 1. 3(N14) 9(N01) , LAGAB~b UDU~a 
 2. [...] 1(N01) , KISIM~a 
 3. , [...] 
-1.a. 3(N14) 3(N01) , UDU~a BA 
-1.b. 4(N01) , |U4x1(N57)| BAR 
-2. 2(N01) , SZU 
+245187	2. 2(N01) , SZU 
 4. 4(N02) , ZATU628~a 
 1. 1(N14) , UDU~a 
 2. , |SZE~a.NAM2| 
@@ -61178,75 +66014,24 @@ $ (not given)
 3. 2(N01) , BAR 1(N57) SAL [...] 
 4. 2(N01) , BUR2 TUG2~a# [...] 
 1. [...] , [...] 
-1.a. 3(N01) , APIN~a GU4 GAN2 
-274147	1.b1. , GI TUM~a 3(N57)# MUSZEN 
-1.b2. , LA2 SZE3# 
-1.a. 1(N14)# [...] , [...] |GI&GI|# 
-274151	1.b1. , MUSZEN# [...] 
-2.a. [...] , [...] 
-274154	2.b1. , X X [...] 
-2.b2. , NA~a# [...] 
-274157	3.b3. , [...] 
-274159	4.b4. , EN~a# UR2 [...] 
+245217	1. [...] , [...] 
 1. [...] , [...] 
-1. [...] , [...] 
-2.a. 9(N01) , KUR~a [...] 
-274164	2.b1. , BA DUB~a A NIN ZATU647 
-2.b2. , [...] 
-2.b3. , X [...] 
-1. [...] 1(N45) 3(N14) [...] , [...] 
+245220	1. [...] 1(N45) 3(N14) [...] , [...] 
 2. 1(N45) , SZE~a GAN2 SANGA~a 
-3.a. 1(N45) 6(N14) , SZE~a UR2 SUKKAL GISZ E2~a SIG2~a2 
-3.b. 8(N19) , 
-1. [...] , KALAM~a# SIG2~a2#? [...] 
+245223	1. [...] , KALAM~a# SIG2~a2#? [...] 
 1. 5(N34) 1(N14) [...] , SZE~a# [...] 
 2. 1(N49) , KA~a#? [...] 
 3. 5(N19) , |GISZ.TE| [...] 
 1. [...] 1(N34) 7(N14) [...] , [...] 
-1.a. , IM~b? X 
-2.a. [...] , [...] 
-2.b. , KI DAR~b GUB3~b 
-3.a. [...] , [...] 
-3.b. , TUR MAR~a X GAL~a 
-4.a. [...] , MAR~a# [...] 
-1. [...] , EN~a DU SAR~a? NUN~a [...] 
-2.a. 1(N01) , KISZ |GA2~bxDUB~a|? 
-2.b. [...] , MUD KASZ~b X 
-2.c. 1(N01) , X [...] 
-3.a. 3(N01) , EN~a IB~a 
-3.b. 1(N01) , APIN~a [...] 
-3.c. 1(N01) , APIN~a HI@g~a SZUBUR 
-3.d. [...] , EN~a GI? [...] 
-3.e. , ANSZE~b E2~a SIG2~a1 
-4.a. 5(N01) , NAM2 DI [...] 
-4.b. 1(N01) , EN~a X SUKKAL? ZATU752 NIM~b1 KI 
-4.c. , PU2 KU3~a? 
-4.d. 1(N01) , E2~a SANGA~a 
-4.e. , E2~a KALAM~b 
-4.f. , NA2~a GAL~a 
-4.g. 1(N01) , SAR~a SZUBUR 
-4.h. , GI6 DU 
-4.i. 1(N01) , KISZ GAL~a 
-4.j. [...] , X [...] 
-4.k. 1(N01) , SI4~a SI X |DARA3~dxKAR2|? 
-4.l. , SI ME~a PAP~a 
-4.m. , TU~b? NIM~b1 X 
-4.n. [...] , [...] 
-4.o. , ISZ~b? 
-4.p. , ANSZE~b? KI 
-4.q. 2(N01) [...] , [...] 
-1. [...] 1(N01) , MA# U4 
+245232	1. [...] , EN~a DU SAR~a? NUN~a [...] 
+245236	1. [...] 1(N01) , MA# U4 
 2. [...] , [...] TUM~a@g#? 
 1. [...] , [...] 
 2. [...] 1(N01)# , [...] ZATU694~c 
 1. [...] , [...] X 
 2. 2(N01) , ZATU694~c AN LAGAB~b BA 
 3. 2(N01) , ZATU694~c SI X URI3~a# 
-1.a. [...] , AB~a TUM~a# [...] 
-1.b. , SAR~a SZEN~b 
-2.a. [...] , [...] TUR BU~a 
-2.b. , |EZEN~axSAG| 
-1. [...] , [...] TE [...] 
+245245	1. [...] , [...] TE [...] 
 2. 1(N01) [...] , ZATU752 [...] 
 1. [...] , GAL~a ERIM~a X [...] 
 2. [...] 1(N14) [...] , X [...] 
@@ -61257,14 +66042,7 @@ $ (not given)
 1. [...] 1(N01)# , [...] 
 2. , KU~b1 UR~a? [...] 
 1. [...] , [...] 
-2.a. [...] , [...] NAM~a 
-2.b. [...] , [...] 
-274233	3.a1. [...] , [...] NAGA~a BA SAR~c 
-3.a2. [...] , [...] X TUR 
-3.b. , ZATU686~a [...] SUKKAL IB~a# 
-4.a. [...] 3(N01) , PAP~a BU~a NUN~a# GIR3@g~b 
-4.b. , PAP~a |1(N57).SZUBUR| ZI~a 
-5. [...] , [...] 
+245259	5. [...] , [...] 
 1. [...] , [...] 
 2. [...] 2(N01)#? , [...] 
 1. [...] , [...] 
@@ -61273,9 +66051,7 @@ $ (not given)
 1. [...] 1(N01)# , [...] 
 2. 2(N51) , GAR# [...] 
 3. 2(N14) , SZE3 UDU~a# [...] 
-1.a. 1(N01) , SAL BU~a PAP~a NAM2 SZITA~a3 ZATU647 
-1.b. , X [...] 
-2. 1(N01) , SAL 3(N57) MEN~a GI TUR? 
+245269	2. 1(N01) , SAL 3(N57) MEN~a GI TUR? 
 3. , ZATU686~a AN# MUSZ3~a# [...] 
 1. , 
 2. 1(N01) , SZU2# 
@@ -61289,17 +66065,7 @@ $ (not given)
 1. [...] , [...] 
 2. [...] , [...] 
 3. [...] , [...] 
-1.a. [...] , X X [...] 
-1.b. , [...] X SAR~a SZUBUR# 
-2.a. [...] , [...] 
-2.b. 1(N01) , X X [...] 
-2.c. , IB~a SZURUPPAK~b# SI4~f 
-1.a. 3(N01) , SAL UR5~a 
-274270	1.b1. , SZU ZATU697~a 
-1.b2. , X [...] 
-2.a. 2(N01) , SAL SZA3~a1 
-2.b. , NI~a BA [...] 
-3. 1(N01) , PA~a 
+245287	3. 1(N01) , PA~a 
 1. [...] X , [...] 
 2. [...] 2(N01) , SAG A 
 3. 1(N14) 8(N01) , [...] NUNUZ~a1 
@@ -61307,83 +66073,28 @@ $ (not given)
 2. [...] , [...] EN~a EZINU~a 
 3. [...] , [...] SAG X ERIM~a#? [...] 
 1. [...] , [...] KI# KU6~a# 
-2.a. 2(N01) , ME~a SAL 
-274284	2.b1. 1(N01) , MU#? [...] 
-274286	2.b2A. 1(N01) , KUR~a ERIM~a GI 
-2.b2B. , TUR [...] 
-3.a. 1(N01) [...] , EN~a# |SILA3~axSZU2| X [...] 
-3.b. , X [...] 
-1.a. 5(N48) 5(N34) , DARA4~c1 
-274292	1.b1. 4(N48) 8(N34) , [...] 
-1.b2. 5(N34) , [...] 
-1.b3. 2(N34) , [...] 
-2. 5(N34) , X [...] 
+245298	2. 5(N34) , X [...] 
 3. [...] , X [...] 
 1. 2(N34)# , GI SIG2~a1# X 
-2.a. 2(N34)# 3(N14) , X [...] 
-274300	2.b1. 2(N34) , [...] 
-2.b2. 2(N14) 2(N01)# [...] , [...] 
-2.b3. [...] , [...] 
-1. [...] , GAN2 X TI? X [...] 
+245302	1. [...] , GAN2 X TI? X [...] 
 1. 3(N14) 3(N01) , DU AL PAP~a? APIN~a 
 1. , ISZ~b 
 1. [...] , [...] X 
-1.a. [...] 3(N01) , [...] UDU~a# |U4x(X+2(N01))|# X [...] 
-274309	1.b1. [...] , [...] 
-1.b2. 3(N01) , X [...] 
-1.b3. 1(N01) , |NINDA2x(HI+ME~a)|# [...] 
-1.b4. , |U4x3(N01).3(N08)| |(UDU~axTAR)~a| [...] 
-2. [...] , [...] AMA~a#? [...] 
-1.a. [...] , [...] 
-274316	1.b1. [...] , X [...] 
-1.b2. 1(N01) , BA |GI&GI| 
-1.b3. 1(N01) , TI PAP~a AN 
-2. [...] , [...] SANGA~a# [...] GI 
-3.a. [...] , [...] NAGA~a X 
-3.b. , EN~a NIM~b1 |GISZxSZU2~a| 
-4.a. [...] , [...] 
-4.b. , EN~a DU PAP~a 
-5. , [...] EN~a# X TI# 
+245307	2. [...] , [...] AMA~a#? [...] 
+245309	2. [...] , [...] SANGA~a# [...] GI 
+245312	5. , [...] EN~a# X TI# 
 1. 1(N01) , SAL 
-2.a. 6(N01) , A AL LA2 
-274328	2.b1. 2(N01) , SIG7 [...] 
-2.b2. 1(N01) , NAM2 DI X [...] 
-2.b3. 1(N01) , X [...] 
-2.b4. 2(N01) , X [...] 
-3.a. [...] 2(N01)# , [...] 
-3.b. 3(N01)# [...] , [...] 
-1. [...] , [...] X 
+245316	1. [...] , [...] X 
 1. [...] , [...] X 
 2. 1(N01) [...] , X [...] 
 1. [...] , X A 
-1.a. [...] 1(N01) , SAL X DU [...] 
-1.b. 2(N01) , [...] TU~a 
-274341	1.c1. [...] , [...] 
-1.c2. , SAL X 
-2.a. 1(N01) , SAL PA~a NA2~b2 
-2.b. , KAK~a NUMUN2 
-3.a. [...] 2(N01)# , SAL X 
-274347	3.b1. , |GISZxSZU2~a| ME~a 
-3.b2. , U4 X 
-1.a. [...] , [...] UTUL~a# 
-274351	1.b1. , [...] X 
-1.b2. , X DA~a 
-2.a. 4(N01) , [...] 
-274355	2.b1. , GAN2#? PAP~a 
-2.b2. , [...] X A 
-2.b3. , [...] X 
-2.b4. , [...] 
-1. [...] 6(N36)# , [...] 
+245325	1. [...] 6(N36)# , [...] 
 2. 1(N36)# 4(N19) 3(N04)# , [...] 
 3. [...] 2(N45)# , SZE~a EN~a# [...] 
 4. [...] 1(N36)# 2(N19)# [...] , [...] 
 1. , X BAR A [...] 
 1. 3(N01) , X SAG 
-2.a. 5(N01)# [...] , SAR~a [...] 
-274367	2.b1. 2(N57)#? , X SILA3~a# 
-2.b2. 2(N57)# , X EN~a# [...] 
-2.b3. 1(N57) , SAR~a# [...] 
-1. , [...] AMA~a DA~a 
+245332	1. , [...] AMA~a DA~a 
 2. [...] , [...] A#? 
 1. , BU~a TI TUR 
 2. , 1(N57) NIN 
@@ -61402,11 +66113,7 @@ $ (not given)
 1. [...] 1(N36) [...] , SZE~a [...] 
 1. [...] 2(N01) , |SAL.KUR~a| SILA4~a BA X [...] 
 1. [...] , SAL# [...] 
-1.a. , ([...] DAH)a 
-1.b. , (RU# [...])a 
-2.a. , ([...] SAR~a# 3(N57))a PAP~a SU~a 
-2.b. , (MUD# [...])a 
-3. [...] , [...] 
+245353	3. [...] , [...] 
 1. [...] , [...] X NIN [...] 
 1. [...] , [...] NUN~a# MUSZEN#? 
 1. [...] , ZATU694~c [...] 
@@ -61415,21 +66122,14 @@ $ (not given)
 2. 2(N01) , ZATU694~c UD5~a# [...] 
 1. 1(N01) , ZATU697~a IB~a 
 2. 2(N01) , [...] 
-1.a. [...] , X 
-1.b. , [...] KU3~a X NUN~a 
-2.a. 2(N01) , SAL IB~a X 
-274406	2.b1. , MUD IB~a NA~a URI3~a 
-2.b2. , |GI&GI| 
-1. 1(N14) [...] , X [...] 
+245364	1. 1(N14) [...] , X [...] 
 1. [...] , [...] 
 2. [...] , [...] GAL~a GURUSZ~a 
 3. [...] , [...] DIN# EN~a NUN~a SANGA~a#? [...] 
 1. [...] 1(N01) , [...] DIN# EN~a [...] 
 2. 1(N01) [...] , [...] 
 1. [...] , [...] 
-2.a. [...] , GI [...] 
-2.b. 1(N08) , SAL 2(N58)? TUR [...] 
-3. [...] , [...] SILA4~b 
+245372	3. [...] , [...] SILA4~b 
 1. 1(N34) 1(N14) 5(N01)# , [...] 
 2. [...] 1(N01)# , BAR 1(N57) SAL 
 3. [...] , BAR 1(N57) SAL ZATU756 
@@ -61439,11 +66139,7 @@ $ (not given)
 1. [...] 6(N01) , [...] 
 1. , [...] 3(N57) NAGA~a GESZTU~b 
 1. [...] , [...] 
-1.a. [...] 1(N01)# , SANGA~a GAL~a AN HI 
-1.b. , U2~a GAR 
-2.a. [...] 1(N01)# , URI3~a 3(N57) SILA4~a 
-2.b. , BA PIRIG~b1 
-3. [...] , [...] X TE 
+245384	3. [...] , [...] X TE 
 1. [...] , [...] MUSZ3~a 
 2. [...] , [...] UMUN2 DU 
 1. [...] , [...] 
@@ -61458,9 +66154,7 @@ $ (not given)
 1. [...] 1(N48) 4(N34) [...] , [...] 
 1. [...] , ADAB [...] 
 1. [...] 4(N04)? , [...] 
-1.a. , ADAB 
-1.b. , KALAM~b [...] 
-1. [...] , [...] 
+245400	1. [...] , [...] 
 1. , BAR ZATU749~c 
 2. , [...] NAGA~a# MUSZEN# 
 3. [...] , [...] 
@@ -61469,11 +66163,7 @@ $ (not given)
 2. , PIRIG~b1 ERIM~a 
 3. , X [...] 
 1. , PAP~a# [...] 
-1.a. [...] , [...] GAL~a# 
-1.b. [...] , [...] PAP~a 
-2.a. 1(N01) , 1(N57)? E2~a [...] 
-2.b. , X [...] 
-3. [...] , [...] 
+245411	3. [...] , [...] 
 1. [...] 5(N01)# , [...] 
 1. 1(N34) 4(N14) [...] , [...] 
 2. 3(N14) , GAN~c# [...] 
@@ -61488,10 +66178,7 @@ $ (not given)
 2. , DUB~b 
 3. , SI SAG X [...] 
 1. [...] 2(N14) 3(N01) , KALAM~a? [...] 
-1.a. [...] , UNUG~a ME~a [...] 
-1.b. [...] , SAL SZU PAP~a 
-2.a. 1(N45)# [...] , [...] 
-1. 1(N45) [...] , [...] 
+245428	1. 1(N45) [...] , [...] 
 1. [...] , [...] X SAG 
 1. [...] 2(N01)# [...] , DU DU 
 2. [...] , [...] X KI# 
@@ -61525,11 +66212,7 @@ $ (not given)
 1. 2(N01) , GA2~a2? UR~a? 
 2. 2(N01) , ZATU694~c X 
 1. [...] , EN~a# HI? [...] 
-1.a. [...] , [...] X 
-1.b. [...] 2(N01) , PAP~a AK~a? [...] 
-2.a. 1(N14) 4(N01) , BU~a PAP~a [...] 
-2.b. 1(N01) , X 
-1. [...] , KI [...] 
+245464	1. [...] , KI [...] 
 2. [...] , [...] X 
 1. [...] , NI~a#? X [...] 
 2. 1(N01) , ZATU697~a DU DU 
@@ -61541,9 +66224,7 @@ $ (not given)
 4. [...] , [...] 
 1. [...] , GAN2 SZE~a# [...] 
 1. 1(N14) [...] , [...] 
-2.a. 2(N14) 2(N01) , UDUNITA~a 
-2.b. 1(N01) , AN MUSZ3~a 
-3. , MUD#? A# X SILA4~b SZURUPPAK~a [...] 
+245477	3. , MUD#? A# X SILA4~b SZURUPPAK~a [...] 
 1. 1(N01) [...] , SILA4~c SAL 
 2. 2(N01) , SILANITA 
 1. [...] , [...] |U4xN(N01)|# 
@@ -61554,17 +66235,8 @@ $ (not given)
 1. [...] , SUHUR# X [...] 
 1. [...] , [...] 
 2. [...] , [...] SUHUR 
-3.a. 2(N34) 4(N14) [...] , X [...] 
-274545	3.b1A. [...] , ZAG~a# X SUHUR# [...] 
-274547	3.b1B1. 2(N34) 2(N14) 4(N01) , SUHUR# [...] 
-3.b1B2. 2(N14) 4(N01) , SUHUR# [...] 
-3.b1B3. 4(N01) , SUHUR [...] 
-3.b1B4. , [...] 
-3.b2. 1(N14) , |HI.SUHUR|# [...] 
-4. 1(N34) , SUHUR# NANSZE~a NIR~a [...] 
-5.a. [...] , [...] 
-5.b. 5(N01)# [...] , [...] 
-1. 5(N01)# , DARA4~c1 
+245489	4. 1(N34) , SUHUR# NANSZE~a NIR~a [...] 
+245491	1. 5(N01)# , DARA4~c1 
 2. [...] 2(N01) , [...] X 
 1. [...] , DARA4~c1 [...] 
 1. 1(N01) [...] , [...] 
@@ -61573,9 +66245,7 @@ $ (not given)
 3. , NE~a HAL# PAP~a# SILA4~b# [...] 
 1. 2(N01) [...] , [...] 
 2. 3(N01) [...] , [...] 
-1.a. 1(N14) 2(N01) [...] , UDU~a BA 
-1.b. 2(N01) [...] , [...] 
-2. 3(N01) , KISIM~b 
+245501	2. 3(N01) , KISIM~b 
 3. , DA~a 
 1. [...] , [...] X 
 2. [...] , [...] 
@@ -61612,14 +66282,7 @@ $ (not given)
 2. , EN~a AK~a IB~a NU PA~a E2~a 
 1. [...] , [...] X 
 2. , [...] EN~a PA~a 
-274604	1.a1. [...] 1(N01) , DUG~b 
-1.a2. 2(N01) [...] , [...] 
-1.b. , |3(N57).AMAR| USZUMGAL 
-2.a. 1(N34) , KUR~a TUG2~a SZE~a SAG 
-2.b. 3(N14) , TUG2~a# APIN~a [...] 
-274610	2.c1. 1(N01) [...] , [...] 
-2.c2. 2(N01) [...] , [...] 
-1. [...] 1(N14) , |GIR~a.KU6~a| 
+245540	1. [...] 1(N14) , |GIR~a.KU6~a| 
 2. 5(N01) , |(SUKUD+SUKUD)~a| PAP~a 
 3. 1(N14) [...] , SUHUR# [...] 
 1. 5(N01) , X [...] 
@@ -61638,12 +66301,8 @@ $ (not given)
 1. [...] , [...] |U4x1(N57)| 
 1. [...] , [...] ZATU750# 
 1. [...] 1(N50)# , EN~a# [...] 
-2.a. [...] 1(N50)# , UNUG~a ZATU647 
-2.b. [...] , [...] KALAM~b#? 
-3. [...] 1(N50)# , EN~a# SAL GURUSZ~a [...] 
-1.a. [...] , [...] 
-1.b. [...] , [...] BAR 
-2. [...] , SZU 
+245560	3. [...] 1(N50)# , EN~a# SAL GURUSZ~a [...] 
+245562	2. [...] , SZU 
 3. , [...] 
 1. [...] , EN~a# X [...] 
 1. 2(N01)# , NI~a# 
@@ -61663,9 +66322,7 @@ $ (not given)
 2. 2(N01) , GARA2~a 
 1. 1(N14) [...] , [...] 
 1. 1(N34) 2(N01) , LAGAB~b# UDU~a 
-1.a. 5(N14) 4(N01) , UDU~a 
-1.b. 8(N01) , |U4x1(N57)| BAR 
-2. 2(N01) , SZU# 
+245583	2. 2(N01) , SZU# 
 1. 1(N14) , [...] 
 1. [...] , |1(N57).SZUBUR|? X [...] 
 1. [...] , [...] TUR LISZ? 
@@ -61707,10 +66364,7 @@ $ (not given)
 1. 1(N01) , U4 X NE~a? SIG2~a1 E2~a 
 2. [...] , SAG [...] 
 3. [...] , X [...] 
-1.a. 1(N01) , U4 
-1.b. 1(N01) , [...] 
-1.c. , E2~a SZE~a KISAL~b1 
-2. 1(N01) [...] , [...] 
+245626	2. 1(N01) [...] , [...] 
 1. 1(N24) , 
 2. 2(N08) [...] , |KU6~a+KU6~a| 
 1. 1(N05) , EN~a 
@@ -61725,17 +66379,10 @@ $ (not given)
 2. 3(N14) , DARA4~c3 
 4. , SZURUPPAK~a ZATU752 
 5. , GU7# 
-1.a. 1(N01) , GAN~a E2~a 
-274720	1.b1. 4(N01) , SZAKIR~c ZATU752 
-1.b2. 2(N01) , GA~b# GISZ@t KU~b1 SZA#? 
-2. 1(N01) , SZAKIR~c ZATU752 KU~b1 GA~b 
+245642	2. 1(N01) , SZAKIR~c ZATU752 KU~b1 GA~b 
 3. , ZATU648 
-1.a. 1(N14) , GAN~a E2~a 
-1.b. 1(N14) 7(N01) , KISIM~a [...] 
-2. , EN~a ZATU752 
-3.a. , U4 NI~b EN~a IB~a ZATU753 
-3.b. , 3(N57) PAD~a 
-4. , SANGA~a ZATU753 
+245645	2. , EN~a ZATU752 
+245647	4. , SANGA~a ZATU753 
 5. , IB~a# LA2 SUG5 
 1. [...] , DUG~c GARA2~a TUR3~a [...] 
 2. 1(N01) , SZAKIR~c ZATU752# EN~a DU ZABALAM~a 
@@ -61763,35 +66410,9 @@ $ (not given)
 2. , AL#? UDU~a# X 
 3. , U4 SZE3 KI 
 1. , UB 
-1.a. [...] , [...] 
-1.b. 6(N01)#? , [...] 
-2.a. 3(N01)# , [...] 
-2.b. 6(N01) , X [...] 
-3.a. 3(N14) , GIR3~c#? 
-3.b. 3(N01) 1(N08) , DUG~b 
-4.a. 2(N14) , EN~a A AN 
-4.b. 1(N01) 1(N08) , DUG~b 
-5.a. 1(N14) , EN~a GAL~a BIR3~a 
-5.b. 1(N01) , DUG~a 
-6.a. 2(N14) , EN~a IB~a 
-6.b. 1(N01) 1(N08) , DUG~a 
-7.a. 1(N14) , ERIN APIN~a 
-7.b. 1(N01) , DUG~a 
-8.a. [...] , GA2~a1 GI 
-8.b. 1(N01) , [...] 
-1.a. 2(N14) , ERIN? [...] 
-1.b. 5(N01) [...] , [...] 
-2.a. 2(N14) , GADA~a SUKKAL 
-2.b. 1(N01) [...] 1(N08) , DUG~a 
-3. 1(N34) 1(N01) , 
+245685	3. 1(N34) 1(N01) , 
 1. 3(N01) , 
-1.a. [...] 1(N01) , [...] GAL~a 
-1.b. 1(N01) , SZITA~a1 
-2.a. [...] , SUKKAL GADA~a 
-2.b. 1(N01) , SZITA~a1 
-3.a. [...] , GAL~a KISAL~b1 
-3.b. 1(N01) , SZITA~a1 
-4. [...] , [...] BA 
+245690	4. [...] , [...] BA 
 5. [...] , X NIMGIR 
 6. [...] , IB~a [...] 
 7. [...] , UKKIN~a# [...] 
@@ -61809,9 +66430,7 @@ $ (not given)
 7. 1(N01) , EN~a NUN~a ERIM~a 
 8. 1(N01) , AN |SZU2.EN~a| 
 9. 1(N01) , NAMESZDA 
-10.a. 1(N01) , EN~a PAP~a 
-10.b. 1(N01) , SZITA~a1 
-11. , SZITA~a1 
+245709	11. , SZITA~a1 
 1. 1(N01) , SZU GAL~a [...] 
 2. 1(N01) , NAM2#? ZATU651 
 3. 1(N01) , DA~a DU NE~a 
@@ -61824,12 +66443,8 @@ $ (not given)
 10. 1(N01) , GAR [...] 
 1. [...] 9(N01) , SZITA~a1 UDU~a 
 2. [...] 3(N14) 1(N01) , SZITA~a1 SUHUR# 
-1.a. 4(N51) 1(N34) 5(N14) 8(N01) , SZU GUM~b GAR 
-1.b. 5(N14)# 9(N01) , DUG~a 
-2. 5(N51) , GAR SZAM2 
-3.a. 1(N14) , GAR SANGA~a GAL~a 
-3.b. 1(N01) 1(N08) , DUG~a 
-4. , BAR 
+245723	2. 5(N51) , GAR SZAM2 
+245725	4. , BAR 
 1. [...] 8(N01) , GAR 
 2. [...] , DUG~a# 
 3. [...] , SUM~b 
@@ -61868,9 +66483,7 @@ $ (not given)
 1. 3(N01) , SZEN~b 
 2. 5(N01) , DUG~a 
 3. [...] , [...] X 
-1.a. [...] , ZATU649 [...] 
-1.b. [...] , X GI [...] 
-1. [...] , X [...] 
+245765	1. [...] , X [...] 
 2. , SANGA~a HI IB~a KU3~a 
 1. 1(N01) , [...] 
 2. 3(N01) , X U2~b? 
@@ -61903,10 +66516,7 @@ $ (not given)
 1. [...] , NAM2# [...] 
 1. [...] , EN~a# AN# [...] 
 1. 1(N01) [...] , PA~a E2~a MA X 
-2.a. 5(N01) , GAN~c# 
-274899	2.b1. 2(N01) , LAGAB~b X 
-2.b2. 3(N01) , LAGAB~b DIN 
-3. , IB~a# 1(N04) TAK4~a KI E2~a 
+245799	3. , IB~a# 1(N04) TAK4~a KI E2~a 
 4. , EN~a DU ZATU759 
 1. 3(N14) , GAN2 USZ~b SANGA~a NAR NAGA~a 
 2. , AL 
@@ -61916,13 +66526,7 @@ $ (not given)
 3. , ZUBI~b 
 1. , GESZTU~b KAK~a ZATU686~a 
 2. , EN~a HI? SANGA~a KI#? [...] 
-1.a. [...] 2(N01) , GAL~a SZITA~a1 
-1.b. 1(N34) 3(N14) [...] , [...] 
-2.a. 1(N34) 1(N14) , EN~a MAR~a SZA3~a1 
-2.b. 1(N51) 2(N14) , 2(N57) GAR [...] 
-3.a. 5(N14) 6(N01) , NAM2 NAM2 
-3.b. 3(N14) [...] , [...] 
-4. , EN~a BA AL 
+245812	4. , EN~a BA AL 
 1. [3(N14) 5(N01)] , 
 2. , EZEN~b HI EN~a 
 1. [1(N14) 5(N01)] , [1(N57)] 
@@ -61966,31 +66570,14 @@ $ (not given)
 1. [...] , BA SZITA~a1 [...] 
 2. [...] , NI~b#? [...] 
 3. [...] 4(N01) , [...] 
-1.a. 1(N01) , PA~a NAM2 ADAB 
-1.b. , EN~a AN TE HI 
-2.a. 1(N01) , GAL~a SZAB~a 
-2.b. , BALAG 
-3.a. 1(N01) , SZEN~a A ME~a 
-3.b. , MEN~a URI3~a SI 
-4. [...] 1(N01) , HI AMAR [...] 
+245859	4. [...] 1(N01) , HI AMAR [...] 
 1. 1(N01) [...] , [...] 
 2. 1(N01) , SAG ZATU659 USZ~a 
-3.a. 1(N01) , MIR~b#? GAL~a 
-3.b. , MEN~a URI3~a SI 
-4. 3(N01) [...] , [...] 
-1.a. 1(N01) , NAR GAL~a 
-1.b. , EN~a LAL3~a 
-2. 1(N01) , GAL~a GISZ? [...] 
-3.a. 1(N01) , USZUMGAL# [...] 
-1. 1(N14) 5(N01) , DARA4~c2 U8 
+245863	4. 3(N01) [...] , [...] 
+245865	2. 1(N01) , GAL~a GISZ? [...] 
+245867	1. 1(N14) 5(N01) , DARA4~c2 U8 
 2. 7(N01) , UD5~a 
-3.a. 3(N01) , UTUA~a 
-3.b. 1(N01) , E2~a? NUN~a 
-4.a. 5(N01) , UDUNITA~a 
-4.b. 2(N01) , AN MUSZ3~a 
-5.a. 1(N01) , MASZ2 
-5.b. 1(N01) , [AN] MUSZ3~a# 
-6. , BU~a TA~c HI? NAM2 APIN~a 
+245872	6. , BU~a TA~c HI? NAM2 APIN~a 
 1. [...] , X [...] 
 2. 2(N01) , SILA4~c? [...] 
 3. 3(N01) , SILANITA# 
@@ -62004,24 +66591,10 @@ $ (not given)
 4. 7(N01) , X [...] 
 5. 5(N01) , [...] 
 6. 1(N01) [...] , [...] 
-1.a. 3(N14) 1(N01) , UDU~a BA 
-1.b. , |U4x1(N57)|# BAR 
-2. 4(N01) , SZU 
+245887	2. 4(N01) , SZU 
 1. 3(N14) 5(N01) , LAGAB~b UDU~a 
 2. 3(N01) , KISIM~a 
-1.a. [...] , [...] 
-1.b. , X [...] 
-2.a. [...] 1(N01) , X 
-2.b. , RI8~a 
-3.a. 3(N01) , GA~a 
-275010	3.b1. , NE~a SAG 
-3.b2. , NAB NU11? 
-3.b3. , MU DU 
-275014	3.c1. 1(N01) , |U4x1(N57)|? BAR 
-3.c2. , ERIM~a 
-275017	3.d1. 1(N01) , PAP~a TI 
-3.d2. , IL GI X [...] 
-1. [...] , EN~a# LAGAB~b LAGAB~b? [...] 
+245893	1. [...] , EN~a# LAGAB~b LAGAB~b? [...] 
 1. 1(N34) 1(N14)# [...] , [...] 
 1. [...] , IB~a [...] 
 2. , DUG~a? 
@@ -62044,65 +66617,20 @@ $ (not given)
 1. 1(N14) 4(N01) [...] , BA DARA4~c1 
 2. [...] , X [...] 
 3. 1(N01) , DUG~c 
-1.a. 4(N34) 2(N14) , U4 DARA4~c2 HI E2~a NUN~a 
-1.b. 3(N34) 2(N14) 5(N01) , NE~a 
-1.c. 2(N34) 4(N14) 5(N01) , X 
-2.a. 1(N14) , U4 EN~a SAG 
-2.b. 2(N01) , NE~a 
-2.c. 7(N01) , [...] 
-3.a. 1(N14) 1(N01) , U4 NAMESZDA 
-3.b. 9(N01) , [...] 
-4.a. 2(N34) 4(N14) 3(N01) , EN~a AN SZU ME~a 
-4.b. 3(N34) 5(N01) , NE~a 
-4.c. 2(N34) , GUN3~a 
-4.d. 2(N34) 2(N14) 4(N01) , GI6 GI 
-4.e. 1(N34) 3(N14) [...] , ZATU749~c# 
-5.a. 1(N48) 3(N14) , U4 SANGA~a GAL~a 
-5.b. 3(N14) , NE~a 
-5.c. 1(N34) 1(N14) [...] , GI6 GI 
-5.d. 4(N14) 5(N01) , GUN3~a 
-6.a. 6(N01) , U4 ZATU651? 
-6.b. 3(N14) , GUN3~a 
-6.c. 5(N14) 1(N01) , ZATU749~c 
-7.a. 2(N34) 5(N14) 3(N01) [...] , U4 |NIR~axAN| 
-7.b. 1(N14) 5(N01) [...] , [NE~a] 
-7.c. 1(N34) 2(N14) 2(N01) , GUN3~a 
-7.d. 5(N14) 5(N01) , ZATU749~c 
-7.e. 2(N14) [...] , [...] 
-8.a. 1(N34) 4(N14) 5(N01) , [U4] NUN~a BAD3~b2 
-8.b. 1(N14) 9(N01) , NE~a 
-8.c. 1(N34) 4(N14) , GUN3~a 
-8.d. 2(N34) 2(N14) 3(N01) , ZATU749~c 
-8.e. 2(N01) [...] , UR3~a3# 
-9.a. [...] 1(N14) , U4# [...] 
-9.b. 1(N34) 1(N14) [...] , [NE~a] 
-9.c. 1(N34) 1(N14) , GUN3~a 
-9.d. 1(N34) 4(N14) , GI GI6 
-9.e. 2(N34) 9(N01) , ZATU749~c 
-1. 2(N48) 1(N34) , U4 DARA4~c2 
+245925	1. 2(N48) 1(N34) , U4 DARA4~c2 
 2. 9(N34) 1(N14) 1(N01) , NE~a 
 3. 1(N48) 2(N14) 4(N01) , GUN3~a 
 4. 7(N34) 1(N14) 9(N01) , GI6 GI 
 1. 4(N48) 7(N34) 5(N14) 4(N01) , BA DARA4~c2 
 2. 1(N48) 2(N34) 5(N14) 8(N01) , ZATU749~c 
-3.a. 3(N14) 6(N01) , UR3~a3 
-3.b. 1(N14) 3(N01) , SZUBUR 
-4. , EN~a ZATU752 
-1.a. 1(N01) , DUG~b 
-1.b. 2(N01) , TUG2~a 
-1.c. , SZA3~a1 |GISZ.TE| A NUN~a GI4~a UNUG~a MURUB2 SZITA~a1 
-2. 1(N14) , DARA4~c2 DA~a PAP~a DUG~a GAL~a 
+245932	4. , EN~a ZATU752 
+245934	2. 1(N14) , DARA4~c2 DA~a PAP~a DUG~a GAL~a 
 3. 1(N14) , DI HI E2~a LU2 TUN3~a NUN~a 
 4. 1(N14) , NAGA~a GAL~a PAP~a 
 5. 1(N14) , GAL~a TAK4~a NUNUZ~c 
 6. 5(N01) , GAL~a GADA~b@g |MAx1(N58)| KI#? 
 1. , EN~a DUG~a AB~b ZATU686~b 
-275096	1.a1. 2(N14) , HAL DUR2 LA2 ERIM~a 
-1.a2. 3(N14) , |U4x1(N57)| GISZGAL 
-1.b. , EN~a DUG~a AB~b ZATU686~b 
-2.a. 1(N01) , ZATU764 SIG EZEN~b AN MUSZ3~a 
-2.b. 4(N14) , 
-3. 2(N34) , GI# TAR~a# [...] 
+245942	3. 2(N34) , GI# TAR~a# [...] 
 4. 1(N52) 2(N21)# [...] , NUN~a? X SANGA~a 
 5. 1(N43) [...] , AB2 SANGA~a [...] 
 1. 3(N51) , GA'AR~a2 HAL DUR2 LA2 ERIM~a 
@@ -62282,9 +66810,7 @@ $ (not given)
 2. [...] , MEN~a [...] 
 3. [...] , SIG2~b? [...] 
 1. 5(N01) [...] , TUG2~a? [...] 
-1.a. [...] 1(N01) , X [...] 
-1.b. , E2~a BIR3~a 
-2. , EN~a EN~a KU6~a X 
+246123	2. , EN~a EN~a KU6~a X 
 1. [...] , BU~a X [...] 
 1. [...] , X [...] 
 1. [...] , [...] 
@@ -62304,39 +66830,23 @@ $ (not given)
 1. 2(N01) , SAL SILA4~c 
 2. 3(N01) , SILANITA# 
 1. , KALAM~b 
-1.a. 5(N01)# [...] , [...] 
-1.b. , E2~a AN KI 
-2. [...] , [...] 
-1.a. 5(N01) , ENKUM 
-1.b. , AL BU~a KA~a 
-2. , |GA~a.ZATU753|# [...] 
+246144	2. [...] , [...] 
+246146	2. , |GA~a.ZATU753|# [...] 
 1. 3(N14) , UDUNITA~a 
 2. , DA~a DA~a PA~a NAM2 RAD~a# 
 1. [...] , [SILA4~c] SAL# 
 2. 5(N01) , SILANITA# 
 3. , |U4x1(N57)| BAR 
-1.a. 1(N34) , UDU~a DUB~a 
-1.b. 2(N14) , |U4x1(N57)| BAR 
-2. 1(N01) 1(N08) , KISIM~a 
+246153	2. 1(N01) 1(N08) , KISIM~a 
 1. 1(N01) , DUG~b NAR NAGA~a HI 
 1. 2(N01)# [...] , [...] 
 2. 2(N01)# [...] , |SILA3~axGARA2~a|# SZU# [...] 
 3. 1(N08) , U2~a 
 1. 1(N01) [...] , X U4 X GIBIL [...] 
-2.a. 1(N01) , E2~a X 
-2.b. , MUD NUN~a IB~a 
-3. , GU7# 
+246160	3. , GU7# 
 1. , U4 DUB~a 
-1.b. [...] , X IB~a [...] 
-2.a. [...] , SAL? 
-2.b. , GA~a SANGA~a 
-3.a. [...] , KISZ X 
-3.b. , SUG5 LA2 
-4. 1(N01) [...] , |GA2~a1xX| AZ 
-5.a. 2(N14) , BIR3~a TE HI PA~a? GIBIL SU~a NUN~a 
-275334	5.b1. , NAMESZDA LAGAB~b 
-5.b2. , LAGAB~b SANGA~a GAL~a 
-1. [...] 4(N14)# 1(N01) , [...] 
+246165	4. 1(N01) [...] , |GA2~a1xX| AZ 
+246167	1. [...] 4(N14)# 1(N01) , [...] 
 1. 2(N01) [...] , GI? [...] 
 2. 1(N01) , ZABALAM~a# [...] 
 3. 1(N01) , NE~a# GI# SZE~a# SI4~a? 
@@ -62347,13 +66857,7 @@ $ (not given)
 2. 1(N01) , TUR3~a# A# HI BU~a# 
 3. , BA |GI&GI| ZATU648 
 1. 1(N14) 9(N01) , BA DUG~c |GI&GI|# [...] 
-1.a. 2(N14) 2(N01) , X DUG~c SZAKIR~c ZATU752 
-275349	1.b1. 1(N14) 9(N01) , BA 
-1.b2. 3(N01) , GI 
-1.c. , ZATU648 GU7 
-1.a. [...] , GI6 KAR2~a NUN~a [...] 
-1.b. [...] , GA~a [...] 
-2. 6(N01) , GI6 KAR2~a NUN~a 
+246180	2. 6(N01) , GI6 KAR2~a NUN~a 
 3. 3(N01) , HAL X 
 4. 3(N01) , AN X [...] 
 5. 3(N01) , X AN MUSZ3~a X X [...] 
@@ -62379,9 +66883,7 @@ $ (not given)
 1. [...] , [SILA4~c] SAL# 
 2. 1(N14) , SILANITA 
 3. , |U4x1(N57)| BAR 
-1.a. 2(N34)# 2(N14) , DUB~a# UDU~a 
-1.b. 2(N14) , |U4x1(N57)| BAR 
-2. [...] , KISIM~a 
+246207	2. [...] , KISIM~a 
 1. 3(N01) , DUG~c 
 2. 2(N14) , SUHUR 
 3. 2(N14) 5(N01) , U2~a 
@@ -62393,16 +66895,9 @@ $ (not given)
 2. 2(N14)# [...] , [...] 
 1. 2(N01)# , KISIM~a MIR~a |GA~a.ZATU753| |U4.3(N08)| 
 2. 2(N01) , KISIM~a TA~b X |U4.2(N14)| X 
-3.a. 1(N14) [...] , X [...] 
-275396	3.b1. 8(N01) , [...] 
-1. , X EN~a X X DU PAP~a [...] 
-1.a. [...] , KISIM~a# [...] 
-275400	1.b1. [...] 2(N01)# , SZA# |U4x2(N01)| SZU 
-1.b2. 1(N08) , X |GA~a.ZATU753| 
-2. 1(N01) , KISIM~a# X |GA~a.ZATU753| [...] 
-3.a. 2(N01)# , KISIM~a# [...] 
-275405	3.b1. 1(N01)# , [...] 
-1. [...] , [...] 
+246220	1. , X EN~a X X DU PAP~a [...] 
+246222	2. 1(N01) , KISIM~a# X |GA~a.ZATU753| [...] 
+246224	1. [...] , [...] 
 2. 8(N01) [...] , KISIM~a# 
 3. 2(N14) , SIG2~a3? 
 4. , EN~a KA~a SZURUPPAK~a 
@@ -62414,31 +66909,14 @@ $ (not given)
 2. 5(N01) , MASZ 
 3. , |U4x1(N57)|# [BAR] 
 1. [...] 1(N01) , SZAKIR~c# ZATU752 
-275419	1.a1. 2(N01) , BA 
-1.a2. 2(N01) , KU3~a 
-1.b. , SZELU PAP~a 
-1. 3(N01) , KISIM~b 
-2.a. [...] 2(N01)# , ZATU752# [...] 
-275425	2.b1. , SZIM~a |KA2xLAM|? 
-2.b2. , DANNA DUG~a 
-2.b3. , X X 
-1.a. [...] , [GI6] KAR2~a# NUN~a [...] 
-1.b. 1(N01) [...] , GI [...] 
-2.a. 3(N01) , [GI6] KAR2~a# [NUN~a ...] 
-275432	2.b1. 4(N01) , BA KU3~a 
-2.b2. 2(N01)# [...] , [GI] KU3~a# [...] 
-1. [...] , 1(N57) SAL BAR 
+246237	1. 3(N01) , KISIM~b 
+246241	1. [...] , 1(N57) SAL BAR 
 2. 2(N14)# , |TUG2~a.(BAD&BAD)| 
 3. [...] , X [...] 
 1. [...] , |NINDA2x(HI@g~a.1(N06))|# [...] 
 2. , NAGA~a# [...] 
 3. , [...] 
-275441	1.a1. 4(N01) , USZ~a BARA2~a 
-1.a2. 4(N01) , USZ~a BARA2~a 
-1.b. [...] 3(N01)# , SZE3# UDU~a# 
-2.a. 1(N01) , ZATU764 
-2.b. 4(N14) , SIG2~a3? 
-1. [...] , |GA~a.ZATU753|# [...] 
+246249	1. [...] , |GA~a.ZATU753|# [...] 
 1. 2(N14) 2(N01) , |GA2~a1xKU6~a| 
 2. 1(N34) 2(N14) , U2~a 
 3. [...] , [...] 
@@ -62451,72 +66929,42 @@ $ (not given)
 1. 5(N01) , ESZGAR 
 2. 5(N01) , MASZ 
 3. , |U4x1(N57)| BAR 
-1.a. [...] 3(N01) , [...] 
-1.b. 1(N14) , |U4x1(N57)| BAR 
-2. [...] , KISIM~b# 
+246263	2. [...] , KISIM~b# 
 1. [...] , NUN~a? [...] 
-2.a. 1(N01) [...] , SU~a NUN~a EN~a NANNA~a 
-275465	2.b1. 1(N57) , KU6~a 
-2.b2. 1(N01) , TUR3~a GAL~a |GISZ3~a&GISZ3~a| 
-1.a. [...] , [...] 
-1.b. [...] , [...] 
-2.a. 1(N01) , BU~a? LUGAL 
-2.b. , SZITA~a1 BU~a 
-1. [...] , [...] 
-2.a. 2(N01) , ERIM~a MUSZEN NUNUZ~a1 
-2.b. , EN~a NANNA~a 
-1.a. [...] , X SUG 
-275476	1.b1. [...] , X HI 
-1.b2. , SANGA~a 
-1. [...] , DARA4~c1 ZATU753 [...] 
+246268	1. [...] , [...] 
+246271	1. [...] , DARA4~c1 ZATU753 [...] 
 1. [...] , UDU~a AB2 SZURUPPAK~a SANGA~a [...] 
 2. 1(N34) 2(N14) , |EZEN~ax(U2~b.A)| 
 3. [...] 2(N14)# , X [...] 
 1. [...] , [...] 
 2. [...] , [...] X 
-1.a. [...] , [...] KA~a X 
-1.b. [...] 1(N01)# , X [...] 
-2. , X [...] 
+246278	2. , X [...] 
 3. , NUNUZ~a1# [...] 
 1. , DAH# X |SZE~a.NAM2| NAM2 RAD~a PA~a 
 1. , |U4x1(N57)|# BAR 
-1.a. 1(N14) 5(N01) , UDU~a BA 
-1.b. 4(N01) [...] , |U4x1(N57)| BAR 
-2. [...] , KISIM~a 
+246283	2. [...] , KISIM~a 
 1. 1(N01) , DUG~c DUG~c 
 2. 1(N14) 5(N01) , X [...] 
 1. [...] , UDUNITA~a# 
 1. 3(N01)# , SILA4~c# SAL# 
 2. 4(N01) , SILANITA 
-1.a. [...] , UDU~a [...] 
-1.b. [...] , [|U4x1(N57)| BAR] 
-2. [...] 1(N01)# , KISIM~a 
+246290	2. [...] 1(N01)# , KISIM~a 
 1. [...] , BA# TUG2~a# 
 2. [...] 2(N01)# , 5(N57) SIG2~b 
 1. [...] , BA? X AN? MUSZ3~a? X 
-2.a. 1(N01) , BA? TUG2~a? SIG NIN NUN~a SIG7 
-2.b. , GA~a SANGA~a X 
-1. 2(N01) , [...] BAR 
+246295	1. 2(N01) , [...] BAR 
 2. 2(N01) , TUG2~a#? |GA~a.ZATU753| BAR [...] 
 1. [...] , [...] 
 1. , PIRIG~b1#? NAM2 RAD~a PA~a [...] 
 1. [...] , MASZ 
 2. , |U4x1(N57)| BAR 
-1.a. [...] , [...] 
-1.b. 3(N01)# [...] , [...] 
-2. [...] , [...] 
-1.a. 1(N34) , UDU~a DUB~a 
-1.b. 1(N14) , |U4x1(N57)| BAR# 
-1. , [...] 
+246302	2. [...] , [...] 
+246304	1. , [...] 
 1. [...] 2(N01)# , X [...] 
 2. [...] , [...] 
-1.a. [...] 2(N01) , X [...] 
-1.b. 1(N34) 5(N14) [...] , [...] 
-2. , |KUR~a.E2~a| 
+246308	2. , |KUR~a.E2~a| 
 1. 6(N34) 2(N14) 4(N01) [...] , DARA4~c1 [...] 
-1.a. [...] 1(N14)# 6(N01) , UDU~a# [...] 
-1.b. 6(N01) , |U4x1(N57)| BAR 
-2. [...] , KISIM~a# 
+246311	2. [...] , KISIM~a# 
 1. 1(N14) , UD5~a 
 2. 1(N14) 3(N01) , MASZ2 
 3. , TE#? KI SZURUPPAK~a [...] 
@@ -62528,25 +66976,16 @@ $ (not given)
 1. 3(N01) , SAL SILA4~c 
 2. 2(N01) , SILANITA 
 3. , |U4x1(N57)| BAR# 
-1.a. [...] , [...] 
-1.b. 5(N01)# , |U4x1(N57)| BAR 
-2. [...] , KISIM~a 
+246324	2. [...] , KISIM~a 
 1. 1(N14) , UD5~a 
 2. 6(N01) , MASZ2 
 1. 2(N01) [...] , ESZGAR 
 2. 3(N01) [...] , [MASZ] 
-1.a. [...] , [...] 
-1.b. [...] , [...] 
-2. 3(N01) , KISIM~b 
+246330	2. 3(N01) , KISIM~b 
 1. [...] , [...] 
 1. [...] , ZATU686~a [...] 
-2.a. [...] , NA2~a#? ZATU753 [...] 
-2.b. , I GAN~c |U4x1(N01)|? 
-3. [...] 2(N14) , UNUG~a SAG? [...] 
-1.a. [...] , X X U2~a [...] 
-275555	1.b1. [...] , X BAR [...] 
-1.b2. , NAR NAGA~a [...] 
-2. , GU7 [...] 
+246334	3. [...] 2(N14) , UNUG~a SAG? [...] 
+246336	2. , GU7 [...] 
 1'. [...] , ZATU648# 
 2'. 5(N01) , U4 AB2 SI 
 3'. 3(N01) , ZATU649# [...] 
@@ -62570,11 +67009,7 @@ $ (not given)
 1. [...] , [...] 
 2. [...] , [...] X 
 3. , [...] SUKKAL IB~a 
-4.a. [...] , [...] 
-4.b. , 1(N04) X 
-5.a. [...] , 1(N04) AB~a? 
-5.b. , SZU 
-6. [...] , |GA~a.ZATU753| [...] 
+246362	6. [...] , |GA~a.ZATU753| [...] 
 7. [...] , KISAL~b1#? GI# [...] 
 1. [...] , DA~a? [...] 
 1. 1(N34) , X [...] 
@@ -62594,66 +67029,33 @@ $ (not given)
 5. 1(N01) , GAL~a GA~a 
 6. 6(N01) , X |DUG~bxSZE~a|? X PAD~a [...] 
 7. 1(N01)# [...] , [...] 
-8.a. [...] , U2~a 
-8.b. [...] , |SILA3~axGARA2~a| 
-275608	8.c1. [...] , AN NIN [...] 
-8.c2. , SZA SZU 
-8.c3. , HAL E2~a BA 
-8.c4. , EN~a BA [...] 
-9.a. 2(N01) , |SILA3~axGARA2~a|? 
-275614	9.b1. , BAD3~b2 
-9.b2. , ME~a 
-1. [...] , [...] 
+246384	1. [...] , [...] 
 2. 1(N01) [...] , [...] X IB~a SUG5 LA2 [...] 
 1. [...] , 3(N57) SU~a GA~a X [...] 
 2. 1(N01) , NAGAR~b# NE~a#? 
-3.a. 3(N01)# , X [...] 
-3.b. , [...] 
-3.c. [...] , [...] 
-4. [...] , [...] 
+246389	4. [...] , [...] 
 5. [...] , GIBIL [...] 
-6.a. 1(N01) , NA2~a |U4x1(N01)| 
-6.b. 9(N01) , GAN~c [...] 
-7. 1(N01) , AMA~a KI [...] 
+246392	7. 1(N01) , AMA~a KI [...] 
 8. 1(N01) , DU MEN~a NUNUZ~a1? 
 9. [...] , [...] 
 10. [...] , [...] X DI NUN~a# 
 11. [...] , [...] SU~a ME~a [...] 
 12. [...] , 3(N57) E2~a ZATU751~a SAL 
 1. , X [...] 
-275635	1.a1. [...] , |ZATU651xEN~a| [...] 
-1.a2. [...] , GU4 [...] 
-1.a3. [...] , SZITA~a1 [...] 
-1.b. , EN~a DUG~a AB~b [ZATU686~a] 
-2.a. 4(N01)# [...] , [...] 
-275641	2.b1. 1(N57) , [...] 
-2.b2. 1(N57) , NAMESZDA 
-2.b3. 1(N57) , E2~a# NUN~a [...] 
-2.b4. 1(N57) , HI E2~a NUN~a# 
-3.a. 3(N01)# , X [...] 
-275647	3.b1. 1(N57) , MAR~a [...] 
-3.b2. 1(N57) , HI AN KI NUN~a 
-3.b3. 1(N57) , NAMESZDA 
-4. [...] , AB~a EN~a [...] 
+246402	4. [...] , AB~a EN~a [...] 
 5. [...] , X [...] 
 6. [...] , [...] AB~a# 
 7. 1(N01) , E2~a# NA2~a [...] 
 8. 1(N01)# , EN~a# DUG~a# AB~b# [ZATU686~a] 
 9. [...] , [...] 3(N57)? GA2~a2 
 10. [...] , HAL |E2~ax1(N57)@t| NE~a 
-11.a. 1(N01) , U2~a 
-11.b. 1(N34) , SZIM~a |SILA3~ax1(N57)|? [...] 
-1.a. 1(N08) , U2~a SUKKAL 
-1.b. 3(N14) , BA 
-2. , GU7 |GA~a.ZATU753|# 
+246411	2. , GU7 |GA~a.ZATU753|# 
 1. , KA~a SIG? E2~a? SZURUPPAK~a GI EN~a# [...] 
 1. [...] , U2~a# [...] 
 2. , ZABALAM~a SI X [...] 
 1. 1(N01) [...] , DU SZITA~a1? NAGA~a [...] 
 2. , GU7 
-275668	3.a1. [...] , [...] 
-3.a2. 1(N01) , KU3~a 
-1. [...] , I NUN~a [...] 
+246418	1. [...] , I NUN~a [...] 
 2. 3(N01) , ALAN~c AN MUSZ3~a 
 3. 1(N01) , ZATU651? RA 
 4. 1(N01) , GUG2 GISZ? |KA2xLAM| 
@@ -62669,50 +67071,27 @@ $ (not given)
 1. 1(N01) , [...] 
 2. , HI? [...] 
 3. 1(N01) , [...] 
-275687	1.a1. 1(N01) , TUG2~a 
-1.a2. 1(N14) , 
-1.b. , NAR E2~a HAL U2~b 
-275691	1.a1. 1(N01) , TUG2~a 
-1.a2. 1(N14) , 
-1.b. , NIM~b2 
-2. , [...] 
+246436	2. , [...] 
 1. [...] , GAN~a KASZ~c U2~b EN~a DU SZITA~a1 NE~a PAP~a [...] 
 2. , GU7 [...] 
-1.a. 3(N01) , SAL |GA2~bxDUB~a| 
-275699	1.b1. [...] , EN~a# [...] 
-1.b2. 2(N01) , BAR [...] 
-2.a. 1(N01) , EN~a KID~b NAR SI 
-2.b. , X NAR#? [...] 
-1. 1(N01) [...] , X AD~a [...] 
+246441	1. 1(N01) [...] , X AD~a [...] 
 2. [...] , X NA2~a# PIRIG~b1 
 1. 4(N14) 5(N01) , SZE3 UDU~a DU GIR3~c 
 2. 2(N14) , DARA4~c4 NA2~a PIRIG~b1 
 1. 1(N14) [...] , HI [E2~a] NUN~a [...] 
 2. , BARA2~a 3(N57) TUR 
 3. , AB~a |3(N57).PIRIG~b1| SU~a# [...] 
-275711	1.a1. [...] , KU~b1 GARA2~a 
-1.a2. 4(N01) [...] , GARA2~a [...] 
-1.b. , IR11 
-2.a. [...] , SZAKIR~c ZATU752 GARA2~a [...] 
-2.b. 6(N01) , 
-3. 1(N01) [...] , SZAKIR~c SZA? KUR~a SIG2~b [...] 
+246450	3. 1(N01) [...] , SZAKIR~c SZA? KUR~a SIG2~b [...] 
 4. [...] , X [...] 
 1. [...] , SZE3 UDU~a NAR A E2~a [...] 
 2. [...] 1(N01)# , UDU~a# [...] 
 1. [...] , URI3~a X [...] 
 2. , |NINDA2x(HI.AN.ME~a)| NUN~a 
 3. 1(N14) [...] , [...] 
-1.a. 5(N14) , UDU~a [...] 
-1.b. 1(N14) , |U4x1(N57)| BAR# 
+246458	1. [...] , [...] 
+246460	1. 1(N34) 4(N14) , X [...] 
 1. [...] , [...] 
-275727	1.a1. [...] , [...] SUHUR#? 
-1.a2. [...] 1(N14)# , [...] 
-1.b. , PU2? [...] 
-1. 1(N34) 4(N14) , X [...] 
-1. [...] , [...] 
-2.a. [...] X 4(N01) , [...] NUN~a# 
-2.b. , |ZATU737xSAL| DU 
-1. [...] , [...] 
+246463	1. [...] , [...] 
 2. 4(N01) , EN~a# KI [...] 
 1. [...] , [...] 
 1. 1(N14)# [...] , [...] 
@@ -62735,9 +67114,7 @@ $ (not given)
 1. 1(N01)# [...] , ZATU644~a#? 
 2. 2(N01) , GADA~a# 
 1. , 10(N57) BA NA~a [...] 
-1.a. 2(N14) 5(N01) , DUB~a UDU~a 
-1.b. 5(N01) , |U4x1(N57)|# BAR 
-1. [...] , [...] 
+246487	1. [...] , [...] 
 1. [...] , |GA2~a2xGU4| EN~a IB~a EN~a DI KA~a 
 1. 9(N01) , BA 
 2. 3(N01) [...] , E2~a 
@@ -62749,25 +67126,15 @@ $ (not given)
 2. [...] , SILANITA 
 3. , |U4x1(N57)| BAR 
 1. , [...] 
-1.a. 3(N01) , |U4x1(N57)| BAR 
-1.b. , SI SZE~a#? [...] 
-2. [...] , [...] 
-1.a. [...] , X UDU~a# BA 
-2. [...] , [...] 
-1.a. [...] 1(N01)# , BARA2~a 
-1.b. [...] 4(N14)# , SZE3 UDU~a 
-2. , BA KI# [...] 
+246500	2. [...] , [...] 
+246502	2. [...] , [...] 
+246504	2. , BA KI# [...] 
 1. [...] , [...] 
 1. 1(N34)# 2(N14) , U2~a 
 2. 1(N14) [...] , MUN~a1 
 1. [...] , UDU~a# [...] 
-1.a. 2(N14)# , UDU~a BA 
-1.b. 4(N01) , |U4x1(N57)| BAR 
-2. 1(N01)# 1(N08)# , KISIM~a# 
-275787	1.a1. 1(N14) 3(N01) , DUG~c 
-1.a2. 1(N01) , KU3~a 
-1.b. , DUG~c [...] 
-1. 1(N14) 8(N01) [...] , [...] 
+246510	2. 1(N01)# 1(N08)# , KISIM~a# 
+246512	1. 1(N14) 8(N01) [...] , [...] 
 1. [...] , [...] 
 2. , |GA~a.ZATU753| 
 2. [...] , SZURUPPAK~a# GU7 X [...] 
@@ -62864,12 +67231,7 @@ $ (not given)
 1. [...] , [...] BU~a KI 
 2. , MUD [...] 
 1. [...] , [...] 3(N57) PAP~a [...] 
-275888	1.a1. 1(N01) , DUG~c |LU2xGESZTU~c3| AN KAR2~a NA~a MUSZ3~a 
-1.a2. 1(N01) , SZU X [...] 
-1.b. , EN~a DUG~a AB~b ZATU686~b 
-1.a. 1(N01) , X DA~a IB~a 
-1.b. [...] , [...] X IB~a 
-2. , NAR A E2~b 
+246611	2. , NAR A E2~b 
 3. , GU7#? [...] 
 1. [...] , [...] X 
 2. [...] , [...] X 
@@ -62915,23 +67277,12 @@ $ (not given)
 1. [...] , SZE3? [...] 
 1. [...] , E2~a SANGA~a GUG2#? [...] 
 1. [...] , |ZATU651xEN~a| GU7 PA~a SZITA~a1 NAM2 KAB 
-2.a. 1(N14) 5(N01) , X [...] 
-2.b. 4(N01) 2(N39~a) 1(N24) [...] , [...] 
-1. 6(N08) [...] , UNUG~a X [...] 
+246658	1. 6(N08) [...] , UNUG~a X [...] 
 1. [...] , X [...] 
 1. 1(N01) , TUR EN~a KI BU~a X X [...] 
-1.a. 3(N01) [...] , SILA4~c 
-275946	1.b1. 4(N01) [...] , [...] 
-1.b2. 4(N01) [...] , [...] 
-2. 5(N14) 3(N01) [...] , [...] 
+246662	2. 5(N14) 3(N01) [...] , [...] 
 3. 2(N01) , MASZ2 [...] 
-4.a. 2(N14) [...] , [...] 
-275952	4.b1. 1(N14) 6(N01) [...] , [...] 
-4.b2. 3(N01) [...] , [...] 
-275955	5.a1. , HI BU~a 
-5.a2. , BULUG3? 
-5.b. , SZE~a MUL 
-1. 6(N14)# [...] , [...] 
+246666	1. 6(N14)# [...] , [...] 
 2. 8(N01) [...] , [...] 
 1. 6(N34) 2(N14) [...] , UB [...] 
 1. 5(N14) , GAN2 MUSZ3~a SZAGAN X DUR2 A [...] 
@@ -62947,11 +67298,7 @@ $ (not given)
 2. , MEN~a DU7? SZU PAP~a SANGA~a DUR2? [...] 
 1. 8(N01) [...] , [...] 
 1. 3(N01) [...] , [...] 
-2.a. , NUN~a#? AB2# SANGA~a 
-2.b. , HI# BU~a# 
-3.a. 1(N01) [...] , [...] 
-3.b. 6(N01) [...] , UDU~c [...] 
-1. [...] , SAG# X [...] 
+246684	1. [...] , SAG# X [...] 
 1. [...] , [...] 
 2. 5(N45) , GA2~a2 E2~a NA2~a 
 3. 1(N45) , ZI~d SZU2 DUR~b |U4x2(N57)| AB~a |GISZxSZU2~a| SAL 
@@ -62974,9 +67321,7 @@ $ (not given)
 3. 2(N01) [...] , [...] 
 1. 2(N14)# 3(N01) , SAL MASZ 
 2. 1(N14) 4(N01) , KUR~a MASZ 
-1.a. [...] 1(N34)#? , SZAKIR~c ZATU752 ZATU648# [...] 
-1.b. [...] 2(N02) , GI# [...] 
-2. [...] 5(N01) , GI NA2~a# 
+246708	2. [...] 5(N01) , GI NA2~a# 
 3. [...] 1(N34)# 2(N01) , SUHUR 
 4. [...] 1(N01) , SZUBUR 
 1. [...] , [...] X UDU~a 
@@ -63070,14 +67415,7 @@ $ (not given)
 3. 2(N01)# [...] , GA2~a1 [...] 
 1. [...] , GAL~a#? [...] 
 2. , GU7# [...] 
-1.a. [...] , [...] 
-1.b. 4(N01) , SZEN~a ZATU647 
-276101	1.c1A. , NAGA~a TAK4~a 
-1.c1B. , |U4x3(N57)| A 
-1.c2. , KASZ~a 4(N58) 
-276105	1.c3A. , MUSZ3~a EN~a AN 
-1.c3B. , X [...] 
-2. [...] , [...] 
+246803	2. [...] , [...] 
 1. 4(N01)# [...] , DIM~a? [...] 
 1. [...] , ZATU694~c MUD# AN X [...] 
 1. [...] 1(N01)# , SUKKAL GISZ 
@@ -63086,13 +67424,7 @@ $ (not given)
 1. [...] , [...] 
 1. , [...] 
 2. 2(N14) 7(N01) , BA 
-1.a. [...] , [...] 
-1.b. 1(N01) [...] , 
-2.a. [...] , [...] 
-2.b. 2(N01) , 
-3.a. [...] , [...] 
-3.b. 1(N01) , 
-1. 1(N01) [...] , [...] 
+246815	1. 1(N01) [...] , [...] 
 2. 1(N01) , TE 
 3. 1(N01) , ZATU662? 
 4. , LAGAB~b#? [...] 
@@ -63104,24 +67436,12 @@ $ (not given)
 1. 1(N01) , [...] 
 2. 1(N01) , NIR~a#? [...] 
 3. 1(N01) , AN [...] 
-1.a. 2(N14) 3(N01) [...] , [...] 
-1.b. 1(N45) 1(N14) [...] , [...] 
-1. , |NINDA2x((UDU~axTAR)~a)| X [...] 
+246828	1. , |NINDA2x((UDU~axTAR)~a)| X [...] 
 1. [...] , X [...] 
 2. [...] , SUHUR DU [...] 
-276140	1.a1. [...] , [...] 
-1.a2. 1(N01) , 
-1.b. , NUN~a DU? [...] 
-276144	2.a1. [...] , [...] 
-2.a2. 1(N01) , 
-2.b. , TUR3~a#? [...] 
-1. 1(N01) , MEN~a DU 
+246833	1. 1(N01) , MEN~a DU 
 2. 2(N01) , GA~a GAL~a# 
-276150	3.a1. 1(N01) , 
-3.a2. 1(N01) , 
-3.a3. 1(N01) , 
-3.b. , KAB BA? AB2 [...] 
-1. [...] , SZE~a DUG~b? [...] 
+246836	1. [...] , SZE~a DUG~b? [...] 
 1. 1(N01) [...] , KASZ~b? DIM~c SZU PA~a SAL [...] 
 2. [...] , SAL GURUSZ~a X [...] 
 3. [...] , [...] HI 
@@ -63136,11 +67456,7 @@ $ (not given)
 2. [...] , EN~a IB~a UKKIN~a KI# [...] 
 1. [...] , EZEN~b URI3~a [...] 
 1. 3(N14) [...] , [...] 
-2.a. 4(N34)# [...] , [...] 
-276171	2.b1. 3(N34) [...] , BA 
-2.b2. 1(N14) [...] , BA 
-2.b3. [...] , AB2 [...] 
-1. 1(N34)# [...] , E2~b GAL~a [...] 
+246852	1. 1(N34)# [...] , E2~b GAL~a [...] 
 2. , EN~a# [...] 
 1. 7(N34) 3(N14) 5(N01) , BA 
 2. 4(N14) [5(N01)] , GI 
@@ -63159,9 +67475,7 @@ $ (not given)
 1. 1(N14) [...] , GAL~a# [...] 
 2. [...] , [...] 
 1. [...] , TA~c# [...] 
-1.a. [...] , MUSZ3~a# [...] 
-1.b. [...] , SZU# [...] 
-2. , AB~a# APIN~a# [...] 
+246872	2. , AB~a# APIN~a# [...] 
 1. 3(N14)# 2(N01) [...] , EN~a# MASZ GAN2 AL X [...] 
 1. [...] , SAR~a# AB~a# GAN2# [...] 
 1. [...] , [...] X NUN~a# 
@@ -63248,9 +67562,7 @@ $ (not given)
 2. [...] , [...] MUSZEN# 
 3. [...] 1(N01)# , [...] 
 1. [...] , [...] 
-2.a. [...] 3(N14)# , [...] 
-2.b. 6(N01)# , [...] 
-3. [...] 2(N14)# , [...] 
+246960	3. [...] 2(N14)# , [...] 
 1. [...] 4(N01)# , [...] SZITA~a1# 
 2. 2(N01)# [...] , [...] 
 1. [...] , [...] X 
@@ -63363,9 +67675,7 @@ $ (not given)
 3. [...] , X KU6~a#? 
 1. [...] , X [...] 
 2. 1(N01) [...] , [...] 
-1.a. [...] , [...] 
-1.b. 1(N01) , UDU~a 
-2. [...] , [...] 
+247074	2. [...] , [...] 
 1. , [...] 
 1. [...] , [...] UDU~a 
 2. [...] , [...] NIN 
@@ -63379,11 +67689,7 @@ $ (not given)
 3. 1(N01) [...] , GESZTIN~a GISZ@t A 
 1. 5(N01) , SZU2? 
 2. [...] , [...] 
-1.a. [...] , [...] 
-1.b. [...] , X [...] 
-2.a. [...] , NAM2 KAB SZITA~a1 [...] 
-2.b. , 3(N57) [...] 
-1. [...] , NAMESZDA SZITA~a1 [...] 
+247090	1. [...] , NAMESZDA SZITA~a1 [...] 
 1. , GA~a SANGA~a [...] 
 2. , AB~a [...] 
 1. [...] , [...] X 
@@ -63402,10 +67708,7 @@ $ (not given)
 1. [...] , BUR2# [...] 
 1. 2(N01) [...] , [...] 
 1. 1(N34) , X 
-2.a. 2(N01) [...] , [...] 
-276438	2.b1. 2(N01) , DUG~c 
-2.b2. 2(N01) , |DUG~cx1(N57)| 
-1. , EN~a# BA# [...] 
+247110	1. , EN~a# BA# [...] 
 1. [...] , [...] 
 1. [...] , ZATU651@g# 
 1. , EN~a GA2~a2 
@@ -63434,13 +67737,7 @@ $ (not given)
 1. 4(N01) , SILA3~a PAP~a# 
 2. 2(N01) , SILA3~a# [...] 
 3. [...] , SILA3~a [...] 
-1.a. 2(N01) , SILA3~a# MA# X X 
-1.b. 1(N01) [...] , HASZHUR [...] 
-2.a. 2(N01) , X MA GI6? U4 U2~a 
-2.b. 2(N01) , X GA~a# 
-3.a. 1(N01) , [...] 
-3.b. 1(N01) , SILA3~a# HASZHUR 
-1. 1(N01) [...] , MA [...] 
+247142	1. 1(N01) [...] , MA [...] 
 2. 2(N01) , MA U4 |SILA3~axHI| MA GI6 
 3. 2(N01) , MA ZATU735~b 
 4. 2(N01) , |SILA3~axKUR~a| 
@@ -63453,10 +67750,7 @@ $ (not given)
 5. 1(N01) , X MA# [...] 
 6. 1(N01) , [...] 
 1. , X X SAG@g KU3~a 
-1.a. [...] , [...] 
-1.b. [...] , [...] URI3~a# SZE~a# 
-1.c. [...] , [...] PA~a 
-1. [...] 2(N01)# , EN~a# X PIRIG~b1# 
+247156	1. [...] 2(N01)# , EN~a# X PIRIG~b1# 
 1. [...] , [...] TUR# 
 1. [...] , SZE~a 
 2. [...] , [...] X 
@@ -63488,11 +67782,7 @@ $ (not given)
 2. 9(N01) [...] , [...] 
 3. 1(N14) 6(N01) , X EZEN~b? 
 4. 1(N14) 3(N01) , EZEN~b 
-5.a. 5(N01) , TE 
-5.b. 1(N01) , EN~a 
-6.a. 3(N01) [...] , [...] 
-6.b. 1(N01) [...] , [...] 
-1. [...] , X SAL RU [...] 
+247190	1. [...] , X SAL RU [...] 
 1. [...] , SANGA~a [...] 
 1. 2(N01) , ERIN 
 2. 2(N01) , DU? KI 
@@ -63516,11 +67806,7 @@ $ (not given)
 3. 1(N01) , E2~a TE 
 4. 1(N01) , ESZDA [...] 
 1. [...] , [...] X 
-2.a. 2(N01) , X 
-2.b. , EN~a X X [...] 
-3.a. 1(N01) , GI 
-3.b. [...] , [...] 
-4. , |NIR~axAN| [...] 
+247216	4. , |NIR~axAN| [...] 
 1. 5(N01) , |NIR~axAN|# ZABALAM~a [...] 
 1. [...] , [...] 
 2. 1(N45) 3(N14) [...] , [...] 
@@ -63605,11 +67891,7 @@ $ (not given)
 1. [...] , [...] 
 1. [...] , UDUNITA~a? MASZ2? [...] 
 2. [...] , MASZ2 PAP~a SAL [...] 
-1.a. [...] , GI [...] 
-1.b. 6(N01) , 
-2.a. [...] , UDU~a [...] 
-2.b. 2(N01) [...] , 
-1. 5(N34) , DUG~a KASZ~a 
+247303	1. 5(N34) , DUG~a KASZ~a 
 1. 6(N51)# [...] , [...] 
 1. [...] , [...] 
 1. [...] 6(N01) , X NUNUZ~c? SZE3? 
@@ -63645,25 +67927,14 @@ $ (not given)
 4. 4(N14) 3(N01) , U2~a 
 1. , EN~a UNUG~a X [...] 
 1. [...] , E2~a KA2~b#? [...] 
-2.a. [...] 8(N34)# , TUR NUNUZ~b2 E2~a [...] 
-3. [...] , ZATU761 E2~a 
+247340	3. [...] , ZATU761 E2~a 
 4. [...] 1(N34)# , GISZ [...] 
 1. 1(N45) [...] , [...] 
 1. [...] 2(N34)# , GISZ AB2 
 2. [...] 2(N34) , GISZ [...] 
 3. [...] 1(N45) , GISZ AB~b [...] 
 4. [...] 5(N34)# , GISZ SAG# [...] 
-1.a. 1(N01) [...] , GA2~a1 SIG2~a1 ZATU647 
-1.b. 2(N14) , A 
-2.a. [...] , ESZDA SIG2~a1# 
-2.b. 2(N14) , X 
-3.a. [...] , SIG2~a1 [...] 
-3.b. 2(N14) , 
-1.a. 1(N01) , EN~a AMAR 
-1.b. 2(N14) , X 
-2.a. , SIG2~a1 
-2.b. 3(N14) , A 
-1. [...] 3(N14) , A [...] 
+247352	1. [...] 3(N14) , A [...] 
 1. [...] 3(N14) , [...] 
 1. [...] , EN~a# [...] 
 2. 1(N14) , ZATU753 
@@ -63677,14 +67948,10 @@ $ (not given)
 2. 4(N51)# [...] , [...] 
 1. [...] , [...] 
 1. [...] , IB~a X [...] 
-1.a. [...] , X [...] 
-1.b. 4(N36)# 4(N19)# [...] , [...] 
-2. [...] 1(N45)# 4(N14) 5(N01) [...] , SZE~a# APIN~a# [...] 
+247367	2. [...] 1(N45)# 4(N14) 5(N01) [...] , SZE~a# APIN~a# [...] 
 3. [...] 1(N45) [...] , [...] 
 1. [...] , [...] 
-2.a. 1(N46) 2(N19) 1(N04) [...] , UR5~a HI@g~a# [...] 
-2.b. [...] 1(N04)# , [...] 
-1. 1(N49) 4(N34) 1(N45) 4(N14) 3(N01)# [...] , SZE~a APIN~a [...] 
+247371	1. 1(N49) 4(N34) 1(N45) 4(N14) 3(N01)# [...] , SZE~a APIN~a [...] 
 1. [...] , X [...] 
 1. 2(N45) 5(N01) 2(N39~a) [...] , SZE~a [...] 
 2. 2(N14) [...] , [...] 
@@ -63703,23 +67970,14 @@ $ (not given)
 2. 5(N01) , ME~a SZENNUR~b [...] 
 1. [...] , |U4x1(N57)| X 
 2. 1(N45) [...] , [...] 
-1.a. 1(N01) , ERIN SAG 
-276740	1.b1. 1(N08) , ABGAL#? 
-1.b2. 1(N08) , X X 
-2.a. [...] , TUG2~a NIMGIR#? LA2 
-2.b. 3(N01) , BAD 5(N57) 
-3. , GA2~a1 BA ZABALAM~a 
+247392	3. , GA2~a1 BA ZABALAM~a 
 4. [...] , [...] X 
 1. , GA~a SANGA~a ZABALAM~a DA~a 
 2. , NAR# NAGA~a# 
 1. 2(N01) , X [...] 
 2. [...] , [...] 
 3. 1(N01) , ME~a# X X [...] 
-1.a. 4(N34) , BA U2~a ZATU648 
-1.b. 2(N34)# [...] , SUHUR# [...] 
-2.a. 6(N34) 1(N14) 5(N01) , SI U4 BA 
-2.b. 3(N34) 3(N01)# [...] , SUHUR# [...] 
-1. [...] , EN~a AB~a AB~a 
+247401	1. [...] , EN~a AB~a AB~a 
 1. 1(N01) , DUB~a? NUNUZ~b1 GISZ AN MUSZ3~a LAGAB~b 
 2. 1(N01) , 3(N57) ZATU694~c 
 1. , EN~a UMUN2 AB~a 
@@ -63733,9 +67991,7 @@ $ (not given)
 2. 1(N01) , IDIGNA GA2~a1 AN MUSZ3~a 
 3. , URI3~a [...] 
 4. 1(N01) [...] , [...] 
-1.a. [...] , MUSZ3~a [...] 
-1.b. [...] , UNUG~a [...] 
-2. 1(N01) , AB~a? 
+247416	2. 1(N01) , AB~a? 
 3. 1(N01) [...] , AB2 AB2 
 5. [...] , GU7 [...] 
 1. [...] , SAL SZE~a X [...] 
@@ -63759,11 +68015,7 @@ $ (not given)
 1. [...] , [...] 
 2. 2(N14) , SZE~a# [...] 
 3. 3(N01) , |GAN~cxNE~a| [...] 
-4.a. 3(N01) , EN~a |U4x1(N57)| SZU 
-276797	4.b1. , 3(N57) |AMA~axE2~a|? 
-4.b2. , TAK4~a SZA3~a2 A 
-4.b3. , U8 KAB# 
-1. 1(N01)#? [...] , [...] 
+247441	1. 1(N01)#? [...] , [...] 
 1. [...] 2(N14) , MASZ GAN2 UDU~a KALAM~b [...] 
 1. [...] 4(N14) , GAR 
 2. [...] , GUG2 GUG2 
@@ -63787,16 +68039,7 @@ $ (not given)
 2. 5(N01) [...] , [...] 
 3. 8(N01) , [...] 
 4. 1(N14) [...] , [...] 
-1.a. 4(N01) , NAM2 DI UDU~a SZITA~a1 
-1.b. 5(N01) , SZITA~a1 SUHUR 
-2.a. 4(N01) , NAM2 PA~a A 
-2.b. 5(N01) , SZITA~a1 
-3.a. 1(N01) , ME~a NUN~a 
-3.b. 4(N01) , SZITA~a1 
-4.a. 1(N01) , KALAM~a PA~a 
-4.b. 1(N01) , SZITA~a1# 
-5.a. 1(N01) , ADAB# [...] 
-1. 2(N01) , [...] 
+247470	1. 2(N01) , [...] 
 2. [...] , [...] 
 3. 1(N01) [...] , [...] 
 4. 2(N01) [...] , [...] 
@@ -63804,21 +68047,11 @@ $ (not given)
 1. [...] , X [...] 
 1. 1(N51) 1(N34) 2(N14)# [...] , [...] 
 1. [...] , A IB~a X [...] 
-1.a. [...] , X X [...] 
-1.b. 2(N14) , 
-2.a. [...] , SZITA@g~a#? [...] 
-2.b. 2(N14)# , 
-1. [...] , NUN~a#? [...] 
-1.a. [...] , [...] 
-1.b. [...] , [...] UNUG~a 
-2.a. [...] , [...] 
-2.b. , UNUG~a# [...] 
-1. , E2~a NA2~a |SZU&SZU| GAR# [...] 
+247480	1. [...] , NUN~a#? [...] 
+247483	1. , E2~a NA2~a |SZU&SZU| GAR# [...] 
 1. [...] , [...] 
 2. 1(N34) , UKKIN~b 
-1.a. 1(N01) , 1(N24) U4 PAP~a 
-1.b. 2(N01) , X [...] 
-2. 1(N14) 5(N01) [...] , [...] 
+247487	2. 1(N14) 5(N01) [...] , [...] 
 1. 6(N01)# [...] , [...] 
 1. 2(N01)# [...] , [...] 
 1. [...] , [...] 
@@ -63828,9 +68061,7 @@ $ (not given)
 1. [...] , [...] 
 2. , GAL~a [...] 
 1. [...] , SZA#? [...] 
-2.a. 3(N01) [...] , SZITA~a1 UR~a? 
-2.b. 2(N01) , |SILA3~axSZU| 
-1. 1(N01)# [...] , [...] 
+247498	1. 1(N01)# [...] , [...] 
 1. [...] 1(N34)# 1(N14) [...] , [...] 
 2. [...] 2(N34)# 1(N14) 6(N01) [...] , KASZ~a 
 3. [...] 1(N34)# 1(N14) , |(SZAxHI@g~a)~a| 
@@ -63849,13 +68080,7 @@ $ (not given)
 2. 1(N01) [...] , [...] 
 3. 7(N01) [...] , [...] 
 1. [...] , X APIN~a NAM2 URU~a1 [...] 
-1.a. 1(N34) [...] , [...] 
-2.a. 3(N34) , KASZ~b 
-2.b. [...] , [...] 
-3.a. 1(N34) 3(N14) , |DUG~axU2~b| 
-3.b. [...] , [...] 
-4.a. 2(N14) [...] , [...] 
-1. [...] , |ZATU714xHI@g~a| MU [...] 
+247521	1. [...] , |ZATU714xHI@g~a| MU [...] 
 2. [...] , [...] |TUG2~a.(BAD&BAD)|#? ERIM~a 
 1. [...] , X [...] 
 2. [...] , [...] 
@@ -63926,13 +68151,7 @@ $ (not given)
 1. [...] 2(N14)# 6(N01) , [...] 
 1. , [...] 
 1. , SZU2 GISZ? [...] 
-1.a. [...] 2(N01)# , [...] 
-276965	1.b1. , PAP~a BU~a NAM2 
-1.b2. , PAP~a X 
-1.b3. , DU SZITA@g~a 
-2.a. 1(N14)# [...] , [...] 
-276970	2.b1. , APIN~a# [...] 
-1. 1(N01) , EN~a SIG2~b 
+247594	1. 1(N01) , EN~a SIG2~b 
 1. [...] , SANGA~a#? [...] 
 1. [...] , [...] 
 1. 4(N14) 7(N01) , ZATU777 GI GARA2~b 
@@ -63959,9 +68178,7 @@ $ (not given)
 1. [...] , X [...] 
 2. [...] , X [...] 
 1. 1(N14) [...] , E2~a [...] 
-1.a. , 1(N57) TE? GIR3~c# 
-1.b. , |1(N58).BAD~a| DIN 
-2. [...] , [...] 
+247622	2. [...] , [...] 
 1. [...] , X [...] 
 2. [...] , BARA3# X [...] 
 3. [...] 1(N01)# , [...] 
@@ -64076,90 +68293,7 @@ $ (not given)
 3. [...] , [...] 
 1. [...] , [...] 
 1. [...] , [...] NIN# 
-1.a. 1(N14) 7(N01) , AL 
-277117	1.b01. , (DA~a# [...] KU6~a)a 
-1.b02. , (KISZIK~a SZUBUR NA~a)a 
-1.b03. , (BU~a NA~a MUD)a 
-1.b04. , (MUD)a 
-1.b05. , (|GI&GI| 3(N57))a 
-1.b06. , (ZATU819? X)a 
-1.b07. , (EZINU~a? EN~a)a 
-1.b08. , (BARA3 DU)a 
-1.b09. , (GI6? LAM~b SZU)a 
-1.b10. , (SAL E2~a)a 
-1.b11. , (BU~a SAL)a 
-1.b12. , (SZUBUR)a 
-1.b13. , (DIM~a)a 
-1.b14. , (KAL~b2 NIMGIR)a 
-1.b15. , (|GISZxSZU2~a| NIMGIR)a 
-1.b16. , (LA2 SUM~b)a 
-1.b17. , (URI3~a ZATU773~a)a 
-2.a. 2(N01) , EN~a TUR 
-277136	2.b1. , (AN EN~a)a 
-2.b2. , (SI UR~a)a 
-3.a. 3(N01) , |U4x1(N57)| TUR 
-277140	3.b1. , (UDU~a E2~a PIRIG~b1?)a 
-3.b2. , (LAL2~a BU~a)a 
-3.b3. , (3(N57) KI DU)a 
-4.a. 1(N01) , |U4x2(N57)| TUR 
-4.b. , (HI DU TA~c)a 
-5.a. 9(N01) , |U4x3(N57)| TUR 
-277147	5.b1. , (DIN E2~a)a 
-5.b2. , (GIR3~c NI~a)a 
-5.b3. , (SZUBUR RAD~a MUSZEN)a 
-5.b4. , (1(N57)? EN~a NIM~b1)a 
-5.b5. , (PAP~a)a 
-5.b6. , (TUR3~a U2~b? DU)a 
-5.b7. , (AN UB HI)a 
-5.b8. , (TAK4~a A)a 
-5.b9. , (U2~b# [...])a 
-1.a. 1(N14) 9(N01) , AL 
-277158	1.b01. , (GUL KITI)a 
-1.b02. , (ESZDA AN)a 
-1.b03. , (NA~a SZUBUR KISZIK~a)a 
-1.b04. , (EN~a PAP~a)a 
-1.b05. , (GI DIM~a)a 
-1.b06. , (EN~a TUR#)a 
-1.b07. , (E2~a SZUBUR)a 
-1.b08. , (|GI&GI| 3(N57))a 
-1.b09. , (AMA~a AN EN~a)a 
-1.b10. , (EN~a NA~a NIM~b2)a 
-1.b11. , (MA MA)a 
-1.b12. , (EN~a NA~a NIM~b2)a 
-1.b13. , (GI# [...] NA~a)a 
-1.b14. , (AN KI)a 
-1.b15. , (EN~a NUNUZ~a0? GA2~a1?)a 
-1.b16. , (LA2 TE)a 
-1.b17. , (KASZ~c X)a 
-1.b18. , (SZU2 URI3~a)a 
-1.b19. , (TU~a EN~a# [...])a 
-2.a. 6(N01) , TUR EN~a 
-277179	2.b1. , (KASZ~c AN NA~a ME~a)a 
-2.b2. , (|(HIx1(N57))&(HI+1(N57))| EN~a)a 
-2.b3. , (PAP~a)a 
-2.b4. , (GIR3@g~b 3(N57))a 
-2.b5. , (UR~a? URI3~a)a 
-2.b6. , (X [...])a 
-3.a. 4(N01) , |U4x1(N57)| TUR 
-277187	3.b1. , (SZU PAP~a)a 
-3.b2. , (EN~a# [...])a 
-3.b3. , (EN~a#? X)a 
-3.b4. , (AN ZATU735~a? DU)a 
-3.b5. , (ERIM~a [...])a 
-4.a. 1(N14) 3(N01) , |U4x3(N57)| TUR 
-277194	4.b02. , (TAK4~a BARA2~a)a 
-4.b03. , (SZU2 PAP~a)a 
-4.b04. , (E2~a LAM~b MUD)a 
-4.b05. , (|BU~a+DU6~a| GUL)a 
-4.b06. , (AN TAK4~a# U8#?)a 
-4.b07. , (GA2~a1 EN~a GU)a 
-4.b08. , (3(N57) E2~a# [...])a 
-4.b09. , (X [...])a 
-4.b10. , ([...])a 
-4.b11. , ([...])a 
-4.b12. , ([...])a 
-4.b13. , ([...])a 
-1. 3(N14) 6(N01) , AL# 
+247746	1. 3(N14) 6(N01) , AL# 
 2. 8(N01) , EN~a TUR 
 3. 7(N01) , |U4x1(N57)| TUR 
 4. 1(N01) , |U4x2(N57)| TUR 
@@ -64224,47 +68358,21 @@ $ (not given)
 1. , KU3~a KI A PA~a 
 1. 3(N14) , SZE~a 
 2. , PA~a KI KU3~a A 
-1.a. 3(N01)# , [...] UDU~a#? LU2 
-277273	1.b1. , ([...])a 
-1.b2. , ([...])a 
-1.b3. , (SAL ZATU751~a SAL ME~a#? X)a 
-2.a. 3(N01) , SANGA~a KALAM~b DU PAP~a 
-277278	2.b1. , (|GA2~a2x3(N57)|)a 
-2.b2. , (SI KISAL~b1 PAP~a)a 
-2.b3. , (HI UR5~a ZATU628~a MUSZEN SAL)a 
-3.a. 2(N01) , EN~a PAP~a SANGA~a 
-277283	3.b1. , (1(N58) EN~a AN DUR2 HI)a 
-3.b2. , (1(N04) SI)a 
-4.a. 7(N01) , X [...] 
-277287	4.b1. , (UR~a KU6~a RAD~a)a 
-4.b2. , (DIM~a)a 
-4.b3. , (X X)a 
-4.b4. , ([...])a 
-4.b5. , ([...])a 
-4.b6. , ([...])a 
-4.b7. , ([...])a 
-1.a. [...] , [...] SI#? E2~b#? X NI~a 
-1.b. , ([...] ZATU751~a 3(N57) DUR2)a 
-2. , 
+247816	2. , 
 3. , ESZDA 
 4. , 3(N57) ESZDA 
 5. , EN~a NA2~a AB~a 
 1. 1(N14) 6(N01) , BA DUB~a 
 2. , RAD~a# [...] 
 1. 7(N01)# , KA~a GI 
-277304	2.a1. 5(N01)# , A# AN# 
-2.a2. 1(N06)#? , 
-2.b. , GISZ3~b 
-3. 1(N01) , PIRIG~b1 
+247824	3. 1(N01) , PIRIG~b1 
 4. 1(N01) , MUSZEN AN X |LAGAB~axLAGAB~a| 
 5. 1(N01) , AN U2~b 
 6. 1(N01) , SZIR~b A 
 1. 1(N01)# , AN# SA~c# 
 2. 2(N01)# , BA# A# 
 3. 2(N01) , UDU~a SZU 
-4.a. 1(N01) , NA~d PAP~a 
-4.b. 1(N01) , X 
-5. 1(N01) , AN PIRIG~b1 KASZ~c 
+247832	5. 1(N01) , AN PIRIG~b1 KASZ~c 
 6. 2(N01) , NE~a KU~b1 
 7. 1(N01) , KU~b1 AN 
 8. 1(N01) , DA~a# NAR# [...] 
@@ -64278,9 +68386,7 @@ $ (not given)
 8. [...] 1(N01)# , [...] 
 1. 1(N01)# , X X [...] 
 2. 2(N01) , X NAR# 
-3.a. 1(N01) , TAK4~a A GU
-3.b. 1(N01) , 
-4. 4(N01) , GI ZI~a 
+247847	4. 4(N01) , GI ZI~a 
 5. 1(N01) , GUM~b NI~a 
 6. 1(N01) , DA~a#? X 
 7. [...] , [...] 
@@ -64336,45 +68442,14 @@ $ (not given)
 4. 2(N01) , UDUNITA~a 
 5. 2(N14) 1(N01) , NUN~b# 
 6. 1(N14) 1(N01) , MASZ2# 
-1.a. 3(N01) , BA 2(N57) 
-277390	1.b1. , (A SAG)a 
-1.b2. , (TA~d DU)a 
-1.b3. , (EN~a URU~a1 2(N57))a 
-1.c. 2(N14) 3(N08) , U4 
-2.a. 8(N01) , 2(N57) X [...] 
-277396	2.b1. , (3(N57) SAL)a 
-2.b2. , (3(N57) KU6~a# RAD~a#)a 
-2.b3. , (SZUBUR)a 
-2.b4. , (3(N57)? SAL)a 
-2.b5. , (BU~a GI)a 
-2.b6. , (TUR BU~a)a 
-2.b7. , (X X IB~a DU)a 
-2.b8. , (NA~a EN~a X UDU~a)a 
-2.c. 1(N14) [...] , U4# 
-3.a. [...] , [...] 
-3.b. , [...] 
-3.c. 1(N14)# 2(N08)# [...] , U4 
-1. [...] , DAR~a MAR~a PAP~a SU~a 
-1.a. 1(N01) , BAR KUR~a 
-1.b. , [...] MUSZEN# A GI# 
-2.a. 1(N01) , |(UDU~axTAR)~b| EN~a# 
-2.b. , U4 SZUBUR 
-3.a. , |(UDU~axTAR)~b| LAGAR~a 
-3.b. , U4 SZUBUR 
-277416	3.c1. , RAD~a@g 
-3.c2. , EN~a USZ~a# 
-1. 1(N14) 1(N01) , UDU~a 
+247906	1. [...] , DAR~a MAR~a PAP~a SU~a 
+247910	1. 1(N14) 1(N01) , UDU~a 
 2. , GI# MASZ KI 
 3. , SAL# E~a 
 1. , 
 1. , UD5~a GI KASZ~c PAP~a SZUBUR 
 1. , SZUBUR NIMGIR 
-1.a. 1(N01) , BAR 
-1.b. , 3(N58) E2~b 
-2.a. , E2~b TA~c HI SAL GURUSZ~a 
-277428	2.b1. , RAD~a 
-2.b2. , ZATU825 AB2 
-1. [...] , SZE~a# X [...] UR3~b2 
+247918	1. [...] , SZE~a# X [...] UR3~b2 
 2. 1(N14) 5(N01)# , SZE~a APIN~a# TAK4~a U2~b 
 3. 2(N01) , DU DU GIR3~c 
 4. 2(N14) , AN SZE~a 
@@ -64385,11 +68460,7 @@ $ (not given)
 2. 1(N01) , SZE~a GUKKAL~c 
 3. 1(N01) , 3(N57) SANGA~a 
 4. 1(N01) , UNUG~a SAG? GISZ3~b 
-5.a. 1(N20) 5(N05) , UNUG~a GI 
-5.b. 4(N03) , 
-6.a. 4(N05) , UNUG~a TUR@g AB~a 
-6.b. 2(N03) , 
-7. 2(N01) , UNUG~a ZATU826 RAD~a 
+247931	7. 2(N01) , UNUG~a ZATU826 RAD~a 
 8. 1(N01) , PAP~a SAL GIR3~c 
 9. 4(N01) , SI SAL KI BU~a 
 10. 2(N01) 3(N08) , TAK4~a U2~b DUG~a GAR 
@@ -64402,36 +68473,14 @@ $ (not given)
 7. 1(N14) , TUR@g UNUG~a 
 8. 2(N03) , SI RU 
 1. 5(N01) , AN SZE~a 
-2.a. 1(N04)? , HI@g~a UNUG~a GI 
-2.b. 3(N02)#? , 
-3. 1(N19) 5(N04) , TAK4~a U2~b APIN~a 
-4.a. 2(N19) , HI@g~a 3(N57) |EN2.E2~b| 
-4.b. 3(N01) , UH? 
-5. 1(N04) , HI@g~a AN 
+247945	3. 1(N19) 5(N04) , TAK4~a U2~b APIN~a 
+247947	5. 1(N04) , HI@g~a AN 
 6. 1(N19) , UNUG~a GI 
-7.a. 1(N01) , SI X RU SZE~a BU~a 
-7.b. , 1(N08~b) 
-8. , GU7# [...] 
+247950	8. , GU7# [...] 
 1. 2(N45) 5(N14) 4(N01) 1(N08) , SZE~a GU7 
 2. 6(N19) 5(N04) 1(N08) , 
 1. 1(N34) 2(N19) 3(N04) 2(N08) , SZE~a GU7 
-1.a. [...] , [...] 
-277473	1.b1. , [...] 
-1.b2. , TUR 
-2.a. 6(N01) , EN~a 
-277478	2.b1A. 2(N01)# , NUN~a# ZATU687 EN~a# EN~a#? TUR 
-277480	2.b1B1. , (EN~a# PAP~a#)a 
-2.b1B2. , (3(N57) GAN2)a 
-277483	2.b2A. 4(N01)# , EN~a# X KI ZATU687# AN# 
-277485	2.b2B1. , (EN~a |SZU2.E2~b|)a 
-2.b2B2. , (BU~a SZU)a 
-2.b2B3. , (SAL BU~a)a 
-2.b2B4. , (EN~a HI KASZ~c)a 
-3.a. , UMUN2 
-3.b. , EN~a PAP~a 
-277492	3.c1. , UMUN2 KU3~a 
-3.c2. , HI KI 
-1. , 
+247957	1. , 
 1. 1(N01) , KASZ~c |SZE~a&SZE~a| 
 2. 1(N01) , ZATU659 
 3. 1(N01) , UNUG~a KI ZATU773~a 
@@ -64445,25 +68494,8 @@ $ (not given)
 1. , 
 1. 9(N01) , BA SU~a PAP~a 
 2. , GAN~a# 
-1.a. 1(N14) , RU 2(N57) KI 
-1.b. , |U4.(1(N14).5(N08))| 
-2.a. 3(N01) , 1(N57) 
-2.b. , |U4.5(N08)| 
-3.a. 1(N14) 1(N01) , 2(N57) URU~a1 
-3.b. , |U4.(1(N14).5(N08))| 
-4.a. 7(N01) , 2(N57) BAR 
-4.b. , |U4.7(N08)| 
-1. , 
-1.a. 1(N01) , DIM~a 
-277519	1.b1. , (DAH)a 
-1.b2. , (DUR2 SZE3?)a 
-2.a. 1(N01) , EN~a PAP~a 
-277523	2.b1. , (EN~a AN MUSZ3~a#)a 
-2.b2. , (ISZ~b BU~a)a 
-3.a. 1(N01) BAHAR2~b PAP~a 
-277527	3.b1. , (SZUBUR)a 
-3.b2. , (ISZ~b BU~a)a 
-4. , PAP~a# 1(N57) SU~a RU KI 
+247975	1. , 
+247979	4. , PAP~a# 1(N57) SU~a RU KI 
 1. 3(N01) , PAP~a SU~a 
 2. , RU KI 
 1. [...] , [...] 
@@ -64480,10 +68512,7 @@ $ (not given)
 13. [...] , [...] AN# KU6~a#? X 
 1. [...] , [...] 
 2. [...] , [...] 
-277547	3.a1. [...] 3(N14)# , NUNUZ~a1# 
-3.a2. 1(N01) , UDU~a 
-3.b. , BAN~b DUB~b 
-4. 1(N01) , EN~a U2~b GIR3~c 
+247997	4. 1(N01) , EN~a U2~b GIR3~c 
 5. 1(N01) , AN BAR NI~a 
 6. 1(N01) , LA2 GUG2 
 7. 1(N01) , GA2~a2 NI~a NE~a 
@@ -64512,10 +68541,7 @@ $ (not given)
 2. 2(N01) , AN BUR~a A 
 3. 2(N01) , MAR~a I? 
 4. 1(N01) , NI~a AL A 
-277580	5.a1. 2(N01) , HI@g~a 
-5.a2. 2(N34) , 
-5.b. , AL 
-6. 1(N01) , DU BAN~b? 
+248027	6. 1(N01) , DU BAN~b? 
 7. 2(N01) , GUB3~a 1(N57) 
 8. 1(N01) , DUR2 E2~b 
 9. 1(N01) , KU~b1 AN 
@@ -64565,10 +68591,7 @@ $ (not given)
 8. 1(N01) , TUM~a# E2~b# 
 9. 8(N01)# , KU~b1#? A AN E2~a 
 10. 2(N01) , SZUBUR 
-11.a. 2(N34) , NUNUZ~a1 E2~b SAR~a 
-277635	11.b1. 2(N01) [...] , UDU~a 
-11.b2. 1(N01) , TUN3~a 
-12. 1(N01)# , X [...] 
+248078	12. 1(N01)# , X [...] 
 13. [...] , [...] 
 1. 1(N34) , NUNUZ~a1 BAR? DUG~b 
 2. , 1(N57) BA 
@@ -64633,81 +68656,16 @@ $ (not given)
 2. 1(N01) , EN~a GIR3@g~c APIN~a 
 3. 1(N01) , |SZE~a.NAM2| 
 1. 2(N14) , DUB~a LAGAB~b 
-1.a. 3(N01) , BA 
-277704	1.b1. , (MUSZEN)a 
-1.b2. , (EN~a 1(N04))a 
-1.b3. , (EN~a NUNUZ~c)a 
-2.a. 7(N01)# , GI 
-277709	2.b1. , (ZATU659)a 
-2.b2. , (APIN~b)a 
-2.b3. , (ZATU659)a 
-2.b4. , (EN~a |GISZxSZU2~a|)a 
-2.b5. , (TUR SZU)a 
-2.b6. , (SZA3~a1 GI4~a)a 
-2.b7. , (NIMGIR)a 
-3.a. 3(N01) , PA~a KU3~a A 
-277718	3.b1. , (GISZ3~b UR~a)a 
-3.b2. , (U8 ME~a)a 
-3.b3. , (KASZ~c MUSZEN GI)a 
-4.a. 2(N01) , EN~a GI SZAGAN 
-277723	4.b1. , (DU7 ZATU686~b)a 
-4.b2. , (SZA3~a1 A TAK4~a)a 
-5.a. 1(N01) , MUN~a1 KU3~a E2~a 
-5.b. , (GISZ AN ZATU773~a?)a 
-6.a. 1(N01) , NUN~a MU MAH~a 
-6.b. , (EN~a GA2~a1 GU)a 
-7.a. 1(N01) , KALAM~a SZU 
-7.b. , (SZUBUR)a 
-8.a. 2(N01) , SI NUN~a PA~a 
-277733	8.b1. , (AB~a KU6~a)a 
-8.b2. , (NA~a MUSZEN GI)a 
-9.a. 1(N01) , U2~b A 
-9.b. , (EN~a ZATU697~c)a 
-10.a. 5(N02) , 
-277739	10.b1. , (BU3 DUR2 A)a 
-10.b2. , (KASKAL# SZUBUR#)a 
-10.b3. , (KASZ~c#? X)a 
-10.b4. , (EN~a# SAG#?)a 
-10.b5. , (X EN~a#?)a 
-1.a. 2(N01) , BA 
-277746	1.b1. , (KASZ~c# [...])a 
-1.b2. , (ME~a? [...])a 
-2.a. 2(N01) , GI 
-277750	2.b1. , (BU~a PAP~a)a 
-2.b2. , (3(N57) RU)a 
-3.a. 1(N01) , TUG2~a NU |SILA3~axSZU2| A 
-3.b. , (BAN~b PAP~a)a 
-4.a. 1(N02) , 
-4.b. , (EN~a PAP~a)a 
-5. , 1(N57) SIG RAD~a 
-1.a. 2(N14)# 6(N01)# , 2(N57) 
-277759	1.b1. 3(N01)# , [BA] 
-1.b2. 7(N01)# , GI# 
-1.b3. 1(N14) 1(N01) , EN~a 
-1.b4. 5(N02) , 
-2.a. 6(N01) , 1(N57) 
-277765	2.b1. 2(N01) , BA 
-2.b2. 2(N01) , GI 
-2.b3. 1(N01) , [KU3~a E2~a] 
-2.b4. 1(N02)# , 
-1. 5(N01) , BA# 
+248157	5. , 1(N57) SIG RAD~a 
+248160	1. 5(N01) , BA# 
 2. 9(N01) , GI 
 3. 1(N14) 1(N01) , EN~a 
 4. 1(N01) , KU3~a E2~a# 
 5. 6(N02)# , 
 1. 3(N14) 2(N01) , 1(N57) 2(N57) MUN~a1 DU TE SIG RAD~a 
-1.a. 4(N01) , EN~a 
-277777	1.b1. , (ZATU795)a 
-1.b2. , (MUSZEN ZATU659)a 
-1.b3. , (KAK~a? AB~a)a 
-1.b4. , (EN~a GA2~a2)a 
-2. 7(N01) , SAL 
+248167	2. 7(N01) , SAL 
 3. [...] , [...] ZATU795# 
-1.a. 3(N01) , EN~a 
-277785	1.b1. , ([...])a 
-1.b2. , ([...] AN ME~a#? E~a#?)a 
-1.b3. , (ZATU659)a 
-2. 5(N01) , SAL 
+248170	2. 5(N01) , SAL 
 3. , SZUBUR MU# [...] 
 1. , 
 1. 2(N01) , UTUA~a 
@@ -64735,158 +68693,15 @@ $ (not given)
 1. , 
 1. 1(N57) , GU4 |U4x2(N57)| TE RAD~a SANGA~a SZA3~a1 ZATU710 
 1. , SAL KI SI EN~a 
-1.a. 5(N02)# , RU# KI 
-277818	1.b1. , (NI~a GIR3~c)a 
-1.b2. , (UB SZUBUR)a 
-1.b3. , (GAR U2~a)a 
-1.b4. , (EN~a MASZ BU~a)a 
-1.b5. , (U2~b RU)a 
-2.a. 4(N02) , HI KI 
-277825	2.b1. , (NIR~a ZATU773~a)a 
-2.b2. , (BU~a GI)a 
-2.b3. , (NI~a ZATU811 SZU)a 
-2.b4. , (UD5~a)a 
-3.a. 5(N02) , SIG RAD~a 
-277831	3.b1. , (BU3 A)a 
-3.b2. , (KASKAL SZUBUR)a 
-3.b3. , (1(N57) HI MUSZEN)a 
-3.b4. , (KASZ~c ZATU823)a 
-3.b5. , (EZEN~b EN~a)a 
-4.a. 2(N02) , URU~a1 AN MUSZ3~a 
-277838	4.b1. , (TAK4~a A SZA3~a1)a 
-4.b2. , (SAR~a EN~a)a 
-5.a. 3(N02) , ZATU795 LAM~b 
-277842	5.b1. , (LU2 AN ZATU773~a)a 
-5.b2. , (UD5~a)a 
-5.b3. , (AB~b GU4 EN~a)a 
-1.a. 2(N02) , BU~a SI TE KITI 
-277847	1.b1. , (EN~a MASZ KAL~b2 BU~a)a 
-1.b2. , (MUSZEN RAD~a)a 
-2. , RAD~a BU~a SI TE KITI ZATU795 LAM~b AN MUSZ3~a URU~a1 
+248204	2. , RAD~a BU~a SI TE KITI ZATU795 LAM~b AN MUSZ3~a URU~a1 
 1. 2(N15) 1(N02) , 2(N57) MUN~a1 PAP~a 2(N57) SU~a 
 2. , RAD~a KITI SI TE BU~a 
 1. , ZATU795 LAM~b RU KI HI KI URU~a1 AN MUSZ3~a SIG RAD~a 
-1.a. 5(N01) , EN~a PA~a E2~b 
-1.b. 8(N01) , SAL 
-2.a. 4(N01) , URU~a1 PA~a 
-2.b. 1(N14) 3(N01) , SAL 
-3.a. 7(N01) , TAK4~a SAG 
-3.b. 3(N01) , SAL 
-4.a. 3(N01) , NAR A 
-4.b. 2(N01) , SAL 
-5.a. 1(N01) , EN~a HI SZA3~a1 
-5.b. 5(N01) , SAL 
-6.a. 3(N01) , UR~a 
-6.b. 3(N01) , SAL 
-7.a. 2(N01) , IDIGNA BU~a SZE~a 
-7.b. 3(N01) , SAL 
-8.a. 1(N01) , GAN2 HI 
-8.b. 3(N01) , SAL 
-9.a. 2(N01) [...] , IM~a# 
-9.b. 9(N01) , SAL 
-10.a. [...] , [...] X SAL 
-10.b. 5(N01) , SAL 
-1. 3(N01) , SAL ZATU628~a UR~a AB2 
-2.a. 1(N01) , 3(N57) RU 
-2.b. 3(N01) , SAL 
-3.a. 5(N01) , SANGA~a 
-3.b. 8(N01) , SAL 
-4.a. 3(N01) , EN~a HAL 
-4.b. 5(N01) , SAL 
-5.a. 4(N01) , EN~a U8 A 
-5.b. 3(N01) , SAL 
-6.a. 2(N01) , |(UDU~axTAR)~b| SZA 
-6.b. 7(N01) , SAL 
-7.a. 3(N01) , UR~a GISZ3~a 
-7.b. 1(N14) , SAL 
-8.a. 2(N14) , SANGA~a TE RAD~a 
-8.b. 1(N14) 5(N01) , SAL# 
-9.a. 5(N01) , ZATU659# 
-9.b. 6(N01)# , SAL# 
-10.a. 3(N01) , |KU6~a+KU6~a|# 
-10.b. 2(N01) , SAL 
-11.a. 3(N01) , DU AB2 
-11.b. 7(N01) , SAL 
-12.a. 3(N01) , ZATU826 
-12.b. 7(N01) , SAL 
-13.a. 1(N01) , GAN2 PIRIG~b1 
-13.b. 3(N01) , SAL 
-1.a. 3(N01) , ZATU686~b#? DARA3~c? 
-1.b. 8(N01) , SAL 
-2.a. 7(N01) , RU SZUBUR 
-2.b. 6(N01) , SAL 
-3.a. 4(N01) , MASZ GI4~a 
-3.b. 4(N01) , SAL 
-4.a. 5(N01) , KA~a KASZ~c 
-4.b. 3(N01) , SAL 
-5.a. 1(N01) , KAL~b2 SZUBUR 
-5.b. 3(N01) , SAL 
-6.a. 4(N01) , ZATU795 
-6.b. 7(N01) , SAL 
-7.a. 3(N01) , E2~b PAP~a 
-7.b. 4(N01) , SAL 
-8.a. 1(N01) , URI3~a BAR 
-8.b. 3(N01) , SAL 
-9.a. 4(N01) , DUG~a GA~a 
-9.b. 1(N14) , SAL 
-10.a. 3(N01) , GIR3~c 1(N02) 
-10.b. 3(N01) , SAL 
-11.a. 1(N01) , DIM~a 3(N57) BAR TUR3~a 
-11.b. 3(N01) , SAL 
-12.a. 1(N01) , 3(N57) AMAR 
-12.b. 2(N01) , SAL 
-13. 2(N01) , SAL ZATU628~a SZU SZU ME~a 
-14.a. 3(N01) , SI KI HI 
-14.b. 8(N01) , SAL 
-15.a. 1(N01) , SZU SZAGAN SZUBUR 
-15.b. 5(N01) , SAL 
-1.a. 3(N01) , SZUBUR MU 
-1.b. 5(N01) , SAL 
-2.a. 8(N01) , DU GIR3~c BAHAR2~b 
-2.b. 3(N01) , SAL 
-3.a. 2(N01) , SAL KI HI SI 
-3.b. 2(N01)? , SAL 
-4.a. 4(N01) , 3(N57) KASKAL 
-4.b. 6(N01) , SAL 
-5.a. 4(N01) , ZATU659 BAHAR2~b 
-5.b. 6(N01) , SAL 
-6.a. 4(N01) , ZATU659 X DI ZATU795 
-6.b. 4(N01) , SAL 
-7.a. 5(N01) , DIN KU6~a HAL 
-7.b. 7(N01) , SAL 
-8.a. 2(N01) , U4 
-8.b. 9(N01) , SAL 
-9.a. 2(N01) , KASKAL SZUBUR 
-9.b. 3(N01) , SAL 
-10.a. 2(N01) , NU SZUBUR 
-10.b. 3(N01) , SAL 
-11.a. 1(N01) , BAR PAP~a RU 
-11.b. 2(N01) , SAL 
-12.a. 3(N01) , HI GAN2? PA~a 
-12.b. 3(N01) , SAL 
-1.a. 1(N01) , SZIDIM AN BA GI 
-1.b. 2(N01) , SAL 
-2.a. 1(N01) , UR? BU~a 
-2.b. 5(N01) , SAL 
-3.a. 2(N01) , KU6~a ERIM~a 
-3.b. 2(N01) , SAL 
-4.a. 2(N01) , NIMGIR ZATU703 
-4.b. 6(N01) , SAL 
-5.a. 1(N01) , TI@t MES 
-5.b. 1(N01) , SAL 
-6.a. 3(N01) , AB~a TE DU 
-6.b. 4(N01) , SAL 
-7. 2(N01) , USZ~a SZUR2~b BU~a 
-8.a. 1(N01) , ZATU659 KU6~a 
-8.b. 2(N01) , SAL 
-9.a. 1(N01) , BU~a KU6~a SZE~a 
-9.b. 5(N01) , SAL 
-10.a. 1(N01) , ZATU795 SZUBUR 
-10.b. 1(N01) , SAL 
-11. 2(N01) , DU EN2 ZATU628~a SAL 
-12.a. 1(N01) , KU~b1 MUN~a1 
-12.b. 1(N01) , SAL 
-1. 1(N34) 2(N01) , SAG 
+248218	1. 3(N01) , SAL ZATU628~a UR~a AB2 
+248243	13. 2(N01) , SAL ZATU628~a SZU SZU ME~a 
+248264	7. 2(N01) , USZ~a SZUR2~b BU~a 
+248268	11. 2(N01) , DU EN2 ZATU628~a SAL 
+248270	1. 1(N34) 2(N01) , SAG 
 1. 2(N01) , U8 
 2. 2(N14) , UD5~a 
 3. 2(N14) 8(N01) , MASZ2# 
@@ -64896,15 +68711,9 @@ $ (not given)
 1. 1(N34) 3(N14) 1(N01) , UDU~a KU6~a MUSZEN MASZ 
 1. 4(N34) 1(N14) 7(N01) , X [...] 
 1. 3(N01) , SU~a PAP~a EN~a DU@g TI 
-2.a. 2(N01) , SU~a PAP~a EN~a SUKKAL NUNUZ~c 
-2.b. 1(N01) , BAR 
-3.a. 1(N01) , SU~a PAP~a DU@g 
-3.b. 1(N01) , BAR 
-4. 2(N01) , PAP~a SU~a LA2 TE 
+248282	4. 2(N01) , PAP~a SU~a LA2 TE 
 5. 3(N01) , SU~a PAP~a KISAL~b1 AN KI 
-6.a. 1(N01) , SU~a PAP~a UR~a 
-6.b. 1(N01) , BAR 
-7. 1(N01) , SU~a PAP~a KU6~a DIN EN~a HI SZA3~a1 1(N02) 
+248285	7. 1(N01) , SU~a PAP~a KU6~a DIN EN~a HI SZA3~a1 1(N02) 
 8. , EN~a X [...] 
 1. 2(N01) , BAR SI KISAL~b1 
 2. 1(N01) , PAP~a SU~a EN~a NE~a 
@@ -64913,66 +68722,23 @@ $ (not given)
 5. 2(N01) , BAR SZU TUR 
 6. , GISZIMMAR~b1 1(N57) 
 7. 1(N01) , PAP~a SU~a NIMGIR 
-8.a. 2(N01) , EN~a SZE3 KUR~a DA~a DIM~a 
-8.b. 1(N01) , BAR 
-9. 3(N01) , DUB~a |SAL.KUR~a| TUR3~a AN NE~a 
+248295	9. 3(N01) , DUB~a |SAL.KUR~a| TUR3~a AN NE~a 
 10. , EN~a IB~a 
 1. 2(N01) , SU~a PAP~a IB~a |GI4~a&GI4~a| 
 2. , SZU2 E2~a 
 3. 1(N01) , 3(N57) RU DIM~a PAP~a SU~a 
 4. 1(N01) , PAP~a SU~a EN~a |GISZxSZU2~a| NIM~b1 
 5. , GAL~a HI@g~a 
-6.a. 3(N01) , BAR NE~a BA NA~a 
-6.b. 5(N01) , SIG2~b KUR~a 
-7. 1(N01) , PAP~a SU~a 5(N57) GU4 
+248303	7. 1(N01) , PAP~a SU~a 5(N57) GU4 
 8. 1(N01) , BAR E2~a TA~c HI GURUSZ~a 
 9. 1(N01) , DUB~a MUSZEN#? |SAL.KUR~a| ZATU751~a 
-1.a. 1(N01) , SU~a PAP~a PAP~a E2~b 
-1.b. 1(N01) , BAR 
-2. 2(N01) , PAP~a SU~a NUNUZ~a1@t BAHAR2~b BU~a 
-3.a. 3(N01) , SU~a PAP~a AN 3(N57) 
-3.b. 1(N01) , BAR 
-4. 2(N01) , SU~a PAP~a SZUBUR MUSZ3~a 
-5.a. 1(N01) , SU~a PAP~a SZUR2~b BU~a 
-5.b. 2(N01) , BAR 
-6. , |AB~axSUKKAL| 
-7.a. 2(N01) , SU~a PAP~a ZATU628~a ZATU647 
-278025	7.b1. 4(N01) , BAR 
-7.b2. 1(N01) , KUR~a SIG2~b? 
-8. , SANGA~a#? X 
-1.a. 1(N14) 6(N01) , EN~a USZ~a 
-278030	1.b1. 1(N14) 3(N01) , DUB~a SU~a PAP~a 
-1.b2. 3(N01) , BAR 
-2.a. 7(N01) , GISZIMMAR~b1 1(N57) 
-278034	2.b1. 3(N01) , SU~a PAP~a 
-2.b2. 4(N01) , BAR 
-3.a. 6(N01) , EN~a IB~a 
-278038	3.b1. 1(N01) , SU~a PAP~a 
-278040	3.b2A. 5(N01) , KUR~a 
-278042	3.b2B1. 2(N01) , EN~a SZE3 KUR~a 
-3.b2B2. 3(N01) , DUB~a KUR~a 
-4. 2(N01) , DUB~a PAP~a SU~a SZU2 E2~a 
+248307	2. 2(N01) , PAP~a SU~a NUNUZ~a1@t BAHAR2~b BU~a 
+248309	4. 2(N01) , SU~a PAP~a SZUBUR MUSZ3~a 
+248311	6. , |AB~axSUKKAL| 
+248313	8. , SANGA~a#? X 
+248317	4. 2(N01) , DUB~a PAP~a SU~a SZU2 E2~a 
 5. 2(N01) , DUB~a PAP~a SU~a GAL~a HI@g~b 
-6.a. 1(N14) 2(N01) , SU~a PAP~a ZATU825 AB2 
-278048	6.b1. 1(N01) , DUB~a PAP~a SU~a 
-6.b2. 4(N01) , BAR 
-6.b3. 2(N01) , X 
-6.b4. 5(N01) , KUR~a X 
-1.a. 1(N34) 3(N01) , PAP~a SU~a LA2 ALAN~c UNUG~a KITI RAD~a RAD~a@g 
-278054	1.b1. 3(N14) 3(N01) , DUB~a PAP~a SU~a 
-1.b2. 1(N14) 8(N01) , BAR 
-1.b3. 1(N14) 2(N01) , KUR~a 
-1.b4. 2(N14) 8(N01)? , DUB~a E2~b 
-2.a. 1(N14) 3(N01) , SU~a PAP~a |AB~axSUKKAL| 
-278060	2.b1. 9(N01) , DUB~a SU~a PAP~a 
-2.b2. 4(N01) , BAR 
-3.a. 7(N01) , SU~a PAP~a AN E2~a? 
-278064	3.b1. 2(N01) , SU~a PAP~a 
-3.b2. 4(N01) , X 
-3.b3. 1(N01) , KUR~a X 
-1.a. 1(N34) , SZE~a 
-1.b. , SZUR2~b BU~a ERIM~a 
-2. 2(N46) 7(N19) , GAL~a# AN# 
+248324	2. 2(N46) 7(N19) , GAL~a# AN# 
 3. 1(N01) , GADA~a NA~a# 
 4. 2(N01) , NU11@t NA~a 
 5. 1(N01) , LAGAR~a 
@@ -65032,30 +68798,11 @@ $ (not given)
 1. 1(N14) 6(N01) , UDU~a 
 2. , GAL~a GA~a 
 3. , GAL~a BAD3~b1 DA~a NI~a 
-1.a. 4(N01) , BAHAR2~c KU6~a HAL DIN 
-278131	1.b1. , (GIR3~c DU)a 
-1.b2. , (NAM~a KI)a 
-1.b3. , (SZUBUR RU)a 
-1.b4. , (LA2 TE)a 
-2.a. 2(N01) , ZATU659 
-2.b. , (X PA~a?)a 
-3. 1(N01) , 3(N57) |EN2.E2~b| 
+248386	3. 1(N01) , 3(N57) |EN2.E2~b| 
 4. 1(N01) , EN~a RU BU~a 
 5. , KU6~a DIN HAL 
 1. 8(N01) , HAL KU6~a DIN 
-1.a. 2(N01) , DUB~a EN~a ZATU697~a 
-278143	1.b1. , (SZITA~a3 HAL BU~a)a 
-1.b2. , (PAP~a 3(N57) SU~a)a 
-2.a. 3(N01) , URU~a1 DU 
-278147	2.b1. , (KALAM~a E2~b)a 
-2.b2. , (EN~a PAP~a)a 
-2.b3. , (GIR3~c PAP~a)a 
-3.a. 2(N01) , NI~a GIR3~c 
-278152	3.b1. , (SZUBUR)a 
-3.b2. , (SAGSZU? GAL~a)a 
-4.a. 1(N01) , EN~a GA2~a1 KISZIK~a 
-4.b. , (UB ZI~a)a 
-5. , DUB~a EN~a RAD~a KU6~a 
+248394	5. , DUB~a EN~a RAD~a KU6~a 
 1. , 
 1. 8(N01) , EN~a# KU6~a DUB~a RAD~a 
 1. 1(N01) , GADA~a GAN2 APIN~a 
@@ -65069,11 +68816,7 @@ $ (not given)
 6. , TI E2~a 
 1. 4(N01) , TUG2~a MAR~a ZATU852 |SZE~a.NAM2| APIN~a 
 2. 2(N01) , TUG2~a DAR~a MAR~a 
-3.a. 1(N01) , TUG2~a |AxAB2| 
-3.b. 1(N01) , [...] 
-4.a. 2(N01) , TUG2~a NI~a TUR 
-4.b. 1(N01) , MUSZEN GU 
-1. 2(N01) , KU6~a ZAG~a 
+248410	1. 2(N01) , KU6~a ZAG~a 
 2. 5(N01) , ZATU778 TI E2~a 
 3. 4(N01) , NAM2 APIN~a MAR~a NA~a 
 4. 2(N01) , MAR~a DAR~a 
@@ -65114,9 +68857,7 @@ $ (not given)
 4. 1(N01) , NUN~b 
 5. 2(N01) , MASZ2 
 1. 9(N01) , UDU~a TUR# ZATU659 URI3~a IB~a 
-1.a. 9(N14) , SZE~a BULUG3 MASZ ZATU773~b 
-1.b. 1(N46) 4(N19) , 
-2. 8(N14) , SZE~a SZUBUR 
+248452	2. 8(N14) , SZE~a SZUBUR 
 3. 7(N14) 4(N01) , SZE~a ZAG~a KU6~a 
 4. 3(N14) , SZE~a SANGA~a 
 5. 5(N14) , SZE~a ZATU773~b MASZ 
@@ -65125,48 +68866,7 @@ $ (not given)
 1. 1(N34) 7(N14) 4(N01) , SZE~a 
 2. 1(N46) 4(N19) , 
 1. 1(N34) 2(N45) 1(N14) 4(N01) , SZE~a 
-1.a. 9(N01)# , PAP~a SU~a 2(N57) MUN~a1 
-278228	1.b1. , ([...] SAG#)a 
-1.b2. , (AN URU~a1)a 
-1.b3. , (BU~a U2~a)a 
-1.b4. , (PIRIG~b1 E2~b UDU~a)a 
-1.b5. , (NAR A)a 
-1.b6. , (EN~a# X)a 
-1.b7. , (NE~a SZU)a 
-1.b8. , (SZUBUR)a 
-1.b9. , (EN~a PA~a)a 
-2.a. 6(N01) , PAP~a SU~a 1(N57) MUN~a1 
-278239	2.b1. , (U2~b SAG)a 
-2.b2. , (EN~a HI)a 
-2.b3. , (ZATU659)a 
-2.b4. , (ZATU832 HI)a 
-2.b5. , (|EN2.E2~b| 3(N57))a 
-2.b6. , (E2~b BU~a)a 
-2.b7. , 
-3.a. 2(N01) , IM~a 
-278248	3.b1. , (PAP~a GIR3~c)a 
-3.b2. , (IM~a AN KISAL~b1)a 
-4.a. 2(N01) , SZA SZE~a 
-278252	4.b1. , (ISZ~b ZATU832)a 
-4.b2. , (ZATU773~a UNUG~a)a 
-5.a. 3(N01)# , TUR PAP~a# [...] 
-278256	5.b1. , (GAN2 HI)a 
-5.b2. , (E2~b SI NAGA~a)a 
-5.b3. , (EN~a EZEN~b)a 
-6.a. 5(N01) , SI KI ZATU795 
-278261	6.b1. , (ZATU811 3(N57))a 
-6.b2. , (ZATU659# MUSZEN)a 
-6.b3. , (SZUBUR)a 
-6.b4. , (E2~b BAR 3(N57))a 
-6.b5. , (NIGIN EN~a TI)a 
-1.a. 2(N01) , ME~a 
-278268	1.b1. , (KASKAL SZUBUR)a 
-1.b2. , (NU SZUBUR)a 
-2.a. 3(N01) , URU~a1 PA~a BU~a 
-278272	2.b1. , (3(N57) E2~b)a 
-2.b2. , (|GA2~a1xEN~a| NUNUZ~a1)a 
-2.b3. , (SZU TUR)a 
-3. , KU6~a DU 
+248469	3. , KU6~a DU 
 1. , 
 1. [...] , [...] 
 2. 3(N01)# , SIG NIN 
@@ -65237,18 +68937,9 @@ $ (not given)
 1. 5(N14) 4(N01) , UDU~a 
 2. , GAL~a GA~a GAL~a BAD3~b1 
 3. , ZATU628~b KI NI~a ZATU821 GI4~a 
-1.a. [...] 2(N14)# , [...] E2~a#? PA~a 
-1.b. [...] , [...] ZATU831@g# 
-2.a. 2(N01)# [...] , E~b [...] SAL# 
-2.b. 4(N34) , NUNUZ~a2 
-2.c. 1(N01) , TUN3~a 
-3. 8(N01)# , UR~a? GISZ3~b 
-4.a. 7(N01) , 3(N57) |EN2.E2~b| 
-4.b. 1(N01) , AGAR2 
-5. 1(N14) [...] 2(N01) , DUR~b# ZATU819# 
-6.a. [...] , [...] X 
-6.b. 3(N01)# [...] , [...] 
-1. [...] 1(N01)# , GIR3~c BU~a DU A 
+248542	3. 8(N01)# , UR~a? GISZ3~b 
+248544	5. 1(N14) [...] 2(N01) , DUR~b# ZATU819# 
+248546	1. [...] 1(N01)# , GIR3~c BU~a DU A 
 2. , TE RAD~a SANGA~a# [...] 
 1. [...] , [...] 
 2. 1(N34)# 1(N14)# 6(N01)# [...] , [...] 
@@ -65298,52 +68989,14 @@ $ (not given)
 5. 2(N14) , GAR 
 6. 1(N01) , SZITA~a1 NI~a 
 1. , MUSZ3~a ME~a LAL3~b SZUR2~a# 
-1.a. 4(N14) , SAL KI SI HI? 
-1.b. 8(N01) , UDU~a 
-2.a. 1(N14) , SZA SZE~a |(UDU~axTAR)~b| 
-2.b. 2(N01) , 
-3.a. 2(N14) , NAM~a SZUBUR 
-3.b. 4(N01) , 
-4.a. 3(N14)# , EN~a DU X 
-4.b. 6(N01) , 
-5.a. [1(N14)] , [...] X 
-5.b. 2(N01) , 
-6.a. [...] , [...] 
-6.b. 2(N01)# [...] , 
-1.a. 1(N14) , LAGAB~b? KID~b#? 
-1.b. 2(N01) , 
-2.a. 1(N14) , SAL ZATU751~a 
-2.b. 2(N01) , 
-3.a. 1(N22) 3(N01) , X SAL KI HI 
-3.b. 1(N01) , 
-4.a. 1(N22) 3(N01) , ZATU628~a AN GI6 
-4.b. 1(N01) , 
-5.a. 1(N14) , GAN2 HI 
-5.b. 2(N01) , 
-6.a. 1(N14) , SZUBUR MU 
-6.b. 2(N01) , 
-7.a. 1(N14) , EN~a PA~a# 
-7.b. 2(N01) , 
-8.a. [1(N14)] , [...] X 
-8.b. 2(N01) , 
-1.a. 1(N50) , PA~a 
-1.b. 2(N14)# , UDU~a# E2~a# 
-2.a. 2(N14) , ZATU659 X 
-2.b. 4(N01) , 
-3.a. 1(N14) , HI EN~a 
-3.b. 2(N01) , 
-4.a. 2(N14) , PA~a 3(N57) E2~a URU~a1 
-4.b. 4(N01) , 
-5. 4(N15)? , E2~a PA~a 
+248614	5. 4(N15)? , E2~a PA~a 
 6. 3(N15)? , ISZ~b RAD~a 
 7. 1(N15)? , SZU TUR 
 8. 1(N15)? , AN URU~a1 
 9. [...] , [...] EN~a# 
 1. [...] 1(N14) , IM~a 
 2. 1(N14) , E2~a# NAGA~a SI 
-278451	1.a1. 4(N50)# 3(N14) , MASZ GAN2 
-1.a2. 1(N34) 2(N14) 6(N01) , 1(N57) 
-2. 2(N50) 3(N14) , |HIx1(N57)| ZATU756 
+248622	2. 2(N50) 3(N14) , |HIx1(N57)| ZATU756 
 1. 1(N45)# 6(N14) , [...] 
 1. [...] , [...] GIR3~c#? 
 2. [...] , [...] 
@@ -65382,9 +69035,7 @@ $ (not given)
 9. [...] , [...] X PAP~a 
 1. 1(N01) , SZU AB2 RAD~a MUSZEN 
 2. 2(N01) , SAL GISZ3~b NI~a 
-3.a. 5(N01) , NIM~a SI 
-3.b. 1(N01) , KISZ 
-4. 2(N01) , GISZ3~b A SAL MA 
+248662	4. 2(N01) , GISZ3~b A SAL MA 
 5. 1(N01) , AL AB~a 
 6. 3(N01) , AN NI~a SZU 
 7. 3(N01) , SZU AB2 
@@ -65406,23 +69057,7 @@ $ (not given)
 4. 1(N01) , KISZ KUR~a 
 5. [...] , SI SAL UNUG~a LAGAR~a DUR2 
 1. [...] , [...] 
-1.a. [...] , X 
-1.b. , (X)a 
-2.a. 1(N01)# , TUR#? [...] 
-2.b. , (SZA3~a1 NAR)a 
-3.a. [...] 1(N01)# , GA2~a1# SZA3~a1#? 
-3.b. , (E2~a SI ME~a)a 
-4.a. 1(N01) , GAR#? X 
-4.b. , (X)a 
-5.a. 1(N01)# , [...] PAP~a 
-5.b. , (X LAM~b)a 
-6.a. 1(N01) , AMAR# 
-6.b. , (EN~a AN UMUN2#)a 
-1.a. 1(N01)# , [...] KU6~a# 
-1.b. , ([...] X)a 
-2.a. 1(N01) , SAL SZU PAP~a 
-2.b. , (EN~a BU~a 1(N57))a 
-4. , SZAM2#? GA2~a2 NESAG2~a X [...] 
+248692	4. , SZAM2#? GA2~a2 NESAG2~a X [...] 
 1. [...] , [...] 
 1. [...] , [...] 1(N57) BA? 
 2. 7(N01) , NI~a NE~a 
@@ -65450,31 +69085,10 @@ $ (not given)
 4. [...] , [...] NAGA~a 
 5. [...] , [...] MUSZEN# RAD~a 
 6. [...] , [...] ZATU659? 
-1.a. [...] , [...] 
-1.b. , [...] 
-2.a. 1(N01)# , [...] 
-2.b. , [...] 
-3.a. 2(N01)# , [...] SIG7# 
-278566	3.b1. , 3(N57) |EN2.E2~b| 
-3.b2. , EN~a# X [...] 
-4.a. 5(N02) , 
-278570	4.b1. , PAP~a HAL 
-4.b2. , U4 
-4.b3. , EN~a GA2~a1 U4 
-4.b4. , EN~a E2~b UB 
-4.b5. , KU6~a 1(N04) 
-5. , 1(N57) MUN~a1 
-1.a. 5(N14) 5(N01) , 1(N57) 2(N57) MUN~a1 
-278578	1.b1. 1(N14) 7(N01) , BA 
-1.b2. 3(N14) 8(N01) , GI 
-2. 1(N01) , IB~a [...] 
+248724	5. , 1(N57) MUN~a1 
+248726	2. 1(N01) , IB~a [...] 
 3. 1(N01)# [...] , [...] 
-1.a. 1(N14) , EN~a SIG2~b KASZ~c AN 
-1.b. 2(N01) , UDU~a 
-2.a. 3(N14) , UDU~a 
-278586	2.b1. 1(N14) 5(N01) , U8 
-2.b2. 1(N14) 5(N01) , UD5~a 
-3. 2(N01) , SIG2~b 3(N57) SANGA~a 
+248730	3. 2(N01) , SIG2~b 3(N57) SANGA~a 
 4. , TUG2~a KUR~a SZU TUR 
 1. , 
 1. 2(N01) , ZATU694~c DA~a DA~a 
@@ -65523,33 +69137,15 @@ $ (not given)
 1. 1(N34) 1(N14) 8(N01) , UDU~a 
 2. 1(N01) , GU4@g 
 3. 1(N34)# [...] , NUNUZ~a1# [...] 
-1.a. 2(N20) 3(N05) , BA 
-1.b. 1(N05) , GI 
-2.a. 1(N14) 4(N01) , UDU~a 
-2.b. 3(N01) , GI 
-3. 1(N52) , BA# 
+248781	3. 1(N52) , BA# 
 4. , [...] 
-1.a. 2(N20) 1(N05) , 
-1.b. 3(N05) , GI 
-2.a. 1(N14) 3(N01) , UDU~a 
-2.b. 5(N01) , GI 
-3. 1(N52) , 
+248785	3. 1(N52) , 
 4. 2(N01) , SZU2 
 5. 3(N01) , KID~b# 
 6. 1(N01)# , [NAR SU~a] 
-1.a. 2(N20) 2(N05) , BA 
-1.b. 2(N05)# [...] , GI# 
-2.a. 1(N14) 5(N01) , [UDU~a] 
-2.b. [1(N01)] , [GI] 
-3. 1(N52)# , 
+248791	3. 1(N52)# , 
 4. [...] , [...] 
-1.a. [...] 2(N20)# [...] , [...] 
-278659	1.b1. [5(N20) 2(N05)] , [BA] 
-1.b2. [...] , [GI] 
-2.a. 5(N14) 1(N01) , UDU~a 
-278663	2.b1. 4(N14) 2(N01) , [BA] 
-2.b2. 9(N01) , GI# 
-3. 3(N52)# , 
+248795	3. 3(N52)# , 
 4. 2(N01) , SZU2 
 5. 3(N01) , KID~b 
 6. 1(N01) , NAR SU~a 
@@ -65562,18 +69158,13 @@ $ (not given)
 1. [...] , [...] 
 2. [...] , [...] NI~a# 
 3. 1(N01)# , URI3~a# IB~a 
-4.a. 3(N01) , 
-4.b. 1(N01) , 
-4.c. , TAK4~a KASZ~c |1(N57).AB2|? 
-5. 2(N01) , GUG2 NI~a 
+248809	5. 2(N01) , GUG2 NI~a 
 6. 2(N01) [...] , X [...] 
 1. 1(N01)# [...] , X [...] 
 2. 2(N01) , ZATU749~b DARA4~c1 A 
 3. 2(N01) , GU GA2~a2 ZATU694~c 
 4. 2(N01) , AN GU DU 
-5.a. 1(N14) 1(N01) , NA~a# AL 
-5.b. 1(N01) , MASZ DUR~b 
-6. 2(N01) , URI3~a A 
+248816	6. 2(N01) , URI3~a A 
 7. 3(N01) , E2~b NAR# 
 1. , KU6~a# RAD~a# [...] 
 1. [...] , [...] 
@@ -65605,87 +69196,21 @@ $ (not given)
 1. , [...] 
 1. , 
 1. [...] , [...] 
-2.a. [...] 1(N01)# , [...] SI DARA4~a1 
-2.b. [...] , [...] X EN~a# EZEN~b 
-2.c. [...] 1(N01)# , [...] E2~a# 
-2.d. [...] , [...] SI DARA4~a1 
-3. 1(N01) , SZU# SZU# 
+248849	3. 1(N01) , SZU# SZU# 
 4. 1(N01) , AB~a KU6~a 
 1. [...] , [...] 
 1. [...] , [...] 
-2.a. 1(N02) , SZUBUR 
-278731	2.b1. , (BU~a GI)a 
-2.b2. , (EN~a DU AN)a 
-3.a. 1(N01) , |U4x3(N57)| MUSZEN ZATU659 
-278735	3.b1. , (EN~a# AN [...])a 
-3.b2. , ([...])a 
-4.a. 1(N01) , DU TUR 
-278739	4.b1. , (EN~a |SZU2.E2~b|)a 
-4.b2. , (1(N01)#? DU X)a 
-5.a. 3(N01)# , SIG RAD~a IM~a# 
-278743	5.b1. , (3(N58) E2~b)a 
-5.b2. , (TI@t GIR3~c)a 
-5.b3. , (AN 1(N24)?)a 
-5.b4. , (DU KU6~a#)a 
-6. , [...] SIG RAD~a [...] 
+248857	6. , [...] SIG RAD~a [...] 
 1. [...] , [...] 
 2. 1(N02)# [...] , X [...] 
 3. X [...] , [...] 
 4. , X [...] 
 5. [...] , [...] 
 1. [...] , [...] 
-278755	1.a1. 1(N01) , SU~a 
-1.a2. 2(N01) , BAR 
-278758	1.b1. , (HI@g~b)a 
-1.b2. , (NIM~a)a 
-1.b3. , (TUR)a 
-2.a. 2(N01) , SAL# UNUG~a ZATU628~a LAGAR~a 
-278763	2.b1. , (SZUR2~b BU~a)a 
-2.b2. , (SZUR2~a)a 
-1. , 
-1.a. 2(N01) , EN~a 
-278768	1.b1. [...] , [...] EN~a#? 
-1.b2. 1(N01)# , ZATU687 [...] 
-278771	2.a1. 5(N01) , SU~a PAP~a 
-2.a2. , UNUG~a RAD~a 
-278776	2.b1A1. 1(N01) , SZUR2~a KU3~a E2~a 
-2.b1A2. [1(N01)] , [...] 
-2.b1B. , UR~a 
-2.b2. 3(N01) , TUR BAR 
-1. , 
+248866	1. , 
+248869	1. , 
 1. [...] , [...] X 
-2.a. 7(N01)# , HI KI PA~a 
-278784	2.b1. , ([...] URI3~a#)a 
-2.b2. , (|BU~a+DU6~a|)a 
-2.b3. , (E2~b BU~a)a 
-2.b4. , (SUKKAL X)a 
-2.b5. , (KI U4 NU)a 
-2.b6. , (RU NAR)a 
-2.b7. , (AN GUM~b)a 
-3.a. 6(N01) , BA# KAB 
-278793	3.b1. , (X SZU)a 
-3.b2. , (UR3~b2)a 
-3.b3. , (SZU [...])a 
-3.b4. , (DARA4~a1 SI#)a 
-3.b5. , (UR~a#?)a 
-3.b6. , (URI3~a DU? [...])a 
-1.a. 3(N01) , KU3~c RAD~a 
-278801	1.b1. , (EN~a#? [...])a 
-1.b2. , (PAP~a# [...])a 
-1.b3. , (EN~a# [...])a 
-2.a. 4(N01) , SZA RAD~a 
-278806	2.b1. , (EN~a# PAP~a# [...])a 
-2.b2. , (A? SANGA~a#? [...])a 
-2.b3. , ([...])a 
-2.b4. , ([...])a 
-3.a. 3(N01) , EN~a#? PA~a#? NUN~a# X 
-278812	3.b1. , (1(N01)# [...])a 
-3.b2. , ([...])a 
-3.b3. , ([...])a 
-4.a. 2(N01)# [...] , [...] 
-278817	4.b1. , ([...])a 
-4.b2. , ([...])a 
-1. [...] , [...] 
+248877	1. [...] , [...] 
 2. [...] , [...] 
 1. [...] 1(N34)# 1(N14)#? [...] , DA~a# X PA~a#? BU~a# [...] 
 1. 1(N03)? , X NA~b? GISZ3~b 
@@ -65705,10 +69230,7 @@ $ (not given)
 1. [...] , [...] EN~a# A@t NUN~a 
 1. [...] , [...] X X 
 2. [...] 3(N01)# , SZA TAK4~a KASZ~c 
-278840	3.a1. 2(N01) , MA 
-3.a2. 5(N01) , HASZHUR 
-3.b. , EN~a EZEN~b 
-1. [...] , [...] 
+248898	1. [...] , [...] 
 2. 1(N01) , GAL~a SZITA~a1? 
 3. 1(N01) , SI KISAL~b1 
 4. 1(N01) , ERIN 
@@ -65734,20 +69256,8 @@ $ (not given)
 3. [...] , [...] 
 1. [...] , [...] 
 1. 1(N50) , |SZE~a.NAM2| E~a#? 1(N57) BA 
-2.a. 2(N14) , KASZ~c ME~a SZUBUR 
-2.b. 4(N01)# , 
-3.a. [...] , [...] X 
-3.b. 4(N01) , 
-4.a. [...] , [...] 
-4.b. 4(N01) , 
-5. [...] , [...] 
-1.a. [...] , [...] 
-1.b. , [...] 
-2.a. 2(N14)# [...] , BU~a# [...] 
-2.b. , [...] 
-3.a. 3(N14) , NAR X [...] 
-3.b. , [...] 
-1. [...] , [...] 
+248927	5. [...] , [...] 
+248931	1. [...] , [...] 
 1. [...] 2(N01)# , NUN~b# [...] 
 2. [...] 2(N01)# , MASZ2# 
 3. 1(N01)# , X [...] 
@@ -65788,60 +69298,17 @@ $ (not given)
 1. [...] , [...] 
 1. [...] 3(N01)#? , [...] 
 1. [...] , [...] 
-1.a. 1(N01) , EN~a KALAM~b 
-1.b. , (EN~a SI SZAGAN)a 
-1.c. , (|SILA3~axNI~a| GAL~a)a 
-2.a. 4(N01) , APIN~a U2~b SAG 
-278928	2.b1. , (BU~a MASZ)a 
-2.b2. , (U2~a GAR)a 
-2.b3. , (AB~a 5(N57))a 
-2.b4. , (BU~a DU)a 
-2.c. , (|HIx1(N57)| GI6)a 
-3.a. 1(N01) , SI4~a ZATU628~a SAL ZATU697~b 
-3.b. , (BU~a SZU#)a 
-3.c. , (X [...])a 
-4.a. 1(N01)# [...] , X [...] 
-1.a. 1(N01) , BULUG3 NI~a 
-1.b. , (BU~a SZE~a)a 
-1.c. , (|DARA3~dxKAR2|)a 
-2.a. 2(N01) , SZIM~a MASZ DU KI 
-278942	2.b1. , (EN~a |EN2.E2~b|)a 
-2.b2. , (BU~a GI)a 
-2.c. , (EN~a ZATU829)a 
-3.a. 1(N01) , HAL PAP~a 
-3.b. , (KITI 3(N57))a 
-3.c. , (KI NE~a A [...])a 
-4.a. 1(N01)# [...] , X [...] 
-4.b. , (X KISAL~b1# [...])a 
-4.c. , ([...])a 
-1.a. 1(N01) , MUSZ3~a [...] 
-1.b. , (X ME~a X)a 
-1.c. , (UNUG~a [...])a 
-1. [...] 2(N01)# , NI~a# TUR# 
+248981	1. [...] 2(N01)# , NI~a# TUR# 
 2. 2(N01) , UTUL~a URU~a1@n 
 3. 1(N01) , |DARA3~cxKAR2| 
 4. 1(N01) , ADAB# 
 5. 1(N01) , ZATU799 
 1. [...] , [...] X 
-1.a. [...] 2(N01)# , [...] 
-1.b. [...] 4(N34)# 2(N14)# 2(N01)# , ERIM~a 
-2.a. [...] 1(N01)# , [...] SIG NIN 
-2.b. 8(N34) 2(N14) 8(N01) , ERIM~a 
-3.a. [...] 2(N01)# , [...] 
-3.b. 2(N14)# [...] 8(N01) , [...] 
-1.a. 4(N14)# 2(N01) , EN~a HI KI 
-1.b. 6(N34) [...] , [...] 
-2.a. 4(N14) 3(N01) , 3(N57) |EN2.E2~b| 
-2.b. 6(N34) 4(N14) [...] , [...] 
-3.a. 2(N34) 3(N14) 7(N01) , [...] 
-3.b. [...] , [...] 
-1. [...] , [...] EN~a# APIN~a SANGA~a# TE RAD~a 
+248993	1. [...] , [...] EN~a# APIN~a SANGA~a# TE RAD~a 
 1. , [...] 
 1. [...] , [...] 
 2. 9(N01)# , KA~a RAD~a DI 
-3.a. 1(N01)# , GU4 
-3.b. 5(N14) 8(N01) , SIG SAL SZE3 
-4. 7(N01) , BU3 NA~a 
+248998	4. 7(N01) , BU3 NA~a 
 5. 1(N14) [...] , RAD~a DI# [...] 
 1. [...] , X [...] 
 2. , LAGAB~b? [...] 
@@ -65852,28 +69319,10 @@ $ (not given)
 3. 1(N01) , UDUNITA~a 
 4. 1(N01) , MASZ2 
 1. [...] , [...] 
-1.a. [...] , [...] 
-1.b. [...] , 
-2.a. 1(N22)# 3(N01) , SI4~f 
-2.b. 1(N01) , 
-3.a. 1(N22) 3(N01) , |E2~b.LISZ| 
-3.b. 1(N01) , 
-4.a. 1(N22)# , ISZ~b RAD~a 
-4.b. 1(N01) , 
-1. [...] , [...] SZUBUR 
+249013	1. [...] , [...] SZUBUR 
 1. [...] , [...] 
 1. [...] 1(N50)#? 6(N14)# 1(N22)# 2(N01)# [...] , [...] 
-1.a. [...] , [...] 
-1.b. [...] , 
-2.a. 1(N14)# , DU AB2 
-2.b. 2(N01) , 
-3.a. 1(N22) 3(N01) , NU SZUBUR 
-3.b. 1(N01) , 
-1.a. 1(N14)# [...] , TAK4~a SAG# X 
-1.b. [...] , 
-2.a. 1(N22) 3(N01) , TI@t MES 
-2.b. 1(N01) , 
-1. [...] 1(N14)# [...] , [...] 
+249021	1. [...] 1(N14)# [...] , [...] 
 2. 1(N50)# [...] , [...] 
 3. [...] , [...] 
 1. [...] , [...] 
@@ -65891,14 +69340,7 @@ $ (not given)
 1. [...] , [...] 
 1. [...] , [...] X 
 2. [...] , [...] 
-1.a. [...] , [...] 
-279030	1.b1. [...] , [...] 
-1.b2. [...] 6(N01)# , BAR 
-2.a. 5(N01)# , SZU2 TUG2~a 1(N04) EN~a 
-279034	2.b1. 1(N01) , TUG2~a 
-2.b2. 1(N01) , SZU2# [...] 
-2.b3. 3(N01) , 1(N57)# [...] BAR# 
-1. [...] , [...] TUG2~a# 
+249041	1. [...] , [...] TUG2~a# 
 2. [...] , [...] 
 1. 1(N01) , GADA~a# 
 2. 2(N01) , 1(N57) SAL BAR 
@@ -65909,32 +69351,12 @@ $ (not given)
 3. 1(N01)# , 1(N01)# [...] BAR# 
 4. , KASKAL APIN~a 
 5. [...] , [...] X 
-1.a. [...] 1(N50)# , [...] APIN~a HI 
-1.b. 2(N14) , MASZ 
-2. [...] 3(N14)# , |SZE~a.NAM2| 
+249053	2. [...] 3(N14)# , |SZE~a.NAM2| 
 3. [...] 5(N14)# , |SZE~a.NAM2| 
-4.a. [...] 2(N22)# , SAL PAP~a GUN3~b 
-4.b. 2(N01) , [...] 
-5.a. [...] , [...] DUB~b# 
-5.b. 1(N01)# [...] , [...] 
-1. [...] , [...] BU~a# 
+249057	1. [...] , [...] BU~a# 
 1. [...] , [...] 
 1. [...] , [...] 
-1.a. [...] , [...] 
-1.b. [...] , 
-2.a. [...] , [...] X 
-2.b. 1(N01) , 
-3.a. [...] , MUNSZUB~b TI 
-3.b. 3(N01) , 
-4.a. [...] , [...] 
-4.b. 1(N01) , 
-1.a. [...] , [...] 
-1.b. 2(N34)# 4(N01) , MASZ UDU~a 
-2.a. [...] , [...] IB~a# 
-2.b. 1(N14) 7(N01) , MASZ UDU~a 
-3.a. [...] , [...] 
-3.b. 1(N14) 5(N01) [...] , MASZ# [UDU~a] 
-1. [...] , [...] UDU~a# 
+249067	1. [...] , [...] UDU~a# 
 2. [...] , [...] DA~a# NI~a GISZ3~b# 
 1. [...] , [...] 
 2. 3(N01) , NUN~b# 
@@ -65969,42 +69391,15 @@ $ (not given)
 4. 1(N01) , NA~a KI 
 5. 2(N01) , GA2~a2 DUR2 X 
 1. [...] , [...] KA~a 
-1.a. 2(N14) 5(N01) , UDU~a 1(N57) BA ZATU819 
-279110	1.b1. 1(N14) 1(N01) , UD5~a 
-1.b2. 4(N01) , UTUA~a 
-1.b3. 3(N01) , NUN~b 
-1.b4. 7(N01) , MASZ2 
-2.a. [...] , [...] 
-279116	2.b1. [...] , [...] 
-2.b2. [...] , [...] 
-1. 4(N14) 5(N01) , UDU~a ZATU819# [...] 
-1.a. 5(N14) 4(N01) , MASZ UDU~a 
-279121	1.b1. 5(N14) 1(N01) , UDU~a 
-279123	1.b2A. 1(N01) , ESZDA 
-1.b2B. 2(N01) , UDU~a 
-279126	1.b3A. 1(N34) , NUNUZ~a1 
-1.b3B. 1(N01) , UDU~a 
-2. 2(N34) 9(N01) , GI MASZ UDU~a 
+249104	1. 4(N14) 5(N01) , UDU~a ZATU819# [...] 
+249106	2. 2(N34) 9(N01) , GI MASZ UDU~a 
 3. , ZATU821 GI MA UR5~a 
 1. 3(N34) 3(N01) , UDU~a MASZ PA~a NAM2 RAD~a 
 2. , GIR3~a BU~a DU A 
-1.a. 6(N01) , EN~a HI NUN~a E2~b 
-279134	1.b1. , (HI KASKAL)a 
-1.b2. , (KASZ~c KASZ~c)a 
-1.b3. , (NIMGIR AN)a 
-1.b4. , (NI~a GIR3~a)a 
-1.b5. , (SAG# X)a 
-1.b6. , (X X)a 
-2.a. 3(N01) , SAL SAL X 
-279142	2.b1. , (EN~a# SU~a# TI#?)a 
-2.b2. , (1(N01)# GIR3~c#)a 
-2.b3. , (|SZU2.1(N02)|)a 
-3. [...] , [...] GIR~a# A# RAD~a# 
+249112	3. [...] , [...] GIR~a# A# RAD~a# 
 1. 9(N01) , SU~a SZU E2~b PAP~a 
 2. , UNUG~a GIR~a A RAD~a PA~a 
-1.a. 1(N01) , SAL 
-1.b. , TU~a NAB# DI# 
-2. , BAR PAP~a 
+249116	2. , BAR PAP~a 
 1. , NIMGIR GAL~a 
 2. , SANGA~a RAD~a A 
 3. , NIMGIR RAD~a 
@@ -66047,15 +69442,9 @@ $ (not given)
 2. 8(N01) , U8#? 
 3. 1(N14)# [...] 3(N01)# , [...] 
 1. , [...] 
-1.a. [...] , [...] X 
-279195	1.b1. , (NAR)a 
-1.b2. , (ISZ~b KASZ~c)a 
-1.b3. , (PAP~a 3(N57))a 
-2. 2(N01)# , SAL 
+249160	2. 2(N01)# , SAL 
 3. [...] , [...] A# 
-1.a. 1(N01) , EN~a 
-1.b. , (EN~a SZA3~a1 HI)a 
-2. 5(N01) , SAL 
+249163	2. 5(N01) , SAL 
 3. , EN~a# [...] 
 1. [...] , [...] 
 1. [...] , [...] 
@@ -66075,26 +69464,17 @@ $ (not given)
 1. [...] , X [...] 
 1. [...] , [...] NI~a# 
 2. [...] , [...] 
-1.a. 1(N01) , KU~b1 DUG~c# 
-1.b. 1(N01) , 
-2.a. 1(N01) , NI~a X AN 
-2.b. 2(N01) , 
-3. 2(N01) , ISZ~b? 
+249185	3. 2(N01) , ISZ~b? 
 4. 2(N01)# , X [...] 
 5. [...] , [...] 
 1. 1(N01)# , GIR3~c 
-2.a. 1(N01) , X 
-279232	2.b1. 1(N34) 1(N14) [...] , [...] 
-2.b2. 1(N01) , [...] 
-3. 1(N01) , U2~b GIR3@g~b 
+249190	3. 1(N01) , U2~b GIR3@g~b 
 4. 2(N01)# [...] , [...] NI~a#? 
 5. 1(N01) , LA2 TUG2~a? 
 6. 1(N01) , NE~a# [...] 
 1. 6(N01)# , X [...] 
 2. 2(N01)# , X [...] 
-3.a. 2(N34) , NUNUZ~a1# X [...] 
-3.b. 1(N34)# [...] , [...] 
-4. [...] , [...] 
+249197	4. [...] , [...] 
 1. [...] , [...] |SZE~a.NAM2|# SAG# 
 1. [...] , [...] 
 1. [...] , [...] X 
@@ -66122,14 +69502,7 @@ $ (not given)
 2. [...] , [...] NUNUZ~a0 SANGA~a#? 
 3. [...] , [...] X 
 1. 3(N01)# , [...] X NI~a TUR# 
-2.a. 3(N01) , KI APIN~a 
-279272	2.b1. , SZA3~a1 [...] 
-2.b2. , X [...] 
-2.b3. , [...] 
-3.a. 2(N01) , ISZ~b# GAL~a 
-279277	3.b1. , X [...] 
-3.b2. , [...] 
-1. [...] , [...] 
+249227	1. [...] , [...] 
 2. [...] , [...] URU~a1 
 1. [...] , [...] 
 2. 2(N01)# , E2~a#? DU ERIM~a 
@@ -66159,25 +69532,7 @@ $ (not given)
 1. [...] 1(N14)# [...] , UTUA~a 
 2. 7(N01)# , UDUNITA~a# [...] 
 1. [...] , [...] 
-1.a. [...] , [...] 
-1.b. [...] , [...] 
-1.c. [...] , ZATU646 
-2.a. [...] , [...] 
-2.b. 3(N59)# , AN SZU 
-2.c. 3(N59) , ZATU646 
-3.a. [...] , DU# 
-3.b. 3(N59) , SZU 
-3.c. 3(N59) , ZATU646 
-4.a. [...] 1(N14) , DU 
-4.b. 4(N59) , AN SZU 
-4.c. 3(N59) , ZATU646 
-5.a. [...] 5(N01)# , DU 
-5.b. 3(N59) , SZU 
-5.c. 3(N59) , ZATU646 
-6.a. [...] 5(N01)# , DU# 
-6.b. 3(N01) , SZU 
-6.c. 3(N01) , ZATU646# 
-1. [...] 1(N01)# , DU 
+249263	1. [...] 1(N01)# , DU 
 2. [...] , [...] X 
 1. , [...] 
 1. 5(N01) , U8 
@@ -66210,123 +69565,10 @@ $ (not given)
 2. 2(N01)? , GUG2 A 
 3. 4(N14) 7(N01) , NUNUZ~a1 NE~a 
 4. , 
-1.a. 1(N50) 2(N22) , SZE~a MUSZEN GAN2 
-1.b. 5(N14) , |SZE~a.NAM2|# 
-2. 6(N14)# , LA2 SUG5 
-3.a. 7(N14)# 1(N22)# , DU# 3(N57) NAR 
-3.b. 3(N14) 1(N22) 1(N01) , |SZE~a.NAM2| 
-4.a. 3(N14) 1(N22) , 2(N57)# SZU NI~a SZA3~a1 
-4.b. 3(N01) , 
-5.a. 3(N14) , KU~b1 ZATU697~c 
-5.b. 3(N01) , 
-6.a. 5(N14) , SZU NI~a A 
-6.b. 5(N01) , 
-7.a. 1(N14)# 2(N22) , SZUBUR 
-7.b. 2(N01) , 
-8.a. 7(N14)#? , RAD~a NIMGIR# 
-8.b. 1(N14) , 
-9.a. [...] 1(N22)# , KASZ~c#? [...] 
-9.b. 1(N01) , 
-1.a. 3(N14) 2(N22) , SZU SZU# 
-1.b. 3(N01) , 
-2.a. 3(N14) , TE SANGA~a 
-2.b. 3(N01) , 
-3.a. 2(N14) , SAG EN~a DARA4~c2 
-3.b. 1(N01) , 
-4.a. 1(N14) 2(N22) 5(N01) , GIR3~c 1(N02) 
-4.b. 2(N01) , 
-5.a. 2(N14) 5(N01) , PIRIG~b1 ERIM~a 
-5.b. 2(N01) , 
-6.a. 4(N14) 2(N22) , UR~a SANGA~a 
-6.b. 4(N01) , 
-7.a. 6(N14) 2(N22) , ISZ~b RAD~a 
-7.b. 8(N01) , 
-8.a. 4(N14) , E2~b# PA~a 
-8.b. 8(N01) , 
-9.a. 2(N22) , SZUBUR KAL~b2 
-9.b. 2(N01) , 
-1.a. 1(N22) , AN 3(N57) 
-1.b. 1(N01) , 
-2.a. 1(N22) 3(N01) , NUN~a SANGA~a 
-2.b. 1(N01) , 
-3.a. 1(N14) , HI GAN2 
-3.b. 2(N01) , 
-4.a. 1(N14) , E2~a NUNUZ~a1 DU 
-4.b. 2(N01) , 
-5.a. 1(N22) , KASZ~c SAG 
-5.b. 1(N01) , 
-6.a. 1(N22) , URI3~a BAR 
-6.b. 1(N01) , 
-7.a. 2(N22) , SUG5 SZU2 
-7.b. 1(N01) , 
-8.a. 2(N22) , U2~a EN~a 
-8.b. 1(N01) , 
-9.a. 3(N14) 1(N22) , DANNA NAM2 
-9.b. 4(N01) , 
-10.a. 1(N14) , GA~a 
-10.b. 1(N01) , 
-11.a. 2(N14) , IM~a 
-11.b. 2(N01) , 
-1.a. 2(N22) , PAP~a GIR3~c 
-1.b. 1(N01) , 
-2.a. 1(N14) , EN~a DU PAP~a 
-2.b. 1(N01) , 
-3.a. 1(N14) 1(N22) 1(N01) , NAR A 
-3.b. 1(N01) , 
-4.a. 1(N14) , ZATU659 
-4.b. 2(N01) , 
-5.a. 2(N22) , KASZ~c 3(N57) 
-5.b. 1(N01) , 
-6.a. 2(N22) , DIM~a 
-6.b. 1(N01) , 
-7.a. 2(N22) , BU~a DU 
-7.b. 1(N01) , 
-8.a. 2(N14) , SZE~a DU SZU 
-8.b. 2(N01) , 
-9.a. 4(N14) , SZUBUR ADAB 
-9.b. 4(N01) , 
-10.a. 3(N14) , DAR~b GU 
-10.b. 3(N01) , 
-1.a. 7(N14) , EN~a TE PAP~a 
-1.b. 1(N14) 4(N01) , 
-2.a. 3(N14) , RAD~a ISZ~b 
-2.b. 3(N01) , 
-3.a. 3(N14) , MA SZU# ERIN NAR SZA3~a1#? 
-3.b. 3(N01) , 
-4.a. 5(N14) , TI GI 
-4.b. 1(N14) , 
-5.a. 7(N14) , GA~a 
-5.b. 1(N14) 4(N01) , 
-6.a. 2(N14) 1(N22) , SIG7 
-6.b. 7(N01) , 
-7.a. 7(N14) , DIN NI~a U2~b 
-7.b. 2(N14) 1(N01) , 
-1.a. 2(N50) 2(N14) , EN~a GIR3~c DU NUN~a# 
-1.b. 2(N14) 2(N01) , 
-2.a. 5(N14) , SZUBUR 
-2.b. 2(N14) , |SZE~a.NAM2| 
-3.a. 5(N14) , 3(N57) PAP~a 
-3.b. 2(N14) , |SZE~a.NAM2| 
-4.a. 2(N14) , IN~b U2~b 
-4.b. 4(N01) , 
-5.a. 2(N14) , TAR~a DANNA 
-5.b. 4(N01) , 
-6.a. 4(N14) , SIG@g#? NI~a NA~a# 
-6.b. 8(N01) , 
-7.a. 1(N14) , SZUBUR RU 
-7.b. 2(N01) , 
-8.a. 1(N14) , SZA3~a1 HI EN~a 
-8.b. 2(N01) , 
-1.a. 1(N14) , A KU3~a PA~a 
-1.b. 2(N01) , 
-2.a. 4(N14) , NI~a#? BU~a NIM~b1 
-2.b. 8(N01) , 
-3. , GAN2 
+249297	2. 6(N14)# , LA2 SUG5 
+249352	3. , GAN2 
 1. 2(N45)# 1(N50) 2(N14) , GAN2 
-2.a. 3(N34) 5(N14) 5(N01) , LAGAB~b UDU~a 
-279475	2.b1. 3(N34) 2(N14) 7(N01) , EN~a SZUBUR# MASZ 
-2.b2. 2(N14) 8(N01) , ERIM~a# 
-3. , SAL E~b GAN2 DU KU6~a 
+249355	3. , SAL E~b GAN2 DU KU6~a 
 1. [...] , [...] 
 2. [...] , [...] UTUA~a# 
 3. 2(N14)# 1(N01)# , UDUNITA~a 
@@ -66380,9 +69622,7 @@ $ (not given)
 6. 3(N14)# 8(N01) , MASZ2 
 1. 1(N34) 2(N14) 7(N01) , UDU~a 1(N57) BA 
 2. , 
-1.a. 3(N01) , RAD~a UKKIN~a 
-1.b. , NUNUZ~a1 AN GU 
-2. 2(N01) , SANGA~a RAD~a 
+249410	2. 2(N01) , SANGA~a RAD~a 
 3. [...] , [...] 
 1. 1(N01) , NA2~a AB~a 
 2. 2(N01) , E2~b PA~a 
@@ -66415,11 +69655,7 @@ $ (not given)
 1. [...] , [...] SZE~a@t# NI~a [...] 
 1. [...] , [...] 
 2. , IDIGNA KU6~a A# [...] 
-3.a. 3(N01) , UR5~a AN# [...] 
-279568	3.b1. 1(N01) , UDU~a#? [...] 
-3.b2. 1(N01) , [...] 
-3.b3. 1(N01)# , [...] 
-1. [...] , [...] 
+249444	1. [...] , [...] 
 1. 2(N01) , MA2? KASZ~b? 1(N57)? 
 2. 1(N01)# , X [...] 
 1. 1(N01) , TUR? IB~a? 
@@ -66427,9 +69663,7 @@ $ (not given)
 1. [...] , [...] 
 1. [...] 2(N01)# , TAK4~a A E2~a 
 2. [...] , [...] X 
-1.a. 5(N01) , ZATU659 GI# ZATU839# [...] 
-1.b. 2(N01) , [...] 
-2. 1(N01) , X [...] 
+249453	2. 1(N01) , X [...] 
 1. [...] , [...] 
 1. [...] , [...] 
 1. [...] , [...] X 
@@ -66437,93 +69671,21 @@ $ (not given)
 3. 1(N63) 1(N50) 4(N48) 7(N34)# [...] , X [...] 
 1. [...] , [...] 
 1. [...] , [...] 
-1.a. [...] , [...] 
-1.b. [...] , 
-2.a. 1(N14) 1(N22)# [...] , EN~a# [...] 
-2.b. [4(N01)] , 
-3.a. 2(N14) , TAK4~a TAK4~a A 
-3.b. 6(N01) , 
-4.a. 1(N14) 1(N22) , SZA3~a1 AN SZIDIM 
-4.b. 4(N01) , 
-5.a. 1(N14) , X [...] 
-5.b. 3(N01) , 
-6.a. 1(N14) , NAM2 
-6.b. 3(N01)# , 
-7.a. [2(N14)] , TAK4~a TAK4~a# A TUR 
-7.b. 6(N01) , 
-8. , TUR# NAM2 UR5~a 
-9.a. [1(N14)] , KASZ~a X 
-9.b. 3(N01) , 
-10.a. [1(N14)] , [...] 
-10.b. 3(N01)# , 
-1.a. [...] , GU~a# [...] 
-1.b. [...] , 
-2.a. 1(N14) , I MAR~a 
-2.b. 3(N01)# , 
-3.a. 1(N14) , TUR3~a NA~a 
-3.b. 3(N01) , 
-4.a. 1(N14) , KASZ~c MASZ 
-4.b. [...] , 
-5.a. 2(N14)# , X TAK4~a TAK4~a# A# [...] 
-5.b. [6(N01)] , 
-6.a. 2(N14) , U2~a 1(N02) 
-6.b. 6(N01) , 
-7.a. 1(N22) , KA~a KASZ~c 
-7.b. 1(N01) , 
-8.a. [1(N22)] , [...] 
-8.b. 1(N01)# , 
-1.a. 1(N22)#? [...] , [...] 
-1.b. [...] , 
-6.a. [...] , [...] 
-6.b. [...] , 
-7.a. 1(N14) 1(N22)#? , [...] 
-7.b. [4(N01)] , 
-8.a. 2(N22) , IL#? GA2~a2 [...] 
-8.b. [2(N01)] , 
-1. [...] , [...] X 
+249468	8. , TUR# NAM2 UR5~a 
+249483	1. [...] , [...] X 
 1. [...] , [...] 
 2. [...] , [...] URU~a1# 
 3. [...] , [...] 
 1. [...] , [...] 
 1. [...] , [...] 
-2.a. 2(N14)# , |SZE~a.NAM2|#? X ZATU694~c#? [...] 
-2.b. 2(N01)# , 
-3. 1(N14) , GI# MASZ 
-4.a. [...] , SZUBUR 
-4.b. 4(N01) [...] , 
-5. [...] , [...] 
+249490	3. 1(N14) , GI# MASZ 
+249492	5. [...] , [...] 
 1. [...] , [...] 
 2. 1(N14) , X [...] 
-3.a. 1(N01) , NI~a# A# 
-3.b. 1(N01) , 
-4.a. 1(N14) , X AN [...] 
-4.b. 2(N01) , 
-5.a. 1(N14) 1(N22) , EN~a# X [...] 
-5.b. 1(N01)# , 
-1.a. [...] , [...] 
-1.b. [...] , 
-1. [...] , [...] NIN# SIG#? [...] 
-1.a. [...] 4(N01) , 3(N57) PAP~a 
-279657	1.b1. [...] , EN~a#? SAG# [...] 
-1.b2. , U2~b# 1(N02) 
-1.b3. , [...] 
-1.b4. , [...] EN~a#? 
-1.b5. , [...] 
-1.b6. , [...] X GI 
-2.a. 3(N01) , LAL2~a NE~a 1(N57) 3(N57) 
-279666	2.b1A. 1(N01) , UD5~a 
-2.b1B. , PAP~a 
-2.b1C. , LAL2~a NE~a 
-279670	2.b2A. 2(N01) , APIN~a 3(N57) GIR3@g~c A? BU~a PAP~a NAM2 
-279672	2.b2B1. , ZATU836 BU~a SZE~a 
-2.b2B2. , U8 LAGAB~a 
-2.b2C. , SZIM~a 
-3. [...] , [...] 
+249499	1. [...] , [...] NIN# SIG#? [...] 
+249502	3. [...] , [...] 
 1. [...] , [...] X 
-2.a. 1(N01)# , 3(N57) BU~a |AxAB2| 
-279679	2.b1. , U2~a BU~a U2~a 
-2.b2. , UDU~a# MASZ X URUDU~a 
-3. , BA#? [...] 
+249505	3. , BA#? [...] 
 1. 1(N14) 2(N01) , SAG# [...] 
 1. [...] , [...] 
 1. [...] , [...] X 
@@ -66556,13 +69718,7 @@ $ (not given)
 2. 1(N01) , 
 3. , X [...] 
 1. [...] , [...] 
-1.a. [...] , [...] 
-1.b. [...] , [...] X 
-2.a. [...] , [...] X 
-2.b. 1(N01) , X 
-3.a. [...] , [...] 
-3.b. 1(N01)# , MU? 
-1. [...] , [...] X 
+249541	1. [...] , [...] X 
 1. [...] , [...] 
 2. [...] , [...] X 
 3. [...] , [...] X 
@@ -66571,9 +69727,7 @@ $ (not given)
 3. 1(N01)# , X 
 1. , [...] 
 1. [...] , [...] 
-1.a. [...] , [...] 
-1.b. 2(N14) , ZATU776 
-1. [...] , [...] X X 
+249551	1. [...] , [...] X X 
 1. [...] , [...] 
 1. [...] , [...] 
 2. [...] , [...] X 
@@ -66592,9 +69746,7 @@ $ (not given)
 1. [...] , NI~a [...] 
 1. [...] , [...] 
 1. [...] , [...] X 
-2.a. [...] , [...] X 
-2.b. , [...] |GI&GI|# BAR GISZ SI NA~a ERIM~a 
-1. , [...] SIMUG#? 
+249571	1. , [...] SIMUG#? 
 1. [...] , [...] 
 1. [...] , [...] 
 2. [...] , UTUA~a 
@@ -66621,37 +69773,21 @@ $ (not given)
 2. [...] , [...] X SZUBUR# EN~a# ZATU624~b#? NU 
 3. [...] , RU KI 
 1. [...] , [...] 
-2.a. 1(N01) , ZATU659 
-2.b. , PAP~a BAR# [...] 
-3. , URU~a1 
+249599	3. , URU~a1 
 4. [...] , [...] 
 1. 1(N14) 7(N01)# [...] , X [...] 
 1. [...] , [...] 
 1. [...] , [...] 
-1.a. [...] 1(N14)# , EN~a NUN~a# X 
-1.b. , 2(N01) 
-2.a. [...] , [...] X 
-2.b. , 2(N01) 
-3.a. [...] , [...] 
-3.b. 4(N01)# , 
-4.a. [...] , [...] 
-4.b. , [...] 
-1. 1(N50)# 5(N14)# , ERIM~a KUR~a# U2~b [...] 
+249608	1. 1(N50)# 5(N14)# , ERIM~a KUR~a# U2~b [...] 
 1. 4(N14) 5(N01) , [...] 
 1. [...] , [...] 
 2. 3(N34)# 5(N01)# , UDU~a 
 1. [...] , [...] 
 1. 4(N14)# 1(N01) , SZE~a SAG RAD~a 
-2.a. 5(N14)# , X [...] 
-279802	2.b1. 2(N01) 2(N39~a) 1(N24) , BA SI4~f 
-2.b2. 1(N14)# [...] , [...] 
-3. [...] , [...] 
+249615	3. [...] , [...] 
 1. 9(N14)# , |3(N57).E2~b| KITI 
 2. 6(N14) 2(N01) , |E2~ax3(N58)| ZATU795 LAM~b 
-3.a. 2(N14)# [...] , [...] 
-279809	3.b1. 1(N14) 1(N01) 1(N39~a) , BA 
-3.b2. [...] , [...] 
-1. [...] 1(N14)# 1(N01)# 1(N39~a)# 1(N24)# , [...] X 
+249619	1. [...] 1(N14)# 1(N01)# 1(N39~a)# 1(N24)# , [...] X 
 1. [...] , [...] X 
 1. 3(N14) , SU~a PAP~a# 
 2. 4(N01)# [...] , X [...] 
@@ -66665,20 +69801,8 @@ $ (not given)
 1. [...] , [...] 
 1. [...] , [...] 
 2. [...] 5(N01)# , U2~b SAG [...] 
-3.a. 3(N34)# 3(N14) 9(N01) , ZATU838 NAM2 RAD~a PA~a 
-279827	3.b1. 1(N34) 3(N14)#? 2(N01)? , ZATU839 GI 
-279829	3.b2A. 2(N34) 1(N14) , IB~a URI3~a 
-3.b2B. 1(N01) , KUR~a KISZ 
-3.b2C. 1(N01) , SAL KISZ 
-4.a. 1(N34)# [...] 3(N14) 4(N01) , [...] 
-279834	4.b1. 1(N01) , GI6 AB2 
-4.b2. 1(N01) , KUR~a KISZ 
-4.b3. [...] , SAL# KISZ 
-1. [...] , [...] X 
-2.a. 2(N34) 4(N14)# 3(N01)# , LAGAB~b KI# RAD~a# SUM~b# X X [...] 
-279840	2.b1. [...] 1(N34)# [...] , [...] 
-2.b2. 1(N01)# [...] , [...] 
-1. [...] , [...] 
+249635	1. [...] , [...] X 
+249637	1. [...] , [...] 
 2. [...] 1(N01)# , UTUA~a 
 3. 1(N14) 7(N01) , NUN~b 
 4. 7(N01) , UDUNITA~a 
@@ -66755,28 +69879,7 @@ $ (not given)
 2. 1(N01)# [...] , X [...] 
 1. [...] , [...] KA~a#? 
 2. [...] , [...] 3(N57)? |EN2.E2~b| 
-1.a. 6(N01) , BA 
-279921	1.b1. , (SZU SZU)a 
-1.b2. , (PAP~a TUR3~a DU)a 
-1.b3. , (3(N57))a 
-1.b4. , (NI~a GIR3~c)a 
-1.b5. , (GI4~a SZA3~a1)a 
-1.b6. , (NE~a ZATU778)a 
-2.a. [...] , [...] 
-279929	2.b1. , (DIM~a X)a 
-2.b2. , ([...] X)a 
-1.a. 3(N01)# [...] , [...] 
-279933	1.b1. , ([...])a 
-1.b2. , ([...])a 
-1.b3. , ([...])a 
-2.a. 3(N01)# [...] , [...] 
-279938	2.b1. , ([...])a 
-2.b2. , ([...])a 
-2.b3. , ([...])a 
-1.a. [...] , [... BA] 
-279943	1.b1. [...] , [...] 
-1.b2. [...] , [...] TUR# 
-2. 5(N01) , GI 
+249719	2. 5(N01) , GI 
 3. 3(N02) , 
 1. [...] , [...] DU# TE# ZATU795 LAM~b 
 1. [...] , [...] 
@@ -66789,58 +69892,15 @@ $ (not given)
 1. [3(N14)] 3(N01)# , UDU~a 
 2. [...] , SZU GU4 
 3. , KU~b1# MUNSZUB~b GU4# KI [...] 
-1.a. [...] , [...] 
-279960	1.b1. , ([...])a 
-1.b2. , ([...] SZU#? GI#)a 
-1.b3. , (DANNA KUR~a)a 
-1.b4. , ([...] KASKAL#)a 
-1.b5. , (KASZ~c MUSZEN)a 
-1.b6. , ([...] E2~a#)a 
-1.b7. , (KA~a EN~a DU)a 
-1.a. [...] , X 
-279969	1.b1. , ([...])a 
-1.b2. , ([...])a 
-1.b3. , (NA~a MUSZEN# GI)a 
-1.b4. , (AD~a# X)a 
-1.b5. , ([...])a 
-1.b6. , ([...])a 
-1.b7. , ([...])a 
-1.b8. , ([...] TI# ZI~a#?)a 
-1.b9. , (NE~a E2~a PAP~a)a 
-2.a. 1(N01)# , |U4x1(N57)| TUR 
-2.b. , ([...] 3(N57))a 
-3.a. 7(N01) , |U4x3(N57)| TUR 
-279982	3.b1. , (DIM~a DA~a)a 
-3.b2. , (UR~a UR~a)a 
-3.b3. , (LA2? X NA2~a#?)a 
-3.b4. , (3(N57) X)a 
-3.b5. , (X X)a 
-3.b6. , (X X)a 
-3.b7. , (X KI X)a 
-4. , PAP~a SU~a 1(N57) MUN~a1 
+249736	4. , PAP~a SU~a 1(N57) MUN~a1 
 1. 2(N14) 8(N01) , AL 
 2. 1(N14)# 2(N01)# , [...] 
 3. [...] , [...] 
 1. [...] , [...] RAD~a# 
-279995	1.a1. [...] , [...] 
-1.a2. [...] 1(N01)# , NUN~b 
-1.a3. [...] 3(N14)#? , MASZ2 
-279999	1.b1. [...] , [...] 
-1.b2. 2(N01) , X [...] 
-1.b3. 5(N34) [...] , [...] 
-280003	2.a1. [...] , [...] 
-280005	2.b1. 1(N14) 3(N01)# [...] , [...] 
-2.b2. [...] , [...] 
-280008	2.c1. 1(N01)# [...] , [...] 
-2.c2. [...] , [...] 
-1. [...] , [...] 
+249743	1. [...] , [...] 
 1. 2(N14)# [...] , BA# [...] 
-1.a. 1(N14) , E2~a PA~a 
-1.b. 2(N01) , 
-2. [...] , [...] 
-1.a. 3(N14) , SAR~a# KA~a? 
-1.b. 9(N01) , 
-2. [...] , [...] 
+249746	2. [...] , [...] 
+249748	2. [...] , [...] 
 1. [...] , [...] 
 1. [...] , [...] X BU~a A# DU 
 1. [...] , [...] 
@@ -66871,16 +69931,9 @@ $ (not given)
 3. [...] , [...] A#? GA2~a2#? [...] 
 4. [...] , [...] 
 1. [...] , [...] KITI# 
-1.a. [...] , [...] X 
-280050	1.b1. [...] , [...] 
-1.b2. [...] 1(N01)# , [...] TUR# 
-2. 1(N01) , SZU SI LAGAB~a 
-3.a. 1(N14) 6(N01) , [...] 
-280055	3.b1. 6(N01) [...] , [...] 
-1. [...] , [...] 
-1.a. [...] 1(N01) , SI ZATU841 SI TE RAD~a 
-1.b. 1(N01)# , SI X AN DA~a 
-2. [...] , [...] 
+249780	2. 1(N01) , SZU SI LAGAB~a 
+249782	1. [...] , [...] 
+249784	2. [...] , [...] 
 1. [...] 1(N01)# , [...] 
 1. [...] , [...] ZATU837~a#? 
 1. 2(N14) 3(N01)# [...] , [...] 
@@ -66915,29 +69968,10 @@ $ (not given)
 4. 1(N01)# [...] , [...] 
 1. [...] , [...] AL# 2(N57) MUN~a1# [...] 
 1. [...] , [...] 
-2.a. 2(N01) , GI 
-280096	2.b1. , SZU URU~a1#? 
-2.b2. , X X 
-3.a. 2(N01) , SZU# KALAM~b#? 
-280100	3.b1. , EN~a DUG~a 
-3.b2. , X X 
-4. , 2(N57) PA~a UR3~b2 
+249821	4. , 2(N57) PA~a UR3~b2 
 1. [...] , [...] 
-2.a. 1(N01) , KALAM~b 
-2.b. , AN NU11@t 
-3.a. 2(N02) , 
-280108	3.b1. , KAK~a KAK~a 
-3.b2. , PAP~a SAL 
-4. , 1(N57) PAP~a SU~a 
-1.a. 9(N01) , 2(N57) PAP~a SU~a 
-280113	1.b1. 5(N01) , BA 
-1.b2. 2(N01) , GI 
-1.b3. 2(N01) , KALAM~b SZU 
-2.a. 9(N01)# , [...] 
-280118	2.b1. 2(N01) BA 
-2.b2. 4(N01)# GI 
-2.b3. [3(N01) KALAM~b] 
-1. 7(N01) , BA 
+249825	4. , 1(N57) PAP~a SU~a 
+249828	1. 7(N01) , BA 
 2. 6(N01) , GI 
 3. [5(N01)] , [KALAM~b] 
 1. 1(N14) 8(N01)# , [...] DU TE [...] 
@@ -67034,25 +70068,10 @@ $ (not given)
 3. , SANGA~a TE RAD~a 
 1. 1(N01) , PIRIG~b1 UDU~a E2~b PAP~a SU~a# 
 2. [...] , [...] 
-1.a. 1(N01) , NAM2 RAD~a PA~a 
-1.b. , EZEN~b EN~a 
-2.a. 1(N01) , NAM2 RAD~a PA~a 
-2.b. , DU X KISAL~b1# [...] 
-1.a. 2(N01) , RAD~a SI BU~a TE 
-280224	1.b1. , GISZ3~b KAK~a 
-1.b2. , KASKAL@g GAR 
-2.a. 1(N01)# [...] 1(N08)# , X [...] 
-2.b. , [...] 
-1.a. 1(N01) , PA~a UB [...] 
-1.b. , TAK4~a [...] 
-1.a. 1(N01)# [...] , PAP~a SU~a [...] 
-1.b. , [...] 
-1. [...] , [...] 
+249931	1. [...] , [...] 
 2. 1(N01) , PAP~a SU~a 
 3. 1(N01) , ERIM~a 
-4.a. 3(N01) , PAP~a SU~a 
-4.b. 4(N01) , SZUBUR 
-5. , PAP~a SU~a 
+249935	5. , PAP~a SU~a 
 1. [...] , [...] 
 2. 4(N01) , NE~a KI 
 3. 7(N01)# , BU~a KI 
@@ -67140,53 +70159,9 @@ $ (not given)
 1. 1(N50) , SUKUD@g~c 
 2. , [...] 
 1. [...] , [...] GAN2#? 
-1.a. [...] , [...] 
-1.b. , [...] 
-2.a. 1(N01) , X [...] 
-2.b. , [...] 
-3.a. 1(N01) , ZATU703 X 
-3.b. , [...] X 
-4.a. [...] , [...] X 
-4.b. , LA2 DU X [...] 
-5.a. [...] , [...] 
-5.b. , [...] 
-1. [...] 2(N14)# [...] , [...] 
-280337	2.a1. 6(N01) , BA KI 
-2.a2. 1(N01) , NAR A 
-2.a3. , X [...] 
-280342	2.b1A. 1(N01) , SANGA~a X 
-2.b1B. , X [...] 
-280345	2.b2A. 1(N01) , |GISZxSZU2~a| SZU AB~a 
-2.b2B. , PAP~a X 
-280348	2.b3A. 1(N01) , SUKKAL NAGAR~a 
-2.b3B. , BU~a# PAP~a# [...] 
-280351	2.b4A. 1(N01) , SZU SZU 
-2.b4B. , [...] 
-280354	2.b5A. 1(N01) , ZATU687 SZU ME~a E2~b# [...] 
-2.b5B. , [...] 
-3.a. 9(N02)# , [...] 
-280359	3.b1A. 1(N02) , X SAG 
-3.b1B. , AN# NUNUZ~c#? [...] 
-280362	3.b2A. 1(N02)# , [...] 
-3.b2B. , [...] 
-280365	3.b3A. [...] , [...] 
-3.b3B. , [...] 
-1. [...] 2(N14)# 1(N01)# [...] , DUB~a GAL~a GA~a [...] 
-1.a. [...] , [...] 
-280371	1.b1A. [...] , [...] 
-1.b1B. , [...] X NAM2 
-280374	1.b2A. [...] , [...] 
-1.b2B. , (NAB DI)a 
-280377	1.b3A. [...] , [...] X 
-1.b3B. , (EN~a NUNUZ~c)a 
-2.a. [...] , [...] 
-280382	2.b1A. 1(N02) , RAD~a 
-2.b1B. , (AN 3(N57) PIRIG~b1)a 
-280385	2.b2A. 1(N02)# , X [...] 
-2.b2B. , (DU# BA# KI)a 
-280388	2.b3A. [...] , [...] 
-2.b3B. , [...] 
-1. [...] 1(N01)#? , [...] 
+250028	1. [...] 2(N14)# [...] , [...] 
+250031	1. [...] 2(N14)# 1(N01)# [...] , DUB~a GAL~a GA~a [...] 
+250034	1. [...] 1(N01)#? , [...] 
 2. 2(N01)# [...] , [...] 
 3. 2(N01)# [...] , [...] 
 1. [...] , [...] 
@@ -67196,31 +70171,13 @@ $ (not given)
 4. [...] , LAL2~a X 
 1. [...] , [...] 
 1. [...] , [...] 
-2.a. [...] 2(N01)# , [...] GI#? 
-280402	2.b1. , ([...])a 
-2.b2. , (|BU~a+DU6~a| PAP~a |BU~a+DU6~a| EZINU~a)a 
-3.a. 4(N01)# , [...] TUR# 
-280406	3.b1. , (3(N57) NUNUZ~a1)a 
-3.b2. , (3(N57) BU~a SZE~a)a 
-3.b3. , (NI~a SA~c)a 
-3.b4. , (GI4~a SZA3~a1# [...])a 
-4. [...] , [...] 
-1.a. [...] 1(N14) 1(N01) , 2(N57) [...] 
-280413	1.b1. [...] , [...] 
-1.b2. 2(N01) , GI 
-1.b3. 3(N02) , 
-2.a. [...] 1(N14)# 1(N01)#? , [...] 
-280418	2.b1. 4(N01)# [...] , [...] 
-1. [...] , [...] 
+250046	4. [...] , [...] 
+250049	1. [...] , [...] 
 1. , [...] PA~a 
 2. , SU~a PA~a 
 3. , SANGA~a# PA~a# [...] 
 1. [...] , [...] 
-1.a. [...] , [...] X MAH~a? 
-1.b. , [...] EN~a ZATU624~a NU 
-2.a. [...] 1(N01)# , GISZ3~b X 
-2.b. , AN KASKAL 
-3. [...] , [...] 
+250056	3. [...] , [...] 
 1. , GIR~a A [...] 
 1. [...] , [...] 
 1. [...] , [...] SIG2~b#? 
@@ -67233,15 +70190,7 @@ $ (not given)
 2. [...] , [...] 
 3. 2(N01)# [...] , [...] 
 1. [...] , [...] 
-1.a. [...] , [...] 
-1.b. [...] , [...] 
-2.a. [...] , [...] ZATU839 X 
-280445	2.b1. 2(N01)# , UDUNITA~a 
-2.b2. 4(N01) , NUN~b 
-3.a. [...] , [...] 
-280449	3.b1. 1(N01)# [...] , [...] 
-3.b2. [...] , [...] 
-1. [...] 1(N01)# , NI~a MAH~b ZATU839# 
+250072	1. [...] 1(N01)# , NI~a MAH~b ZATU839# 
 2. [...] 1(N01)# , X AN NI~a MUNSZUB~b#? 
 1. , 
 1. [...] , [...] X 
@@ -67309,17 +70258,9 @@ $ (not given)
 1. [...] , [...] 
 2. , AB~b NUNUZ~a2 
 1. [...] , [...] 
-1.a. [...] , [...] 
-280521	1.b1. [...] , [...] 
-1.b2. [...] 2(N02)# , X [...] 
-1.b3. 1(N02) , X X [...] 
-2. 1(N01) , BAR [...] 
+250141	2. 1(N01) , BAR [...] 
 1. [...] , [...] X RAD~a# [...] 
-1.a. 1(N14) 6(N01)# , MUN~a1# [...] 
-280528	1.b1. , [...] 
-1.b2. , U4 AN [...] 
-1.b3. , X [...] 
-1. [...] , [...] 2(N57)# MUN~a1# [...] 
+250144	1. [...] , [...] 2(N57)# MUN~a1# [...] 
 1. [...] , [...] 
 2. 2(N01) , X SAL [...] 
 3. 1(N01) , ZATU628~b# [...] 
@@ -67329,11 +70270,7 @@ $ (not given)
 2. , APIN~a# GIR3~c@g# ZATU839# [...] 
 1. [...] , [...] 
 2. [...] , [...] X 
-3.a. [...] 1(N01)#? , [...] X 
-3.b. 8(N01) , 
-4.a. [...] , [...] X 
-4.b. 1(N01) , 
-5. [...] 1(N01) , KU~b1# NI~a# 
+250156	5. [...] 1(N01) , KU~b1# NI~a# 
 6. [...] , [...] 
 1. [...] 1(N01)# , [...] 
 2. 2(N01)# , X [...] 
@@ -67341,22 +70278,10 @@ $ (not given)
 4. 1(N01)# [...] , [...] 
 1. [...] , [...] 
 1. [...] , [...] 
-2.a. [...] , [...] 1(N04)# SU~a# X 
-2.b. [...] , [...] 
-3.a. [...] , [...] X SU~a# 
-3.b. [...] , [...] 
-4. [...] , [...] 
+250166	4. [...] , [...] 
 1. [...] , [...] 
 1. [...] , [...] 
-1.a. [...] , [...] 
-1.b. , (BAHAR2~a#? EN~a# AN)a 
-2.a. [...] , [...] 
-2.b. , (EN~a AN)a 
-3.a. [...] , [...] 
-3.b. , (EN# 1(N57) BU~a)a 
-4.a. [...] , [...] 
-4.b. , (SANGA~a AB~b)a 
-1. [...] , [...] 
+250173	1. [...] , [...] 
 2. 1(N01)# [...] , [...] 
 3. 1(N01)# [...] , [...] 
 4. 1(N01)# [...] , [...] 
@@ -67365,26 +70290,13 @@ $ (not given)
 2. [...] , [...] X 
 3. 1(N01)# [...] , X [...] 
 1. [...] , [...] 
-2.a. 5(N01) , EN~a PA~a DI? 
-3.a. [...] , [...] 
-3.b. 4(N01) , X [...] 
-1. [...] , X [...] 
+250184	1. [...] , X [...] 
 2. [...] , ZATU628~a# [...] 
 1. [...] , [...] 
 2. [...] , [...] AB~a# TE# 
 3. [...] , [...] TUM~a 
 4. [...] , [...] 
-1.a. [...] , [...] 
-1.b. [...] , 
-2.a. [...] , [...] E2~a# X 
-2.b. 2(N01) , 
-3.a. [...] , [...] 
-3.b. [...] , 
-1.a. [...] , [...] 
-1.b. [...] , 
-2.a. 1(N50)# [...] , [...] 
-2.b. [...] , 
-1. [...] , [...] 
+250195	1. [...] , [...] 
 1. [...] , [...] 
 1. [...] 1(N01)# , GI6 GU4# KASZ~b#? SZA3~a1 
 2. [...] , [...] DU@g# NI~a 
@@ -67450,77 +70362,16 @@ $ (not given)
 4. , ERIM~a DU DA~a U4 
 1. , GA~a SANGA~a EN~a GAN2 
 2. , BA 
-1.a. 6(N01) , BA 
-280664	1.b1. , (HAL ME~a)a 
-1.b2. , (RU)a 
-1.b3. , (SZU ME~a)a 
-1.b4. , (SAG |GISZxSZU2~a| SZU)a 
-1.b5. , (3(N57) |EN2.E2~b|)a 
-1.b6. , (SAL BU~a)a 
-2.a. 1(N01) , PAP~a 
-2.b. , (TAK4~a KASZ~c)a 
-3.a. 1(N01) , GI 
-3.b. , (SZUBUR X)a 
-4.a. 1(N01) , TI PAP~a 
-4.b. , (MUNSZUB~b# GI)a 
-5.a. 1(N02) , 
-5.b. , (HI KASKAL)a 
-6.a. 1(N01) , GAL~a SZITA~a1 
-6.b. , (MU TUR)a 
-1. , RU |NINDA2xGUDU4| NUN~a 
+250267	1. , RU |NINDA2xGUDU4| NUN~a 
 1. [...] , [...] 
 1. [...] , [...] 
-2.a. 3(N01)# , BU~a# NUN~a# X SI 
-280685	2.b1. 1(N01)# , X SI4~f? EN~a#? 
-2.b2. 1(N01) , LAGAB~b SI 
-2.b3. 1(N01)# , SI TUR 
-3.a. 1(N01) , SI KU~b1 3(N57) KASKAL 
-3.b. 1(N01) , TUR SI KU~b1 
-4.a. 1(N01) , SI4~f KU~b1 TE IDIGNA SI BU~a 
-4.b. 1(N01) , SI GI LAGAB~b 
-5.a. 1(N01) , SI KU~b1 SI TE RAD~a@g 
-5.b. 1(N01) , SI LAGAB~b GISZ 
-6.a. 1(N01) , SI KU~b1 AB~b NUNUZ~a0 TE 
-6.b. 1(N01) , SI LAGAB~b GISZ 
-7. , SI4~f EN~a TE 
+250275	7. , SI4~f EN~a TE 
 1. [...] , [...] 
-2.a. [...] , [...] PAP~a KITI 
-280700	2.b1. [...] , [...] 
-2.b2. [...] , [...] X X 
-3.a. 1(N01) , SI KU~b1 ZATU795 LAM~b# 
-3.b. 1(N01) , TUR SI KU~b1 [...] 
-4. 1(N01) , SI KU~b1 PA~a E2~b 
-5.a. 3(N01) , RAD~a@g PA~a SI4~f GI 
-280707	5.b1. 2(N01) , SI4~f GI 
-5.b2. 1(N01) , SI4~f GI 
-6. 1(N01) , SI4~f GI IN~b AN PA~a 
+250279	4. 1(N01) , SI KU~b1 PA~a E2~b 
+250281	6. 1(N01) , SI4~f GI IN~b AN PA~a 
 7. , KALAM~a PA~a BU~a 
-1.a. 1(N14) 4(N01) , RAD~a 
-280713	1.b1. , A X NUN~a 
-1.b2. , X EN~a#? 
-2.a. 1(N14) 4(N01) , KITI# [...] 
-280717	2.b1. , ZATU795 LAM~b 
-2.b2. , E2~b#? X 
-2.b3. , [...] 
-1.a. 2(N14) , TE EN~a# 
-280722	1.b1. 1(N14) 7(N01) , BA 
-1.b2. 3(N01) , BA SI KU~b1 
-1.c. , SI4~f AN 
-2.a. 2(N14) , [...] 
-280727	2.b1. 6(N01) , BA 
-2.b2. 1(N14) 4(N01)# , SZE~a#? [...] 
-1.a. 3(N01) , ZATU841 SI 
-280731	1.aB1. 2(N01) , SI4~f# 
-1.aB2. 1(N01) , SI# TUR# 
-2.a. 1(N14) 7(N01) , SI KU~b1 AN SAG 
-280735	2.b1. 1(N14) 2(N01) , SI4~f# 
-2.b2. 1(N01) , SI LAGAB~a 
-2.b3. 4(N01) , TUR SI 
-3. 1(N01) , SI LAGAB~a AN SAG GI 
-4.a. 2(N01) , SI X [...] 
-280741	4.b1. 1(N01) , LAGAB~a 
-4.b2. 1(N01) , TUR# [...] 
-5. [...] , [...] 
+250289	3. 1(N01) , SI LAGAB~a AN SAG GI 
+250291	5. [...] , [...] 
 1. 4(N14) , SI4~f EN~a RAD~a@g [...] 
 1. [...] 1(N01)# , SZE~a URI3~a |BU~ax1(N58)| 
 2. 1(N01) , HI E2~b GA~a NUN~a 
@@ -67530,9 +70381,7 @@ $ (not given)
 6. 1(N01) , GISZ3~b U2~b 1(N02) 
 7. 1(N01) , SZU URI 
 8. 1(N01) , U4 AN URU~a1 A 
-9.a. 1(N01) , MA EN~a EZEN~b 
-9.b. 1(N01) , |UKKIN~bxDIN| 
-1. 3(N21) , DIM~a 
+250302	1. 3(N21) , DIM~a 
 2. , BA 
 3. 1(N01) , TUG2~a LA2 TE 
 4. 1(N01) , EN~a KAL~b2 MASZ 
@@ -67612,10 +70461,7 @@ $ (not given)
 1. , [...] X KASKAL 
 1. 1(N14) 4(N01) , SAL KISZ 
 2. 1(N14) 3(N01) , KUR~a KISZ 
-1.a. 2(N01) , KUR~a 
-280837	1.b1. , NA2~a? 
-1.b2. , NAM? 
-2. , ADAB PA~a 
+250383	2. , ADAB PA~a 
 1. 7(N01) , BA SAL KISZ 
 2. 6(N01) , SZA3~a2 
 3. 2(N01) , |U4x4(N57)| 
@@ -67707,14 +70553,7 @@ $ (not given)
 2. [N] , [...] 
 1. 1(N14) , KISZ |BU~a+DU6~a| ERIN EN~a X 
 1. 1(N14) , KISZ AMA~a? LAGAR~a EN~a SZU 
-1.a. 1(N01) , SU~a PAP~a 
-1.b. EN~a SI KI~a 
-2.a. NAMESZDA SANGA~a 
-2.b. ZABALA~a KI~a PA~a 
-3.a. NAGAR~a BU~a 
-3.b. URU~a1 PA~a BU~a 
-3.c. SANGA~a ZI~a 
-4. UB URI3~a |BAD+DISZ~a| EN~a 
+250478	4. UB URI3~a |BAD+DISZ~a| EN~a 
 1. 2(N34)#? 5(N14) 3(N01) , UDU~a 
 2. 1(N01) , GURUSZ~a? 
 1. BIR~a GAL~a UDU~a ZATU756 
@@ -67746,90 +70585,8 @@ $ (not given)
 1'. [...] 1(N14) 1(N01) , [...] 
 2'. , 1(N14)? , X 
 1. 3(N14) 3(N01) [...] , X X [...] 
-1.a. 2(N14) 2(N22) , UR5~a MA 
-1.b. 8(N01) , 
-2.a. 3(N14) , UNUG~a 
-2.b. 9(N01) , 
-3.a. 1(N14) , DUR2 GI ZATU703 
-3.b. 3(N01) , 
-4.a. [1(N14)] 1(N22)# , |GISZxSZU2~a| 
-4.b. 4(N01) , 
-5.a. [...] , [...] 
-5.b. [...] 1(N01)# , 
-1.a. [...] , [...] 
-1.b. [...] 2(N01)# , [...] 
-2.a. 1(N14) , BA ZATU694~c SAG 
-2.b. 3(N01) , 
-3.a. 2(N22) , NA~a RU NAR 
-3.b. 2(N01) , 
-4.a. 1(N14) , DAR~a NAM~d 
-4.b. 3(N01) , 
-5.a. 1(N14) , TAK4~a A GU# 
-5.b. 3(N01) , 
-6.a. [1(N14)] , [...] 
-6.b. 3(N01)# [...] , 
-1.a. 2(N22) , E2~a GI 
-1.b. 2(N01) , 
-2.a. 1(N14) , URI3~a IB~a 
-2.b. 3(N01) , 
-3.a. 1(N22) , NI~a GISZ3~b 
-3.b. 1(N01) , 
-4.a. 1(N22) , AN UR2 A 
-4.b. 1(N01) , 
-5.a. 1(N22) , LA2 AL 
-5.b. 1(N01) , 
-6.a. 1(N22) , AN BAR KA~a 
-6.b. 1(N01) , 
-7.a. 1(N22) , AN GI6 A 
-7.b. 1(N01) , 
-8.a. 1(N22)# , URUDU~a SZEG9? 
-8.b. 1(N01) , 
-9.a. 7(N14)# , [...] 
-9.b. 2(N14)# 1(N01) , 
-1.a. 1(N22) , KA~a 
-1.b. 1(N01) , E2~a 
-2.a. 1(N22) , MAR~a MA AN 
-2.b. 1(N01) , 
-3.a. 1(N14) , |DA~a.LISZ| PA~a 
-3.b. 3(N01) , 
-4.a. 1(N14) , ZATU628~b NI~a TAK4~a KI 
-4.b. 3(N01) , 
-5.a. 1(N14) , APIN~a 
-5.b. 3(N01) , 
-6.a. 1(N22) , SIG7# [...] 
-6.b. [1(N01)] , 
-7.a. [...] , [...] 
-7.b. [...] , [...] 
-1.a. [...] , [...] 
-1.b. [...] , [...] 
-2.a. [...] , [...] 
-2.b. [...] 8(N01)#? , [...] UDU~a MASZ 
-3. , [...] 
-1.a. 1(N14) , PAP~a SZU# 
-1.b. 1(N01) , 
-2.a. 1(N14) , ZATU839 2(N57) SZU DU NI~a 
-2.b. 1(N01) , 
-3.a. 1(N14) , UR2 NI~a KASZ~c 
-3.b. 1(N01) , 
-4.a. 1(N14) , MUD AN NI~a 
-4.b. 2(N01) , 
-5.a. 2(N22) , URI3~a IB~a 
-5.b. 1(N01) , 
-6.a. 1(N14) , 1(N57) NA~a 
-6.b. 2(N01) , 
-7.a. 1(N14) , LU2 GAN2 A 
-7.b. 2(N01) , 
-8.a. 1(N14) , SI4~f? 
-8.b. 2(N01) , 
-1.a. 1(N22) , DA~a# [...] 
-1.b. [1(N01)] , 
-2.a. 1(N22) , AN PIRIG~b1 KASZ~c 
-2.b. 1(N01) , 
-3.a. 1(N14) , EN~a TAK4~a A 
-3.b. 2(N01) , 
-4.a. 1(N22) , SAG A 
-4.b. 1(N01) , 
-5. , GAL~a GURUSZ~a 
+250539	3. , [...] 
+250552	5. , GAL~a GURUSZ~a 
 1. 9(N14) 2(N22) , GAN2 
 2. 1(N14) 7(N01) , UDU~a MASZ KI 
 3. , GAL~a GURUSZ~a 
@@ -67901,17 +70658,7 @@ $ (not given)
 2. 1(N01) , KUR~a U2~b 
 3. 2(N01) , ZATU694~c BAR GUG2 MA 
 4. , 
-1.a. 2(N14) 5(N01) , UDU~a 1(N57) BA 
-281127	1.b1. 1(N14) 1(N01) , UD5~a 
-1.b2. 4(N01) , UTUA~a 
-1.b3. 3(N01) , NUN~b 
-1.b4. 7(N01) , MASZ2 
-2.a. 2(N14) 2(N01) , KA~a |SZE~a.NAM2| 
-281133	2.b1. 1(N01) , U8 
-2.b2. 1(N14) , UD5~a 
-2.b3. 5(N01) , NUN~b 
-2.b4. 6(N01) , MASZ2 
-1. 1(N01) , U8 
+250626	1. 1(N01) , U8 
 2. 2(N14) 1(N01) , UD5~a 
 3. 4(N01) , UTUA~a 
 4. 8(N01) , NUN~b 
@@ -67994,10 +70741,7 @@ $ (not given)
 5. , EN~a BA [...] 
 1. [...] , [...] 
 2. 1(N01) , E2~a GU4 
-3.a. 2(N01) , KISZ 
-281222	3.b1. 1(N01) , KUR~a 
-3.b2. 1(N01) , SAL 
-4. 4(N34) , NE~a NUNUZ~a1 
+250710	4. 4(N34) , NE~a NUNUZ~a1 
 5. , |U4x3(N57)| [...] 
 1. [...] , [...] 
 2. [...] 4(N14)# [...] , [...] UD5~a# IM~a 
@@ -68009,13 +70753,7 @@ $ (not given)
 3. , IM~a PA~a ZATU669 IB~a 
 1. X [...] , IM~a# X [...] 
 1. [...] , [...] 
-2.a. [...] 1(N01)# , SAL# X X 
-2.b. , [...] X 
-3.a. 1(N01) , TUR KISAL~b1# 
-3.b. , [...] X 
-4.a. 1(N01) , KASKAL APIN~a 
-4.b. , NIM~a#? X [...] 
-5. 4(N01)# , X ERIM~a#? 
+250725	5. 4(N01)# , X ERIM~a#? 
 6. 1(N01) , X [...] 
 1. [...] , [...] 
 2. [...] 1(N01) , [...] 
@@ -68049,9 +70787,7 @@ $ (not given)
 2. 4(N14) 6(N01) , UD5~a# 
 3. [...] , [...] 
 1. [...] 4(N01)# [...] , [...] 
-1.a. 3(N01) , IM~a X SAG RAD~a 
-1.b. , [...] DA~a# 
-2. 2(N01) , SIG RAD~a 
+250760	2. 2(N01) , SIG RAD~a 
 3. [...] , [...] |AB~bxSZA3~a1|#? 
 1. [...] , [...] 
 2. 2(N01)# [...] , [...] 
@@ -68067,35 +70803,13 @@ $ (not given)
 3. 5(N01) , NE~a#? KU6~a SILA3~a 
 4. 1(N01) , ANSZE~b? UDU~a#? 
 5. 1(N01) , UR2 SILA3~a 
-6.a. 2(N14)# 7(N01) , X SZITA~a1 
-281296	6.b1. 1(N14) 5(N01) , |SZITA@g~ax1(N06)| 
-6.b2. 1(N14) , SZITA~a1 UDU~a#? 
-6.b3. 2(N01) , |ZATU714xX|# 
-1. 5(N01) , KU6~a SILA3~a 
+250777	1. 5(N01) , KU6~a SILA3~a 
 2. 1(N01) , DU8@g~c#? 
 3. 2(N01) , |(SZAxHI@g~a)~a|? 
 4. , MU BA 
 1. , 
 1. , 
-1.a. 3(N01) , 1(N26) 
-1.b. 1(N42~a) , 
-281308	2.a1. 2(N01) , DU8~c 
-2.a2. 2(N01) , ZATU726~d 
-2.a3. 2(N01) , SIG2~a1 
-2.b. 1(N25) 1(N28~c) , 
-3.a. 5(N01) , ZATU845 
-3.b. 1(N30~c) , 
-4.a. 1(N14) , 4(N57) GAR 
-4.b. 1(N42~a) , 
-5.a. 5(N01) , SZA@g 
-5.b. 1(N28~c) , 
-1.a. 5(N01) , |(SZAxHI@g~a)~a| 
-1.b. 1(N28~c) , 
-2.a. 5(N01) , DU8~c@g 
-2.b. 1(N28~c) , 
-3.a. 5(N01) , SAG TUG2~a#? 
-3.b. 1(N25)? , 
-4. 1(N39~a) 1(N57) 1(N39~a) 1(N24) 1(N26) , SZE~a 
+250791	4. 1(N39~a) 1(N57) 1(N39~a) 1(N24) 1(N26) , SZE~a 
 1. 2(N01) , SUHUR BA 
 2. 3(N01) , 4(N57) SUHUR 
 3. 1(N08) 1(N57) 1(N08) , MU SZESZ~a MAH~a GIR~b 
@@ -68108,14 +70822,8 @@ $ (not given)
 4. 1(N01) , UDU~a |MAH~axX| 
 5. 1(N08) , AB~b GIR~b 
 6. 4(N08) , |(SUKUD+SUKUD)~b| X 
-1.a. 1(N39~a) 1(N24) , ZATU714 
-281339	1.b1. 1(N24) , ZATU714? 
-1.b2. 1(N39~a) , HI@g~a 
-2. , MU 
-1.a. 1(N14)# 8(N01) , X 
-281344	1.b1. 8(N01) , SUHUR@n# 
-1.b2. 1(N14) , SUHUR# 
-2. 2(N01) , |GA2~a1xU4| 
+250805	2. , MU 
+250807	2. 2(N01) , |GA2~a1xU4| 
 3. 2(N14)# , |(SUKUD+SUKUD)~d| 
 4. [...] 4(N01)# , [...] ABGAL# ZAG~a# 
 5. 2(N14) , 1(N57) ZAG~a 
@@ -68143,107 +70851,46 @@ $ (not given)
 5. 1(N14) , 1(N57) ZAG~a 
 6. , DU |ZATU737xSAL| 
 1. , 
-1.a. 1(N01) , U4# U8# NE~a# URI3~a#? X GA2~a1#? 
-281376	1.b1. 1(N01) , X 
-1.b2. 1(N01) , X X 
-2.a. 1(N01) , UD5~a# X BU~a# 
-2.b. , X 
-3.a. 1(N01) , X X 
-3.b. 1(N01) , X 
-4.a. 1(N01) , X X 
-4.b. , X X 
-5.a. 1(N01) , UDUNITA~a# X 
-5.b. , KISZIK~a X X 
-6.a. 1(N01) , U8# EN~a X 
-6.b. , X 
-7.a. 1(N01) , UD5~a# MUD BU~a 
-7.b. , X X 
-8.a. 1(N01) , UDUNITA~a#? X 
-8.b. , UR2 X KI 
-9.a. 1(N01) , UDUNITA~a#? BU~a GI 
-9.b. SZU# E2~a# X ME~a# 
-10.a. 1(N01) , UD5~a# MUD# X X 
-10.b. , X X 
-1.a. 1(N01) , UDUNITA~a# SZU#? [...] 
-1.b. , X ME~a# 
-2.a. 1(N01) , X X 
-2.b. , X [...] 
-3.a. 1(N01) , X EN~a# 
-3.b. , X [...] 
-4.a. 1(N01) , UDUNITA~a# X BU~a 
-4.b. , MAR~a# X [...] 
-5.a. 1(N01) , SAL# NE~a# X 
-5.b. , X X 
-6.a. 1(N01) , GI6# ESZGAR# TUR# TI X 
-6.b. , [...] 
-7.a. 1(N01) , KIR11# KASKAL# X 
-7.b. 1(N01) , X 
-8. 1(N01) , GI6# ESZGAR# KASKAL# X X 
+250852	8. 1(N01) , GI6# ESZGAR# KASKAL# X X 
 9. 1(N01) , KIR11# X MUSZ3~a#? HAL#? 
 10. 1(N01) , KIR11# 3(N57) A TE A KU3~a 
 11. 1(N01) , NE~a UDUNITA~a NIMGIR 
 12. 1(N01) , [...] X EN~a# SI KI 
 13. 1(N01)# , U4# UDUNITA~a# EN~a# EN~a# BU~a# X 
-1.a. 1(N01) , U4 GU U8 GI 
-1.b. , GAL~a ZATU751~a 
-2. 1(N01)# , KIR11 HI U2~b X PAP~a 
-3.a. 1(N01) , U4 SILANITA SZU SANGA~a X 
-3.b. , GA2~a2 LAGAB~b 
-4.a. 1(N01) , GI6 SILANITA PAP~a 
-4.b. , GA2~a2 LAGAB~b 
-5.a. 1(N01) , SILA4~c DIM~a 
-5.b. , |LAGAB~bxSUH3| ME~a 
-6.a. 1(N01) , DARA4~a1 UD5~a X X RU 
-6.b. , UDU~a SZE3 
-7.a. 1(N01) , KIR11# NE~a X X 
-7.b. , GA2~a2# LAGAB~b# 
-8. 1(N01) 1(N08) , U8 KU~b1 UR~a 
+250859	2. 1(N01)# , KIR11 HI U2~b X PAP~a 
+250865	8. 1(N01) 1(N08) , U8 KU~b1 UR~a 
 9. 1(N02)? , SILA4~c KUR~a SZUBUR AN MUSZ3~a 
 10. 1(N01) , X ESZGAR DIM~a X 3(N57) NAGA~a 
 11. 1(N01) , KIR11 X X 
-1.a. 1(N01) , GI6 MASZ2 GI6 
-1.b. , X 
-2. 1(N02)? , MASZ2 GI BU~a# X GAL~a 
+250870	2. 1(N02)? , MASZ2 GI BU~a# X GAL~a 
 3. 1(N01) , U4 SILANITA X NIM~b1 GAL~a 
 4. 1(N01) , GI6 MASZ2 NIM~b1? GAL~a |GA2~a2xNIM~b1|? PA~a? 
 5. 1(N01) , SILANITA E2~a EN~a GAL~a ME~a X 
-6.a. 1(N01) , KIR11 AN SZU HI 
-6.b. , GA2~a2 LAGAB~b 
-7. 1(N01) , KIR11 E2~a# ZATU786# X 
+250875	7. 1(N01) , KIR11 E2~a# ZATU786# X 
 8. , X EN~a X NIM~b1# BA# 
 1. 4(N14) 6(N01) , UDU~a EN~a NIM~b1 PA~a KI 
 1. 3(N01) , ZATU710 
 2. 2(N39~a) 1(N24) , AB~a |LAGAB~axBIR3~b|? GAR 
 3. 1(N24) , BAR#? |(SZAxHI@g~a)~a|#? 
-4.a. 1(N14)#? , GAR U2~a 
-4.b. 1(N42~a) , 
-5. , SZE~a#? 
+250882	5. , SZE~a#? 
 1. 2(N39~a) 1(N24) , AB~a |LAGAB~axBIR3~b|? GAR 
 2. 1(N39~a) , GUG2? 
 3. 1(N24) , |(SZAxHI@g~a)~a| 
 4. , HI@g~a 
 1. 3(N01) , ZATU710 SI ME~a 
-2.a. 3(N14) , GAR SI ME~a 
-2.b. 3(N42~a)? , 
-1. 1(N14) 1(N01) 2(N39~a) , SZE~a 
+250889	1. 1(N14) 1(N01) 2(N39~a) , SZE~a 
 2. 4(N39~a) , HI@g~a 
 1. 1(N14) 2(N01) 1(N39~a) , SZE~a HI@g~a KU6~a KISAL~b1 
 1. 4(N01) SZE3 UDU~a 
 2. 9(N01)# , DARA4~c2 
 3. [...] 1(N01)# , ZATU628~a# 
 4. 2(N14) 4(N01) , MASZ2 MASZ 
-5.a. 1(N14) 1(N01) , |U4x1(N57)| BAR 
-281466	5.b1. 5(N01) , SILA4~c 
-5.b2. 6(N01) , MASZ 
-6. 2(N14) 5(N01) , ZATU847 SA~c 
+250897	6. 2(N14) 5(N01) , ZATU847 SA~c 
 7. 2(N14)# 5(N01) , SA~c UR2 DA~a X 
 1. 1(N01) , SZE3 UDU~a 
 2. 1(N14) 6(N01) , UDUNITA~a#? 
 3. 3(N01) , UD5~a 
-4.a. 9(N01) , |U4x1(N57)| BAR 
-281475	4.b1. 4(N01) , SILA4~c 
-4.b2. 5(N01) , MASZ 
-5. 1(N14) 5(N01) , ZATU847 SA~c 
+250903	5. 1(N14) 5(N01) , ZATU847 SA~c 
 6. 1(N14) 5(N01) , SA~c UR2 
 7. , ZATU848 
 1. 5(N01) , UDU~a SZE3 
@@ -68251,9 +70898,7 @@ $ (not given)
 3. 1(N14) 2(N01) , ZATU628~a 
 4. 2(N14) 4(N01)# [...] , UD5~a MASZ2# 
 5. 2(N14) , MASZ LAGAB~b# [...] 
-6.a. 4(N14) , ZATU847 SA~c 
-6.b. 3(N14) , UR2 
-1. 1(N34)# 2(N14) 9(N01) , SU~a 
+250912	1. 1(N34)# 2(N14) 9(N01) , SU~a 
 2. 1(N34) 2(N14) , SA~c UR2 ZATU847 
 3. , KU6~a# KISAL~b1 BA 
 1. 1(N05) , HI@g~a 
@@ -68304,15 +70949,7 @@ $ (not given)
 3. X , X X 
 4. , X X 
 5. , |SZE~a.NAM2| UDU~a 
-281540	1.a1A. 4(N01) , SZE~a 
-281542	1.a1B1. 1(N01) , UD5~a 
-1.a1B2. 3(N01) , MASZ2 
-1.a2. 4(N34) 4(N14) 2(N01) , DUB~a BA UDU~a 
-281546	1.b1. 2(N34) 2(N14) 4(N01) , DARA4~c2 
-1.b2. 1(N34) 5(N14) 6(N01) , MASZ2 UD5~a 
-1.b3. 2(N14) 2(N01) , SZE3 UDU~a 
-1.c. 1(N34)# 2(N14) 1(N01) , |U4x1(N57)| BAR 
-2. 6(N01) , |SZE~a.NAM2| DARA4~c2 UDU~a 
+250964	2. 6(N01) , |SZE~a.NAM2| DARA4~c2 UDU~a 
 3. , |DU8~cxUDU~a| DA~a PA~a# [...] 
 1. 2(N14) 5(N01) , U8 
 2. 2(N14) 5(N01) , UDUNITA~a 
@@ -68333,16 +70970,7 @@ $ (not given)
 3. 1(N01) , AN SAL EN~a RU BU~a E2~a 
 4. 1(N01) , KUR~a DUB~a PAP~a GISZ E2~b? 
 1. [...] , [...] 
-281572	2.a1. [...] 2(N01)# , SAL KISZ# 
-2.a2. [...] 2(N01)# , KUR~a# 
-2.b. , KUR~a RU 
-281576	1.a1. 1(N01) , SAL 
-1.a2. 1(N01) , KUR~a 
-1.b. , ERIM~a SAGSZU 
-281580	2.a1. 1(N01) , SAL# 
-2.a2. 1(N01) , KUR~a# 
-2.b. , [...] 
-1. 1(N01) , SAL 
+250988	1. 1(N01) , SAL 
 2. 1(N01) , KUR~a 
 3. , ERIM~a MUSZEN# X [...] 
 1. 2(N01) , SAL 
@@ -68373,19 +71001,14 @@ $ (not given)
 3. , KU6~a KISAL~b1 MUD NA~a BU~a 
 1. , |URU~a1xGU4|#? 
 1. , 
-1.a. 1(N01) , SZUBUR# X SI SAG 
-1.b. , KASZ~c U2~a EN~a AMAR SANGA~a [...] 
-2. 1(N01) , U4 TUG2~a# BUR2 
+251020	2. 1(N01) , U4 TUG2~a# BUR2 
 3. , 
 1. , 
 1. [...] 1(N39~a)# , [...] X 
 2. 1(N14) 3(N39~a)# , |U4x1(N14)| SIG7 NAGA~a#? 
 3. 2(N01) , AN BIR3~b? NUNUZ~a1 
 4. 6(N14) , |EZEN~axSU~a| 
-5.a. 6(N14)# 3(N01) 3(N39~a) 1(N24)# 1(N28)# , [...] 
-281625	5.b1. 6(N14) 1(N24) 1(N28) , SZU UR5~a 
-5.b2. 3(N01)# 3(N39~a)#? 1(N24) , TAR~a 
-6. , SZE~a GU7 
+251028	6. , SZE~a GU7 
 1'. [...] , [...] X 
 2'. , GU7 
 1. [...] , [...] 
@@ -68397,9 +71020,7 @@ $ (not given)
 1. [...] , [...] U8# 
 2. [...] 1(N01)# , UD5~a# 
 3. 8(N01) , UTUA~b 
-4.a. , NE~a DU A TE 
-4.b. , KISZ DU ISZ~b 
-1. , 
+251041	1. , 
 1. , 
 1. 5(N14) MAR~a 
 2. 3(N14) 2(N22)? , AN SZU2 EN~a 
@@ -68466,37 +71087,12 @@ $ (not given)
 6. 1(N01)# , X NU [...] 
 7. 1(N01)# , BU~a# [...] 
 8. 1(N01)# , X UB [...] 
-1.a. 3(N14) , [...] 
-281710	1.b1. 4(N01) , UDU~a#? MU#? 
-1.b2. 1(N01) , NA~a NI~a 
-1.b3. X , PIRIG~b1# 
-1.b4. X , AN# [...] 
-281715	1.c1. 1(N01)# , X X 
-1.c2. 1(N01)# , X GADA~a 
-1.c3. 1(N01)# , TILLA2#? PA~a# KISZIK~a#? 
-1.c4. 1(N14)# , X 
-2.a. 1(N14) 8(N01) , BA KI 
-281722	2.b1A. 1(N14) 3(N01) , DA~a PA~a |DU8~cxUDU~a| 
-281724	2.b1B1. 2(N01)# , U8#? [...] 
-2.b1B2. 1(N01)# , [...] 
-2.b1B3. 4(N01) , UDUNITA~a#? [...] 
-2.b1B4. 6(N01) , MASZ2#? 
-281729	2.b2A. 5(N01) , GURUSZDA 
-281731	2.b2B1. 2(N01) , U8? [...] 
-2.b2B2. 1(N01) , SZE3 UDUNITA~a#? 
-2.b2B3. 2(N01) , X [...] 
-1. 4(N14) 8(N01)# , UDU~a GURUSZDA BAR U4 1(N58) X 
+251110	1. 4(N14) 8(N01)# , UDU~a GURUSZDA BAR U4 1(N58) X 
 1. [...] , [...] 
 2. [...] , [...] 
 3. 1(N01)# , X [...] 
 4. 2(N01)# , PA~a# GU4 
-5.a. 6(N01)? , X 
-281741	5.b1. 2(N01) , ZATU786 
-5.b2. 2(N01) , X GU4# 
-5.b3. 1(N01) , X 
-5.b4. 1(N01) , GU4 SZU ZATU857 
-5.b5. , 
-1. [...] , [...] X GU4# APIN~a 
+251116	1. [...] , [...] X GU4# APIN~a 
 1. 4(N01) , GU4 APIN~a 
 2. 6(N01) , GU4 ZATU718# 
 1. 1(N14) , GU4 ZATU718# APIN~a# 
@@ -68511,13 +71107,7 @@ $ (not given)
 4. , GU7#? 
 5. 2(N14) , 3(N57) SANGA~a |(UDU~axTAR)~b| 
 1. 1(N45) 2(N14) , 
-1.a. 1(N50) 5(N14) , SZE~a GAN2 
-1.b. 5(N14) , SZE~a 
-2.a. 1(N50) , SZE~a 
-2.b. 5(N19) , 
-3.a. 5(N50) 5(N14) , GAN2 
-3.b. 1(N36) , 
-1. [...] , [...] 
+251134	1. [...] , [...] 
 2. [...] 1(N34)# [...] , [...] SZE~a# 
 1. 3(N34) 4(N14) , ERIM~a NAGA~a KISZ RAD~a 
 1. [...] , [...] 
@@ -68542,117 +71132,23 @@ $ (not given)
 1. 5(N14) 1(N01) , 
 2. 1(N14) 5(N01) , 
 1. 1(N34) 6(N01) , KISZ KI 
-1.a. 5(N14) 9(N01) , KISZ ZATU758? 
-1.b. 1(N02) , 
-2.a. 5(N14) 4(N01)# , X 
-2.b. 4(N02)#? , 
-3. 9(N01)#? , X 
-1.a. 2(N34) 2(N01) , KISZ 
-1.b. 5(N02)? , 
-1.a. [3(N34)] 4(N14)# , [1(N57)] APIN~a# GA~a KI ZATU714# SZAGAN#? [...] 
-1.b. 2(N34) , 1(N58) 
-1.c. 3(N34) , [1(N57)] 
-1.d. 1(N34) 1(N14) , 1(N58) 
-2.a. [6(N34)] 4(N14) , [1(N57)] MUSZ3~a# ME~a SZA3~a1# 
-2.b. 3(N34) 4(N14) , 1(N58) 
-2.c. 4(N34) , 1(N57) |GIR3~cxKAR2| SZA3~a1 
-2.d. 3(N34) 2(N14) 5(N01) , 1(N58) 
-3.a. 3(N34) , 1(N57) SZA3~a1 AL 
-3.b. 1(N34) , 1(N58) 
-3.c. 3(N34) , 1(N57) 
-3.d. 1(N34) 2(N14) , 1(N58) 
-4.a. 4(N34)# , [1(N57)] ME~a SZA3~a1 MUSZ3~a |GIR3~cxKAR2| APIN~a 
-4.b. 1(N34) 2(N14) , 1(N58) 
-4.c. 3(N34) 3(N14) , BAR 1(N57) 
-4.d. 1(N34) 1(N14) , 1(N58)# 
-5.a. [3(N34)] 3(N14)#? , [1(N57)] AL KI 
-5.b. 1(N34) , 1(N58)? 
-5.c. 3(N34) , 1(N57)? 
-5.d. 3(N14) , 1(N58) 
-6. , [...] MUSZ3~a# ME~a GAN2# SZA3~a1# 
-281821	1.a1. [3(N34)] 2(N14)# , [1(N57) ...] SZAGAN# X 
-1.a2. 1(N34)# 3(N14) , 1(N58) 
-1.b. 1(N50) X , GAN2 [...] 
-281825	2.a1. [...] , [1(N57)] MUSZ3~a# [...] X 
-2.a2. 3(N34)# 3(N14) 2(N01)# , 1(N58) 
-281828	2.b1. 3(N50) , HI GAN2 
-2.b2. 7(N14) 1(N22)? , BAR#? 
-281831	3.a1. 3(N34)# , [1(N57)] , [...] X [...] 
-3.a2. 1(N34) 1(N14) , 1(N58) 
-281834	3.b1. 7(N14) , GAN2 X [...] 
-3.b2. 1(N14) , KI#? BAR#? 
-281837	4.a1. 3(N34)# 4(N14) 5(N01)# , ME~a MUSZ3~a# |GIR3~cxKAR2| SZA3~a1# [...] 
-4.a2. 1(N34)# 1(N14) 5(N01)# , 1(N58) 
-281840	4.b1. 1(N50) , GAN2 X 
-4.b2. 3(N14)#? X , KI AL 
-281843	5.a1. 3(N34)# 1(N14) 5(N01) , 1(N57) KI# AL# 
-5.a2. 4(N14) 5(N01) , 1(N58) 
-5.b. 5(N14) , GAN2 X 
-6. , X MUSZ3~a# GAN2# ME~a# SZA3~a1 
-1.a. [3(N01)] , KISZ# DILMUN 
-281849	1.b1. [2(N57)] , SAL# 
-1.b2. [1(N57)] , |U4x2(N57)|# LAM~b 
-1.b3. , KUR~a RU MA ZATU694~c ZATU683@t? NUNUZ~a1 
-1.b4. , UH3~a 
-2.a. 3(N01) , KISZ ZATU849 A 
-281855	2.b1. 2(N57) , SAL 
-2.b2. 1(N57) , SAL ANSZE~a 
-2.b3. , EN~a BU~a 
-2.b4. , UDU~a AN ZATU752 
-1.a. 3(N01) , SZA3~a1 UNUG~a BU~a DU SANGA~a 
-281861	1.b1. 1(N57) , SAL U4 
-1.b2. 1(N57) , SAL |U4x3(N57)| 
-1.b3. 1(N57) , |U4x2(N57)| LAM~b 
-1.b4. , SZUR2~a 
-2.a. 3(N01) , KISZ ZATU849 A SANGA~a 
-281867	2.b1. 1(N57) , SAL 
-2.b2. 1(N57) , |U4x3(N57)| LAM~b 
-2.b3. 1(N57) , |U4x2(N57)| LAM~b 
-2.b4. , DIM~a 
-2.b5. , SZUR2~a 
-1. 6(N01)# , KISZ#? 
+251161	3. 9(N01)#? , X 
+251168	6. , [...] MUSZ3~a# ME~a GAN2# SZA3~a1# 
+251174	6. , X MUSZ3~a# GAN2# ME~a# SZA3~a1 
+251179	1. 6(N01)# , KISZ#? 
 2. 2(N01)# , SAL# AMAR# 
 3. 4(N01)# , LAM~b# AMAR# 
 4. , [...] 
 1. 1(N14)# 2(N01)# , LAGAB~b# TE# KISZ# AMAR#? SANGA~a# GAL~a# SZITA~a1 X X [...] 
-281878	1.a1. 1(N45) , SZE~a 
-1.a2. , ZATU811 |BU~axGISZ@t|? 
-1.b. , EN~a U4 SI#? 
-281882	2.a1. 1(N36) 1(N46) , KALAM~a PA~a 
-2.a2. , ERIN SZAGAN 
-2.b. , PA~a 
-281886	3.a1. X , X X 
-3.a2. , X X 
-3.b. , KU6~a AB~b AB~b 
-281890	4.a1. 3(N14) , E2~b# NAGA~a 
-4.a2. , SZAGAN# SZU ME~a 
-4.b. , SI? 
-281894	1.a1. 7(N14)# 3(N01) , SZE~a 
-1.a2. 1(N36)# 1(N46)# , SZAGAN |GI&GI| 
-1.b. , AB~a ME~a GI? 
-281898	2.a1. 1(N34) , SZE~a AB~a 
-2.a2. 3(N14) 3(N01) , BAR 
-2.a3. 3(N19) [...] , [...] 
-2.b. , X X 
-281903	3.a1. [...] , [...] 
-3.a2. [...] , [...] 
-3.b. , NAR 
-4.a. 3(N19) , E2~b NAGA~a 
-4.b. , SILA4~c GAL~a 
-1. 1(N34) 2(N45) 4(N14) , SZE~a 
-2.a. 3(N36) 1(N46) 8(N19) 1(N04) , 
-2.b. , EN~a |SILA3~axSZU2| A SI 
-3. , GIBIL NAR NAGA~a U4 
+251192	1. 1(N34) 2(N45) 4(N14) , SZE~a 
+251194	3. , GIBIL NAR NAGA~a U4 
 1. , NAGAR~a ZI~a SANGA~a 
 2. , 
 1. 4(N14) , SZE~a# 
 2. 9(N19) 3(N04) , 
 3. , ARARMA2~a GIBIL NAR NAGA~a 
 1. , NAGAR~b# ZI~a# SANGA~a# 
-281919	1.a1. 4(N14)# , SZE~a# 
-1.a2. 6(N19)# 3(N04)# , 
-1.b. , GIR3~c#? 
-2. 3(N19)# , PAP~a# U4# SZE3#? 
+251202	2. 3(N19)# , PAP~a# U4# SZE3#? 
 3. , ARARMA2~a 
 1. , APIN~a# UNUG~a# 
 2. , 
@@ -68662,18 +71158,10 @@ $ (not given)
 1. [...] 2(N34)# 2(N14)# [...] , X X [...] 
 2. 2(N34)# [...] , X X 
 3. , SAL PU2#? EN~a# X [...] 
-1.a. [...] 1(N14)# 2(N01)# , X X 
-1.b. 1(N14)# , X 
-2.a. [...] , [...] X 
-2.b. 5(N01)# , UR~a MU 
-3. 1(N14)# 5(N01)# , 3(N57)# BAN~b 
+251214	3. 1(N14)# 5(N01)# , 3(N57)# BAN~b 
 4. 1(N14)# 3(N01)# , E2~a#? X 
 1. 6(N34) 2(N14) 3(N01) , DARA4~c2 |DU8~cxUDU~a|# SANGA~a NUN~a GAL~a SZITA~a1 
-1.a. 6(N01) , HI UDU~a# 
-281941	1.b1. 3(N01)# , U8#? [...] 
-1.b2. 1(N01) , UD5~a 
-1.b3. 2(N01) , NUN~b 
-2. 1(N01) , GAL~a SUHUR@g 
+251218	2. 1(N01) , GAL~a SUHUR@g 
 3. 2(N01) , SUHUR 
 4. 3(N01) [...] , SUHUR# [...] 
 1. [...] , [...] 
@@ -68681,9 +71169,7 @@ $ (not given)
 3. 2(N14) 4(N01) , SZITA@g~b 
 4. 2(N01) , SZU SZA3~a1 SILA3~a 
 5. 1(N01) , |TA~dxMASZ| SILA3~a 
-6.a. 4(N34) [...] , [...] 
-6.b. 3(N14) , NI~a# LU2? [...] 
-1. [...] , [...] X 
+251227	1. [...] , [...] X 
 1. [...] , [...] 
 2. , [...] EN~a#? X U4#? X 
 1. 2(N01) , 1(N26) 
@@ -68736,10 +71222,7 @@ $ (not given)
 8. 5(N01)? , X [...] 
 1. [...] , X [...] 
 2. , X [...] 
-1.a. 3(N34)# 3(N14)# 7(N01)# , LAGAB~b GU7 SUHUR# |GA2~a1xSUKUD| GU7#? 
-282009	1.b1. 3(N34)# 1(N14)# 4(N01)# , SUHUR# 
-1.b2. 2(N14)# 3(N01)# , |GA2~a1x(SUKUD&SUKUD)~b|# 
-2. , [...] 
+251281	2. , [...] 
 1. [...] 1(N50)# , [...] GAL~a# 
 2. 2(N50) , GAL~a ZATU687 
 3. 1(N50) , ME~a UR4~b KID~b 
@@ -68770,13 +71253,7 @@ $ (not given)
 3. [...] , [...] 
 1. [...] , [...] 
 1. 1(N63)# 4(N50) 7(N45) 2(N50) 5(N14) , GAN2 |GI&GI| UR3~a3? [...] 
-1.a. 1(N46) 1(N20) 3(N05) , HI@g~a 
-282044	1.b1. 5(N05) 1(N42~a) , HI@g~a GU7 
-1.b2. 1(N46) 3(N05) 4(N42~a) , BA 
-2.a. 1(N46) 2(N20) 4(N05) 3(N42~a)# , SZE~a 
-282048	2.b1. 1(N20) 5(N05) 3(N42~a) , GU7 SZE~a 
-2.b2. 1(N46) 5(N05) , SZE~a BA 
-1. 2(N46) 4(N20) 1(N05) 3(N42~a) , HI@g~a#? SZE~a# UR5~a SZU GI 
+251314	1. 2(N46) 4(N20) 1(N05) 3(N42~a) , HI@g~a#? SZE~a# UR5~a SZU GI 
 1. , 
 1. 1(N34) 2(N01) , 1(N39~a) 
 2. 1(N51) 2(N01) , 1(N24) 
@@ -68784,15 +71261,7 @@ $ (not given)
 4. 5(N51)#? 1(N14)#? 2(N01)#? , 1(N29~a)#? 
 5. 1(N54)# 5(N51)# , [...] 
 6. , 
-1.a. 1(N14) , |NINDA2x1(N01)| 
-1.b. 1(N20) 4(N05)# , 
-2.a. 1(N34) , 2(N39~a)#? 
-2.b. 4(N20)# , 
-3.a. 6(N51)# , DU8~c? 
-3.b. 4(N20)# 4(N05)# 4(N42~a)# , 
-4.a. 5(N51)# , X DU8~c 
-4.b. [...] , 
-1. 2(N20)# 3(N42~a)#? [...] , [...] 
+251326	1. 2(N20)# 3(N42~a)#? [...] , [...] 
 2. 2(N20)# X 1(N25) , [...] 
 3. 2(N20)# 4(N05)# , [...] 
 4. 5(N20) 2(N42~a) 1(N25) 1(N28~c) , [...] 
@@ -68814,39 +71283,9 @@ $ (not given)
 5. , SAR~a X KU3~a# 
 1. 2(N45) 4(N01) , SZE~a TAK4~a A 
 1. , 
-1.a. [...] , [...] AB~b# X URU~a1 
-282090	1.b1. 6(N01) , X 
-1.b2. 5(N01) , 
-2.a. 3(N01)? , EN~a GI 
-2.b. , |U4x1(N57)| KASZ~c 
-2.c. 1(N02) , 
-3.a. 2(N01)? , KASZ~c SZUBUR HI@g~a 
-3.b. 2(N02) , 
-4.a. [...] , [...] X 
-4.b. 1(N02) , 
-5.a. [...] , [...] X 
-5.b. 1(N02) , 
-1. 1(N01)# [...] , X ZATU795 GIR~a KISAL~b1#? 
+251353	1. 1(N01)# [...] , X ZATU795 GIR~a KISAL~b1#? 
 2. , SAG# [...] 
-3.a. 1(N01) , X 
-3.b. 1(N08) , X 
-1.a. [...] , [...] 
-1.b. , |U4x1(N14)|# 
-1.c. 5(N01)#? , 
-1.d. 2(N02)#? , 
-2.a. [...] 2(N08)# , UDU~a 
-2.b. , |U4x1(N14)| 
-2.c. 3(N01) , 
-2.d. 3(N02) , 
-3.a. 1(N01) 1(N08) 1(N08~v) , X 
-3.b. , |U4x1(N14)| 5(N08) 
-3.c. 5(N01)# , 
-3.d. 3(N02) , 
-4.a. , |U4x1(N01).5(N08)| [...] 
-4.b. 1(N14) 4(N01)# , LAGAB~b? [...] 
-4.c. [...] 3(N01)#? , [...] 
-4.d. [...] , 
-1. 1(N34) 1(N14) 3(N01) , SZE~a [...] 
+251360	1. 1(N34) 1(N14) 3(N01) , SZE~a [...] 
 2. 2(N45)? [...] , X 
 1. 1(N34)# 2(N45)# 5(N14)#? X , [...] 
 1. [...] 4(N14)# 3(N01)#? , SZE~a [...] 
@@ -68882,12 +71321,7 @@ $ (not given)
 4. 4(N01)# , KUR~a SILA4~c# 
 5. X U8 GI 
 1. 3(N14) 3(N01) , SZE3 UDU~a# X 
-1.a. 5(N01)#? , [...] X X SAL MASZ2 
-282159	1.b1. , [...] X U4 
-1.b2. , MASZ2 DU X X 
-1.b3. , MASZ2 GISZ3~a#? 
-1.b4. , MASZ2 PA~a 
-2. 2(N01) , [...] X MASZ2# |U4x3(N57)| 
+251397	2. 2(N01) , [...] X MASZ2# |U4x3(N57)| 
 3. [...] , X UMUN2 
 4. 1(N01) , UD5~a TUR3~a ME~a 
 5. 1(N01)# , |U4x3(N57)| PIRIG~b1? 
@@ -68905,15 +71339,7 @@ $ (not given)
 5. 3(N01)# , SILA4~c#? X 
 6. , AN X [...] 
 1. , 
-1.a. , I UDU~a 
-1.b. , GIR3@g~b AN GU 
-2.a. , I# 
-2.b. , HAL PAP~a 
-3.a. , I# 
-3.b. , SZU GI 
-4.a. , I# 
-4.b. , LUGAL X 
-5. , [...] X SAG#? X [...] 
+251419	5. , [...] X SAG#? X [...] 
 1. , I GIR3~c#? 
 2. , I EN~a SZA3~a1 HI 
 3. , I BAHAR2~b 
@@ -68975,9 +71401,7 @@ $ (not given)
 2'. 4(N04)#? , X 
 3'. [...] , [...] 
 1'. N , UDU 
-2.a'. 2(N01)#? , X 
-2.b'. 2(N39~a) , HI@g 
-3'. N , X 
+251482	3'. N , X 
 4'. 1(N01) , X X X 
 1'. 1(N01)#? , X [...] 
 2'. N , X X 
@@ -69012,35 +71436,20 @@ $ (not given)
 1. 1(N45)# , GI# [...] 
 2. 1(N45) 4(N14) , SI# SZE~a# [...] 
 3. 1(N45) 6(N14) , [...] NAM2 
-4.a. 2(N14) 2(N01) , EN~a NE~a 
-4.b. 6(N14) , LAGAB~b X 
-1. [...] , [...] 
+251518	1. [...] , [...] 
 2. , [...] SZE~a GIBIL# 
 1. , 
-1.a. 1(N45) 2(N14) , SZE~a KU6~a KISAL~b1 
-282295	1.b1. 1(N46) 1(N19)# , [...] 
-1.b2. 4(N19)# , [...] 
-2.a. 1(N45)# 1(N14)# [...] , SZE~a# X [...] 
-282299	2.b1. 1(N46)# , [...] 
-2.b2. [...] , [...] 
-1. [...] 1(N42~a)# 1(N25) , 
+251523	1. [...] 1(N42~a)# 1(N25) , 
 2. [...] 3(N39~a)# 1(N24) , LAGAB~a? 
 3. [...] 1(N01) , X 
 1. [...] , [...] 
 2. [...] , [...] EN~a# X 
-3.a. [...] , SZU# GI 
-3.b. 4(N01) , SZE~a 
-4. 3(N14) , |EZEN~axX| 
+251529	4. 3(N14) , |EZEN~axX| 
 1. [...] , [...] 
 2. , SI# X GU7# 
 1. [...] , [...] 
 2. , |U4x6(N57)|#? GIBIL SANGA~a DUB~a 
-1.a'. [N] , HI@g 
-1.b'. 1(N01)? , EN~a 
-1.c'. N? , X 
-2.a'. 1(N14)# , SZU ZI~a 
-2.b'. 4(N01) , SZE~a 
-3. 5(N14) , |EZEM~axX| X PAP~a 
+251536	3. 5(N14) , |EZEM~axX| X PAP~a 
 1'. , SI# GU7# 
 1. 1(N01) 1(N39~a) 1(N24) , 
 2. 3(N01) 3(N39~a) 1(N24) , X 
@@ -69072,117 +71481,30 @@ $ (not given)
 1. [...] , X [...] 
 2. [...] , X [...] 
 1. [...] , [...] 
-1.a. 2(N50) 4(N14)# 4(N01) , GAN2# |SZE~a&SZE~a|# GAL~a SZAB~a 
-1.b. 2(N14)# , GURUSZ~a SAL 
-1.c. 4(N50)# 7(N14)# [N] , GAN2 KI A 
-2.a. 3(N50)#? 2(N22) 4(N01) , |SZE~a&SZE~a| GAN2# GIR3@g~b# PA~a 
-2.b. 2(N14) , GURUSZ~a SAL 
-2.c. 4(N50) 2(N14) 1(N22) 5(N01) , GAN2 KI# A# 
-3.a. 3(N50)# [...] 1(N14) 1(N01) , |SZE~a&SZE~a| BA [GAN2] NAM2# DI# 
-3.b. 4(N14) , GURUSZ~a# [SAL] 
-3.c. 3(N50)# 8(N14)# 1(N22)# 2(N01) , GAN2# KI# A# 
-1.a. [2(N50) N] , [|SZE~a&SZE~a| GAN2] EN~c# SAL# 
-1.b. [2(N14) N?] , [GURUSZ~a SAL] 
-1.c. [N] , [GAN2 KI A] 
-2.a. 1(N50) [n?] 4(N14) 2(N22)# , |SZE~a&SZE~a|# ME~a# |NI~a.RU| 
-2.b. 2(N14)# [n?] , GURUSZ~a# SAL# 
-2.c. [N] , [GAN2 KI A] 
-3. , U4 |NI~a.RU| A#? KI BU~a AB~a# 
+251573	3. , U4 |NI~a.RU| A#? KI BU~a AB~a# 
 1. [1(N45)] 5(N50)# [N] , [GAN2 |SZE~a&SZE~a|] 
 2. 1(N50)# [2(N14) n] , [GURUSZ~a SAL] 
 3. 3(N45)# 2(N50)# 5(N14)# [N] , [GAN2 KI A] 
 1. 5(N45)# 3(N50)# 4(N14)# 3(N01) , LAGAB~b GAN2 BU~a KI |NI~a.RU| AB~a APIN~a# 
-282371	1.a1. [4(N34)] 5(N14)# , [1(N57)] GAL~a SZAB~a 
-1.a2. 1(N34) 4(N14) , 1(N58) 
-282374	1.b1. 1(N50) 6(N14) , GAN2 
-1.b2. 2(N22) , BAR 
-282377	2.a1. 5(N34) 1(N14) 2(N01) , [1(N57)] PA~a# GIR3@g~b 
-2.a2. 1(N34) 3(N14)# , 1(N58)# 
-282380	2.b1. 1(N50) 5(N14) , GAN2# 
-2.b2. 1(N22) 4(N01) 7(N08) , 
-282383	3.a1. 4(N34) 5(N14) , 1(N57) NAM2 DI 
-3.a2. 1(N34) 3(N14) 3(N01) , 1(N58) 
-3.b. 1(N50) 5(N14) , GAN2 
-282387	4.a1. 4(N34) 5(N14) , 1(N57) ME~a 
-4.a2. 1(N34) 2(N01) , 1(N58) 
-4.b. 1(N50) 2(N08) , GAN2 
-282391	5.a1. 5(N34) , [1(N57)] EN~c SAL 
-5.a2. 1(N34) 5(N14) , 1(N58) 
-282394	5.b1. 1(N50) 8(N14) , GAN2 
-5.b2. 1(N14) 2(N22) , [...] 
-1. 2(N45) 3(N50) 4(N14) , EN~a GAN2 
+251583	1. 2(N45) 3(N50) 4(N14) , EN~a GAN2 
 2. 1(N45) 1(N50) 7(N14) , KI BU~a 
 3. 1(N14) 2(N22) 5(N01) , GISZ KI BAR 
 1. 3(N45) 5(N50) 2(N14) 2(N22) 5(N01) , GAN2 AB~a |NI~a.RU| IL# [...] 
-282401	1.a1. 1(N34) 4(N14) 2(N01) , 1(N57) EN~c# SAL# 
-1.a2. 1(N34)# 4(N14)# , 1(N58)# 
-1.b. 5(N14) 2(N22) , [GAN2] 
-282405	2.a1. 1(N34) 4(N14) 2(N01) , 1(N57)# PA~a# GIR3@g~b# 
-2.a2. 1(N34) 4(N14) , 1(N58) 
-2.b. 5(N14) 2(N22) , GAN2# 
-282409	3.a1. 1(N34) 4(N14) 2(N01) , [1(N57) GAL~a] SZAB~a# 
-3.a2. 1(N34)# 4(N14)# , [1(N58)] 
-3.b. 5(N14)# 2(N22)# , GAN2# 
-282413	4.a1. 3(N14)# 6(N01)# [4(N08)?] , [1(N57)] ME~a# 
-4.a2. 1(N34) 4(N14) , 1(N58)# 
-282416	4.b1. 2(N14) , GAN2# 
-4.b2. 4(N08)# , BAR# 
-282419	5.a1. [1(N34) 4(N14) 2(N01)] , [1(N57)] NAM2# DI 
-5.a2. 1(N34) 4(N14) , 1(N58)# 
-5.b. 5(N14)# 2(N22)# , GAN2# 
-6. , [...] GAN2# KI# SZAGAN 
+251592	6. , [...] GAN2# KI# SZAGAN 
 1. 4(N50)# 9(N14)# 1(N22) , EN~a# GAN2# 
 2. 2(N50)# 4(N14)# 2(N22)# , KI BU~a# 
 3. 4(N08) , GISZ KI# BAR 
 1. 1(N45)# 1(N50) 4(N14) 4(N08)# , LAGAB~b# GAN2 KI# SZAGAN# 
-282428	1.a1. 5(N34) 2(N14) , 1(N57) GAL~a SZAB~a 
-1.a2. 4(N14) 2(N01) , 1(N58) 
-282431	1.b1. 7(N14) , GAN2# 
-1.b2. [1(N22) 2(N01) 4(N08)?] , [KI] BAR# 
-282434	2.a1. 5(N34) 2(N14) , 1(N57) PA~a GIR3@g~b 
-2.a2. 4(N14) 5(N01) , 1(N58) 
-282437	2.b1. 6(N14) , GAN2 
-2.b2. 2(N14) , KI BAR 
-282440	3.a1. 5(N34) 5(N14) 4(N01)? , 1(N57) NAM2 DI 
-3.a2. 3(N14) 7(N01) , 1(N58) 
-282443	3.b1. 7(N14)# , [GAN2] 
-3.b2. 5(N01)# , BAR# 
-282446	4.a1. 5(N34) 5(N14) 4(N01)#? , [1(N57) ...] 
-4.a2. 3(N14)# 7(N01)# , 1(N58) 
-282449	4.b1. <7(N14) , GAN2> 
-4.b2. 5(N01) , KI BAR 
-282452	5.a1. 5(N34)# [...] , [1(N57) ...] 
-5.a2. [...] , [1(N58)] 
-282455	5.b1. 3(N14)# , [GAN2] 
-5.b2. 1(N01) 7(N08) , [KI BAR] 
-1. 1(N45)# , EN~a [GAN2] 
+251602	1. 1(N45)# , EN~a [GAN2] 
 2. 3(N50) , KI BU~a 
 3. 2(N14) 2(N01) 1(N08) , GISZ KI BAR 
 1. 1(N45) 3(N50)# 2(N14)# 2(N01)# 1(N08) , GAN2 X GU4@g |NUN~a+NAM2| IL |HIxLAGAB~a| 
-282462	1.a1. 4(N34) 5(N14) 3(N01) , 1(N57) ME~a# 
-1.a2. [...] , [1(N58)] 
-282465	1.b1. [...] , [GAN2] 
-1.b2. [3(N14) ...] , [KI BAR] 
-282468	2.a1. 5(N34) , 1(N57) GAL~a# SZAB~a# 
-2.a2. [...] , [1(N58)] 
-2.b. [...] , [GAN2] 
-282472	3.a1. 5(N34) , 1(N57) GIR3@g~b# [PA~a] 
-3.a2. [...] , [1(N58)] 
-3.b. [...] , [GAN2] 
-282476	4.a1. 5(N34) , 1(N57)# NAM2# [DI] 
-4.a2. [4(N34)] , [1(N58)] 
-4.b. 4(N50)# , [GAN2] 
-282480	5.a1. 5(N34)# , [1(N57)] EN~c SAL# 
-5.a2. 4(N34) , 1(N58) 
-5.b. 4(N50) , GAN2# 
-6. , AB~a |NI~a.RU| IL GAN2 |HIxLAGAB~a| 
+251611	6. , AB~a |NI~a.RU| IL GAN2 |HIxLAGAB~a| 
 1. 6(N45) , GAN2 EN~a#? 
 2. [3(N45)] , [KI BU~a] 
 3. 3(N14) [...] , [GISZ BAR KI] 
 1. 9(N45)# [3(N14) ...] , X X GAN2# X AB~a# |NI~a.RU| IL |HIxLAGAB~a| 
-1.a. 8(N14)# 1(N01) 4(N39~a) , GAN2#? SZE~a EN~a# GI# 
-1.b. 1(N46) 1(N19) 3(N41)# [1(N24~b)] , 
-2. 3(N14) 4(N01) 1(N39~a) , X SZE~a [...] 
+251617	2. 3(N14) 4(N01) 1(N39~a) , X SZE~a [...] 
 3. 3(N19)# 4(N04)# , SI4~f BU~a PAP~a NAM2# 
 4. 6(N19)# [...] , X KI X [...] 
 5. 4(N19) 1(N04)# 3(N41) , SZU#? [...] 
@@ -69201,27 +71523,14 @@ $ (not given)
 5. 1(N14)# , EN~a# X [...] 
 6. 1(N22)# [...] , X [...] 
 1. [...] , [...] EN~a# X 
-1.a. [...] , [...] 
-1.b. [...] 1(N14)# , EN~a [...] 
-2.a. 3(N14)# [...] , MASZ GAN2# BA [...] 
-282514	2.b1A. 1(N14) , EN~a X DU# 
-2.b1B. X [...] , [...] 
-282517	2.b2A. 1(N22) , 3(N57)# ME~a#? 
-2.b2B. [...] , [...] 
-282520	2.b3A. [...] , [...] 
-2.b3B. [...] , [...] 
-282523	2.b4A. 1(N14) , X [...] 
-2.b4B. [...] , [...] 
-3. 1(N14) 1(N22) , MASZ GAN2# X [...] 
+251638	3. 1(N14) 1(N22) , MASZ GAN2# X [...] 
 1. [...] 5(N14)# 1(N22) [...] , |SZE~a&SZE~a| GAN2 EN~a# PA~a# |1(N58).BAD~a| [...] 
 1. 2(N01)# , |SZE~a&SZE~a|# KU6~a ERIM~a 
 2. [...] 1(N22)# 2(N01)# , DUB~b? X [...] 
 1. 2(N22) , |NI~a.RU|#? ME~a TAK4~a# [...] 
 1. [...] , GAN2# [...] 
 1. 2(N45) 5(N14)# , SZE~a 
-2.a. , |GISZ.TE|# DU ME~a 
-2.b. , SZUBUR E2~a# SANGA~a# 
-1. 1(N50) , GAN2 
+251646	1. 1(N50) , GAN2 
 1. 5(N14) , GAN2 GI SZE~a 
 2. 2(N46) 2(N19) 1(N04) , GAN2 GI 
 3. , EN~a AN SZU ME~a 
@@ -69231,16 +71540,12 @@ $ (not given)
 1. 3(N14) , GAN2 SZE~a BU~a ZATU647 UB PA~a 
 1. , ISZ~a KISAL~b1 
 2. , X [...] 
-1.a. 2(N01) , E2~a 3(N57) 
-1.b. , KA~a GU 
-2. 2(N01) , NAR X AB~a 
+251657	2. 2(N01) , NAR X AB~a 
 3. 1(N01) , TI@t MES AB~a 
 4. 1(N01) 1(N24) , ZATU659 AB~a 
 5. , GU KA~a UB AB~a 
 1. , BA 
-1.a. 1(N14) 1(N24) , 3(N57) BA DUB~a GI UB AB~a APIN~a 
-1.b. , ZATU659 
-1. [...] , [...] 
+251663	1. [...] , [...] 
 2. 1(N01)# , X X [...] 
 3. 3(N01)# , [...] 
 4. 3(N01)# , [...] 
@@ -69252,10 +71557,7 @@ $ (not given)
 2. 1(N14)# 4(N01) 1(N24) , SZE~a# [...] 
 1. , NA~a U2~b BA 
 2. , SZU2 1(N04) [...] 
-1.a. 8(N01) , APIN~a# [...] 
-282567	1.b1. , EN~a# GI 
-1.b2. , TI@t X [...] 
-1. 1(N19) , NUMUN APIN~a 
+251676	1. 1(N19) , NUMUN APIN~a 
 2. 1(N01) 2(N39~a) , |NINDA2xX|# 
 1. , KID~b DU# X APIN~a GI4~a [...] 
 1. |1(N34)x1(N58)| , SUR 
@@ -69294,15 +71596,7 @@ $ (not given)
 3. 1(N01) 3(N39~a) , SZUBUR 
 1. [...] , [...] AB~a# 
 2. , KALAM~b PA~a 
-1.a. 3(N14) 1(N01) 3(N39~a) , [...] 
-282610	1.b1. 3(N14) , ME~a? GIBIL 
-1.b2. 3(N39~a) 1(N24) , X [...] 
-282613	2.a1. [...] , [...] X 
-2.a2. , TAK4~a@n IB~a? [...] 
-282616	2.b1. 1(N01) , X NI~a#? [...] 
-2.b2. , X [...] 
-2.b3. [...] , [...] 
-1. , X [...] 
+251717	1. , X [...] 
 1. 2(N14) 3(N01) 4(N39~a) 1(N24) , SZE~a [...] 
 1. , DUB~a GI |KU6~a.1(N02)| 
 2. , KASZ~c# ZI~a 
@@ -69315,20 +71609,9 @@ $ (not given)
 1. , |NI~a.RU| AB~a 
 1. 1(N34) 8(N14)# 3(N01) , [...] |NINDA2x(ZATU659x1(N01))|# 
 1. , |NI~a.RU| AB~a# 
-282633	1.a1. 1(N45) , 
-1.a2. 1(N14) , TAR~a 
-1.b. , SANGA~a |SZITA@g~ax1(N06)| 
-282637	2.a1. 5(N14) , 
-2.a2. 3(N01) , TAR~a 
-2.b. , ME~a |NI~a.RU| 
-282641	3.a1. 5(N14) , 
-3.a2. 3(N01) , TAR~a 
-3.b. , SANGA~a |NI~a.RU| 
-1. , SZE~a GU7 
+251733	1. , SZE~a GU7 
 1. 2(N45) 2(N14) , SZE~a GU7 
-1.a. 1(N34) , URU~a1 MA IB~a [...] 
-1.b. 3(N14) , TAR~a 
-1. 2(N34) 8(N14) , SZE~a 
+251736	1. 2(N34) 8(N14) , SZE~a 
 2. 1(N46) 5(N19)# , 
 1. , |SZU&SZU| GIBIL# X [...] 
 1. 2(N14) 2(N01) , SZE~a# GIBIL# URI3~a# BA#? 
@@ -69365,11 +71648,7 @@ $ (not given)
 2. 1(N36)# 5(N19)# 5(N04)# , 
 1. , [...] SZU# AB2# ENGIZ# DA~a GA2~a1 
 1. 2(N36) 2(N45) 1(N14) 1(N01) , SZE~a GUL |BU~a+DU6~a| IB~a |SZU&SZU| 
-1.a. [...] 1(N45)# , X X SZE~a 
-1.b. , |DUxDISZ|? BAHAR2~b MUSZEN# ZATU694~c 
-2.a. 4(N14)# 2(N01)# , SZE~a |SZE~a.NAM2|? X 
-2.b. 5(N01)# , X 
-3. , BAHAR2~b# GAL~a# 
+251775	3. , BAHAR2~b# GAL~a# 
 1. 1(N45) 1(N14) 1(N01) , SZE~a 
 2. 2(N46) 2(N19) , KA~a NAM~d 
 1. , |SZU&SZU| 
@@ -69379,9 +71658,7 @@ $ (not given)
 2. 1(N04) , AN SAG 
 1. [...] , [...] 
 1. , NAM2 X [...] 
-1.a. [...] , SZE~a 
-1.b. 7(N19) , 
-2. [...] , [...] X 
+251786	2. [...] , [...] X 
 1. 2(N19) 3(N04) , 
 2. 5(N14) , SZE~a 
 3. , PAP~a SAL 
@@ -69404,19 +71681,7 @@ $ (not given)
 1. 3(N34)# 1(N45) 8(N14)# 5(N01)# , SZE~a# 
 2. 2(N46)# 7(N19) , 
 3. , SZAM2# UB UB 
-1.a. [...] 1(N34)# 3(N14) [...] , PAP~a [...] 
-1.b. 2(N46) 2(N19) , 
-2.a. [...] 1(N34) 2(N14) 3(N01)# [...] , [...] 
-2.b. 2(N46) 3(N19) , 
-4.a. [...] , [...] 
-4.b. [...] 1(N19) 1(N04) , 
-5.a. [...] , [...] 
-5.b. [...] 2(N46)# [...] , [...] 
-1.a. 1(N34) 1(N45)# , SZE~a# [...] 
-1.b. 1(N36) 1(N46) , 
-2.a. 1(N45) , PAP~a NAM2 BU~a X TUR# 
-2.b. 3(N19) , 
-4. [...] , [...] |U4x4(N57)| |NI~a.RU|# [...] 
+251815	4. [...] , [...] |U4x4(N57)| |NI~a.RU|# [...] 
 1. [...] 4(N19) [...] , X [...] 
 2. [...] , [...] 
 3. [...] 3(N19) , 
@@ -69428,9 +71693,7 @@ $ (not given)
 5. 2(N04) , PAP~a SAL# 
 6. 2(N04) , SAL SAL PAP~a 
 7. , BA# 
-1.a. 1(N14) , SZE~a PA~a NAM2 
-1.b. 4(N04) , 
-2. 1(N19) , TI@t GIR3~c 
+251828	2. 1(N19) , TI@t GIR3~c 
 3. 3(N04) , SAL ZATU751~a 
 4. 2(N04) , SZU2 1(N04) 
 5. 2(N04) , EN~a DU# SUM~b 
@@ -69443,10 +71706,7 @@ $ (not given)
 1. [...] , |U4x2(N01).(2(N14).1(N08))| EN~a PA~a 
 1. [...] , [...] X 
 2. 1(N14) 3(N01) 1(N08) , GAL~a#? X NI~a# 
-1.a. [...] , ZATU644~a# 
-282765	1.b1. [...] , EN~a PA~a 
-1.b2. 1(N01) , UKKIN~a 
-2. [...] 1(N01) , ZATU644~a EN~a PAP~a SANGA~a# DU 
+251842	2. [...] 1(N01) , ZATU644~a EN~a PAP~a SANGA~a# DU 
 1. [...] , [...] GIR3@g~b# PA~a# 
 1. 2(N14)# 4(N01)# , SZE~a# X ERIM~a# 
 2. 2(N14)# 1(N01)# [...] , NI~a# SZE~a# X 
@@ -69455,11 +71715,7 @@ $ (not given)
 5. 1(N01)# [...] , [...] X 
 6. [...] , [...] 
 1. 1(N14)# 1(N01)# , EN~a# DU# X 
-2.a. 3(N14)# 2(N08)#? , X X 
-2.b. 4(N01)#? 1(N08)#? , [...] 
-3.a. 2(N14)# 2(N01)# [...] , [...] 
-3.b. 2(N19)#? [...] , [...] 
-4. 1(N14)# , [...] SZITA~a1# E2~a# X 
+251853	4. 1(N14)# , [...] SZITA~a1# E2~a# X 
 5. [...] , [...] SZUBUR# TE# X 
 6. [...] , [...] 
 1. 1(N14) 1(N58) 6(N14) 1(N01) 3(N08)? , SZE~a 
@@ -69476,24 +71732,14 @@ $ (not given)
 4. 2(N19) 2(N04) , [...] 
 5. 4(N14)# [...] , [...] 
 6. 1(N19) , SZU# [...] 
-1.a. 3(N14)# 3(N01)# , SZE~a SZAM2# BA 
-1.b. 1(N14) 2(N01) 1(N39~a) , GI 
-2.a. 4(N19) 3(N04) 3(N41) , BA SZAM2 
-2.b. 2(N19)# 2(N04) 1(N41) , GI 
-3. , DAH GIR3~c 
+251872	3. , DAH GIR3~c 
 1. 4(N14) 5(N01) 1(N39~a) , 
 2. 6(N19)# 5(N04) 4(N41) , 
 1. 1(N46)# 1(N19) 5(N04)# , PA~a# NAM2# DAH# GIR3~c# [...] 
 1. 1(N01) , X |SZU&SZU| 
-282807	1.a1. [...] 1(N19)# , [...] SZE~a# 
-1.a2. [...] 8(N14) , [...] SZE~a# 
-282810	1.b1. [...] , [...] 
-1.b2. 2(N19) , [...] 
-2. , [...] AB~a |NI~a.RU| 
+251878	2. , [...] AB~a |NI~a.RU| 
 1. [...] 2(N19)# , [...] 
-1.a. 1(N01) , SI X 
-1.b. 1(N14) 5(N01) , 
-2. 1(N45) 2(N14) , MASZ2# [...] 
+251881	2. 1(N45) 2(N14) , MASZ2# [...] 
 1. 2(N45)# 5(N14)# [...] 4(N01) , SZE~a SANGA~a 
 1. 1(N45)# [...] , X [...] 
 1. 3(N34)# , [...] X 
@@ -69502,10 +71748,7 @@ $ (not given)
 3. , EN~a# SZITA~a1# X [...] 
 1. 2(N47)? , EN~a BA SZE~a SZU 
 1. [...] , [...] GI# 
-2.a. 2(N14) 4(N01) 2(N39~a) 1(N24) , [...] 
-282827	2.b1. 2(N14) , BA 
-2.b2. 3(N14) 4(N01) 2(N39~a) [...] , [...] 
-1. 1(N34) 4(N14) , UB AB~a [...] 
+251891	1. 1(N34) 4(N14) , UB AB~a [...] 
 1. [...] , [...] 
 2. 1(N01) , |KU6~a.1(N02)| 
 3. 1(N01) , NAM2? 
@@ -69563,11 +71806,7 @@ $ (not given)
 3. , |U4x2(N57)| 
 1. 2(N14) 9(N01) , E2~b# SZE~a# KUR~a [...] 
 2. 2(N01) , ZATU628~a? E2~b#? 
-3.a. 1(N14) 1(N01) , SZU E2~b NANNA~a 
-282889	3.b1. 5(N01) , ZATU751~a#? 
-3.b2. 5(N01) , NAGAR~a AB~a 
-3.b3. 1(N01) , KASKAL# [...] 
-1. , UB X X PA~a 
+251950	1. , UB X X PA~a 
 1. 4(N14) 2(N01) , E2~b# GI# 
 1. , [...] X PA~a# 
 1. [...] , [...] X UB# AB~a ME~a#? 
@@ -69585,11 +71824,7 @@ $ (not given)
 1. [...] , [...] E2~a BU~a 
 1. [...] , [...] URU~a1? |BU~a+DU6~a|? PAP~a 
 1. 3(N14) 4(N01)# , BA# E2~a BU~a# X 
-1.a. [...] , ZATU773~a? NUNUZ~a1 
-1.b. 4(N14) , SZE~a 
-2.a. [...] , X SI [...] 
-2.b. 4(N14) , SZE~a [...] 
-1. , 2(N57) |EN2xE2~b|? 
+251970	1. , 2(N57) |EN2xE2~b|? 
 2. , KASKAL NAGAR~a# X [...] 
 3. , [...] X 
 1. [...] , [...] X EN~a# X A 
@@ -69617,12 +71852,7 @@ $ (not given)
 1. [...] 2(N14)# 4(N01) [...] , DUR~b# X [...] 
 1. , AB~a# |NI~a.RU|# [...] 
 1. [...] , [...] E2~a# |MUSZENx2(N57)|# KI# 
-2.a. [...] , [...] SZIM~a#? KU3~a#? 
-282944	2.b1. , MUSZEN# KI# 
-2.b2. , SANGA~a#? X KI# 
-3.a. , SANGA~a# KU6~a# 
-3.b. , X LU2# SZU#? 
-1. 1(N14)# 2(N01) [...] , NIMGIR TUM~a SZE~a# [...] 
+252000	1. 1(N14)# 2(N01) [...] , NIMGIR TUM~a SZE~a# [...] 
 2. [...] , [...] 
 1. [...] , [...] X 
 2. [...] 2(N01)# , [...] 
@@ -69667,17 +71897,13 @@ $ (not given)
 4. , GI E2~a#? |U4.4(N08)| 
 1. [...] , [...] 
 2. , SZU X 
-1.a. 3(N01)# , SZU2# X 
-1.b. 2(N01)# [...] , ZATU753 
-2. 1(N01)# , ZATU644~a# X X 
+252046	2. 1(N01)# , ZATU644~a# X X 
 3. 1(N01)# , SZU2 SZE~a# 
 4. 1(N01)# , SZU2 SZE~a# 
 5. 2(N01)# , SZU2 X EN~a# 
 6. 1(N01)# , SZU2 X X [...] 
 7. , X [...] 
-1.a. 3(N14) 6(N01) , SZU2 
-1.b. 1(N01) , DUB~a GI 
-2. 1(N01) , ZATU644~a 
+252053	2. 1(N01) , ZATU644~a 
 3. 4(N01) , ME~a# 
 4. 4(N01) , ZATU753 
 5. 1(N14) 8(N01) , MA 
@@ -69715,14 +71941,7 @@ $ (not given)
 6. 2(N01) , TE ZAG~a MUD# AN# 
 7. , BA |ZATU737xBUR~a| 
 1. 4(N14) , ZATU659 BA 
-2.a. 1(N34) 1(N14) 9(N01) 1(N08) , GAR BA 
-283043	2.b1. 6(N01) 1(N08) , 1(N39~a) 
-2.b2. 8(N01) , ZATU726~d 
-2.b3. 1(N34) 5(N01) , GAR 
-3.a. 1(N14)# 9(N01)# , 1(N24) U4#? [...] 
-283048	3.b1. 5(N01) , U4 E2~a SZITA~a1 NUN~a GU7 
-3.b2. 1(N14) 4(N01) , BA 
-1. [...] , [...] 
+252093	1. [...] , [...] 
 2. 5(N18) 2(N03) , 
 3. 2(N34) 1(N14) 6(N01) [...] , UDU~a# 
 4. 1(N60)# 2(N52) , 
@@ -69733,21 +71952,7 @@ $ (not given)
 2. [...] , [...] 
 3. 1(N14) 5(N01) , DUR~b 
 4. , X [...] |NI~a.RU| 
-283062	1.a1. , |U4x(1(N14).8(N01))| 
-1.a2. 9(N14)# [...] , [...] 
-283066	1.b1A. , |U4x6(N01)| 
-1.b1B. 3(N20)# , [...] 
-283069	1.b2A. , [|U4x(1(N14).2(N01))|] 
-1.b2B. [6(N20)] , [...] 
-1.b3. , X [...] 
-283073	2.a1. , |U4x(3(N14).2(N01))|# 
-2.a2. 1(N34)# 4(N01)# , UDU~a GI# 
-283077	2.b1A. , |U4.2(N14)| 
-2.b1B. 4(N14) , UDU~a 
-283080	2.b2A. , |U4x(1(N14).2(N01))| 
-2.b2B. 2(N14) 4(N01) , 
-2.b3. , EN~a# DU# UB# 
-3. , GAL~a PA~a GI X [...] 
+252106	3. , GAL~a PA~a GI X [...] 
 1. 9(N20)# , |U4x(1(N14).8(N01))| |U4x1(N57)| KASZ~b# 
 2. 1(N34) 2(N01) [...] , UDU~a# 
 1. 6(N20) , [...] 
@@ -69773,15 +71978,7 @@ $ (not given)
 2. 2(N01)# , SZU2 1(N04) 
 3. 1(N01)# , BAHAR2~c 
 1. [...] , [...] X X 
-1.a. 2(N20) , 
-283111	1.b1. 5(N05) , |1(N58).BAD~a|# 
-1.b2. 1(N20) 1(N05) , ERIN# 
-2.a. 3(N14) , UDU~a# 
-283115	2.b1. 1(N14) , |1(N58).BAD~a|# 
-2.b2. 2(N14) , UKKIN~a# 
-3.a. 1(N38) , 
-3.b. , |1(N58).BAD~a| 
-4. 6(N01)#? , SZU2# 
+252135	4. 6(N01)#? , SZU2# 
 5. [...] , [...] 
 6. [...] , [...] 
 7. [5(N01)] , [KID~b BAR] 
@@ -69828,43 +72025,17 @@ $ (not given)
 3. 1(N01)# [...] , [...] 
 4. 1(N14) 2(N01)# [...] , [...] 
 5. 2(N14) 4(N01) , DUR~b#? 
-6.a. 1(N51) , GAR 1(N24)? 
-6.b. 4(N05) , 
-7. 1(N34) , GISZ ZATU800 
+252183	7. 1(N34) , GISZ ZATU800 
 8. 1(N14) 3(N01)# [...] , [...] 
 1. [...] , [...] 
 2. [...] , [...] DUG~a#? 
 3. 6(N51)# , U2~b 
 4. , |U4x3(N57)| SU~a 6(N01)# GIBIL# |NI~a.RU|# [...] 
-1.a. 1(N34) 9(N14) 3(N01) 3(N39~a) , LAGAB~b |U4x3(N57)| SZE~a GI GIR3@g~b PA~a |AMAR.1(N02)| 
-283177	1.b1A. , [...] |U4x8(N01).X|# AB~a SAG KALAM~a PA~a 
-1.b1B. [9(N14) 2(N01)] , SZE~a [...] 
-1.b2. 1(N45) , BA? UNUG~a KALAM~a#? [...] 
-1.b3. 2(N45) 1(N01) 3(N39~a) , SZE~a# GI# [...] 
-2. , AB~a# |NI~a.RU|# [...] 
+252190	2. , AB~a# |NI~a.RU|# [...] 
 1. [...] , GAL~a AB~b A BAR [...] 
 1. 1(N01) , UR5~a KU6~a [...] 
 1. [...] , [...] X PA~a 
-1.a. [4(N01)] , [1(N39~a)] 
-1.b. 4(N42~a) , 
-2.a. [6(N01)] , [1(N24)] 
-2.b. 3(N42~a) , 
-283190	3.a1. 8(N01)#? , [...] X 
-3.a2. 4(N01) , SIG2~a3 
-3.b. 2(N42~a) 1(N25) , 
-4.a. 1(N51) 1(N14) 8(N01) , |5(N57).GAR| 
-4.b. 4(N05) 2(N42~a) 1(N25) , 
-5.a. 4(N01) , GUG2 
-5.b. 1(N42~a) , 
-6.a. 1(N14) , SZA GUG2 
-6.b. 1(N42~a) 1(N25) , 
-7.a. 4(N14) , |LAGAB~axSZA| E2~a DUB~a 
-7.b. 1(N05) , 
-1.a. 2(N14) , DUG~a KASZ~a 
-1.b. [1(N05) 3(N42~a)] , 
-2.a. 1(N14) , DUG~a KASZ~a E2~a DUB~a 
-2.b. 3(N42~a) 1(N25) , 
-3. 4(N05) 2(N42~a) 1(N25) , MU |ZATU714xHI@g~a| 
+252203	3. 4(N05) 2(N42~a) 1(N25) , MU |ZATU714xHI@g~a| 
 4. 3(N14) , UDU~a 
 5. 1(N34) , SUHUR 
 6. 1(N52) , 
@@ -69886,12 +72057,7 @@ $ (not given)
 7. 8(N01)# , [SZU2] 
 8. [1(N01)] , [ZATU644~a] 
 9. [2(N01)] , [ZATU753] 
-1.a. 1(N51) 1(N34) 3(N14) , GAR# 
-1.b. 1(N20) 1(N05) 4(N42~a) 1(N25) , 
-2.a. 3(N14) , DUG~a KASZ~a 
-283231	2.b1. 2(N05) 1(N42~a) 1(N25) , 
-2.b2. 2(N03) , 
-3. 4(N05) 2(N42~a) 1(N25) , |ZATU714xHI@g~a| MU 
+252227	3. 4(N05) 2(N42~a) 1(N25) , |ZATU714xHI@g~a| MU 
 4. , [|NI~a.RU| 2(N57)] SU~a# GIBIL# GU7# 
 1. [...] 
 2. [...] 4(N03)# , 
@@ -69913,19 +72079,7 @@ $ (not given)
 7. 8(N01) , DUR~b NUNUZ~a1 
 8. , 1(N14) 2(N01) SU~a GIBIL GI 
 1. , GIR3@g~b PA~a PAP~a BU~a NAM2 
-1.a. 1(N37) 2(N47) 2(N20) , SZE~a |U4x4(N57)| AMAR 
-283257	1.b1. 5(N14)# , SZE~a KID~a EN~a KALAM~a# PA~a 
-1.b2. 5(N01) , SZE~a KI 1(N02) 
-283260	1.b3A. 7(N19)# 1(N04) , [...] 1(N02)# 
-1.b3B. 3(N20) 3(N05) 2(N42~a) 1(N25) , X SZE3 
-1.b4. 3(N14) , PA~a U4 KALAM~b MUSZEN#? X [...] 
-1.b5. 1(N34) 9(N14) 3(N01) 2(N39~a) 1(N24) , SZE~a GI 
-2.a. 2(N34) 1(N45)# 8(N14)# , |U4x6(N57)|# SZE~a# GIR3@g~b# [...] 
-283266	2.b1. 1(N45) 1(N14) , PAP~a X 
-2.b2. 1(N45) 1(N14) , 3(N57) SAL# [...] 
-2.b3. [...] , [...] 
-2.b4. 1(N34) 8(N14) , SZE~a GI 
-3. , [...] AB~a# |NI~a.RU| 
+252251	3. , [...] AB~a# |NI~a.RU| 
 1. 1(N20) 2(N42~a) 1(N25) , 
 2. 1(N03) , 
 3. 1(N14) 1(N01) , UDU~a 
@@ -69937,21 +72091,8 @@ $ (not given)
 4. 1(N38) , 
 5. 3(N01) , SZU2 
 6. , GIR3@g~b DI# 
-1.a. 2(N20) , 
-283284	1.b1. 5(N05) , |1(N58).BAD~a| 
-1.b2. 1(N20) 1(N05) , ERIN 
-2.a. 3(N14) , UDU~a 
-283288	2.b1. 1(N14) , |1(N58).BAD~a| 
-2.b2. 2(N14) , UKKIN~a 
-3. 1(N38) , 
-4.a. 6(N01) , SZU2 
-283293	4.b1. 1(N01) , |1(N58).BAD~a| 
-4.b2. 5(N01) , UKKIN~a 
-5.a. 3(N01) , ZATU644~a 
-283297	5.b1. 1(N01) , |1(N58).BAD~a| 
-5.b2. 1(N01) , UKKIN~a 
-5.b3. 1(N01) , |4(N57).AMAR| 
-6. , PA~a GIR3@g~b 
+252265	3. 1(N38) , 
+252268	6. , PA~a GIR3@g~b 
 1. 3(N05) , 
 2. 2(N03) , 
 3. 2(N01) , SZU2 
@@ -69976,9 +72117,7 @@ $ (not given)
 1. 4(N05) 1(N25) , 
 2. 1(N03) , 
 3. 3(N01) , SZU2 
-4.a. 1(N01) , ZATU644~a 
-4.b. , 2(N57) SZU2 
-5. 3(N01) , ME~a ZATU753 
+252294	5. 3(N01) , ME~a ZATU753 
 6. 1(N14) 2(N01) , UDU~a 
 7. 1(N38) , 
 8. 5(N01) , KID~b BAR 
@@ -70014,9 +72153,7 @@ $ (not given)
 8. 1(N34) , |4(N57).KU3~a| 
 1. , EN~a [...] 
 2. , ENGIZ# SZAGAN [...] 
-3.a. , [...] GIR3~c SZE3? EN~a NUN~a SANGA~a 
-3.b. , GA~a# AB~a 
-1. 5(N05) 4(N42~a) , 
+252331	1. 5(N05) 4(N42~a) , 
 2. 1(N40) , 
 3. 5(N01) , UDU~a 
 4. [...] , [...] 
@@ -70146,19 +72283,7 @@ $ (not given)
 3. , [...] 
 1. [...] 1(N01)# 1(N24) , [...] 
 1. [...] , AMAR KI 1(N02) 
-1.a. 1(N51)# [1(N34)] , [GAR] 
-1.b. 1(N20)# , 
-2.a. 4(N14)# , X 
-2.b. 1(N05) 1(N42~a)# 1(N25)# 1(N28~c)# , 
-3.a. [...] , [...] 
-3.b. [...] , 
-4.a. 1(N14) , GUG2# SZA# 
-4.b. 1(N42~a) 1(N25) 1(N28~c)# , 
-5.a. 4(N14) , GUG2 |LAGAB~axSZA|#? DUB~a E2~a 
-5.b. 1(N05) 1(N42~a) 1(N25) 1(N28~c)# , 
-6.a. [...] , [...] DUG~a#? 
-6.b. 1(N05)# [...] , 
-1. , GU7 
+252467	1. , GU7 
 1. [...] , [...] 
 2. 6(N01) , SZU2 
 3. 2(N01) , ZATU644~a 
@@ -70167,79 +72292,38 @@ $ (not given)
 6. 3(N01) , HASZHUR 
 7. [...] , |GA2~a1xGESZTU~c5|# 
 8. [...] , [...] 
-283517	1.a1. [...] , [...] X 
-1.a2. 3(N01) , GUG2#? SZA#? 
-1.a3. 5(N01) , SIG2~b 
-1.b. [...] 1(N25) 1(N28~c) , 
-2.a. 3(N14) 8(N01) , |5(N57).GAR| 
-2.b. 1(N05) [1(N42~a) ...] , 
-3. 4(N01) , [...] 
-1.a. [...] 2(N01)# , [...] SZA#? 
-1.b. [...] 1(N25) , 
-2.a. 1(N14)# , DUG~a# KASZ~a# 
-283528	2.b1. 3(N42~a) 1(N25) , 
-2.b2. 1(N40) , 
-3. 2(N05)# , |ZATU714xHI@g~a|# MU# 
+252478	3. 4(N01) , [...] 
+252481	3. 2(N05)# , |ZATU714xHI@g~a|# MU# 
 4. [...] , DUG~a# [...] 
 1. [...] , [...] SUHUR#? 
 2. , DUG~a EN~a BAR 
-1.a. 1(N51)# [...] 1(N14)#? , GAR 
-1.b. 2(N20)# 1(N05) 2(N42~a)# , 
-2.a. 4(N14)# [...] , [DUG~a] KASZ~a# 
-283538	2.b1. 3(N05)# 1(N42~a)# , 
-2.b2. 1(N03)# 3(N40)# , 
-3. 2(N20)# [...] 2(N42~a) 1(N25) , |ZATU714xHI@g~a| MU 
+252487	3. 2(N20)# [...] 2(N42~a) 1(N25) , |ZATU714xHI@g~a| MU 
 4. , 3(N57)#? SU~a# [...] 
 1. [...] 4(N20) [...] 1(N25) , 
 2. 1(N03) 3(N40) , 
-3.a. 3(N14) , UDU~a 
-3.b. 5(N01) , DUG~a 
-4. 1(N34) , SUHUR 
+252492	4. 1(N34) , SUHUR 
 5. 1(N52) , 
 6. 1(N01)# [...] , X [...] 
-1.a. [...] 3(N01)# , X 
-1.b. [...] , [...] TE 
-2.a. 3(N14) , SZE~a TU~b# GI X [...] 
-2.b. 4(N19)# , X 
-3. 2(N14) , SZE~a TAK4~a KASZ~a ERIM~a 
+252497	3. 2(N14) , SZE~a TAK4~a KASZ~a ERIM~a 
 4. , SZE~a BA SANGA~a |NI~a.RU| 
 1. 1(N14) 3(N01)# [...] , X [...] SZE~a 
 2. 2(N14) , DA~a AD~c 
 3. 3(N14) , IL U2~b 
 4. 1(N14) , TAK4~a NI~a SAG 
 5. , MASZ SZE~a 
-1.a. 1(N45) 1(N14) 4(N01) , SZE~a BA 
-1.b. 2(N14) 4(N39~a) , SZA3~a1 
-2.a. 5(N19) 3(N04) , 
-2.b. 1(N19) 3(N41) , BAR 
-3.a. [...] , [...] 
-3.b. [...] 3(N39~a)# , [...] 
-4.a. [...] , [...] 
-4.b. [...] , [...] 
-1. 2(N46) 2(N04) 2(N41) , LAGAB~b SZE~a BA 
+252508	1. 2(N46) 2(N04) 2(N41) , LAGAB~b SZE~a BA 
 2. [1(N45) 2(N14) 5(N01)] , [...] 
 1. 1(N34) 3(N14) 1(N04) 2(N41)# , GIR3@g~b PA~a [...] 
 1. [...] , [...] X MU 
 1. [...] , X [...] 
-1.a. [...] , X KASZ~b |U4x1(N57)|# 
-1.b. [...] , [...] |U4x5(N57)|# 
-2. 1(N01) , U2~b [...] 
-1.a. [...] 1(N14)# , X [...] 
-1.b. [...] 1(N01)# , [...] 
-2.a. 1(N14) 2(N01) , SZU2 
-2.b. 2(N14)# [...] , [...] 
-3. 4(N01)# [...] , ZATU644~a# 
+252514	2. 1(N01) , U2~b [...] 
+252517	3. 4(N01)# [...] , ZATU644~a# 
 1. [...] , SZE~a# PA~a GIR3@g~b |AMAR.1(N02)| [...] 
 1. [...] , SZE~a# GI AB~a# [...] 
 1. 3(N20) 5(N05) 4(N42~a) 1(N25) 1(N28~c) , X 
 2. [...] 2(N03)# , 
 3. , |NI~a.RU| 
-1.a. [...] , [GAR] 
-1.b. [...] , 
-2.a. 4(N14) [...] , [DUG~a] KASZ~a 
-283590	2.b1. [...] , 
-2.b2. [...] 2(N03)# , 
-3. 5(N05) 2(N42~a) 1(N25) , MU |ZATU714xHI@g~a| 
+252525	3. 5(N05) 2(N42~a) 1(N25) , MU |ZATU714xHI@g~a| 
 4. 2(N42~a) 1(N25) , MAR~a 
 1. [...] 1(N01) , [...] 
 2. 2(N01) , MA ZATU735~b# 
@@ -70247,33 +72331,7 @@ $ (not given)
 4. 4(N14) 5(N01) , UDU~a 
 1. [...] , [...] 
 2. , [...] AB~a# GU7 
-1.a. , EN~a EN~a KID~a 
-1.b. , ENGIZ SZAGAN# 
-1.a. 2(N01) , 1(N39~a) 
-1.b. 2(N42~a) , 
-2.a. 3(N01) , 1(N24) 
-2.b. 1(N42~a) 1(N25) , 
-3.a. 5(N14) 5(N01) , |5(N57).GAR| 
-3.b. 2(N05) 2(N42~a) 1(N25) , 
-4.a. 1(N14) , DU8~c 
-4.b. 1(N42~a) , 
-5.a. 1(N14) , MUSZEN MASZ 
-5.b. 1(N42~a)# 1(N25)# , 
-6.a. 2(N01) , GUG2 
-6.b. 1(N28~c) , 
-7.a. 1(N14) , SZA@g GUG2 
-7.b. 1(N42~a) 1(N25) , 
-1.a. 1(N14) , |(SZAxHI@g~a)~a| 
-1.b. 1(N42~a) 1(N25) , 
-2.a. 2(N14)# , |LAGAB~axSZITA~a1|# E2~a DUB~a 
-2.b. 2(N42~a) , 
-3.a. 1(N14) , DUG~a KASZ~a 
-283622	3.b1. 3(N42~a) 1(N25) , 
-3.b2. 2(N40) , 
-4.a. 5(N01)# , DUG~a# KASZ~a# DUB~a E2~a 
-283626	4.b1. 1(N42~a) 1(N25) 1(N28~c) , 
-4.b2. 1(N24~a) , 
-5. 2(N05)# 1(N25)# , |ZATU714xHI@g~a|# MU 
+252545	5. 2(N05)# 1(N25)# , |ZATU714xHI@g~a|# MU 
 6. , |NI~a.RU| 1(N57) SU~a AB~a 
 1. 1(N14) 5(N01) , UDU~a# 
 2. 3(N14) , SUHUR 
@@ -70293,12 +72351,7 @@ $ (not given)
 7. [1(N01)] , ZATU753# 
 8. 1(N01) , |SILA3~axMA| 
 9. 1(N01) , |SILA3~axHASZHUR| 
-1.a. 1(N51)# 2(N01)# , |N(N57).GAR|# 
-1.b. 4(N05)# 3(N42~a)# 1(N25) 1(N28~c)# , 
-2.a. 1(N14)# 5(N01)# , [DUG~a KASZ~a] 
-283652	2.b1. 1(N05)# 1(N28~c)# , 
-2.b2. [2(N40) 1(N24~a)] , 
-3. 2(N05)# 1(N25)# , MU# [|ZATU714xHI@g~a|] 
+252567	3. 2(N05)# 1(N25)# , MU# [|ZATU714xHI@g~a|] 
 4. , [...] 
 1. 1(N20)# 1(N05)# 4(N42~a)# 1(N25)# , 
 2. 2(N40) 1(N24~a)# , 
@@ -70316,12 +72369,7 @@ $ (not given)
 3. 3(N14) , SUHUR# 
 4. 2(N52) , 
 5. , |NI~a.RU| GIBIL SU~a 3(N57)# GU7# [...] 
-1.a. 2(N51)# 3(N14) 7(N01) [...] , GUG2 GAR# 
-1.b. 2(N20) 1(N05) 1(N42~a) 1(N25) , 
-2.a. 4(N14) 5(N01) , DUG~a KASZ~a# 
-283676	2.b1. 2(N05) 2(N42~a) 1(N25) , 
-2.b2. 1(N03) 2(N40) , 
-3. [...] , [MU |ZATU714xHI@g~a|] 
+252587	3. [...] , [MU |ZATU714xHI@g~a|] 
 1. [...] 1(N34)# [...] 1(N14)# 9(N01)# , AB~b# DU# X [...] 
 1. 1(N34)# 3(N14)# , X [...] 
 2. [...] , [...] 
@@ -70331,23 +72379,7 @@ $ (not given)
 2. 1(N34) 1(N14) [...] , [...] GI 
 3. 1(N35) 2(N15) 3(N02) , X [...] 
 1. 9(N34)# 3(N14)# 3(N01)# , MASZ GAN2 UDU~a# [...] 
-1.a. 4(N01) , 1(N39~a) 
-1.b. 4(N42~a) , 
-2.a. 6(N01) , 1(N24) 
-2.b. 3(N42~a)# , 
-3.a. 1(N51) , GAR 1(N28) 
-3.b. 1(N20)# , 
-4.a. 2(N14) [...] , X 
-4.b. 1(N05)# , 
-5.a. 4(N01)# , GUG2# 
-5.b. 1(N42~a)# , 
-6.a. 3(N14)# , SZA# GUG2# 
-6.b. [1(N42~a) 1(N25)?] , 
-7.a. 4(N14)# , |LAGAB~axSZITA~a1|# E2~a# DUB~a#? 
-7.b. 1(N05)# 1(N42~a)# 1(N25)# 1(N30A~c)#? , 
-8.a. 3(N14) , DUG~a KASZ~a 
-8.b. 2(N05)# [...] , 
-1. 5(N05)# [2(N42~a) 1(N25)] , [MU |ZATU714xHI@g~a|] 
+252605	1. 5(N05)# [2(N42~a) 1(N25)] , [MU |ZATU714xHI@g~a|] 
 1. [3(N14)] , [UDU~a] 
 2. [2(N34)] , [SUHUR] 
 3. [1(N52)?] , 
@@ -70356,10 +72388,7 @@ $ (not given)
 6. [1(N01)] , [ZATU644~a] 
 7. 3(N01)# , [ZATU753] 
 8. 5(N01)# , [MA] 
-9.a. 7(N01)# , [HASZHUR] 
-9.b. [2(N01)] , [MA ZATU735~b] 
-9.c. [2(N01)] , [|GA2~a1xGESZTU~c5|] 
-1. 3(N20) 1(N42~a)# [1(N25)] 1(N28~c)# , 
+252615	1. 3(N20) 1(N42~a)# [1(N25)] 1(N28~c)# , 
 2. 1(N03)# 2(N40)# , 
 3. 3(N14)# , UDU~a# 
 4. 2(N34)# , SUHUR# 
@@ -70369,15 +72398,7 @@ $ (not given)
 8. 1(N01) , ZATU644~a# 
 9. 3(N01) , ZATU753 
 10. 5(N01) , MA 
-11.a. 7(N01) , HASZHUR 
-283728	11.b1. 2(N01) , MA ZATU735~b 
-11.b2. 2(N01) , |GA2~a1xGESZTU~c5|# 
-1.a. 1(N51) 1(N34) 4(N14) 4(N01)# , GUG2 GAR 
-1.b. 1(N20) 4(N05)# [...] 1(N25) , 
-2.a. 3(N14)# , DUG~a# KASZ~a# 
-283734	2.b1. [2(N05) ... 1(N25)] , 
-2.b2. 1(N03) [2(N40)] , 
-3. 5(N05) 2(N42~a) 1(N25)# , MU# [|ZATU714xHI@g~a|] 
+252628	3. 5(N05) 2(N42~a) 1(N25)# , MU# [|ZATU714xHI@g~a|] 
 4. , GIBIL SU~a# [|NI~a.RU| GU7 ...] 
 1. [...] , [...] X 
 2. [...] , [...] SU~a# 
@@ -70438,23 +72459,10 @@ $ (not given)
 3. 1(N51)# 2(N14)# , |6(N57).GAR|# 
 4. , X GI# [...] 
 1. , |U4x5(N57)| GI# [...] 
-1.a. 1(N05) , HI@g~a 
-283799	1.b1. 4(N05) , SZE~a 
-1.b2. 2(N03) , 
-2. 1(N38) , 
+252690	2. 1(N38) , 
 3. 1(N01)# [...] , X [...] 
-1.a. 1(N05) , HI@g~a 
-283805	1.b1. 5(N05) , 
-1.b2. 1(N42~a) , HI@g~a 
-1.b3. 1(N25)# , GUG2 
-1.b4. [...] , NE~a# [...] 
-1.b5. [...] , HI@g~a# NE~a# 
-2. [...] , [...] 
-1.a. 2(N05) 1(N42~a) , HI@g~a 
-283813	1.b1. 1(N05) , SZE~a 
-1.b2. 1(N25) , HI@g~a# NE~a# 
-1.b3. 3(N03) , 
-2. 3(N03) , 
+252693	2. [...] , [...] 
+252695	2. 3(N03) , 
 3. [...] , [...] 
 1. 2(N14)# [...] , [...] 
 2. [...] , [...] 
@@ -70466,29 +72474,13 @@ $ (not given)
 1. [...] , [...] KID~a EN~a 
 1. 1(N01) , UDU~a# 
 2. 2(N01) , SUHUR# 
-3.a. 1(N14) , GAR 
-3.b. 1(N42~a) 1(N28~c)# , 
-4.a. 2(N01)# , KASZ~a 
-283832	4.b1. [1(N42~a)] 1(N28~c)# , 
-4.b2. 1(N24~a)# , 
-5.a. , NU@g AB~a GI 
-5.b. , A# NUN~a 
-1. 1(N01) , UDU~a 
+252710	1. 1(N01) , UDU~a 
 2. 5(N01) , SUHUR 
-3.a. 1(N14) , GAR# 
-3.b. 1(N42~a) 1(N28~c) , 
-4.a. 5(N01) , KASZ~a 
-283842	4.b1. 1(N42~a) 1(N25) , 
-4.b2. 1(N24~a) , 
-5. , KAB#? LAGAB~b GI 
+252714	5. , KAB#? LAGAB~b GI 
 1. , SZE~a#? 
 1. 2(N01) , UDU~a 
 2. 7(N01) , SUHUR 
-3.a. 2(N14) , GAR 
-3.b. 2(N42~a) 1(N25) , 
-4.a. 7(N01) , KASZ~a 
-4.b. 2(N42~a)# 1(N25) 1(N28~c) , 
-5. 1(N40) , 
+252720	5. 1(N40) , 
 1. , [...] EN~a# 1(N57) 
 1. 2(N03) , 
 2. 3(N01) , UDU~a 
@@ -70521,36 +72513,18 @@ $ (not given)
 6. 1(N24) , 
 7. , [...] 
 1. , DU KU6~a 
-283886	1.a1. , [|U4.(1(N14).8(N08))|?] TI# GIR3@g~b# [1(N57)] 
-1.a2. , |U4.(1(N14).4(N08))|#? 2(N57)# 
-1.a3. , |U4.3(N08)|# 3(N57) 
-1.b. , |U4x1(N01).5(N08)| 
-1.c. 3(N01) 2(N39~a) 1(N24) , SZE~a 
-1.d. 1(N39~a) 1(N24) 1(N30~a) , TAR~a 
-1.e. , UNUG~a 
-2.a. [...] , NAMESZDA# 
-2.b. 1(N01) , SZE~a 
-2.c. 1(N24) , 
-3.a. 1(N14) 1(N01) , UDU~a PAP~a BU~a NAM2 
-283898	3.b1. 4(N01) , UDU~a |U4x2(N01)| 
-3.b2. 7(N01) , UDU~a |U4x3(N01)| 
-1. [...] 1(N01)# , SZAGAN# X [...] 
+252756	1. [...] 1(N01)# , SZAGAN# X [...] 
 2. [...] , [...] SANGA~a# 
 3. , X NAMESZDA# AN 
 4. [...] , [...] 
 5. 1(N01) , |ZATU714xHI@g~a|# MU 
 6. , GI 
 1. 1(N45) 6(N14) , DUB~a SZE~a 
-2.a. , 1(N24) |U4x3(N57)| EN~a PA~a 
-2.b. 1(N45) 9(N14) 4(N01) 4(N39~a)# , SZE~a# 
-1. , GIR3@g~b# PA~a# 
+252764	1. , GIR3@g~b# PA~a# 
 1. 1(N34) 5(N14) 4(N01) 4(N39~a) , SZE~a PA~a GIR3@g~b 
 1. 3(N01) [...] , ME~a ZATU753 
 1. [...] , X [...] 
-1.a. 1(N20) , 
-283915	1.b1. 2(N05) , HI@g~a 
-1.b2. 4(N05)#? , [...] 
-2. [...] , [...] 
+252769	2. [...] , [...] 
 3. [...] 3(N21) , 
 1. 1(N01) , KID~b 
 2. 1(N14)# [...] , [...] 
@@ -70596,19 +72570,9 @@ $ (not given)
 2. [...] 1(N01)# , ZATU644~a 
 3. 1(N01) , ZATU753 
 4. , GU7 
-1.a. [...] , [...] EN~a#? AN# NA~a 
-1.b. [...] , [...] SUG5#? DU 
-2.a. 5(N01) , |(SUKUD+SUKUD)~b| MASZ 
-283967	2.b1. , MASZ DU [...] 
-2.b2. , NA~a# [...] 
-2.b3. , NA~a X [...] 
-1. 1(N14) 7(N01)# [...] , SZU2 
+252817	1. 1(N14) 7(N01)# [...] , SZU2 
 2. 2(N01) [...] , ZATU753 
-3.a. 1(N01) , GU4 
-3.b. , KASKAL GU4 UB 
-4.a. 1(N01) , [...] 
-4.b. , EN~a AN URUDU~a [...] 
-5. , TAK4~a KI GU7# 
+252821	5. , TAK4~a KI GU7# 
 1. 4(N01) , KID~b |GISZxSZU2~a| UDU~a# 
 2. 8(N01) , SZU@g 
 3. 6(N01) , GIR2~a? MU 
@@ -70635,14 +72599,7 @@ $ (not given)
 1. [...] , [...] IB~a TAG~d# 
 1. 7(N34)# [...] , [...] 
 1. [...] , AB~a# |NI~a.RU|# [...] 
-1.a. [...] , [...] 
-1.b. [...] 1(N25) , 
-2.a. [...] 2(N01) , GUG2 
-2.b. 1(N25) , 
-3.a. [...] , [...] 
-1.a. [...] , [DUG~a KASZ~a] DUB~a# E2~a# 
-1.b. [...] 1(N25) 1(N30A~c)#? , 
-2. [...] 2(N05) 2(N42~a) 1(N25) , |ZATU714xHI@g~a| [...] 
+252852	2. [...] 2(N05) 2(N42~a) 1(N25) , |ZATU714xHI@g~a| [...] 
 3. [...] 1(N01) , |DUG~cx1(N57)| 
 4. [...] 1(N01) , [...] 
 5. [...] 1(N01) , [...] X 
@@ -70654,46 +72611,23 @@ $ (not given)
 2. , |NI~a.RU|# GIBIL 2(N57) SU~a# 
 1. [...] , [...] 
 2. [...] 1(N01)# [...] , 
-1.a. [...] 1(N14)# , KASZ~a#? [...] 
-1.b. [...] 1(N25)# , 
-2. , UNUG~a# [...] 
+252865	2. , UNUG~a# [...] 
 1. [...] , [...] GI# 
-1.a. 6(N01)# , GUG2# SZA 
-1.b. 1(N42~a) , 
-2.a. 2(N14) , |LAGAB~axSZA| DUB~a E2~a 
-2.b. 2(N42~a) , 
-1. , |NI~a.RU|# AB~a [...] 
+252869	1. , |NI~a.RU|# AB~a [...] 
 1. [...] 2(N01)# 2(N39~a)# [...] , [...] 
 1. 1(N34) 4(N14) 7(N01)# [...] , [...] 
 1. 1(N01) , UDU~a 
-2.a. 1(N14) , GAR# 
-2.b. [...] , 
-3.a. 2(N01) , KASZ~a# 
-3.b. 1(N28~c) , 
-4. [...] , [...] 
+252875	4. [...] , [...] 
 1. , EN~a# PAP~a# X AB~a GI 
 2. , AB~a# [...] GI# 
-1.a. [...] , [...] SZE~a KALAM~a PA~a 
-1.b. [...] , [...] 
-2. [...] 1(N14)# , X [...] 
+252879	2. [...] 1(N14)# , X [...] 
 1. [...] 1(N34)# [...] 2(N14)# [...] , LAGAB~b# [...] 
-1.a. [1(N14)] , 1(N30~a) 
-1.b. [1(N42~a)] 1(N25) 1(N30A~c)# , 
-2.a. 2(N01) , KASZ~a 
-2.b. 1(N28~c) , 
-3.a. 1(N01) , ZATU710# 
-3.b. 1(N25)# , 
-4. , U4 |NI~a.RU| 
+252884	4. , U4 |NI~a.RU| 
 1. , [...] UNUG~a 
 2. , GU7 
 1. 2(N42~a) 1(N28~c) 1(N30A~c)# , [...] 
 1. , GU7# 
-1.a. 2(N01) , 1(N39~a) 
-1.b. 2(N42~a)# , 
-2.a. 3(N01) , 1(N24) 
-2.b. 1(N42~a)# 1(N25)# , 
-3.a. 1(N34)# 1(N14)# 2(N01) [...] , GAR# [...] 
-1. [...] , [...] 
+252892	1. [...] , [...] 
 2. [...] , [...] X 
 3. [...] , [...] X 
 4. [...] , [...] 
@@ -70714,94 +72648,18 @@ $ (not given)
 2. [...] , ZATU644~a 
 1. , AB~a# |NI~a.RU| GIR3@g~b AMAR PA~a GI [...] 
 1. , [...] SU~a# GIBIL 
-1.a. 1(N01) , |NINDA2x1(N01)| 
-1.b. 1(N05) , 
-2.a. 1(N01) , 1(N39~a) 
-2.b. 1(N42~a) , 
-3.a. 2(N01) , 1(N24) 
-3.b. 1(N42~a) , 
-4.a. 6(N01) , 1(N28) 
-4.b. 1(N42~a) 1(N25) , 
-5.a. 2(N14) , GAR 
-5.b. 3(N42~a) 1(N25) , 
-6.a. 5(N01)# , DUG~a KASZ~a 
-6.b. 1(N42~a) 1(N28~c) , 
-7. 3(N42~a)# 1(N28~c) , MU EN~a BAR DUG~a 
-1.a. , |NI~a.RU| 
-1.b. , EN~a PAP~a DU GIR3@g~b EN~a ABGAL 
-2.a. 1(N01) , AB2 X 
-2.b. , UTUL~a GAL~a 
-2.c. 5(N01) , UDU~a 
-3. 3(N05) 1(N42~a)? 1(N25) , EN~a BAR DUG~a 
-1.a. [...] , [...] 
-1.b. [...] , [...] X 
-2.a. [...] 2(N01)# , SZITA~a1 
-2.b. 1(N01) , |SILA3~axKU6~a| 
-3.a. 1(N08) , [...] X 
-3.b. 2(N01) , SZITA~a1 
-4.a. |ZATU659x1(N01)|# , SAG# [...] 
-4.b. 1(N01) , SZITA~a1 
-5.a. |ZATU659x1(N01)|# , SIG7# SAL#? X 
-5.b. [...] , X 
-6.a. |ZATU659x1(N01)| , TU~b HI SZA3~a2 
-6.b. 1(N01) , SZITA~a1 
-7.a. |ZATU659x1(N01)| , AMA~a AGAR2 
-7.b. 1(N01) , SZITA~a1 
-8.a. |ZATU659x1(N01)| , AN NIM~b3 
-8.b. 1(N01) , SZITA~a1 
-9.a. 2(N01) , GAR |NI~a.RU| ME~a 
-284119	9.b1. 1(N01) , KASZ~a 
-9.b2. 1(N01) , SZITA~a1 
-1.a. [...] , ENGIZ# SZAGAN# 
-1.b. 1(N01) , SZITA~a1 
-2.a. 1(N08) , EN~a UMUN2 ABGAL 
-2.b. 1(N01) , SZITA~a1 
-3.a. |ZATU659x1(N01)|# , SANGA~a# |NI~a.RU|# 
-3.b. 1(N01) , SZITA~a1 
-4.a. 1(N08) , SANGA~a AB~a 
-4.b. 1(N01) , SZITA~a1 
-5.a. 1(N08) , [...] IB~a# 
-5.b. 1(N01) , SZITA~a1 
-6.a. [...] , [...] X 
-6.b. 1(N01) , SZITA~a1 
-7. |ZATU659x1(N01)|# , [...] U2~b A 
+252919	7. 3(N42~a)# 1(N28~c) , MU EN~a BAR DUG~a 
+252922	3. 3(N05) 1(N42~a)? 1(N25) , EN~a BAR DUG~a 
+252938	7. |ZATU659x1(N01)|# , [...] U2~b A 
 8. |ZATU659x1(N01)| , SZIDIM 
 9. 2(N01) , MU |ZATU714xHI@g~a| 
 10. , KASZ~a GAR |NI~a.RU| |U4x1(N57)|# 
 1. [...] 1(N01)# , [...] X 
 2. [...] 2(N01)# , [...] SZITA~a1 
 3. , |U4x1(N57)|# KASZ~a GAR [|NI~a.RU|] 
-1.a. 2(N42~a) 1(N25) , 
-284142	1.b1. 1(N42~a) , PA~a GIR3@g~b# 
-1.b2. 1(N42~a)# , X [...] 
-284145	1.b3A. [1(N14)] 2(N01) , GAR 
-1.b3B. 2(N42~a) , 
-284148	1.b4A. [...] , [...] KASZ~a# 
-1.b4B. 1(N25) , ME~a 
-2.a. |ZATU659x1(N01)|#? , |KU6~a+KU6~a| MU 
-2.b. 5(N08) , SUHUR# 
-2.c. , MASZ |(SUKUD+SUKUD)~b| 
-3. 1(N01) , UDU~a |U4.(1(N14).5(N08))| GAL~a [SZAB~a] 
+252947	3. 1(N01) , UDU~a |U4.(1(N14).5(N08))| GAL~a [SZAB~a] 
 4. 1(N01) , UDU~a |U4x1(N01)| DI#? [GIR3@g~b?] 
-1.a. 2(N01) 1(N08) , EN~a GAR 
-1.b. 1(N01) , KASZ~a 
-284158	1.c1. 2(N01) , SZITA~a1 
-1.c2. 1(N01) , |SILA3~axKU6~a| 
-2.a. [...] , [...] X 
-2.b. [...] , KASZ~a 
-284163	2.c1. 2(N01) , SZITA~a1 
-2.c2. 1(N01) , |SILA3~axKU6~a| 
-3.a. [...] , [...] 
-3.b. [...] , [...] 
-3.c. [...] , SZITA~a1# 
-4.a. 1(N01) , |ZATU659x1(N01)| SAG# 
-4.b. [...] , KASZ~a#? 
-4.c. 1(N01)# , SZITA~a1 
-5.a. 1(N01) , |ZATU659x1(N01)|# 3(N57)# PAP~a# NIN 
-5.b. 1(N01) , SZITA~a1 
-6.a. [...] , [...] 
-6.b. 1(N01) , SZITA~a1# 
-1. 2(N01)# [...] , [...] 
+252955	1. 2(N01)# [...] , [...] 
 2. [...] , [...] 
 3. 1(N08) , [...] 
 4. 1(N01) , |ZATU659x1(N01)|# [...] 
@@ -70812,77 +72670,38 @@ $ (not given)
 1. [...] 1(N24)# , SZE~a# [...] 
 1. [...] , EN~a# [...] 
 1. [...] 1(N45)# [...] 2(N01)# [...] , [...] 
-1.a. , |ZATU659x1(N01)| U2~b A 
-1.b. 1(N01) , SZITA~a1 
-2. 1(N01) , MU# [...] 
+252967	2. 1(N01) , MU# [...] 
 1. 1(N01) , AN GAR X [...] 
 2. 1(N01) , X [...] 
 3. [...] , [...] 
-1.a. [...] , [...] 
-1.b. [...] , [...] SZITA~a1# 
-2.a. [...] , [...] 
-2.b. [...] , [...] X 
-3.a. [...] , [...] X 
-3.b. [...] , [...] X SZITA~a1#? 
-4. [...] , U2~b#? A 
+252974	4. [...] , U2~b#? A 
 5. 1(N01)# , MU# |ZATU714xHI@g~a|# 
-1.a. [...] , [...] 
-1.b. [...] , [...] 
-1.c. 1(N14)# 2(N01) , GAR# |NI~a.RU| GAR 
-1.d. 2(N42~a) , 
-2.a. [...] , [...] 
-2.b. 1(N25)# , ME~a# 
-3.a. [...] , [...] 
-3.b. 5(N08) , SUHUR 
-3.c. , MASZ |(SUKUD+SUKUD)~b| 
-4. [1(N01)] , [UDU~a] |U4.(1(N14).5(N08))|# GAL~a SZAB~a 
+252979	4. [1(N01)] , [UDU~a] |U4.(1(N14).5(N08))|# GAL~a SZAB~a 
 5. [1(N01)] , [UDU~a] |U4xX|# DI GIR3@g~b# 
 1. [...] , X [...] 
 1. 1(N14)# [...] , [...] 
 2. 1(N01)# , X 
 1. 1(N14) 2(N01) , 1(N57) EN~a ZATU659 [...] 
-1.a. [...] 2(N05) 1(N42~a) , DUG~a BA [...] 
-1.b. 1(N20) 1(N42~a) , NUN~a EN~a ME~a# PAP~a [...] 
-2.a. [...] 3(N05)# 2(N42~a) , BA# [...] 
-2.b. 4(N05) 2(N42~a) 1(N25) , DUG~a X [...] 
-1. 2(N45)# 8(N14) 2(N01) , SI? SZE~a# 
+252987	1. 2(N45)# 8(N14) 2(N01) , SI? SZE~a# 
 2. [...] , X X 
 1. [...] , X X GAR 
 1. [...] , [...] 
 2. [...] , [...] X 
 3. [...] 1(N01)# , SZU2# 
-4.a. [...] , BA [...] 
-284227	4.b1. , [...] 3(N57)# SAL# 
-4.b2. , EN~a PAP~a DU SANGA~a 
-1. [...] , [...] 
+252994	1. [...] , [...] 
 2. , BA 
 3. , SZU ZI~a 
 4. , GIR3@g~b DI 
-1.a. [...] 3(N14)# 3(N01)# , X KASZ~b#? [...] 
-284235	1.b1. 1(N14) 2(N01) , BA 
-1.b2. 2(N14) 1(N01) , 3(N57) SAL GI# 
-2. [...] , [...] |U4x2(N01).X|# X [...] 
+252999	2. [...] , [...] |U4x2(N01).X|# X [...] 
 1. 1(N51) , GAR# NUN~a ZATU773~a 
-1.a. 1(N01) , SZE~a U4 
-1.b. 1(N04) , 
-2.a. 2(N01) , ZATU797 
-2.b. 2(N01) , SI4~d 
-3. 1(N01) , DUG~a SZE~a 
-4.a. 4(N14) 1(N01) , UDU~a |U4x6(N57)|#? 
-4.b. 4(N01) , KISIM~a 
-1. , KI BU~a# [...] 
+253003	3. 1(N01) , DUG~a SZE~a 
+253005	1. , KI BU~a# [...] 
 2. , EN~a DU ZATU624~a |SAR~axSZE~a| 
 1. [...] , [...] 
 2. 4(N01)# [...] , [...] 
 3. 4(N01)# [...] , [...] 
 1. [...] , [...] X U4 [...] 
-1.a. 1(N01) , X 
-284254	1.b1. 1(N14)# , GAR 
-1.b2. 1(N42~a) 1(N25) , 
-284257	1.c1. 2(N01) , DUG~a# X 
-1.c2. 1(N42~a)# 1(N25)# , 
-1.d. , X [...] 
-2. , SAL# [...] 
+253012	2. , SAL# [...] 
 1. , GU7 |NI~a.RU| EN~a# [...] 
 1. 3(N20)# 1(N05)# [...] 2(N42~a)# [...] 1(N25)# 1(N27)? , 
 2. 2(N03)# [...] , 
@@ -70893,14 +72712,7 @@ $ (not given)
 1. 7(N01) , SZU2 
 2. 1(N01) , ZATU644~a 
 3. 2(N01) , ME~a 
-4.a. 2(N01) , MA 
-4.b. 3(N01) , HASZHUR 
-5.a. 2(N01) , MA ZATU735~b 
-5.b. 2(N01) , |GA2~a1xGESZTU~c5| 
-6.a. , |NI~a.RU|# GIBIL 1(N57)# SU~a 
-284277	6.b1. , ENGIZ# SZAGAN 
-6.b2. , AB~a X [...] 
-1. 1(N01)# , MA# 
+253026	1. 1(N01)# , MA# 
 2. 4(N01)# , HASZHUR 
 3. 2(N01)# , MA ZATU735~b? 
 4. 1(N01) , |GA2~a1xGESZTU~c3|# 
@@ -70998,9 +72810,7 @@ $ (not given)
 3. 2(N01) , MA# ZATU735~b# 
 4. , [...] E2~a 
 5. , GU7 |NI~a.RU| 
-1.a. [...] , [...] 
-1.b. , SANGA~a# AB~a# 
-2. , |NI~a.RU|# GU7 [...] 
+253125	2. , |NI~a.RU|# GU7 [...] 
 1. [...] , [...] 
 2. [...] , [...] 
 3. , X SZAM2#? X SZU# [...] 
@@ -71020,19 +72830,12 @@ $ (not given)
 2. , [...] 
 3. , [...] 
 4. , UNUG~a# 
-1.a. 1(N14)# 4(N01)# , X X ZATU644~a# 
-284401	1.b1. 1(N14) , SZU2 
-1.b2. 1(N01)# , [...] SZU2 
-1.b3. 1(N01) , ME~a 
-1.b4. 2(N01) , ZATU753 
-2. 1(N01) , DUG~b# 
+253146	2. 1(N01) , DUG~b# 
 3. 1(N01) , KASZ~c# 
 4. 6(N01)# , MA# 
 5. 6(N01)# , HASZHUR# 
 1. 4(N14)# 4(N01)# , X AB~a 
-2.a. 1(N01) , AMAR# EN~a# DUG~a# BAR# 
-2.b. 6(N01) , UDU~a# 
-3. 3(N14)# , AB~a# SUHUR# 
+253152	3. 3(N14)# , AB~a# SUHUR# 
 4. [...] , EN~a# PA~a# DUG~a# 
 5. 2(N52)# , AB~a 
 1. 3(N21) , EN~a DUG~a BAR 
@@ -71060,13 +72863,7 @@ $ (not given)
 1. 1(N14)# 8(N01)# , X 
 2. [...] , X BA# E2~a#? SZU [...] 
 3. 2(N01) [...] , [...] 
-1.a. 3(N34) , EN~a PAP~a DU 
-1.b. , GIR3@g~b AB~a AB~a SANGA~a 
-2.a. 1(N34) 2(N14) , EN~a PA~a AN ZATU686~b 
-2.b. , NAGA~a 
-3.a. 2(N34) , UB RU#? EN~a PAP~a DU 
-3.b. , MEN~a DU 
-1. , SA~a# UR2# |NI~a.RU|# 
+253183	1. , SA~a# UR2# |NI~a.RU|# 
 1. 6(N34) 2(N14) , SA~a UR2 
 1. [5(N01)?] , [DUR~b?] ME~a#? |NI~a.RU| 
 2. 2(N01) , EN~a GI 
@@ -71088,23 +72885,12 @@ $ (not given)
 1. [...] , [...] E2~a#? KALAM~a# 
 2. 6(N01) , SANGA~a |NI~a.RU| 
 3. 6(N01) , |(SUKUD+SUKUD)~b| MASZ 
-4.a. , SANGA~a |NI~a.RU| BA 
-4.b. , UNUG~a 
-5. 5(N01) , ME~a 
+253206	5. 5(N01) , ME~a 
 6. 2(N01) , BAHAR2~c 
 7. 8(N01) , EN~a GI 
 8. , [...] |U4x3(N57)| GI# 
 1. , |NI~a.RU| AB~a 
-1.a. 2(N14) 2(N01) , |U4x1(N57)| LAGAB~b DUR~b 
-284477	1.b1. 9(N01) , BA DUR~b 
-1.b2. 1(N14) 3(N01) , GI# 
-2.a. [3(N14)? 1(N01)?] , |U4x2(N57)|# [LAGAB~b] DUR~b# 
-284481	2.b1. 1(N14) 2(N01) , BA DUR~b 
-2.b2. 1(N14) 9(N01)#? , GI# 
-3.a. [3(N14) 1(N01)] , [|U4x3(N57)| LAGAB~b DUR~b] 
-284485	3.b1. 1(N14) 6(N01) , [BA DUR~b] 
-3.b2. 1(N14)# 5(N01)# , [GI ...] 
-4. [...] , [...] 
+253214	4. [...] , [...] 
 1. [3(N14)] 7(N01)# , [BA ...] 
 2. [4(N14) 7(N01)] , [GI ...] 
 1. [1(N34) 2(N14) 4(N01)] , [DUR~b ...] 
@@ -71163,11 +72949,7 @@ $ (not given)
 1. 1(N01) , UD5~a# [...] 
 2. 1(N01) , EN~a E2~a TI 
 3. 1(N01) , E2~a X 
-1.a. 2(N01) 3(N08)? , SZE~a# BA 
-1.b. [...] , [...] X SZE~a GI 
-2.a. , E2~a BU~a PA~a URU~a1 
-2.b. , HAL ME~a 
-1. [...] , [...] NUN~a# TE X X 
+253275	1. [...] , [...] NUN~a# TE X X 
 1. [...] , [...] 
 1. [...] , [...] X 
 2. 1(N01) , UTUA~a TUR# ZATU752# [...] 
@@ -71187,13 +72969,7 @@ $ (not given)
 1. , TAK4~a# SAG KI 
 2. , SI# GU4# 
 1. 5(N05) , SI GU4 
-1.a. [...] , [...] X 
-1.b. 1(N01)# , HI#? UDU~a#? X 
-1.c. [...] , [...] X 
-2.a. [...] , [...] X 
-2.b. 1(N01)# , X X 
-2.c. 1(N01) 1(N08) , U8 
-3. 1(N01)# , EN~a# PA~a# TUG2~a#? |SAL.KUR~a| 
+253297	3. 1(N01)# , EN~a# PA~a# TUG2~a#? |SAL.KUR~a| 
 4. , X URU~a1 PA~a UDU~a 
 1. 1(N14)# 4(N01)# [...] , U8 U4 SZU PA~a [...] 
 1. 1(N01)# , GIR3@g~b# X [...] 
@@ -71208,10 +72984,7 @@ $ (not given)
 1. 3(N14) 1(N01) , SZE~a 3(N57) 
 2. , EN~a# X [...] 
 1. 8(N01)# , ME~a U8#? 
-2.a. 5(N01) , UDUNITA~a#? 
-284593	2.b1. 1(N01) , UDUNITA~a? 
-2.b2. 4(N01) , MASZ2# 
-3. , [...] X 
+253313	3. , [...] X 
 1. 1(N14) 3(N01) , UDU~a 
 1. 1(N04) , GURUSZDA? UD5~a ZATU752# 
 1. [...] , [...] KI X 
@@ -71219,153 +72992,11 @@ $ (not given)
 1. 1(N34) 1(N14) , U8 
 2. 4(N01) , AB2 X 
 1. , |SZU&SZU| [...] 
-1.a. 1(N01) , SAL GAR# X X 
-284605	1.b1. , (ZATU751~a# ERIM~a)a 
-1.b2. , ([...] X)a 
-2.a. [1(N01)] , |SAL.KUR~a|# [...] 
-284609	2.b1. , (3(N57)# [...] X)a 
-2.b2. , ([...] KU3~a)a 
-3.a. 1(N01) , KUR~a E2~a SZA |MUSZENx2(N57)|# 
-284613	3.b1. , (SI DUG~a#? X X)a 
-3.b2. , ([...])a 
-4.a. 1(N01) , KUR~a# |MUSZENx2(N57)|# [...] 
-284617	4.b1. 1(N14) , UDU~a# 
-4.b2. 1(N01) , [...] 
-4.b3. , (AMA~a# ERIM~a MUSZEN MASZ)a 
-5.a. [1(N01)] , [...] 
-284622	5.b1. , ([...])a 
-5.b2. , ([...] SAG# ERIM~a# [...])a 
-6.a. [1(N01)] , [...] 
-284626	6.b1. , ([...] |KA2xLAM| GA~a)a 
-6.b2. , (X IL# KI?)a 
-7.a. [1(N01)] , [...] DIM~a# DA~a X 
-7.b. , (LAGAB~b |DUxDISZ|# ERIM~a)a 
-8.a. [1(N01)] , [...] X 
-8.b. , ([...] X)a 
-9.a. [1(N01)] , SAL AL# TUR [...] 
-284634	9.b1. , (AN |MUSZENx2(N57)| GAR# X SZA#)a 
-9.b2. , ([...])a 
-1.a. 1(N01) , KUR~a# EN~a# TI# E2~a# 
-1.b. , (AMA~a# MUSZEN# MASZ# KI# ZATU694~c# GI#)a 
-2.a. 1(N01) , SAL# E2~a# EN~a# [...] 
-284640	2.b1. , (GAL~a# PU2#)a 
-2.b2. , (X X [...])a 
-3.a. [1(N01)] , SAL# EN~a# |SZU2.E2~a|# 
-284644	3.b1. , (SU~a# U2~b)a 
-3.b2. , (URU~a1 SAR~a)a 
-4.a. 1(N01)# , KUR~a# ZATU735~a# E2~a 
-284648	4.b1. , (E2~a SAL AD~c)a 
-4.b2. , (GU4@g DIN)a 
-5.a. 1(N01) , SAL UD5~a 
-284652	5.b1. , (MEN~a DUR2# ZATU751~a# ERIM~a)a 
-5.b2. , (TUM~c SZA# SZA#?)a 
-6.a. 1(N01) , KUR~a X UD5~a# AD~a# 
-284656	6.b1. , (I GI6 ERIM~a#)a 
-6.b2. , (E2~a#? DAH#)a 
-7.a. 1(N01)# , PAP~a# BU~a#? NE~a 
-284660	7.b1. , (|SAGxMA|#)a 
-7.b2. , (RU# [...])a 
-8.a. 1(N01) , SAL# SZA# TAK4~a# A# 
-284664	8.b1. , (TU~b# UD5~a#?)a 
-8.b2. , ([...])a 
-9. , DAH# X |SAGxMA|# KI# 
-1.a. 1(N02) , SAL |MAH~axNA~a|# 
-284669	1.b1. , (TUM~c SZA SZA)a 
-1.b2. , (DAH E2~a)a 
-2.a. 2(N02) , MEN~a NUNUZ~a1 TUR 
-2.b. , (DAH [...])a 
-3.a. 1(N02) , E2~a EN~a TI 
-284675	3.b1. , (SI MA)a 
-3.b2. , (|GIxKU~b1|)a 
-4.a. 1(N02) , SAL E2~a TI EN~a 
-4.b. , (|SZE~a&SZE~a| KASZ~c DA~a)a 
-5.a. 1(N02) , SAL# X X 
-5.b. , (TUM~c# KU6~a#? X)a 
-6.a. 1(N02) , SAL# MEN~a# NUNUZ~a1 
-284683	6.b1. , (SAG# TAK4~a# NI~a#)a 
-6.b2. , (KU6~a# KISIM~a# KU~b1#)a 
-7.a. 2(N02)# , MEN~a NUNUZ~a1 TUR 
-284687	7.b1. , (MUSZEN? KASZ~b)a 
-7.b2. , (DAH E2~a)a 
-8.a. 1(N02)# , |SILA3~axSZU2|# EN~a# A# 
-284691	8.b1. , (KU6~a ERIM~a)a 
-8.b2. , (E2~a DAH)a 
-9.a. 1(N02) , SAL A |SILA3~axSZU2| EN~a 
-284695	9.b1. , (MUSZEN# MASZ#)a 
-9.b2. , (|GIxKU~b1|)a 
-1. 1(N14) 7(N01) , |SAL.KUR~a| |SAGxMA| 
+253338	9. , DAH# X |SAGxMA|# KI# 
+253348	1. 1(N14) 7(N01) , |SAL.KUR~a| |SAGxMA| 
 2. 1(N14) , |SAL.KUR~a| ERIM~a X [...] 
 1. [2(N14)] 7(N01)# , |SAL.KUR~a|# UB PA~a#? |SAGxMA|# SANGA~a# X EN~a# 1(N04) 
-1.a. 1(N01) , |SAGxMA| |SAL.KUR~a| SZA E2~a |MUSZENx2(N57)| 
-284702	1.b1. , (ZATU751~a ERIM~a#)a 
-1.b2. , ([...])a 
-2.a. 1(N01)# , |SAGxMA| X SZA# [...] 
-284706	2.b1. , (DUR2 3(N57) ZATU751~a)a 
-2.b2. , (AB~a TUR#? KU3~a 1(N02))a 
-3.a. 1(N01) , |SAGxMA| SZA MUSZEN E2~a [...] 
-284710	3.b1. , (SI MA EN~a X)a 
-3.b2. , (|GIxKU~b1| BAR)a 
-4.a. 1(N01) , |SAGxMA| KUR~a SZA |MUSZENx2(N57)| E2~a 
-284714	4.b1. 1(N14) , UDU~a 
-4.b2. 1(N01) , KISZ KUR~a 
-4.b3. , (AMA~a MUSZEN MASZ ERIM~a)a 
-5.a. 1(N01) , |SAGxMA| GESZTU~c5 |MUSZENx2(N57)| GI SZA E2~a AMA~a 
-5.b. , (SAG ERIM~a TAK4~a NI~a MUSZ3~a UR2 DUR2)a 
-1.a. [1(N01)] , [...] KUR~a# PIRIG~b1# ERIM~a 
-1.b. , (|KA2xLAM| GA~a)a 
-2.a. 1(N02) , |SAL.KUR~a| E2~a EN~a TI 
-2.b. , (SI MA EN~a |GIxKU~b1|)a 
-3.a. 1(N02) , |SAL.KUR~a| EN~a TI E2~a 
-284725	3.b1. , (TUM~c KU6~a)a 
-3.b2. , (|GA2~a2xSZE3| ZATU751~a)a 
-4.a. 1(N02) , |SAL.KUR~a| EN~a E2~a TI 
-284729	4.b1. , (|SZE~a&SZE~a| KASZ~b DA~a)a 
-4.b2. , (3(N57) A)a 
-5.a. 1(N01) , |SAL.KUR~a| DIM~a DA~a |SAGxMA| 
-5.b. , (LAGAB~b |DUxDISZ|? ERIM~a)a 
-1.a. 2(N01) , |SAGxMA| |SAL.KUR~a| AL 
-1.b. , ([...] X DU)a 
-2.a. 1(N01)# , TUR# PAP~a SAL NI~a AL [...] 
-2.b. , (AN GAR# |MUSZENx2(N57)| SZA)a SAL 
-3.a. 1(N01) , KUR~a PAP~a EN~a |SZU2.E2~a| 
-3.b. , (SAL AMA~a MUSZEN MASZ |GIxKU~b1|? KI)a 
-4.a. 1(N01)# , |SAL.KUR~a|# EN~a |SZU2.E2~a| 
-4.b. , (GAL~a ERIM~a PU2)a 
-5.a. 1(N01) , |SAL.KUR~a| EN~a |SZU2.E2~a| 
-284743	5.b1. , (SU~a U2~b)a 
-5.b2. , (URU~a1 SAR~a)a 
-6.a. 1(N01) , |SAGxMA| KUR~a E2~c ZATU735~a 
-6.b. , (E2~a SAL AD~c)a 
-1.a. 1(N01)# , |SAL.KUR~a| UD5~a [...] 
-1.b. , (|GA2~a2xSZE3|# DUR2 ZATU751~a)a ERIM~a 
-2.a. [...] , [...] X 
-2.b. , (I# GI6 ERIM~a)a 
-3.a. 1(N01) , [...] PAP~a# BU~a# [...] 
-3.b. , (|SAGxMA|)a 
-4.a. 1(N01) , X [...] SAL# 
-4.b. , ([...] X)a 
-5.a. 1(N01) , |SAL.KUR~a| E2~a SZUR2~a SZU RU DU 
-5.b. , (|GA2~a2xSZE3| RU)a |SAGxMA| ERIM~a 
-6.a. 1(N01) , |SAL.KUR~a| |SAGxMA| TU~b TAK4~a A 
-284759	6.b1. , (E2~a U4 LAM~b)a 
-6.b2. , (AD~c? NI~a SZU)a 
-7.a. 1(N01) , |SAL.KUR~a| |MAH~axNA~a| 
-7.b. , (TUM~c SZA SZA)a |SAL.KUR~a| 
-8.a. 2(N01) , MEN~a TUR NUNUZ~a1 
-8.b. , (E2~a DAH)a 
-1.a. 1(N02) , |SAL.KUR~a| MEN~a NUNUZ~a1 
-284767	1.b1. , (SAG TAK4~a NI~a)a 
-1.b2. , (KU6~a KISIM~a KU~b1)a 
-2.a. 2(N02) , |SAL.KUR~a| TUR MEN~a NUNUZ~a1 
-284771	2.b1. , (MUSZEN 6(N57)? KASZ~c)a 
-2.b2. , (DAH E2~a)a 
-3.a. 1(N02) , SAL EN~a A |SILA3~axSZU2| 
-284775	3.b1. , (KU6~a ERIM~a)a 
-3.b2. , (E2~a DAH)a 
-4.a. 1(N02) , SAL |SILA3~axSZU2| EN~a A 
-284779	4.b1. , (MUSZEN MASZ)a 
-4.b2. , (|GIxKU~b1|#)a 
-1. , NIMGIR |SAGxMA|# 
+253379	1. , NIMGIR |SAGxMA|# 
 1. 1(N01)# , UB# 
 2. 1(N01)# , [...] UB# 
 3. 1(N01)# , AB~a# SZITA~a1# 
@@ -71390,10 +73021,7 @@ $ (not given)
 2. 3(N03) , 
 3. 1(N01) , GAR PU2? 
 4. 2(N01) , TAK4~a A 
-284807	5.a1. 3(N01) , ME~a# 
-5.a2. , SAG 
-5.b. , X [...] 
-1. 1(N45) 4(N01) , SZE~a GU7 
+253405	1. 1(N45) 4(N01) , SZE~a GU7 
 1. [1(N01)] , [...] X 
 2. [1(N01)] , [...] X 
 3. [1(N01)] , [...] 
@@ -71419,31 +73047,8 @@ $ (not given)
 1. , X [...] |SAL.KUR~a| |SAGxMA| NIMGIR 
 1. [...] 2(N01)# , |SAL.KUR~a| X [...] 
 1. , UB A X [...] 
-1.a. 2(N01)#? , GIR3@g~b PA~a#? 
-284839	1.b1A. , 1(N57) (3(N57) SAL EN~a TE)a 
-1.b1B. , (3(N57) KU6~a RAD~a)a 
-284842	1.b2A. , 1(N57) (E2~a 3(N57) DA~a)a 
-1.b2B. , (NI~a TAK4~a SAG)a 
-2.a. 2(N01)# , PA~a# AB2# KI 
-284847	2.b1A. , (EN~a ZATU630)a 
-2.b1B. , (SZUM SZUBUR)a 
-284850	2.b2A. , (E2~a# SAG# 3(N57)#)a 
-2.b2B. , (PIRIG~b1)a 
-3.a. 1(N01) , KI AB2 PA~a# 
-284854	3.b1. , (X X ME~a SZU)a 
-3.b2. , (HI AD~c GI)a 
-4. , |NI~a.RU|# AB~a# APIN~a# DUB~a# 
-1.a. [2(N01)? , GIR3@g~b PA~a?] 
-284860	1.b1A. , [1(N57) (3(N57) SAL EN~a TE)a] 
-1.b1B. , (3(N57) KU6~a RAD~a)a 
-284863	1.b2A. , [1(N57) (E2~a 3(N57) DA~a)a] 
-1.b2B. , (NI~a# TAK4~a# SAG#)a 
-2.a. 2(N01) , PA~a AB2 KI 
-284867	2.b1. , (SZUM SZUBUR)a 
-2.b2. , (PIRIG~b1)a 
-3.a. 1(N01) , KI AB2 PA~a 
-3.b. , (HI AD~c GI)a 
-4. 1(N01) , 3(N57) SAL 
+253434	4. , |NI~a.RU|# AB~a# APIN~a# DUB~a# 
+253438	4. 1(N01) , 3(N57) SAL 
 5. , DUB~a AB~a APIN~a 
 1. , |NI~a.RU| AB~a 
 1. 1(N01) , UB [...] 
@@ -71451,19 +73056,9 @@ $ (not given)
 3. 1(N01) , TUR3~a BU~b U2~b DU 
 1. [...] , [...] 
 2. , AB~a UB SAL ZATU751~b 
-1.a. 2(N01) , KUR~a DUB~a GI 
-284882	1.b1A. 1(N01) , AL 
-1.b1B. , (UB ZI~a)a 
-284885	1.b2A. 1(N01) , EN~a TUR 
-1.b2B. , (3(N57) SZU)a 
-2.a. , ZATU628~a# SAL SZU AMA~a SAL NAM2 KAB 
-2.b. , AB~a UB 
-1. 1(N01) , X X 
+253448	1. 1(N01) , X X 
 1. , NIM~b1# SAL [...] 
-1.a. 2(N01) , |SAL.KUR~a| GAL~a SAL 
-284893	1.b1. , (EN~a PAP~a X)a 
-1.b2. , (SUKKAL GIR3@g~c)a 
-1. [...] 1(N01)# , |SAL.KUR~a|# 
+253451	1. [...] 1(N01)# , |SAL.KUR~a|# 
 1. , X [...] E2~b# 
 1. 5(N14)# 4(N01) , NI~a ERIM~a 3(N57)? ZATU686~a#? 
 2. 4(N14)# 6(N01)# , X 
@@ -71477,15 +73072,10 @@ $ (not given)
 1. 1(N14) 5(N01) , X X 
 2. 1(N14) 5(N01) , DA~a DU GAL~a 
 3. 1(N14)# [...] , PA~a# ERIN 
-4.a. 7(N01) , SZUBUR KASKAL 
-4.b. 2(N14) 8(N01) , GISZ IG~a 
-5. 2(N14)# , PAP~a GIR3~c 
+253466	5. 2(N14)# , PAP~a GIR3~c 
 6. 2(N14) , 3(N57) |AMA~axE2~a|? 
 7. 1(N14) , APIN~a# 
-8.a. 2(N14) , 3(N57) AMA~a [...] 
-284916	8.b1. , U2~b A 
-8.b2. , UNUG~a 
-9. 1(N14) , APIN~a# [...] 
+253470	9. 1(N14) , APIN~a# [...] 
 1. , GISZ@t E2~b 
 2. 3(N48) , U2~b SAG PAP~a GIR3~c 
 3. 1(N48) , U2~b SAG# PA~a 
@@ -71516,12 +73106,7 @@ $ (not given)
 2. , BA 
 1. , [...] X BA 
 1. 1(N14) 1(N01) , 5(N57) DUG~a X [...] 
-1.a. 4(N14)# 3(N01) [...] , [...] 
-284952	1.b1A. 2(N14) 3(N01) , BA 
-284954	1.b1B1. , AN 3(N57) 
-1.b1B2. , EN~a PA~a ERIN 
-1.b2. [...] 2(N01)# , GI# [...] 
-1. , [...] SU~a X 
+253502	1. , [...] SU~a X 
 1. 4(N01) , SZU2 
 2. [...] , [...] 
 1. [...] , [...] X 
@@ -71560,9 +73145,7 @@ $ (not given)
 2. [...] , UDU~a AMAR 
 3. [...] , [...] X UNUG~a GAN2# X 
 1. [...] , X [...] 
-2.a. 2(N01)# , GA~a AB~a# SANGA~a GAL~a SZITA~a1 
-2.b. [...] , IB~a#? SZU# 
-3. 2(N01) , AB~a UKKIN~a MU# SZU# 
+253542	3. 2(N01) , AB~a UKKIN~a MU# SZU# 
 1. [...] , [...] SAG#? |NI~a.RU|# 
 1. , [...] GU7#? 
 1. [...] , [...] SANGA~a ME~a UB 
@@ -71637,70 +73220,17 @@ $ (not given)
 1. 1(N01)# , NUN~a 
 1. 4(N14) 3(N01) , URU~a1 BA 
 1. [...] , [...] EN~a# NE~a DUG~a KASZ~a 
-1.a. 2(N34) 1(N14) 2(N01) , SZE~a AN GUM~b 
-285075	1.b1. 3(N36) 1(N46) 8(N19) 2(N04) , U4 
-1.b2. 2(N36) 2(N45) 4(N19) 4(N04) , GI 
-1.b3. 2(N46) 2(N19) 1(N04) , KA~a NAM~c 
-2.a. 1(N34)# , SZE~a |E2~bx1(N57)@t|#? SZUBUR 
-2.b. 1(N36) 1(N46) 5(N19) , KA~a NAM~c 
-1.a. 6(N14) , KALAM~b PA~a PAP~a 
-285082	1.b1. 1(N46) , IR~a 
-1.b2. 1(N46) , NE~a 
-1.b3. 1(N46) 4(N19) 3(N04) , |GISZ.TE| 
-2. 2(N46) , IR~a PAP~a 
+253620	2. 2(N46) , IR~a PAP~a 
 3. 1(N46) 8(N19) 3(N04)# , AB~b KID~b E2~b NE~a 
 4. , PAP~a 
 1. 3(N34) 7(N14) 2(N01) , SZE~a 
 2. 1(N49) 1(N46) 8(N19) 4(N04) , 
 3. 1(N46) 4(N19) 3(N04) , |GISZ.TE| 
 1. 1(N49)#? 4(N34) 1(N45) 3(N01) , SZE~a SI KI 
-1.a. 1(N01) , 1(N24) 
-1.b. 1(N05) , 
-2.a. 1(N14) , 1(N26) 
-2.b. 3(N42~a) 1(N27) , 
-3.a. 2(N14) , 1(N28) 
-3.b. 1(N05) , 
-4.a. 3(N14) , 1(N29~a) 
-4.b. 1(N05) 1(N42~a) , 
-285101	5.a1. 1(N14) , SIG2~a2 
-5.a2. 1(N14) , ZATU726~d 
-5.b. 4(N42~a) , 
-6.a. 1(N34) , 1(N30~a) 
-6.b. 2(N05) , 
-7.a. 5(N01) , SZEN~b GAL~a 
-285108	7.b1. 1(N05) 2(N42~a) 1(N25) , 
-7.b2. 1(N03) 2(N40) 1(N24~a) , 
-8.a. 3(N14) , SZEN~b TUR 
-285112	8.b1. 3(N05) 3(N42~a) , 
-8.b2. 3(N03) 3(N40) , 
-1.a. 2(N34) , SZEN~c@t 
-285116	1.b1. 1(N20) 1(N05) 1(N42~a) , 
-1.b2. 1(N18) 1(N03) 1(N40) , 
-285119	2.a1. 3(N14) , SZA@g 
-2.a2. 3(N14) , DU8~c@g 
-2.b. 1(N05) 3(N42~a) , 
-3. 4(N05) , MU# |ZATU714xHI@g~a| 
+253637	3. 4(N05) , MU# |ZATU714xHI@g~a| 
 4. , |ZATU651xGAR| 
-5.a. 1(N54) 5(N51) , GAR 
-5.b. 1(N47) 2(N20) , 
-6.a. 3(N14) , |SILA3~bxGUG2| 
-6.b. 1(N05) 1(N42~a) , 
-7. 2(N34) , GAN~c 
-1.a. 1(N34) , KASZ~a 
-285131	1.b1. 1(N20) 1(N05) 1(N42~a) , 
-1.b2. 3(N03) 3(N40) , 
-285134	2.a1. 2(N34) , SZA@g 
-2.a2. 1(N34) , DU8~c@g 
-2.b. 5(N05) 1(N42~a) , 
-1.a. 2(N51) , 1(N30~c) DU8~c AB~b EZINU~d 
-1.b. 4(N05) 4(N42~a) , 
-2.a. 1(N34) , 1(N28) |GISZxSZU2~b| SAR~a 
-2.b. 3(N05) , 
-3.a. 5(N51) , 1(N30~c) DU8~c |GISZxSZU2~b| SAR~a 
-3.b. 2(N20) , 
-1.a. 3(N14) , 1(N28) GUG2 UNUG~a 
-1.b. 1(N05) 2(N42~a) 1(N25) , 
-2. , GU7 
+253641	7. 2(N34) , GAN~c 
+253648	2. , GU7 
 1. 3(N20) 3(N05) 1(N42~a) 1(N25) , HI@g~a 
 2. , GU7 
 1. 2(N40) 1(N24~a) , 
@@ -71746,19 +73276,8 @@ $ (not given)
 2. 1(N03) 1(N40) , 
 3. 2(N03) , SAL HI KA~a 
 4. 2(N03) 1(N40) , MUD NUN~a#? [...] 
-285192	1.a1. 2(N01) , ZATU710 
-1.a2. 5(N01) , SZEN~b# TUR 
-285195	1.b1. 1(N39~a) 1(N24) , HI 
-1.b2. 1(N39~a) , HI@g~a 
-1.b3. 2(N40) 1(N24~a) , 
-2. , SI4~f? ERIN SZAM2 
-1.a. [...] , [...] 
-285201	1.b1. [...] , [...] 
-1.b2. 1(N03)# 1(N40)# , 
-2.a. [...] 1(N14)# , [...] 
-285205	2.b1. 2(N05)# 2(N42~a)# 1(N25)# , 
-2.b2. 2(N03)# 1(N24~a)# , 
-3. [...] , [...] 
+253695	2. , SI4~f? ERIN SZAM2 
+253698	3. [...] , [...] 
 1. 5(N01) , GAL~a SZEN~b 
 2. 3(N14) 5(N01) , SZEN~b TUR 
 3. 1(N34) , SZEN~c@t 
@@ -71787,30 +73306,13 @@ $ (not given)
 6. 1(N14) , SZEN~b TUR KU3~a APIN~a 
 7. 1(N34) 2(N14) 8(N01) , SZEN~c@t |U4.2(N08)| AN MUSZ3~a SIG NAGAR~a EZEN~b 
 8. 1(N14) , DUG~a EZEN~b NAGAR~a AN SIG MUSZ3~a |U4.2(N08)| 
-285237	1.a1. 7(N20) 5(N05) 1(N42~a) 1(N25) , 
-1.a2. 9(N18) 2(N03) 2(N40) 1(N24~a) , 
-285241	1.b1A. 2(N14) 1(N01) , SZEN~b GAL~a 
-285243	1.b1B1. 1(N20) 1(N42~a) 1(N25) , 
-1.b1B2. 1(N18) 1(N40) 1(N24~a) , 
-285246	1.b2A. 2(N34) 4(N14) , SZEN~b TUR 
-285248	1.b2B1. 3(N20) 1(N05) 1(N42~a) , 
-1.b2B2. 3(N18) 1(N03) 1(N40) , 
-285251	1.b3A. 6(N34) 1(N14) 8(N01) , SZEN~c@t 
-285253	1.b3B1. 3(N20)# 1(N05) 2(N42~a) , 
-1.b3B2. 4(N18) 5(N03)# 2(N40) , 
-285256	1.b4A. 1(N14) , DUG~a 
-285258	1.b4B1. 2(N05)? 2(N42~a)? , 1(N57)? SZE~a 
-1.b4B2. 1(N03) 3(N40) , 
-2. , KU~b1 SZIM~a 
+253728	2. , KU~b1 SZIM~a 
 1. 3(N40) 1(N24~a) , MUD 3(N57) TE 
 2. 1(N03) , E2~a U4 KASKAL 
 3. 1(N03) 1(N40) 1(N24~a) , |GA2~a2x(GU4.SZE3)| SZU BU~a 
 4. 2(N40) 1(N24~a) , EN~a SANGA~a TUR 1(N58) SZIM~a 
 1. 1(N03) 2(N40) 1(N24~a) , |GA2~a2x(GU4.SZE3)| SAGSZU 
-2.a. 1(N18) 4(N03) , 
-285268	2.b1. , KASZ~c 
-2.b2. , KASZ~c SUKKAL 
-3. 4(N40) 1(N24~a) , E2~a |3(N57).PIRIG~b1| 
+253735	3. 4(N40) 1(N24~a) , E2~a |3(N57).PIRIG~b1| 
 4. 2(N40) 1(N24~a) , AN MUSZ3~a DU PAP~a E2~a NUN~a 
 1. 4(N39~a)#? , NIN GAL~a E2~a 
 2. 3(N39~a) , |GI4~axA| 
@@ -71819,11 +73321,7 @@ $ (not given)
 2. 3(N18) , GU7 
 3. , SAGSZU |GA2~a2x(GU4.SZE3)| 
 1. , GU7 
-1.a. 4(N03) , EN~a A AN RU 
-1.b. 3(N40) , NINDA2 BA AN MUSZ3~a 
-2.a. , SAG# [...] 
-2.b. MUD 3(N57)# TE# [...] 
-1. 1(N40) 1(N24~a) , UR2 GISZ 
+253746	1. 1(N40) 1(N24~a) , UR2 GISZ 
 2. 2(N40) 1(N24~a) , GURUSZ~a E2~a 
 3. 4(N40) , MUSZ3~a SAL KU3~a 
 4. 2(N40) 1(N24~a) , SZUBUR |E2~ax1(N57)@t| 
@@ -71845,12 +73343,7 @@ $ (not given)
 2. , GU7# 
 1. 3(N18) 3(N03) , GU7 
 1. , SAGSZU 
-1.a. 2(N03) 2(N40) 1(N24~a) , SAL KA~a HI 
-1.b. 3(N03) , |NINDA2xX| MUD 3(N57) TE 
-285308	2.a1. , NAMESZDA |SZE~a.NAM2| 
-2.a2. , SAGSZU 
-2.b. , ZATU776 MU SZU 
-1. 1(N03)# , [...] SUKKAL# PAP~a# GI 
+253770	1. 1(N03)# , [...] SUKKAL# PAP~a# GI 
 2. 1(N03) , |E2~ax1(N57)@t| SZUBUR 
 1. 3(N03)# , EN~a RU [...] 
 2. , GU7 
@@ -71881,14 +73374,8 @@ $ (not given)
 4. 1(N14) , PAP~a BAHAR2~b 
 1. , [...] GU7 
 1. 3(N34)# 1(N01) 1(N39~a) , SZE~a [...] 
-1.a. 5(N03) , MAR~a APIN~a 
-1.b. , SZIM~a KU~b2 SANGA~a 
-2. 1(N03) , MAR~a APIN~a [...] 
-3.a. 3(N03) 3(N40)# , SANGA~a# KU~b2 SZIM~a 
-3.b. , KALAM~b PA~a 
-4.a. 3(N03) 4(N40)# , MUSZEN TUR BU~a 
-4.b. , 3(N57)# PAP~a 
-1. 3(N03) 3(N40) , 3(N57) PAP~a 
+253802	2. 1(N03) , MAR~a APIN~a [...] 
+253805	1. 3(N03) 3(N40) , 3(N57) PAP~a 
 2. , [...] 
 1. 2(N18) 5(N03)# , TU~b X BAR 
 1. , GU7 
@@ -71905,11 +73392,7 @@ $ (not given)
 5. 1(N03)# , |NINDA2x(AN.HI)|# SAG# 
 6. 2(N03)# , [...] DA~a#? 
 7. 1(N03) , 3(N57) AMA~a MA 
-285367	1.a1. 1(N03)# , |U4x2(N57)|# 
-1.a2. , EN~a |SZU2.E2~a| 
-1.a3. 1(N03) , LAGAB~b#? E2~a SAGSZU 
-1.b. , MUSZEN TUR BU~a SANGA~a 
-2. , GU7# 
+253823	2. , GU7# 
 1. 2(N18)# [...] , 
 1. , GU7# 
 1. [...] 1(N01)# , [...] SAL# X 
@@ -71949,11 +73432,7 @@ $ (not given)
 1. 1(N48) 1(N34) 3(N14) 3(N01) 3(N39~a) , SZE~a KU~b2 SZIM~a GAL~a |1(N58).BAD~a| 
 1. 1(N45) 5(N14) , SZE~a DIM~a 
 2. 2(N14)# [...] , [...] 
-1.a. 1(N20) 2(N05) , SZU UR5~a# 
-1.b. [4(N39~a)] , [TAR~a] 
-2.a. 1(N14) , SZU UR5~a 
-2.b. [3(N39~a)] , X TAR~a 
-3. 1(N01) 1(N39~a) , UDU~a SZE~a 
+253865	3. 1(N01) 1(N39~a) , UDU~a SZE~a 
 4. 1(N01) 1(N24) , NESAG2~b AB~a |U4x1(N01)| 
 1. [1(N01)?] , [...] 
 2. , [...] SZE~a GU7 
@@ -71974,18 +73453,14 @@ $ (not given)
 1. 2(N34) , GAL~a# SA~c SI4~f AN# KI 
 2. , KU~b2# SZIM~a# 
 1. 3(N48) 1(N34) 6(N14) 1(N01) 1(N39~a) , |U4x(3(N14).7(N01))| SZE~a DUB~a |LAGAB~bxLAGAB~b| KU~b1 SZIM~a SZAM2 
-1.a. 1(N01) , U2~b SZAM2? TAR~a 
-1.b. , BULUG3 HI AN 
-2. , 1(N57) ZAG~a E2~a UBI~c 
+253887	2. , 1(N57) ZAG~a E2~a UBI~c 
 3. , 
 4. 1(N05) , PAP~a NAM2 E2~a 
 5. 1(N01) , SI ZATU786 |GI&GI|# SZA3~a1 
 1. 1(N01) , NA~a NE~a SZEN~c@t BU~a 
 2. 1(N01) , AB~a SIG2~d2? URI E2~a 
 3. 1(N01) , |GI&GI| SZA3~a1 E2~a KID~b KID~b EN~a UR4~b TI 
-4.a. 1(N01) , UR5~a MEN~a |GI&GI| SZE~a TE 
-4.b. , SAGSZU? URU~a1 BU~a PA~a 
-5. 1(N01) , DA~a |DUG~bxDIN| AB2 
+253895	5. 1(N01) , DA~a |DUG~bxDIN| AB2 
 6. 1(N01) , MASZ2 E2~a AB~a KI 
 1. 4(N01) , SZUBUR NU 
 2. 4(N01) , KAB BU~a 
@@ -72009,9 +73484,7 @@ $ (not given)
 1. [...] , [...] 
 1. [...] , X [...] 
 1. 1(N45)# 5(N14)# , DU E2~b GI 
-2.a. [...] 1(N14)# [...] , [...] 
-285473	2.b1. 1(N45) 5(N14) [...] , [...] 
-1. , [...] 
+253920	1. , [...] 
 1. 3(N34)# 2(N45)# 1(N14)# [...] , [...] 
 1. 2(N34)# 2(N45)# 3(N14)# [...] , SZAM2# BA# [...] 
 1. 1(N34)# 2(N45)# 3(N14)# [...] 1(N01)# , DU# E2~b# [...] 
@@ -72033,40 +73506,10 @@ $ (not given)
 1. 3(N57) , EN~a SU~a ZATU628~a PAP~a TI 
 2. 3(N57) , HI@g~b ZATU808 GAL~a 
 3. , 
-1.a. 3(N03) , X SAG# PAP~a 
-1.b. 1(N01) , HI@g~a NE~a SZITA~a3 PAP~a BU~a 
-2.a. , 3(N57) SU~a IB~a 
-2.b. , KU6~a 
-285502	1.a1A. 5(N14) , U2~b A 
-1.a1B. , GIR3~c NI~a 
-1.a2. 2(N14)# , NIM~a ME~a 
-1.a3. 2(N14) , PAP~a PA~a 
-1.a4. 2(N19) , |GISZ.TE| U4 E2~a U4@t 
-285508	1.b1. 1(N34) , SZE~a 
-1.b2. 1(N46) 1(N19) , 
-285512	1.c1A. 2(N45) , SZE~a U4 GIBIL 
-1.c1B. 4(N19) , 
-285515	1.c2A. 1(N45) , SZE~a# |U4x2(N57)| 
-1.c2B. 7(N19) , 
-285518	2.a1. 2(N14) , SI ME~a E2~a 
-2.a2. 1(N14) , NA~a MUD BU~a 
-2.a3. 2(N14) , NI~a# SA~c# UB 
-285522	2.b1. 2(N14) 3(N01) , |MUSZENx2(N57)| PAP~a 
-2.b2. 2(N14) , TI@t GIR3~c 
-2.b3. 2(N14) , EN~a AB~a PAP~a 
-1.a. 6(N14) 3(N19) , SZE~a LU2 MUD3~d 
-285527	1.b1. 6(N14) , SZE~a 
-1.b2. 3(N19) , U4 
-2.a. 1(N46) , SZE~a UNUG~a E2~a 
-285531	2.b1. 5(N14) , SZE~a 
-2.b2. 5(N19) , 
-3. 5(N14) , SZUBUR SUG5 PA~a 
+253948	3. 5(N14) , SZUBUR SUG5 PA~a 
 1. 4(N14) , TI@t ZAG~a 
 2. , LU2 MUD3~d 
-1.a. 1(N45) 1(N46) 8(N14) , SZE~a 
-285538	1.b1. 2(N45) , SZE~a 
-1.b2. 8(N19) , 
-2. , LU2 MUD3~d 
+253952	2. , LU2 MUD3~d 
 1. 2(N01@f) , |NINDA2xU4| 
 2. 5(N01@f) , KA2~b 
 3. 1(N51) , U4 KU6~a 
@@ -72093,10 +73536,7 @@ $ (not given)
 1. [...] , [...] MUSZ3~a# 
 2. [...] , GU7 
 1. , [...] BAR 
-1.a. 4(N14) 1(N39~a) , SI4~f BA 
-285569	1.b1. 3(N14) 4(N01) 1(N39~a) , 
-1.b2. 2(N01) , SZE~a 
-1. 1(N14) 2(N01) 1(N39~a) , BA E2~a# SI4~f DU#? SI4~d 
+253980	1. 1(N14) 2(N01) 1(N39~a) , BA E2~a# SI4~f DU#? SI4~d 
 1. [...] 1(N24)# , KALAM~b# [...] PA~a 
 2. [...] 1(N39~a)# , [...] NAGA~a 
 3. [...] , [...] SAL 
@@ -72112,28 +73552,15 @@ $ (not given)
 1. 2(N34) 3(N01) , SZE~a KINGAL 
 1. 6(N14) 3(N39~a) , GI SZE~a SI4~f NI~a SA~c 
 2. , 
-1.a. 1(N45) 9(N14) 2(N39~a) , HI@g~a 
-285589	1.b1. 9(N20) 1(N05) 3(N42~a) , HI@g~a 
-1.b2. 9(N18) 4(N03) 4(N40) , 
-285593	1.c1A. 7(N20) 4(N42~a) , HI@g~a NAGA~a 
-1.c1B. 7(N18) 4(N03) 4(N40) , 
-285596	1.c2A. 2(N20)? 4(N42~a)? , HI@g~a DUB~a 
-1.c2B. 2(N18) 4(N40) , 
-2. , KU~b1 SZIM~a 
-1.a. 2(N47) 1(N20) 1(N05) 1(N40) , HI@g~a BA 
-285601	1.b1. 8(N20) 4(N05) 2(N42~a) , HI@g~a 
-1.b2. 1(N45~a) 2(N18) 2(N03) 4(N40) , 
-2. , KU~b1 SZIM~a 
+253997	2. , KU~b1 SZIM~a 
+253999	2. , KU~b1 SZIM~a 
 1. [...] 2(N14)# , [...] X 
 2. 1(N14) , PA~a NA~a 
 3. 4(N14) , 3(N57) |EN2.E2~b| ISZ~b 
 1. 4(N14)# , PAP~a X 
 2. 3(N14) , DIN KI E2~b 
 3. 2(N14) , NUN~a AB~b X [...] 
-1.a. [...] , [...] 
-285612	1.b1. , |3(N57).PIRIG~b1| TUR 
-1.b2. , MUSZEN TUR BU~a 
-2. , [...] 
+254007	2. , [...] 
 1. 1(N45) 7(N14) , MEN~a TAK4~c 
 2. 6(N14) 3(N01) , SZU ZI~a 
 3. 9(N14) , HI EN~a NAGA~a 
@@ -72166,14 +73593,7 @@ $ (not given)
 1. 5(N01) , MUSZEN BU~a TUR 
 2. 2(N14) 3(N01) , BAHAR2~b 
 3. , [...] KI RU? 
-1.a. 3(N34)# 3(N01)# , SZE~a KINGAL 
-285649	1.b1. , |3(N57).PIRIG~b1| TUR 
-1.b2. , MUSZEN TUR BU~a 
-1.a. 1(N14) 2(N01) , HI@g~a AN U4 SIG MUSZ3~a NAGAR~a# EZEN~b 
-1.b. 2(N18) , 
-2.a. 1(N14) 4(N01) 1(N28) , KINGAL 
-2.b. 4(N03) 1(N40) , 
-3. , KU~b2 SZIM~a 
+254043	3. , KU~b2 SZIM~a 
 1. 3(N20) 1(N28~c) , HI@g~a 
 2. 2(N18) 4(N03) 1(N40) , 
 3. , KU~b2 SZIM~a 
@@ -72229,10 +73649,7 @@ $ (not given)
 3. 1(N45)# 2(N14)# , TE# |ZATU651xEN~a|# 
 4. , SI4~f BA NI~a SA~c 
 1. , KU~b1# SZIM~a# 
-1.a. 1(N34)# 2(N45)# 1(N14)# 1(N01)# 1(N39~a) , SZE~a GIBIL KU~b1 SZIM~a 
-285713	1.b1. , SI TUN3~a DA~a 
-1.b2. , SI4~f BA 
-1. 1(N34)# 3(N14) , GAL~a TE 
+254100	1. 1(N34)# 3(N14) , GAL~a TE 
 2. 1(N34) 2(N45) 4(N14) , GAL~a SA~c# 
 3. 7(N14)#? , EN~c# SAL# 
 4. 8(N14)# 1(N01)# , ZAG~a E2~b 
@@ -72252,12 +73669,7 @@ $ (not given)
 1. [...] , [...] 
 1. 2(N34) 2(N45) 1(N14) , [...] KU~b2 SZIM~a 
 1. 1(N34) 1(N45) 8(N14)# [...] , SZE~a SZIM~a# [KU~b1? ...] 
-1.a. 2(N45)# 2(N01) 1(N39~a) , SA~c NI~a 
-285737	1.b1. [...] 3(N14)# , SZAM2 [...] 
-1.b2. 3(N14) , 3(N57) DUB~a 
-2.a. 2(N45)# [...] , [...] 
-285741	2.b1. 1(N45) 4(N14) , BU~a# SZE~a [...] 
-1. 6(N14)# , SI4~f NUN~a 
+254122	1. 6(N14)# , SI4~f NUN~a 
 2. 1(N14) , MEN~a TAK4~c 
 3. 1(N01) , AN? HI DI PAP~a 
 4. 1(N01) , UB E2~b# E2~b I 
@@ -72270,10 +73682,7 @@ $ (not given)
 3. 1(N14) , PAP~a IB~a 
 4. 4(N01) , SAGSZU SI4~f# 
 5. 1(N01) , SU~a |3(N57).PIRIG~b1| SAL 
-6.a. 2(N01) 1(N39~a) , UB E2~a I 
-285757	6.b1. 1(N01) 1(N39~a) , AMA~a 
-6.b2. 1(N01) , 
-7. 1(N01) , NAR NAGA~a E2~a 3(N57) 
+254136	7. 1(N01) , NAR NAGA~a E2~a 3(N57) 
 8. , SAG SZE~a#? SZE~a 
 1. 1(N19) , SI4~f NUN~a 
 2. 1(N19) , |3(N57).PIRIG~b1|# IB~a NAGA~a 
@@ -72281,10 +73690,7 @@ $ (not given)
 4. 1(N04)#? , DU KU3~a# 
 5. 2(N04) , SZU2 NE~a# PAP~a 
 6. 1(N04) , DA~a KU6~a 
-285768	7.a1. 3(N04) , 
-7.a2. 5(N04) , 
-7.b. , E2~a AZ 1(N57) 
-8. 2(N04) , SZELU PAP~a 
+254145	8. 2(N04) , SZELU PAP~a 
 1. 2(N04)# [...] , [...] 
 2. [...] 1(N04) [...] , HI# SAL AZ# 
 3. 1(N04) , A TUR PAP~a 
@@ -72292,24 +73698,10 @@ $ (not given)
 5. 1(N04) , NAGAR~a 
 6. 4(N19) 2(N04) 2(N41) 1(N29~a) 1(N29~a) , GAL~a SZAM2 
 7. 1(N04)# , SAG# SI4~f# [...] 
-1.a. 2(N45) 3(N14) 3(N01) , SZE~a 
-285781	1.b1. 1(N45) 7(N14) 3(N01) , X X 
-1.b2. 6(N14)# , [...] 
-285784	1.c1. 1(N45) 7(N14) 3(N01) , GU7# 
-1.c2. 5(N14) , BA KI 
-2.a. 1(N46) 1(N19) 2(N04) , 
-285788	2.b1. 9(N19)# [2(N04)?] , 
-2.b2. 2(N19) , NUMUN GAN2 NAGAR~a 
-285791	2.c1. 1(N46) 5(N04) 2(N41) 1(N29~a) 1(N29~a) , GU7 
-2.c2. 2(N04) 2(N41) 1(N24~b) , KI BA 
-1. , SANGA~a GAL~a# |SZE~a.NAM2| SANGA~a# 
+254155	1. , SANGA~a GAL~a# |SZE~a.NAM2| SANGA~a# 
 2. , AZ SI4~f 
-1.a. 3(N14) , SAG 
-1.b. 2(N19) , NAM~c#? 
-2. 2(N14) , PAP~a NAM2 ERIM~a 
-3.a. 3(N14) , PAP~a 
-3.b. 2(N19) 
-4. , GU7# 
+254158	2. 2(N14) , PAP~a NAM2 ERIM~a 
+254160	4. , GU7# 
 1. , NIN TUR3~a# 
 1. 8(N14) , SZE~a 
 2. 4(N19) , 
@@ -72322,9 +73714,7 @@ $ (not given)
 3. [...] 5(N14)# , [...] 
 1. [...] , [...] 
 2. , [...] SI# AN#? GAL~a# |1(N58).BAD~a|# 
-1.a. 2(N14) , SZE~a SAL TUR3~a NUN~a 
-1.b. 3(N19) , |GISZ.TE| 
-2. 1(N14) , NAR NUN~a SIG7 
+254174	2. 1(N14) , NAR NUN~a SIG7 
 3. 2(N04)# , PIRIG~b1 SIG7 URI3~a NUN~a 
 1. 3(N04) , |GISZ.TE| GAR |SZU2.((HI+1(N57))+(HI+1(N57)))| GI4~a 
 2. , GU7 AZ SI4~f 
@@ -72334,14 +73724,9 @@ $ (not given)
 1. , AZ SI4~f 
 1. [...] , [...] 
 1. [...] , [...] GU7 
-1.a. [...] 1(N14)# , [...] 
-1.b. 1(N01) [...] , [...] 
-1. 1(N14)# , SZE~a# TUR3~a# NIN 
+254185	1. 1(N14)# , SZE~a# TUR3~a# NIN 
 2. 2(N14) , SZE~a SI TUN3~a 3(N57) GISZ@t E2~a 
-285830	3.a1. 1(N01) , SZE~a 
-3.a2. 1(N04) , 
-3.b. , HAL NE~a PAP~a 
-4. 6(N19) , E2~a TUR3~a NIN 
+254188	4. 6(N19) , E2~a TUR3~a NIN 
 5. 2(N04) , URI3~a NAGAR~a GAL~a SANGA~a SANGA~a 
 1. [...] , NIN NAGAR~a#? TUR3~a 
 2. 1(N19) 3(N41) , PAP~a SANGA~a 
@@ -72350,19 +73735,11 @@ $ (not given)
 5. 1(N04) , DA~a ZATU694~c BU~a URU~a1 PA~a 
 6. 1(N19) , 3(N57) GISZ@t E2~a SI TUN3~a 
 1. , SI4~f AZ GU7 
-1.a. 1(N46) 2(N14) 5(N01) , SZE~a 
-285844	1.b1. 3(N14) 1(N01) , SZE~a 
-1.b2. 9(N19) 4(N04) , 
-2. , SI4~f# AZ# [...] 
+254198	2. , SI4~f# AZ# [...] 
 1. 1(N14)# [...] , [...] X 
 2. 6(N14) , GU NA~a GAL~a SANGA~a SANGA~a 
-285850	3.a1. 1(N45)# , SZE~a 
-3.a2. 2(N46) , 
-3.b. , KI# GU# GI# 
-1. [...] , IB~a PAP~a [...] 
-2.a. , EN~a PA~a 
-2.b. , KASZ~c EN~a AN 
-1. 2(N45) 5(N14) , SZE~a [...] 
+254202	1. [...] , IB~a PAP~a [...] 
+254204	1. 2(N45) 5(N14) , SZE~a [...] 
 1. , [...] 
 1. 3(N19) 1(N04) 1(N41) , SAL ZATU810 KASZ~b 
 2. 3(N19) 2(N04) , APIN~a MAR~a 
@@ -72383,10 +73760,7 @@ $ (not given)
 2. 2(N19) 2(N41) , SAG TUR3~a 6(N57) 
 3. 2(N04) 3(N41) , UMUN2 MA 3(N57) AMA~a 
 4. , |GISZ.TE| GU7 
-1.a. 2(N46) 3(N19) , SI4~f AZ GAL~a SANGA~a SANGA~a 
-285879	1.b1. 1(N46) 7(N19) , 1(N04) 
-1.b2. 6(N19) , |GISZ.TE| 
-1. 2(N46) 3(N19) 1(N04) 2(N41) , GU7 
+254226	1. 2(N46) 3(N19) 1(N04) 2(N41) , GU7 
 1. [...] , [...] X 
 2. 2(N14) , EN~a SZAGAN SZE~a SI 
 3. , KALAM~b 
@@ -72400,25 +73774,13 @@ $ (not given)
 2. , GAL~a SA~c BAD SZU 
 1. [...] , [...] SI4~f AZ 
 2. , NAGAR~b 
-1.a. 1(N45) 5(N14) , HI@g~a SZE~a 
-285897	1.b1. 4(N14) , HI@g~a 
-1.b2. 1(N45) 1(N14) , SZE~a 
-2. , SI4~f AZ 
+254241	2. , SI4~f AZ 
 3. , ZATU649 SI4~f DU RAD~a 
-1.a. [...] , [...] NA~a GU# 
-285903	1.b1. [...] , [...] 
-1.b2. 1(N46) , 
-2. 1(N45) 1(N14) , DIM~a 
+254244	2. 1(N45) 1(N14) , DIM~a 
 3. 2(N14) , KA~a SUM~b 
 1. [...] 2(N14) 3(N01) , [...] HI 
 2. , SZE~a ZATU703 DU6~a 
-1.a. 2(N45) 5(N14) 3(N01) , SZE~a 
-285911	1.b1. 1(N45) 7(N14) , GI# 
-1.b2. 8(N14) 3(N01) , BA 
-2.a. 2(N46)# [...] , [...] 
-285915	2.b1. 7(N19) , GU7 
-2.b2. 1(N46)# 2(N19) [...] , [...] 
-1. , SANGA~a GAL~a SANGA~a 
+254250	1. , SANGA~a GAL~a SANGA~a 
 1. 1(N14) 3(N01) , X 
 2. 1(N14) 1(N01) [...] , [...] 
 3. 1(N14)# [...] , [...] 
@@ -72448,12 +73810,8 @@ $ (not given)
 1. , EN~a AB~b DUG~a IB~a SANGA~a KU3~a 
 1. 3(N34) 1(N45) 4(N01) 4(N39~a) , SZE~a EN~a IB~a KU~b2 SZIM~a SZAM2 BA 
 1. 1(N45) 6(N14) 3(N01) , SI4~f NUN~a 
-2.a. 2(N14) 2(N01) , GAL~a# SA~c 
-2.b. 5(N19) , 
-3. 3(N14) , NI~a SA~c E2~b TUR3~a AB~b 
-4.a. 2(N14) , SZE~a PAP~a 
-4.b. 1(N19) , 
-1. 4(N19) , GAL~a ISZ~b 
+254281	3. 3(N14) , NI~a SA~c E2~b TUR3~a AB~b 
+254283	1. 4(N19) , GAL~a ISZ~b 
 2. 2(N19) , SA~c GAL~a 
 3. 3(N01) , SA~c NI~a 
 4. , SI4~f NUN~a 
@@ -72463,23 +73821,13 @@ $ (not given)
 4. 6(N14) , KINGAL 
 5. 1(N14) 3(N01) , ISZ~b GAL~a 
 1. , KU~b2 SZIM~a 
-1.a. 8(N14) 5(N01) , SZE~a KU~b2 SZIM~a 
-285964	1.b1. , GAL~a |1(N58).BAD~a| 
-1.b2. , E2~b DU 
-1. 2(N45) 8(N14)# 2(N01) , SZU 2(N57) SZE~a# DA~a# X [...] 
+254294	1. 2(N45) 8(N14)# 2(N01) , SZU 2(N57) SZE~a# DA~a# X [...] 
 2. [...] , [...] 
 1. 1(N46) , IR~a# 
 2. 2(N46) 3(N19) , |GISZ.TE|# 
 1. [...] , [...] |GISZ.TE|# 
-285972	1.a1. 2(N45) 6(N14) , |U4x1(N57)| SZE~a NE~a DA~a SZA3~a2 ZATU757 
-1.a2. , EN~a SZU 
-285975	1.b1. 2(N19) , 
-1.b2. 1(N14) , |HIx1(N57)| GI6 
-2. 1(N45) 9(N14) , |U4x2(N57)| SZE~a SZA3~a2 ZATU756 GAN2 
-3.a. 1(N45) 5(N14) , |U4x3(N57)| X [...] 
-285980	3.b1. 8(N14) , ZATU756 
-3.b2. 4(N14)# [...] , [...] 
-4. [8(N14)?] , [|U4x4(N57)| ...] 
+254300	2. 1(N45) 9(N14) , |U4x2(N57)| SZE~a SZA3~a2 ZATU756 GAN2 
+254302	4. [8(N14)?] , [|U4x4(N57)| ...] 
 1. 6(N14) , |U4x5(N57)| SZE~a EN~a KI ME~a UR2 RAD~a KU6~a 
 2. 8(N14) , |U4x6(N57)|# SZUBUR AB2 
 3. 4(N14) 3(N19) , |U4x7(N57)| MAR~a MUSZEN ZATU756 
@@ -72570,12 +73918,7 @@ $ (not given)
 1. 3(N14) , SUHUR BA 
 2. 1(N34) , SUHUR PAP~a X RAD~a# 
 3. 5(N01) , UDU~a# ERIN#? RAD~a 
-1.a. [...] , X X [...] 
-1.b. [...] 5(N01)# , [...] 
-2.a. , |U4x2(N01)| 
-2.b. 1(N14) , U4 X 
-2.c. 1(N14) 5(N01) , SUHUR SZA3~a2# EN~a 
-1. 1(N14) 5(N01) , |ZATU759xKU6~a| MU 
+254395	1. 1(N14) 5(N01) , |ZATU759xKU6~a| MU 
 2. 3(N14) , 5(N57) |ZATU759xKU6~a| 
 3. 1(N34) , KU6~c |ZATU759xKU6~a| 
 4. 4(N14) , TU~b 
@@ -72603,18 +73946,11 @@ $ (not given)
 4. 2(N01)# [...] , [...] 
 5. [...] , [...] 
 6. [...] , [...] 
-1.a. 2(N01) , DUG~c |ZATU737xSU~a|# 
-1.b. 5(N01)#? , SUHUR# 
-2.a. 1(N01)# [...] , DUG~c# ZATU648# 
-2.b. 1(N14) , SUHUR 
-3. 1(N14) 7(N01) , 1(N57) |ZATU759xKU6~a| 
+254425	3. 1(N14) 7(N01) , 1(N57) |ZATU759xKU6~a| 
 4. 2(N01) , AB~b |ZATU759xKU6~a| 
 5. 1(N01)# , SAR~a# [...] 
 1. , [...] KU6~a# RAD~a# UR2# [...] 
-2.a. , |MAH~axNA~a| 
-286116	2.b1. , AN 3(N57) 
-2.b2. , PAP~a 
-3. , UNUG~a# 
+254430	3. , UNUG~a# 
 1. [...] , [...] ENGIZ SZAGAN 
 1. 1(N01) , MA 
 2. 1(N01) , HASZHUR 
@@ -72633,10 +73969,7 @@ $ (not given)
 1. [...] , [...] 
 2. 2(N01) , GADA~a 
 3. 1(N01) , 1(N57) TUG2~a BAR 
-4.a. 2(N01)# , X X 
-286139	4.b1. , X PAP~a# 
-4.b2. , SZE~a#? [...] 
-1. [...] 2(N01)# , X [...] 
+254450	1. [...] 2(N01)# , X [...] 
 2. 1(N01) , GAN~c# BUR~a#? 
 3. 2(N01) , X TUG2~a# 
 4. 2(N01)# , X [...] 
@@ -72656,10 +73989,7 @@ $ (not given)
 2. 2(N01)# , SI# SZE3 [...] 
 3. 2(N01)#? , GISZ SZE3 X [...] 
 4. , ME~a KU6~a RAD~a EN~a UR2# 
-286162	1.a1. 5(N01) , UKKIN~a 
-1.a2. 2(N01) , 
-1.b. , RAD~a MUSZEN 
-2. 2(N01) , SANGA~a# E2~b#? 
+254471	2. 2(N01) , SANGA~a# E2~b#? 
 3. 2(N01) , UKKIN~a U2~a 
 4. 2(N01) , SAG@n SUKKAL 
 5. 2(N01) , EN~a GU 
@@ -72803,37 +74133,14 @@ $ (not given)
 3. 1(N01)# [...] , GAR# X [...] 
 1. , NAB DI X [...] 
 2. , SAL# NUNUZ~a1# [...] 
-1.a. 4(N14)# , |U4x(2(N14).4(N01))| GAR SZE~a 
-1.b. 2(N01)# 2(N39~a) , TAR~a 
-2. [...] 1(N01)# , [...] 
-1.a. 4(N14) , X GA~a SU~a# E2~a# SZAGAN 
-1.b. 2(N01)# 2(N39~a) , TAR~a 
-1. [...] , ERIM2# X [...] 
+254616	2. [...] 1(N01)# , [...] 
+254618	1. [...] , ERIM2# X [...] 
 1. 1(N01) , EN~a RAD~a ME~a# KU6~a# UR2 
 1. , DARA4~c1# BIR3~a# TE 
 2. , SZUR2~a# SANGA~a# [...] 
 1. , BU~a PAP~a ZATU776 E2~b NAMESZDA 
-1.a. [...] , SZE~a X [...] 
-1.b. [...] 1(N01)# , [...] EN~a# GU 
-2.a. 1(N01) , SAL NA~a# UR~a PAP~a 
-2.b. , NE~a ZATU773~a KUR~a 
-3.a. [...] , AB2# [...] 
-3.b. 5(N01)# [...] , [...] 
-1.a. [...] 1(N14)#? , SAR~a# [...] 
-286327	2.a1. 1(N01) , |GURUSZ~cx2(N14)| 
-2.a2. 1(N01) , GU4 
-2.b. [...] , [...] TUR 
-3.a. 7(N14) , SZE~a [...] 
-3.b. 2(N01) , TUR NAM2 TI SAL AMA~a 
-1. [...] , [...] 
-1.a. 2(N01)# [...] , [...] 
-1.b. 2(N01)# [...] , [...] 
-2.a. 5(N01)# , X [...] 
-286337	2.b1. 4(N01)# , X [...] 
-2.b2. 1(N01)# , X [...] 
-286340	2.b3A. , [...] 
-2.b3B. , [...] 
-1. [...] 8(N01)# , KUR~a# [...] 
+254629	1. [...] , [...] 
+254632	1. [...] 8(N01)# , KUR~a# [...] 
 1. [...] , [...] X 
 2. [...] , [...] X X 
 1. [...] 1(N22)# [...] 3(N01)# , DU KU6~a 
@@ -72842,9 +74149,7 @@ $ (not given)
 1. 2(N01) , |SAL.KUR~a| URUDU~a# 
 1. , SZIDIM# 3(N57) PA~a#? NAM2 RAD~a KASZ~a TUR# 
 1. [...] , EN~a#? ME~a#? UR2 KU6~a RAD~a 
-2.a. 1(N14) 5(N01) , MAR~a DAR~a 
-2.b. 1(N14) 5(N01) , GI 
-1. [...] 1(N14)# , [...] EN~a APIN~a# 
+254642	1. [...] 1(N14)# , [...] EN~a APIN~a# 
 2. 1(N14) , AB2 UDU~a SANGA~a 
 3. 1(N14) , UTUL~a GAL~a GI 
 1. [...] , [...] 
@@ -72866,13 +74171,7 @@ $ (not given)
 1. 1(N01) , HI UB KASKAL EN~a SZU ME~a ME~a KU6~a RAD~a UR2# [...] 
 1. 1(N57) , DIM~a 
 2. 1(N57) , AN ZATU773~a GISZ 
-3.a. 2(N57) , SZUBUR 
-3.b. , LAGAB~a#? 
-4.a. 2(N57) , NIM~b1 
-4.b. , AN EN~a GAL~a 
-5.a. 2(N57) , SZU2 SAL 
-5.b. , |SZU&SZU| 
-6. 2(N57) , EN~a TAR~a HI#? 
+254667	6. 2(N57) , EN~a TAR~a HI#? 
 1. , AB~a ME~a KU6~a RAD~a UR2 EN~a TE MUN~a1 
 1. LAGAB~b 7(N57)# , X [...] 
 1. 1(N01) , DU A NE~a 
@@ -72909,56 +74208,23 @@ $ (not given)
 1. 3(N14)# 1(N01) , BA E2~b KU6~a A [...] 
 1. , [...] 
 2. , GISZIMMAR~b1 PA~a NI~a#? PA~a# [...] SAR~a#? 
-1.a. 3(N01)# [...] , BAR 
-286421	1.b1A. , SZU TUR 
-1.b1B. , SZUBUR 
-286424	1.b2A. , BU~a NIR~a KI# 
-1.b2B. , ZATU659 
-2. , GAL~a GA~a 
-3.a. , KINGAL 
-3.b. , KALAM~b PA~a |GISZxSZU2~a| GAL~a 
-3.c. , KI HI 
-3.d. , KU6~a UR2 RAD~a 
-1. 1(N01) , DUR~b RAD~a PA~a SZU 
+254705	2. , GAL~a GA~a 
+254707	1. 1(N01) , DUR~b RAD~a PA~a SZU 
 2. , UR2 KU6~a RAD~a SZIDIM GAL~a 
 1. , PAP~a UKKIN~a 
 2. , KALAM~a GI SZIDIM 
-1.a. 2(N14) 3(N01) , 1(N57) SZE~a 
-1.b. 1(N14) , HI@g~a 
-2.a. 4(N01) , 2(N57) 
-2.b. 1(N01) , HI@g~a 
-3.a. 5(N01) , 3(N57) X 
-3.b. 4(N01) , HI@g~a 
-4. 1(N14) , 4(N57) SZE~a 
-5.a. 2(N39~a) [...] , X [...] 
-5.b. 1(N01)# [...] , [...] 
-1. 4(N01) , ZATU714 
+254714	4. 1(N14) , 4(N57) SZE~a 
+254716	1. 4(N01) , ZATU714 
 2. 1(N01) , |NINDA2xKASZ~b| 
 3. , URI3~a SAL GI# 
 1. 1(N14) , SZE~a 
 2. , KU6~a RAD~a [...] 
 1. 1(N20)? , SZE~a# [...] 
-2.a. 2(N20)? 1(N05)? , KU6~a RAD~a SANGA~a 
-2.b. 1(N14) 5(N01) , HI@g~a 
-3. 3(N01) , APIN~a NAM2 RAD~a 
+254723	3. 3(N01) , APIN~a NAM2 RAD~a 
 1. 1(N45)# [...] 1(N20)? 1(N01)# 1(N24)# [...] , [...] AB~a APIN~a 
-1.a. 5(N14) , AL# ZATU756 GAN2 
-1.b. , KASZ~a 2(N57) 
-2.a. 1(N15) 1(N22@v) 3(N02) , GAN2 UDU~a AB2 
-2.b. 3(N01) , SZE~a ZATU625 NUMUN 
-3. 1(N15)? , ISZ~b GAN2 |DARA3~dxKAR2| 
+254727	3. 1(N15)? , ISZ~b GAN2 |DARA3~dxKAR2| 
 4. 3(N02) , MA#? 
-5.a. 2(N14)# , GI# ZATU773~a# 
-5.b. , NA2~a# RAD~a#? KU~b1 UR~a 
-6.a. , |GI&GI| 1(N02) 
-6.b. , KU6~a ZATU625 SUG5 GAL~a PA~a 
-1.a. , LAGAB~b RAD~a KU6~a ZATU759#? BAR#? 
-1.b. , BAR#? DU#? 
-2.a. , UDU~a AB2 EN~a 
-2.b. , NAGA~a SAR~a# 1(N02)# 
-3.a. , |GI&GI| GU4 |SILA3~axKU6~a|#? X 
-3.b. , AN EN~a# X A# NA~a# X 
-4. , KU6~a SAG@n GESZTU~b UR~a ZATU752 NI~a TUM~a 
+254734	4. , KU6~a SAG@n GESZTU~b UR~a ZATU752 NI~a TUM~a 
 1. 2(N01)# , GIBIL 
 2. 1(N01) , SU~a 
 3. 1(N01) , KITI#? 
@@ -72988,29 +74254,15 @@ $ (not given)
 6. , |SAR~axSZE~a| ZATU659 NE~a# GISZIMMAR~a3 AN 
 1. [...] , [...] X AN# 
 2. , AN# MAR~a 
-1.a. [...] , [...] 
-1.b. [...] 2(N01)# , [...] 
-2. 1(N45)# 1(N14)# , NIM~a# RU# 
+254765	2. 1(N45)# 1(N14)# , NIM~a# RU# 
 3. 1(N45)# 5(N14)#? 2(N01)# , |BU~a+DU6~a|# |BU~a+DU6~a|# EZINU~a# 
-4.a. 3(N14)# [...] , [...] 
-4.b. 9(N19)# , 
-5. [...] , [...] SANGA~a#? X 
+254768	5. [...] , [...] SANGA~a#? X 
 6. [...] , [...] X 
 7. 1(N45)# 9(N14)# , EN~a# PAP~a#? SZE~a# [...] 
-1.a. 5(N14)# , SZE~a# E2~a# 
-1.b. 1(N46)# 6(N19)# 3(N04)# , 
-2. , AN# MAR~a# PA~a# 
-1.a. 8(N14)# 4(N01)# , X X GUN3~b# 
-1.b. 2(N46)# 9(N19)# , 
-2. 1(N45)# 2(N14)# , BU~a PAP~a NAM2 SZE~a 
+254772	2. , AN# MAR~a# PA~a# 
+254774	2. 1(N45)# 2(N14)# , BU~a PAP~a NAM2 SZE~a 
 3. , BU~a PAP~a NAM2 
-1.a. 6(N34)# 1(N45) 2(N14)# 3(N01)# , AN# MAR~a# PA~a# 
-286518	1.b1. 3(N34) 2(N45) 6(N14) 4(N01) , SZE~a 
-1.b2. 2(N36) 1(N46)# 5(N19)# 5(N04) , 
-2.a. 1(N34)# 1(N45)# 9(N14)# [4(N01)] , [NAM2 BU~a PAP~a] 
-286522	2.b1. 2(N45) 4(N01) , SZE~a 
-2.b2. 2(N46)# 9(N19)# , 
-1. 4(N34) 1(N45) 7(N14)# 2(N01) , SZE~a 
+254778	1. 4(N34) 1(N45) 7(N14)# 2(N01) , SZE~a 
 2. 3(N36) 1(N46) 4(N19)# 5(N04)# , 
 1. 6(N34) 2(N36) 2(N14) 1(N01) , SZE~a PAP~a BU~a NAM2 AN# MAR~a# PA~a# GI# 
 1. 2(N45) 5(N14) , SZE~a E2~b DA~a 
@@ -73018,33 +74270,14 @@ $ (not given)
 3. 1(N45) 5(N14) , 2(N57) SZE~a# MA#? KU6~a# UR5~a#? |GISZ.TE|# 
 4. 1(N45) 6(N14) , SZE~a BA X PIRIG~b1# 
 1. 1(N46) 5(N19) , PAP~a BU~a NAM2 
-2.a. 2(N45) , SZE~a KASKAL SUKUD#? 
-2.b. 1(N46) 5(N19) , |GISZ.TE| 
-3.a. 8(N14) , EN~a# SI#? SAL KU3~a 
-3.b. 1(N46) , 
-1.a. 1(N36) 3(N34) 2(N46) 2(N19) , SZE~a PA~a NAM2 RAD~a 
-286538	1.b1. , PAP~a BU~a NAM2 
-1.b2. , X BU3 
-1.a. 6(N14) 1(N01) , SZE~a KU6~a AB~a 
-1.b. 9(N19)# 4(N04)# , 
-2. 5(N14) 1(N01) , SZE~a# NIM~a# RU 
+254790	2. 5(N14) 1(N01) , SZE~a# NIM~a# RU 
 3. 3(N14) 2(N01)# , EZINU~a# |BU~a+DU6~a|# |BU~a+DU6~a|# 
-4.a. 1(N14) , GAN2# SZUBUR 
-4.b. 2(N19)# 2(N04)# , 
-5. 6(N14)# 4(N01)# , E2~a#? APIN~a# 
+254793	5. 6(N14)# 4(N01)# , E2~a#? APIN~a# 
 6. 3(N14) 4(N01)# , SZE~a# AN# MAR~a# PA~a# 
 1. 1(N14) 1(N01) , EN~a PAP~a 
 2. , MAR~a# AN# PA~a 
-1.a. 4(N01) , SZE~a GAN2 GUN3~b X 
-1.b. 2(N19) , 
-2. , AN MAR~a BU~a PAP~a NAM2 
-1.a. 1(N34) 9(N14) 1(N01) , MAR~a AN PA~a 
-286555	1.b1. 2(N45) 7(N14) 1(N01) , SZE~a 
-1.b2. 1(N46) 2(N19) , 
-2.a. 2(N14) 4(N01) , NAM2 BU~a PAP~a 
-286559	2.b1. 4(N01) , SZE~a 
-2.b2. 2(N19) , 
-1. 2(N45) 7(N14) 5(N01) , SZE~a 
+254798	2. , AN MAR~a BU~a PAP~a NAM2 
+254801	1. 2(N45) 7(N14) 5(N01) , SZE~a 
 2. 1(N46) 4(N19) , 
 1. 1(N34) 1(N45) 1(N14) 5(N01) , BU~a PAP~a NAM2 AN MAR~a PA~a GI# 
 1. 1(N34)# 1(N45)# 5(N14)#? , SZE~a# 
@@ -73059,15 +74292,11 @@ $ (not given)
 3. 1(N46) 1(N19) 3(N04) , PA~a SZUBUR 
 4. 1(N34) , E2~a DU SZE~a 
 1. 1(N45)# 5(N14)# , EN~a PAP~a 
-2.a. 1(N34) 7(N14) 5(N01) , BU~a? RAD~a? 
-2.b. 1(N46) 4(N19) 4(N04) , 
-3. 2(N45) 2(N14) 4(N01) , SZE~a MUSZEN KASZ~c 
+254817	3. 2(N45) 2(N14) 4(N01) , SZE~a MUSZEN KASZ~c 
 1. 7(N34) 5(N14) 1(N01) , SZE~a BA 
 2. 2(N46) 6(N19) 1(N04) , 
 1. 4(N34) 4(N36) 1(N14) 2(N01) , SZE~a GIBIL BA AN MAR~a EN~a# A# SZAM2# 
-1.a. 1(N47)? 8(N20)# , SZE~a# BA# EN~a A SZAM2 
-1.b. 2(N20) , SZE~a GI# 
-2. , PAP~a BU~a NAM2# 
+254822	2. , PAP~a BU~a NAM2# 
 1. 1(N45) 4(N14) 1(N01) 2(N39~a) 1(N24) , [...] 
 2. [...] , [...] X 
 3. [...] , [...] 
@@ -73076,18 +74305,7 @@ $ (not given)
 2. 1(N46) 7(N19) , 
 3. , AN PA~a MAR~a SZUBUR 
 1. 1(N34) 1(N36) 6(N14)# 5(N01)# , SZE~a 
-286594	1.a1. 1(N14) , UNUG~a ALAN~e 
-1.a2. 8(N01) , AN MAR~a PA~a ALAN~e 
-1.b. , 
-2.a. 1(N19) , 
-2.b. 1(N01) , ZATU710 BA 
-2.c. 2(N14) , GAR# BA# 
-2.d. 2(N04) 4(N41) , [...] 
-3.a. 1(N14) 1(N01) 3(N39~a) , SZE~a 
-3.b. 1(N01) , ZATU710 RA? 
-3.c. 2(N14) , GAR [...] 
-3.d. 1(N14) , SZE~a BA 
-4. , GI#? 1(N02) 
+254834	4. , GI#? 1(N02) 
 1. 1(N14) , NE~a MUSZ3~a 1(N57) 
 2. 3(N14) 1(N01) , NAR 
 1. , AN MAR~a SZE~a 
@@ -73110,73 +74328,28 @@ $ (not given)
 3. 3(N04)# , 
 1. 2(N45)# 3(N14)#? 5(N01)# 2(N39~a)# 1(N24) , [...] 
 1. [...] , [...] 
-2.a. 1(N01) , AN GAR 
-286630	2.b1. , X [...] 
-2.b2. , [...] BU~a#? 
-2.b3. , X E2~a#? 
-2.b4. , MUSZEN#? 1(N57)#? 
-3. 1(N08) , AN MAR~a AMA~a 
+254858	3. 1(N08) , AN MAR~a AMA~a 
 4. 1(N08) , RAD~a AMA~a 
 5. 1(N01) 1(N08) , SAL |1(N57).SZUBUR| 
 6. [...] , SUKKAL 
 1. [...] , [...] 
 2. 1(N08)# , BAHAR2~c# 
 3. , |ZATU659x1(N01)| MU 
-4.a. 1(N01) , 4(N57) GAR 
-286643	4.b1. , MU 
-4.b2. , E2~b? 
-4.b3. , SUKKAL 
-4.b4. , U2~b A 
-5. 1(N08) , |1(N57).SZUBUR| KUR~a# 
+254866	5. 1(N08) , |1(N57).SZUBUR| KUR~a# 
 1. , [...] MAR~a AN GAR 
 1. 1(N14) 1(N01) 1(N08) , |ZATU659x1(N01)| SZU ZATU659# 
 2. 1(N08)# , |ZATU659x1(N01)|# EN~a# ZATU659# 
 1. 1(N14) 2(N01)# , GAR MAR~a AN# |U4x1(N57)| 
-1.a. 2(N51) , |LAGAB~axU4| KISAL~b1 
-1.b. 1(N20) , 
-2.a. 1(N51) , GAR |BU~axA| AL 
-2.b. 4(N05) , 
-3.a. 1(N14) , DUG~a AL 
-3.b. 3(N05) , 
-4.a. 2(N01) , ZATU710 AN |SZU2.EN~a| SZITA~a1 
-4.b. , 
-5. 4(N01) , SIG7 EN~a# A# 
-1.a. 1(N34) 3(N14)# , GAR 
-1.b. 3(N05) , 
-2.a. 1(N51) 1(N34) 3(N14) , 
-2.b. 1(N20)# 1(N05)# , 
-3.a. 1(N14) , KI? UKKIN~b NAGA~a 
-3.b. 4(N05)# 3(N42~a)# , 
-4.a. 1(N14)# , ZATU710# |SZU2.EN~a| X 
-4.b. 2(N05)# , 
-5. , BAR# [...] 
+254875	5. 4(N01) , SIG7 EN~a# A# 
+254880	5. , BAR# [...] 
 1. 4(N50)# , EN~a# 
 2. 4(N14)# [...] , [...] 
-3.a. 1(N50)# 2(N14)# [...] , [...] 
-3.b. 1(N14)# [...] , X [...] 
-4. 1(N50)# 2(N14)# [...] , SZE~a#? [...] 
-5.a. 3(N01)# , URU~a1# 
-286677	5.b1. , KALAM~b UR2 
-286679	5.c1. , MAR~a# NAM2 [...] 
-5.c2. , TAK4~a#? X 
-1. 2(N50)# 8(N14)# , GA~a# KI# 
+254884	4. 1(N50)# 2(N14)# [...] , SZE~a#? [...] 
+254886	1. 2(N50)# 8(N14)# , GA~a# KI# 
 2. , 5(N57)#? URU~a1# AN# |SZU2.EN~a|# SZITA~a1# 
 1. 1(N45) 4(N50) 1(N14) 1(N22) , 5(N57) URU~a1 SZITA~a1 AN |SZU2.EN~a| 
-1.a. 2(N01) , SZAM2 APIN~a 
-286686	1.b1. , NIM~b2 
-1.b2. , ZATU659 
-2.a. 2(N01) , RAD~a 
-286690	2.b1. , ADAB SZUBUR 
-2.b2. , NIM~b1 EN~a 
-3.a. 1(N01) , SANGA~a 
-3.b. , GIR3@g~b 3(N57) 
-4.a. 1(N01) , SUKKAL ME~a? 
-4.b. , 6(N57) KISZ 
-5. , ADAB SZUBUR 
-1.a. 2(N01) , MAR~a AN 
-286699	1.b1. , ZATU751~a? EN~a 
-1.b2. , |BU~a+DU6~a| GUL 
-2. 4(N01)# , X |MUSZENxX|# PAP~a# 
+254893	5. , ADAB SZUBUR 
+254895	2. 4(N01)# , X |MUSZENxX|# PAP~a# 
 3. , PAP~a |MUSZENxX|# HI@g~b? 
 1. 6(N01) , SZUBUR ADAB 
 2. 6(N01) , |MUSZENxX|# PAP~a# 
@@ -73203,9 +74376,7 @@ $ (not given)
 1. 2(N14)# 5(N01)# , UD5~a 
 2. 5(N01) , MASZ2 EN~a KU6~a RAD~a 
 1. 3(N14) , UDU~a [...] 
-1.a. 1(N34) 5(N14) , AN MAR~a PA~a SZE~a 
-1.b. 3(N36) 2(N46) 3(N19)# , 
-2. 1(N45) 8(N14) 2(N01)? , X SZE~a# [...] 
+254923	2. 1(N45) 8(N14) 2(N01)? , X SZE~a# [...] 
 3. 3(N14) 3(N01) , SZE~a EN~a# DUG~a 
 4. 6(N14) 4(N01) , SZE~a U2~b# A# RU 
 5. , AN MAR~a GIBIL# PA~a U4 
@@ -73213,9 +74384,7 @@ $ (not given)
 2. 1(N34) 2(N45)# [...] 1(N14)# [...] , SZE~a X [...] 
 3. 1(N34) 1(N45) 4(N01) [...] , SZE~a [...] 
 4. , DIB#? BU~a PAP~a NAM2 
-1.a. 2(N34) 3(N14) 3(N01) , AN MAR~a 
-1.b. 3(N36) 2(N46)# 3(N19)# , 
-2. 4(N34) 6(N14) [...] , DIB#? BU~a PAP~a NAM2 
+254932	2. 4(N34) 6(N14) [...] , DIB#? BU~a PAP~a NAM2 
 3. , AN# MAR~a PA~a GIBIL U4 
 1. 8(N14) 5(N01) , SZESZ~a 
 2. 3(N14) 5(N01) , E2~a# DU# 
@@ -73235,64 +74404,10 @@ $ (not given)
 5. 1(N04) , X [...] 
 6. 1(N04) , U4 X [...] 
 1. 4(N19) 1(N04) 3(N41)? , 
-1.a. 1(N34) , 1(N39~a) 
-1.b. 2(N20) , 
-2.a. 1(N51) , 1(N24) 
-2.b. 2(N20) , 
-3.a. 1(N51)# , 1(N26) 
-3.b. 1(N20) 2(N05) , 
-4.a. 2(N51)# 1(N34) , 1(N28) 
-4.b. 2(N20)# 3(N05)# , 
-5.a. 5(N51) , 1(N29~a) 
-5.b. 4(N20) , 
-6.a. 5(N54)# , |6(N57).GAR| 
-6.b. 1(N37) 3(N20) 2(N05) , 
-1.a. 2(N34)# , |DUG~axU2~a|# 
-1.b. 5(N20)# 1(N05) 1(N42~a) , 
-2.a. 3(N34)# , |DUG~ax1(N57)| 
-2.b. 6(N20) , 
-3.a. 5(N34) , KASZ~a 
-3.b. 3(N20) 2(N05) , 
-1.a. 1(N54) , BA GAR 
-1.b. 1(N47) 1(N20) 5(N05)# , 
-2.a. 5(N54) , |5(N57).GAR| 
-2.b. 1(N37) 3(N20) 2(N05) , 
-3.a. 1(N48) , DUG~a KASZ~a 
-3.b. 1(N47) 4(N20) 3(N05) 1(N42~a) , 
-1. 1(N37) 2(N47) 9(N20) 4(N05) 1(N42~a) , 
+254964	1. 1(N37) 2(N47) 9(N20) 4(N05) 1(N42~a) , 
 2. 8(N18) 4(N03) 1(N40) , 
-1.a. 1(N01) , DARA4~c1 
-286788	1.b1. , DUG~a 
-1.b2. , MU 
-2.a. 1(N01) , 1(N04) GI 
-286792	2.b1. , GA~a 
-2.b2. , HI@g~b 
-3.a. 1(N01) , GI NIN 
-286796	3.b1. , SUKKAL 
-3.b2. , SZIDIM 
-4.a. 1(N01) , LU2 PAP~a 
-286800	4.b1. , SANGA~a 
-4.b2. , SI4~f 
-5.a. 1(N01) , MAR~a PAP~a SAL 
-286804	5.b1. , GURUSZDA 
-5.b2. , |SILA3~axSZU2| 
-6.a. 1(N01) , DA~a |MUSZENx2(N57)| 
-286808	6.b1. , BAHAR2~c 
-6.b2. , KID~b# 
-7. , SZIM~a SAG@n 
-1.a. 1(N01) , ZATU628~b KI SAG 
-286813	1.b1. , ZAG~a 
-1.b2. , KISZ# PAP~a 
-2.a. 1(N01) , DIM~a 
-286817	2.b1. , PAP~a |MUSZENx2(N57)| 
-2.b2. , ZATU752 AN# MAR~a 
-3.a. 1(N01) , TUM~c 
-286821	3.b1. , AN MAR~a |(SUKUD+SUKUD)~b| 
-3.b2. , KAB 
-4.a. 1(N01) , LA2 NI~a 
-286825	4.b1. , ZATU710 APIN~a 
-4.b2. , SI GAR SZU 
-5. , SZAM2 EN~a A 
+254972	7. , SZIM~a SAG@n 
+254977	5. , SZAM2 EN~a A 
 1. 6(N01) , SAL SZIM~a 
 2. 4(N01) , SZAM2 
 1. 1(N14) , SAL# SZAM2# AN MAR~a SZIM~a 
@@ -73304,13 +74419,7 @@ $ (not given)
 2. 1(N57) , |GA~a.ZATU753|? ZATU751~a? 
 3. , KASZ~c? X GI 
 1. 1(N01) , DUG~c NIMGIR SI TUR@g 
-2.a. , X X 
-2.b. , EN~a X DUG~c? AB~a X 
-286842	1.a1. 1(N14) 7(N01) , 
-1.a2. 1(N01) KU3~a , 
-1.a3. 1(N02) , 
-1.b. , SZAKIR~c ZATU752 GI |U4x2(N57)|#? 
-2. , PAD~a U4 PAP~a 
+254991	2. , PAD~a U4 PAP~a 
 1. , SANGA~a ZATU753 
 2. , IB~a LA2 SUG5 
 3. , |GA~a.ZATU753| 
@@ -73346,16 +74455,7 @@ $ (not given)
 1. , PAP~b EN~a PAP~a@t 
 1. , NUN~c 
 1. 2(N14) 4(N01) , SZU2 
-1.a. 1(N14) 1(N01) , SZE~a E2~b |LAL2~axNIM~b2| 
-1.b. , SAG@g NA~a SANGA~a 
-2.a. , |SZE~a.NAM2| RAD~a SANGA~a 
-286886	2.b1. , 3(N57) NUNUZ~a1 
-2.b2. , GI4~a HI AD~a 
-1.a. 1(N14) , SZE~a DUB~a E2~b |LAL2~axNIM~b2| 
-1.b. , NA~a SAG@g SANGA~a 
-2.a. , E2~a RAD~a SANGA~a 
-2.b. , GIR3~c SAG 
-3. , AB~b TUR@g? SANGA~a 
+255031	3. , AB~b TUR@g? SANGA~a 
 1. 1(N01)#? , X 
 2. 1(N01)# , DUR2#? A# 
 3. 1(N01)# , NE~a# BAR# 
@@ -73394,11 +74494,7 @@ $ (not given)
 2. , X GI BUR2 A X [...] 
 1. , 
 1. 2(N14) [...] , [...] 
-1.a. [...] 2(N01) , ME~a SUHUR 
-1.b. 1(N38) , 
-2.a. 1(N34) , SZU? E~b SUHUR X [...] 
-2.b. [...] , [...] 
-3. [...] , X [...] 
+255072	3. [...] , X [...] 
 1. [...] , [...] KALAM~a# EN~a# 
 2. [...] , [...] X SU~a# 
 1. 2(N01) , AN# KI#? 
@@ -73466,12 +74562,7 @@ $ (not given)
 1. [...] , X [...] 
 2. 1(N51)# [...] , [...] 
 1. [...] , U4 EN~a#? [...] 
-1.a. 2(N01) , ZATU752 SZURUPPAK~a X 
-287005	1.b1. , X X [...] 
-1.b2. , EN~a X 
-2.a. 1(N01) , SZU E2~a BAR 
-2.b. , SANGA~a 
-1. [...] 1(N01)# , SUHUR 
+255142	1. [...] 1(N01)# , SUHUR 
 2. 1(N01) , MASZ2 
 3. 4(N01)# [...] , MUN~a2 
 1. , TAK4~a# KI# 
@@ -73483,22 +74574,7 @@ $ (not given)
 2. , |BU~b.NA2~a| 3(N57) 
 3. , |(GI&GI)xSZE3| 3(N57) 
 1. [...] , X [...] 
-1.a. [...] , KI [...] 
-1.b. 2(N45) [...] , X SU~a [...] 
-2.a. 7(N45) , ZATU756 EN~a SZE3 TUR NUN~a [...] 
-287025	2.b1. 1(N45) , GAN2 SZE~a 
-2.b2. 4(N45) , KI 
-2.b3. 2(N45) , TUG2~a 
-3.a. 3(N50) [...] , [...] 
-3.b. [...] , GI? [...] 
-4.a. [...] 1(N50) , EN~a SZE3 TUR NUN~a 
-287032	4.b1. 5(N14) , SZE~a [...] 
-4.b2. 7(N14) , [...] 
-5.a. [...] 1(N45) , |SZU2.E2~b|#? 
-5.b. 1(N45) , X [...] 
-6.a. 2(N45) , X 
-6.b. 2(N14) , [...] 
-1. [...] , X [...] 
+255160	1. [...] , X [...] 
 2. 4(N45) [...] , [...] 
 3. 1(N45) , X EN~a#? [...] 
 4. 1(N45) 5(N50) [...] , X X [...] 
@@ -73525,21 +74601,9 @@ $ (not given)
 1. [...] , X AB~a KI [...] 
 1. [...] 5(N19)# 2(N04)# [...] , [...] 
 2. [...] , [...] SANGA~a# 
-3.a. [...] , [...] SZE~a# HI#? GA~a 
-3.b. 1(N46) , 
-4.a. 1(N45) , SZE~a 
-4.b. 1(N46) , 
-4.c. , MUD X DIM~a 
-5.a. [...] 1(N45)# , SZE~a X 
-5.b. 1(N46) 1(N19) , 
-5.c. , X [...] 
-6.a. [...] , NAM2 [...] 
-6.b. 4(N01) , NAM2 BU~a PAP~a 
-1. 2(N45) , SZE~a EN~a KI DU SZU GAR 
+255191	1. 2(N45) , SZE~a EN~a KI DU SZU GAR 
 2. 2(N45) , SZE~a EN~a AN ME~a EN~a SZU GAR 
-3.a. 1(N45) , SZE~a EN~a# X 1(N57)# ME~a# EN~a# SZU# GAR 
-3.b. 2(N01) [...] , AL DUB~a EN~a [...] 
-4. 1(N34) , SZE~a# X SA~a#? 
+255194	4. 1(N34) , SZE~a# X SA~a#? 
 5. [...] , X [...] 
 6. , X [...] 
 1. [...] , [...] 
@@ -73574,15 +74638,11 @@ $ (not given)
 1. [...] , ZATU718 GA~a [...] 
 2. [...] , |ZATU737xSAL| [...] 
 1. 1(N14) 5(N01) , NUN~a 
-1.a. [...] 5(N01) , SAR~c A 
-1.b. 2(N34) [...] , [...] 
-2. 1(N14) 6(N01) , NE~a NUN~a 
+255230	2. 1(N14) 6(N01) , NE~a NUN~a 
 1. 6(N14) [...] , [...] 
 2. 5(N14) , AB~b SANGA~a 
 3. 3(N14) [...] , [...] 
-1.a. 4(N45) , 
-1.b. 6(N14) , X 
-2. 6(N45) 1(N50) [...] , [...] 
+255235	2. 6(N45) 1(N50) [...] , [...] 
 1. 2(N01) [...] , EN~a SZE~a NUN~a [...] 
 1. 1(N01) , X [...] 
 1. [...] , SUHUR# [...] 
@@ -73593,13 +74653,7 @@ $ (not given)
 1. , GI6 A SAL NI~a [...] 
 1. [...] , [...] 
 2. 5(N01) , KUR~a [...] 
-3.a. 5(N01) [...] , SZA3~a1 TUR 
-287136	3.b1A. [...] , [SAL] 
-287138	3.b1B1. , [...] 
-287140	3.b2A. 5(N01) , KUR~a 
-287142	3.b2B1. , X [...] 
-3.b2B2. , X [...] 
-1. [...] 3(N01) , |SAL.KUR~a| |ZATU737xSAL| [...] 
+255247	1. [...] 3(N01) , |SAL.KUR~a| |ZATU737xSAL| [...] 
 2. [...] , |SAL.KUR~a| |ZATU737xSAL| [...] 
 3. [...] , EN~a# X X [...] 
 1. 1(N45) , GAN2 |NIR~axAN| 
@@ -73640,10 +74694,7 @@ $ (not given)
 1. 2(N01) , USZ~b SAG 
 2. [...] , X ZATU753 
 3. [...] , [...] DU# DU 
-1.a. 5(N14) 4(N01) [...] , SZE~a SZAM2 
-287187	1.b1. 2(N01) [...] , [...] 
-1.b2. 1(N34) [...] , [...] 
-2. [...] , X SZU GAR ME~a [...] 
+255289	2. [...] , X SZU GAR ME~a [...] 
 3. [...] , SZE~a RI8~a [...] 
 1. [...] , SANGA~a BU~a [...] 
 1. [...] , TE? [...] 
@@ -73662,9 +74713,7 @@ $ (not given)
 1. 1(N01) , X X 
 2. 1(N01) , GURUSZDA 
 1. [...] , SZU? 2(N57) [...] 
-2.a. [...] , [...] 
-2.b. 2(N19)? , TE [...] 
-3. [...] , NA2~a [...] 
+255309	3. [...] , NA2~a [...] 
 4. [...] , [...] 
 5. [...] , [...] 
 6. [...] , [...] 
@@ -73674,9 +74723,7 @@ $ (not given)
 1. [...] , [...] ZATU624~a 
 2. [...] , [...] GI# 
 1. 1(N01) , X ZATU624~a [...] 
-2.a. 1(N01) , DUB~a PA~a [...] 
-2.b. , EN~a BU~a X [...] 
-1. [...] , [...] DUB~a 
+255320	1. [...] , [...] DUB~a 
 2. , ZATU694~c [...] 
 1. [...] , X X [...] 
 2. 1(N01) , ZATU694~c A [...] 
@@ -73730,12 +74777,7 @@ $ (not given)
 4. 2(N50) [...] , ZATU694~c MAR~b [...] 
 1. 2(N45) , X X GAN2 [...] 
 2. , DUB~a 3(N57) U4#? [...] 
-1.a. 3(N14) 9(N01) , U8 SIG2~a1? 
-1.b. 2(N02) , 
-2.a. 1(N14) 5(N01) , UDUNITA~a 
-287280	2.b1. 2(N01) , X GAL~a 
-2.b2. 1(N02) , 
-3. , APIN~a DU KI SZURUPPAK~a GAL~a SILA4~b 
+255376	3. , APIN~a DU KI SZURUPPAK~a GAL~a SILA4~b 
 1. 2(N01) , SAL SILA4~c 
 2. 3(N01) , SILANITA 
 3. 1(N01) , SZU 
@@ -73786,9 +74828,7 @@ $ (not given)
 1. 1(N48) 3(N34) 2(N14) , |U4x1(N57)|? 
 2. 1(N34) , NE~a 
 1. 2(N34) , U4# 
-1.a. [...] , [...] 
-1.b. [...] , [...] 
-2. , ANSZE~c UDU~a X SZURUPPAK~a KI [...] 
+255428	2. , ANSZE~c UDU~a X SZURUPPAK~a KI [...] 
 1. 1(N01) [...] , SILANITA 
 2. , |U4x1(N57)| [BAR] 
 1. 1(N01) [...] , UDUNITA~a 
@@ -73799,10 +74839,7 @@ $ (not given)
 3. 1(N01) , SZU 
 4. 1(N02) [...] , ZATU628~a# 
 1. 2(N01) [...] , UDU~a [...] 
-1.a. 2(N14) , UDUNITA~a 
-287348	1.b1. [...] , NUN~a [...] 
-1.b2. 1(N01) , BU~a? GAL~a HI? 
-2. , SILA4~b SZURUPPAK~a SI [...] 
+255440	2. , SILA4~b SZURUPPAK~a SI [...] 
 1. , EN~a TUR GAL~a X SILA4~b SZURUPPAK~a EN~a AL AK~a 
 1. 2(N14) 2(N01) , DUB~a UDU~a LAGAB~b 
 2. 1(N01) , KISIM~a 
@@ -73824,13 +74861,7 @@ $ (not given)
 4. 1(N01) [...] , [...] 
 1. , SI U4 AB2 
 2. , BAHAR2~c# [...] 
-1.a. 2(N48) 3(N34) , UDU~a SANGA~a SUKKAL SAR~a PAP~a SZURUPPAK~a# 
-287374	1.b1. 1(N48) 4(N34) , U4 |GISZ.TE| A 
-1.b2. 9(N34) , SIG |GISZ.TE| A 
-1.c. , HI E2~a NUN~a 
-2.a. , GAL~a SZITA~a1 
-2.b. , UDU~a PA~a KI? GAL~a 
-1. 3(N01) , KISIM~a 
+255464	1. 3(N01) , KISIM~a 
 2. 3(N14) , DARA4~c1 
 3. 1(N01) , TUG2~a 
 4. , SANGA~a GA~a 
@@ -73841,17 +74872,9 @@ $ (not given)
 1. 1(N14) 5(N01) , SILA4~c SAL 
 2. 2(N14) , SILANITA 
 3. , |U4x1(N57)| BAR 
-1.a. 2(N34) 1(N14) , UDU~a# DUB~a [...] 
-1.b. 3(N14) 5(N01) , |U4x1(N57)| BAR 
-2. 3(N01) 1(N08) , KISIM~a# 
+255476	2. 3(N01) 1(N08) , KISIM~a# 
 3. , [...] 
-1.a. 2(N14) , SUHUR 
-1.b. 2(N14) , |GA2~a1xU4| 
-1.c. , SANGA~a AN MUSZ3~a 
-2.a. 1(N34) , ZATU728 
-2.b. 1(N14) , |GA2~a1xU4| 
-2.c. , SU~a HAL ME~a 
-3. 1(N34) , ZATU728 IB~a SZEN~a ZATU647 
+255480	3. 1(N34) , ZATU728 IB~a SZEN~a ZATU647 
 1. , EN~a AB~b DUG~a ZATU686~a 
 1. 5(N01) , |GA2~a1xU4| 1(N04) PAP~a URU~a1 SZAH2~a? 
 2. 2(N14) , SUHUR# SI X SAL [...] 
@@ -73862,41 +74885,15 @@ $ (not given)
 3. 3(N14) 5(N01) , |GA2~a1xU4| 
 4. , GU7 
 1. , |GA~a.ZATU753| 
-287412	1.a1. 7(N01) , 
-1.a2. 1(N01) KU3~a , 
-1.b. , DUG~c ZATU649 
-287416	2.a1. 4(N01) , 
-2.a2. 1(N01) KU3~a , 
-2.b. , ZABALAM~a AB2 
-3. 5(N01) , SI4~a NE~a GI SZE~a 
+255493	3. 5(N01) , SI4~a NE~a GI SZE~a 
 1. , BA |GI&GI| 
 1. 1(N14) 7(N01) , BA DUG~c |GI&GI| 
-1.a. 3(N14) , MASZ SZE3 
-1.b. , MUD NUN~a IB~a 
-2. , LA2 SUG5 IB~a 
+255497	2. , LA2 SUG5 IB~a 
 1. , GA~a SIG GU7 
-1.a. 2(N01) 1(N08) , DUG~c EZEN~b |KA2xLAM| SU~a TAK4~a NI~a SAG 
-287428	1.b1. 1(N01) , ZATU648 
-1.b2. 1(N01) 1(N08) , NI2 ZATU649 |3(N57).NUNUZ~a1| 
-2.a. , LA2 SUG5 IB~a 
-2.b. , EN~a X 
-1.a. 2(N01) , DUG~c ZABALAM~a 
-287434	1.b1. , BU~a HI 
-1.b2. , NU11 AN 
-2.a. 3(N01) , SU~a KU6~a NUN~a 
-287438	2.b1. , SZUBUR ZI~a# [PAP~a] 
-2.b2. , ZI~a# [...] 
-3.a. , DA~a GI 
-287442	3.b1. , BU~a HI 
-3.b2. , NU11 AN 
-4. 1(N01) , KIB NA2~b2 HI IN~b 
+255504	4. 1(N01) , KIB NA2~b2 HI IN~b 
 1. 1(N01) , MIR~a |GA~a.ZATU753| 
 2. , DUB~a E2~a 
-3.a. 1(N01) , |GI&GI| DUG~c 
-3.b. , MUD NUN~a GA~a 
-4.a. , GU7 HI# BU~a# 
-4.b. , NU11 AN [...] 
-5. , |GA~a.ZATU753| BAR 
+255509	5. , |GA~a.ZATU753| BAR 
 1. 8(N01) , DUG~c |GA~a.ZATU753| BAR 
 1. 1(N01) , DUG~c AN AB~a# X [...] 
 2. 1(N01) , DUG~c# GAL~a# ME3 |(UDU~axTAR)~a| KU3~a 
@@ -73904,136 +74901,36 @@ $ (not given)
 1. 2(N01) , BA X SI X SZUR2~a 
 2. , DUG~d DUG~c EN~a DUG~a AB~b SAG# 
 1. 4(N01) , DUG~d DUG~c 
-1.a. 1(N01) , DUG~c MASZ GA~a MIR~b 
-287461	1.b1. , 1(N04) 
-1.b2. , IB~a 
-2. [...] 1(N01) , GI6 KAR2~a NUN~a 
-3.a. 1(N01) [...] , DUG~c# [...] 
-287466	3.b1. 1(N01) , DUG~c UNUG~a MIR~b 
-3.b2. 1(N08) , U2~a |GA~a.ZATU753| 
-1. 1(N01) , TAK4~a DIB? MUSZ3~a 
+255518	2. [...] 1(N01) , GI6 KAR2~a NUN~a 
+255520	1. 1(N01) , TAK4~a DIB? MUSZ3~a 
 2. , SI U4 AB2 
-3.a. 1(N01) , DUG~c |ZATU651xEN~a| |GISZ.TE| DU 
-287472	3.b1. , |GA~a.ZATU753| 
-3.b2. , NIM~b1 PAP~a 
-3.b3. , EN~a KUR~a HI MUSZ3~a 
-1. , |GI&GI| BA 
-287477	1.a1. [...] , [...] 
-1.a2. , URI5 
-1.a3. 1(N01) , MUSZ3~a NAGAR~a TUR3~a A 
-1.b. , GAN~c#? DU AB2 [...] 
-2.a. 3(N01) , TAK4~a ALAN~c AN MUSZ3~a 
-287483	2.b1. 1(N57) , ZATU649 
-2.b2. 1(N57) , TUR3~a A 
-2.b3. 1(N57) , ZABALAM~a AB2 
-1. 1(N01) [...] , DUG~d DUG~c 
+255523	1. , |GI&GI| BA 
+255526	1. 1(N01) [...] , DUG~d DUG~c 
 2. [...] , [...] 
 3. [...] , [...] SZE~a 
-4.a. [...] , [...] 
-287491	4.b1. 1(N57) , NE~a SZE~a [...] 
-4.b2. [...] , ZATU648#? 
-4.b3. 1(N57) , X 
-1. , [...] |GI&GI| GU7 
-287496	1.a1. 1(N14) 2(N01) , 
-1.a2. 1(N01) KU3~a , 
-1.b. , DUG~c BA [...] 
-1. , |GA~a.ZATU753| 
+255530	1. , [...] |GI&GI| GU7 
+255532	1. , |GA~a.ZATU753| 
 1. 3(N14) , SZE3 UDU~a NAR A E2~a 
 2. 1(N34) , SZE3 UDU~a DU GIR3~c 
 3. 1(N34) , SZE3 UDU~a ERIN? [...] 
 1. , |NINDA2x(HI.AN.ME~a)| NUN~a BA 
 1. 2(N34) 3(N14) , SZE3# UDU~a# [...] 
 1. [...] , X [...] 
-2.a. 3(N14) , GISZ@t SZU TUR E2~a HI NUN~a 
-2.b. , X X [...] 
-3.a. 1(N34) , X AN MUSZ3~a [...] 
-3.b. , X [...] 
-4.a. [...] , X [...] 
-4.b. 7(N01) , NIGIN PIRIG~b1 X SU~a SAL SANGA~a 
-1.a. [...] , X |3(N57).PIRIG~b1| X 
-1.b. 1(N01) , BU~a [...] 
-2.a. 4(N14) , SZE3 UDU~a HAL ME~a 
-2.b. 1(N01) , BU~a 
-3.a. 1(N01) , NUN~a# [...] 
-3.b. 1(N04) , NU11#? 
-4.a. 1(N43)? 1(N24)? , [...] 
-4.b. [...] , X [...] 
-5.a. 3(N14) 3(N01)# , [...] PAP~a? PIRIG~b1 HI E2~a NUN~a 
-5.b. , U4 PAP~a SANGA~a 
-6. , EN~a ZATU752 
+255547	6. , EN~a ZATU752 
 1. 1(N01) , [...] 
 2. 3(N01) , MASZ SZE3 
 3. 3(N01) , X [...] 
-4.a. , NU11? [...] GAR# 
-4.b. , PIRIG~b1 E2~a X [...] 
-1.a. 1(N01) , TUG2~a BUR2 SUKKAL SAR~a ZATU755~b PAP~a 
-287530	1.b1. 8(N01) , ZATU749~c 
-1.b2. 1(N01) , TUG2~a 
-2.a. 1(N01) , |TUG2~a.(BAD&BAD)| 
-2.b. 2(N51) , 
-3.a. 1(N01) , PAP~a# [...] 
-287536	3.b1. 1(N01) [...] , [...] 
-3.b2. 1(N14) 4(N01) , [...] 
-4.a. 1(N14)# [...] , [...] 
-1.a. 1(N01) , |TUG2~a.(BAD&BAD)| PAP~a 
-1.b. 1(N01) , 1(N57) SAL BAR 
-1.c. 2(N51) , 
-2.a. 1(N01) , X BAR [...] 
-2.b. [...] 1(N01) , DARA4~c3 
-2.c. 1(N14) 4(N01) , [...] 
-3.a. [...] , [...] 
-3.b. 2(N14) 4(N01) , X [...] 
-4. [...] , [...] 
+255559	4. [...] , [...] 
 5. [...] , [...] 
 6. [...] , [...] 
 7. [...] , [...] 
 8. [...] , PIRIG~b1# [...] 
 1. 1(N01) , BU~a PAP~a NAM2 TUG2~a BUR2 
-287554	2.a1. 1(N01) , TUR BUR2 
-2.a2. 4(N01) , MASZ SZE3 
-2.b. , DUG~a HI 
-3. 1(N01) , 1(N57) SAL BAR EN~a# X 
-4.a. 1(N01) , [...] AB2 
-287560	4.b1. 1(N14) 4(N01) , TUG2~a 
-4.b2. 1(N51) , 
-5.a. 1(N01) , X 
-5.b. 6(N01)# , DUG~a [...] 
-6.a. 1(N14) [...] , [...] 
-7.a. [...] , [...] 
-287567	8.a1. 7(N01) , TUG2~a 
-8.a2. 8(N01) , MASZ SZE3 
-8.b. , NIM~b1 [...] 
-9. 1(N01) , [...] 
-287572	10.a1. 3(N01) , DUR~b 
-10.a2. 6(N01) , X 
-10.b. , MUD A [...] 
-1.a. 1(N01) , 1(N57) SAL BAR SI X TE 
-1.b. 5(N01) , MASZ# SZE3 
-2.a. 4(N01) , DUR~b 
-2.b. 1(N14) 7(N01) , MASZ SZE3 
-287580	3.a1. 1(N01) , 1(N57) SAL BAR 
-3.a2. 2(N51) , 
-3.b. , MUSZEN NA~a GI 
-4.a. 1(N01) , X 
-4.b. 8(N01) , DARA4~c5 
-5.a. 1(N01) , 1(N57) SAL BAR [...] NAR 
-287587	5.b1. 8(N01) , ZATU749~c 
-5.b2. 2(N51) , 
-6.a. 1(N01) , [...] 
-6.b. [...] , UDU~a PAP~a 
-7.a. 1(N01) , GA2~a1 [...] 
-287593	7.b1. 1(N01) , |TUG2~a.(BAD&BAD)| 
-7.b2. 2(N01) , ZATU749~c 
-9. [...] , [...] NAM2 [...] 
+255566	3. 1(N01) , 1(N57) SAL BAR EN~a# X 
+255572	9. 1(N01) , [...] 
+255581	9. [...] , [...] NAM2 [...] 
 1. 1(N01) , TUG2~a 1(N02) BA KU6~a RU RAD~a 
-2.a. 1(N01) , |TUG2~a.(BAD&BAD)| 3(N57) DUR2 ZATU751~a |BU~a+DU6~a|? 
-287599	2.b1. 1(N51) , 
-2.b2. 1(N14) , MASZ SZE3 
-2.b3. 1(N01) , TUG2~a 
-3.a. 1(N01) , |TUG2~a.(BAD&BAD)| 8(N57) U8 
-287604	3.b1. 2(N51) , 
-3.b2. 2(N14) 9(N01) , SZE3 UDU~a#? 
-1. [...] , [...] X TUG2~a X 
+255585	1. [...] , [...] X TUG2~a X 
 2. [...] , DUG~b 
 3. [...] 2(N01) , TUG2~a BUR2 
 4. 8(N01) , TUG2~a 
@@ -74053,34 +74950,18 @@ $ (not given)
 1. 2(N14) 4(N01) , BARA2~a 
 2. 5(N01) , ZATU764 
 3. , |GA~a.ZATU753| GU7 
-1.a. 2(N01) , BARA2~a [...] 
-1.b. , LUGAL GA~a 
-2. 3(N01) , BU~a# [...] 
+255606	2. 3(N01) , BU~a# [...] 
 4. 1(N01) [...] , [...] 
 5. [...] , GI DA~a [...] 
 6. [...] , GI DA~a [...] 
 1. 1(N01) , MUSZ3~a IB~a X MUSZ3~a EZEN~b [...] 
-2.a. 1(N01) , [...] 
-287635	2.b1. , X AN [...] 
-2.b2. , PAP~a GA2~a1 
-3.a. 1(N01) , X [...] 
-287639	3.b1. , ERIM~a 
-3.b2. , ZABALAM~a X 
-4.a. 1(N01) , SUHUR RU UMUN2 
-4.b. , |3(N57).NUNUZ~a1| 
-5.a. 1(N01) , GIBIL BU~a HI GA~a SI 
-5.b. , KALAM~b X GI 
-1. 1(N01) , SU~a X BU~a# HI 
+255615	1. 1(N01) , SU~a X BU~a# HI 
 2. 1(N01) , X GA~a X DA~a ZABALAM~a 
 4. 1(N14) , U4 SZU2 SU~a EZEN~b GIBIL MUSZ3~a 
-5.a. 1(N01) , LU2 SI SAL 
-5.b. , NAR NAGA~a HI 
-6. , ZATU676~a NUNUZ~a1 BARA2~a 
+255619	6. , ZATU676~a NUNUZ~a1 BARA2~a 
 1. 2(N14) 5(N01) , BARA2~a ZATU676~a NUNUZ~a1 
 1. , KISIM~b 
-2.a. 1(N01) , 1(N57) SAL BAR 
-2.b. 1(N01)#? , KISIM~b 
-3. 1(N01) , 1(N57) TUG2~a 
+255623	3. 1(N01) , 1(N57) TUG2~a 
 4. , |TUG2~a.(BAD&BAD)| 
 5. , GA'AR~a2 
 7. , EN~a |GISZ3~a&GISZ3~a| KA~a 
@@ -74088,73 +74969,28 @@ $ (not given)
 2. 2(N14) , MASZ SZE3 
 3. , GI 
 1. 1(N01) 1(N08) , KISIM~a 
-2.a. 1(N01) , BUR2 TUG2~a 
-2.b. 3(N01) , KISIM~a 
-3.a. 2(N01) , 1(N57) TUG2~a 
-3.b. 2(N01) , KISIM~a# 
-4. 1(N01) , |TUG2~a.(BAD&BAD)| 
+255633	4. 1(N01) , |TUG2~a.(BAD&BAD)| 
 5. 2(N51) , GA'AR~a2 
 6. 2(N14) , MASZ SZE3 
 7. , |KA~a.SZE~a| ERIN EN~a KA~a KI 
 1. 3(N01)# , KISIM~a# 
 2. , GI 
-1.a. [...] , 1(N57) TUG2~a 
-1.b. [...] , 1(N57) |TUG2~a.(BAD&BAD)|# 
-2. 1(N01) , |TUG2~a.(BAD&BAD)|# 
+255640	2. 1(N01) , |TUG2~a.(BAD&BAD)|# 
 3. 2(N51) , [GA'AR~a2] 
 4. 9(N01)# , SZE3# [...] 
 5. , EN~a KA~a SU~a ME~a 
-1.a. [...] , GI6# KAR2~a NUN~a 
-1.b. 2(N02) , GI 
-1.c. , TUR 
-2.a. 3(N01) , GI6 KAR2~a NUN~a 
-287684	2.b1. 2(N01) , BA 
-2.b2. 1(N01) , GI 
-2.c. , A HI 
-3.a. 3(N01) , GI6 KAR2~a NUN~a 
-287690	3.b1A. 2(N01) , BA 
-3.b1B. 1(N01) KU3~a , 
-3.b1C. 2(N02) , 
-287694	3.b2A. 1(N01) KU3~a , GI 
-3.b2B. 3(N02) , 
-3.c. , BU3 TUR 
-4.a. 3(N01) , GI6 KAR2~a NUN~a TUR3~a#? [...] 
-4.b. 1(N01) , KUR~a KUR~a SIG2~b GI 
-1. 1(N01) [...] , [...] 
+255648	1. 1(N01) [...] , [...] 
 2. 1(N01) , TAK4~a NI~a SAG |KA2xLAM| GIBIL 
-3.a. 1(N01) , AB~a AB2 
-287705	3.b1A1. 1(N01) , DUG~c 
-3.b1A2. 1(N01) , [...] 
-3.b1B. , NAB DI |E2~ax1(N57)@t| BAPPIR~a? GIBIL 
-3.b2. 1(N01) , ZATU732? GI6 KAR2~a NUN~a 
-287710	3.b3A. 3(N01) , |SILA3~axGARA2~a| 
-287712	3.b3B1. 2(N57) , SZA |U4x2(N01)| SZU 
-3.b3B2. 1(N57) , |GIxSZE3| BAD 
-4.a. 3(N02) , |GA~a.ZATU753| MIR~b 
-4.b. , NIM~b1 PAP~a 
-5.a. 1(N01) , KISAL~b1 SIG EZEN~b MUSZ3~a AN TAK4~a NI~a SAG 
-5.b. 1(N01) , DUG~c 
-1. 6(N01) , DUG~c AN ZATU759 GI6 KAR2~a NUN~a 
+255653	1. 6(N01) , DUG~c AN ZATU759 GI6 KAR2~a NUN~a 
 2. 3(N01)# , NAGA~a# DU DUG~c [...] 
 3. 4(N01) , GI6 KAR2~a NUN~a UNUG~a BU3 
-1.a. 1(N01) , U2~a |GA~a.ZATU753| NAGA~a 
-1.b. , SI EN~a ZI~a# [...] 
-2. , GU7 
-3.a. 1(N01) , (|KUR~a.E2~a| 3(N57))a SU~a PAP~a 
-3.b. 1(N01) KU3~a , 
-1. 5(N01) , NI2 ZATU649 
+255657	2. , GU7 
+255659	1. 5(N01) , NI2 ZATU649 
 2. 2(N01) , ZATU648# 
 3. 4(N01) , TUR3~a# 
 4. 3(N01)# , [...] 
 1. 1(N14) 4(N01) , DUG~c GU7 
-1.a. 5(N01) , GA~a# DUB~a 
-287735	1.b1A1. 1(N01) , BA AB~a AN MUSZ3~a 
-1.b1A2. 1(N01) , SAL BA PIRIG~b1 
-1.b1B. , ZATU751~a DUR2 3(N57) BU~a# 
-1.b2. 3(N01) , BA [...] 
-2.a. 1(N01) , ZATU649 
-2.b. 1(N01) KU3~a , 
-3. 1(N01) KU3~a# , ZABALAM~a# AB2# 
+255666	3. 1(N01) KU3~a# , ZABALAM~a# AB2# 
 4. 1(N01) , SI4~a NE~a SZE~a GI 
 5. , GA~a MUD NUN~a 
 1. 2(N01) , ZATU648 
@@ -74166,9 +75002,7 @@ $ (not given)
 1. 2(N01) , ZATU648 
 2. 3(N01) , SI U4 SIG# 
 3. 2(N01) , TUR3~a# A 
-4.a. 1(N01) , ZATU649 
-4.b. 1(N01) KU3~a , 
-5. 1(N01) KU3~a , ZABALAM~a AB2 
+255679	5. 1(N01) KU3~a , ZABALAM~a AB2 
 6. 1(N01) , SI4~a NE~a GI SZE~a 
 1. 1(N14)# 3(N01)# , DUG~c |GI&GI| BA 
 1. [...] 3(N01) , MUD# NUN~a# [...] 
@@ -74182,29 +75016,7 @@ $ (not given)
 5. , BA 
 1. , |KUR~a.E2~a| |3(N57).NUNUZ~a1| NIM~b2 GA~a 
 1. 2(N34) 5(N01) 4(N01) [...] , SIG2~b |KUR~a.E2~a| |3(N57).NUNUZ~a1| 
-287770	1.a1. 6(N01) , DUG~c 
-1.a2. 1(N01)#? [...] , [...] 
-1.b. , ZATU649 NI2 
-287774	2.a1. 1(N01) , 
-2.a2. 1(N01) KU3~a , 
-2.b. , MUD NUN~a 
-2.c. , ZATU649 
-287779	3.a1. 1(N01) , 
-3.a2. 1(N01) KU3~a , 
-3.b. , ZATU649 
-287783	4.a1. 1(N01) , 
-4.a2. 1(N01) KU3~a , 
-4.b. , SI4~a NE~a GI SZE~a 
-287787	1.a1. 1(N01) , 
-1.a2. 1(N01) [...] , 
-1.b. , ZABALAM~a AB2# 
-287791	2.a1. 4(N01) , 
-2.a2. 1(N01) KU3~a# , 
-2.b. , ERIM2 SZE~a GI 
-287795	3.a1. 1(N01) , 
-3.a2. 4(N02) , 
-3.b. , SZE~a SI4~a NE~a [GI] 
-4. , GI GI BA 
+255700	4. , GI GI BA 
 1. 1(N14) 8(N01) , DUG~c BA GI GI 
 1. 6(N01) , UD5~a 
 2. 4(N01) , MASZ2 
@@ -74212,9 +75024,7 @@ $ (not given)
 1. 2(N01) , ESZGAR 
 2. 1(N01) , MASZ 
 3. , |U4x1(N57)| [BAR] 
-1.a. [...] , BA [UDU~a ...] 
-1.b. 3(N01) , |U4x1(N57)| BAR 
-2. 2(N01) , KISIM~a# 
+255709	2. 2(N01) , KISIM~a# 
 1. [...] , [...] 
 1. 1(N14) 3(N01) , PAD~a 3(N57) 
 2. 8(N01) , U4 X PAD~a 
@@ -74222,47 +75032,21 @@ $ (not given)
 1. [...] , BUR2 X [...] 
 2. [...] , [...] 
 3. [...] , [...] 
-4.a. [...] , NUN~a HI BU~a [...] 
-4.b. [...] , ZATU686~a [...] 
-5. , EN~a GURUSZDA 
-6.a. 1(N01) , SIG2~b X HAL X [...] 
-287821	6.b1. 1(N57) , BA TUG2~a TAK4~c 
-6.b2. 1(N57) , TUG2~a X TUN3~a TUR 
-6.b3. , EN~a AB~b? DUG~a |ZATU651xEN~a| 
-7.a. 1(N01) [...] , BA TUG2~a UR~a X X [...] 
-7.b. , NAMESZDA E2~a 
-1.a. 1(N01) , BA TUG2~a EN~a DA~a SZE~a AB~a AN NU11 
-1.b. , GESZTU~b SZITA~a1 ZATU686~a 
-2. [...] , BA EN~a AB~a SZE~a [...] 
-3.a. 1(N01) , EN~a SIG2~b? 
-3.b. , EN~a# AB~a# DUG~a 
-4. 1(N01) , EN~a TUG2~a 
-5.a. 1(N01) , BA TUG2~a 
-5.b. , SIG2~b [...] 
-6. 6(N01) , TUG2~a 
+255718	5. , EN~a GURUSZDA 
+255722	2. [...] , BA EN~a AB~a SZE~a [...] 
+255724	4. 1(N01) , EN~a TUG2~a 
+255726	6. 6(N01) , TUG2~a 
 7. 1(N01) , GADA~a X 
 8. [...] , [...] 
-9.a. , ZATU629 RU? 
-9.b. , UNUG~a X 
-10.a. 3(N01) , EN~a PA~a 
-287841	10.b1. , EN~a SZE~a AB~b DA~a 
-10.b2. , SI KISAL~b1 
-10.b3. , AN U2~b ZATU669 IB~a RU 
-1. 1(N01) , TUG2~a# ENKUM GUL 
+255731	1. 1(N01) , TUG2~a# ENKUM GUL 
 2. 5(N01) , ZATU759 |SAGx1(N14)| 
 3. , GIR3@g~b RAD~a ERIM~a 
-4.a. 1(N01) , SIG2~b ME~a AMA~a MUSZ3~a 
-4.b. , EN~a DUG~a AB~a ZATU686~a 
-1. [...] , 1(N57) SAL BAR X GAR [...] 
+255735	1. [...] , 1(N57) SAL BAR X GAR [...] 
 2. 1(N01) [...] , X IB~a EN~a X NU 
 3. 1(N01) [...] , [...] 
 4. 1(N01) [...] , [...] 
 1. 1(N01) , 1(N57) TUG2~a ZATU756 SILA4~c A PAP~a 
-2.a. 1(N01) , TUG2~a? SZURUPPAK~b [...] 
-2.b. 1(N01) , TUG2~a ZATU756 1(N57) 
-3.a. 1(N01) , X [...] 
-3.b. , NAR A? [...] 
-1. , NAM2# RAD~a PA~a 
+255742	1. , NAM2# RAD~a PA~a 
 1. 9(N01) [...] , DUG~b 
 2. 1(N01) , TUG2~a 
 3. 1(N01) , 1(N57) SAL BAR 
@@ -74285,10 +75069,7 @@ $ (not given)
 2. 3(N14) [...] , |GA2~a1xU4|# 
 3. , [...] 
 1. , GU7# 
-287882	1.a1. 9(N01) , 
-1.a2. 1(N01) KU3~a , 
-1.b. , SZAKIR~c ZATU752 NAR HAL U2~b E2~a 
-2. 5(N01)# [...] , [...] 
+255766	2. 5(N01)# [...] , [...] 
 1. 2(N14) , KISIM~a EN~a ZATU752 
 2. , PAD~a 3(N57) 
 3. , |U4x1(N57)|#? NI~b# 
@@ -74302,41 +75083,11 @@ $ (not given)
 3. , X X PA~a NAM2 RAD~a [...] 
 1. [...] , SILANITA 
 2. , |U4x1(N57)| BAR 
-1.a. 1(N34) , UDU~a DUB~a 
-1.b. 1(N14) 1(N01) , |U4x1(N57)| BAR 
-2. 2(N01) , KISIM~a 
-287903	1.a1. 2(N01) [...] , BARA2~a# [...] 
-1.a2. 1(N01) , ZATU764 
-287906	1.b1. , ZATU676~a NUNUZ~a1 
-1.b2. , |BU~a+DU6~a| PAP~a 
-1.c. , SIG EZEN~b AN MUSZ3~a 
-287910	2.a1. 2(N01) , 
-2.a2. 1(N01) , 
-287913	2.b1. , |BU~a+DU6~a| PAP~a 
-2.b2. , DILMUN 
-2.c. , GIBIL NUN~a 
-287917	3.a1. 2(N01) , 
-3.a2. 1(N01) , 
-287920	3.b1. , 1(N57) KID~a PAP~a 
-3.b2. , ZATU676~a NUNUZ~a1 
-3.c. , NUN~a SU~a 
-287924	4.a1. 2(N01) , 
-4.a2. 1(N01) , 
-287927	4.b1. , 1(N57) KID~a PAP~a 
-4.b2. , ZATU676~a NUNUZ~a1 
-4.c. , U4 EZEN~b MUSZ3~a 
-5. , U4 SZU2 
+255781	2. 2(N01) , KISIM~a 
+255786	5. , U4 SZU2 
 1. 1(N01) , EN~a# HI# SZA3~a1 DIM~a |1(N57).SZUBUR| ZATU676~a NUNUZ~a1 
 2. 1(N01) , DUR2 BARA2~a TUR MEN~a X DU |SAL.KUR~a| 
-287934	3.a1. 1(N01) , DUR2 BARA2~a 
-3.a2. 1(N01) [...] , BARA2~a [...] 
-3.b. , GIR3@g~b ERIM~a NAGA~a [...] 
-287938	4.a1. 1(N01) , DUR2 BARA2~a 
-4.a2. 1(N01) , ZATU764# BARA2~a 
-4.b. , UH3~a ERIM~a AN ZATU759 
-5.a. 1(N01) , EN~a IB~a 
-5.b. , SUG5 [LA2] 
-1. 1(N14) 5(N01) , [...] 
+255792	1. 1(N14) 5(N01) , [...] 
 2. [...] , [...] 
 3. 2(N01) , U4 AB2# SI# UDU~a? AB~a BA 
 4. [...] , DU7? AB~a U4 [...] 
@@ -74350,16 +75101,7 @@ $ (not given)
 3. 1(N01) , [...] 
 1. 8(N01) [...] , SI U4 [AB2] 
 2. 6(N01) , TUR3~a A 
-3.a. 3(N01) , ZATU649 
-3.b. 1(N01) , KU3~a 
-4.a. 2(N01) , ZABALAM~a AB2 
-4.b. 1(N01) , KU3~a 
-5.a. 2(N01) , SI4~a# NE~a GI SZE~a 
-5.b. 1(N01) , KU3~a# 
-287964	1.a1. 4(N14) 1(N01) [...] , 
-1.a2. 3(N02) , 
-1.b. , DUG~c BA |GI&GI| ZATU648 
-1. 1(N14) 9(N01) , DUG~c GU7 |GA~a.ZATU753| 
+255810	1. 1(N14) 9(N01) , DUG~c GU7 |GA~a.ZATU753| 
 1. , [...] 
 1. [...] , TUG2~a X TUR [...] 
 2. , EN~a GURUSZDA 
@@ -74369,11 +75111,7 @@ $ (not given)
 1. [...] , GUN3~a# TUG2~a# X NAM2 [...] 
 2. [...] , GUN3~a? TUG2~a? X ZATU752 
 3. 1(N01) , EN~a SIG2~b |GA~a.ZATU753| 
-4.a. 1(N01) , EN~a SIG2~b SZUM? GAL~a 
-4.b. 1(N01) , TUG2~a# EN~a? 
-5.a. 1(N01) , SIG2~b SANGA~a ZATU753 DUB~a 
-5.b. [...] , TUG2~a# EN~a 
-6. 2(N01) , EN~a# TUG2~a# GESZTU~b SZITA~a1 
+255822	6. 2(N01) , EN~a# TUG2~a# GESZTU~b SZITA~a1 
 7. 1(N01) , EN~a# TUG2~a# AN KALAM~b 
 8. 1(N01) , ZATU749~a TUG2~a KASZ~c? 
 1. 1(N01) , EN~a NANNA~a PAP~a SANGA~a [...] 
@@ -74412,13 +75150,8 @@ $ (not given)
 9. 2(N01) , |TUG2~a.(BAD&BAD)| 
 1. 4(N14) 6(N01) , EN~a SIG2~b TUG2~a BA ZATU719 ZI~a? |ZATU737xSAL| ZATU753 
 1. 5(N01) , U2~a# [...] 
-1.a. 1(N14) , X X 
-288022	1.b1. [...] , X [...] 
-1.b2. , I BU3 
-2. 1(N01) , X [...] 
-1.a. 3(N01) , GA~a# AB2 
-1.b. [...] , GI 3(N57) 
-2. 1(N14) [...] , SUHUR# [...] 
+255862	2. 1(N01) , X [...] 
+255864	2. 1(N14) [...] , SUHUR# [...] 
 1. 5(N14) 1(N01) [...] , U2~a 
 2. , |GI&GI| GU7 
 1. 1(N14) 5(N01) , DARA4~c4 U8 
@@ -74427,25 +75160,14 @@ $ (not given)
 1. 2(N01) , SAL SILA4~c 
 2. 3(N01) , SILANITA 
 3. , |U4x1(N57)| BAR 
-1.a. 1(N14) [...] , UDU~a BA 
-1.b. 5(N01) , |U4x1(N57)| BAR 
-2. 1(N08) , KISIM~a 
+255874	2. 1(N08) , KISIM~a 
 3. , KALAM~b 
 1. 5(N01) , DUG~c AN U4 EZEN~b SAL MUSZ3~a [...] 
 2. 1(N01) , SIMUG? IB~a LU2 MUD 
-3.a. 8(N01) , GAL~a GA~a BAR 
-3.b. , EN~a NANNA~a 
-1. [...] , MIR~b [...] 
+255879	1. [...] , MIR~b [...] 
 2. , GU7# |GI&GI|# 
 1. 1(N14) 6(N01) , DUG~c# [...] 
-1.a. 5(N01) , DUG~c DUB~a 
-288049	1.b1. 1(N01) , ZABALAM~a AN BA ZATU751~a 
-1.b2. 1(N01) , SAL BA X ANSZE~b? 
-1.b3. 3(N01) , BA KI 
-288053	2.a1. 1(N01) , 
-2.a2. 1(N01) KU3~a , 
-2.b. , ZATU649 
-3. 1(N01) KU3~a , ZABALAM~a AB2 
+255884	3. 1(N01) KU3~a , ZABALAM~a AB2 
 4. 1(N01) , SI4~a NE~a SZE~a GI 
 5. , GA~a [...] 
 1. 2(N01) , ZATU648 
@@ -74456,10 +75178,7 @@ $ (not given)
 1. [2(N01)] , [ZATU648] 
 2. 3(N01) , SI U4 AB2 
 3. 2(N01) , TUR3~a A 
-288068	4.a1. 1(N01) , 
-4.a2. 1(N01) KU3~a , 
-4.b. , ZATU649 
-5. 1(N01) KU3~a , ZABALAM~a AB2 
+255896	5. 1(N01) KU3~a , ZABALAM~a AB2 
 6. 1(N01) , NE~a SI4~a GI SZE~a 
 1. 1(N14) 3(N01) , ZATU648 DUG~c |GI&GI| BA 
 1. [...] , [...] 
@@ -74477,22 +75196,7 @@ $ (not given)
 2. 2(N01) , BA TUG2~a 
 3. 2(N01) , TUG2~a X 
 4. 2(N01) , TUG2~a BUR2 
-1.a. [...] , X TUR3~a# 
-1.b. , [...] X IB~a 
-2.a. 1(N01) , GADA~a GADA~a TAK4~a AN KI 
-2.b. , GA~a SANGA~a 
-2.c. , MUSZEN KI AD~a 
-1.a. [...] 1(N01)# , AN X [...] 
-1.b. , [...] 
-2.a. [...] , GADA~a SZITA~a1 X 
-288098	2.b1. , AB~a IB~a [...] 
-2.b2. , SUG5 LA2 
-3.a. [...] , GADA~a TUG2~a X 
-3.b. , GESZTU~b SZITA~a1 ZATU686~a 
-4.a. 1(N01) , GADA~a USZ~a X [...] 
-4.b. , GIR3~c PAP~a [...] 
-5.a. 2(N01) , [...] 
-6. , TUR X BAR [...] 
+255921	6. , TUR X BAR [...] 
 1. 1(N01) , EN~a SIG2~b 
 2. 1(N01) , TUG2~a ZATU749~a 
 3. 2(N01) , BA SIG2~b 
@@ -74504,101 +75208,30 @@ $ (not given)
 9. 1(N14) 1(N01) , GADA~a 
 10. 2(N01) [...] , X [...] 
 1. [...] 1(N01) , SIG2~b# TUG2~a# GU7 |GA~a.ZATU753|# [...] 
-1.a. [...] , KI [...] 
-1.b. [...] , E2~a NE~a NE~a 
-1.c. [...] , [...] 
-2.a. 1(N01) , EN~a TUR 
-2.b. , AN DU SZUBUR 
-2.c. [...] , [...] 
-3.a. [...] , TUR [...] 
-3.b. , 5(N57) NU PAP~a 
-3.c. 2(N01) , UMUN2 DU SI ZATU733 
-288127	3.d1. 1(N01) , SZU 
-3.d2. , 3(N57) A? 
-4.a. [...] , X X [...] 
-4.b. 3(N01) , X TUR 
-288132	4.c1. , PAP~a NAM2# 
-4.c2. , BU~a PAP~a 
-4.c3. , ZI~a SZUBUR PAP~a 
-4.d. 2(N01) , SZU 
-288137	4.e1. , KITI 3(N57) 
-4.e2. , KALAM~b ZI~a PA~a 
-5.a. [...] , [...] 
-5.b. 1(N01) [...] , PIRIG~b1 HI ZATU631 PAP~a 
-1.a. [...] , IR11 NIR~a? PAD~a 
-1.b. [...] , [...] 
-1.c. [...] , [...] 
-2.a. 8(N01) , IB~a PAP~a BAHAR2~c |GA~a.ZATU753| 
-288146	2.b1. , PAP~a IB~a 
-2.b2. , |3(N57).PIRIG~b1| |SZU2.E2~a| 
-2.b3. , ANSZE~b#? [...] 
-288150	2.c1. , X BU~a? 
-2.c2. , KISZIK~a BU~a 
-2.c3. , PAD~a [...] 
-3.a. 1(N01) , AL URU~a1 KASZ~b? X X X 
-3.b. , X KU6~a? X [...] 
-1. , DU? X [...] 
-288157	1.a1. [...] 2(N01) , SUHUR 
-1.a2. 3(N14) [...] , U2~a 
-1.b. , 3(N57) SU~a PAP~a 
-288161	2.a1. [...] 4(N01) , [...] 
-2.a2. 3(N14) , U2~a 
-2.b. , AMA~a [...] 
-1. , EN~a# 3(N57) SZU 
-288166	2.a1. 1(N14) 2(N01) , |GA2~a1xGIR~a|# SUHUR 
-2.a2. 1(N14) 4(N01) , U2~a 
-2.b. , 4(N57) U8 BAR 
-3. 1(N14) 5(N01) , U2~a ZI~a KALAM~b 
+255941	1. , DU? X [...] 
+255944	1. , EN~a# 3(N57) SZU 
+255946	3. 1(N14) 5(N01) , U2~a ZI~a KALAM~b 
 4. [...] 3(N01)# [...] , U2~a# [...] 
-288172	1.a1. 2(N14) 4(N01) , SUHUR 
-1.a2. 3(N14) , |GA2~a1xGIR~a| 
-1.b. , EN~a# PAP~a 
-2. 1(N14) 2(N01) , |GA2~a1xGIR~a| X E2~a 
+255949	2. 1(N14) 2(N01) , |GA2~a1xGIR~a| X E2~a 
 3. 1(N14) 7(N01)# [...] , [...] 
-1.a. [...] , |GA2~a1xGIR~a|# [...] 
-1.b. 2(N34)# 2(N01)# [...] , SUHUR |GA2~a1xKU6~a| 
-2. , NANSZE~b NAGAR~b 
+255952	2. , NANSZE~b NAGAR~b 
 1. , [...] 
 1. 9(N01) , DUG~c 
 2. 3(N14) , U2~a 
 3. , ZATU648 
 1. , ZATU648#? 
-2.a. 1(N01) , ZABALAM~a AB2 
-2.b. 1(N01) , KU3~a 
-3. 2(N01) , DUG~c 
+255959	3. 2(N01) , DUG~c 
 4. 1(N14) , |GA2~a1xKU6~a| 
 1. , SI4~a ERIM2 SZE~a 
 2. 1(N01) , KU3~a NI2 [...] 
 1. 1(N34) , U2~a 
 2. , BA ZATU648 |GI&GI| 
 1. 1(N34) 9(N01) , MUD NUN~a U2~a 
-2.a. 4(N14) 8(N01) , SUHUR 
-288196	2.b1. 1(N14) 2(N01) , SUHUR 
-288198	2.b2A. 2(N01) , DUG~c 
-2.b2B. 2(N14) 4(N01) , 
-2.b3. , MUD NUN~a 
-288202	2.b4A. 1(N01) , DUG~c 
-2.b4B. 1(N14) 2(N01) , 
-2.b4C. , SA~a DAR~a 
-3. , ZATU648 
-288207	4.a1. 1(N14) , U2~a 
-4.a2. 2(N14) , |GA2~a1xKU6~a| 
-4.b. , ZABALAM~a AB2 MUD NUN~a 
-1.a. 1(N34) 2(N14) 4(N01) , U2~a 
-288212	1.b1. 3(N14) 5(N01) , U2~a 
-1.b2. 2(N14) 5(N01) , MUN~a1 
-1.b3. , |3(N57).NUNUZ~a1| 
-1.b4. 2(N14) , EN~a ME~a SI 
-1.b5. 4(N01) , MUD NUN~a 
-2. 2(N14) 4(N01) , SUHUR |3(N57).NUNUZ~a1| 
+255967	3. , ZATU648 
+255970	2. 2(N14) 4(N01) , SUHUR |3(N57).NUNUZ~a1| 
 3. , SI U4 AB2 
 4. 3(N14) , |GA2~a1xKU6~a| MUD NUN~a NE~a GI SI4~a [SZE~a ...] 
-1.a. 3(N14) 5(N01) , U2~a 
-288222	1.b1. 3(N14) , MUD NUN~a 
-1.b2. 1(N14) 5(N01) , SI [U4 AB2] 
-2.a. 4(N14) [...] , [...] 
-2.b. 1(N14) [...] , [...] 
-1. [...] , [...] 
+255975	1. [...] , [...] 
 2. [...] , [...] 
 3. [...] , [...] 
 4. [...] , [...] X 
@@ -74632,201 +75265,50 @@ $ (not given)
 1. 1(N48)# 4(N34)# [...] 1(N01)# , U2~a 
 2. 1(N48) 8(N34) 6(N01) , SUHUR 
 3. , GI ZATU648 
-1.a. 1(N01) , ZATU764 
-1.b. 4(N14) 5(N01) , DARA4~c4 
-2. , LA2 |1(N58).BAD~a| GU7 
+256010	2. , LA2 |1(N58).BAD~a| GU7 
 1. , AL BU~a KA~a [...] 
 1. 2(N01) , DUG~b AN EZEN~b U4 MUSZ3~a E2~a X SAG SAL 
-2.a. 1(N01) , DUG~b GAN~a ERIM~a 
-2.b. , MUSZEN# NUN~a# [...] 
-3. 1(N01) , DUG~b ZI~a# X [...] 
+256014	3. 1(N01) , DUG~b ZI~a# X [...] 
 4. 1(N01)# , DUG~b |GA~a.ZATU753| BAR 
 1. [...] 1(N08)# , [...] |GA~a.ZATU753|# BAR 
 2. , X GU7 SZURUPPAK~a ZATU752 
 3. , 
 1. 7(N01) 1(N08) , DUG~b GU7 
-1.a. [...] , NI2 [ZATU649] 
-1.b. [...] , KU3~a 
-2. 1(N01) , E2~a NA2~a MIR~a ZABALAM~a 
+256021	2. 1(N01) , E2~a NA2~a MIR~a ZABALAM~a 
 3. 1(N01) , GA~a MIR~a [...] 
 4. [...] , DUG~a DU NAGA~a [...] 
 5. [...] , ERIM2 [...] 
-288280	1.a1. 1(N01) [...] , [...] 
-1.a2. [...] , KU3~a 
-1.b. , GI? GI? 
-1. [...] , |U4x5(N01)| NA2~a [...] 
-2.a. , 3(N57) [...] 
-288286	2.b1. , X [...] 
-2.b2. , TUR3~a 
-2.b3. , DU ZATU783 [...] 
-2.b4. , SZA SZU 
-2.b5. , NIGIN? BA SILA3~a |GA~a.ZATU753| 
-1. [...] , SI4~a# ERIM2# SZE~a [...] 
-2.a. 6(N01) [...] , UNUG~a KAR2~a GI6 [...] 
-288294	2.b1. 1(N57) , ZATU649 |3(N57).NUNUZ~a1| 
-2.b2. 1(N57) , NUN~a? AB2? BU~a [...] 
-2.b3. 1(N57) , ZATU648 EN~a X ME~a 
-1.a. [...] , SZE~a# [...] 
-288299	1.b1. [...] , KUR~a |1(N57).SZUBUR| ZATU629 [...] 
-1.b2. [...] , |SILA3~axGARA2~a| X NUN~a? [...] 
-1.b3. [...] , IB~a [...] 
-2.a. 1(N01) , AB~a AB2 EN~a X [...] 
-2.b. , EN~a [...] 
-3. [...] , X AB2 [...] 
+256026	1. [...] , |U4x5(N01)| NA2~a [...] 
+256028	1. [...] , SI4~a# ERIM2# SZE~a [...] 
+256032	3. [...] , X AB2 [...] 
 4. [...] , [...] 
 1. 4(N01) , ZATU648 
 2. 6(N01) , ZATU649 NI2 
 3. 8(N01) , SI4~a ERIM2 SZE~a 
 4. 4(N01) , NE~a SI4~a GI 
-5.a. 3(N01) , ZATU649 
-5.b. 1(N01) , KU3~a 
-6.a. 5(N01)# , [...] 
-6.b. 1(N01) , KU3~a 
-1. 3(N14) 1(N01) , DUG~b? [...] 
+256040	1. 3(N14) 1(N01) , DUG~b? [...] 
 1. [...] , [...] MUSZ3~a# KASZ~b EZEN~b 
 2. 1(N01) , SAL AMA~a 
 3. 4(N01) , MEN~a NUNUZ~c DU 
 4. 1(N01) , PAP~a GA2~a1 IB~a 
-1.a. [...] , [...] 
-1.b. [...] , [...] 
-2.a. [...] , [...] 
-2.b. [...] , KAB ZI~a 
-3.a. [...] , [...] X 
-3.b. , SZUBUR BU~a SUKKAL 
-4.a. 2(N01)# [...] , X KUR~a SIG2~b SZE~a 
-4.b. , GESZTU~b# [...] 
-5.a. 6(N01) , PAD~a GA~a 
-288329	5.b1. 3(N57) , |SZE~a&SZE~a| DU 
-5.b2. 3(N57) , DU AB2 SAG# 
-1.a. [...] , [...] DUG~c# 
-288333	1.b1. [...] 1(N01) , GAN~c [...] 
-288335	1.b2A. 3(N57) , EN~a BAD AB~a@g 
-1.b2B. 1(N57) , PAP~a SIG7 NUN~a GUL 
-1.c. [...] , [...] IB~a# 
-2.a. 1(N01) , DUG~c 
-288341	2.b1A. [...] , |DUG~cx1(N57)| 
-288343	2.b1B1. [...] , GAN~c SZU 
-2.b1B2. , SZITA~a1 ADAB UTUL~a 
-288346	2.b2A. 2(N01) , SILA3~a GARA2~a 
-288348	2.b2B1. 1(N57) , SZA SZU 
-2.b2B2. 1(N57) , ZATU659? PAP~a SUKKAL 
-2.b3. 4(N01) , |SILA3~axGA~a| SZA 
-2.c. , SUG5 LA2 IB~a 
-288353	3.a1. [...] , X AMA~a AN [...] 
-3.a2. 1(N01) , KI# NA2~a [...] 
-3.a3. 1(N01) , MIR~b |ZATU651xNUN~a| 
-3.b. , GESZTU~b SZITA~a1 
-288358	1.a1. [...] , X MUSZEN# AN X KU6~a [...] 
-1.a2. [...] , GAN~c |U4x6(N01)| NA2~a 
-1.b. , [...] ZATU686~b 
-288362	2.a1. 1(N14)# 8(N01) , KAR2~a NUN~a# [...] 
-288364	2.a2A. 1(N14) , GA~a GAL~a BAR 
-2.a2B. , 1(N04)# PAP~a IB~a 
-2.a3. 1(N01) , EN~a AB~b SZEN~a UB SZUR2~a 
-2.a4. 1(N01) , SAL UNUG~a SZITA~a1 AL#? 
-2.a5. 1(N01) , NA~a? MUSZEN UMUN2 KU3~a GI 
-2.b. , UNUG~a [...] GESZTU~b SZITA~a1 ZATU686~a 
-288371	3.a1. 3(N01) , |GA~a.ZATU753| MIR~b 
-3.a2. 1(N01)# , AB~a# [...] 
-3.b. , ZATU753 E2~a [...] 
-4.a. 1(N01) , |GA~a.ZATU753| AB~a 
-288376	4.b1. , E2~a# 
-4.b2. , BU~a KA~a 
-1.a. 1(N01) , SZAKIR~c ZATU752 BA E2~a GIBIL NUN~a 
-1.b. , GESZTU~b SZITA~a1 ZATU686~a 
-288381	2.a1. 3(N01) , E2~a PA~a 3(N57) |(UDU~axTAR)~a| KU6~a 
-288384	2.a2A1. 1(N01) , E2~a ALAN~b NUN~a# TAK4~a 
-2.a2A2. 1(N01) , ZATU651@g TAK4~a ALAN~b 
-2.a2B. , X KA~a X HI X 
-2.a3. 1(N01) , SANGA~a GA~a AB~a 
-2.a4. 1(N01) , GAL~a ZATU687 AB~a 
-2.a5. 1(N01) , GA~a ARARMA2~a 
-2.b. , GESZTU~b SZITA~a1 ZATU686~a 
-3.a. 1(N01) , KASZ~b URI5 AN MUSZ3~a# 
-3.b. , MUD NUN~a 
-4.a. 1(N01) , EN~a BA ARARMA2~a 
-4.b. , EN~a DUG~a AB~a# [...] 
-1.a. [...] , [...] DUG~c UNUG~a 
-288398	1.b1A. [...] , |SILA3~axGARA2~a|# 
-288400	1.b1B1. [...] , [...] X 
-1.b1B2. 1(N57) , DILMUN 
-288403	1.b2A. 4(N01) , |SILA3~axGA~a| 
-288405	1.b2B1. 1(N57) , EN~a SZE3? TUR NUN~a 
-1.b2B2. 1(N57) , X AN MUSZ3~a EN~a X 
-1.b2B3. 1(N57) , SIG2~b 
-1.b2B4. 1(N57) , E2~a GU 
-1.b3. 2(N01) , BA SILA3~a KASZ~b 
-2.a. 1(N01) , KU6~a 
-288413	2.b1A. 6(N01) , |SILA3~axGARA2~a| 
-288415	2.b1B1. 1(N57) , EN~a# SAG# 
-2.b1B2. 1(N57) , HI E2~a DILMUN NUN~a 
-2.b1B3. 1(N57) , NAMESZDA 
-2.b1B4. 1(N57) , GESZTU~a? DIM~a 
-2.b1B5. 1(N57) , SZA SZU 
-2.b1B6. 1(N57) , GI BAD 
-2.b2. 1(N01) , |SILA3~axGA~a| |SIxSZE3| EN~a# NUN~a# 
-2.b3. 5(N14) , BA SILA3~a KASZ~b 
-3. , [...] 
+256063	3. , [...] 
 1. 1(N34)# 5(N14) 6(N01) [...] , X X NA~a [...] 
 1. , |GA~a.ZATU753| [...] 
-288427	1.a1. 3(N01) , KISIM~a 1(N04) BU~a 
-288429	1.a2A. 1(N01) , 1(N57) SAL# BAR 
-1.a2B. 1(N14) , MASZ SZE3 
-1.b. , U4 NUN~a E2~a 
-288433	2.a1. 1(N01) , AN GARA2~a PAP~a X 
-2.a2. [...] , [...] 
-2.b. , GAL~a SANGA~a 
-3.a. 1(N01) 1(N08) , MUD A 
-3.b. 9(N01)# , X |NINDA2x(HI+ME~a)| NUN~a 
-4.a. 1(N01) , X NA2~a# 
-4.b. [...] , [...] 
-5.a. 2(N01) 1(N08) , NU ZATU631 
-5.b. 1(N01)# , [...] 
-6.a. 1(N08) , X 3(N57) 
-6.b. 2(N01)# [...] , [...] 
-7.a. 1(N08) , DU UDU~a BU~a 
-7.b. 2(N01)# [...] , [...] 
-1. 1(N08) , X [...] 
+256073	1. 1(N08) , X [...] 
 2. 3(N01) , [...] X IR~a 
-3.a. 1(N01) [...] , [...] 
-288450	3.b1. [...] 1(N01) , [...] 
-3.b2. 6(N01) , [...] 
-4.a. 1(N08) , X NUN~a# E2~a# [...] 
-4.b. 1(N01) [...] , AB~a# [...] 
-5.a. 2(N01) , GISZ#? GADA~a SZU? 
-288456	5.b1. 1(N01) , GI 
-5.b2. 1(N14) 5(N01) , BA 
-6.a. [...] , PIRIG~b1# NAMESZDA 
-288460	6.b1. 6(N01)# , X 
-6.b2. 1(N01) , 1(N57) SAL BAR 
-6.b3. 1(N01) , |TUG2~a.(BAD&BAD)| 
-7.a. 2(N01) , GIR3~c EN~a# PA~a 
-288465	7.b1. 1(N14) 9(N01) , ZATU749~b 
-7.b2. 2(N01)# , TUG2~a BUR2 
-8.a. [...] , [...] 
-288469	8.b1. 2(N14) , ZATU749~b BA 
-8.b2. 1(N02) , SAL [...] 
-8.b3. [...] 1(N01)# , GI [...] 
-1. [...] , X GAL~a [...] 
+256081	1. [...] , X GAL~a [...] 
 2. 3(N01) , X ME~a [...] 
 3. 1(N08) , IM~a#? [...] 
 4. 1(N01) [...] , GI6 A BAR [...] 
 5. 1(N01) , EN~a X PAP~a AN BA SAR~a 
 6. 1(N01) , HI KASZ~b#? 
-7.a. 1(N01) , |TUG2~a.(BAD&BAD)| SUH3 |NINDA2x(HI+ME~a)| NUN~a 
-288480	7.b1. 2(N14) , MASZ SZE3 
-7.b2. 3(N14) , SZE3@t 
-8. , |U4.1(N08)| TAR~a GALGA~b? E2~a BA 
+256088	8. , |U4.1(N08)| TAR~a GALGA~b? E2~a BA 
 1. , EN~a IB~a [ZATU753] 
 2. , SUG5# SAG 
 3. , AB~b E2~b SANGA~a 
-1.a. 1(N14) 2(N01) , DUG~b 
-1.b. 2(N14)# 2(N01)# [...] , [...] 
-2. 3(N01) , TUG2~a 
+256093	2. 3(N01) , TUG2~a 
 3. 2(N01) , TUG2~a BUR2 
-4.a. 6(N01) , 1(N57) SAL BAR 
-4.b. , 1(N57) SAL TUR BAR 
-5. 1(N01) , SZU2 
+256096	5. 1(N01) , SZU2 
 8. 2(N01) , |TUG2~a.(BAD&BAD)| 
 9. 6(N01) , DUR~b 
 10. 4(N14) 5(N01) , MASZ SZE3 
@@ -74870,34 +75352,17 @@ $ (not given)
 1. [...] 2(N34) , SAL GURUSZ~a 
 2. [...] 1(N14) , |U4x1(N01)| SZITA~a1#? [...] 
 3. [...] , X KU6~a [...] 
-288537	1.a1. 2(N01) , ZATU697~a 
-1.a2. 3(N14) , 
-1.b. , UNUG~a DU 
-2. 2(N45) 3(N48) , SZU2 DUR~b [...] 
+256141	2. 2(N45) 3(N48) , SZU2 DUR~b [...] 
 1. [...] 2(N14) , DU [...] 
 2. [...] , DUR~b# [...] 
 3. 4(N14) 3(N01) , U2~a DAR~d 
-1.a. , |GA~a.ZATU753| 
-1.b. 1(N14) 2(N01) , SAG 
-1.a. 2(N51) [...] , DU [...] 
-1.b. 1(N51) [...] , [...] 
-2.a. 1(N14) 5(N01) , BU~a SZU 1(N24) 
-2.b. 1(N14) , GAR#? 
-3. 1(N34) , GAR SAL GARA2~a BA SZU BU~a [...] 
+256148	3. 1(N34) , GAR SAL GARA2~a BA SZU BU~a [...] 
 4. 1(N34) , GAR UB NIN 
 5. 1(N51) , GAR BU~a KU6~a URI 
 6. [...] , ERIM~a# 
 1. [...] 2(N14) , GAR [...] 
-2.a. 1(N01) , UR2 MU 
-2.b. 1(N01) , ZATU757#? 
-2.c. 1(N01) , SZA3~a2# SZU 
-3.a. 1(N01) , UR2 SZUM 
-3.b. 1(N01) , |UR2x1(N57)| [...] 
-4. 1(N14) 5(N01) , 3(N57) AMA~a? X GAR NAM2 [...] 
-1.a. 5(N01) [...] , BA GAR [...] 
-288563	1.b1. 1(N51) 2(N14) 1(N01) [...] , [...] 
-1.b2. 5(N51) 4(N14) , GAR 
-2. 2(N01) , UR2 
+256155	4. 1(N14) 5(N01) , 3(N57) AMA~a? X GAR NAM2 [...] 
+256157	2. 2(N01) , UR2 
 3. 1(N01) , |UR2x1(N57)| 
 4. 1(N01) , ZATU757 
 5. 1(N01) , SZU# SZA3~a2 
@@ -74917,16 +75382,11 @@ $ (not given)
 1. 7(N01) , SU~a KASZ~a ERIM~a KISAL~b1 UNUG~a SI UMUN2 
 2. 1(N01) , UNUG~a KISAL~b1 ISZ~b ERIM~a 
 3. , DIM~a GI UNUG~a 
-4.a. 1(N01) , ZATU714#? ERIM~a U2~b 
-4.b. , EN~a EZEN~b 
-5. 4(N14) 5(N01) [...] , X X X [...] 
+256178	5. 4(N14) 5(N01) [...] , X X X [...] 
 1. 1(N01) , EN~a# [...] 
 2. 2(N01) , X [...] 
 1. [...] , NUN~a U2~a SZITA~a1 [...] 
-1.a. 3(N01) , SILA3~a GARA2~a 
-288593	1.b1. 6(N01) [...] , NE~a [...] 
-1.b2. 8(N01) [...] , NE~a |TUG2~a.(BAD&BAD)| 
-2. 1(N01) , SUKKAL? NAB DI |E2~bx1(N57)@t| 
+256183	2. 1(N01) , SUKKAL? NAB DI |E2~bx1(N57)@t| 
 1. [...] , X [...] 
 2. [...] , BA KI [...] 
 1. [...] , GADA~a 
@@ -74966,11 +75426,7 @@ $ (not given)
 2. 1(N01) , |GAN~cxSZE~a| |U4x1(N01)| SZA KASZ~b 
 3. 1(N01) , GA2~a1 KASZ~b |U4x1(N01)| SZA SZE~a 
 4. 6(N01) , GALGA~b? TUR [...] 
-1.a. [...] , PA~a# [...] 
-1.b. , [...] X 
-2.a. 1(N14) , E2~b PA~a 
-2.b. , DIM~a GI 
-1. [...] , [...] 
+256225	1. [...] , [...] 
 2. 1(N14) , X GAL~a#? [...] 
 3. 1(N14)# [...] , [...] 
 1. 4(N34)# 2(N14) [...] , [...] 
@@ -74979,11 +75435,7 @@ $ (not given)
 2. 2(N01) , SZU AB2 
 3. [...] , X AB2 AB2 
 1. , APIN~a URUDU@g~c EN~a 
-1.a. , LAGAB~b SZU GAL~a USZ~a SIG2~b 
-1.b. , |ZATU651xEN~a| |GISZ.TE| GI6 
-2.a. [...] , [...] X 
-2.b. , [...] 
-1. 1(N01) , TUR3~a? ZATU753? [...] 
+256236	1. 1(N01) , TUR3~a? ZATU753? [...] 
 2. 1(N01) , GADA~a 
 1. , |ZATU651xEN~a| GAL~a [...] 
 1. [...] , X [...] 
@@ -75061,9 +75513,7 @@ $ (not given)
 2. 3(N01)# [...] , [...] 
 1. 2(N14) , ZATU621~c# 
 2. 2(N14) , TE 
-3.a. 2(N14) , SZIR~a 
-3.b. 2(N01) [...] , [...] 
-1. [...] 5(N01) , ZATU702 
+256315	1. [...] 5(N01) , ZATU702 
 2. 5(N01) , ZATU697~a 
 1. 2(N14) , UDU~a 
 2. 2(N14) , SZITA~b1 
@@ -75072,10 +75522,7 @@ $ (not given)
 5. 5(N34) 2(N14) , SZITA~a1 
 6. 2(N14) , |(SZAxHI@g~a)~b| 
 7. 2(N14) , |(SZAxHI@g~a)~a| 
-288742	1.a1. [1(N01)] , HI@g~a 
-1.a2. 1(N01) 1(N28) , ZATU714 
-1.b. 2(N01) 1(N28) , |ZATU714xHI@g~a| MU 
-2. 3(N39~a) , HI@g~a SAG#? 
+256325	2. 3(N39~a) , HI@g~a SAG#? 
 3. , EN~a# SZE~a# [...] 
 4. , GESZTU~b 
 1. 1(N14) , KASZ~b GAR3 PIRIG~a1 MASZ ISZ~c 
@@ -75266,9 +75713,7 @@ $ (not given)
 1. 3(N01) , DUG~a#? 
 1. 1(N48) 1(N34) 3(N14) 1(N01) , UKKIN~a 
 1. 2(N01) , UNUG~a NI~a@g SANGA~a GURUSZDA UTUA~a 
-1.a. 1(N01) , SZU2 NAM2 KAB 
-1.b. 1(N34) , 1(N28) 
-2. 1(N01) , SZU2 SI4~a EN~a ZATU685 
+256517	2. 1(N01) , SZU2 SI4~a EN~a ZATU685 
 1. [...] , [...] 
 1. 1(N14) , NESAG2~a 
 2. [...] , [...] 
@@ -75377,16 +75822,7 @@ $ (not given)
 1. 2(N34)# [...] , [...] 
 1. 9(N01)# , ZATU662 ZATU644~a 
 1. 1(N34) 5(N01)# , SZU2#? 
-1.a. 1(N14)# , 1(N57)# SZU2# [...] NUN~c# 
-1.b. 5(N01)# , [...] X SZU2# NUN~c# 
-1.c. 2(N01) , 1(N57) ZATU758 SZU2 
-289051	2.a1. [...] , SZU2# X [...] 
-2.a2. [...] 1(N01)# , SZU2 [...] 
-289054	2.b1. 1(N01)# [...] , SZU2# MUSZ3~a# 
-2.b2. 2(N01) , BIR~a 1(N57) DUR~a# 
-289057	2.c1. 1(N01) , 3(N57)# SZU2# 
-2.c2. 1(N01) , SZU2 
-1. , NUN~c 
+256628	1. , NUN~c 
 1. 4(N01)# , DUG~c# SZITA~a1 
 1. 3(N01) , SZITA~a1 ZATU713 
 1. [...] 3(N01)# , SZITA~a1# ZATU713# 
@@ -75626,15 +76062,11 @@ $ (not given)
 1. [...] 1(N01)# , [...] IB~a# 
 1. [...] , [...] X 
 2. [...] 1(N01)# , [...] 
-1.a. [...] 3(N01)# , [...] 
-1.b. [...] 3(N01) , [...] 
-2. 2(N14) , 
+256869	2. 2(N14) , 
 1. 2(N01) , 
 2. 2(N01)# , 
 3. 1(N14)# [...] , [...] 
-1.a. 1(N14) , SZITA~b1 
-1.b. 1(N34) 3(N14) [...] , [...] 
-1. [...] , [...] 
+256874	1. [...] , [...] 
 1. 9(N01)# , SIG2~b# EN~a 
 2. 1(N14) 4(N01) , TUG2~a# EN~a# 
 1. 2(N01)# , X [...] 
@@ -76135,9 +76567,7 @@ $ (not given)
 3. 4(N01)# , EN~b# NUN~a# 
 4. 2(N01)# , [...] 
 1. 2(N14) 5(N01)# [...] , [...] 
-1.a. [...] , X [...] 
-1.b. [...] , [...] ZATU697~a# NUN~a 
-2. [...] , [...] ZATU697~a# KU6~a 
+257376	2. [...] , [...] ZATU697~a# KU6~a 
 1. [...] , 1(N24) KU6~a# [...] 
 1. [...] 2(N01)# , KAB [...] 
 1. 9(N01) , GURUSZ~a 
@@ -76215,9 +76645,7 @@ $ (not given)
 1. 2(N34) 3(N14) 5(N01) , HASZHUR# 
 2. 2(N14)# 5(N01)# , [...] X 
 1. 5(N01) , EN~a# NUN~a DIN 
-1.a. 1(N14)# 5(N01) , ZATU631 PA~a ZATU631# HASZHUR 
-1.b. 1(N01)# , [...] 
-1. 1(N14) 1(N01) 3(N07~b) , EN~b# NUN~a 
+257455	1. 1(N14) 1(N01) 3(N07~b) , EN~b# NUN~a 
 2. 2(N01) 1(N24) 1(N08) 2(N07~b) , NESAG2~a 
 1. 1(N14) 4(N01) 1(N07~b) , ZATU724 
 1. 1(N14)# 5(N01)# , GESZTU~b [...] 
@@ -76375,9 +76803,7 @@ $ (not given)
 1. 6(N01) , EN~b SAL |GA2~a1xSUKUD| 
 2. 5(N01) , |GA2~a1xSUKUD| SAL 
 1. 2(N34) 2(N14)# , PAP~a# ERIN 
-1.a. 3(N01) , USZ~a 
-1.b. 1(N01) , [...] 
-2. 4(N01) , 
+257614	2. 4(N01) , 
 3. , ZATU697~b 
 1. 1(N01) , DUB~b KUR~a 
 2. 1(N01) , SAL SANGA~a KISAL~a1 
@@ -76390,12 +76816,8 @@ $ (not given)
 3. 5(N01)# , [...] A#? 
 1. [...] , [...] 
 2. 5(N01) , USZ~a# AB2 
-1.a. 1(N14)# 8(N01)# , U8#? [...] 
-1.b. 5(N01)# [...] , UD5~a#? [...] 
-2. 2(N14)# , GIR3~a# [...] 
-3.a. 1(N34) 3(N14) 1(N01) , U8# [...] 
-3.b. 6(N01)# , GI6# UD5~a# 
-1. 5(N14)# 8(N01)# , 
+257628	2. 2(N14)# , GIR3~a# [...] 
+257630	1. 5(N14)# 8(N01)# , 
 1. 1(N34) 3(N14) , DU8~c 
 2. 1(N34) 4(N14) , U4#? 
 1. 2(N14)# 7(N01)# [...] , SIG2~a3# 
@@ -76468,11 +76890,7 @@ $ (not given)
 1. 1(N48) , ZATU692# |BU~a+DU6~a| ZATU626~c 
 1. 1(N14) , NUN~b UNUG~a UMBIN~a GURUSZDA 
 1. 3(N01) , UMBIN~a NUN~b 
-1.a. 1(N01) , U4 
-1.b. 1(N01) , GI6 
-1.c. 1(N01) , DUB~b 
-1.d. 1(N01) , IB~a 
-2. 8(N01) , X 
+257704	2. 8(N01) , X 
 1. 1(N01) , KUSZU2~a |EZEN~axEN~b| DARA3~a 
 1. 2(N01) , NESAG2~a UNUG~a# |MAxMA| 
 1. 1(N14) 7(N01) , LAGAR~a GESZTU~b 
@@ -76628,11 +77046,7 @@ $ (not given)
 2. 1(N34) 2(N14)# , UD5~a# 
 3. 4(N14)# 9(N01)# [...] , [...] UDUNITA~c# 
 1. 4(N14) 1(N01) , NIR~b UKKIN~a UTUA~b 
-290302	2.a1. 1(N34) , NUN~b 
-2.a2. 4(N14) , UTUA~b 
-2.a3. 2(N01) , GUKKAL~a# [...] 
-2.b. , KISAL~a1 EN~b# [...] 
-1. 7(N34) 3(N14) 8(N01)# , UDU~a BA 
+257861	1. 7(N34) 3(N14) 8(N01)# , UDU~a BA 
 1. [...] 3(N14)# 2(N01)# , |DUG~bxHI@g~a|# 
 2. 8(N01)# , X 
 1. 1(N14) , [...] KASZ~b# KASZ~b 
@@ -76732,10 +77146,7 @@ $ (not given)
 2. 1(N01) , SAL SU~a 
 1. , RAD~b 
 1. 1(N01) , URU~a2 BA EN~b MAGUR~a 
-290407	1.a1. 3(N01) 2(N08) , ZATU693 KID~c |SAL.KUR~a| 
-1.a2. 1(N01) , 3(N57) ZATU693 KUR~a 
-1.b. , KISAL~b1 GESZTU~b PAP~a 
-1. 1(N01) , GESZTU~b MUD3~b# BU~a A# 
+257962	1. 1(N01) , GESZTU~b MUD3~b# BU~a A# 
 1. 1(N07~a) , KISAL~b1#? |AxSZUBUR| BA# GAL~a# [...] 
 1. 1(N08) , 
 1. 1(N07~a)# 1(N09) , [...] SIG7# BA ESZDA 
@@ -76939,12 +77350,7 @@ $ (not given)
 1. 1(N01)# [...] , KU3~a# [...] 
 2. 2(N01)# , X [...] 
 3. 1(N01) , PAP~a? 
-290615	4.a1. 2(N01) , 
-4.a2. 2(N01) , 
-4.a3. 1(N01) , 
-4.a4. 2(N01) , 
-4.b. 1(N01)#? , TE#? X 
-1. 1(N01) , UNUG~a# BA# AN# KUR~a# ERIM~a# DUB~b# URUDU~a 
+258167	1. 1(N01) , UNUG~a# BA# AN# KUR~a# ERIM~a# DUB~b# URUDU~a 
 1. 1(N07~a)# 1(N09)#? , ESZDA KU3~a BA MUSZ3~a PAP~a DA~a 
 1. 3(N07~a)# 1(N09)# , 
 1. [...] 2(N51) [...] 2(N14)# 3(N01) , 
@@ -77275,16 +77681,7 @@ $ (not given)
 1. [...] 1(N34)# 1(N14) , KISAL~b1# [...] 
 1. [...] , [...] NESAG2~a# 
 1. [...] , [...] X X 
-290952	1.a1. 2(N01) , SAL 
-1.a2. 1(N01) , KUR~a 
-1.b. , ZATU758#? 
-290956	2.a1. 2(N01) , SAL 
-2.a2. 1(N01) , KUR~a# 
-2.b. , SILA4~b DIM~b 
-290960	1.a1. 5(N01)# , SAL 
-1.a2. 2(N01)# , KUR~a# 
-1.b. , NUN~a GA~a 
-1. 1(N14) 3(N01)# , |SAL.KUR~a|# BU~a# DIM~b# A# ZATU758# 
+258501	1. 1(N14) 3(N01)# , |SAL.KUR~a|# BU~a# DIM~b# A# ZATU758# 
 1. 2(N01) , BU~a A GUM~a UDUNITA~a PIRIG~a1# X X 
 1. 5(N01)# , MASZ MAR~a BU~a GURUSZDA# 
 2. 2(N01) , UDUNITA~a# MUSZ3~a# 
@@ -77344,18 +77741,13 @@ $ (not given)
 2. [...] 2(N01)# , UMUN2# PAP~a 
 1. 4(N14) , GAL~a 
 2. 3(N14) 5(N01)# , NIR~b 
-3.a. [...] , X [...] 
-3.b. [...] 2(N01) , ZATU711 [...] 
-1. [...] , [...] X 
+258562	1. [...] , [...] X 
 2. [...] 2(N01)# , [...] 
 3. 2(N01) , SZITA~a3? 
 4. 1(N01)# , GA~a# 
 1. , ZAR~c#? 
 1. 5(N01)# , ERIM~a# MASZ# [...] 
-291032	2.a1. 2(N01) , NUN~b# 
-2.a2. 3(N01)# , MASZ# 
-2.b. , ERIM~a 
-1. 2(N01)# , UDUNITA~a#? X SI4~a# RU# 
+258569	1. 2(N01)# , UDUNITA~a#? X SI4~a# RU# 
 1. 1(N14) 2(N01) , RU BU~a# A [...] 
 1. 1(N01)# , NI~b#? 
 2. 1(N01)# , EN~a# 
@@ -77474,10 +77866,7 @@ $ (not given)
 3. 1(N01) , GESZTU~b UD5~a 
 4. [...] , UD5~a#? [...] 
 1. [...] 1(N01)# , UD5~a# [...] 
-291155	2.a1. 2(N01) , UD5~a# 
-2.a2. 1(N01) , U8 
-2.b. , NAM2 ERIN 
-3. 1(N01) , UD5~a# AL# [...] 
+258689	3. 1(N01) , UD5~a# AL# [...] 
 1. [...] 2(N01)# , SZESZ~a X MASZ# 
 2. [...] , [...] 
 1. 6(N01) , UDUNITA~b 
@@ -77756,17 +78145,7 @@ $ (not given)
 2. 1(N51)# [...] , [...] 
 3. 1(N51)# 1(N14)# [...] , [...] 
 4. 2(N51)# 1(N34)# [...] , X [...] 
-1.a. [...] , [...] 
-1.b. [...] , [...] 
-2.a. [...] , [...] 
-2.b. 6(N14) , KI 
-3.a. [...] , [...] 
-3.b. 2(N14) , KI 
-4.a. [...] , [...] 
-4.b. 6(N14) [...] , KI 
-5.a. [...] , [...] 
-5.b. [...] , [...] 
-1. [...] 2(N50)# , BA |SZE~a&SZE~a|? 
+258973	1. [...] 2(N50)# , BA |SZE~a&SZE~a|? 
 2. [...] 1(N14)# [...] , [...] X 
 1. 1(N54) 3(N51)# 1(N34)# [...] , [...] 
 1. [...] 2(N14)# , [...] 
@@ -77780,9 +78159,7 @@ $ (not given)
 1. [...] , [...] 
 1. [...] 5(N01)# , [...] 
 2. [...] , [...] 
-1.a. [...] 3(N01)# , [...] 
-1.b. 3(N01)# [...] , [...] 
-1. [...] , [...] X 
+258988	1. [...] , [...] X 
 1. 2(N54) 1(N34) 3(N14) , GAR# 
 2. 1(N34) 2(N14) 2(N01)# [...] , DUG~a# [...] 
 1. 7(N51) 4(N14) , GAR BA 
@@ -77822,36 +78199,8 @@ $ (not given)
 1. [...] , X [...] 
 2. [...] , X [...] 
 3. [...] , EN~b#? TUG2~a [...] 
-1.a. 1(N14) 2(N01) , UKKIN~a# 
-1.b. 5(N01) , 1(N57) 
-2.a. 4(N01)# , X 
-2.b. 5(N01)#? , [1(N57)] 
-3.a. 3(N01)# , ZATU647 
-3.b. 4(N01)#? , [1(N57)] 
-4.a. 5(N01) , DU# [...] KAR2~a 
-4.b. 6(N01)# , [1(N57)] 
-5.a. 5(N01) , KISAL~b1# 
-5.b. 8(N01)# , 1(N57) 
-6.a. 1(N01) , SANGA~a 
-6.b. 1(N01) , 1(N57) 
-7. 1(N01) , GA~a 
-1.a. 3(N01)# , UB 
-1.b. 5(N01) , 1(N57) 
-2.a. 2(N01)#? [...] , [...] 
-2.b. 6(N01) , [1(N57)] 
-3.a. 2(N01)# [...] , [...] 
-3.b. 2(N01)# [...] , [1(N57)] 
-4.a. 2(N01)# [...] , [...] 
-4.b. 6(N01)# [...] , [1(N57)] 
-5.a. 4(N01)# [...] , [...] 
-5.b. 1(N01)# , [1(N57)] 
-6.a. 1(N01)# , [...] 
-6.b. [...] , [1(N57)] 
-7.a. 1(N01)# , [...] 
-7.b. [...] , [1(N57)] 
-8.a. 3(N01)# , X [...] 
-8.b. [...] , [1(N57)] 
-9. 2(N01)# , X [...] 
+259034	7. 1(N01) , GA~a 
+259043	9. 2(N01)# , X [...] 
 1. 3(N01) , X PA~a 
 2. 3(N01) , |1(N58).BAD~a| 1(N57) 
 3. , EN~a# BA X KISAL~b1# [...] 
@@ -77915,10 +78264,7 @@ $ (not given)
 1. 1(N14) , X [...] 
 1. 3(N34) 1(N14) 7(N01)# , 
 1. 1(N14) 3(N01) [...] , 
-291597	1.a1. 1(N14)#? , 
-1.a2. 5(N01)# , 
-1.b. 5(N14) , 
-1. 1(N48)# 8(N34)# 3(N14)# 4(N01)# [...] , [...] LAM~b@r#? KUR~b#? 
+259108	1. 1(N48)# 8(N34)# 3(N14)# 4(N01)# [...] , [...] LAM~b@r#? KUR~b#? 
 1. 3(N14) 5(N01) , 
 2. 1(N14) 1(N01) , 
 1. 1(N48) 9(N34) 4(N14) 5(N01) , 
@@ -77931,15 +78277,7 @@ $ (not given)
 3. 2(N14)# [...] , [...] 
 1. 1(N14) 5(N01)# , DU# X U4 [...] 
 1. 1(N14)# 1(N01)# [...] , [...] 
-1.a. 1(N01)# , NAGA~a 
-1.b. 2(N01) , 
-2.a. 1(N01) , |KA2xLAM| 
-2.b. 2(N01) , 
-3.a. [...] , X [...] 
-3.b. 2(N01) , 
-1.a. 1(N01) , MAR~a AN 
-1.b. 2(N01) , 
-1. [...] 2(N14)# , |GA2~a1xKU6~a|# 
+259125	1. [...] 2(N14)# , |GA2~a1xKU6~a|# 
 2. 1(N34) , |ZATU759xKU6~a| 
 3. , SAG NE~a# 
 1. [...] , [...] X 
@@ -78028,9 +78366,7 @@ $ (not given)
 2. [...] 1(N01)# , |KU6~a+KU6~a|# [...] 
 3. [...] 1(N01)# , [...] 
 1. [...] , [...] 
-2.a. 1(N01) , NIM~a 
-2.b. 4(N01)# , [...] 
-3. 4(N01) , KISAL~b1 1(N57) 
+259215	3. 4(N01) , KISAL~b1 1(N57) 
 4. 1(N01)# [...] , [...] 
 1. [...] , NESAG2~a# [...] 
 2. 1(N01) , [...] 
@@ -78171,10 +78507,7 @@ $ (not given)
 2. 1(N01) [...] , [...] 
 3. 1(N01)# [...] , [...] 
 1. [...] , [...] 
-291854	1.a1. [...] 1(N01)# , [...] 
-1.a2. 3(N01) , ANSZE~b 
-1.b. , HI@g~b 
-1. [...] 2(N14)# [...] , [...] 
+259357	1. [...] 2(N14)# [...] , [...] 
 2. 4(N14)# [...] , [...] 
 1. [...] , [...] SILA3~a#? X 
 2. [...] , [...] SILA3~a#? 
@@ -78258,19 +78591,7 @@ $ (not given)
 2. 1(N14) , HI 
 3. , E2~a |ZATU651xNUN~a|# [...] 
 1. , TAK4~a AN NIM~b1#? [...] 
-291942	1.a1. [...] , [...] 
-1.a2. 1(N02)# , 
-1.a3. 1(N01)# , 
-1.b. , [...] X 
-291947	2.a1. 2(N14) , 
-2.a2. 2(N02) , 
-2.a3. 2(N01) , 
-2.b. , HI NANSZE~a 
-291952	3.a1. 2(N14) , 
-3.a2. 1(N02) , 
-3.a3. 1(N01) , 
-3.b. , HI 4(N57)? TUR 
-1. [...] , [...] 
+259444	1. [...] , [...] 
 1. [...] 3(N01)# , [...] HI MAR~a 
 2. 3(N01) , UDU~a TE 
 3. 1(N34) 2(N14) , HI AN 3(N57) SANGA~a 
@@ -78349,19 +78670,10 @@ $ (not given)
 1. , SANGA~c GIR3~b DUB~c 
 1. , DARA4~a1 AN |SZU2.EN~a| KU6~a 
 1. [...] , X [...] 
-292036	2.a1. 1(N01) , |DUG~cx1(N57)| 
-2.a2. 2(N02) , 
-2.b. , SANGA~a |GI4~b&GI4~b| 
-3. [...] , [...] 
+259524	3. [...] , [...] 
 1. [...] , [...] X 
 2. [...] 2(N01)# , UDU~a UB SAG 
-292043	1.a1. [...] 2(N02)# , 
-1.a2. [...] 1(N05)#? , 
-1.b. , AMA~a 
-292047	2.a1. 1(N02) , 
-2.a2. 1(N05) , 
-2.b. , U4 SI4~a 
-1. [...] , U4# [...] 
+259529	1. [...] , U4# [...] 
 1. [...] 2(N14)# , X PA~a#? GAR# 
 1. [...] , [...] 
 2. [...] , [...] X UNUG~a#? 
@@ -78385,12 +78697,7 @@ $ (not given)
 2. 2(N01)# [...] , [...] 
 1. [...] 2(N14)# , GAR# X LAM~b# [...] 
 1. 2(N01) [...] , UDU~a X [...] 
-1.a. [...] 1(N14)# , [...] 
-1.b. [...] 1(N34)# 2(N14)# 2(N01)# , [...] 
-1.c. [...] 4(N14)# , GAN2# [...] 
-2.a. [...] , [...] DA~a DANNA 
-2.b. 1(N22) 2(N01) , GAN2# GI [...] 
-1. 1(N01) , TUG2~a 
+259555	1. 1(N01) , TUG2~a 
 2. [...] , GADA~a 
 3. [...] , [...] X 
 1. , EN~a NUN~a#? [...] 
@@ -78402,21 +78709,7 @@ $ (not given)
 1. 1(N01)# , BARA2~a# 
 2. , DIN#? X 
 1. [...] 2(N01)# , [...] 
-1.a. [...] 4(N34)# , [...] 
-292093	1.b1. , [...] 
-1.b2. , X 
-2.a. [...] 1(N34)# , [...] 
-292097	2.b1. , [...] 
-2.b2. , X [...] 
-1.a. [...] , [...] EN~a# 
-292101	1.b1. , [...] 
-1.b2. , [...] X 
-2.a. 2(N34)# , SI#? SAL# X NUN~a# 
-292105	2.b1. , [...] 
-2.b2. , X DU# 
-3.a. 1(N34)# [...] , [...] 
-292109	3.b1. , EN~a#? [...] 
-1. [...] , [...] X 
+259572	1. [...] , [...] X 
 2. 3(N14)# [...] , [...] 
 3. 2(N14)# [...] , [...] 
 1. [...] , [...] SU~a#? BA# GAL~a# GURUSZDA# 
@@ -78430,38 +78723,14 @@ $ (not given)
 2. 2(N01)# [...] , [...] 
 3. 1(N01)# [...] , [...] 
 1. [...] 1(N14)# [...] , [...] 
-1.a. [...] 1(N01)# , SIG7# GAL~a# 
-1.b. 1(N01) , BA 
-2.a. 2(N01)# , UMUN2# GAL~a 
-2.b. 2(N01) , 
-3. 2(N01) , DARA4~a2 
-4.a. 2(N01) , UKKIN~a# 
-4.b. 2(N01) , 
-5. 1(N01) , SIG7 EN~a# SZU# NUN~a# 
+259588	3. 2(N01) , DARA4~a2 
+259590	5. 1(N01) , SIG7 EN~a# SZU# NUN~a# 
 6. [...] , X [...] 
-1.a. 1(N01) , SIG7# GAL~a 
-1.b. 4(N01) , [...] 
-2.a. 6(N01) , NUN~a EN~a 
-2.b. 7(N01)# , [...] 
-3.a. 2(N01) , EN~a SZU# NUN~a# 
-3.b. 1(N01) , NUNUZ~a1# 
-4.a. 5(N01)# , X 
-4.b. 5(N01) , 
-5.a. 3(N01)# [...] , [...] 
-5.b. 3(N01)# , 
-1.a. 1(N01) , SIG7 
-1.b. 2(N01) , GAL~a ZATU776 
-2. , |Ax1(N14)| 
+259598	2. , |Ax1(N14)| 
 1. 2(N14) 9(N01) , SIG7# 
 2. 2(N14) 5(N01) , BA# 
 1. [...] , NIR~b 
-2.a. 2(N01) , GA2~a1 SIG7# DU 
-2.b. 2(N01)# , [...] 
-3.a. 1(N01) , U4# 
-3.b. 1(N01) , 
-4.a. 1(N01) , GIR3~c 
-4.b. 1(N01) , 
-1. [...] , [...] KU3~a#? |SAR~axSZE~a| 
+259605	1. [...] , [...] KU3~a#? |SAR~axSZE~a| 
 1. [...] , [...] 
 1. [1(N14)] 2(N01)# , GI# 
 2. 9(N01)# , BA 
@@ -78505,9 +78774,7 @@ $ (not given)
 1. 3(N01) , KASZ~a GIR3~a 
 2. 1(N14) 1(N01)# [...] , [...] 
 1. [...] 3(N01)# , [...] GAR# MAR~a#? 5(N57) 
-1.a. 2(N01) , SZUBUR# 
-1.b. 4(N01)# [...] , [...] 
-2. 1(N01)# [...] , [...] 
+259650	2. 1(N01)# [...] , [...] 
 1. [...] , X [...] 
 2. 2(N01) , [...] SZU# 
 1. [...] , [...] 
@@ -78583,9 +78850,7 @@ $ (not given)
 1. 1(N34) , TAR~a# AB2# GIR2~a |SILA3~axSZE~a@t| E2~b 
 2. [...] , [...] 
 1. , [...] SZE~a#? UNUG~a 
-1.a. 1(N01) , ANSZE~e? SIG2~b |SILA3~axSZE~a| SZITA~a1 ZATU753 
-1.b. 6(N01) , X AB2 GIR2~a 
-2. , UNUG~a GU7# 
+259727	2. , UNUG~a GU7# 
 1. 1(N14)# [...] 1(N01)# , 1(N57) |LAGAB~axKUSZU2~b| GA2~a1 LA~d 
 2. 2(N01) , UBI~a X PAP~a EZEN~a 
 1. 2(N01) , |ZATU759xX| 
@@ -78593,10 +78858,7 @@ $ (not given)
 3. 1(N14)# [...] , X [...] 
 1. 3(N01)# , [...] 
 1. 2(N36) 2(N46)# , UR5~a# 
-2.a. 7(N19) , 
-292289	2.b1. 2(N04) , 
-2.b2. 1(N41) , 
-1. [...] , [...] 
+259736	1. [...] , [...] 
 2. , X 
 1. , RU# 
 1. 2(N01) , SANGA~a? 
@@ -78728,9 +78990,7 @@ $ (not given)
 1. 1(N01) , NE~a 
 1. 4(N01) , NESAG2~b NUN~a 
 1. 1(N02) , KASZ~c 
-2.a. 2(N01) , KASZ~c NE~a 
-2.b. 1(N01) , [...] 
-1. [...] , [...] 
+259869	1. [...] , [...] 
 2. 5(N02)# , KASZ~c# AN 
 3. 5(N01) , NE~a DUG~c URU~a1 SZESZ~a 
 1. [...] 2(N02)# , [...] 
@@ -78832,9 +79092,7 @@ $ (not given)
 1'. [...] , [...] 
 1. 2(N02) , X DIN# 
 2. 2(N01)# , [...] NE~a# 
-3.a. [...] , [...] X 
-3.b. 1(N01) [...] , [...] 
-1. 1(N14)# [...] , DUR~a#? 
+259972	1. 1(N14)# [...] , DUR~a#? 
 2. [...] , [...] 
 1. 1(N34) , 
 1. [...] , [...] 
@@ -78950,11 +79208,7 @@ $ (not given)
 1. 1(N34)# [...] , [...] 
 2. 4(N14) , AN DARA4~c2 
 1. 5(N34)# 1(N14)# [...] , [...] 
-1.a. [...] 1(N34) 1(N14) 1(N01) , [...] 
-1.b. 1(N24)# [...] , [...] 
-2.a. 2(N14) , 1(N24) DUR~a SZE~a 
-2.b. 1(N14) 6(N01) , 1(N24) DUR~a [...] 
-1. 1(N34)# 2(N14)# [...] , [...] 
+260090	1. 1(N34)# 2(N14)# [...] , [...] 
 2. 2(N48)#? [...] , [...] 
 1. 1(N14)# 1(N01)# [...] , [...] 
 1. 1(N14)# 2(N01)# [...] , [...] 
@@ -79204,9 +79458,7 @@ $ (not given)
 2. , |APIN~a.APIN~a|# EN~a# X PAP~a# 
 1. 4(N01) , ZATU659 
 2. 4(N01)# , 1(N24) 
-3.a. [...] , [...] 
-3.b. 2(N14)# , GAR? 
-4. 1(N34) , TA~c? 
+260341	4. 1(N34) , TA~c? 
 5. 1(N34) , TA~c? SUHUR 
 1. [...] , [...] X 
 2. 5(N01) , AB2 
@@ -79326,24 +79578,7 @@ $ (not given)
 3. 5(N01) , ZATU752# KASZ~b#? NAGA~a# HI NAGAR~a# 
 1. 1(N14) , X [...] 
 2. 1(N14) , X [...] 
-1.a. 1(N01) , TUM~b# AMA~a AB~a# 
-1.b. [2(N14)] , |ZATU759xKU6~a|# 
-2.a. 1(N01) , UR2# [...] 
-2.b. 2(N14) , |ZATU759xKU6~a| 
-3.a. [1(N01)] , |UR2x1(N57)|# X [...] 
-3.b. 2(N14)# , |ZATU759xKU6~a|# 
-4.a. [...] , UR2# [...] 
-4.b. [2(N14)] , |ZATU759xKU6~a| 
-5.a. [1(N01)] , [UR2 ...] 
-5.b. [2(N14)] , |ZATU759xKU6~a|# 
-1.a. 1(N01) , |UR2x1(N57)| 5(N57) NIN 
-1.b. 1(N01) , TUM~b 
-1.c. 2(N14)# , |ZATU759xKU6~a|# 
-2.a. 1(N01) , PA~a# RAD~a |UR2x1(N57)|# 
-2.b. 2(N14) , |ZATU759xKU6~a| 
-3.a. 1(N01) , NAM2 APIN~a |UR2x1(N57)| 
-3.b. 2(N14) , ZATU759 
-1. [...] , [...] 
+260469	1. [...] , [...] 
 2. [...] , [...] UR2# 
 3. [...] , [...] UR2# 
 1. [...] , [...] 
@@ -79383,11 +79618,7 @@ $ (not given)
 4. 3(N01)# , |GAN~cxHI|? 
 1. 2(N01) , KUR~a SZAH2~a# 
 1. [...] , GAN2#? [...] 
-2.a. 1(N01) , SANGA~a NUN~a# [...] 
-2.b. , SUR KASZ~b 
-293081	2.c1. 2(N01) , BU~a# X BU~a# [...] 
-2.c2. 1(N01)# [...] , [...] 
-1. 3(N01)# , GU4#? 
+260510	1. 3(N01)# , GU4#? 
 2. [...] , [...] 
 1. 3(N14)# 3(N01)# , |SILA3~axSZU|# 
 2. 1(N14)# 1(N01)# [...] , [...] 
@@ -79395,9 +79626,7 @@ $ (not given)
 2. 2(N01)# , BU~a# GIR3~c# 
 3. 2(N01)# , |DARA3~dxKAR2|#? 
 1. 2(N14) , UDU~a X [...] 
-1.a. 1(N34)# 2(N14) [...] , [...] 
-1.b. 2(N14) 3(N01) , X TUR# [...] 
-1. 7(N01)# , [...] 
+260519	1. 7(N01)# , [...] 
 2. 1(N01)# [...] , [...] 
 1. , 
 1. , 
@@ -79688,10 +79917,7 @@ $ (not given)
 2. 1(N01) , MASZ2#? 
 3. [...] 
 1'. [... N] 1(N01) [...] 
-2.a'. 
-2.b'. , SZE3 UDU~a 
-2.c'. [N] 2(N01) , UDU~a#? 
-1. [...] 3(N14) [N] 2(N01)# , GU4 AB2 MU SANGA~a GAL~a 
+260811	1. [...] 3(N14) [N] 2(N01)# , GU4 AB2 MU SANGA~a GAL~a 
 1. [...] 
 1. [...] 
 2. 1(N01) , AB2 SZU GI# 
@@ -79703,10 +79929,7 @@ $ (not given)
 1. , TAR~a GUG2 URU~a1 
 1. [...] , [...] 
 1. [...] , [...] 
-1.a. [...] 6(N14) 2(N01) [...] 
-293401	1.b1. 2(N45)# 1(N14) 2(N01) , SZE~a 
-1.b2. [...] 
-1. [...] 2(N19)# , 
+260824	1. [...] 2(N19)# , 
 2. [...] 1(N01)# , MAR~a [...] 
 1. [...] 2(N14) , DA~a AN 
 2. 1(N19) 3(N04) , BU~a SAL |LAGAB~b.TE| 
@@ -79717,9 +79940,7 @@ $ (not given)
 1. [...] 
 2'. [...] 3(N19)# 2(N04) 
 1. [...] 
-2.a. 5(N14) , AN EN~a 
-2.b. [...] 2(N19)# 
-3. 8(N14) , KASZ~b SZE~a 
+260836	3. 8(N14) , KASZ~b SZE~a 
 1. , ZATU811 [...] 
 1. 1(N14) 1(N01) [...] 
 2. 2(N01)# [...] 
@@ -79810,9 +80031,7 @@ $ (not given)
 3. [...] , [...] 
 1. [...] , ZATU786? EN~a [...] 
 2. [...] , |GA2~bxDUB~a| [...] 
-1.a. 6(N01)# , KUR@g~a? 
-1.b. [...] 4(N01)# , [...] 
-1. 1(N14) 2(N01)# [...] , X SIG7 [...] 
+260928	1. 1(N14) 2(N01)# [...] , X SIG7 [...] 
 2. 6(N01)# [...] , [...] 
 1. 6(N01) , DUG~b 
 2. 1(N01) , SZU2 
@@ -79879,9 +80098,7 @@ $ (not given)
 2. 1(N34) 3(N14) 1(N01)# [...] , [...] 
 1. [...] , [...] 
 1. [...] , [...] EN~a# X NIM~a#? 
-2.a. [...] , X [...] 
-2.b. [...] , X [...] 
-3. [...] , [...] 
+260996	3. [...] , [...] 
 1. 2(N14)? , SZE3? 
 1. [...] , ZATU753 ME~a X 
 1. [...] , [...] 
@@ -79964,11 +80181,7 @@ $ (not given)
 2. 2(N14) , MUSZ3~a#? AN ZATU659 ZATU659 
 3. 1(N14) , MUSZ3~a@g 
 4. 1(N14) , X [...] 
-1.a. [...] , 
-1.b. 4(N01) , 
-2.a. [...] 1(N01) , 
-2.b. 4(N01) , 
-3. 6(N01) , 1(N24) 
+261081	3. 6(N01) , 1(N24) 
 4. 6(N01) , 1(N24) 
 1. 1(N34) , TUN3~a 
 2. , SANGA~a RAD~a 
@@ -80109,21 +80322,12 @@ $ (not given)
 2. 5(N02) , 
 3. 6(N01) , NE~b SZU GURUSZDA 
 1. , 6(N57) 
-1.a. 1(N01) , UR2 GISZ NI~a GIR3~c 
-1.b. , SZAH2~a 
-2.a. 1(N01) [...] , X [...] 
-2.b. , A NU [...] 
-3.a. [...] , [...] 
-3.b. , X X 
-1. 3(N01) , 
+261225	1. 3(N01) , 
 1. 7(N34) , NAGA~a SI4~a# 
 1. 3(N14) , SI4~a NAGA~a 
 2. 1(N34) , 3(N57) 
 1. 3(N14) , SI4~a 
-1.a. [...] 3(N01)# , AL 
-293819	1.b1. [...] , (X [...])a 
-1.b2. [...] , (X [...])a 
-2. , NIM~a#? GESZTU~b# [...] 
+261231	2. , NIM~a#? GESZTU~b# [...] 
 1. [...] , SZEN~a# A [...] 
 1. [...] , URUDU~a? [...] 
 2. [...] , [...] 1(N32)#? 
@@ -80178,20 +80382,13 @@ $ (not given)
 1. [...] 2(N01)# , [...] 
 1. 1(N14)# 1(N01)# [...] , SZA3~a2 
 2. , ZATU762~a SZUBUR 
-293877	1.a1. 4(N01) [...] , [...] 
-1.a2. 4(N01) , NE~a 
-1.b. , [...] BUR2 
-1. 6(N02) , NESAG2~a 
+261287	1. 6(N02) , NESAG2~a 
 1. 2(N01) , UDU~c MAR~a PA~a 
 1. 3(N01) , GESZTU~a 
 2. 3(N01) , |NUN~a+EN~b| 
 1. [...] , X [...] 
 1. 1(N14) 9(N01) , [...] 
-1.a. 2(N14) 3(N01) , KUR~a [...] 
-1.b. 1(N14) 8(N01) , SAL 
-2.a. [...] 2(N14) 2(N01) [...] , [...] 
-2.b. 1(N14) 5(N01) [...] , [...] 
-1. 1(N14) [...] , SIG2~b? 
+261295	1. 1(N14) [...] , SIG2~b? 
 2. 2(N14) 5(N01) , X 
 3. 9(N01) , GADA~a 
 4. 1(N34) 3(N14) 6(N01) , SZU2 
@@ -80244,13 +80441,7 @@ $ (not given)
 2. , NAMESZDA 
 1. 4(N14) 3(N01) [...] , UB# [...] 
 1. 3(N14) 3(N01) [...] , [...] 
-293944	1.a1. 1(N02) , 
-1.a2. 1(N01) , 
-1.b. , TE 
-293948	1.a1. 2(N02) , 
-1.a2. 1(N01) , 
-1.b. , TUR3~a DU 
-1. 1(N01) [...] , AB2# [...] 
+261350	1. 1(N01) [...] , AB2# [...] 
 1. 1(N01) , X TUR3~a SANGA~a TUR 
 2. 1(N01) , MUN~a3 IB~a U2~b A 
 3. 1(N08) , |GA2~a2xNI~a|? 
@@ -80264,19 +80455,7 @@ $ (not given)
 4. , |GAN~cx(HI.DIN)| EN~a 
 1. 2(N14) 1(N01) , EN~a NAGA~a |GAN~cx(HI.DIN)| 
 1. 1(N01) , NIMGIR SI 
-2.a. 3(N01) , SAG 
-2.b. 1(N01) , KUR~a 
-3.a. 7(N01) , |LAGAB~axUB| 
-3.b. 1(N01) , KUR~a 
-4.a. 9(N01) , SAG 
-4.b. 1(N01) , KUR~a 
-5.a. 2(N01) , MEN~a 
-5.b. 1(N01) , KUR~a 
-1.a. 5(N01) , UR2 
-1.b. 1(N01) , [KUR~a] 
-2.a. 5(N01) , AMA~a 
-2.b. 1(N01) , KUR~a 
-3. 1(N01) , EN~a 
+261370	3. 1(N01) , EN~a 
 4. , NUN~a DIN GA~a 
 1. [...] 2(N01)# , ZATU707~b# 
 2. 1(N14) 3(N01) , |KASZ~bxSZE~a| 
@@ -80310,38 +80489,11 @@ $ (not given)
 2. 4(N01) , DUG~c NE~d 
 3. 2(N14) 5(N01) , DUG~c 
 1. , NUN~a |NUN~a+EN~a| 
-1.a. [...] , X X 
-1.b. 1(N02) , 
-2.a. 3(N02) , URI3~b 
-2.b. 2(N01) , 
-3. 3(N02) , SANGA~a AB2 
-4.a. 1(N01) , |DUG~cx1(N57)| 
-4.b. 1(N02) , U4 
-4.c. 1(N01) , 
-5.a. 2(N02) , [...] 
-5.b. 1(N01) , 
-1.a. 1(N02) , X 
-1.b. 1(N01) , 
-2. 1(N01) , |DUG~cx1(N57)| NE~a 
-3.a. 1(N02) , AB2 DA~a 
-3.b. 1(N01) , 
-4.a. 1(N01) , NIMGIR? |DUG~cx1(N57)| 
-4.b. 1(N01) , 
-5. 1(N02) , AB2 NUNUZ~c? 
-6.a. 1(N01) , |DUG~cx1(N57)| DUG~b 
-6.b. 2(N02) , AB2 
-1. 2(N02) , TI 
-2.a. 1(N02) , U4 SZUBUR 
-2.b. 1(N01) , 
-3.a. 1(N02) , SANGA~a 
-3.b. 1(N01) , U4 
-4.a. 1(N02) , AB2 UDU~a SANGA~a# 
-4.b. 4(N01) , 
-1.a. 1(N01) , 
-1.b. 3(N03) , TUR3~b 
-2.a. 1(N01) , X 
-2.b. 3(N01) , 
-3. 1(N14) 3(N01) , DUG~c GI 
+261406	3. 3(N02) , SANGA~a AB2 
+261410	2. 1(N01) , |DUG~cx1(N57)| NE~a 
+261413	5. 1(N02) , AB2 NUNUZ~c? 
+261415	1. 2(N02) , TI 
+261421	3. 1(N14) 3(N01) , DUG~c GI 
 4. 1(N01) , |DUG~cx1(N57)| 
 5. 1(N01) , AMAR AMAR 
 6. 1(N01) , X 
@@ -80352,36 +80504,18 @@ $ (not given)
 2. 1(N34) , SUM~b |SIGx1(N57)|? 
 3. 1(N01) , SZITA~b1 
 4. 1(N34) , SUM~b NUN~a 
-1.a. 2(N14) , 
-1.b. 2(N14) 1(N01) , 
-2.a. 1(N14) , 
-2.b. 1(N14) 1(N01) , 
-3.a. 5(N01) , 
-3.b. 3(N01) [...] , 
-1. [...] 1(N34)# , TUM~a ZATU683~b 
+261435	1. [...] 1(N34)# , TUM~a ZATU683~b 
 2. [...] 2(N34)# , UDU~a ZATU666 ZATU683~b [...] 
 3. [...] , [...] LAL2~a UDU~a# X [...] 
 1. 1(N34) 2(N01) [...] , MA 
 2. 2(N14) [...] , HASZHUR? 
 3. 3(N14) , TA~c#? ZATU756 
-4.a. [...] 1(N34) 2(N01) , 
-4.b. 1(N01) , X 
-1. 2(N14) [...] , [...] 
+261442	1. 2(N14) [...] , [...] 
 2. 1(N34) 4(N14) 5(N01) [...] , KA2~c X X 
 3. 1(N14) 3(N01) , TAG~b? 
 1. , |LAL2~axEZEN~a|? 
-294072	1.a1. 1(N01) , DUG~c 2(N57) 
-1.a2. 3(N02) , 
-1.a3. 3(N01) , 
-1.b. , SAG 
-2. 2(N02) , 
-1.a. 3(N02) , 
-1.b. 2(N01) , DUG~c? ZATU776 
-2.a. 2(N02) , U4 EN~a 
-2.b. 3(N01) , 
-3.a. 1(N02) , EN~a DA~a 
-3.b. 1(N01) , GURUSZDA 
-1. 6(N02) , DUG~c 
+261447	2. 2(N02) , 
+261451	1. 6(N02) , DUG~c 
 2. 6(N01) , DUG~c GI 
 1. 1(N01) , NAGA~a MA#? 
 2. 1(N01) , HASZHUR#? 
@@ -80603,11 +80737,7 @@ $ (not given)
 1. 3(N34) , X 
 1. 1(N48) 3(N14) [...] , [...] 
 1. , EN~a [...] 
-2.a. [...] , [...] 
-2.b. 2(N02) , EN~b#? [...] 
-3.a. 2(N02) , [...] 
-3.b. [...] , SZE~a#? [...] 
-1. , AB~a? TE 
+261675	1. , AB~a? TE 
 1. [...] , [...] 
 1. [...] 1(N14)# , [...] 
 1. 3(N01) , ZATU753 
@@ -80790,18 +80920,10 @@ $ (not given)
 1. 1(N01)# [...] , MA [...] 
 2. 1(N01)# [...] , X [...] 
 1. 1(N48)# 4(N34) [...] , SZITA~b1 UDU~a [...] 
-1.a. [...] , [...] 
-1.b. [...] , [...] 
-2.a. 1(N01) , SANGA~a 
-2.b. 2(N01) , 
-3. 1(N01) , GA~a 
-1.a. [...] , X 
-1.b. [...] 1(N01) , 
-2. 1(N01) , PAP~b 
+261860	3. 1(N01) , GA~a 
+261862	2. 1(N01) , PAP~b 
 3. 2(N01) , 2(N58) 
-4.a. 1(N01) , 1(N57) 
-4.b. 2(N01) , 
-1. 2(N01) [...] , [...] 
+261865	1. 2(N01) [...] , [...] 
 2. 1(N01) , [...] 
 1. 6(N01) , DU? [...] 
 1. [...] , [...] 
@@ -80894,18 +81016,10 @@ $ (not given)
 1. [...] 5(N01) , BA GAR 
 2. [...] 2(N51) 2(N14) , [...] 
 1. [...] , BA [...] 
-294597	1.a1. 2(N01) , 
-1.a2. 1(N03)? , 
-1.b. , X [...] 
-2.a. 2(N01) , X [...] 
-2.b. [...] , PAD~a [...] 
-1. 1(N18) 1(N03) 2(N40) , GI 
+261960	1. 1(N18) 1(N03) 2(N40) , GI 
 1. 1(N18) 2(N03)#? [...] , ZATU659 [...] 
 1. [...] , MA2#? [...] 
-294606	1.a1. 1(N02) , 
-1.a2. 1(N01) , 
-1.b. , NUN~a [...] 
-1. [...] , [...] 
+261964	1. [...] , [...] 
 1. 1(N51) 1(N01)#? [...] , [...] 
 1. [...] , [...] X 
 2. [...] 2(N01) [...] , [...] 
@@ -80994,10 +81108,7 @@ $ (not given)
 2. [...] 4(N02) , DA~a# EN~a# [...] 
 3. [...] , [...] 
 1. 2(N02) , TUR3~b 
-294699	2.a1. 1(N01) , |DUG~cx1(N57)| 
-2.a2. 2(N02) , 
-2.b. , GI4~b 
-3. , X SUKKAL? MA X 
+262054	3. , X SUKKAL? MA X 
 1. 1(N34) , TI X 
 2. 1(N14) , ZATU773~a 
 1. 1(N34) 3(N14) , TI 
@@ -81005,14 +81116,7 @@ $ (not given)
 3. 2(N01) , ALAN~a 
 1. [...] 1(N14) [...] 1(N01)# [...] , [...] 
 1. 3(N34) 3(N14) 2(N01) , X 
-294711	1.a1. 2(N14)# 2(N01)# [...] , 
-1.a2. [...] 1(N01)# [...] , 
-1.b. , GAR [...] 
-294715	1.a1. 1(N14)#? [...] , [...] 
-294717	1.a1. 3(N02) , 
-1.a2. 2(N01) , 
-1.b. , URI3~a 
-1. 2(N14) 3(N01) , |DUG~bxDIN| SZEG9 KUR~a 
+262065	1. 2(N14) 3(N01) , |DUG~bxDIN| SZEG9 KUR~a 
 1. 9(N01) , |DUG~bxX| 
 1. [...] , UNUG~a [...] 
 2. 2(N01) [...] , 3(N57) SI 
@@ -81097,9 +81201,7 @@ $ (not given)
 4. 4(N01) [...] , X [...] 
 1. 4(N01) , DUG~a 4(N58) 
 2. 2(N14) 1(N01) 1(N39~b) 1(N24) , 4(N58) 
-3.a. [...] 2(N01) 4(N39~b) [...] , [...] 
-3.b. 1(N39~b) [...] , [...] 
-1. 1(N01) , SANGA~a 
+262151	1. 1(N01) , SANGA~a 
 1. 1(N01) , AN |SZU2.EN~a| 
 1. 1(N01) , GUB3~a? [...] 
 1. [...] , ZATU643 GA2~a1 
@@ -81188,15 +81290,7 @@ $ (not given)
 1. 1(N01) 1(N08) , SZITA~a1 
 2. 4(N01) , ERIN NUN~a 
 3. [...] , [...] X 
-294897	1.a1. [...] , [...] 
-1.a2. 2(N51) , GAR 
-1.b. , SAG 
-294901	2.a1. [...] , [...] 
-2.a2. 1(N51) , GAR 
-2.b. , SAG 
-294905	3.a1. [...] , [...] 
-3.a2. 1(N34) [...] , [...] 
-1. 2(N51)# [...] , [...] 
+262243	1. 2(N51)# [...] , [...] 
 2. 1(N51)# , [...] 
 3. 3(N51) , [...] 
 1. 1(N34)# [...] , [...] 
@@ -81223,17 +81317,11 @@ $ (not given)
 2. 2(N01) [...] , |NUN~a+EN~b|# |(UDU~axTAR)~a|? X 
 1. 2(N34) [...] , |(UDU~axTAR)~a|# [...] 
 1. , 
-294935	1.a1. 1(N01) , |DUG~cx1(N57)| 
-1.a2. 1(N02) , 
-1.a3. 1(N01) , 
-1.b. , AMAR AMAR 
-1. 1(N47) 3(N05) 4(N42~a) , U4 SZE~a EN~a 
+262271	1. 1(N47) 3(N05) 4(N42~a) , U4 SZE~a EN~a 
 2. 1(N20) [...] , [...] 
 3. 1(N47) [...] 1(N05) , DUG~a [...] 
 1. 2(N47) 3(N20) 1(N05) 4(N42~a) , KAB NAM2 |GIR3~axSZE~b| SZE~a 
-1.a. 1(N02) , SZUBUR 
-1.b. 1(N01) , 1(N58) 
-1. 4(N01) , DUG~b 
+262276	1. 4(N01) , DUG~b 
 2. 1(N14) 7(N02) , KASZ~c 
 1. [...] 2(N01)# , [...] 
 2. [...] , [...] 
@@ -81257,26 +81345,7 @@ $ (not given)
 1. 2(N01) [...] , NUN~a# [...] 
 1. [...] , NESAG2~b? [...] 
 1. 1(N01) , SZIDIM@t 
-1.a. 1(N01) , PAP~a NUN~a DUG~c 
-1.b. 2(N02) [...] , [...] 
-2.a. 1(N01) , DUG~c TUR3~a 
-2.b. 2(N02) [...] , [...] 
-3.a. 1(N01) , DUG~c# [...] 
-3.b. [...] , [...] 
-4.a. 1(N02) , DUG~c X 
-4.b. [...] , [...] 
-5.a. 1(N01) , DUG~c [...] 
-5.b. [...] , [...] 
-1.a. [...] , [...] 
-1.b. 2(N01) , 
-2.a. [...] , [...] 
-2.b. 1(N01) [...] , [...] 
-1.a. 1(N01) [...] , [...] 
-1.b. 2(N02) , 
-1.c. 1(N01) , 
-2.a. 2(N02) , [...] 
-2.b. 1(N01) [...] , [...] 
-1. [...] , [...] EN~a# 
+262309	1. [...] , [...] EN~a# 
 2. 2(N02) , TUR3~a 
 1. [...] 1(N01) 1(N02) , [...] 
 2. 1(N14) 9(N01) , DUG~c GI 
@@ -81299,28 +81368,18 @@ $ (not given)
 1. [...] 2(N01)# , X [...] 
 1. [...] 1(N45)# 3(N14) 2(N39~b) [...] , [...] 
 1. [...] 2(N45)# 2(N14) 3(N01) [...] , [...] 
-1.a. 2(N01) , MA 
-1.b. 3(N01) [...] , [...] 
-1. [...] 4(N01) , SUHUR SUHUR? 
+262333	1. [...] 4(N01) , SUHUR SUHUR? 
 2. [...] 2(N01) , SZE~c 
 3. [...] 3(N01) , 1(N57)? 
 1. 2(N02) , [...] 
 1. 3(N01)# [...] , MA# [...] 
 2. 1(N01) [...] , [...] 
 1. [...] , |SILA3~axHASZHUR|# KISAL~a1 IB~a# GA~a# [...] 
-1.a. 2(N01) , 
-1.b. 1(N01) , 
-295023	2.a1. 1(N01) , 
-2.a2. 1(N01)? , 
-2.b. , X 
-1. [...] , [...] 
+262342	1. [...] , [...] 
 1. 2(N01) , SILA4~b DIN [...] 
 1. 2(N01)# [...] , [...] 
 2. 1(N01)# [...] , [...] 
-295031	1.a1. 2(N02) , 
-1.a2. 1(N01) , 
-1.b. , LAM~b [...] 
-1. [...] 1(N01)# , X [...] 
+262347	1. [...] 1(N01)# , X [...] 
 1. 3(N34) 7(N01)# , |DUG~bxX|# 
 2. 2(N34) 2(N14)# , |DUG~bxX|# 
 3. 1(N34) 1(N14)# [...] , DIN# 
@@ -81352,9 +81411,7 @@ $ (not given)
 1. [...] , X [...] 
 1. [...] , X [...] 
 1. 1(N01) , EN~a IB~a 
-2.a. 1(N01) , EN~a IB~a 
-2.b. , GI# [...] 
-1. 1(N14) , 
+262380	1. 1(N14) , 
 1. [...] 5(N14)# , BA SUHUR [...] 
 1. [...] , NUN~a# [...] 
 2. [...] , GA~a#? [...] 
@@ -81474,10 +81531,7 @@ $ (not given)
 2. 3(N14) , MA 
 3. 7(N01) , |MAxMA|? [...] 
 4. 4(N04) [...] , [...] 
-295189	1.a1. 1(N02) , 
-1.a2. 1(N01) , A 
-1.b. , DA~a? X [...] 
-1. 1(N34) [...] , [...] 
+262501	1. 1(N34) [...] , [...] 
 2. 1(N14) , X [...] 
 3. 1(N14) , DUG~b#? 
 1. 2(N01) , TUG2~a EN~a [...] 
@@ -81488,21 +81542,7 @@ $ (not given)
 1. 1(N01) [...] , ZATU707~a 
 2. 1(N01) , TUG2~a? 
 3. 1(N01) , [...] 
-1.a. 1(N01) , |DUG~cx1(N57)| 
-1.b. 1(N01) , AMAR AMAR 
-2.a. 1(N01) , |DUG~cx1(N57)| 
-2.b. 1(N01) , AMAR 
-3.a. 1(N01) , |DUG~cx1(N57)| 
-3.b. 1(N01) , NAGA~b 
-3.c. 1(N01) , NU@g 
-4.a. 1(N01) , |DUG~cx1(N57)|# 
-4.b. 2(N02) , X [...] 
-1.a. 1(N01) , |DUG~cx1(N57)| 
-1.b. 1(N01) , [...] 
-2.a. 1(N01) , |DUG~cx1(N57)| 
-2.b. 3(N01) , [...] 
-2.c. 2(N01) , [...] 
-1. 5(N01) , UMUN2 DUG~c 
+262518	1. 5(N01) , UMUN2 DUG~c 
 2. 1(N01) [...] , SZA? [...] 
 1. 1(N01) , [...] 
 2. 3(N01) [...] , [...] 
@@ -81560,10 +81600,7 @@ $ (not given)
 2. [...] , DA~a [...] 
 3. [...] , X X [...] 
 1. [...] , NAM2 [...] 
-1.a. [...] , [...] 
-295277	1.b1. [...] , [...] 
-1.b2. 2(N14) , 
-2. [...] , X [...] 
+262577	2. [...] , X [...] 
 1. [...] 1(N01)# , DUG~a#? [...] 
 2. 2(N14) , KU6~d 
 3. 1(N01) , ZATU757 
@@ -81715,10 +81752,7 @@ $ (not given)
 1. , ERIN AMAR 
 1. 1(N34) , |EZEN~axNIM~b2| 
 1. 1(N14) 7(N01) , GA2~a1 SI ZATU759 
-2.a. 4(N01) , [...] 
-295433	2.b1. , X 
-2.b2. , AB~a? 
-3. 1(N01) , AN NANSZE~a GA2~a1 KU6~a 
+262730	3. 1(N01) , AN NANSZE~a GA2~a1 KU6~a 
 1. 2(N01) , AK~a 
 2. 1(N01) , GA2~a1 KU6~a 
 3. , ZATU759 GA2~a1 
@@ -81754,9 +81788,7 @@ $ (not given)
 1. [...] , [...] 
 1. 2(N01) , |TUG2~a.(BAD&BAD)| 
 2. 2(N14) , 1(N57) SZE3 
-3.a. 1(N01) , BARA2~a 
-3.b. , GA'AR~a2 
-1. [...] , SZE~a [...] 
+262767	1. [...] , SZE~a [...] 
 1. [...] , [...] 
 1. [...] , NAM2# X [...] 
 2. [...] , NAM2 KAB [...] 
@@ -81801,9 +81833,7 @@ $ (not given)
 1. 2(N14) 6(N01) , BA DUG~c? 
 1. 4(N01) , DUG~c# 
 2. 1(N01) [...] , KASZ~c# 
-3.a. 2(N02) , X 
-3.b. 1(N01) , NE~a# SANGA~a SZESZ~a 
-1. , ZATU651 
+262813	1. , ZATU651 
 1. 4(N02) , AB2 DUG~c# 
 2. 1(N01) , KASZ~c 
 1. 2(N02) , [...] 
@@ -81884,11 +81914,7 @@ $ (not given)
 1. 8(N01) , |DUG~bxX| 
 2. 6(N01) , |GA2~a1xKU6~a|? 
 1. 1(N01) [...] , [...] 
-2.a. 2(N02) , 
-2.b. 1(N01) , NIN [...] 
-3.a. 2(N02) , 
-3.b. 1(N01) , X KU6~a [...] 
-1. 4(N14) , SZITA@g~a 
+262896	1. 4(N14) , SZITA@g~a 
 2. 3(N14) 4(N01) [...] , X 
 3. 3(N14) [...] , [...] 
 4. 1(N14) 4(N01) [...] , [...] 
@@ -82022,25 +82048,7 @@ $ (not given)
 1. , BALAG AN DU 
 1. 2(N14) , SANGA~a# IB~a? 
 2. 1(N14) [...] , SANGA~a# [...] 
-295740	1.a1. 2(N02) , 
-1.a2. 3(N01) , 
-1.b. , PAP~a AB2 KAB? 
-295744	2.a1. 2(N02) , 
-2.a2. 3(N01) , 
-2.b. , SUKKAL ZATU644~b 
-295748	3.a1. 1(N01) , 
-3.a2. 1(N02) , 
-3.b. , |DUG~bx1(N57)| NUN~a EN~a 
-295752	1.a1. 2(N02) , 
-1.a2. 1(N01) , 
-1.b. , AMAR BA 
-295756	2.a1. 1(N02) , 
-2.a2. 1(N01) , 
-2.b. , U4 
-295760	3.a1. 2(N02) , 
-3.a2. 1(N01) , 
-3.b. , NE~a SZE~a 
-1. 6(N01) , HASZHUR ADAB 
+263036	1. 6(N01) , HASZHUR ADAB 
 2. 5(N01) , ADAB MA 
 3. 5(N01) , HASZHUR DUG~a 4(N57) 
 4. [...] 1(N01) , SILA3~a X 
@@ -82050,15 +82058,7 @@ $ (not given)
 4. 1(N01) , MA 3(N57) DUG~a 
 1. 1(N14) 1(N01) , HASZHUR 
 2. 1(N14) 3(N01) , MA DA~a 
-1.a. 1(N01) , |DUG~cx1(N57)| 
-1.b. 2(N02) , 
-1.c. 1(N01) , AB~a SANGA~a SZESZ~a 
-2.a. 1(N01) , |DUG~cx1(N57)| 
-2.b. 2(N02) , 
-2.c. 1(N01) , GA~a AN MUSZ3~a 
-3.a. 2(N02) , 
-3.b. 1(N01) , KAB? BU~a 
-1. 2(N01) , |DUG~cx1(N57)| 
+263049	1. 2(N01) , |DUG~cx1(N57)| 
 2. 6(N01) , KASZ~c? 
 3. 3(N01) , GI 
 1. [...] , [...] 

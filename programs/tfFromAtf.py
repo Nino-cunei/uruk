@@ -196,9 +196,7 @@ specificMetaData = dict(
     excavation='excavation number of tablet',
     fragment='level between tablet and face',
     fullNumber=(
-        'hierarchical number given to'
-        'terminal cases in transcription lines;'
-        'also the combination of face type and column number on columns'
+        'the combination of face type and column number on columns'
     ),
     grapheme='name of a grapheme (glyph)',
     identifier='additional information pertaining to the name of a face',
@@ -218,9 +216,9 @@ specificMetaData = dict(
         'corresponds to sign@letter in transcription'
     ),
     name='name of tablet',
-    number='number of a column or line or non-terminal case',
+    number='number of a column or line or case',
     op='operator connecting left to right operand in a quad',
-    origNumber='contains the source value for fullNumber if it deviates',
+    origNumber='contains the source value for number if it deviates',
     period='period that characterises the tablet corpus',
     prime='indicates the presence/multiplicity of a prime (single quote)',
     remarkable='corresponds to ! flag in transcription ',
@@ -701,9 +699,9 @@ def parseCorpora(excavations):
                 else:
                     lineNum = None
                 if (
-                    (lineNum is None or ln == lineNum)
-                    and
                     line.startswith(pat)
+                    and
+                    (lineNum is None or ln == lineNum)
                 ):
                     lnRep = f' on line {lineNum}'
                     diag('tweak', f'"{pat}" {lnRep} => "{rep}"', p)
@@ -752,7 +750,7 @@ def parseCorpora(excavations):
                 )
             quads = parseLine(material, p)
             curLine = {
-                'fullNumber': lineNumber,
+                'number': lineNumber,
                 'material': quads,
                 'srcLn': line,
                 'srcLnNum': ln,
@@ -1212,7 +1210,7 @@ def putInCases(lines, curTablet):
     numbers = []
     badNumbers = None
     for line in lines:
-        numParts = numPartsPat.findall(line['fullNumber'])
+        numParts = numPartsPat.findall(line['number'])
         if len(numParts):
             numbers.append(tuple(numParts))
         else:
@@ -1228,7 +1226,7 @@ def putInCases(lines, curTablet):
             cases[str(i + 1)] = line
     else:
         for line in lines:
-            numParts = numPartsPat.findall(line['fullNumber'])
+            numParts = numPartsPat.findall(line['number'])
             if len(numParts):
                 target = cases
                 for numPart in numParts[0:-1]:
@@ -1236,7 +1234,7 @@ def putInCases(lines, curTablet):
                     target = target.setdefault(
                         numPart, collections.OrderedDict()
                     )
-                lastPart = numParts[-1]
+                lastPart = ''.join(numParts)
                 reshapeTarget(target, curTablet)
                 target[lastPart] = line
             else:
@@ -1403,40 +1401,33 @@ def makeTf(tablets):
             curNode = cur[nodeType]
             nodeFeatures['number'][(nodeType, curNode)] = lineNum
             context.append((nodeType, curNode))
-            doCases(lineData, 'line', curNode, lineNum)
+            if 'material' in lineData:
+                doTerminalCase(lineData, 'line', curNode)
+            else:
+                doCases(lineData, 'line', curNode)
             context.pop()
 
-    def doCases(cases, parentType, parentNode, lineNum):
+    def doTerminalCase(caseData, nodeType, curNode):
+        for ft in '''
+            crossref
+            origNumber
+            prime
+            srcLn
+            srcLnNum
+        '''.strip().split():
+            if ft in caseData:
+                nodeFeatures[ft][(nodeType, curNode)] = caseData[ft]
+        nodeFeatures['terminal'][(nodeType, curNode)] = 1
+        material = caseData.get('material', {})
+        doComments(caseData, nodeType)
+        hasQuads = doClusters(material)
+        if not material or not hasQuads:
+            doEmptySign()
+
+    def doCases(cases, parentType, parentNode):
         nodeType = 'case'
         if 'material' in cases:
-            if parentType == 'line':
-                nodeType = 'case'
-                cur[nodeType] += 1
-                curNode = cur[nodeType]
-                nodeFeatures['number'][(nodeType, curNode)] = lineNum
-                edgeFeatures['sub'][(parentType,
-                                     parentNode)].add((nodeType, curNode))
-                context.append((nodeType, curNode))
-            else:
-                nodeType = parentType
-                curNode = parentNode
-            for ft in '''
-                crossref
-                fullNumber
-                origNumber
-                prime
-                srcLn
-                srcLnNum
-            '''.strip().split():
-                if ft in cases:
-                    nodeFeatures[ft][(nodeType, curNode)] = cases[ft]
-            material = cases.get('material', {})
-            doComments(cases, 'case')
-            hasQuads = doClusters(material)
-            if not material or not hasQuads:
-                doEmptySign()
-            if parentType == 'line':
-                context.pop()
+            doTerminalCase(cases, parentType, parentNode)
         else:
             for (caseNr, caseData) in cases.items():
                 cur[nodeType] += 1
@@ -1445,7 +1436,7 @@ def makeTf(tablets):
                 edgeFeatures['sub'][(parentType,
                                      parentNode)].add((nodeType, curNode))
                 context.append((nodeType, curNode))
-                doCases(caseData, nodeType, curNode, None)
+                doCases(caseData, nodeType, curNode)
                 context.pop()
 
     def doComments(thing, thingType):

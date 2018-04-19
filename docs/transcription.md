@@ -8,9 +8,7 @@ Here you find a description of the transcriptions of the Uruk corpora, the
 Text-Fabric model in general, and the node types, features and edges for the
 Uruk corpora in particular.
 
-See also
-[about](about.md)
-[text-fabric](textfabric.md)
+See also [about](about.md) [text-fabric](textfabric.md)
 
 Conversion from ATF to TF
 -------------------------
@@ -126,8 +124,8 @@ numbered with a hierarchical number.
 feature | values | in ATF | description
 ------- | ------ | ------ | -----------
 **crossref** | `Q000026.007` | `>>Q000026 007` crossreference to *tablet*.*line* in same or other corpus | 
-**fullNumber** | `1` `1a` `1b1` | `1.` `1.a.` `1.b1.` | hierarchical number of a [*case*](#case); present on each transcription [*line*](#line) with text material
-**number** | `a` `1` |  | relative number of a [*case*](#case) within its containing case or lin column; see also **fullNumber**
+**number** | `1` `1a` `1b1` | `1.` `1.a.` `1.b1.` | hierarchical number of a [*case*](#case); present on each transcription [*line*](#line) with text material
+**terminal** | `1` |  | if the case is subdivided into subcases it is `1`, otherwise the feature is absent
 origNumber | `1` |  | original number of a [*case*](#case) if there were conversion issues; see also **badNumbering**; not in final dataset
 **prime** | `1.c'. N? , X` | whether a case number has a prime `'` | 
 **srcLn** |  |  | the literal text in the transcription at the start of the object; see [source data](#source-data)
@@ -141,12 +139,21 @@ Node type [*line*](#line)
 -------------------------
 
 Subdivision of a containing [*column*](#column) or [*face*](#face). Lines maybe
-divided in [*cases*](#case); if there is no subdivision. There is a single
-[*case*](#case) as big as the line.
+divided in [*cases*](#case); if there is no subdivision, the line has no cases.
 
 feature | values | in ATF | description
 ------- | ------ | ------ | -----------
-**number** | `1` |  | relative number of a [*line*](#line) within its containing column; see also **fullNumber**.
+**number** | `1` | number of the [*line*](#line) in its column | 
+**terminal** | `1` |  | if the line is subdivided into subcases it is `1`, otherwise the feature is absent
+
+The following features are only present if the line is undivided, i.e. if it
+corresponds with a single line in ATF, i.e. if **terminal** is absent:
+
+feature | values | in ATF | description
+------- | ------ | ------ | -----------
+**prime** | `1'` | whether a line number has a prime `'` | 
+**srcLn** |  |  | the literal text in the transcription at the start of the object; see [source data](#source-data)
+**srcLnNum** |  |  | the line number of the transcription line at the start of the object; see [source data](#source-data)
 
 Node type [*comment*](#comment)
 -------------------------------
@@ -594,8 +601,9 @@ clusters to embedded clusters.
 Case
 ----
 
-A numbered transcription line corresponds to a *case*. A sequence of
-[*quads*](#quad) forms a case.
+A numbered transcription line corresponds to a divided line on a tablet, which
+we call a *case*, or to an undivided *line*. A sequence of [*quads*](#quad)
+forms a case or undivided line.
 
 Cases represent rectangular blocks on a [*tablet*].
 
@@ -614,8 +622,8 @@ If the numbers show deeper hierarchy, we build up cases. Cases with numbers
 two *cases*: one with number `1a`, containing cases `1a1` and `1a2`, and one
 with number `1b`, containing just case `1b`.
 
-If a [*line*](#line) is not subdivided in multiple cases, we still say that the
-line contains one case.
+If a [*line*](#line) is not subdivided in multiple cases, the line does not
+contain cases.
 
 This is an example *case*.
 
@@ -631,11 +639,14 @@ the hierarchical number. In the presence of a prime anywhere, we add to the
 [*line*](#line) a feature **prime** with value `1`. We do not strip any prime
 from the number.
 
-We store the full hierarchical number of the "terminal" *cases* (the ones
-without sub-*cases*) in the feature **fullNumber**.
+We store the full hierarchical number of the *cases* (the ones without
+sub-*cases*) in the feature **number**.
 
-We store the individual number parts in the feature **number**. These are the
-parts that distinguish the sub-*cases* within their containing *case*.
+If a case is terminal, i.e. undivided, we give it a feature **terminal** with
+value `1`, otherwise we do not assign the feature **terminal**.
+
+If a case is non-terminal, its number is the maximal prefix of the numbers
+of all its terminal sub(sub...)-cases.
 
 ### Bad numbering ###
 
@@ -650,10 +661,8 @@ Sometimes a column is badly numbered. These are the things that might occur:
     line
 4.  lines without numbers
 
-Examples can be found in the
-[diagnostics](../reports/diagnostics.tsv)
-produced by the conversion
-[tfFromAtf](../programs/tfFromAtf.tsv)
+Examples can be found in the [diagnostics](../reports/diagnostics.tsv) produced
+by the conversion [tfFromAtf](../programs/tfFromAtf.tsv)
 
 This is how the conversion responds to these issues:
 
@@ -764,8 +773,8 @@ we get the object to which *comment* `c` is targeted.
 Line
 ----
 
-A node of type *line* corresponds to all [*cases*](#case) whose numbers start
-with the same decimal number.
+A node of type *line* corresponds to an undivided line or to all
+[*cases*](#case) whose numbers start with the same decimal number.
 
 **This node type is section level 3.**
 
@@ -774,6 +783,10 @@ proceed as if we have seen a `@column 0`.
 
 The **number** of a line is always a single number, without a hierarchical
 structure.
+
+If a line is terminal, i.e. undivided, we give it a feature **terminal** with
+value `1`, otherwise we do not assign the feature **terminal**.
+
 
 Column
 ------
