@@ -125,7 +125,7 @@ feature | values | in ATF | description
 ------- | ------ | ------ | -----------
 **crossref** | `Q000026.007` | `>>Q000026 007` crossreference to *tablet*.*line* in same or other corpus | 
 **number** | `1` `1a` `1b1` | `1.` `1.a.` `1.b1.` | hierarchical number of a [*case*](#case); present on each transcription [*line*](#line) with text material
-**terminal** | `1` |  | if the case is subdivided into subcases it is `1`, otherwise the feature is absent
+**terminal** | `1` |  | if the case is not subdivided into subcases it is `1`, otherwise the feature is absent
 origNumber | `1` |  | original number of a [*case*](#case) if there were conversion issues; see also **badNumbering**; not in final dataset
 **prime** | `1.c'. N? , X` | whether a case number has a prime `'` | 
 **srcLn** |  |  | the literal text in the transcription at the start of the object; see [source data](#source-data)
@@ -144,7 +144,7 @@ divided in [*cases*](#case); if there is no subdivision, the line has no cases.
 feature | values | in ATF | description
 ------- | ------ | ------ | -----------
 **number** | `1` | number of the [*line*](#line) in its column | 
-**terminal** | `1` |  | if the line is subdivided into subcases it is `1`, otherwise the feature is absent
+**terminal** | `1` |  | if the line is not subdivided into subcases it is `1`, otherwise the feature is absent
 
 The following features are only present if the line is undivided, i.e. if it
 corresponds with a single line in ATF, i.e. if **terminal** is absent:
