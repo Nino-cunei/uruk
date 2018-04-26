@@ -1229,10 +1229,10 @@ def putInCases(lines, curTablet):
             numParts = numPartsPat.findall(line['number'])
             if len(numParts):
                 target = cases
-                for numPart in numParts[0:-1]:
+                for (i, numPart) in enumerate(numParts[0:-1]):
                     reshapeTarget(target, curTablet)
                     target = target.setdefault(
-                        numPart, collections.OrderedDict()
+                        ''.join(numParts[0:i+1]), collections.OrderedDict()
                     )
                 lastPart = ''.join(numParts)
                 reshapeTarget(target, curTablet)
