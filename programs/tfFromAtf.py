@@ -1122,6 +1122,8 @@ def transformQuad(quads, p):
                     if len(base) >= 2:
                         if base[0] == 'N' and base[1].isdecimal():
                             signData['type'] = 'numeral'
+                    elif base == 'N':
+                        signData['type'] = 'numeral'
                     elif base == '…':
                         signData['type'] = 'ellipsis'
                     elif base == 'X':
