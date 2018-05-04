@@ -247,6 +247,7 @@ numFeatures = set(
     '''
     badNumbering
     damage
+    depth
     prime
     remarkable
     repeat
@@ -1404,12 +1405,12 @@ def makeTf(tablets):
             nodeFeatures['number'][(nodeType, curNode)] = lineNum
             context.append((nodeType, curNode))
             if 'material' in lineData:
-                doTerminalCase(lineData, 'line', curNode)
+                doTerminalCase(lineData, 'line', curNode, 0)
             else:
-                doCases(lineData, 'line', curNode)
+                doCases(lineData, 'line', curNode, 0)
             context.pop()
 
-    def doTerminalCase(caseData, nodeType, curNode):
+    def doTerminalCase(caseData, nodeType, curNode, level):
         for ft in '''
             crossref
             origNumber
@@ -1420,25 +1421,28 @@ def makeTf(tablets):
             if ft in caseData:
                 nodeFeatures[ft][(nodeType, curNode)] = caseData[ft]
         nodeFeatures['terminal'][(nodeType, curNode)] = 1
+        if nodeType == 'case':
+            nodeFeatures['depth'][(nodeType, curNode)] = level
         material = caseData.get('material', {})
         doComments(caseData, nodeType)
         hasQuads = doClusters(material)
         if not material or not hasQuads:
             doEmptySign()
 
-    def doCases(cases, parentType, parentNode):
+    def doCases(cases, parentType, parentNode, parentLevel):
         nodeType = 'case'
         if 'material' in cases:
-            doTerminalCase(cases, parentType, parentNode)
+            doTerminalCase(cases, parentType, parentNode, parentLevel)
         else:
             for (caseNr, caseData) in cases.items():
                 cur[nodeType] += 1
                 curNode = cur[nodeType]
                 nodeFeatures['number'][(nodeType, curNode)] = caseNr
+                nodeFeatures['depth'][(nodeType, curNode)] = parentLevel + 1
                 edgeFeatures['sub'][(parentType,
                                      parentNode)].add((nodeType, curNode))
                 context.append((nodeType, curNode))
-                doCases(caseData, nodeType, curNode)
+                doCases(caseData, nodeType, curNode, parentLevel + 1)
                 context.pop()
 
     def doComments(thing, thingType):

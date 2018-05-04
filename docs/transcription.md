@@ -126,6 +126,7 @@ feature | values | in ATF | description
 **crossref** | `Q000026.007` | `>>Q000026 007` crossreference to *tablet*.*line* in same or other corpus | 
 **number** | `1` `1a` `1b1` | `1.` `1.a.` `1.b1.` | hierarchical number of a [*case*](#case); present on each transcription [*line*](#line) with text material
 **terminal** | `1` |  | if the case is not subdivided into subcases it is `1`, otherwise the feature is absent
+**depth** | `1` `2` `3` | the level of subdividing at which this case is found. Top-level cases have level 1
 origNumber | `1` |  | original number of a [*case*](#case) if there were conversion issues; see also **badNumbering**; not in final dataset
 **prime** | `1.c'. N? , X` | whether a case number has a prime `'` | 
 **srcLn** |  |  | the literal text in the transcription at the start of the object; see [source data](#source-data)
@@ -609,6 +610,9 @@ Cases represent rectangular blocks on a [*tablet*].
 
 Those cases may be grouped into bigger *cases*, and ultimately they are grouped
 in [*lines*](#line), based on their number.
+
+The **depth** of a case is the level of case-nesting at which the case is found.
+Top-level cases have level `0`, their immediate subcases have level `1`, and so on.
 
 All cases in a [*line*](#line) (see below) that start with the same number, form
 a bigger *case*. The number itself is recorded in the feature **number**.
