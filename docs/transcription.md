@@ -16,7 +16,7 @@ Conversion from ATF to TF
 Below is a description of tablet transcriptions in
 [ATF](http://oracc.museum.upenn.edu/doc/help/editinginatf/primer/inlinetutorial/index.html)
 and an account how we transform them into
-[Text-Fabric](https://github.com/Dans-labs/text-fabric/wiki) format by means of
+[Text-Fabric](https://dans-labs.github.io/text-fabric/) format by means of
 [tfFromAtf.py](../programs/tfFromAtf.py).
 
 The Text-Fabric model views the text as a series of atomic units, called
@@ -28,9 +28,9 @@ this corpus we have node types for: [*sign*](#sign), [*quad*](#quad),
 [*column*](#column), [*face*](#face), [*tablet*](#tablet),
 
 The type of every node is given by the feature
-[**otype**](https://github.com/Dans-labs/text-fabric/wiki/Api#warp-feature-otype).
+[**otype**](https://dans-labs.github.io/text-fabric/Api/General/#node-features).
 Every node is linked to a subset of slots by
-[**oslots**](https://github.com/Dans-labs/text-fabric/wiki/Api#warp-feature-oslots).
+[**oslots**](https://dans-labs.github.io/text-fabric/Api/General/#edge-features).
 
 Nodes can be related by means of edges.
 
@@ -42,9 +42,9 @@ Text-Fabric supports three customizable section levels. In this corpus they are
 Other docs
 ----------
 
-[Text-Fabric API](https://github.com/Dans-labs/text-fabric/wiki/Api)
+[Text-Fabric API](https://dans-labs.github.io/text-fabric/Api/General/)
 
-[Cunei API](cunei.md)
+[Cunei API](https://dans-labs.github.io/text-fabric/Api/Cunei/)
 
 [Utils API](utils.md)
 
