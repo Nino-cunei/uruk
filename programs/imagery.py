@@ -13,9 +13,13 @@ commands:
 
     tablets: transforms tablet lineart eps to jpg
     ideographs: crops ideograph lineart from jpg to jpg
+    ideonames: rename ideograph files to make them compatible with windows
     photos: decreases the size of the jpegs of the tablets
     scrape: scrape tablet photos from cdli
 
+ideonames should be run after all image operations have succeeded.
+It will rename filenames by replacing the | | at the beginning and the end
+by [ ]
 '''
 
 SOURCE = 'uruk'
@@ -158,6 +162,36 @@ def doImages(
     sys.stderr.write('\n')
 
 
+def doNames(
+    targetDir, targetExt
+):
+  renamed = 0
+  kept = 0
+  remaining = 0
+  for (dirPath, dirNames, fileNames) in os.walk(targetDir):
+    for fileName in fileNames:
+      (base, ext) = os.path.splitext(fileName)
+      ext = ext.lstrip('.')
+      if ext != targetExt:
+          continue
+      newBase = base
+      if base.startswith('|'):
+        newBase = '[' + newBase[1:]
+      if base.endswith('|'):
+        newBase = newBase[0:-1] + ']'
+      if newBase != base:
+        renamed += 1
+        os.rename(f'{dirPath}/{fileName}', f'{dirPath}/{newBase}.{targetExt}')
+      else:
+        kept += 1
+      if '|' in newBase:
+        remaining += 1
+        print(f'| in file name: {dirPath}/{fileName}')
+  print(f'{renamed:>4} renamed')
+  print(f'{kept:>4} unchanged')
+  print(f'{remaining:>4} with remaining | in the name')
+
+
 if len(sys.argv) <= 1:
     print(help)
 command = sys.argv[1]
@@ -178,6 +212,11 @@ elif command == 'ideographs':
     doImages(
         IDEO_FROM, IDEO_TO, IDEO_COMMAND, IDEO_OPTIONS_IN, IDEO_OPTIONS_OUT,
         command, *IDEO_EXT
+    )
+elif command == 'ideonames':
+    doNames(
+        IDEO_TO,
+        IDEO_EXT[1]
     )
 else:
     print(help)
