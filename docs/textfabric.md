@@ -1,4 +1,4 @@
-<img src="images/tf.png" align="right" width="20%"/>
+<img src="images/tf-small.png" align="right" width="20%"/>
 <img src="images/dans.png" align="right" width="20%"/>
 
 Text-Fabric
