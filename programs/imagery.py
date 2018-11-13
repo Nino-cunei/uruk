@@ -36,7 +36,7 @@ CDLI_URL = 'https://cdli.ucla.edu/dl/photo'
 # reduction in filesize by lowering jpg quality
 #
 PHOTO_FROM = f'{REPO_DIR}/_downloads/cdli_photos'
-PHOTO_TO = f'{REPO_DIR}/sources/cdli/images/tablets/photos'
+PHOTO_TO = f'{REPO_DIR}/sources/cdli/images/{VERSION}/tablets/photos'
 PHOTO_COMMAND = '/usr/local/bin/magick'
 PHOTO_OPTIONS_IN = []
 PHOTO_OPTIONS_OUT = ['-quality', PHOTO_QUALITY]
@@ -58,7 +58,7 @@ PHOTO_EXT = ('jpg', 'jpg')
 # normal resolution, reasonable jpg quality
 #
 TABLET_FROM = f'{REPO_DIR}/_downloads/cdli_epstextcopies'
-TABLET_TO = f'{REPO_DIR}/sources/cdli/images/tablets/lineart'
+TABLET_TO = f'{REPO_DIR}/sources/cdli/images/{VERSION}/tablets/lineart'
 TABLET_COMMAND = '/usr/local/bin/magick'
 TABLET_OPTIONS_IN = ['-density', LINEART_DENSITY]
 TABLET_OPTIONS_OUT = ['-quality', LINEART_QUALITY]
@@ -69,7 +69,7 @@ TABLET_EXT = ('eps', 'jpg')
 # all ideographs will be cropped
 #
 IDEO_FROM = f'{REPO_DIR}/_downloads/archsignfiles_jpg'
-IDEO_TO = f'{REPO_DIR}/sources/cdli/images/ideographs/lineart'
+IDEO_TO = f'{REPO_DIR}/sources/cdli/images/{VERSION}/ideographs/lineart'
 IDEO_COMMAND = '/usr/local/bin/magick'
 IDEO_OPTIONS_IN = []
 IDEO_OPTIONS_OUT = ['-trim', '+repage']
