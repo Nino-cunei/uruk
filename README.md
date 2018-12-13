@@ -1,7 +1,7 @@
 <div>
 <img src="docs/images/logo.png" align="left" width="300"/>
 <img src="docs/images/ninologo.png" align="right" width="200"/>
-<img src="docs/images/tf.png" align="right" width="100"/>
+<img src="docs/images/tf.png" align="right" width="200"/>
 <img src="docs/images/dans.png" align="right" width="100"/>
 </div>
 
