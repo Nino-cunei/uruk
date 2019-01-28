@@ -39,7 +39,7 @@ Getting started
 ===============
 
 Start with the
-[tutorial](http://nbviewer.jupyter.org/github/Nino-cunei/tutorials/blob/master/start.ipynb).
+[tutorial](https://nbviewer.jupyter.org/github/annotation/tutorials/blob/master/uruk/start.ipynb).
 
 Authors
 =======
