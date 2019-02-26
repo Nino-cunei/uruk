@@ -360,14 +360,14 @@ TWEAK_MATERIAL01 = (
 TWEAK_MATERIAL02 = (('|)~a', '|)a'), )
 TWEAK_MATERIAL = ()
 
-linePat = re.compile("([0-9a-zA-Z.'-]+)\s*(.*)")
+linePat = re.compile(r'''([0-9a-zA-Z.'-]+)\s*(.*)''')
 numPartsPat = re.compile('([0-9-]+|[a-zA-Z]+)')
 
-stripCommas = re.compile('\s*,\s*')
-repeatEscapePat = re.compile("([0-9N]+)\(([A-Za-z0-9@'~]+)\)")
+stripCommas = re.compile(r'''\s*,\s*''')
+repeatEscapePat = re.compile(r'''([0-9N]+)\(([A-Za-z0-9@'~]+)\)''')
 repeatPat = re.compile('^«([^=]*)=([^»]*)»$')
 
-writtenEscapePat = re.compile('!\(([^)]*)\)')
+writtenEscapePat = re.compile(r'''!\(([^)]*)\)''')
 writtenRestorePat = re.compile('!◀([^▶]*)▶')
 
 flagsPat = re.compile('^(.*)((?:!◀[^▶]*▶)|[!#?*])$')
@@ -1235,7 +1235,7 @@ def putInCases(lines, curTablet):
                 for (i, numPart) in enumerate(numParts[0:-1]):
                     reshapeTarget(target, curTablet)
                     target = target.setdefault(
-                        ''.join(numParts[0:i+1]), collections.OrderedDict()
+                        ''.join(numParts[0:i + 1]), collections.OrderedDict()
                     )
                 lastPart = ''.join(numParts)
                 reshapeTarget(target, curTablet)
