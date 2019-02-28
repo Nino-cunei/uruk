@@ -35,6 +35,9 @@ We have chosen the
 (4000-3100 BC) as a starting corpus for testing our approach. This is
 *proto-cuneiform* corpus of ca. 6000 tablets.
 
+The second corpus we have brought into Text-Fabric is the 
+[Old Babylonian Letters](https://github.com/Nino-cunei/oldbabylonian/blob/master/docs/about.md).
+
 Provenance
 ----------
 
