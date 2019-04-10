@@ -8,6 +8,8 @@
 Nino-cunei
 ==========
 
+[![sha](sha.png) Software Heritage Archive](https://archive.softwareheritage.org/browse/origin/https://github.com/nino-cunei/uruk/)
+
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.1193842.svg)](https://doi.org/10.5281/zenodo.1193841)
 
 Proto-cuneiform corpora in Text-Fabric
