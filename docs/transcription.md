@@ -16,7 +16,7 @@ Conversion from ATF to TF
 Below is a description of tablet transcriptions in
 [ATF](http://oracc.museum.upenn.edu/doc/help/editinginatf/primer/inlinetutorial/index.html)
 and an account how we transform them into
-[Text-Fabric](https://annotation.github.io/text-fabric/) format by means of
+[Text-Fabric](https://annotation.github.io/text-fabric/tf) format by means of
 [tfFromAtf.py](../programs/tfFromAtf.py).
 
 The Text-Fabric model views the text as a series of atomic units, called
@@ -28,9 +28,9 @@ this corpus we have node types for: [*sign*](#sign), [*quad*](#quad),
 [*column*](#column), [*face*](#face), [*tablet*](#tablet),
 
 The type of every node is given by the feature
-[**otype**](https://annotation.github.io/text-fabric/Api/Features/#node-features).
+[**otype**](https://annotation.github.io/text-fabric/tf/cheatsheet.html#special-node-feature-otype).
 Every node is linked to a subset of slots by
-[**oslots**](https://annotation.github.io/text-fabric/Api/Features/#edge-features).
+[**oslots**](https://annotation.github.io/text-fabric/tf/cheatsheet.html#special-edge-feature-oslots).
 
 Nodes can be related by means of edges.
 
@@ -42,7 +42,7 @@ Text-Fabric supports three customizable section levels. In this corpus they are
 Other docs
 ----------
 
-[Text-Fabric API](https://annotation.github.io/text-fabric)
+[Text-Fabric API](https://annotation.github.io/text-fabric/tf/cheatsheet.html)
 
 [Uruk API](https://annotation.github.io/app-uruk/blob/master/api.md)
 
