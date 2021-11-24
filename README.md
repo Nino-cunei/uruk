@@ -5,22 +5,19 @@
 <img src="docs/images/dans.png" align="right" width="100"/>
 </div>
 
-Nino-cunei
-==========
+# Nino-cunei
 
 [![SWH](https://archive.softwareheritage.org/badge/origin/https://github.com/nino-cunei/uruk/)](https://archive.softwareheritage.org/browse/origin/https://github.com/nino-cunei/uruk/)
 [![sha](sha.png) Software Heritage Archive](https://archive.softwareheritage.org/browse/origin/https://github.com/nino-cunei/uruk/)
-
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.1193842.svg)](https://doi.org/10.5281/zenodo.1193841)
+[![Project Status: Active – The project has reached a stable, usable state and is being actively developed.](https://www.repostatus.org/badges/latest/active.svg)](https://www.repostatus.org/#active)
 
-Proto-cuneiform corpora in Text-Fabric
---------------------------------------
+# Proto-cuneiform corpora in Text-Fabric
 
 This repo is a research environment for the study of cuneiform tablets. You can
 run your own programs off-line, and publish your work in online notebooks.
 
-Corpus
-------
+# Corpus
 
 This repo contains images and transliterations of Uruk IV-III tablets (4000-3100
 BC).
@@ -30,26 +27,21 @@ Library Initiative.
 
 See also [about](docs/about.md) and [images](docs/images.md)
 
-Software
---------
+# Software
 
 The main processing tool is [Text-Fabric](docs/textfabric.md). It is instrumental to
 turn the analysis of ancient data into computing narratives.
 
 The ecosystem is Python and Jupyter notebooks.
 
-Getting started
-===============
+# Getting started
 
 Start with the
 [tutorial](https://nbviewer.jupyter.org/github/annotation/tutorials/blob/master/uruk/start.ipynb).
 
-Authors
-=======
+# Authors
 
-This repo is joint work of
-
-*   [Dirk Roorda](https://www.linkedin.com/in/dirkroorda/) at
+*   [Dirk Roorda](https://github.com/dirkroorda) at
     [DANS](https://www.dans.knaw.nl)
 *   [J. Cale Johnson](https://www.universiteitleiden.nl/en/staffmembers/cale-johnson#tab-1)
     at
@@ -58,10 +50,7 @@ This repo is joint work of
 **N.B.:** Releases of this repo have been archived at [Zenodo](https://zenodo.org).
 Click the DOI badge to be taken to the archive. There you find ways to cite this work.
 
-Status
-------
-
-This is **work in progress!**
+# Status
 
 *   2018-03-07 More pleasant functions to call up imagery. Improvements in docs.
     Archived at Zenodo.
