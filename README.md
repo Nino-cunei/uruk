@@ -37,7 +37,13 @@ The ecosystem is Python and Jupyter notebooks.
 # Getting started
 
 Start with the
-[tutorial](https://nbviewer.jupyter.org/github/annotation/tutorials/blob/master/uruk/start.ipynb).
+[tutorial](https://nbviewer.jupyter.org/github/Nino-cunei/uruk/blob/master/tutorial/start.ipynb).
+
+This app also contains [machinery](docs/api.md) to deal with
+[ATF](http://oracc.museum.upenn.edu/doc/help/editinginatf/primer/inlinetutorial/index.html)
+transcriptions and
+[CDLI](https://cdli.ucla.edu)
+photos and lineart.
 
 # Authors
 

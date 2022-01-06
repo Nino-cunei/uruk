@@ -1,0 +1,115 @@
+apiVersion: 3
+dataDisplay:
+  browseContentPretty: true
+  browseNavLevel: 1
+  showVerseInTuple: true
+docs:
+  docPage: about
+  featureBase: '{docBase}/transcription{docExt}'
+  featurePage: ''
+interfaceDefaults:
+  standardFeatures: true
+  lineNumbers: false
+  showGraphics: true
+provenanceSpec:
+  corpus: 'Uruk IV/III: Proto-cuneiform tablets '
+  doi: 10.5281/zenodo.1193841
+  graphicsRelative: sources/cdli/images
+  relative: tf/uruk
+  version: '1.0'
+  webBase: https://cdli.ucla.edu
+  webHint: to CDLI main page for this tablet
+  webUrl: '{webBase}/search/search_results.php?SearchMode=Text&ObjectID=<1>'
+typeDisplay:
+  case:
+    children:
+    - cluster
+    - comment
+    - quad
+    - sign
+    flow: hor
+    label: '{number}{prime}'
+    level: 2
+    lineNumber: srcLnNum
+    stretch: false
+    template: '{number}{prime}'
+    transform:
+      prime: prime
+    wrap: false
+  cluster:
+    children:
+    - cluster
+    - quad
+    - sign
+    label: '{type}'
+    template: '{type}'
+    stretch: false
+    transform:
+      type: ctype
+  column:
+    children:
+    - comment
+    - line
+    flow: ver
+    isBig: true
+    level: 3
+    label: '{number}{prime}'
+    lineNumber: srcLnNum
+    transform:
+      prime: prime
+  comment:
+    featuresBare: text
+    label: '{type}'
+    lineNumber: srcLnNum
+    base: true
+  face:
+    children:
+    - column
+    - comment
+    featuresBare: identifier fragment
+    flow: hor
+    isBig: true
+    label: '{type}'
+    lineNumber: srcLnNum
+    stretch: false
+    template: '{type}'
+    wrap: false
+  line:
+    children:
+    - case
+    - cluster
+    - comment
+    - quad
+    - sign
+    flow: hor
+    label: '{number}'
+    level: 2
+    lineNumber: srcLnNum
+    stretch: false
+    transform:
+      prime: prime
+    wrap: false
+  quad:
+    children:
+    - cluster
+    - quad
+    - sign
+    graphics: true
+    stretch: false
+  sign:
+    base: true
+    label: "{atf}"
+    graphics: true
+    transform:
+      atf: atf
+  tablet:
+    children:
+    - comment
+    - face
+    condense: true
+    featuresBare: name period excavation
+    flow: ver
+    isBig: true
+    lineNumber: srcLnNum
+    stretch: false
+    wrap: false
