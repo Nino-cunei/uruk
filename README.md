@@ -56,6 +56,14 @@ photos and lineart.
 **N.B.:** Releases of this repo have been archived at [Zenodo](https://zenodo.org).
 Click the DOI badge to be taken to the archive. There you find ways to cite this work.
 
+# Permissions
+
+The software in this repo is Open Source, as per the MIT license.
+The data (text and images of the Uruk tablets) have been derived from CDLI.
+If you use them, take care to acknowledge them, which you can do by citing this
+repository by means of its DOI at Zenodo, or its URL at the Software Heritage Archive
+(see the badges above).
+
 # Status
 
 *   2018-03-07 More pleasant functions to call up imagery. Improvements in docs.
