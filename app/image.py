@@ -7,6 +7,7 @@ from tf.core.helpers import console
 from tf.advanced.helpers import dh
 from tf.advanced.links import outLink
 from tf.advanced.repo import checkoutRepo
+from tf.core.timestamp import AUTO, TERSE, VERBOSE
 
 LOCAL_IMAGE_DIR = "cdli-imagery"
 
@@ -268,6 +269,7 @@ def getImagery(app, silent, checkout=""):
     graphicsRelative = aContext.graphicsRelative
 
     (imageRelease, imageCommit, imageLocal, imageBase, imageDir) = checkoutRepo(
+        app.backend,
         app._browse,
         org=org,
         repo=repo,
@@ -313,7 +315,7 @@ def getImagery(app, silent, checkout=""):
                 key = ""
             images.setdefault(identifier, {})[key] = filePath
         app._imagery.setdefault(objectType, {})[kind] = images
-        if not silent:
+        if silent in {VERBOSE, AUTO, TERSE}:
             dh(f"Found {len(images)} {objectType} {kind}s<br>")
 
 
