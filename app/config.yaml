@@ -15,7 +15,6 @@ provenanceSpec:
   corpus: 'Uruk IV/III: Proto-cuneiform tablets '
   doi: 10.5281/zenodo.1193841
   graphicsRelative: sources/cdli/images
-  relative: tf/uruk
   version: '1.0'
   webBase: https://cdli.ucla.edu
   webHint: to CDLI main page for this tablet
