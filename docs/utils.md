@@ -1,7 +1,7 @@
 <img src="images/tf.png" align="right" width="200"/>
 <img src="images/dans.png" align="right" width="200"/>
 
-Utils API
+Utility API
 =========
 
 About
@@ -32,7 +32,7 @@ from utils import Compare
 ```
 
 In order to use it, you have to instantiate the `Compare` object by passing it
-the api of Text-Fabric:
+the API of Text-Fabric:
 
 ```python
 SOURCE = 'uruk'
@@ -46,7 +46,7 @@ COMP = Compare(api, SOURCE_DIR, TEMP_DIR)
 Usage
 -----
 
-Now you can call the methods of *utils*, as follows. One of the methods is
+Now you can call the methods of `utils`, as follows. One of the methods is
 `getSource(node)`. To call it, say
 
 ```python
@@ -56,13 +56,13 @@ sourceLines = COMP.getSource(tablet)
 API
 ---
 
-### readCorpora ###
+### `readCorpora` ###
 
 Read the ATF files from the `SOURCE_DIR`.
 
 **Yields**
 
-*   Transcription lines from the source files, in a succesion of tuples
+*   Transcription lines from the source files, in a succession of tuples
     `(periodName, tabletName, lineNumber, lineString, isSkipping)`.
 
 The period name is taken from the file name. For this corpus it will be either
@@ -75,14 +75,14 @@ but with `isSkipping` set to `False`. In all other cases, `isSkipping` is
 
 The resulting `line`-s have their newlines already stripped.
 
-### checkSanity ###
+### `checkSanity` ###
 
 Given a function to *grep* material from the source lines of the corpus, and a
 function to grab material from the TF version of the corpus, we will conduct a
 comparison, and report differences. We show a table of the *GREP* material
 alongside a table of the *TF* material, up to the first difference. Both tables
 have several columns. They always have columns containing positioning
-information (period, tabletName, sourceLineNumber), and they may have additional
+information `(period, tabletName, sourceLineNumber)`, and they may have additional
 custom columns, depending on what material has been grabbed.
 
 A number of rows leading up to the first difference, and a number of rows after
@@ -96,14 +96,14 @@ same sequence, at the same locations.
 **Takes**
 
 *   `headers` a list of names for the custom columns of data;
-*   `grepFunc` a function that *greps* the lines of the corpus and delivers the
+*   `grepFunc` a function that `greps` the lines of the corpus and delivers the
     matched lines as a tuple of fields;
 *   `tfFunc` a function that walks the nodes of the TF dataset and delivers
     information found at selected nodes as a tuple of fields;
 *   `leeway=0` sometimes the exact line number for things is lost in TF. `tfFunc`
     may guess the line number, but it might be a bit off. By setting `leeway` to a
     positive value, differences in line numbers smaller than that value will not
-    lead to a nagative comparison result;
+    lead to a negative comparison result;
 
 **Returns**
 

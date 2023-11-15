@@ -28,8 +28,8 @@ Obtaining
 ---------
 
 We scraped the tablet photos from CDLI, by means of code in
-[imagery.py](../programs/imagery.py). Essentiall, we filled in the P-number of
-all tablets in our corpus into this url:
+[imagery.py](../programs/imagery.py). Essentially, we filled in the P-number of
+all tablets in our corpus into this URL:
 `https://cdli.ucla.edu/dl/photo/`*P-number*`.jpg`
 
 We downloaded the lineart files from CDLI
@@ -39,9 +39,9 @@ optimal usage in GitHub repositories and Jupyter notebooks.
 Here are the links we used:
 
 *   lineart for tablets:
-    [Postscript files, cdli texts](https://cdli.ucla.edu/tools/cdlifiles/cdli_epstextcopies.zip)
+    [Postscript files, CDLI texts](https://cdli.ucla.edu/tools/cdlifiles/cdli_epstextcopies.zip)
 *   lineart for ideographs and numerals:
-    [Proto-cuneiform signs: 300ppi jpg](https://cdli.ucla.edu/tools/cdlifiles/signlists/archsignfiles_jpg.zip)
+    [Proto-cuneiform signs: 300ppi JPG](https://cdli.ucla.edu/tools/cdlifiles/signlists/archsignfiles_jpg.zip)
 
 <img src="images/ninologo.png" align="right" width="20%"/>
 
@@ -49,30 +49,36 @@ Processing
 ----------
 
 The tablet photos came as JPG files in reasonable quality and size: ca 400KB per
-tablet. We have donwsized all photos by decreasing the JPEG quality to 30%, by
+tablet. We have downsized all photos by decreasing the JPEG quality to 30%, by
 means of [ImageMagick](https://www.imagemagick.org/script/index.php):
 
-    magick original.jpg -quality 30% lowres.jpg
+```
+magick original.jpg -quality 30% lowres.jpg
+```
 
-The tablet lineart came as EPS files. We transformed them with Imagemagick to
+The tablet lineart came as EPS files. We transformed them with ImageMagick to
 JPG.
 
 This was the command:
 
-    magick -density 300x300 image.eps -quality 50% image.pdf
+```
+magick -density 300x300 image.eps -quality 50% image.pdf
+```
 
-For the ideographs and numerals we used the jpg versions on CDLI. But we needed
+For the ideographs and numerals we used the JPG versions on CDLI. But we needed
 to crop them, because especially the numerals were little drawings on a page
 size canvas. We cropped automatically by means of ImageMagick:
 
-    magick original.jpg -trim +repage cropped.jpg
+```
+magick original.jpg -trim +repage cropped.jpg
+```
 
 Management
 ----------
 
 We have:
 
-objectType | kind | amount | size
+object type | kind | amount | size
 ---------- | ---- | ------ | ----
 ideograph | lineart | 2000 | 60 MB
 tablet | lineart | 2700 | 250 MB
@@ -111,7 +117,7 @@ notebook, and from there the image will be included.
 
 ### PDF images ###
 
-Images of type *pdf* do not behave well when the notebook is shown on GitHub.
+Images of type PDF do not behave well when the notebook is shown on GitHub.
 They do show well when the notebook is rendered from GitHub by the website
 [NBViewer](http://nbviewer.jupyter.org/github/Nino-cunei/). But NBViewer has
 other problems with images.
@@ -124,7 +130,7 @@ At the end of the day, this left us with one viable strategy: convert all EPS
 upfront to JPG.
 
 The alternative, to do the copying on-the-fly, from within the notebook, is less
-attractive, because the users must have Imagemagick installed. That is an extra
+attractive, because the users must have ImageMagick installed. That is an extra
 hurdle for users.
 
 ### File names ###

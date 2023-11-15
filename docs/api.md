@@ -43,8 +43,8 @@ ATF source should be displayed.
 
 ## Generate ATF
 
-Signs and quads and clusters can be represented by an ascii string,
-in the so-called Ascii Text Format,
+Signs and quads and clusters can be represented by an ASCII string,
+in the so-called ASCII Text Format,
 [ATF]({{oracc}}/editinginatf/primer/inlinetutorial/index.html).
 
 We provide a bunch of function that, given a node, generate the appropriate ATF
@@ -166,7 +166,7 @@ Text-Fabric supports 3 section levels in general.
 The Uruk corpus uses them for *tablets*, *columns* and *lines*.
 
 But lines may be divided in cases and subcases, which are also numbered.
-We need to mimick some functions of the Text-Fabric `T` Api for sections,
+We need to mimic some functions of the Text-Fabric `T` Api for sections,
 so that we can retrieve cases more easily.
 
 ## Consider search
@@ -193,7 +193,7 @@ of Text-Fabric.
 ### case specification
 This function takes a single argument which must be
 a tuple
-(*tabletNumber*, *face*:*columnNumber*, *hierarchical-line-number*).
+`(tabletNumber, face:columnNumber, hierarchical-line-number)`.
 
 ### dots
 The hierarchical number may contain the original `.` that they
@@ -219,7 +219,7 @@ of Text-Fabric.
 
 ### case specification
 A case specification is a tuple
-(*tabletNumber*, *face*:*columnNumber*, *hierarchical-line-number*).
+`(tabletNumber, face:columnNumber, hierarchical-line-number)`.
 The hierarchical line number will not contain dots.
 
 ### node

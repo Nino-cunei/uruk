@@ -85,7 +85,7 @@ repository by means of its DOI at Zenodo, or its URL at the Software Heritage Ar
     TF-API and most traits of the data in the Uruk corpus.
 *   2018-02-23 The TF data has been rigorously checked. All aspects of the
     encoding into ATF can be reproduced exactly from the TF source.
-*   2018-02-14 Text-Fabric data generated, but not throughly tested. A very basic
+*   2018-02-14 Text-Fabric data generated, but not thoroughly tested. A very basic
     [start](https://github.com/Nino-cunei/tutorials/blob/master/start.ipynb)
     tutorial notebook.
 *   2018-02-09 Conversion coding has just started. We only parse supra-line units.
